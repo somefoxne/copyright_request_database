@@ -1,16 +1,1 @@
-# ==============================================================================
-# COPYRIGHT REQUEST DATABASE
-# ==============================================================================
-# QUY ƯỚC ĐỊNH DẠNG:
-# 1. Dòng ĐÃ DUYỆT (Không có dấu ? ở đầu):
-#    chartag -> copytag
-#    Chỉ gồm 1 thẻ nhân vật -> 1 thẻ bản quyền chính xác đã được duyệt.
-#
-# 2. Dòng CHƯA DUYỆT (Có dấu ? ở đầu):
-#    ?chartag -> copytag1 copytag2 copytag3 ...
-#    Bot tự động lấy top 10 related tags thuộc category copyright và ghi vào đây.
-#    Người duyệt chỉ cần kiểm tra: xóa dấu ?, giữ lại 1 copytag chuẩn nhất và xóa tag thừa.
-# ==============================================================================
-
-# --- CÁC CÔNG THỨC ĐÃ DUYỆT ---
 
