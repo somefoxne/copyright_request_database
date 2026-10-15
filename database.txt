@@ -5,3 +5,4 @@ ookami_mio -> hololive
 ?ookami_mio_(1st_costume) -> hololive hololive_alternative hololive_english holoearth_chronicles hololive_indonesia touhou hololive_dev_is jojo_no_kimyou_na_bouken nijisanji wwe
 ?ookami_mio_(new_year) -> hololive hololive_english hololive_indonesia hololive_alternative hololive_dev_is minecraft comiket_101 hololive_official_card_game getting_over_it knallerfrauen
 ?ookami_mio_(hoodie) -> hololive hololive_english hololive_indonesia hololive_dev_is original pokemon street_fighter splatoon_(series) street_fighter_6 indie_virtual_youtuber
+?kal'tsit_(arknights) -> arknights project_moon limbus_company ambience_synesthesia arknights:_endfield xiong_xiaobai rainbow_six_siege blue_archive original
