@@ -20,3 +20,4 @@ ookami_mio -> hololive
 ?nekomata_okayu -> hololive hololive_english hololive_indonesia hololive_dev_is nijisanji mario_(series) hololive_grand_theft_auto okayunyumu! vocaloid rabbit_hole_(vocaloid)
 ?shoukaku_(azur_lane) -> azur_lane kantai_collection azur_lane:_slow_ahead tsuru_no_ongaeshi fate_(series) fate/grand_order umamusume arknights gundam granblue_fantasy
 ?asuna_(blue_archive) -> blue_archive original azur_lane goddess_of_victory:_nikke fate_(series) wuthering_waves comiket_102 kantai_collection genshin_impact fate/grand_order
+?ookami_mio_(hololive_summer_2019) -> hololive azur_lane hololive_english comiket_106 hololive_dreams iriam hololive_official_card_game pictoria pokemon indie_virtual_youtuber
