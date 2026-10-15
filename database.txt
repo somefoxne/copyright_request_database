@@ -12,3 +12,4 @@ ookami_mio -> hololive
 ?nakiri_ayame_(streetwear) -> hololive hololive_english hololive_indonesia hololive_dev_is indie_virtual_youtuber nijisanji original vspo! reject_(esports) pokemon
 ?ookami_mio_(street) -> hololive hololive_english getting_over_it hololive_indonesia hololive_dev_is minecraft animal_(vocaloid) a_dance_of_fire_and_ice pokemon splatoon_(series)
 ?poyoyo_(nakiri_ayame) -> hololive hololive_english nijisanji indie_virtual_youtuber hololive_indonesia hololive_dreams kyu-kurarin_(cevio) mario_(series) hololive_official_card_game chainsaw_man
+?sukonbu_(shirakami_fubuki) -> hololive fbkingdom_story pokemon hololive_english hololive_dreams backrooms_(creepypasta) hololive_official_card_game original vocaloid final_fantasy
