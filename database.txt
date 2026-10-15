@@ -9,3 +9,4 @@ ookami_mio -> hololive
 ?kal'tsit_esperanta_(arknights) -> arknights arknights:_endfield jujutsu_kaisen ambience_synesthesia final_fantasy project_moon limbus_company final_fantasy_xiv ultra_series
 ?sakura_miko -> hololive hololive_english hololive_indonesia shiraken!_shiranai_koto_kenkyukai hololive_dev_is minecraft hololive_grand_theft_auto pokemon sugar_rush_(hololive) among_us
 ?nakiri_ayame -> hololive hololive_english hololive_indonesia hololive_dev_is indie_virtual_youtuber hololive_alternative nijisanji hololive_grand_theft_auto azur_lane pokemon
+?nakiri_ayame_(streetwear) -> hololive hololive_english hololive_indonesia hololive_dev_is indie_virtual_youtuber nijisanji original vspo! reject_(esports) pokemon
