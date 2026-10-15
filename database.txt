@@ -18,3 +18,4 @@ ookami_mio -> hololive
 ?suzuran_(spring_praise)_(arknights) -> arknights the_legend_of_luo_xiaohei original blue_archive genshin_impact ambience_synesthesia azur_lane wuthering_waves ore_no_imouto_ga_konna_ni_kawaii_wake_ga_nai yostar
 ?inugami_korone -> hololive hololive_english hololive_indonesia sonic_(series) pokemon hololive_dev_is doom_(series) mario_(series) hololive_grand_theft_auto
 ?nekomata_okayu -> hololive hololive_english hololive_indonesia hololive_dev_is nijisanji mario_(series) hololive_grand_theft_auto okayunyumu! vocaloid rabbit_hole_(vocaloid)
+?shoukaku_(azur_lane) -> azur_lane kantai_collection azur_lane:_slow_ahead tsuru_no_ongaeshi fate_(series) fate/grand_order umamusume arknights gundam granblue_fantasy
