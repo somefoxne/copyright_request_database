@@ -13,14 +13,4 @@
 # ==============================================================================
 
 # --- CÁC CÔNG THỨC ĐÃ DUYỆT ---
-ookami_mio -> hololive
-shirakami_fubuki -> hololive
-inugami_korone -> hololive
-nekomata_okayu -> hololive
-rem_(re:zero) -> re:zero_kara_hajimeru_isekai_seikatsu
-asuka_langley_souryuu -> neon_genesis_evangelion
 
-# --- CÁC CÔNG THỨC CHỜ DUYỆT (TỰ ĐỘNG THÊM BỞI BOT) ---
-?ookami_mio -> hololive hololive_gamers hololive_japan cover_corp
-?tokino_sora -> hololive cover_corp
-?sakura_miko -> hololive cover_corp
