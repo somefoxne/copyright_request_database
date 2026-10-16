@@ -474,3 +474,4 @@
 ?flower_(vocaloid) -> vocaloid gynoid_talk cevio utau voiceroid synthesizer_v kamitsubaki_studio a.i._voice venom_(vocaloid) voicevox
 ?flower_(vocaloid4) -> vocaloid utau cevio voiceroid gynoid_talk kamitsubaki_studio venom_(vocaloid) synthesizer_v a.i._voice voicevox
 ?asgore_dreemurr -> utdr_(toby_fox) undertale deltarune downtown_no_gaki_no_tsukai_ya_arahende!! mario_(series) original touhou xtale zenless_zone_zero rift_of_the_necrodancer
+?asriel_dreemurr -> utdr_(toby_fox) undertale deltarune undertale_yellow xtale pokemon touhou dungeons_&_dragons among_us original
