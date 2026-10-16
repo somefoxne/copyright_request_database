@@ -140,3 +140,4 @@
 ?crewmate_(among_us) -> among_us original hololive hololive_english genshin_impact pokemon umamusume vocaloid mario_(series) touhou
 ?memento_mori_(vtuber) -> indie_virtual_youtuber touhou among_us zenless_zone_zero
 ?maou_pam -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_limited mahou_shoujo_ikusei_keikaku_unmarked mahou_shoujo_ikusei_keikaku_jokers mahou_shoujo_ikusei_keikaku_restart mahou_shoujo_ikusei_keikaku_f2p mahou_shoujo_ikusei_keikaku_black mahou_shoujo_ikusei_keikaku_breakdown forest_musician_cranberry_gaiden:_magical_girl_raising_project_unripe_duet mahou_shoujo_ikusei_keikaku_aces
+?yuzuki_yukari -> voiceroid vocaloid a.i._voice cevio utau synthesizer_v voicevox original touhou minecraft
