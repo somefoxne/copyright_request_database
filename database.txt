@@ -106,3 +106,4 @@
 ?hu_tao_(cherries_snow-laden)_(genshin_impact) -> genshin_impact blue_archive honkai_(series) honkai:_star_rail wuthering_waves gochuumon_wa_usagi_desu_ka? mihoyo comiket_107
 ?hu_tao_(genshin_impact) -> genshin_impact mihoyo honkai_(series) honkai:_star_rail lawson fate_(series) original honkai_impact_3rd kono_subarashii_sekai_ni_shukufuku_wo! zenless_zone_zero
 ?hatake_kakashi -> naruto_(series) naruto_(classic) naruto_shippuuden boruto_(series) boruto:_naruto_next_generations naruto:_the_last jujutsu_kaisen naruto_shippuuden:_ultimate_ninja_blazing one_piece pokemon
+?murakumo_(senran_kagura) -> senran_kagura senran_kagura_new_wave senran_kagura_new_link senran_kagura_shinovi_versus senran_kagura_estival_versus senran_kagura_peach_beach_splash go-toubun_no_hanayome high_school_dxd kantai_collection boku_no_hero_academia
