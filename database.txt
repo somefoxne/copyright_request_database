@@ -62,3 +62,4 @@ unused_hololive_vtuber_(parsley-f) -> hololive
 ?phoenix_reffaella -> zenless_zone_zero idolmaster gakuen_idolmaster kill_la_kill the_two-thousand_yard_stare pokemon honkai_(series) honkai:_star_rail gundam jujutsu_kaisen
 ?phoenix_reffaella_(the_illness_called_life) -> zenless_zone_zero kill_la_kill
 ?jean_havoc -> fullmetal_alchemist fullmetal_alchemist_(2003) tales_of_(series) natsume_yuujinchou pokemon gundam precure street_fighter pokemon_(anime) guilty_gear
+?gotoh_hitori -> bocchi_the_rock! chainsaw_man k-on! pokemon blue_archive sousou_no_frieren vocaloid real_life hololive bang_dream!
