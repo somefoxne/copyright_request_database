@@ -365,3 +365,4 @@
 ?kiritsu_tadashi -> arakure_ojou-sama_wa_monmon_shiteiru higanjima kurono_royale
 ?kuchinashi_tsubaki -> arakure_ojou-sama_wa_monmon_shiteiru higanjima ojikun_to_meichan kurono_royale
 ?suou_tatsuya -> persona persona_2 persona_2_tsumi persona_4 persona_1 persona_3 persona_2_batsu persona_5 persona_3_portable shin_megami_tensei
+?vincent_valentine -> final_fantasy final_fantasy_vii final_fantasy_vii_remake final_fantasy_vii_rebirth final_fantasy_vii:_ever_crisis dirge_of_cerberus:_final_fantasy_vii final_fantasy_vii:_advent_children final_fantasy_vii_revelation kingdom_hearts crisis_core:_final_fantasy_vii
