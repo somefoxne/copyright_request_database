@@ -600,3 +600,4 @@
 ?ion_(tales) -> tales_of_(series) tales_of_the_abyss tales_of_symphonia tales_of_vesperia tales_of_graces tales_of_destiny tales_of_eternia tales_of_legendia tales_of_hearts tales_of_rebirth
 ?jade_curtiss -> tales_of_(series) tales_of_the_abyss tales_of_symphonia tales_of_vesperia tales_of_graces tales_of_destiny tales_of_phantasia tales_of_xillia tales_of_symphonia_knight_of_ratatosk tales_of_eternia
 ?largo_(tales) -> tales_of_(series) tales_of_the_abyss lyrical_nanoha mahou_shoujo_lyrical_nanoha_strikers tales_of_vesperia tales_of_symphonia tales_of_xillia tales_of_graces tales_of_destiny tales_of_phantasia
+?legretta_(tales) -> tales_of_(series) tales_of_the_abyss tales_of_vesperia tales_of_symphonia tales_of_graces tales_of_destiny tales_of_phantasia tales_of_symphonia_knight_of_ratatosk tales_of_legendia tales_of_the_world
