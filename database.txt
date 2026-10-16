@@ -800,3 +800,4 @@
 ?red_girl_(nier) -> nier_(series) nier:automata final_fantasy final_fantasy_xiv yorha idolmaster idolmaster_cinderella_girls chainsaw_man final_fantasy_v nier
 ?akane_rin_(nte) -> neverness_to_everness tokyo_game_show
 ?female_esper_zero_(nte) -> neverness_to_everness gundam chainsaw_man grand_theft_auto tower_of_fantasy crayon_shin-chan gundam_f91 nohara_hiroshi_hirumeshi_no_ryuugi tokyo_game_show
+?hirose_aiki -> ganbare!_nakamura-kun!! hikaru_ga_shinda_natsu pokemon zenless_zone_zero neon_genesis_evangelion ensemble_stars! minecraft nu_carnival chiikawa
