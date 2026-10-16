@@ -561,3 +561,4 @@
 ?ononoki_yotsugi -> monogatari_(series) nisemonogatari tsukimonogatari bakemonogatari nademonogatari onimonogatari orokamonogatari monogatari_series_puc_puc mahou_shoujo_madoka_magica pokemon
 ?kuchiki_rukia -> bleach bleach:_sennen_kessen-hen bleach:_epilogue bleach:_the_high_school_warfare bleach:_brave_souls fate_(series) fate/stay_night sanrio gundam precure
 ?nachi_(kancolle) -> kantai_collection line_(naver) aoki_hagane_no_arpeggio original taimanin_(series) lawson lupin_iii taimanin_asagi uchuu_senkan_yamato uchuu_senkan_yamato_2199
+?kurokoma_saki -> touhou wily_beast_and_weakest_creature unfinished_dream_of_all_living_ghost touhou_lostword touhou_(pc-98) umamusume sunken_fossil_world marvel reitaisai black_lagoon
