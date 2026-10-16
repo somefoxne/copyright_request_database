@@ -500,3 +500,4 @@
 ?rosa_(pokemon) -> pokemon pokemon_black_2_and_white_2 pokemon_black_and_white pokemon_masters_ex pokemon_diamond/pearl/platinum pokemon_x_and_y pokemon_heartgold_and_soulsilver pokemon_sun_and_moon pokemon_firered_and_leafgreen pokemon_omega_ruby_and_alpha_sapphire
 ?don_lorenzo -> blue_lock
 ?marc_snuffy -> blue_lock
+?oshino_shinobu -> monogatari_(series) bakemonogatari kizumonogatari nisemonogatari mister_donut nekomonogatari mahou_shoujo_madoka_magica kabukimonogatari tsukimonogatari wazamonogatari
