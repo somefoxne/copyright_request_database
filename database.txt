@@ -52,3 +52,4 @@ izutsu_(hololive) -> hololive
 unused_hololive_vtuber_(kakage) -> hololive
 unused_hololive_vtuber_(parsley-f) -> hololive
 
+?lum -> urusei_yatsura ranma_1/2 touhou inuyasha original kantai_collection girls_und_panzer maison_ikkoku kyoukai_no_rinne idolmaster
