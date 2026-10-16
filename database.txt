@@ -828,3 +828,4 @@
 ?chitose_sana -> tenshinranman yuzusoft riddle_joker tenshi_souzou_re-boot! senren_banka sanoba_witch dracu-riot! empty_x_embryo amairo_islenauts noble_works
 ?bard_(final_fantasy) -> final_fantasy final_fantasy_xiv final_fantasy_xi final_fantasy_v final_fantasy_tactics touhou the_iron_of_yin_and_yang original final_fantasy_iii bang_dream!
 ?dialyn_(zenless_zone_zero) -> zenless_zone_zero pokemon blue_archive genshin_impact mihoyo honkai_(series) honkai:_star_rail gundam jojo_no_kimyou_na_bouken league_of_legends
+?amber_(stella_sora) -> stella_sora blue_archive dragon_ball comiket_108 zenless_zone_zero precure jojo_no_kimyou_na_bouken goddess_of_victory:_nikke voiceroid utdr_(toby_fox)
