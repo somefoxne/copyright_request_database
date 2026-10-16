@@ -371,3 +371,4 @@
 ?dark_sun_gwyndolin -> dark_souls_(series) dark_souls_i dark_souls_iii elden_ring fromsoftware elden_ring:_shadow_of_the_erdtree sekiro:_shadows_die_twice pokemon dark_souls_ii
 ?tifa_lockhart_(black_mage) -> final_fantasy final_fantasy_vii final_fantasy_vii_remake final_fantasy_vii_revelation final_fantasy_ix final_fantasy_vii_rebirth final_fantasy_vii:_ever_crisis final_fantasy_x
 ?aether_(as_heaven_and_earth_are_made_anew)_(genshin_impact) -> genshin_impact honkai_(series) original honkai:_star_rail cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 mihoyo zenless_zone_zero honkai_impact_3rd
+?aether_(genshin_impact) -> genshin_impact mihoyo honkai_(series) honkai:_star_rail zenless_zone_zero original wuthering_waves honkai_impact_3rd fate_(series) fate/grand_order
