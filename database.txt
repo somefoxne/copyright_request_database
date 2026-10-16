@@ -653,3 +653,4 @@
 ?kylar_(male)_(degrees_of_lewdity) -> degrees_of_lewdity original pokemon the_coffin_of_andy_and_leyley monitoring_(vocaloid) vocaloid project_moon alien_stage microsoft_windows windows_classic
 ?volke_(fire_emblem) -> fire_emblem fire_emblem:_path_of_radiance fire_emblem:_radiant_dawn fire_emblem_heroes fire_emblem:_genealogy_of_the_holy_war fire_emblem:_mystery_of_the_emblem fire_emblem_fates fire_emblem_awakening fire_emblem:_the_blazing_blade fire_emblem:_the_sacred_stones
 ?oumae_kumiko -> hibike!_euphonium gekijouban_hibike!_euphonium liz_to_aoi_tori kyoto_animation k-on! newtype megami_magazine umamusume animedia lycoris_recoil
+?racing_miku -> vocaloid goodsmile_company goodsmile_racing super_gt magical_mirai_(vocaloid) pokemon umamusume nitroplus project_diva_(series) utau
