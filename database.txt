@@ -200,3 +200,4 @@
 ?fleki -> dungeon_meshi golden_kamuy beauty_and_the_beast_(disney) pokemon pokemon_(anime) pokemon_(classic_anime) little_witch_academia fate_(series) fate/grand_order vocaloid
 ?barou_shouei -> blue_lock gintama
 ?nagi_seishirou -> blue_lock sanrio fuwa_fuwa_cinnamoroll my_melody_(series) jujutsu_kaisen original pokemon genshin_impact kimetsu_no_yaiba spy_x_family
+?samejima_mamimi -> flcl gainax neon_genesis_evangelion top_wo_nerae!_(series) top_wo_nerae_2! flcl_reanimated abenobashi_mahou_shoutengai tengen_toppa_gurren_lagann fushigi_no_umi_no_nadia chainsaw_man
