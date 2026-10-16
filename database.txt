@@ -351,3 +351,4 @@
 ?jill_valentine_(battle_suit) -> resident_evil resident_evil_5 resident_evil_3:_nemesis marvel_vs._capcom resident_evil_1 marvel_vs._capcom_3 street_fighter capcom resident_evil_3_(remake) marvel
 ?joker_(persona_2_batsu) -> persona persona_2 persona_2_batsu touhou persona_5 persona_3 persona_4 persona_3_portable persona_4_the_golden persona_1
 ?sudou_tatsuya -> persona persona_2 persona_2_tsumi persona_2_batsu tales_of_(series) persona_3 persona_4 ace_attorney shin_megami_tensei soul_eater
+?pepesha_andreanova -> shy_(series) gundam bang_dream! bishoujo_senshi_sailor_moon mahou_shoujo_no_majo_saiban shingeki_no_kyojin lucky_star girls_band_cry gundam_suisei_no_majo
