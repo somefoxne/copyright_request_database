@@ -320,3 +320,4 @@
 ?rude_(ff7) -> final_fantasy final_fantasy_vii final_fantasy_vii_remake final_fantasy_vii_rebirth final_fantasy_vii:_advent_children crisis_core:_final_fantasy_vii before_crisis:_final_fantasy_vii final_fantasy_v kingdom_hearts final_fantasy_vii:_ever_crisis
 ?tseng -> final_fantasy final_fantasy_vii final_fantasy_vii_remake final_fantasy_vii_rebirth crisis_core:_final_fantasy_vii final_fantasy_vii:_advent_children before_crisis:_final_fantasy_vii final_fantasy_vii:_ever_crisis kingdom_hearts super_smash_bros.
 ?phantom_thief_(kkmomo67) -> original dreammode_(vocaloid)
+?leonardo_da_vinci_(fate) -> fate_(series) fate/grand_order learning_with_manga!_fgo fate/extra fate/stay_night fate/grand_order_arcade fate/apocrypha mona_lisa fate/extra_ccc original
