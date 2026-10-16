@@ -479,3 +479,4 @@
 ?kris_(deltarune) -> utdr_(toby_fox) deltarune undertale omori alien_stage touhou pokemon vocaloid ace_attorney yume_nikki
 ?noelle_holiday -> utdr_(toby_fox) deltarune undertale alien_stage invader_zim siivagunner mahou_shoujo_madoka_magica vocaloid vylet_pony antonymph
 ?toriel -> utdr_(toby_fox) undertale deltarune pokemon original animal_crossing mario_(series) touhou sonic_(series) xtale
+?blaze_the_igniting_spark_(nocturnal_firelight)_(arknights) -> arknights
