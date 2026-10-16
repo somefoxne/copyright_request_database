@@ -396,3 +396,4 @@
 ?sugar_(nikke) -> goddess_of_victory:_nikke lycoris_recoil nier_(series) nier:automata terminator_(series) terminator_2:_judgment_day warhammer_40k lawson fukkireta
 ?chongyun_(genshin_impact) -> genshin_impact gigo ipstar horizon_(game) pokemon honkai_(series) mihoyo horizon_zero_dawn honkai:_star_rail
 ?jack_frost_(genshin_impact) -> genshin_impact
+?roman_carax -> cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_2 netflix cyberpunk_2077 naruto_(series) kill_la_kill tengen_toppa_gurren_lagann naruto_shippuuden cyberpunk:_edgerunners_1
