@@ -867,3 +867,4 @@
 ?tenko_shibuki -> stellive pokemon bleach sanrio my_melody_(series) kantai_collection blue_archive mario_(series) pokemon_(anime) utdr_(toby_fox)
 ?shinra_kusakabe -> soul_eater fire_emblem one_piece persona toaru_majutsu_no_index re:zero_kara_hajimeru_isekai_seikatsu kimetsu_no_yaiba sword_art_online persona_5
 ?sugi_(kancolle) -> kantai_collection gundam gundam_08th_ms_team yuru-chara c2_kikan pokemon gundam_gquuuuuux pop_mart beavis_and_butt-head the_monsters_(kasing_lung)
+?gladion_(pokemon) -> pokemon pokemon_sun_and_moon pokemon_(anime) pokemon_the_series:_sun_&_moon pokemon_masters_ex pokemon_sword_and_shield pokemon_ultra_sun_and_ultra_moon pokemon_journeys pokemon_scarlet_and_violet pokemon_black_and_white
