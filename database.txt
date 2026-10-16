@@ -132,3 +132,4 @@
 ?archer_(honkai:_star_rail)_(fate) -> fate_(series) honkai_(series) honkai:_star_rail fate/stay_night fate/unlimited_blade_works fate/grand_order carnival_phantasm zenless_zone_zero fate/extra tsukihime
 ?saber_(honkai:_star_rail)_(fate) -> honkai_(series) honkai:_star_rail fate_(series) fate/stay_night fate/unlimited_blade_works fate/grand_order mihoyo genshin_impact umamusume tsukihime
 ?la_manchaland's_don_quixote_(project_moon) -> project_moon limbus_company library_of_ruina lobotomy_corporation blue_archive pokemon vocaloid jujutsu_kaisen tsukihime hollow_knight
+?sancho_(project_moon) -> project_moon limbus_company library_of_ruina lobotomy_corporation hero_(mili) pokemon tsukihime touhou blue_archive fate_(series)
