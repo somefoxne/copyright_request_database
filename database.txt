@@ -376,3 +376,4 @@
 ?lumine_(genshin_impact) -> genshin_impact mihoyo honkai_(series) honkai:_star_rail zenless_zone_zero honkai_impact_3rd wuthering_waves original fate_(series) fate/grand_order
 ?kawakami_gensai_(fate) -> fate_(series) fate/grand_order rurouni_kenshin pokemon fate/extra kimi_no_koto_ga_dai_dai_dai_dai_daisuki_na_100-nin_no_kanojo fate/samurai_remnant comiket_108
 ?kawakami_gensai_(third_ascension)_(fate) -> fate_(series) fate/grand_order fate/extra
+?mocha-tan_(character) -> indie_virtual_youtuber blue_archive coca-cola izigenia
