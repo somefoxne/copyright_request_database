@@ -450,3 +450,4 @@
 ?orga_itsuka -> gundam gundam_tekketsu_no_orphans umamusume tengen_toppa_gurren_lagann kantai_collection fate_(series) gundam_seed mobile_suit_gundam blue_archive vocaloid
 ?marisbury_animusphere -> fate_(series) fate/grand_order lord_el-melloi_ii_case_files fate/stay_night fate/zero fate/hollow_ataraxia pokemon final_fantasy gundam final_fantasy_xiv
 ?shu_(everflowing_waters)_(arknights) -> arknights
+?atra_mixta -> gundam gundam_tekketsu_no_orphans kodoku_no_gourmet kantai_collection gundam_00 mobile_suit_gundam gundam_unicorn g_gundam gundam_wing turn_a_gundam
