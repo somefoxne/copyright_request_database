@@ -176,3 +176,4 @@
 ?rosalina -> mario_(series) super_mario_galaxy super_smash_bros. mario_kart metroid the_legend_of_zelda kid_icarus fire_emblem pokemon mario_kart_tour
 ?evelyn_chevalier -> zenless_zone_zero honkai_(series) mihoyo honkai:_star_rail genshin_impact wuthering_waves blue_archive fate_(series) honkai_impact_3rd goddess_of_victory:_nikke
 ?rosalina's_mother -> mario_(series) super_mario_galaxy
+?tenjouin_asuka -> yu-gi-oh! yu-gi-oh!_gx yu-gi-oh!_duel_monsters yu-gi-oh!_arc-v yu-gi-oh!_zexal yu-gi-oh!_vrains yu-gi-oh!_sevens yu-gi-oh!_go_rush!! yu-gi-oh!_duel_links
