@@ -69,3 +69,4 @@ ookami_mio_(street) -> hololive
 ?amiya_(arknights) -> arknights ambience_synesthesia arknights:_endfield white_rabbit_candy project_moon limbus_company blue_archive rainbow_six_siege fate_(series)
 ?neopolitan_(rwby) -> rwby rwby_chibi pokemon fate_(series) fate/grand_order mario_(series) dc_comics suicide_squad blazblue blazblue:_cross_tag_battle
 ?shin_(path_to_nowhere) -> path_to_nowhere chainsaw_man the_weaker_sex_1_(gibson) tomie
+?hsin_(moon_fox)_(wuthering_waves) -> wuthering_waves
