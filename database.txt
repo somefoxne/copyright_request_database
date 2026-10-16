@@ -51,3 +51,4 @@ ookami_mio_(street) -> hololive
 ?verxina_(umamusume) -> umamusume original yokohama_dena_baystars real_life blue_archive pokemon jujutsu_kaisen comiket_107 pakatube idolmaster
 ?win_variation_(umamusume) -> umamusume real_life original umayuru umamusume:_cinderella_gray pakatube touhou pokemon fate_(series) fate/stay_night
 ?fine_motion_(umamusume) -> umamusume original umayuru comiket_100 real_life comiket_102 pokemon pakatube umamusume:_cinderella_gray kantai_collection
+?eri_(blue_archive) -> blue_archive comiket_107 comiket_108 majo_no_tabitabi fate_(series) wizarding_world harry_potter_(series) blue_archive_the_animation kamen_rider project_moon
