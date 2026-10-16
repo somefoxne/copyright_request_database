@@ -90,3 +90,4 @@ ookami_mio_(street) -> hololive
 ?shinozaki_kimiko -> anatatachi_soredemo_sensei_desu_ka!
 ?maribel_hearn -> touhou taboo_japan_disentanglement touhou_(pc-98) ghostly_field_club magical_astronomy trojan_green_asteroid neo-traditionalism_of_japan dateless_bar_"old_adam" retrospective_53_minutes changeability_of_strange_dream
 ?usami_renko -> touhou touhou_(pc-98) ghostly_field_club taboo_japan_disentanglement magical_astronomy trojan_green_asteroid dateless_bar_"old_adam" retrospective_53_minutes neo-traditionalism_of_japan
+?si_(arknights) -> arknights arknights:_endfield ore_no_imouto_ga_konna_ni_kawaii_wake_ga_nai kamitsubaki_studio sinsekai_record bang_dream!
