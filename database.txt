@@ -218,3 +218,4 @@
 ?nick_wilde -> zootopia disney robin_hood_(disney_movie) zootopia_2 pinocchio_(disney_movie) song_of_the_south genshin_impact original pokemon bang_dream!
 ?chainsaw_devil -> chainsaw_man jujutsu_kaisen doom_(series) neon_genesis_evangelion one_piece jojo_no_kimyou_na_bouken persona boku_no_hero_academia mario_(series) sousou_no_frieren
 ?fami_(chainsaw_man) -> chainsaw_man jojo_no_kimyou_na_bouken neon_genesis_evangelion youtube chiikawa burger_king pokemon marvel sousou_no_frieren
+?famine_devil_(chainsaw_man) -> chainsaw_man chiikawa jojo_no_kimyou_na_bouken boku_no_hero_academia dragon_ball minecraft one_piece neon_genesis_evangelion marvel sousou_no_frieren
