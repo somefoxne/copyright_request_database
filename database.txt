@@ -939,3 +939,4 @@
 ?shinomiya_karen -> idolmaster idolmaster_million_live! idolmaster_million_live!_theater_days idolmaster_(classic) idolmaster_cinderella_girls idolmaster_shiny_colors azur_lane idolmaster_dearly_stars idolmaster_one_for_all idolmaster_stella_stage
 ?spiffo_(project_zomboid) -> project_zomboid original indie_virtual_youtuber google google_search
 ?shihouin_yoruichi -> bleach bleach:_sennen_kessen-hen boku_no_hero_academia bleach:_turn_back_the_pendulum bleach:_brave_souls fate_(series) one_piece fate/grand_order original pokemon
+?kataochi_chuuko -> indie_virtual_youtuber south_park pokemon jojo_no_kimyou_na_bouken diamond_wa_kudakenai pokemon_adventures black_jack_(series) gregory_horror_show popee_the_performer
