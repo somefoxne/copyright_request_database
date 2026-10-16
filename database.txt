@@ -767,3 +767,4 @@
 ?kyubey -> mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) mahou_shoujo_madoka_magica:_hangyaku_no_monogatari touhou magia_record:_mahou_shoujo_madoka_magica_gaiden mahou_shoujo_madoka_magica_movie_1_&_2 original vocaloid fate_(series) pokemon
 ?air_groove_(umamusume) -> umamusume umamusume:_cinderella_gray original real_life umayuru cygames pokemon comiket_102 kantai_collection gundam
 ?fuji_kiseki_(shooting_star_revue)_(umamusume) -> umamusume umamusume:_beginning_of_a_new_era midori_no_makibaoo akari_ga_yatte_kitazo_(vocaloid) original pokemon umamusume:_cinderella_gray kantai_collection idolmaster jojo_no_kimyou_na_bouken
+?super_creek_(umamusume) -> umamusume umamusume:_cinderella_gray pokemon pokemon_(anime) pokemon_journeys cygames real_life pakatube original umayon
