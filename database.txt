@@ -576,3 +576,4 @@
 ?baron_bunny_(genshin_impact) -> genshin_impact pizza_hut umamusume honkai_(series) mihoyo arknights honkai_impact_3rd original pokemon hololive
 ?sengoku_nadeko -> monogatari_(series) bakemonogatari nisemonogatari nademonogatari otorimonogatari nekomonogatari koimonogatari mahou_shoujo_madoka_magica idolmaster mahou_shoujo_madoka_magica_(anime)
 ?hippolyta_(fate) -> fate_(series) fate/strange_fake fate/grand_order fate/stay_night fate/prototype percy_jackson_and_the_olympians love_live! chainsaw_man love_live!_nijigasaki_high_school_idol_club fate/apocrypha
+?itoshi_rin -> blue_lock sanrio little_red_riding_hood_(fairy_tale) project_sekai sayonara_zetsubou_sensei my_melody_(series) coca-cola fuwa_fuwa_cinnamoroll hello_kitty world_cup
