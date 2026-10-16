@@ -726,3 +726,4 @@
 ?suzuki_miyu -> seihantai_na_kimi_to_boku koori_no_jouheki bocchi_the_rock! spy_x_family sono_bisque_doll_wa_koi_wo_suru dandadan mato_seihei_no_slave kaijuu_no._8 shounen_jump 2.5_jigen_no_ririsa
 ?taira_shuuji -> seihantai_na_kimi_to_boku sono_bisque_doll_wa_koi_wo_suru koori_no_jouheki
 ?tani_yuusuke -> seihantai_na_kimi_to_boku spy_x_family sono_bisque_doll_wa_koi_wo_suru dandadan mato_seihei_no_slave kaijuu_no._8 shounen_jump 2.5_jigen_no_ririsa hime-sama_"goumon"_no_jikan_desu marriagetoxin
+?yamada_kentarou -> seihantai_na_kimi_to_boku koori_no_jouheki
