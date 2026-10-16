@@ -839,18 +839,28 @@ violet_mizutsune_orchid_(arknights) -> monster_hunter_(series)
 zinogre_s_catapult_(arknights) -> monster_hunter_(series)  
 
 aigis_(persona) -> persona_3  
+aigis_(in_contemplation_of_life)_(persona) -> arknights
 koromaru_(persona) -> persona_3  
+koromaru_(over_the_city_of_sweetness)_(persona) -> arknights
 yuuki_makoto_(persona_3) -> persona_3  
+yuuki_makoto_(in_witness_of_glory)_(persona_3) -> arknights
 takeba_yukari -> persona_3  
+takeba_yukari_(in_vigil_of_dawn_and_dusk) -> arknights
 
 ash_(rainbow_six_siege) -> rainbow_six_siege  
+ash_(ranger)_(rainbow_six_siege) -> arknights
 blitz_(rainbow_six_siege) -> rainbow_six_siege  
+-> arknights
 doc_(rainbow_six_siege) -> rainbow_six_siege  
+doc_(exhibition)_(rainbow_six_siege) -> arknights
 ela_(rainbow_six_siege) -> rainbow_six_siege  
+ela_(safehouse)_(rainbow_six_siege) -> arknights
 frost_(rainbow_six_siege) -> rainbow_six_siege  
 fuze_(rainbow_six_siege) -> rainbow_six_siege  
 iana_(rainbow_six_siege) -> rainbow_six_siege  
+iana_(mirrormaze)_(rainbow_six_siege) -> arknights
 tachanka_(rainbow_six_siege) -> rainbow_six_siege
+tachanka_(lord)_(rainbow_six_siege) -> arknights
 
 #arknights:_endfield 
 endministrator_(arknights) -> arknights:_endfield  
