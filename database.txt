@@ -116,3 +116,4 @@
 ?hayakawa_aki -> chainsaw_man jujutsu_kaisen naruto_(series) kimetsu_no_yaiba spy_x_family blue_archive one_piece original bang_dream!
 ?himeno_(chainsaw_man) -> chainsaw_man neon_genesis_evangelion real_life goddess_of_victory:_nikke bocchi_the_rock! jujutsu_kaisen among_us minecraft world_cup 2022_fifa_world_cup
 ?plymouth_(azur_lane) -> azur_lane world_of_warships coca-cola chainsaw_man suika_game azur_lane:_crosswave fumo_collection
+?chito_(shoujo_shuumatsu_ryokou) -> shoujo_shuumatsu_ryokou shimeji_simulation bocchi_the_rock! nichijou hidamari_sketch original touhou vocaloid hololive hololive_english
