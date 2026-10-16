@@ -361,3 +361,4 @@
 ?label_(occultist)_(nikke) -> goddess_of_victory:_nikke
 ?ceres_fauna -> hololive hololive_english hololive_indonesia minecraft indie_virtual_youtuber hololive_dev_is pokemon holostars among_us getting_over_it
 ?arakiya_(re:zero) -> re:zero_kara_hajimeru_isekai_seikatsu re:zero_kara_sasageru_isekai_seikatsu
+?cecilus_segmunt -> re:zero_kara_hajimeru_isekai_seikatsu re:zero_kara_oboreru_isekai_seikatsu my_little_pony my_little_pony:_friendship_is_magic re:zero_kara_kasaneru_isekai_seikatsu re:zero_kara_ayamatsu_isekai_seikatsu re:zero_kara_tsugihagu_isekai_seikatsu re:if_kara_hajimeru_isekai_seikatsu
