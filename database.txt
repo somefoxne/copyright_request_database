@@ -911,3 +911,4 @@
 ?zaraki_kenpachi -> bleach bleach:_sennen_kessen-hen idolmaster gakuen_idolmaster naruto_(series) bleach:_epilogue naruto_(classic) one_piece jujutsu_kaisen shingeki_no_kyojin
 ?vicksburg_(azur_lane) -> azur_lane original
 ?vicksburg_(dazzling_diva_of_the_raceway)_(azur_lane) -> azur_lane original
+?archie_(fall_2026)_(pokemon) -> pokemon pokemon_masters_ex pokemon_omega_ruby_and_alpha_sapphire pokemon_ruby/sapphire/emerald
