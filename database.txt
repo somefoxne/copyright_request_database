@@ -534,3 +534,4 @@
 ?meg_(wakamepiza) -> original
 ?unohana_retsu -> bleach bleach:_sennen_kessen-hen bleach:_brave_souls one_piece naruto_(series) idolmaster naruto_(classic) bleach:_turn_back_the_pendulum gakuen_idolmaster bleach:_epilogue
 ?unohana_yachiru -> bleach bleach:_sennen_kessen-hen bleach:_brave_souls idolmaster marvel spider-man_(series) idolmaster_cinderella_girls idolmaster_(classic) jujutsu_kaisen spy_x_family
+?houraisan_kaguya -> touhou touhou_tag_dream imperishable_night touhou_(pc-98) pokemon night_sparrow_love reitaisai embodiment_of_scarlet_devil perfect_cherry_blossom mountain_of_faith
