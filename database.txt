@@ -863,3 +863,4 @@
 ?smart_falcon_(umamusume) -> umamusume real_life pokemon original cygames world_cup umamusume:_cinderella_gray f-zero kirby_(series) kfc
 ?shameimaru_aya -> touhou mountain_of_faith touhou_(pc-98) touhou_tag_dream phantasmagoria_of_flower_view pokemon reitaisai double_spoiler original final_fantasy
 ?alexandra_tamsanqa -> fire_emblem real_life
+?elphelt_valentine -> guilty_gear guilty_gear_strive guilty_gear_xrd blazblue sonic_(series) arc_system_works pokemon street_fighter guilty_gear_2
