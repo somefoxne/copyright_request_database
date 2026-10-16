@@ -588,3 +588,4 @@
 ?mafuteru -> indie_utaite after_the_rain animal_(vocaloid) kawaikute_gomen_(honeyworks) turing_love venom_(vocaloid) aishite_aishite_aishite_(vocaloid) sekai_o_kaeru_hitotsu_no_know-how vocaloid kirby_(series)
 ?soraru -> indie_utaite after_the_rain pokemon apex_legends vocaloid nijisanji original yoidore_shirazu_(vocaloid) 18_(game) gokuraku_jigoku
 ?warrior_of_light_(ff14) -> final_fantasy final_fantasy_xiv original nier_(series) nier:automata pokemon final_fantasy_vii final_fantasy_viii fate_(series) final_fantasy_xvi
+?katori_(kancolle) -> kantai_collection lawson aoki_hagane_no_arpeggio gundam ace_attorney poptepipic original idolmaster jojo_no_kimyou_na_bouken line_(naver)
