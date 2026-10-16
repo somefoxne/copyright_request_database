@@ -454,3 +454,4 @@
 ?pearl_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail starry_night_(van_gogh) fate_(series) fate/stay_night kanagawa_oki_nami_ura genshin_impact honkai_impact_3rd sanrio houseki_no_kuni
 ?rodney_(warship_girls_r) -> warship_girls_r original kantai_collection love_live! one_piece love_live!_school_idol_project the_king_of_fighters fatal_fury dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru_darou_ka snk
 ?aura_(sousou_no_frieren) -> sousou_no_frieren dragon_ball jujutsu_kaisen dungeon_meshi blue_archive bocchi_the_rock! comiket_103 pokemon chainsaw_man dragon_ball_z
+?naplings_(nimi_nightmare) -> indie_virtual_youtuber hololive hololive_english densetsu.exe blue_archive pokemon genshin_impact vocaloid mario_(series) dragon_ball
