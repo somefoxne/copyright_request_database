@@ -70,3 +70,4 @@ ookami_mio_(street) -> hololive
 ?neopolitan_(rwby) -> rwby rwby_chibi pokemon fate_(series) fate/grand_order mario_(series) dc_comics suicide_squad blazblue blazblue:_cross_tag_battle
 ?shin_(path_to_nowhere) -> path_to_nowhere chainsaw_man the_weaker_sex_1_(gibson) tomie
 ?hsin_(moon_fox)_(wuthering_waves) -> wuthering_waves
+?hsin_(wuthering_waves) -> wuthering_waves goddess_of_victory:_nikke zenless_zone_zero chainsaw_man arknights honkai_(series) honkai:_star_rail arknights:_endfield kirby_(series) twitter
