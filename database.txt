@@ -951,3 +951,4 @@
 ?ayachi_nene -> sanoba_witch yuzusoft senren_banka riddle_joker cafe_stella_to_shinigami_no_chou tenshi_souzou_re-boot! amairo_islenauts dracu-riot! tenshinranman noble_works
 ?david_martinez -> cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 wuthering_waves trigger_(company) cyberpunk_2077 chainsaw_man netflix promare original
 ?lucy_(cyberpunk) -> cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 wuthering_waves guilty_gear guilty_gear_strive trigger_(company) chainsaw_man cyberpunk_2077 honkai_(series)
+?valeriy_(genshin_impact) -> genshin_impact honkai_(series) honkai:_star_rail mihoyo crunchyroll dr._stone backrooms_(creepypasta) the_amazing_world_of_gumball dream_pool iii_(hololive)
