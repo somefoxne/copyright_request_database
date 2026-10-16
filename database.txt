@@ -137,3 +137,4 @@
 ?hatsune_miku -> vocaloid utau pokemon magical_mirai_(vocaloid) project_voltage project_sekai project_diva_(series) rabbit_hole_(vocaloid) goodsmile_company goodsmile_racing
 ?kasane_teto -> utau synthesizer_v vocaloid a.i._voice mesmerizer_(vocaloid) igaku_(utau) voicepeak ultra_trailer_(synthesizer_v) liar_dancer_(synthesizer_v) hito_mania_(utau)
 ?bubble_girl_(boku_no_hero_academia) -> boku_no_hero_academia original
+?crewmate_(among_us) -> among_us original hololive hololive_english genshin_impact pokemon umamusume vocaloid mario_(series) touhou
