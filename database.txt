@@ -276,3 +276,4 @@
 ?pearl_(steven_universe) -> steven_universe steven_universe_future steven_universe:_the_movie sonic_(series) cartoon_network ed_edd_n_eddy mario_(series) adventure_time powerpuff_girls kekkai_sensen
 ?nicole_quadriga -> choukou_(alicesoft) choukou_taisen_escalation_heroines alicesoft
 ?ugumori_akie -> choukou_(alicesoft) choukou_taisen_escalation_heroines alicesoft
+?mejiro_ramonu_(umamusume) -> umamusume umamusume:_cinderella_gray original precure meitantei_precure! real_life kantai_collection blue_archive pokemon gundam
