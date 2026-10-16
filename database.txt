@@ -925,3 +925,4 @@
 ?hayakawa_tazuna -> umamusume umamusume:_cinderella_gray original idolmaster cygames idolmaster_cinderella_girls dexter_(tv_series) pokemon princess_connect! persona
 ?nayuta_(nikke) -> goddess_of_victory:_nikke lawson blue_archive original honkai_(series) honkai:_star_rail comiket_108 fate_(series) hololive fate/grand_order
 ?columbina_(genshin_impact) -> genshin_impact honkai_(series) honkai:_star_rail mihoyo alien_stage original zenless_zone_zero fate_(series) wuthering_waves honkai_impact_3rd
+?sandrone_(genshin_impact) -> genshin_impact honkai_(series) mihoyo honkai:_star_rail alien_stage zenless_zone_zero comiket_108 zombie_stage honkai_impact_3rd comiket_107
