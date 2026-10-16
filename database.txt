@@ -64,3 +64,4 @@ ookami_mio_(street) -> hololive
 ?cirno -> touhou embodiment_of_scarlet_devil hidden_star_in_four_seasons touhou_(pc-98) cookie_(touhou) touhou_lostword advent_cirno pokemon mario_(series)
 ?patchouli_knowledge -> touhou embodiment_of_scarlet_devil touhou_(pc-98) cookie_(touhou) reitaisai touhou_lostword pokemon original touhou_tag_dream the_iron_of_yin_and_yang
 ?mari_(blue_archive) -> blue_archive arknights chiikawa fate_(series) comiket_106 comiket_108 blue_archive_the_animation comiket_105 fate/grand_order umamusume
+?rio_(blue_archive) -> blue_archive wuthering_waves blue_archive_the_animation goddess_of_victory:_nikke umamusume kamen_rider comiket_106 arknights kamen_rider_dcd pokemon
