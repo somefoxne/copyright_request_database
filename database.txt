@@ -108,3 +108,4 @@ unused_hololive_vtuber_(parsley-f) -> hololive
 ?yokoyama_nao -> idolmaster idolmaster_million_live! idolmaster_million_live!_theater_days idolmaster_(classic) idolmaster_cinderella_girls idolmaster_movie little_red_riding_hood_(fairy_tale) god_eater skype god_eater_2:_rage_burst
 ?clementia_(arknights) -> arknights pokemon spongebob_squarepants_(series)
 ?mikazuki_augus -> gundam gundam_tekketsu_no_orphans gundam_00 gundam_wing gundam_suisei_no_majo zeta_gundam g_gundam mobile_suit_gundam gundam_unicorn
+?vesna_(genshin_impact) -> genshin_impact winx_club honkai_(series) honkai:_star_rail suzumiya_haruhi_no_yuuutsu mihoyo chiikawa the_weaker_sex_1_(gibson) the_nutcracker
