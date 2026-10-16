@@ -237,3 +237,4 @@
 ?yuzuha_riko -> stellive rabbit_hole_(vocaloid) blue_archive pokemon sanrio my_melody_(series) original cardcaptor_sakura dark_souls_(series) black_survival
 ?lycion -> dungeon_meshi golden_kamuy beauty_and_the_beast_(disney) pokemon pokemon_(anime) pokemon_(classic_anime) little_witch_academia fate_(series) fate/grand_order vocaloid
 ?ada_wong -> resident_evil resident_evil_4 resident_evil_4_(remake) resident_evil_2 resident_evil_2_(remake) resident_evil_6 resident_evil_requiem resident_evil_3:_nemesis spy_x_family resident_evil_village
+?claire_redfield -> resident_evil resident_evil_2 resident_evil_2_(remake) resident_evil_-_code:_veronica resident_evil_3:_nemesis resident_evil_veronica resident_evil_4 resident_evil_3_(remake) resident_evil_6 resident_evil_5
