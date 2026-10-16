@@ -522,3 +522,4 @@
 ?sense_(sousou_no_frieren) -> sousou_no_frieren blue_archive hololive hololive_english idolmaster umamusume idolmaster_cinderella_girls kimetsu_no_yaiba ace_attorney hunter_x_hunter
 ?ubel_(sousou_no_frieren) -> sousou_no_frieren bocchi_the_rock! one-punch_man hololive halo_(series) arknights hololive_english arknights:_endfield rabbit_hole_(vocaloid) umamusume
 ?isonami_(kancolle) -> kantai_collection yokohama_seaside_line snow_white_(fairy_tale) choo_choo_train lawson aoki_hagane_no_arpeggio japan_railways gundam real_life
+?z1_leberecht_maass_(kancolle) -> kantai_collection world_witches_series world_cup strike_witches girls_und_panzer 2014_fifa_world_cup idolmaster azur_lane axis_powers_hetalia original
