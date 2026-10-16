@@ -392,3 +392,4 @@
 ?manhattan_cafe_(umamusume) -> umamusume umamusume:_beginning_of_a_new_era original kfc blue_archive pokemon real_life the_ring umamusume:_road_to_the_top umayuru
 ?agnes_tachyon_(tach-nology)_(umamusume) -> umamusume umamusume:_beginning_of_a_new_era hololive original pokemon hololive_english blue_archive umamusume:_cinderella_gray back_to_the_future kantai_collection
 ?manhattan_cafe_(creeping_shadow)_(umamusume) -> umamusume umamusume:_beginning_of_a_new_era original pokemon umamusume:_road_to_the_top umamusume:_cinderella_gray jojo_no_kimyou_na_bouken jujutsu_kaisen real_life kamen_rider
+?sugar_(killer_rabbit)_(nikke) -> goddess_of_victory:_nikke terminator_(series) terminator_2:_judgment_day
