@@ -844,3 +844,4 @@
 ?kunigami_rensuke -> blue_lock fate_(series) fate/grand_order honkai_(series) honkai:_star_rail granblue_fantasy fate/stay_night bleach tokyo_afterschool_summoners twisted_wonderland
 ?shidou_ryuusei -> blue_lock
 ?kushima_kamome -> summer_pockets key_(company) little_busters! angel_beats! comiket_95 clannad comiket_106 kanon comiket_101 heaven_burns_red
+?naruse_shiroha -> summer_pockets key_(company) angel_beats! little_busters! clannad air_(visual_novel) rewrite charlotte_(anime) kanon dango_daikazoku
