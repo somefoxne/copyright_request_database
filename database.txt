@@ -250,3 +250,4 @@
 ?gigi_murin -> hololive hololive_english enigmatic_recollection hololive_indonesia hololive_dev_is monster_hunter_(series) minecraft umamusume monster_hunter_wilds league_of_legends
 ?honk_(rem_kanashibari) -> v4mirai
 ?rem_kanashibari -> v4mirai kakegurui
+?rem_kanashibari_(2nd_costume) -> v4mirai
