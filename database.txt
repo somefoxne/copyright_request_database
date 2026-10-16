@@ -894,3 +894,4 @@
 ?viola_(bang_dream!) -> bang_dream! bang_dream!_yumemita kamen_rider kamen_rider_555 shoujo_kageki_revue_starlight kamen_rider_zeztz_(series) jojo_no_kimyou_na_bouken phantom_blood saya_no_uta
 ?aventurine_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail mihoyo genshin_impact fate_(series) fate/stay_night fate/unlimited_blade_works honkai_impact_3rd zenless_zone_zero original
 ?stelle_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail mihoyo genshin_impact honkai_impact_3rd fate_(series) zenless_zone_zero fate/stay_night fate/unlimited_blade_works wuthering_waves
+?trailblazer_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail mihoyo genshin_impact fate_(series) zenless_zone_zero fate/stay_night honkai_impact_3rd fate/unlimited_blade_works wuthering_waves
