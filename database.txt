@@ -590,3 +590,4 @@
 ?warrior_of_light_(ff14) -> final_fantasy final_fantasy_xiv original nier_(series) nier:automata pokemon final_fantasy_vii final_fantasy_viii fate_(series) final_fantasy_xvi
 ?katori_(kancolle) -> kantai_collection lawson aoki_hagane_no_arpeggio gundam ace_attorney poptepipic original idolmaster jojo_no_kimyou_na_bouken line_(naver)
 ?copano_rickey_(eightfold_fortune)_(umamusume) -> umamusume original kantai_collection precure jojo_no_kimyou_na_bouken real_life stone_ocean umamusume:_cinderella_gray michelin jamiroquai
+?copano_rickey_(umamusume) -> umamusume cygames pokemon real_life umamusume:_cinderella_gray gundam original kantai_collection jojo_no_kimyou_na_bouken pokemon_(anime)
