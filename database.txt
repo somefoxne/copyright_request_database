@@ -155,3 +155,4 @@
 ?kiperina -> reverse:1999 e.t. olympics 1980_summer_olympics lilo_&_stitch venus_de_milo
 ?voyager_(reverse:1999) -> reverse:1999 e.t. vocaloid original fate_(series) fate/grand_order project_moon jujutsu_kaisen library_of_ruina path_to_nowhere
 ?harry_potter -> wizarding_world harry_potter_(series) harry_potter_and_the_goblet_of_fire harry_potter_and_the_deathly_hallows harry_potter_and_the_chamber_of_secrets harry_potter_and_the_cursed_child harry_potter_and_the_half-blood_prince marvel naruto_(series)
+?deadman_danny_(deadlock) -> deadlock_(game) megadeth
