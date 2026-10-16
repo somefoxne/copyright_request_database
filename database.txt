@@ -782,3 +782,4 @@
 ?izumi_houka -> bang_dream! bang_dream!_our_notes bang_dream!_yumemita danganronpa_(series) danganronpa_2:_goodbye_despair bang_dream!_girls_band_party! shoujo_kageki_revue_starlight magnet_(vocaloid) sweets_paradise
 ?shiomi_hotaru -> bang_dream! bang_dream!_our_notes bang_dream!_yumemita umamusume princess_connect! alice_gear_aegis sweets_paradise jujutsu_kaisen little_red_riding_hood_(fairy_tale)
 ?dark_knight_(final_fantasy) -> final_fantasy final_fantasy_xiv final_fantasy_iv original final_fantasy_xi final_fantasy_tactics dissidia_final_fantasy final_fantasy_iii nier_(series) nier:automata
+?gunbreaker_(final_fantasy) -> final_fantasy final_fantasy_xiv original nier_(series) nier:automata blue_archive hololive honkai_(series) bang_dream! honkai_impact_3rd
