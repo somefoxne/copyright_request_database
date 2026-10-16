@@ -887,3 +887,4 @@
 ?zeta_gundam_(mobile_suit) -> gundam zeta_gundam gundam_zz mobile_suit_gundam sd_gundam original gundam_f91 zeta_gundam_define victory_gundam
 ?male_tyrant_(stella_sora) -> stella_sora blue_archive arknights precure jojo_no_kimyou_na_bouken dragon_ball voiceroid utdr_(toby_fox) monogatari_(series) undertale
 ?tyrant_(stella_sora) -> stella_sora blue_archive arknights yostar original comiket_108 fate_(series) fate/grand_order indie_virtual_youtuber wuthering_waves
+?female_tyrant_(stella_sora) -> stella_sora blue_archive arknights yostar original comiket_108 fate_(series) fate/grand_order indie_virtual_youtuber wuthering_waves
