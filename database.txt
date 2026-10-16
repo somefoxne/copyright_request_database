@@ -468,3 +468,4 @@
 ?hatsuyuki_(kancolle) -> kantai_collection snow_white_(fairy_tale) judas_priest immortal_(band) gloryhammer gundam choo_choo_train aoki_hagane_no_arpeggio idolmaster idolmaster_cinderella_girls
 ?inazuma_(kancolle) -> kantai_collection transformers kantai_collection_(anime) transformers:_generation_1 pokemon gundam hokuto_no_ken youtube aoki_hagane_no_arpeggio original
 ?kiso_(kancolle) -> kantai_collection touhou fallout fallout:_new_vegas gundam aoki_hagane_no_arpeggio pokemon line_(naver) yuru-chara original
+?tatsuta_(kancolle) -> kantai_collection transformers transformers:_generation_1 aoki_hagane_no_arpeggio original idolmaster gundam pokemon fate_(series) idolmaster_(classic)
