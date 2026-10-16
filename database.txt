@@ -456,3 +456,4 @@
 ?aura_(sousou_no_frieren) -> sousou_no_frieren dragon_ball jujutsu_kaisen dungeon_meshi blue_archive bocchi_the_rock! comiket_103 pokemon chainsaw_man dragon_ball_z
 ?naplings_(nimi_nightmare) -> indie_virtual_youtuber hololive hololive_english densetsu.exe blue_archive pokemon genshin_impact vocaloid mario_(series) dragon_ball
 ?nimi_nightmare -> indie_virtual_youtuber hololive hololive_english densetsu.exe vinesauce original pokemon elden_ring vocaloid umamusume
+?artoria_caster_(fate) -> fate_(series) fate/grand_order fate/stay_night fate/grand_order_arcade original fate/extra tsukihime tsukihime_(remake) fate/prototype fate/strange_fake
