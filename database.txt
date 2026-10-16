@@ -86,3 +86,4 @@ ookami_mio_(street) -> hololive
 ?maruzensky_(umamusume) -> umamusume umamusume:_cinderella_gray umayuru pacific_racing_team original real_life blue_archive gundam initial_d gundam_suisei_no_majo
 ?soda_(nikke) -> goddess_of_victory:_nikke re:zero_kara_hajimeru_isekai_seikatsu nier_(series) nier:automata fate_(series) fate/grand_order zenless_zone_zero resident_evil machikado_mazoku stellar_blade
 ?hiiragi_kagami -> lucky_star vocaloid suzumiya_haruhi_no_yuuutsu k-on! kyoto_animation kantai_collection touhou clannad kagamin_bocchi mahou_shoujo_madoka_magica
+?yoshimi_(blue_archive) -> blue_archive the_beatles vocaloid comiket_105 bocchi_the_rock! kamen_rider abbey_road original gundam fate_(series)
