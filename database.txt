@@ -935,3 +935,4 @@
 ?kiss-shot_acerola-orion_heart-under-blade -> monogatari_(series) kizumonogatari bakemonogatari nisemonogatari fate_(series) kono_subarashii_sekai_ni_shukufuku_wo! tsukihime one-punch_man hyouka nekomonogatari
 ?paradox_(deadlock) -> deadlock_(game)
 ?angel_(in) -> original
+?demon_king_(in) -> original the_enigma_of_amigara_fault
