@@ -148,3 +148,4 @@
 ?kafka_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail mihoyo genshin_impact zenless_zone_zero honkai_impact_3rd chainsaw_man blue_archive original fate_(series)
 ?hirugami_sachiro -> haikyuu!!
 ?hoshiumi_kourai -> haikyuu!! the_legend_of_zelda bleach pokemon final_fantasy one_piece chainsaw_man final_fantasy_vii splatoon_(series) mario_(series)
+?balalaika_(black_lagoon) -> black_lagoon ichigo_mashimaro lyrical_nanoha suzumiya_haruhi_no_yuuutsu higurashi_no_naku_koro_ni eureka_seven_(series) eureka_seven gundam mahou_shoujo_lyrical_nanoha rozen_maiden
