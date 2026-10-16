@@ -210,3 +210,4 @@
 ?mori_calliope -> hololive hololive_english hololive_indonesia q_(hololive) hololive_dev_is minecraft indie_virtual_youtuber hololive_dreams one_piece monster_hunter_(series)
 ?mori_calliope_(stygian_zinogre) -> hololive hololive_english monster_hunter_(series) monster_hunter_wilds marvel
 ?nakano_azusa -> k-on! listen!! k-on!_movie no_thank_you!_(k-on!) singing!_(k-on!) vocaloid k-on!_high_school suzumiya_haruhi_no_yuuutsu yuruyuri
+?galo_thymos -> promare trigger_(company) kill_la_kill tengen_toppa_gurren_lagann jojo_no_kimyou_na_bouken cyberpunk_(series) darling_in_the_franxx cyberpunk:_edgerunners cyberpunk:_edgerunners_1 uchuu_patrol_luluco
