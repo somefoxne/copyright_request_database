@@ -916,3 +916,4 @@
 ?wo-chien -> pokemon pokemon_scarlet_and_violet pokemon_masters_ex original touhou pokemon_legends:_arceus pokemon_tcg love_live! nijisanji pokemon_(anime)
 ?kurokami_fubuki -> hololive fbkingdom_story rabbit_hole_(vocaloid) fall_guys pokemon zenless_zone_zero vocaloid marvel coca-cola backrooms_(creepypasta)
 ?bazett_fraga_mcremitz -> fate_(series) fate/hollow_ataraxia fate/stay_night fate/grand_order fate/kaleid_liner_prisma_illya fate/zero tsukihime type-moon fate/extra carnival_phantasm
+?yor_briar -> spy_x_family street_fighter street_fighter_6 resident_evil resident_evil_4 resident_evil_4_(remake) original hololive chainsaw_man final_fantasy
