@@ -164,3 +164,4 @@
 ?hanabi_(senran_kagura) -> senran_kagura senran_kagura_estival_versus senran_kagura_new_link senran_kagura_new_wave senran_kagura_peach_beach_splash senran_kagura_shinovi_versus pokemon pokemon_scarlet_and_violet pokemon_(anime)
 ?zhao_(zenless_zone_zero) -> zenless_zone_zero genshin_impact blue_archive pokemon honkai_(series) honkai:_star_rail jujutsu_kaisen the_two-thousand_yard_stare dexter_(tv_series) umamusume
 ?djeeta_(granblue_fantasy) -> granblue_fantasy street_fighter princess_connect! shingeki_no_bahamut idolmaster idolmaster_cinderella_girls fate_(series) granblue_fantasy_versus fate/grand_order granblue_fantasy:_relink
+?plymouth_(an_angelic_physical)_(azur_lane) -> azur_lane
