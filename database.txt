@@ -698,3 +698,4 @@
 ?touhoku_kiritan -> voiceroid vocaloid voicevox talkex utau cevio a.i._voice pokemon synthesizer_v kamitsubaki_studio
 ?mari_(headspace)_(omori) -> omori doki_doki_literature_club mario_(series) omariposa the_amazing_digital_circus emori original indie_virtual_youtuber danganronpa_(series) pokemon
 ?mari_(omori) -> omori emori doki_doki_literature_club rainy_mari pokemon omariposa mario_(series) utdr_(toby_fox) danganronpa_(series) the_amazing_digital_circus
+?arjuna_(fate) -> fate_(series) fate/grand_order fate/apocrypha fate/extra fate/extella fate/extella_link fate/stay_night fate/extra_ccc koha-ace fate/zero
