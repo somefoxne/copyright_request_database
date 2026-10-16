@@ -403,3 +403,4 @@
 ?parasoul_(skullgirls) -> skullgirls persona lab_zero_games street_fighter who_framed_roger_rabbit original guilty_gear persona_3 persona_4 darkstalkers
 ?ende_(miresi) -> miresi:_invisible_future
 ?itsuka_(miresi) -> miresi:_invisible_future
+?tieria_(miresi) -> miresi:_invisible_future
