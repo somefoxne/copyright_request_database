@@ -936,3 +936,4 @@
 ?paradox_(deadlock) -> deadlock_(game)
 ?angel_(in) -> original
 ?demon_king_(in) -> original the_enigma_of_amigara_fault
+?shinomiya_karen -> idolmaster idolmaster_million_live! idolmaster_million_live!_theater_days idolmaster_(classic) idolmaster_cinderella_girls idolmaster_shiny_colors azur_lane idolmaster_dearly_stars idolmaster_one_for_all idolmaster_stella_stage
