@@ -942,3 +942,4 @@
 ?kataochi_chuuko -> indie_virtual_youtuber south_park pokemon jojo_no_kimyou_na_bouken diamond_wa_kudakenai pokemon_adventures black_jack_(series) gregory_horror_show popee_the_performer
 ?kugisaki_nobara -> jujutsu_kaisen chainsaw_man jujutsu_kaisen_modulo naruto_(series) one_piece boku_no_hero_academia spy_x_family shounen_jump lost_in_paradise kimetsu_no_yaiba
 ?kita_shinsuke -> haikyuu!! kimetsu_no_yaiba one_piece chainsaw_man naruto_(series) naruto_(classic) sanrio hunter_x_hunter my_melody_(series) mob_psycho_100
+?sakata_gintoki -> gintama one_piece naruto_(series) blue_archive jojo_no_kimyou_na_bouken gintama_movie_2:_yorozuya_yo_eien_nare shounen_jump sannen_z-gumi_ginpachi_sensei dragon_ball bleach
