@@ -162,3 +162,4 @@
 ?brendan_(pokemon) -> pokemon pokemon_omega_ruby_and_alpha_sapphire pokemon_ruby/sapphire/emerald pokemon_adventures pokemon_diamond/pearl/platinum pokemon_emerald pokemon_heartgold_and_soulsilver pokemon_black_and_white pokemon_firered_and_leafgreen pokemon_gold/silver/crystal
 ?may_(pokemon) -> pokemon pokemon_omega_ruby_and_alpha_sapphire pokemon_ruby/sapphire/emerald pokemon_(anime) pokemon_the_series:_ruby_and_sapphire pokemon_adventures pokemon_diamond/pearl/platinum pokemon_emerald pokemon_firered_and_leafgreen pokemon_black_and_white
 ?hanabi_(senran_kagura) -> senran_kagura senran_kagura_estival_versus senran_kagura_new_link senran_kagura_new_wave senran_kagura_peach_beach_splash senran_kagura_shinovi_versus pokemon pokemon_scarlet_and_violet pokemon_(anime)
+?zhao_(zenless_zone_zero) -> zenless_zone_zero genshin_impact blue_archive pokemon honkai_(series) honkai:_star_rail jujutsu_kaisen the_two-thousand_yard_stare dexter_(tv_series) umamusume
