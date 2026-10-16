@@ -105,3 +105,4 @@ ookami_mio_(street) -> hololive
 ?tio_(konjiki_no_gash!!) -> konjiki_no_gash!! konjiki_no_gash!!_2 fullmetal_alchemist zero_no_tsukaima shakugan_no_shana hayate_no_gotoku! pita_ten otogi-juushi_akazukin idolmaster precure
 ?roy_mustang -> fullmetal_alchemist fullmetal_alchemist_(2003) fullmetal_alchemist_the_movie:_conqueror_of_shamballa fullmetal_alchemist_mobile fate_(series) pokemon naruto_(series) sousou_no_frieren fate/zero gintama
 ?malfoid -> wizarding_world harry_potter_(series) harry_potter_and_the_goblet_of_fire harry_potter_and_the_prisoner_of_azkaban harry_potter_and_the_deathly_hallows harry_potter_and_the_half-blood_prince harry_potter_and_the_chamber_of_secrets original fate_(series)
+?hyuuga_(kancolle) -> kantai_collection aoki_hagane_no_arpeggio line_(naver) girls_und_panzer drunken_master 300_(movie) neon_genesis_evangelion original gundam kamen_rider
