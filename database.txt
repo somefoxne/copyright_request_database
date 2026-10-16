@@ -655,3 +655,4 @@
 ?oumae_kumiko -> hibike!_euphonium gekijouban_hibike!_euphonium liz_to_aoi_tori kyoto_animation k-on! newtype megami_magazine umamusume animedia lycoris_recoil
 ?racing_miku -> vocaloid goodsmile_company goodsmile_racing super_gt magical_mirai_(vocaloid) pokemon umamusume nitroplus project_diva_(series) utau
 ?racing_miku_(2023_tropical_ver.) -> vocaloid goodsmile_company goodsmile_racing
+?hiroi_kikuri -> bocchi_the_rock! the_king_of_fighters guilty_gear touhou street_fighter chainsaw_man blazblue pokemon sousou_no_frieren darkest_dungeon
