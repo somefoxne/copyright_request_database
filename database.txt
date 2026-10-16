@@ -378,3 +378,4 @@
 ?kawakami_gensai_(third_ascension)_(fate) -> fate_(series) fate/grand_order fate/extra
 ?mocha-tan_(character) -> indie_virtual_youtuber blue_archive coca-cola izigenia
 ?ramlethal_valentine -> guilty_gear guilty_gear_xrd guilty_gear_strive tower_records pokemon pokemon_sword_and_shield blazblue guilty_gear_2 street_fighter arc_system_works
+?vincent_valentine_(stray_dog) -> final_fantasy final_fantasy_vii final_fantasy_vii:_ever_crisis final_fantasy_vii_remake nier_(series) monster_hunter_(series) final_fantasy_vii_rebirth final_fantasy_ix final_fantasy_vii:_advent_children monster_hunter_rise
