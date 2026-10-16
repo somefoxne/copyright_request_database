@@ -304,3 +304,4 @@
 ?shy_(character) -> shy_(series) ninja_defenders:_cat_shinobi touhou blue_archive gundam boku_no_hero_academia touhou_(pc-98) kamen_rider gundam_suisei_no_majo shinryaku!_ikamusume
 ?frenda_seivelun -> toaru_majutsu_no_index toaru_kagaku_no_railgun toaru_kagaku_no_railgun_t toaru_kagaku_no_railgun_s toaru_majutsu_no_index:_old_testament toaru_anbu_no_item toaru_majutsu_no_index:_new_testament k-on! toaru_majutsu_no_index:_endymion_no_kiseki fate_(series)
 ?yamaguro_nekuro -> aogiri_high_school indie_virtual_youtuber touhou idolmaster bang_dream! idolmaster_shiny_colors mario_(series) suzumiya_haruhi_no_yuuutsu dragon_quest
+?chris_redfield -> resident_evil resident_evil_6 resident_evil_5 resident_evil_village resident_evil_1 resident_evil_4 resident_evil_3:_nemesis resident_evil_2 resident_evil_3_(remake) resident_evil_requiem
