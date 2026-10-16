@@ -742,3 +742,4 @@
 ?yorigami_shion -> touhou antinomy_of_common_flowers sunken_fossil_world touhou_lostword touhou_(pc-98) cookie_(touhou) touhou_cannonball jojo_no_kimyou_na_bouken hidden_star_in_four_seasons pokemon
 ?fubukihime -> youkai_watch youkai_watch_2 youkai_watch:_punipuni youkai_watch_3 sannen_b-gumi_kinpachi_sensei touhou pokemon youkai_watch_jam:_youkai_gakuen_y vocaloid mario_(series)
 ?rei_(rosumini) -> original
+?kaede_(bakumatsu_rouman) -> bakumatsu_rouman snk fatal_fury garou:_mark_of_the_wolves the_king_of_fighters samurai_spirits ryuuko_no_ken touhou m.u.g.e.n
