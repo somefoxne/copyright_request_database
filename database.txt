@@ -406,3 +406,4 @@
 ?tieria_(miresi) -> miresi:_invisible_future
 ?shuten_douji_(fate) -> fate_(series) fate/grand_order fate/extra fate/stay_night pokemon fate/apocrypha fate/kaleid_liner_prisma_illya original kantai_collection learning_with_manga!_fgo
 ?ryuuguu_rena -> higurashi_no_naku_koro_ni higurashi_no_naku_koro_ni_mei suzumiya_haruhi_no_yuuutsu umineko_no_naku_koro_ni tsumihoroboshi-hen higurashi_no_naku_koro_ni_gou rozen_maiden fate_(series) fate/stay_night lyrical_nanoha
+?sonozaki_shion -> higurashi_no_naku_koro_ni higurashi_no_naku_koro_ni_mei umineko_no_naku_koro_ni meakashi-hen fate_(series) suzumiya_haruhi_no_yuuutsu fate/stay_night shakugan_no_shana higurashi_no_naku_koro_ni_gou gundam
