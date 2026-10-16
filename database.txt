@@ -584,3 +584,4 @@
 ?severian_lowell -> zenless_zone_zero moechakkafire genshin_impact mihoyo super_blackjack sushiro
 ?matikanefukukitaru_(rising_fortune)_(umamusume) -> umamusume pokemon real_life among_us touhou yu-gi-oh! dragon_ball marvel dragon_ball_z umamusume:_cinderella_gray
 ?matikanefukukitaru_(umamusume) -> umamusume pokemon real_life among_us umamusume:_cinderella_gray umayuru cygames jojo_no_kimyou_na_bouken umamusume:_party_dash touhou
+?celes_chere -> final_fantasy final_fantasy_vi dissidia_final_fantasy final_fantasy_v final_fantasy_vii final_fantasy_iv dissidia_duellum_final_fantasy final_fantasy_ix final_fantasy_x final_fantasy_viii
