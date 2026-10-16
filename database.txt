@@ -348,3 +348,4 @@
 ?privaty_(nikke) -> goddess_of_victory:_nikke blue_archive stellar_blade shift_up fate_(series) vocaloid fate/stay_night phase_connect original honkai_(series)
 ?privaty_(sharp_lesson)_(nikke) -> goddess_of_victory:_nikke blue_archive fate_(series) honkai_(series) fate/stay_night phase_connect honkai:_star_rail fire_emblem honkai_impact_3rd fire_emblem_heroes
 ?priscilla_barielle -> re:zero_kara_hajimeru_isekai_seikatsu re:zero_kara_hajimeru_isekai_seikatsu:_lost_in_memories nanatsu_no_taizai divine_gate nanatsu_no_taizai_grand_cross touhou hololive genshin_impact vocaloid granblue_fantasy
+?jill_valentine_(battle_suit) -> resident_evil resident_evil_5 resident_evil_3:_nemesis marvel_vs._capcom resident_evil_1 marvel_vs._capcom_3 street_fighter capcom resident_evil_3_(remake) marvel
