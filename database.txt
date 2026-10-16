@@ -619,3 +619,4 @@
 ?machinist_(final_fantasy) -> final_fantasy final_fantasy_xiv original bang_dream! twisted_wonderland touhou pokemon project_moon limbus_company
 ?isabela_madrigal -> encanto disney frozen_(disney) tangled aladdin_(movie) mickey_mouse_&_friends the_little_mermaid_(disney) inside_out tarzan_(disney_movie) turning_red
 ?camilo_madrigal -> encanto disney mickey_mouse_&_friends duffy_and_friends marvel avengers_(series) the_little_mermaid_(disney) big_hero_6 the_nightmare_before_christmas lady_and_the_tramp
+?jenny_wakeman -> my_life_as_a_teenage_robot vocaloid nickelodeon spongebob_squarepants_(series) jimmy_neutron_(series) danny_phantom the_fairly_oddparents mega_man_(series) pokemon el_tigre
