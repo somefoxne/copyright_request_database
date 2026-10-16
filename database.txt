@@ -639,3 +639,4 @@
 ?kamisato_ayaka -> genshin_impact mihoyo gigo honkai_(series) zenless_zone_zero honkai:_star_rail honkai_impact_3rd wuthering_waves spy_x_family horizon_(game)
 ?tsuyuki_moko -> original
 ?roxy_migurdia -> mushoku_tensei brown_dust_(series) brown_dust_2 kono_subarashii_sekai_ni_shukufuku_wo! genshin_impact sousou_no_frieren mushoku_tensei:_game_ni_nattemo_honki_dasu majo_no_tabitabi original re:zero_kara_hajimeru_isekai_seikatsu
+?katara -> avatar_legends avatar:_the_last_airbender avatar_aang:_the_last_airbender the_legend_of_korra marvel persona neon_genesis_evangelion gundam chainsaw_man bishoujo_senshi_sailor_moon
