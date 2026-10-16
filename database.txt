@@ -315,3 +315,4 @@
 ?espeon -> pokemon pokemon_firered_and_leafgreen pokemon_gold/silver/crystal pokemon_red/green/blue/yellow original pokemon_heartgold_and_soulsilver pokemon_colosseum pokemon_diamond/pearl/platinum pokemon_(anime) pokemon_unite
 ?beast_boy_(dc) -> dc_comics teen_titans teen_titans_go! pokemon cartoon_network adventure_time powerpuff_girls codename:_kids_next_door one_piece marvel
 ?raven_(dc) -> dc_comics teen_titans teen_titans_go! ben_10 pokemon multiversus marvel batman_(series) kim_possible_(series) panty_&_stocking_with_garterbelt
+?lara_(alishia_art) -> original overwatch grand_theft_auto grand_theft_auto_vi
