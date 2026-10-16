@@ -857,3 +857,4 @@
 ?yakumo_ran -> touhou perfect_cherry_blossom touhou_(pc-98) unfinished_dream_of_all_living_ghost imperishable_night original mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) pokemon touhou_lostword
 ?female_slayer_(dungeon_and_fighter) -> dungeon_and_fighter original dnf_duel sword_art_online goblin_slayer!
 ?spectre_(dungeon_and_fighter) -> dungeon_and_fighter dnf_duel
+?karasu_tabito -> blue_lock original fate_(series) fate/grand_order vocaloid reverse:1999 re:zero_kara_hajimeru_isekai_seikatsu bleach path_to_nowhere seihantai_na_kimi_to_boku
