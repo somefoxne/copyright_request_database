@@ -347,3 +347,4 @@
 ?totooria_helmold -> atelier_(series) atelier_totori atelier_meruru atelier_rorona atelier_resleriana atelier_lulua atelier_ayesha atelier_ryza touhou atelier_escha_&_logy
 ?privaty_(nikke) -> goddess_of_victory:_nikke blue_archive stellar_blade shift_up fate_(series) vocaloid fate/stay_night phase_connect original honkai_(series)
 ?privaty_(sharp_lesson)_(nikke) -> goddess_of_victory:_nikke blue_archive fate_(series) honkai_(series) fate/stay_night phase_connect honkai:_star_rail fire_emblem honkai_impact_3rd fire_emblem_heroes
+?priscilla_barielle -> re:zero_kara_hajimeru_isekai_seikatsu re:zero_kara_hajimeru_isekai_seikatsu:_lost_in_memories nanatsu_no_taizai divine_gate nanatsu_no_taizai_grand_cross touhou hololive genshin_impact vocaloid granblue_fantasy
