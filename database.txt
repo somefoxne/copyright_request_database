@@ -737,3 +737,4 @@
 ?yakumo_yukari -> touhou touhou_(pc-98) perfect_cherry_blossom imperishable_night pokemon original m.u.g.e.n touhou_lostword touhou_tag_dream reitaisai
 ?aryu_jyubei -> blue_lock teletubbies
 ?niko_ikki -> blue_lock umamusume sousou_no_frieren
+?oliver_aiku -> blue_lock
