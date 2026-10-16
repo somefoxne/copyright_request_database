@@ -117,3 +117,4 @@ ookami_mio_(street) -> hololive
 ?mian_toris -> caravan_kidd xenosaga xenosaga_episode_i battle_angel_alita hi_no_tori plawres_sanshirou black_magic_m-66 hi_no_tori_2772 lumroid_(series) mecha_battler_gilfer
 ?leets_(trickcal) -> trickcal blue_archive the_creation_of_adam the_great_gatsby
 ?laurent_thierry -> great_pretender fugou_keiji_balance:unlimited
+?leila_(toosaka_asagi) -> original
