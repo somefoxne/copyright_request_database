@@ -766,3 +766,4 @@
 ?kana_anaberal -> touhou touhou_(pc-98) phantasmagoria_of_dim.dream story_of_eastern_wonderland highly_responsive_to_prayers mystic_square lotus_land_story seihou perfect_cherry_blossom embodiment_of_scarlet_devil
 ?kyubey -> mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) mahou_shoujo_madoka_magica:_hangyaku_no_monogatari touhou magia_record:_mahou_shoujo_madoka_magica_gaiden mahou_shoujo_madoka_magica_movie_1_&_2 original vocaloid fate_(series) pokemon
 ?air_groove_(umamusume) -> umamusume umamusume:_cinderella_gray original real_life umayuru cygames pokemon comiket_102 kantai_collection gundam
+?fuji_kiseki_(shooting_star_revue)_(umamusume) -> umamusume umamusume:_beginning_of_a_new_era midori_no_makibaoo akari_ga_yatte_kitazo_(vocaloid) original pokemon umamusume:_cinderella_gray kantai_collection idolmaster jojo_no_kimyou_na_bouken
