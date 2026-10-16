@@ -208,3 +208,4 @@
 ?creeper -> minecraft mob_talker touhou original hololive marumaru_no_shuyaku_wa_wareware_da! vocaloid hololive_english mario_(series) pokemon
 ?male_doctor_(arknights) -> arknights original blue_archive ambience_synesthesia rainbow_six_siege kantai_collection arknights:_endfield umamusume bang_dream!
 ?mori_calliope -> hololive hololive_english hololive_indonesia q_(hololive) hololive_dev_is minecraft indie_virtual_youtuber hololive_dreams one_piece monster_hunter_(series)
+?mori_calliope_(stygian_zinogre) -> hololive hololive_english monster_hunter_(series) monster_hunter_wilds marvel
