@@ -795,3 +795,4 @@
 ?watanabe_manami -> seihantai_na_kimi_to_boku
 ?reg_(made_in_abyss) -> made_in_abyss hololive indie_virtual_youtuber kemono_friends chainsaw_man spy_x_family kobayashi-san_chi_no_maidragon touhou pokemon hololive_english
 ?kudamaki_tsukasa -> touhou unconnected_marketeers unfinished_dream_of_all_living_ghost touhou_(pc-98) touhou_lostword reitaisai perfect_cherry_blossom original akatsuki_records touhou_unreal_mahjong
+?mejiro_dober_(umamusume) -> umamusume umamusume:_cinderella_gray comiket_100 pokemon to_love-ru jojo_no_kimyou_na_bouken cygames umamusume:_party_dash idolmaster original
