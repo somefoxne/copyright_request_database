@@ -110,3 +110,4 @@
 ?silver_wolf_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail honkai_impact_3rd mihoyo genshin_impact vocaloid hoyohoyo_ni_shite_ageru kamen_rider blue_archive zenless_zone_zero
 ?artoria_pendragon_(fate) -> fate_(series) fate/grand_order fate/stay_night fate/zero fate/unlimited_codes fate/hollow_ataraxia fate/apocrypha fate/extra fate/unlimited_blade_works
 ?emiya_shirou -> fate_(series) fate/stay_night fate/grand_order fate/zero fate/hollow_ataraxia original fate/kaleid_liner_prisma_illya tsukihime fate/unlimited_blade_works
+?saber_(fate) -> fate_(series) fate/stay_night fate/grand_order fate/zero fate/hollow_ataraxia honkai_(series) honkai:_star_rail fate/extra fate/unlimited_blade_works fate/apocrypha
