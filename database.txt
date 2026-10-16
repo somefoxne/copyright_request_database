@@ -551,3 +551,4 @@
 ?bing_hayu -> luvdia project_i indie_virtual_youtuber among_us stardays
 ?isha_(vtuber) -> indie_virtual_youtuber luvdia
 ?fuji_kiseki_(umamusume) -> umamusume umamusume:_beginning_of_a_new_era original real_life midori_no_makibaoo pokemon umamusume:_cinderella_gray cygames jojo_no_kimyou_na_bouken
+?mash_kyrielight -> fate_(series) fate/grand_order fate/extra fate/stay_night kantai_collection fate/apocrypha learning_with_manga!_fgo blue_archive original fate/extra_ccc
