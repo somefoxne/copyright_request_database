@@ -488,3 +488,4 @@
 ?suzuya_(halloween)_(kancolle) -> kantai_collection darkstalkers
 ?suzuya_(kancolle) -> kantai_collection fate_(series) idolmaster azur_lane original touhou idolmaster_cinderella_girls fate/extra fate/extra_ccc fate/grand_order
 ?uzuki_(kancolle) -> kantai_collection gochuumon_wa_usagi_desu_ka? original azur_lane idolmaster idolmaster_cinderella_girls choo_choo_train kamen_rider poptepipic tensei_shitara_slime_datta_ken
+?yayoi_(kancolle) -> kantai_collection gochuumon_wa_usagi_desu_ka? choo_choo_train voiceroid kamen_rider twitter aoki_hagane_no_arpeggio idolmaster umamusume vocaloid
