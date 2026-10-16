@@ -897,3 +897,4 @@
 ?trailblazer_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail mihoyo genshin_impact fate_(series) zenless_zone_zero fate/stay_night honkai_impact_3rd fate/unlimited_blade_works wuthering_waves
 ?chrono_genesis_(prismatic_curator)_(umamusume) -> umamusume pakatube tokyo_sports real_life kamen_rider umamusume:_beginning_of_a_new_era keiba_book love_live! nijisanji jujutsu_kaisen
 ?chrono_genesis_(umamusume) -> umamusume real_life keiba_eight umayuru cygames umamusume:_cinderella_gray umamusume:_beginning_of_a_new_era sony japan_racing_association midori_no_makibaoo
+?aizen_sousuke -> bleach bleach:_sennen_kessen-hen bleach:_turn_back_the_pendulum bleach:_brave_souls touhou idolmaster bleach:_epilogue kantai_collection blue_archive jojo_no_kimyou_na_bouken
