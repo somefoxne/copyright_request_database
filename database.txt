@@ -40,3 +40,4 @@ ookami_mio_(street) -> hololive
 ?taiga_(ookami_mio) -> hololive umamusume hololive_english mario_(series) paper_mario_(series) paper_mario:_the_origami_king getting_over_it
 ?shihouin_yoruichi -> bleach bleach:_sennen_kessen-hen boku_no_hero_academia bleach:_turn_back_the_pendulum bleach:_brave_souls fate_(series) one_piece fate/grand_order original pokemon
 ?sussurro_(arknights) -> arknights blue_archive among_us the_legend_of_luo_xiaohei original kantai_collection ambience_synesthesia coca-cola comiket_105 comiket_108
+?sussurro_(travel_freely)_(arknights) -> arknights comiket_105 comiket_108
