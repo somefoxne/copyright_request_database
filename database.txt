@@ -143,3 +143,4 @@ ookami_mio_(street) -> hololive
 ?litten -> pokemon pokemon_sun_and_moon pokemon_(anime) pokemon_ultra_sun_and_ultra_moon pokemon_the_series:_sun_&_moon pokemon_scarlet_and_violet pokemon_black_and_white pokemon_diamond/pearl/platinum pokemon_x_and_y pokemon_sword_and_shield
 ?sprigatito -> pokemon pokemon_scarlet_and_violet pokemon_(anime) pokemon_horizons pokemon_sword_and_shield splatoon_(series) pokemon_sun_and_moon splatoon_3 original pokemon_x_and_y
 ?vulpix -> pokemon pokemon_(anime) pokemon_firered_and_leafgreen pokemon_red/green/blue/yellow pokemon_(classic_anime) original pokemon_mystery_dungeon pokemon_sword_and_shield pokemon_scarlet_and_violet pokemon_mystery_dungeon:_explorers_of_time/darkness/sky
+?wooper -> pokemon pokemon_gold/silver/crystal pokemon_heartgold_and_soulsilver pokemon_sword_and_shield pokemon_scarlet_and_violet pokemon_(anime) pokemon_diamond/pearl/platinum hololive pokemon_(classic_anime) original
