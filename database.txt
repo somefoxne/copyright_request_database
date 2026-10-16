@@ -582,3 +582,4 @@
 ?usami_renko -> touhou touhou_(pc-98) ghostly_field_club taboo_japan_disentanglement magical_astronomy trojan_green_asteroid dateless_bar_"old_adam" retrospective_53_minutes neo-traditionalism_of_japan
 ?taihou_(kancolle) -> kantai_collection line_(naver) azur_lane aoki_hagane_no_arpeggio gundam girls_und_panzer original fate_(series) world_witches_series strike_witches
 ?severian_lowell -> zenless_zone_zero moechakkafire genshin_impact mihoyo super_blackjack sushiro
+?matikanefukukitaru_(rising_fortune)_(umamusume) -> umamusume pokemon real_life among_us touhou yu-gi-oh! dragon_ball marvel dragon_ball_z umamusume:_cinderella_gray
