@@ -614,3 +614,4 @@
 ?kiwi_(cyberpunk) -> cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 wuthering_waves chainsaw_man sousou_no_frieren bemani va-11_hall-a trigger_(company) cyberpunk:_edgerunners_2
 ?monomi_(danganronpa) -> danganronpa_(series) danganronpa_2:_goodbye_despair danganronpa:_trigger_happy_havoc danganronpa_v3:_killing_harmony tetris danganronpa_another_episode:_ultra_despair_girls danganronpa/zero
 ?serperior -> pokemon pokemon_black_2_and_white_2 pokemon_black_and_white pokemon_diamond/pearl/platinum pokemon_firered_and_leafgreen pokemon_masters_ex pokemon_heartgold_and_soulsilver original pokemon_sun_and_moon pokemon_red/green/blue/yellow
+?dante_(devil_may_cry) -> devil_may_cry_(series) devil_may_cry_3 devil_may_cry_5 devil_may_cry_4 devil_may_cry_2 capcom devil_may_cry_1 resident_evil devil_may_cry_(netflix) marvel_vs._capcom
