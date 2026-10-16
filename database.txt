@@ -869,3 +869,4 @@
 ?sugi_(kancolle) -> kantai_collection gundam gundam_08th_ms_team yuru-chara c2_kikan pokemon gundam_gquuuuuux pop_mart beavis_and_butt-head the_monsters_(kasing_lung)
 ?gladion_(pokemon) -> pokemon pokemon_sun_and_moon pokemon_(anime) pokemon_the_series:_sun_&_moon pokemon_masters_ex pokemon_sword_and_shield pokemon_ultra_sun_and_ultra_moon pokemon_journeys pokemon_scarlet_and_violet pokemon_black_and_white
 ?hau_(pokemon) -> pokemon pokemon_sun_and_moon pokemon_masters_ex pokemon_ultra_sun_and_ultra_moon pokemon_(anime) pokemon_sword_and_shield pokemon_the_series:_sun_&_moon pokemon_x_and_y pokemon_black_2_and_white_2 pokemon_heartgold_and_soulsilver
+?chun-sensei -> love_live! love_live!_school_idol_project ikizulive!_love_live!_bluebird bokura_wa_ima_no_naka_de
