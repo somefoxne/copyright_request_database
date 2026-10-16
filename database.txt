@@ -718,3 +718,4 @@
 ?kawashiro_nitori -> touhou mountain_of_faith touhou_(pc-98) reitaisai reitaisai_8_contest original pokemon subterranean_animism touhou_lostword touhou_tag_dream
 ?arjuna_alter_(first_ascension)_(fate) -> fate_(series) fate/grand_order fate/apocrypha fate/grand_order_arcade precure fate/extra fate/kaleid_liner_prisma_illya futari_wa_precure touhou pokemon
 ?pyra_(xenoblade) -> xenoblade_chronicles_(series) xenoblade_chronicles_2 super_smash_bros. xenoblade_chronicles_3 mario_(series) xenoblade_chronicles_3:_future_redeemed fire_emblem xenoblade_chronicles_1 pokemon the_legend_of_zelda
+?vickie_(cryingrobot)_(character) -> original microsoft_windows windows_classic pokemon windows_95 internet_explorer windows_xp bliss_(image) lol_comics 2channel
