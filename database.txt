@@ -423,3 +423,4 @@
 ?isagi_yoichi -> blue_lock world_cup 2026_fifa_world_cup sanrio hello_kitty little_red_riding_hood_(fairy_tale) wind_breaker_(nii_satoru) vocaloid one_piece boku_no_hero_academia
 ?ishitsuki_kaoru -> original
 ?sephiroth -> final_fantasy final_fantasy_vii final_fantasy_vii:_ever_crisis final_fantasy_vii_remake final_fantasy_vii:_advent_children crisis_core:_final_fantasy_vii final_fantasy_vii_rebirth super_smash_bros. dissidia_final_fantasy kingdom_hearts
+?sephiroth_(ever_crisis) -> final_fantasy final_fantasy_vii final_fantasy_vii:_ever_crisis final_fantasy_vii:_advent_children final_fantasy_vii_remake crisis_core:_final_fantasy_vii dragon_quest final_fantasy_vii_rebirth final_fantasy_vi dragon_quest_iv
