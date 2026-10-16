@@ -446,3 +446,4 @@
 ?palutena -> kid_icarus kid_icarus_uprising super_smash_bros. mario_(series) fire_emblem metroid the_legend_of_zelda fire_emblem_awakening pokemon xenoblade_chronicles_(series)
 ?pit_(kid_icarus) -> kid_icarus kid_icarus_uprising super_smash_bros. the_legend_of_zelda kirby_(series) fire_emblem mario_(series) pokemon metroid fire_emblem:_mystery_of_the_emblem
 ?rapi_(nikke) -> goddess_of_victory:_nikke nier_(series) nier:automata neon_genesis_evangelion stellar_blade rebuild_of_evangelion shift_up blue_archive evangelion:_3.0_you_can_(not)_redo re:zero_kara_hajimeru_isekai_seikatsu
+?rapi_(red_hood)_(nikke) -> goddess_of_victory:_nikke stellar_blade blue_archive umamusume shift_up fate_(series) fate/grand_order honkai_(series) honkai:_star_rail zenless_zone_zero
