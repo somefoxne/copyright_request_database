@@ -399,3 +399,4 @@
 ?roman_carax -> cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_2 netflix cyberpunk_2077 naruto_(series) kill_la_kill tengen_toppa_gurren_lagann naruto_shippuuden cyberpunk:_edgerunners_1
 ?talia_yang -> cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_2 hololive hololive_english netflix cyberpunk:_edgerunners_1 arknights vrchat indie_virtual_youtuber
 ?mew_(pokemon) -> pokemon pokemon_(anime) pokemon_red/green/blue/yellow pokemon_firered_and_leafgreen pokemon_tcg pokemon_(classic_anime) pokemon_diamond/pearl/platinum pokemon_journeys original pokemon_ruby/sapphire/emerald
+?cirno -> touhou embodiment_of_scarlet_devil hidden_star_in_four_seasons touhou_(pc-98) cookie_(touhou) touhou_lostword advent_cirno pokemon mario_(series)
