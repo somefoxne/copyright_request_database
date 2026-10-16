@@ -88,3 +88,4 @@ unused_hololive_vtuber_(parsley-f) -> hololive
 ?toutetsu_yuuma -> touhou sunken_fossil_world unfinished_dream_of_all_living_ghost touhou_lostword original touhou_(pc-98) wily_beast_and_weakest_creature kirby_(series) reitaisai dragon_ball
 ?tagah -> avatar_legends avatar_aang:_the_last_airbender avatar:_the_last_airbender
 ?peashooter_(plants_vs._zombies) -> plants_vs._zombies original plants_vs._zombies_2 hollow_knight pokemon mario_(series) minecraft vocaloid utdr_(toby_fox) cuphead_(game)
+?fletchling -> pokemon pokemon_x_and_y pokemon_legends:_z-a pokemon_(anime) pokemon_scarlet_and_violet original pokemon_the_series:_xy pokemon_tcg pokemon_diamond/pearl/platinum pokemon_black_and_white
