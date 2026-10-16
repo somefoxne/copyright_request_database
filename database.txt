@@ -369,3 +369,4 @@
 ?kinomoto_sakura -> cardcaptor_sakura cardcaptor_sakura_clear_card_arc bishoujo_senshi_sailor_moon cardcaptor_sakura:_memory_key mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) fate_(series) precure ojamajo_doremi touhou
 ?kinomoto_sakura_(pink_star_angel_costume) -> cardcaptor_sakura lyrical_nanoha mahou_shoujo_lyrical_nanoha fate_(series) fate/kaleid_liner_prisma_illya slayers mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime)
 ?dark_sun_gwyndolin -> dark_souls_(series) dark_souls_i dark_souls_iii elden_ring fromsoftware elden_ring:_shadow_of_the_erdtree sekiro:_shadows_die_twice pokemon dark_souls_ii
+?tifa_lockhart_(black_mage) -> final_fantasy final_fantasy_vii final_fantasy_vii_remake final_fantasy_vii_revelation final_fantasy_ix final_fantasy_vii_rebirth final_fantasy_vii:_ever_crisis final_fantasy_x
