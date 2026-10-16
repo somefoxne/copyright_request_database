@@ -331,3 +331,4 @@
 ?satonaka_chie -> persona persona_4 persona_3 persona_4_the_golden persona_4:_the_ultimate_in_mayonaka_arena persona_4_revival persona_5 persona_3_portable persona_dancing persona_4:_dancing_all_night
 ?takamaki_ann -> persona persona_5 persona_5_the_royal persona_4 persona_dancing persona_5:_dancing_star_night persona_3 persona_5_scramble:_the_phantom_strikers fire_emblem metroid
 ?tifa_lockhart -> final_fantasy final_fantasy_vii final_fantasy_vii_remake final_fantasy_vii_rebirth final_fantasy_vii:_ever_crisis final_fantasy_vii:_advent_children crisis_core:_final_fantasy_vii street_fighter final_fantasy_vii_revelation street_fighter_6
+?von_lycaon -> zenless_zone_zero mihoyo genshin_impact arknights original honkai_(series) honkai:_star_rail coca-cola moechakkafire indie_virtual_youtuber
