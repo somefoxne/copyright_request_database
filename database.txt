@@ -918,3 +918,4 @@
 ?bazett_fraga_mcremitz -> fate_(series) fate/hollow_ataraxia fate/stay_night fate/grand_order fate/kaleid_liner_prisma_illya fate/zero tsukihime type-moon fate/extra carnival_phantasm
 ?yor_briar -> spy_x_family street_fighter street_fighter_6 resident_evil resident_evil_4 resident_evil_4_(remake) original hololive chainsaw_man final_fantasy
 ?elysia_(miss_pink_elf)_(honkai_impact) -> honkai_(series) honkai_impact_3rd honkai:_star_rail mihoyo genshin_impact zenless_zone_zero honkai_gakuen original arknights mahou_shoujo_madoka_magica
+?elysia_(summer_miss_elf)_(honkai_impact) -> honkai_(series) honkai_impact_3rd honkai:_star_rail honkai_gakuen mihoyo zenless_zone_zero genshin_impact sono_bisque_doll_wa_koi_wo_suru kawaii_kaiwai original
