@@ -809,3 +809,4 @@
 ?doremy_sweet -> touhou legacy_of_lunatic_kingdom touhou_(pc-98) antinomy_of_common_flowers pokemon touhou_lostword touhou_cannonball ten_desires double_dealing_character touhou_bougetsushou
 ?ari_(class_of_09) -> class_of_09 touhou dc_comics doki_doki_literature_club superman_(series) little_red_riding_hood_(fairy_tale) superman_(2025) itazuraguma_no_gloomy
 ?nicole_(class_of_09) -> class_of_09 class_of_09:_the_flip_side doki_doki_literature_club degrees_of_lewdity my_chemical_romance squid_game nhk_(broadcaster) blink-182 pokemon genshin_impact
+?izawa_natsume -> bang_dream! bang_dream!_our_notes umamusume princess_connect! alice_gear_aegis little_red_riding_hood_(fairy_tale) ore_no_imouto_ga_konna_ni_kawaii_wake_ga_nai youtube sweets_paradise
