@@ -360,3 +360,4 @@
 ?label_(nikke) -> goddess_of_victory:_nikke pokemon blue_archive pokemon_x_and_y original hololive vocaloid zenless_zone_zero hololive_english indie_virtual_youtuber
 ?label_(occultist)_(nikke) -> goddess_of_victory:_nikke
 ?ceres_fauna -> hololive hololive_english hololive_indonesia minecraft indie_virtual_youtuber hololive_dev_is pokemon holostars among_us getting_over_it
+?arakiya_(re:zero) -> re:zero_kara_hajimeru_isekai_seikatsu re:zero_kara_sasageru_isekai_seikatsu
