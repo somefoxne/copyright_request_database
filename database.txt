@@ -662,3 +662,4 @@
 ?tsukamoto_shuuichi -> hibike!_euphonium gekijouban_hibike!_euphonium newtype liz_to_aoi_tori 7-eleven
 ?malon -> the_legend_of_zelda the_legend_of_zelda:_ocarina_of_time the_legend_of_zelda:_twilight_princess the_legend_of_zelda:_the_wind_waker the_legend_of_zelda:_skyward_sword the_legend_of_zelda:_ocarina_of_time_(remake) the_legend_of_zelda:_oracle_of_ages the_legend_of_zelda:_oracle_of_seasons
 ?hermit_purple -> jojo_no_kimyou_na_bouken stardust_crusaders battle_tendency diamond_wa_kudakenai phantom_blood vento_aureo stone_ocean steel_ball_run jojolion touhou
+?iggy_(jojo) -> jojo_no_kimyou_na_bouken stardust_crusaders diamond_wa_kudakenai stone_ocean battle_tendency vento_aureo phantom_blood steel_ball_run jojolion pokemon
