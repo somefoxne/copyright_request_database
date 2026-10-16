@@ -425,3 +425,4 @@
 ?sephiroth -> final_fantasy final_fantasy_vii final_fantasy_vii:_ever_crisis final_fantasy_vii_remake final_fantasy_vii:_advent_children crisis_core:_final_fantasy_vii final_fantasy_vii_rebirth super_smash_bros. dissidia_final_fantasy kingdom_hearts
 ?sephiroth_(ever_crisis) -> final_fantasy final_fantasy_vii final_fantasy_vii:_ever_crisis final_fantasy_vii:_advent_children final_fantasy_vii_remake crisis_core:_final_fantasy_vii dragon_quest final_fantasy_vii_rebirth final_fantasy_vi dragon_quest_iv
 ?mafumafu -> indie_utaite after_the_rain vocaloid kawaikute_gomen_(honeyworks) pokemon hololive turing_love monitoring_(vocaloid) original kyu-kurarin_(cevio)
+?ushiromiya_jessica -> umineko_no_naku_koro_ni higurashi_no_naku_koro_ni touhou turn_of_the_golden_witch ougon_musou_kyoku higurashi_umineko_card_battle_jin mario_(series) durarara!! end_of_the_golden_witch bang_dream!
