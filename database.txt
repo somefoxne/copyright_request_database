@@ -244,3 +244,4 @@
 ?power_(chainsaw_man) -> chainsaw_man jujutsu_kaisen dragon_ball boku_no_hero_academia spy_x_family goddess_of_victory:_nikke original dragon_ball_z one_piece
 ?raora_panthera -> hololive hololive_english hololive_indonesia enigmatic_recollection mage_arena hololive_dev_is pokemon monster_hunter_(series) umamusume minecraft
 ?samurai_jack_(character) -> samurai_jack johnny_bravo_(series) powerpuff_girls cartoon_network courage_the_cowardly_dog adventure_time ed_edd_n_eddy the_grim_adventures_of_billy_&_mandy
+?android_19 -> dragon_ball dragon_ball_z dragon_ball_(classic) dragon_ball_fighterz dragon_ball_super dr._slump dragon_ball_gt dragon_ball_super_broly dragon_ball_heroes dragon_ball_super_super_hero
