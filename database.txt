@@ -654,3 +654,4 @@
 ?volke_(fire_emblem) -> fire_emblem fire_emblem:_path_of_radiance fire_emblem:_radiant_dawn fire_emblem_heroes fire_emblem:_genealogy_of_the_holy_war fire_emblem:_mystery_of_the_emblem fire_emblem_fates fire_emblem_awakening fire_emblem:_the_blazing_blade fire_emblem:_the_sacred_stones
 ?oumae_kumiko -> hibike!_euphonium gekijouban_hibike!_euphonium liz_to_aoi_tori kyoto_animation k-on! newtype megami_magazine umamusume animedia lycoris_recoil
 ?racing_miku -> vocaloid goodsmile_company goodsmile_racing super_gt magical_mirai_(vocaloid) pokemon umamusume nitroplus project_diva_(series) utau
+?racing_miku_(2023_tropical_ver.) -> vocaloid goodsmile_company goodsmile_racing
