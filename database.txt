@@ -708,3 +708,4 @@
 ?basil_(omori) -> omori omariposa emori pokemon utdr_(toby_fox) undertale original vocaloid deltarune persona
 ?kiana_kaslana -> honkai_(series) honkai_impact_3rd honkai_gakuen honkai:_star_rail mihoyo genshin_impact honkai:_nexus_anima zenless_zone_zero neon_genesis_evangelion promare
 ?lynette_(genshin_impact) -> genshin_impact mihoyo kfc zenless_zone_zero honkai_(series) honkai:_star_rail blue_archive olympics 2024_summer_olympics pokemon
+?mythra_(xenoblade) -> xenoblade_chronicles_(series) xenoblade_chronicles_2 super_smash_bros. xenoblade_chronicles_3 mario_(series) pokemon fire_emblem xenoblade_chronicles_3:_future_redeemed kirby_(series) xenoblade_chronicles_1
