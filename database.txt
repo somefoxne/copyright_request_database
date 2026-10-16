@@ -727,3 +727,4 @@
 ?taira_shuuji -> seihantai_na_kimi_to_boku sono_bisque_doll_wa_koi_wo_suru koori_no_jouheki
 ?tani_yuusuke -> seihantai_na_kimi_to_boku spy_x_family sono_bisque_doll_wa_koi_wo_suru dandadan mato_seihei_no_slave kaijuu_no._8 shounen_jump 2.5_jigen_no_ririsa hime-sama_"goumon"_no_jikan_desu marriagetoxin
 ?yamada_kentarou -> seihantai_na_kimi_to_boku koori_no_jouheki
+?hakurei_reimu -> touhou cookie_(touhou) touhou_(pc-98) embodiment_of_scarlet_devil imperishable_night touhou_lostword original vocaloid manatsu_no_yo_no_inmu unfinished_dream_of_all_living_ghost
