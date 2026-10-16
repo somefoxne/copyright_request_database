@@ -865,3 +865,4 @@
 ?alexandra_tamsanqa -> fire_emblem real_life
 ?elphelt_valentine -> guilty_gear guilty_gear_strive guilty_gear_xrd blazblue sonic_(series) arc_system_works pokemon street_fighter guilty_gear_2
 ?tenko_shibuki -> stellive pokemon bleach sanrio my_melody_(series) kantai_collection blue_archive mario_(series) pokemon_(anime) utdr_(toby_fox)
+?shinra_kusakabe -> soul_eater fire_emblem one_piece persona toaru_majutsu_no_index re:zero_kara_hajimeru_isekai_seikatsu kimetsu_no_yaiba sword_art_online persona_5
