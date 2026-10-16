@@ -36,3 +36,4 @@ ookami_mio -> hololive
 ?entelechia_(dazzling_blue)_(arknights) -> arknights microsoft_windows windows_classic
 ?ookami_mio_(our_sparkle) -> hololive fbkingdom_story
 ?konjiki_no_yami -> to_love-ru to_love-ru_darkness azur_lane senran_kagura senran_kagura_new_link kantai_collection megami_magazine to_love-ru_darkness_2nd lyrical_nanoha dolphin_wave
+?lala_satalin_deviluke -> to_love-ru to_love-ru_darkness azur_lane love_live! love_live!_superstar!! date_a_live love_live!_nijigasaki_high_school_idol_club megami_magazine dolphin_wave date_a_live:_rinne_utopia
