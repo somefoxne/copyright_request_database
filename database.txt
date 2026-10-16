@@ -860,3 +860,4 @@
 ?karasu_tabito -> blue_lock original fate_(series) fate/grand_order vocaloid reverse:1999 re:zero_kara_hajimeru_isekai_seikatsu bleach path_to_nowhere seihantai_na_kimi_to_boku
 ?nitocris_(caster)_(fate) -> fate_(series) fate/grand_order learning_with_manga!_fgo fate/extra fate/apocrypha fate/stay_night yu-gi-oh! fate/extra_ccc animal_crossing fate/prototype
 ?nitocris_(fate) -> fate_(series) fate/grand_order fate/extra learning_with_manga!_fgo fate/apocrypha koha-ace fate/stay_night fate/extra_ccc original bleach
+?smart_falcon_(umamusume) -> umamusume real_life pokemon original cygames world_cup umamusume:_cinderella_gray f-zero kirby_(series) kfc
