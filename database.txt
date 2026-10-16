@@ -570,3 +570,4 @@
 ?brooklyn_(kancolle) -> kantai_collection gundam gundam_seed godzilla_(series) shin_godzilla street_fighter splatoon_(series) marvel kimetsu_no_yaiba street_fighter_ii_(series)
 ?tsushima_(halloween)_(kancolle) -> kantai_collection
 ?tsushima_(kancolle) -> kantai_collection ghost_of_tsushima azur_lane umamusume gundam yurucamp twitter original fate_(series) fate/grand_order
+?itou_bungaku -> real_life kuso_miso_technique barazoku_(magazine)
