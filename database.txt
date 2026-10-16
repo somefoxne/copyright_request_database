@@ -914,3 +914,4 @@
 ?archie_(fall_2026)_(pokemon) -> pokemon pokemon_masters_ex pokemon_omega_ruby_and_alpha_sapphire pokemon_ruby/sapphire/emerald
 ?archie_(pokemon) -> pokemon pokemon_omega_ruby_and_alpha_sapphire pokemon_ruby/sapphire/emerald pokemon_diamond/pearl/platinum pokemon_x_and_y pokemon_black_and_white pokemon_sun_and_moon pokemon_masters_ex pokemon_red/green/blue/yellow pokemon_firered_and_leafgreen
 ?wo-chien -> pokemon pokemon_scarlet_and_violet pokemon_masters_ex original touhou pokemon_legends:_arceus pokemon_tcg love_live! nijisanji pokemon_(anime)
+?kurokami_fubuki -> hololive fbkingdom_story rabbit_hole_(vocaloid) fall_guys pokemon zenless_zone_zero vocaloid marvel coca-cola backrooms_(creepypasta)
