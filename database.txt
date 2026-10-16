@@ -878,3 +878,4 @@
 ?robin_(summeretto)_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail vocaloid zenless_zone_zero fate_(series) fate/stay_night microsoft_windows fate/unlimited_blade_works honkai_impact_3rd mihoyo
 ?saionji_kazari -> otome_domain comiket_103 kantai_collection
 ?aono_ruri_(niwata0) -> original the_walking_dead suica
+?asuka_minato -> otome_domain kantai_collection comiket_103 senren_banka sanoba_witch hapymaher tenkuu_no_yumina watashi_no_hatsukoi_wa_hazukashisugite_dare_ni_mo_ienai original idolmaster
