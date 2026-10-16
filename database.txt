@@ -596,3 +596,4 @@
 ?arietta_(tales) -> tales_of_(series) tales_of_the_abyss tales_of_symphonia tales_of_vesperia tales_of_xillia tales_of_asteria tales_of_graces tales_of_destiny tales_of_phantasia tales_of_eternia
 ?asch_(tales) -> tales_of_(series) tales_of_the_abyss tales_of_vesperia tales_of_symphonia tales_of_phantasia tales_of_destiny tales_of_innocence tales_of_graces tales_of_xillia tales_of_symphonia_knight_of_ratatosk
 ?dist_(tales) -> tales_of_(series) tales_of_the_abyss tales_of_symphonia tales_of_legendia tales_of_vesperia tales_of_graces tales_of_innocence tales_of_xillia tales_of_destiny tales_of_symphonia_knight_of_ratatosk
+?guy_cecil -> tales_of_(series) tales_of_the_abyss tales_of_vesperia tales_of_symphonia tales_of_destiny tales_of_xillia tales_of_phantasia tales_of_graces tales_of_legendia tales_of_rebirth
