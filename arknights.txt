@@ -850,7 +850,6 @@ takeba_yukari_(in_vigil_of_dawn_and_dusk) -> arknights
 ash_(rainbow_six_siege) -> rainbow_six_siege  
 ash_(ranger)_(rainbow_six_siege) -> arknights
 blitz_(rainbow_six_siege) -> rainbow_six_siege  
--> arknights
 doc_(rainbow_six_siege) -> rainbow_six_siege  
 doc_(exhibition)_(rainbow_six_siege) -> arknights
 ela_(rainbow_six_siege) -> rainbow_six_siege  
