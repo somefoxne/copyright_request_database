@@ -374,3 +374,4 @@
 ?aether_(genshin_impact) -> genshin_impact mihoyo honkai_(series) honkai:_star_rail zenless_zone_zero original wuthering_waves honkai_impact_3rd fate_(series) fate/grand_order
 ?lumine_(as_heaven_and_earth_are_made_anew)_(genshin_impact) -> genshin_impact honkai_(series) honkai:_star_rail mihoyo kokoro_yohou_(eve) jujutsu_kaisen comiket_108 chiikawa wonder_girls
 ?lumine_(genshin_impact) -> genshin_impact mihoyo honkai_(series) honkai:_star_rail zenless_zone_zero honkai_impact_3rd wuthering_waves original fate_(series) fate/grand_order
+?kawakami_gensai_(fate) -> fate_(series) fate/grand_order rurouni_kenshin pokemon fate/extra kimi_no_koto_ga_dai_dai_dai_dai_daisuki_na_100-nin_no_kanojo fate/samurai_remnant comiket_108
