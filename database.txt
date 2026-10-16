@@ -118,3 +118,4 @@
 ?plymouth_(azur_lane) -> azur_lane world_of_warships coca-cola chainsaw_man suika_game azur_lane:_crosswave fumo_collection
 ?chito_(shoujo_shuumatsu_ryokou) -> shoujo_shuumatsu_ryokou shimeji_simulation bocchi_the_rock! nichijou hidamari_sketch original touhou vocaloid hololive hololive_english
 ?yuuri_(shoujo_shuumatsu_ryokou) -> shoujo_shuumatsu_ryokou shimeji_simulation bocchi_the_rock! nichijou original touhou minecraft hidamari_sketch utau yurucamp
+?griseo -> honkai_(series) honkai_impact_3rd honkai:_star_rail star_wars mihoyo blue_archive genshin_impact arknights honkai_gakuen little_red_riding_hood_(fairy_tale)
