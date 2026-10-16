@@ -226,3 +226,4 @@
 ?ninamori_eri -> flcl little_witch_academia top_wo_nerae!_(series) top_wo_nerae! comiket_88 daihatsu the_pillows touhou neon_genesis_evangelion tengen_toppa_gurren_lagann
 ?cissia_(zenless_zone_zero) -> zenless_zone_zero genshin_impact mihoyo original honkai_(series) honkai:_star_rail blue_archive arknights honkai_impact_3rd chainsaw_man
 ?seth_lowell -> zenless_zone_zero genshin_impact tom_and_jerry mihoyo sushiro honkai_(series) honkai:_star_rail moechakkafire the_scream original
+?gunko -> one_piece touhou holy_knight
