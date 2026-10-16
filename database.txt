@@ -103,3 +103,4 @@ unused_hololive_vtuber_(parsley-f) -> hololive
 ?kieran_(pokemon) -> pokemon pokemon_scarlet_and_violet pokemon_masters_ex pokemon_sword_and_shield pokemon_sun_and_moon pokemon_legends:_z-a pokemon_(anime) original pokemon_legends:_arceus pokemon_horizons
 ?litten -> pokemon pokemon_sun_and_moon pokemon_(anime) pokemon_ultra_sun_and_ultra_moon pokemon_the_series:_sun_&_moon pokemon_scarlet_and_violet pokemon_black_and_white pokemon_diamond/pearl/platinum pokemon_x_and_y pokemon_sword_and_shield
 ?sprigatito -> pokemon pokemon_scarlet_and_violet pokemon_(anime) pokemon_horizons pokemon_sword_and_shield splatoon_(series) pokemon_sun_and_moon splatoon_3 original pokemon_x_and_y
+?vulpix -> pokemon pokemon_(anime) pokemon_firered_and_leafgreen pokemon_red/green/blue/yellow pokemon_(classic_anime) original pokemon_mystery_dungeon pokemon_sword_and_shield pokemon_scarlet_and_violet pokemon_mystery_dungeon:_explorers_of_time/darkness/sky
