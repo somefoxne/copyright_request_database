@@ -326,3 +326,4 @@
 ?yang_xiao_long -> rwby rwby_chibi fate_(series) blazblue dc_comics rooster_teeth genshin_impact league_of_legends marvel blazblue:_cross_tag_battle
 ?lilian_tabitha -> fire_emblem
 ?commander_(nikke) -> goddess_of_victory:_nikke blue_archive comiket_103 nier_(series) shift_up original nier:automata lycoris_recoil persona fate_(series)
+?boku_no_rhythm_wo_kiitekure_(stand) -> jojo_no_kimyou_na_bouken steel_ball_run stardust_crusaders vento_aureo diamond_wa_kudakenai stone_ocean phantom_blood jojolion oyecomova_(song)
