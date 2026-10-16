@@ -533,3 +533,4 @@
 ?kannagi_tenri -> indie_virtual_youtuber blue_archive pokemon pokemon_scarlet_and_violet nyanko_daisensou aogiri_high_school meridian_project jishenkong_jihua game_club_project
 ?meg_(wakamepiza) -> original
 ?unohana_retsu -> bleach bleach:_sennen_kessen-hen bleach:_brave_souls one_piece naruto_(series) idolmaster naruto_(classic) bleach:_turn_back_the_pendulum gakuen_idolmaster bleach:_epilogue
+?unohana_yachiru -> bleach bleach:_sennen_kessen-hen bleach:_brave_souls idolmaster marvel spider-man_(series) idolmaster_cinderella_girls idolmaster_(classic) jujutsu_kaisen spy_x_family
