@@ -824,3 +824,4 @@
 ?mordecai_(fire_emblem) -> fire_emblem fire_emblem:_path_of_radiance fire_emblem:_radiant_dawn fire_emblem_heroes fire_emblem_fates fire_emblem_awakening fire_emblem:_the_blazing_blade fire_emblem:_mystery_of_the_emblem pokemon boku_no_hero_academia
 ?stefan_(fire_emblem) -> fire_emblem fire_emblem:_path_of_radiance fire_emblem:_radiant_dawn fire_emblem_heroes fire_emblem_fates fire_emblem:_genealogy_of_the_holy_war fire_emblem:_mystery_of_the_emblem fire_emblem:_the_binding_blade fire_emblem:_three_houses fire_emblem_awakening
 ?chattino_(raora_panthera) -> hololive hololive_english hololive_indonesia pokemon monster_hunter_(series) hololive_official_card_game hololive_dev_is mage_arena umamusume pokemon_legends:_z-a
+?raora_panthera_(casual) -> hololive hololive_english hololive_dev_is
