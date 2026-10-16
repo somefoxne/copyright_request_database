@@ -329,3 +329,4 @@
 ?boku_no_rhythm_wo_kiitekure_(stand) -> jojo_no_kimyou_na_bouken steel_ball_run stardust_crusaders vento_aureo diamond_wa_kudakenai stone_ocean phantom_blood jojolion oyecomova_(song)
 ?oyecomova -> jojo_no_kimyou_na_bouken steel_ball_run oyecomova_(song)
 ?satonaka_chie -> persona persona_4 persona_3 persona_4_the_golden persona_4:_the_ultimate_in_mayonaka_arena persona_4_revival persona_5 persona_3_portable persona_dancing persona_4:_dancing_all_night
+?takamaki_ann -> persona persona_5 persona_5_the_royal persona_4 persona_dancing persona_5:_dancing_star_night persona_3 persona_5_scramble:_the_phantom_strikers fire_emblem metroid
