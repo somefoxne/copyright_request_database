@@ -80,3 +80,4 @@ ookami_mio_(street) -> hololive
 ?fujiwara_no_mokou -> touhou imperishable_night night_sparrow_love touhou_tag_dream touhou_(pc-98) pokemon reitaisai urban_legend_in_limbo original
 ?kaku_seiga -> touhou ten_desires touhou_(pc-98) touhou_lostword undefined_fantastic_object embodiment_of_scarlet_devil perfect_cherry_blossom imperishable_night phantasmagoria_of_flower_view original
 ?mizuhashi_parsee -> touhou subterranean_animism cookie_(touhou) touhou_(pc-98) reitaisai reitaisai_8_contest touhou_tag_dream touhou_lostword final_fantasy embodiment_of_scarlet_devil
+?kishin_sagume -> touhou legacy_of_lunatic_kingdom touhou_(pc-98) touhou_lostword touhou_bougetsushou touhou_cannonball ten_desires pokemon perfect_cherry_blossom undefined_fantastic_object
