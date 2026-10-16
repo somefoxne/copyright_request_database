@@ -933,3 +933,4 @@
 ?incineroar -> pokemon pokemon_sun_and_moon super_smash_bros. mario_(series) animal_crossing fire_emblem pokemon_(anime) metroid donkey_kong_(series) street_fighter
 ?toucannon -> pokemon pokemon_sun_and_moon pokemon_(anime) pokemon_the_series:_sun_&_moon pokemon_scarlet_and_violet pokemon_journeys original pokemon_black_and_white pokemon_masters_ex pokemon_ultra_sun_and_ultra_moon
 ?kiss-shot_acerola-orion_heart-under-blade -> monogatari_(series) kizumonogatari bakemonogatari nisemonogatari fate_(series) kono_subarashii_sekai_ni_shukufuku_wo! tsukihime one-punch_man hyouka nekomonogatari
+?paradox_(deadlock) -> deadlock_(game)
