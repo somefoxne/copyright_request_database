@@ -735,3 +735,4 @@
 ?aradia_(night_of_revenge) -> night_of_revenge bloodstained_(series) bloodstained:_ritual_of_the_night sinisistar bloodborne castlevania_(series) castlevania:_order_of_ecclesia
 ?rabiane_(sinisistar) -> sinisistar night_of_revenge project_moon limbus_company sinisistar_2
 ?yakumo_yukari -> touhou touhou_(pc-98) perfect_cherry_blossom imperishable_night pokemon original m.u.g.e.n touhou_lostword touhou_tag_dream reitaisai
+?aryu_jyubei -> blue_lock teletubbies
