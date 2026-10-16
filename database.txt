@@ -495,3 +495,4 @@
 ?evelyn_(greenopi) -> original
 ?shigure_(kancolle) -> kantai_collection kantai_collection_(anime) gundam lawson fate_(series) azur_lane touken_ranbu fate/grand_order pokemon vocaloid
 ?samejima_kurono -> arakure_ojou-sama_wa_monmon_shiteiru kurono_royale
+?lethe_(maplestory) -> maplestory original arknights zenless_zone_zero wuthering_waves mahou_shoujo_no_majo_saiban
