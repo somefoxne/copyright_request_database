@@ -583,3 +583,4 @@
 ?taihou_(kancolle) -> kantai_collection line_(naver) azur_lane aoki_hagane_no_arpeggio gundam girls_und_panzer original fate_(series) world_witches_series strike_witches
 ?severian_lowell -> zenless_zone_zero moechakkafire genshin_impact mihoyo super_blackjack sushiro
 ?matikanefukukitaru_(rising_fortune)_(umamusume) -> umamusume pokemon real_life among_us touhou yu-gi-oh! dragon_ball marvel dragon_ball_z umamusume:_cinderella_gray
+?matikanefukukitaru_(umamusume) -> umamusume pokemon real_life among_us umamusume:_cinderella_gray umayuru cygames jojo_no_kimyou_na_bouken umamusume:_party_dash touhou
