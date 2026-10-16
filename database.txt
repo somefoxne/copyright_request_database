@@ -88,3 +88,4 @@ ookami_mio_(street) -> hololive
 ?hiiragi_kagami -> lucky_star vocaloid suzumiya_haruhi_no_yuuutsu k-on! kyoto_animation kantai_collection touhou clannad kagamin_bocchi mahou_shoujo_madoka_magica
 ?yoshimi_(blue_archive) -> blue_archive the_beatles vocaloid comiket_105 bocchi_the_rock! kamen_rider abbey_road original gundam fate_(series)
 ?shinozaki_kimiko -> anatatachi_soredemo_sensei_desu_ka!
+?maribel_hearn -> touhou taboo_japan_disentanglement touhou_(pc-98) ghostly_field_club magical_astronomy trojan_green_asteroid neo-traditionalism_of_japan dateless_bar_"old_adam" retrospective_53_minutes changeability_of_strange_dream
