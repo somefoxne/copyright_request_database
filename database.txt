@@ -395,3 +395,4 @@
 ?sugar_(killer_rabbit)_(nikke) -> goddess_of_victory:_nikke terminator_(series) terminator_2:_judgment_day
 ?sugar_(nikke) -> goddess_of_victory:_nikke lycoris_recoil nier_(series) nier:automata terminator_(series) terminator_2:_judgment_day warhammer_40k lawson fukkireta
 ?chongyun_(genshin_impact) -> genshin_impact gigo ipstar horizon_(game) pokemon honkai_(series) mihoyo horizon_zero_dawn honkai:_star_rail
+?jack_frost_(genshin_impact) -> genshin_impact
