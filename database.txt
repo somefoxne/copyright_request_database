@@ -637,3 +637,4 @@
 ?hisaishi_kanade -> hibike!_euphonium gekijouban_hibike!_euphonium liz_to_aoi_tori megami_magazine starbucks megami_magazine_deluxe idolmaster mahou_shoujo_madoka_magica bang_dream! idolmaster_shiny_colors
 ?zola_(blue_dragon) -> blue_dragon dragon_ball pokemon pokemon_(anime) tales_of_(series) dragon_quest sanrio pokemon_(classic_anime) my_melody_(series) dragon_ball_(classic)
 ?kamisato_ayaka -> genshin_impact mihoyo gigo honkai_(series) zenless_zone_zero honkai:_star_rail honkai_impact_3rd wuthering_waves spy_x_family horizon_(game)
+?tsuyuki_moko -> original
