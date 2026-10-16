@@ -512,3 +512,4 @@
 ?yumeha_hime -> indie_virtual_youtuber
 ?kondou_chiru -> gal_gun_(series) gal_gun_2 gal_gun
 ?tamasaki_nanako -> gal_gun_(series) gal_gun_2
+?nami_(one_piece) -> one_piece one_piece:_strong_world one_piece_film:_red one_piece_heroines one_piece_(live_action) one_piece:_stampede one_piece_film:_gold one_piece_card_game naruto_(series) one_piece_treasure_cruise
