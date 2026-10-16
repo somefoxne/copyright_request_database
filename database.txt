@@ -642,3 +642,4 @@
 ?katara -> avatar_legends avatar:_the_last_airbender avatar_aang:_the_last_airbender the_legend_of_korra marvel persona neon_genesis_evangelion gundam chainsaw_man bishoujo_senshi_sailor_moon
 ?korra -> avatar_legends the_legend_of_korra avatar:_the_last_airbender league_of_legends adventure_time kill_la_kill she-ra_and_the_princesses_of_power dc_comics rwby the_owl_house
 ?misumi_uika -> bang_dream! arknights yumenokessho sweets_paradise bang_dream!_our_notes ganso!_bang_dream_chan real_life bang_dream!_girls_band_party! killkiss_(bang_dream!)
+?togawa_sakiko -> bang_dream! arknights yumenokessho sweets_paradise bang_dream!_girls_band_party! bang_dream!_our_notes ganso!_bang_dream_chan killkiss_(bang_dream!) girls_band_cry
