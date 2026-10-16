@@ -264,3 +264,4 @@
 ?tayama_(super_no_ura_de_yani_suu_futari) -> super_no_ura_de_yani_suu_futari chainsaw_man yani_neko yofukashi_no_uta hololive hololive_english persona persona_5 cyberpunk_(series) cyberpunk:_edgerunners
 ?kanon_ahonen -> shy_(series)
 ?faust_(project_moon) -> project_moon limbus_company arknights library_of_ruina lobotomy_corporation pokemon nier_(series) mili_(band) original vocaloid
+?sunbringer_(original)_(zenless_zone_zero) -> zenless_zone_zero honkai_(series) honkai_impact_3rd mihoyo original genshin_impact honkai:_star_rail arknights arknights:_endfield honkai_gakuen
