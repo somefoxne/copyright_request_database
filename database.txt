@@ -695,3 +695,4 @@
 ?iron_duke_(warship_girls_r) -> warship_girls_r
 ?st_george_(warship_girls_r) -> warship_girls_r
 ?yagokoro_eirin -> touhou imperishable_night touhou_(pc-98) touhou_tag_dream touhou_lostword embodiment_of_scarlet_devil grappler_baki reitaisai perfect_cherry_blossom original
+?touhoku_kiritan -> voiceroid vocaloid voicevox talkex utau cevio a.i._voice pokemon synthesizer_v kamitsubaki_studio
