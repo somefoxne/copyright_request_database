@@ -97,3 +97,4 @@
 ?daiwa_scarlet_(peak_blue)_(umamusume) -> umamusume pokemon umamusume:_cinderella_gray kantai_collection real_life my_little_pony my_little_pony:_friendship_is_magic jojo_no_kimyou_na_bouken akari_ga_yatte_kitazo_(vocaloid) original
 ?daiwa_scarlet_(umamusume) -> umamusume pokemon original kantai_collection umayuru umamusume:_cinderella_gray real_life cygames gundam neon_genesis_evangelion
 ?gengar -> pokemon pokemon_x_and_y pokemon_sword_and_shield pokemon_(anime) pokemon_heartgold_and_soulsilver pokemon_journeys pokemon_sun_and_moon original pokemon_legends:_z-a pokemon_firered_and_leafgreen
+?artemis_(mythology) -> greek_mythology original high_school_dxd arknights love_live! love_live!_sunshine!! elden_ring dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru_darou_ka shoujo_kageki_revue_starlight elden_ring:_shadow_of_the_erdtree
