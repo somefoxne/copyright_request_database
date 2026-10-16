@@ -100,3 +100,4 @@
 ?artemis_(mythology) -> greek_mythology original high_school_dxd arknights love_live! love_live!_sunshine!! elden_ring dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru_darou_ka shoujo_kageki_revue_starlight elden_ring:_shadow_of_the_erdtree
 ?komano_manato -> zenless_zone_zero moechakkafire genshin_impact mihoyo honkai_(series) honkai:_star_rail league_of_legends jojo_no_kimyou_na_bouken splatoon_(series)
 ?promeia_(zenless_zone_zero) -> zenless_zone_zero honkai_(series) honkai:_star_rail genshin_impact chainsaw_man mihoyo original blue_archive fate_(series) jojo_no_kimyou_na_bouken
+?yixuan_(zenless_zone_zero) -> zenless_zone_zero mihoyo genshin_impact honkai_(series) honkai_impact_3rd honkai:_star_rail comiket_108 fate_(series) wuthering_waves fate/grand_order
