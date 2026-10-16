@@ -973,3 +973,4 @@
 ?riku_(xenoblade) -> xenoblade_chronicles_(series) xenoblade_chronicles_3 xenoblade_chronicles_3:_future_redeemed xenoblade_chronicles_2 xenoblade_chronicles_1 vocaloid xenoblade_chronicles_x xenoblade_chronicles:_future_connected
 ?sena_(xenoblade) -> xenoblade_chronicles_(series) xenoblade_chronicles_3 xenoblade_chronicles_2 xenoblade_chronicles_3:_future_redeemed xenoblade_chronicles_1 pokemon xenoblade_chronicles_x fire_emblem umamusume final_fantasy
 ?taion_(xenoblade) -> xenoblade_chronicles_(series) xenoblade_chronicles_3 xenoblade_chronicles_3:_future_redeemed xenoblade_chronicles_2 xenoblade_chronicles_1 xenoblade_chronicles_x pokemon mahou_shoujo_madoka_magica chainsaw_man the_legend_of_zelda
+?nani_pelekai -> lilo_&_stitch disney the_road_to_el_dorado original powerpuff_girls big_hero_6 atlantis:_the_lost_empire lilo_&_stitch_(2025) pokemon marvel
