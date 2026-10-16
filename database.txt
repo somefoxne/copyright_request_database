@@ -622,3 +622,4 @@
 ?jenny_wakeman -> my_life_as_a_teenage_robot vocaloid nickelodeon spongebob_squarepants_(series) jimmy_neutron_(series) danny_phantom the_fairly_oddparents mega_man_(series) pokemon el_tigre
 ?azuchi_(azur_lane) -> azur_lane azur_lane:_slow_ahead
 ?azuchi_(testing_courage_in_crimson)_(azur_lane) -> azur_lane
+?suzutsuki_(azur_lane) -> azur_lane kantai_collection yu-gi-oh! sakura_dungeon
