@@ -355,3 +355,4 @@
 ?mococo_abyssgard -> hololive hololive_english hololive_indonesia hololive_dev_is hololive_grand_theft_auto enigmatic_recollection fuwamoco_adventure hololive_dreams pokemon metal_gear_(series)
 ?ronova_(genshin_impact) -> genshin_impact mihoyo honkai_(series) honkai:_star_rail among_us original marvel hololive zenless_zone_zero
 ?doodle_sensei_(blue_archive) -> blue_archive blue_archive_the_animation comiket_105 armored_core original arknights armored_core_vi:_fires_of_rubicon jujutsu_kaisen yu-gi-oh! kamen_rider
+?blake_belladonna -> rwby rwby_chibi rooster_teeth fate_(series) rwby:_ice_queendom pokemon fate/grand_order league_of_legends bishoujo_senshi_sailor_moon dc_comics
