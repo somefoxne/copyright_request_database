@@ -683,3 +683,4 @@
 ?gwylan_(male)_(degrees_of_lewdity) -> degrees_of_lewdity youtube versailles_no_bara good_pizza_great_pizza
 ?player_character_(degrees_of_lewdity) -> degrees_of_lewdity original the_kiss pokemon sanrio wizarding_world harry_potter_(series) the_coffin_of_andy_and_leyley me!me!me! honkai_(series)
 ?player_character_(female)_(degrees_of_lewdity) -> degrees_of_lewdity original the_kiss pokemon sanrio wizarding_world harry_potter_(series) honkai_(series) honkai:_star_rail wuthering_waves
+?kirisame_marisa -> touhou cookie_(touhou) touhou_(pc-98) embodiment_of_scarlet_devil curiosities_of_lotus_asia touhou_lostword story_of_eastern_wonderland pokemon reitaisai undefined_fantastic_object
