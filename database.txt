@@ -183,3 +183,4 @@
 ?super_radiant_peach -> mario_(series) princess_peach:_showtime! super_mario_galaxy_2
 ?thea_(nekojira) -> original comiket_104 hololive hololive_english jujutsu_kaisen sono_bisque_doll_wa_koi_wo_suru kk_magic_academy
 ?chiyo_(love-bullet) -> love-bullet lycoris_recoil kininatteru_hito_ga_otoko_ja_nakatta comitia_150
+?ena_(love-bullet) -> love-bullet kininatteru_hito_ga_otoko_ja_nakatta comitia_150
