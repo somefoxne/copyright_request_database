@@ -102,3 +102,4 @@ ookami_mio_(street) -> hololive
 ?phoenix_reffaella_(the_illness_called_life) -> zenless_zone_zero kill_la_kill
 ?jean_havoc -> fullmetal_alchemist fullmetal_alchemist_(2003) tales_of_(series) natsume_yuujinchou pokemon gundam precure street_fighter pokemon_(anime) guilty_gear
 ?gotoh_hitori -> bocchi_the_rock! chainsaw_man k-on! pokemon blue_archive sousou_no_frieren vocaloid real_life hololive bang_dream!
+?tio_(konjiki_no_gash!!) -> konjiki_no_gash!! konjiki_no_gash!!_2 fullmetal_alchemist zero_no_tsukaima shakugan_no_shana hayate_no_gotoku! pita_ten otogi-juushi_akazukin idolmaster precure
