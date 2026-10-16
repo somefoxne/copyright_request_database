@@ -945,3 +945,4 @@
 ?sakata_gintoki -> gintama one_piece naruto_(series) blue_archive jojo_no_kimyou_na_bouken gintama_movie_2:_yorozuya_yo_eien_nare shounen_jump sannen_z-gumi_ginpachi_sensei dragon_ball bleach
 ?rouge_the_bat -> sonic_(series) sonic_adventure_2 the_murder_of_sonic_the_hedgehog sonic_riders_(series) sonic_boom_(series) sonic_riders sonic_the_hedgehog_(idw) sonic_x sonic_the_hedgehog_(classic) sonic_adventure
 ?delcatty -> pokemon pokemon_omega_ruby_and_alpha_sapphire pokemon_adventures pokemon_ruby/sapphire/emerald pokemon_(anime) pokemon_diamond/pearl/platinum pokemon_x_and_y pokemon_emerald pokemon_xd pokemon_heartgold_and_soulsilver
+?bokuto_koutarou -> haikyuu!! houseki_no_kuni boku_no_hero_academia jujutsu_kaisen pokemon genshin_impact final_fantasy chainsaw_man final_fantasy_xiv ace_attorney
