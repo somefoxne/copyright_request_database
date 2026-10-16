@@ -514,3 +514,4 @@
 ?tamasaki_nanako -> gal_gun_(series) gal_gun_2
 ?nami_(one_piece) -> one_piece one_piece:_strong_world one_piece_film:_red one_piece_heroines one_piece_(live_action) one_piece:_stampede one_piece_film:_gold one_piece_card_game naruto_(series) one_piece_treasure_cruise
 ?monkey_d._luffy -> one_piece one_piece_card_game one_piece_film:_red naruto_(series) shounen_jump one_piece:_strong_world dragon_ball one_piece_(live_action) bleach dragon_ball_z
+?noruno-chan -> original
