@@ -567,3 +567,4 @@
 ?mercedes_von_martritz_(timeskip) -> fire_emblem fire_emblem:_three_houses fire_emblem_fates fire_emblem_cipher fire_emblem_warriors:_three_hopes gundam fire_emblem_heroes dungeon_meshi shin_megami_tensei
 ?tsurugi_(cougar1404) -> original
 ?brooklyn_(halloween)_(kancolle) -> kantai_collection kimetsu_no_yaiba
+?brooklyn_(kancolle) -> kantai_collection gundam gundam_seed godzilla_(series) shin_godzilla street_fighter splatoon_(series) marvel kimetsu_no_yaiba street_fighter_ii_(series)
