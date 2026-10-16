@@ -93,3 +93,4 @@
 ?villager_(minecraft) -> minecraft mob_talker touhou hololive original blue_archive idolmaster idolmaster_cinderella_girls hololive_english super_smash_bros.
 ?iron_golem_(minecraft) -> minecraft mob_talker touhou blue_archive original utdr_(toby_fox) undertale hololive honkai_(series) honkai:_star_rail
 ?batsu_(elsimain) -> original
+?mei_(overwatch) -> overwatch pokemon street_fighter original boku_no_hero_academia one_piece scooby-doo_(series) marvel soul_eater marvel_rivals
