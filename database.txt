@@ -545,3 +545,4 @@
 ?shidou_hikaru -> magic_knight_rayearth bishoujo_senshi_sailor_moon cardcaptor_sakura precure tokyo_mew_mew akazukin_chacha ojamajo_doremi mermaid_melody_pichi_pichi_pitch super_robot_wars futari_wa_precure
 ?michinoku_komaro -> seitokai_ni_mo_ana_wa_aru! original blue_archive kobayashi-san_chi_no_maidragon lucky_star pokemon idolmaster indie_virtual_youtuber bocchi_the_rock! sousou_no_frieren
 ?henry_jekyll_(fate) -> fate_(series) fate/grand_order fate/prototype fate/prototype:_fragments_of_blue_and_silver fate/stay_night fate/apocrypha fate/extra koha-ace learning_with_manga!_fgo pixiv_fate/grand_order_contest_1
+?jekyll_and_hyde_(fate) -> fate_(series) fate/grand_order fate/prototype fate/prototype:_fragments_of_blue_and_silver fate/apocrypha fate/stay_night fate/extra fate/strange_fake danganronpa_(series) fate/zero
