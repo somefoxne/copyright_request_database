@@ -686,3 +686,4 @@
 ?kirisame_marisa -> touhou cookie_(touhou) touhou_(pc-98) embodiment_of_scarlet_devil curiosities_of_lotus_asia touhou_lostword story_of_eastern_wonderland pokemon reitaisai undefined_fantastic_object
 ?rumia -> touhou embodiment_of_scarlet_devil touhou_(pc-98) osana_reimu the_iron_of_yin_and_yang final_fantasy final_fantasy_xi cookie_(touhou) touhou_lostword embodiment_of_scarlet_devil_new_classic
 ?kitashirakawa_chiyuri -> touhou touhou_(pc-98) phantasmagoria_of_dim.dream story_of_eastern_wonderland lotus_land_story highly_responsive_to_prayers mystic_square seihou original to_heart_(series)
+?ruukoto -> touhou touhou_(pc-98) phantasmagoria_of_dim.dream highly_responsive_to_prayers story_of_eastern_wonderland seihou lotus_land_story mystic_square to_heart_(series) to_heart
