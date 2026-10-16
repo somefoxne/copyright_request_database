@@ -284,3 +284,4 @@
 ?cottontail_(vtuber) -> indie_virtual_youtuber vedal_ai socks_agency gamer_supps marvel spider-man_(series) dungeons_&_dragons chainsaw_man darkstalkers marvel_rivals
 ?tier_harribel -> bleach bleach:_sennen_kessen-hen bleach:_brave_souls bleach:_epilogue bleach:_the_high_school_warfare naruto_(series) boku_no_hero_academia fate_(series) fate/grand_order the_king_of_fighters
 ?guido_(project_moon) -> project_moon limbus_company library_of_ruina utdr_(toby_fox) deltarune bereal home_alone
+?heinrich_kromer_(project_moon) -> project_moon limbus_company pokemon xkcd
