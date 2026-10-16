@@ -204,3 +204,4 @@
 ?sakura_miko_(1st_costume) -> hololive hololive_english minecraft hololive_indonesia ark_survival_evolved hololive_dev_is grand_theft_auto grand_theft_auto_v final_fantasy nijisanji
 ?maneko_(makemon!) -> makemon! devilconnection
 ?wini_(elin) -> elin_(game)
+?kawana_tsubasa -> the_hundred_line_-last_defense_academy- tower_records danganronpa_(series) pokemon precure danganronpa_v3:_killing_harmony futari_wa_precure danganronpa_2:_goodbye_despair danganronpa:_trigger_happy_havoc urusei_yatsura
