@@ -298,3 +298,4 @@
 ?mocha_(osu!) -> osu! taiko_no_tatsujin pokemon mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) mega_man_(series) real_life dungeons_&_dragons mega_man_(classic) bemani
 ?pippi_(osu!) -> osu! taiko_no_tatsujin original vocaloid zenless_zone_zero among_us neko_atsume mahou_shoujo_madoka_magica mega_man_(series) mega_man_(classic)
 ?ootani_ouya -> yani_neko arknights blue_archive chainsaw_man dandadan yofukashi_no_uta breaking_bad the_simpsons super_no_ura_de_yani_suu_futari nyanyanyanyanyanyanya!_(vocaloid)
+?satou_yaniko -> yani_neko chainsaw_man blue_archive arknights bocchi_the_rock! super_no_ura_de_yani_suu_futari umamusume k-on! tsukihime yofukashi_no_uta
