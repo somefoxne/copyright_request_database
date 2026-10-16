@@ -443,3 +443,4 @@
 ?tokisaki_kurumi_(spirit) -> date_a_live date_a_live:_date_a_bullet azur_lane date_a_live:_spirit_pledge original honkai_(series) honkai:_star_rail mahou_shoujo_madoka_magica gekijouban_date_a_live:_mayuri_judgement mahou_shoujo_madoka_magica_(anime)
 ?lexington_(warship_girls_r) -> warship_girls_r kantai_collection original azur_lane pacific_(kancolle) clover_theater fate_(series) love_live! love_live!_school_idol_project fate/extra
 ?jeanne_d'arc_(real_life) -> real_life original comic_kairakuten_beast kairaku_historie fate_(series) fate/grand_order shoujo_kageki_revue_starlight shoujo_kageki_revue_starlight_-re_live- time_of_legends:_joan_of_arc
+?palutena -> kid_icarus kid_icarus_uprising super_smash_bros. mario_(series) fire_emblem metroid the_legend_of_zelda fire_emblem_awakening pokemon xenoblade_chronicles_(series)
