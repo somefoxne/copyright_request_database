@@ -934,3 +934,4 @@
 ?toucannon -> pokemon pokemon_sun_and_moon pokemon_(anime) pokemon_the_series:_sun_&_moon pokemon_scarlet_and_violet pokemon_journeys original pokemon_black_and_white pokemon_masters_ex pokemon_ultra_sun_and_ultra_moon
 ?kiss-shot_acerola-orion_heart-under-blade -> monogatari_(series) kizumonogatari bakemonogatari nisemonogatari fate_(series) kono_subarashii_sekai_ni_shukufuku_wo! tsukihime one-punch_man hyouka nekomonogatari
 ?paradox_(deadlock) -> deadlock_(game)
+?angel_(in) -> original
