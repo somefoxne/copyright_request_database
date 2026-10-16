@@ -750,3 +750,4 @@
 ?remilia_scarlet -> touhou embodiment_of_scarlet_devil touhou_lostword touhou_(pc-98) reitaisai koumajou_densetsu curiosities_of_lotus_asia imperishable_night touhou_tag_dream pokemon
 ?aki_shizuha -> touhou mountain_of_faith touhou_(pc-98) reitaisai touhou_tag_dream reitaisai_8_contest embodiment_of_scarlet_devil imperishable_night perfect_cherry_blossom undefined_fantastic_object
 ?kishin_sagume -> touhou legacy_of_lunatic_kingdom touhou_(pc-98) touhou_lostword touhou_bougetsushou touhou_cannonball ten_desires pokemon perfect_cherry_blossom undefined_fantastic_object
+?march_7th_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail mihoyo genshin_impact honkai_impact_3rd zenless_zone_zero fate_(series) fate/stay_night fate/grand_order kfc
