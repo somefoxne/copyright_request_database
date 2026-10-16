@@ -4,3 +4,4 @@ ookami_mio -> hololive
 ?shirakami_fubuki_(1st_costume) -> hololive hololive_english hololive_alternative pokemon hololive_indonesia twitter holoearth_chronicles indie_virtual_youtuber hololive_dev_is touhou
 ?miofa_(ookami_mio) -> hololive hololive_english hololive_dreams hololive_indonesia hololive_official_card_game dotta_batta_chindochu! pokemon minecraft cult_of_the_lamb love_live!
 ?ookami_mio_(1st_costume) -> hololive hololive_alternative hololive_english holoearth_chronicles hololive_indonesia touhou hololive_dev_is jojo_no_kimyou_na_bouken nijisanji wwe
+?ookami_mio_(new_year) -> hololive hololive_english hololive_indonesia hololive_alternative hololive_dev_is minecraft comiket_101 hololive_official_card_game getting_over_it knallerfrauen
