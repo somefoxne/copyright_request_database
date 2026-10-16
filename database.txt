@@ -783,3 +783,4 @@
 ?shiomi_hotaru -> bang_dream! bang_dream!_our_notes bang_dream!_yumemita umamusume princess_connect! alice_gear_aegis sweets_paradise jujutsu_kaisen little_red_riding_hood_(fairy_tale)
 ?dark_knight_(final_fantasy) -> final_fantasy final_fantasy_xiv final_fantasy_iv original final_fantasy_xi final_fantasy_tactics dissidia_final_fantasy final_fantasy_iii nier_(series) nier:automata
 ?gunbreaker_(final_fantasy) -> final_fantasy final_fantasy_xiv original nier_(series) nier:automata blue_archive hololive honkai_(series) bang_dream! honkai_impact_3rd
+?nonomi_(swimsuit)_(blue_archive) -> blue_archive comiket_101 comiket_100 comiket_105 comiket_106 vocaloid comiket_104 comiket_102 grand_theft_auto grand_theft_auto_vi
