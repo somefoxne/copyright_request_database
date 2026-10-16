@@ -555,3 +555,4 @@
 ?mash_kyrielight_(dangerous_beast) -> fate_(series) fate/grand_order blue_archive kantai_collection hololive original fate/kaleid_liner_prisma_illya idolmaster fate/extra fate/apocrypha
 ?belorta_(nikke) -> goddess_of_victory:_nikke zoids bandai the_lego_group tamiya_incorporated hasegawa_(hobby_kits) battle_dome nerf
 ?belorta_(pumpkin_witch)_(nikke) -> goddess_of_victory:_nikke
+?terra_branford -> final_fantasy final_fantasy_vi dissidia_final_fantasy final_fantasy_vii final_fantasy_v final_fantasy_ix final_fantasy_iv final_fantasy_viii final_fantasy_x final_fantasy_iii
