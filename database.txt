@@ -799,3 +799,4 @@
 ?kagiyama_hina -> touhou mountain_of_faith touhou_(pc-98) reitaisai reitaisai_8_contest embodiment_of_scarlet_devil saturday_night_fever imperishable_night perfect_cherry_blossom touhou_lostword
 ?red_girl_(nier) -> nier_(series) nier:automata final_fantasy final_fantasy_xiv yorha idolmaster idolmaster_cinderella_girls chainsaw_man final_fantasy_v nier
 ?akane_rin_(nte) -> neverness_to_everness tokyo_game_show
+?female_esper_zero_(nte) -> neverness_to_everness gundam chainsaw_man grand_theft_auto tower_of_fantasy crayon_shin-chan gundam_f91 nohara_hiroshi_hirumeshi_no_ryuugi tokyo_game_show
