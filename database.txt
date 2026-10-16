@@ -554,3 +554,4 @@
 ?mash_kyrielight -> fate_(series) fate/grand_order fate/extra fate/stay_night kantai_collection fate/apocrypha learning_with_manga!_fgo blue_archive original fate/extra_ccc
 ?mash_kyrielight_(dangerous_beast) -> fate_(series) fate/grand_order blue_archive kantai_collection hololive original fate/kaleid_liner_prisma_illya idolmaster fate/extra fate/apocrypha
 ?belorta_(nikke) -> goddess_of_victory:_nikke zoids bandai the_lego_group tamiya_incorporated hasegawa_(hobby_kits) battle_dome nerf
+?belorta_(pumpkin_witch)_(nikke) -> goddess_of_victory:_nikke
