@@ -251,3 +251,4 @@
 ?honk_(rem_kanashibari) -> v4mirai
 ?rem_kanashibari -> v4mirai kakegurui
 ?rem_kanashibari_(2nd_costume) -> v4mirai
+?usada_pekora_(casual) -> hololive hololive_indonesia hololive_english minecraft hololive_dev_is pokemon comiket_104 comiket_102 nijisanji
