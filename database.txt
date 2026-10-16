@@ -146,3 +146,4 @@
 ?marth_(fire_emblem) -> fire_emblem fire_emblem:_mystery_of_the_emblem super_smash_bros. fire_emblem:_path_of_radiance fire_emblem_awakening the_legend_of_zelda kirby_(series) fire_emblem_heroes fire_emblem:_the_binding_blade pokemon
 ?jane_doe_(zenless_zone_zero) -> zenless_zone_zero mihoyo genshin_impact tom_and_jerry honkai_(series) honkai:_star_rail ratatouille hololive original hololive_english
 ?kafka_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail mihoyo genshin_impact zenless_zone_zero honkai_impact_3rd chainsaw_man blue_archive original fate_(series)
+?hirugami_sachiro -> haikyuu!!
