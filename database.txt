@@ -832,3 +832,4 @@
 ?chitose_(stella_sora) -> stella_sora blue_archive fate_(series) fate/grand_order comiket_108 umamusume arknights dragon_ball utdr_(toby_fox) mahou_shoujo_no_majo_saiban
 ?iris_(stella_sora) -> stella_sora blue_archive shigoto_neko comiket_108 arknights goddess_of_victory:_nikke dragon_ball utdr_(toby_fox) undertale ace_attorney
 ?noya_(stella_sora) -> stella_sora blue_archive dragon_ball comiket_108 precure jojo_no_kimyou_na_bouken goddess_of_victory:_nikke voiceroid utdr_(toby_fox) dragon_ball_z
+?garcia_(fire_emblem) -> fire_emblem fire_emblem:_the_sacred_stones fire_emblem_heroes fire_emblem:_radiant_dawn fire_emblem:_the_blazing_blade fire_emblem_awakening fire_emblem:_path_of_radiance fire_emblem:_mystery_of_the_emblem fire_emblem:_the_binding_blade fate_(series)
