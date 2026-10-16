@@ -651,3 +651,4 @@
 ?toon_link -> the_legend_of_zelda the_legend_of_zelda:_the_wind_waker super_smash_bros. the_legend_of_zelda:_twilight_princess the_legend_of_zelda:_ocarina_of_time kirby_(series) pokemon mother_(series) mother_2 fire_emblem
 ?kylar_(degrees_of_lewdity) -> degrees_of_lewdity original monitoring_(vocaloid) pokemon the_coffin_of_andy_and_leyley class_of_09 vocaloid project_moon alien_stage microsoft_windows
 ?kylar_(male)_(degrees_of_lewdity) -> degrees_of_lewdity original pokemon the_coffin_of_andy_and_leyley monitoring_(vocaloid) vocaloid project_moon alien_stage microsoft_windows windows_classic
+?volke_(fire_emblem) -> fire_emblem fire_emblem:_path_of_radiance fire_emblem:_radiant_dawn fire_emblem_heroes fire_emblem:_genealogy_of_the_holy_war fire_emblem:_mystery_of_the_emblem fire_emblem_fates fire_emblem_awakening fire_emblem:_the_blazing_blade fire_emblem:_the_sacred_stones
