@@ -39,3 +39,4 @@ ookami_mio_(street) -> hololive
 ?lala_satalin_deviluke -> to_love-ru to_love-ru_darkness azur_lane love_live! love_live!_superstar!! date_a_live love_live!_nijigasaki_high_school_idol_club megami_magazine dolphin_wave date_a_live:_rinne_utopia
 ?taiga_(ookami_mio) -> hololive umamusume hololive_english mario_(series) paper_mario_(series) paper_mario:_the_origami_king getting_over_it
 ?shihouin_yoruichi -> bleach bleach:_sennen_kessen-hen boku_no_hero_academia bleach:_turn_back_the_pendulum bleach:_brave_souls fate_(series) one_piece fate/grand_order original pokemon
+?sussurro_(arknights) -> arknights blue_archive among_us the_legend_of_luo_xiaohei original kantai_collection ambience_synesthesia coca-cola comiket_105 comiket_108
