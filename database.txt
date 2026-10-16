@@ -765,3 +765,4 @@
 ?misono_kirika -> eiken neon_genesis_evangelion kobayashi-san_chi_no_maidragon jungle_de_ikou grenadier_(manga) bleach megami_magazine oshiete!_galko-chan hajimete_no_gal one_piece
 ?kana_anaberal -> touhou touhou_(pc-98) phantasmagoria_of_dim.dream story_of_eastern_wonderland highly_responsive_to_prayers mystic_square lotus_land_story seihou perfect_cherry_blossom embodiment_of_scarlet_devil
 ?kyubey -> mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) mahou_shoujo_madoka_magica:_hangyaku_no_monogatari touhou magia_record:_mahou_shoujo_madoka_magica_gaiden mahou_shoujo_madoka_magica_movie_1_&_2 original vocaloid fate_(series) pokemon
+?air_groove_(umamusume) -> umamusume umamusume:_cinderella_gray original real_life umayuru cygames pokemon comiket_102 kantai_collection gundam
