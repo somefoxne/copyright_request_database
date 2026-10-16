@@ -529,3 +529,4 @@
 ?chigiri_hyoma -> blue_lock sanrio my_melody_(series) chainsaw_man fuwa_fuwa_cinnamoroll original pokemon umamusume arknights nijisanji
 ?arima_kana -> oshi_no_ko tokyo_blade_(oshi_no_ko) sanrio my_melody_(series) shikanoko_nokonoko_koshitantan idol_(yoasobi) idolmaster yoasobi idolmaster_shiny_colors kaguya-sama_wa_kokurasetai_~tensai-tachi_no_renai_zunousen~
 ?amagi_(kancolle) -> kantai_collection line_(naver) call_of_duty call_of_duty_4 azur_lane neon_genesis_evangelion yuru-chara blue_archive umamusume kamen_rider
+?swire_the_elegant_wit_(a_prosperous_visage)_(arknights) -> arknights
