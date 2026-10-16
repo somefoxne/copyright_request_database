@@ -949,3 +949,4 @@
 ?dawn_(pokemon) -> pokemon pokemon_diamond/pearl/platinum pokemon_(anime) pokemon_platinum pokemon_the_series:_diamond_and_pearl pokemon_heartgold_and_soulsilver pokemon_black_and_white pokemon_ruby/sapphire/emerald pokemon_firered_and_leafgreen pokemon_brilliant_diamond_and_shining_pearl
 ?piplup -> pokemon pokemon_diamond/pearl/platinum pokemon_(anime) pokemon_the_series:_diamond_and_pearl pokemon_platinum pokemon_black_and_white pokemon_heartgold_and_soulsilver pokemon_ruby/sapphire/emerald pokemon_firered_and_leafgreen pokemon_red/green/blue/yellow
 ?ayachi_nene -> sanoba_witch yuzusoft senren_banka riddle_joker cafe_stella_to_shinigami_no_chou tenshi_souzou_re-boot! amairo_islenauts dracu-riot! tenshinranman noble_works
+?david_martinez -> cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 wuthering_waves trigger_(company) cyberpunk_2077 chainsaw_man netflix promare original
