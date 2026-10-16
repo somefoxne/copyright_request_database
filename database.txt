@@ -895,3 +895,4 @@
 ?aventurine_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail mihoyo genshin_impact fate_(series) fate/stay_night fate/unlimited_blade_works honkai_impact_3rd zenless_zone_zero original
 ?stelle_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail mihoyo genshin_impact honkai_impact_3rd fate_(series) zenless_zone_zero fate/stay_night fate/unlimited_blade_works wuthering_waves
 ?trailblazer_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail mihoyo genshin_impact fate_(series) zenless_zone_zero fate/stay_night honkai_impact_3rd fate/unlimited_blade_works wuthering_waves
+?chrono_genesis_(prismatic_curator)_(umamusume) -> umamusume pakatube tokyo_sports real_life kamen_rider umamusume:_beginning_of_a_new_era keiba_book love_live! nijisanji jujutsu_kaisen
