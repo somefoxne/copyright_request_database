@@ -838,3 +838,4 @@
 ?mori_calliope_(new_year) -> hololive hololive_english q_(hololive) hololive_indonesia indie_virtual_youtuber k-on! utdr_(toby_fox) kill_la_kill hololive_dev_is undertale
 ?houjou_satoko -> higurashi_no_naku_koro_ni higurashi_no_naku_koro_ni_gou umineko_no_naku_koro_ni higurashi_no_naku_koro_ni_mei suzumiya_haruhi_no_yuuutsu fate_(series) fate/stay_night gundam rozen_maiden shakugan_no_shana
 ?inamori_sakuya_(vtuber) -> indie_virtual_youtuber
+?alice_thymefield -> zenless_zone_zero mihoyo genshin_impact blue_archive honkai_(series) honkai:_star_rail sushiro touhou bocchi_the_rock!
