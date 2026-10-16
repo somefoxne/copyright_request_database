@@ -787,3 +787,4 @@
 ?iuno_(wuthering_waves) -> wuthering_waves fate_(series) fate/grand_order gs25 genshin_impact lawson punishing:_gray_raven vocaloid kuro_games ore_no_imouto_ga_konna_ni_kawaii_wake_ga_nai
 ?taiki_shuttle_(umamusume) -> umamusume real_life kantai_collection umamusume:_cinderella_gray cygames kfc metal_gear_(series) pokemon idolmaster idolmaster_cinderella_girls
 ?andrew_graves -> the_coffin_of_andy_and_leyley original toy_story zenless_zone_zero dc_comics batman_(series) minecraft mesmerizer_(vocaloid) jujutsu_kaisen omori
+?renee_graves -> the_coffin_of_andy_and_leyley original dc_comics batman_(series) jujutsu_kaisen helltaker fate_(series) fate/grand_order jojo_no_kimyou_na_bouken chainsaw_man
