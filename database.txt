@@ -676,3 +676,4 @@
 ?akechi_anna -> precure meitantei_precure! kamen_rider meitantei_conan wonderful_precure! kimi_to_idol_precure toei_company hirogaru_sky!_precure tropical-rouge!_precure comiket_108
 ?fu_xuan_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail mihoyo genshin_impact honkai_impact_3rd zenless_zone_zero fate_(series) fate/stay_night kfc fate/unlimited_blade_works
 ?barret_wallace -> final_fantasy final_fantasy_vii final_fantasy_vii_remake final_fantasy_vii_rebirth final_fantasy_vii:_ever_crisis final_fantasy_vii:_advent_children square_enix final_fantasy_vii_revelation pokemon dirge_of_cerberus:_final_fantasy_vii
+?cremia -> the_legend_of_zelda the_legend_of_zelda:_ocarina_of_time the_legend_of_zelda:_twilight_princess the_legend_of_zelda:_skyward_sword the_legend_of_zelda:_the_wind_waker mario_(series) the_legend_of_zelda:_a_link_to_the_past the_legend_of_zelda:_spirit_tracks
