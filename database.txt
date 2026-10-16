@@ -587,3 +587,4 @@
 ?celes_chere -> final_fantasy final_fantasy_vi dissidia_final_fantasy final_fantasy_v final_fantasy_vii final_fantasy_iv dissidia_duellum_final_fantasy final_fantasy_ix final_fantasy_x final_fantasy_viii
 ?mafuteru -> indie_utaite after_the_rain animal_(vocaloid) kawaikute_gomen_(honeyworks) turing_love venom_(vocaloid) aishite_aishite_aishite_(vocaloid) sekai_o_kaeru_hitotsu_no_know-how vocaloid kirby_(series)
 ?soraru -> indie_utaite after_the_rain pokemon apex_legends vocaloid nijisanji original yoidore_shirazu_(vocaloid) 18_(game) gokuraku_jigoku
+?warrior_of_light_(ff14) -> final_fantasy final_fantasy_xiv original nier_(series) nier:automata pokemon final_fantasy_vii final_fantasy_viii fate_(series) final_fantasy_xvi
