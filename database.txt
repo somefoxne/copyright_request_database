@@ -482,3 +482,4 @@
 ?blaze_the_igniting_spark_(nocturnal_firelight)_(arknights) -> arknights
 ?catania_(fire_emblem) -> fire_emblem
 ?male_eshmel_(fire_emblem) -> fire_emblem fire_emblem:_three_houses fire_emblem_heroes fire_emblem_awakening honkai_(series) honkai:_star_rail fire_emblem_fates fire_emblem:_the_blazing_blade minecraft
+?raphtalia -> tate_no_yuusha_no_nariagari tate_no_yuusha_no_nariagari_rerise tate_no_yuusha_no_nariagari_rise re:zero_kara_hajimeru_isekai_seikatsu spice_and_wolf kono_subarashii_sekai_ni_shukufuku_wo! isekai_quartet pokemon fate_(series) fate/grand_order
