@@ -228,3 +228,4 @@
 ?seth_lowell -> zenless_zone_zero genshin_impact tom_and_jerry mihoyo sushiro honkai_(series) honkai:_star_rail moechakkafire the_scream original
 ?gunko -> one_piece touhou holy_knight
 ?classic_d.va -> overwatch mountain_dew neon_genesis_evangelion league_of_legends blizzard_entertainment marvel spider-man_(series) marvel_rivals original pokemon
+?d.va_(overwatch) -> overwatch league_of_legends mountain_dew neon_genesis_evangelion pokemon perfect_night_(le_sserafim) blizzard_entertainment vocaloid marvel starcraft
