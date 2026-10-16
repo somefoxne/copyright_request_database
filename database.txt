@@ -235,3 +235,4 @@
 ?diana_(pragmata) -> pragmata capcom resident_evil resident_evil_requiem hololive hololive_english mega_man_(series) monster_hunter_(series) blue_archive sonic_(series)
 ?remielle_dan -> zenless_zone_zero mihoyo honkai_(series) honkai_impact_3rd honkai:_star_rail genshin_impact original grand_theft_auto grand_theft_auto_vi persona
 ?yuzuha_riko -> stellive rabbit_hole_(vocaloid) blue_archive pokemon sanrio my_melody_(series) original cardcaptor_sakura dark_souls_(series) black_survival
+?lycion -> dungeon_meshi golden_kamuy beauty_and_the_beast_(disney) pokemon pokemon_(anime) pokemon_(classic_anime) little_witch_academia fate_(series) fate/grand_order vocaloid
