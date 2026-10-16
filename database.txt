@@ -428,3 +428,4 @@
 ?ushiromiya_jessica -> umineko_no_naku_koro_ni higurashi_no_naku_koro_ni touhou turn_of_the_golden_witch ougon_musou_kyoku higurashi_umineko_card_battle_jin mario_(series) durarara!! end_of_the_golden_witch bang_dream!
 ?ushiromiya_natsuhi -> umineko_no_naku_koro_ni end_of_the_golden_witch higurashi_no_naku_koro_ni touhou mario_(series) k-on! pikmin_(series) bishoujo_senshi_sailor_moon maria-sama_ga_miteru doraemon
 ?femme_soule -> pukey_goddess_shot_trick yunyun_denpa_syndrome original blue_archive bocchi_the_rock! kamiina_botan_yoeru_sugata_wa_yuri_no_hana buckshot_roulette umamusume steam_(platform) touhou
+?kamiina_botan -> kamiina_botan_yoeru_sugata_wa_yuri_no_hana bocchi_the_rock! yama_no_susume pukey_goddess_shot_trick gundam dragon_ball dragon_ball_z girls_band_cry zeta_gundam watashi_ga_koibito_ni_nareru_wake_naijan_murimuri!
