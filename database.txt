@@ -58,3 +58,4 @@
 ?eugene_sevenstark -> gundam gundam_tekketsu_no_orphans tengen_toppa_gurren_lagann turn_a_gundam grappler_baki sakigake!!_cromartie_koukou fate_(series) fate/apocrypha ensemble_stars! pretty_series
 ?norba_shino -> gundam gundam_tekketsu_no_orphans mobile_suit_gundam turn_a_gundam gundam_seed gundam_00 zeta_gundam gundam_seed_destiny gundam_unicorn
 ?speaki_(trickcal) -> trickcal blue_archive goddess_of_victory:_nikke pokemon minecraft jojo_no_kimyou_na_bouken kirby_(series) dragon_ball diamond_wa_kudakenai backrooms_(creepypasta)
+?miofa_(ookami_mio) -> hololive hololive_english hololive_dreams hololive_indonesia hololive_official_card_game dotta_batta_chindochu! pokemon minecraft cult_of_the_lamb love_live!
