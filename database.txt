@@ -138,3 +138,4 @@
 ?kasane_teto -> utau synthesizer_v vocaloid a.i._voice mesmerizer_(vocaloid) igaku_(utau) voicepeak ultra_trailer_(synthesizer_v) liar_dancer_(synthesizer_v) hito_mania_(utau)
 ?bubble_girl_(boku_no_hero_academia) -> boku_no_hero_academia original
 ?crewmate_(among_us) -> among_us original hololive hololive_english genshin_impact pokemon umamusume vocaloid mario_(series) touhou
+?memento_mori_(vtuber) -> indie_virtual_youtuber touhou among_us zenless_zone_zero
