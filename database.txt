@@ -60,3 +60,4 @@
 ?speaki_(trickcal) -> trickcal blue_archive goddess_of_victory:_nikke pokemon minecraft jojo_no_kimyou_na_bouken kirby_(series) dragon_ball diamond_wa_kudakenai backrooms_(creepypasta)
 ?miofa_(ookami_mio) -> hololive hololive_english hololive_dreams hololive_indonesia hololive_official_card_game dotta_batta_chindochu! pokemon minecraft cult_of_the_lamb love_live!
 ?shirakami_fubuki_(twinkle_on_the_shore) -> hololive hololive_dreams
+?shirakami_fubuki_(1st_costume) -> hololive hololive_english hololive_alternative pokemon hololive_indonesia twitter holoearth_chronicles indie_virtual_youtuber hololive_dev_is touhou
