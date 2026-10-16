@@ -84,3 +84,4 @@
 ?dusk_(arknights) -> arknights ambience_synesthesia a_deer_of_nine_colors arknights:_endfield lawson blue_archive project_moon rainbow_six_siege honkai_(series) honkai:_star_rail
 ?mon3tr_(arknights) -> arknights arknights:_endfield ambience_synesthesia project_moon limbus_company xiong_xiaobai pokemon final_fantasy bang_dream!
 ?rosmontis_(arknights) -> arknights ambience_synesthesia blue_archive pokemon project_moon limbus_company arknights:_endfield pokemon_scarlet_and_violet lawson rainbow_six_siege
+?tangtang_(arknights) -> arknights arknights:_endfield chainsaw_man minecraft kantai_collection umamusume indie_virtual_youtuber jojo_no_kimyou_na_bouken project_moon limbus_company
