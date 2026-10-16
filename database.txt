@@ -42,3 +42,4 @@ ookami_mio_(street) -> hololive
 ?sussurro_(arknights) -> arknights blue_archive among_us the_legend_of_luo_xiaohei original kantai_collection ambience_synesthesia coca-cola comiket_105 comiket_108
 ?sussurro_(travel_freely)_(arknights) -> arknights comiket_105 comiket_108
 ?aqua_(deltarune) -> utdr_(toby_fox) deltarune touhou undertale umineko_no_naku_koro_ni yotsubato! pokemon original vocaloid indie_virtual_youtuber
+?kris_(dark_world)_(deltarune) -> utdr_(toby_fox) deltarune undertale omori ace_attorney touhou alien_stage pokemon vocaloid yume_nikki
