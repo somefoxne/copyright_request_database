@@ -955,3 +955,4 @@
 ?seadramon -> digimon digimon_world digimon_adventure umamusume vocaloid digimon_card_game digimon_story:_cyber_sleuth voiceroid real_life
 ?kuroo_tetsurou -> haikyuu!! jujutsu_kaisen pokemon boku_no_hero_academia wind_breaker_(nii_satoru) original sanrio daiya_no_ace vocaloid bishoujo_senshi_sailor_moon
 ?sawamura_daichi -> haikyuu!! love_live! love_live!_school_idol_project fate_(series) fate/grand_order dc_comics tokyo_afterschool_summoners hunter_x_hunter seiken_densetsu doraemon
+?violet_(deadlock) -> deadlock_(game) jojo_no_kimyou_na_bouken titanic_(movie) kishibe_rohan_wa_ugokanai
