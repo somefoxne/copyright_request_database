@@ -687,3 +687,4 @@
 ?rumia -> touhou embodiment_of_scarlet_devil touhou_(pc-98) osana_reimu the_iron_of_yin_and_yang final_fantasy final_fantasy_xi cookie_(touhou) touhou_lostword embodiment_of_scarlet_devil_new_classic
 ?kitashirakawa_chiyuri -> touhou touhou_(pc-98) phantasmagoria_of_dim.dream story_of_eastern_wonderland lotus_land_story highly_responsive_to_prayers mystic_square seihou original to_heart_(series)
 ?ruukoto -> touhou touhou_(pc-98) phantasmagoria_of_dim.dream highly_responsive_to_prayers story_of_eastern_wonderland seihou lotus_land_story mystic_square to_heart_(series) to_heart
+?yumemi_riamu -> idolmaster idolmaster_cinderella_girls idolmaster_cinderella_girls_starlight_stage pokemon yu-gi-oh! cinderella_girls_gekijou idolmaster_shiny_colors twitter suzumiya_haruhi_no_yuuutsu fate_(series)
