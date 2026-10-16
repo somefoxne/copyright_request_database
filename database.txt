@@ -313,3 +313,4 @@
 ?hsin_(illumining_form)_(wuthering_waves) -> wuthering_waves
 ?hsin_(wuthering_waves) -> wuthering_waves goddess_of_victory:_nikke zenless_zone_zero chainsaw_man arknights honkai_(series) honkai:_star_rail arknights:_endfield kirby_(series) twitter
 ?espeon -> pokemon pokemon_firered_and_leafgreen pokemon_gold/silver/crystal pokemon_red/green/blue/yellow original pokemon_heartgold_and_soulsilver pokemon_colosseum pokemon_diamond/pearl/platinum pokemon_(anime) pokemon_unite
+?beast_boy_(dc) -> dc_comics teen_titans teen_titans_go! pokemon cartoon_network adventure_time powerpuff_girls codename:_kids_next_door one_piece marvel
