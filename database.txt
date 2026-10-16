@@ -498,3 +498,4 @@
 ?lethe_(maplestory) -> maplestory original arknights zenless_zone_zero wuthering_waves mahou_shoujo_no_majo_saiban
 ?souryuu_(kancolle) -> kantai_collection line_(naver) comiket_95 aoki_hagane_no_arpeggio neon_genesis_evangelion mario_(series) dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru_darou_ka lawson kemono_friends super_mario_bros._1
 ?rosa_(pokemon) -> pokemon pokemon_black_2_and_white_2 pokemon_black_and_white pokemon_masters_ex pokemon_diamond/pearl/platinum pokemon_x_and_y pokemon_heartgold_and_soulsilver pokemon_sun_and_moon pokemon_firered_and_leafgreen pokemon_omega_ruby_and_alpha_sapphire
+?don_lorenzo -> blue_lock
