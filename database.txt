@@ -421,3 +421,4 @@
 ?ukinami_yuzuha -> zenless_zone_zero mihoyo genshin_impact sushiro honkai_(series) honkai:_star_rail bocchi_the_rock! blue_archive honkai_impact_3rd comiket_107
 ?kasane_teto_(utau) -> utau vocaloid synthesizer_v a.i._voice hito_mania_(utau) igaku_(utau) triple_baka_(vocaloid) voiceroid voicepeak fukkireta
 ?isagi_yoichi -> blue_lock world_cup 2026_fifa_world_cup sanrio hello_kitty little_red_riding_hood_(fairy_tale) wind_breaker_(nii_satoru) vocaloid one_piece boku_no_hero_academia
+?ishitsuki_kaoru -> original
