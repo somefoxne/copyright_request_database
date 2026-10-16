@@ -519,3 +519,4 @@
 ?sanji_(one_piece) -> one_piece one_piece_card_game one_piece_(live_action) one_piece:_strong_world one_piece_treasure_cruise one_piece_film:_red one_piece_film:_z pokemon naruto_(series) dragon_ball
 ?usopp -> one_piece one_piece_(live_action) one_piece:_strong_world one_piece_card_game one_piece_film:_red dragon_ball pokemon marvel one_piece_straw_hat_space mario_(series)
 ?hayashimo_(kancolle) -> kantai_collection real_life umamusume pokemon kamen_rider bashamichi nyantype comiket_100 kabe_ni_hamatte_ugokenai! original
+?sense_(sousou_no_frieren) -> sousou_no_frieren blue_archive hololive hololive_english idolmaster umamusume idolmaster_cinderella_girls kimetsu_no_yaiba ace_attorney hunter_x_hunter
