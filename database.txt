@@ -33,3 +33,4 @@ ookami_mio -> hololive
 ?rosmontis_(arknights) -> arknights ambience_synesthesia blue_archive pokemon project_moon limbus_company arknights:_endfield pokemon_scarlet_and_violet lawson rainbow_six_siege
 ?tangtang_(arknights) -> arknights arknights:_endfield chainsaw_man minecraft kantai_collection umamusume indie_virtual_youtuber jojo_no_kimyou_na_bouken project_moon limbus_company
 ?entelechia_(arknights) -> arknights original tsukihime microsoft_windows vampire_(vocaloid) windows_classic perfume_(band)
+?entelechia_(dazzling_blue)_(arknights) -> arknights microsoft_windows windows_classic
