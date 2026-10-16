@@ -808,3 +808,4 @@
 ?stronny_cuttles -> vallure indie_virtual_youtuber hololive umamusume hololive_english marvel original touhou blue_archive pokemon
 ?doremy_sweet -> touhou legacy_of_lunatic_kingdom touhou_(pc-98) antinomy_of_common_flowers pokemon touhou_lostword touhou_cannonball ten_desires double_dealing_character touhou_bougetsushou
 ?ari_(class_of_09) -> class_of_09 touhou dc_comics doki_doki_literature_club superman_(series) little_red_riding_hood_(fairy_tale) superman_(2025) itazuraguma_no_gloomy
+?nicole_(class_of_09) -> class_of_09 class_of_09:_the_flip_side doki_doki_literature_club degrees_of_lewdity my_chemical_romance squid_game nhk_(broadcaster) blink-182 pokemon genshin_impact
