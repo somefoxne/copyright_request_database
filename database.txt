@@ -73,3 +73,4 @@ ookami_mio_(street) -> hololive
 ?hsin_(wuthering_waves) -> wuthering_waves goddess_of_victory:_nikke zenless_zone_zero chainsaw_man arknights honkai_(series) honkai:_star_rail arknights:_endfield kirby_(series) twitter
 ?suoming_(wuthering_waves) -> wuthering_waves blue_archive original vocaloid utau kfc kyoufuu_all_back_(vocaloid)
 ?wakatsuki_asahi -> original
+?kagome_misaki -> alice_gear_aegis precure taimanin_(series) fresh_precure! frame_arms_girl
