@@ -702,3 +702,4 @@
 ?arjuna_(traveling_outfit)_(fate) -> fate_(series) fate/grand_order fate/extra fate/apocrypha muppets
 ?arjuna_alter_(fate) -> fate_(series) fate/grand_order fate/apocrypha fate/extra fate/stay_night fate/extella fate/grand_order_arcade original mahou_shoujo_madoka_magica precure
 ?arjuna_alter_(festival_outfit)_(fate) -> fate_(series) fate/grand_order fate/extra fate/apocrypha fate/extella fate/extella_link
+?indra_(fate) -> fate_(series) fate/grand_order original gundam fate/stay_night tsukihime fate/zero kamen_rider fullmetal_alchemist tsukihime_(remake)
