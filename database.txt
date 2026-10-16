@@ -685,3 +685,4 @@
 ?player_character_(female)_(degrees_of_lewdity) -> degrees_of_lewdity original the_kiss pokemon sanrio wizarding_world harry_potter_(series) honkai_(series) honkai:_star_rail wuthering_waves
 ?kirisame_marisa -> touhou cookie_(touhou) touhou_(pc-98) embodiment_of_scarlet_devil curiosities_of_lotus_asia touhou_lostword story_of_eastern_wonderland pokemon reitaisai undefined_fantastic_object
 ?rumia -> touhou embodiment_of_scarlet_devil touhou_(pc-98) osana_reimu the_iron_of_yin_and_yang final_fantasy final_fantasy_xi cookie_(touhou) touhou_lostword embodiment_of_scarlet_devil_new_classic
+?kitashirakawa_chiyuri -> touhou touhou_(pc-98) phantasmagoria_of_dim.dream story_of_eastern_wonderland lotus_land_story highly_responsive_to_prayers mystic_square seihou original to_heart_(series)
