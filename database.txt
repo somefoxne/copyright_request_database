@@ -134,3 +134,4 @@
 ?la_manchaland's_don_quixote_(project_moon) -> project_moon limbus_company library_of_ruina lobotomy_corporation blue_archive pokemon vocaloid jujutsu_kaisen tsukihime hollow_knight
 ?sancho_(project_moon) -> project_moon limbus_company library_of_ruina lobotomy_corporation hero_(mili) pokemon tsukihime touhou blue_archive fate_(series)
 ?maomao_(kusuriya_no_hitorigoto) -> kusuriya_no_hitorigoto sousou_no_frieren pokemon dungeon_meshi spy_x_family fate_(series) fate/grand_order boku_no_hero_academia kimetsu_no_yaiba original
+?hatsune_miku -> vocaloid utau pokemon magical_mirai_(vocaloid) project_voltage project_sekai project_diva_(series) rabbit_hole_(vocaloid) goodsmile_company goodsmile_racing
