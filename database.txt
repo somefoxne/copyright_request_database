@@ -912,3 +912,4 @@
 ?vicksburg_(azur_lane) -> azur_lane original
 ?vicksburg_(dazzling_diva_of_the_raceway)_(azur_lane) -> azur_lane original
 ?archie_(fall_2026)_(pokemon) -> pokemon pokemon_masters_ex pokemon_omega_ruby_and_alpha_sapphire pokemon_ruby/sapphire/emerald
+?archie_(pokemon) -> pokemon pokemon_omega_ruby_and_alpha_sapphire pokemon_ruby/sapphire/emerald pokemon_diamond/pearl/platinum pokemon_x_and_y pokemon_black_and_white pokemon_sun_and_moon pokemon_masters_ex pokemon_red/green/blue/yellow pokemon_firered_and_leafgreen
