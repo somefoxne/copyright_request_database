@@ -63,3 +63,4 @@ ookami_mio_(street) -> hololive
 ?mori_calliope -> hololive hololive_english hololive_indonesia q_(hololive) hololive_dev_is minecraft indie_virtual_youtuber hololive_dreams one_piece monster_hunter_(series)
 ?cirno -> touhou embodiment_of_scarlet_devil hidden_star_in_four_seasons touhou_(pc-98) cookie_(touhou) touhou_lostword advent_cirno pokemon mario_(series)
 ?patchouli_knowledge -> touhou embodiment_of_scarlet_devil touhou_(pc-98) cookie_(touhou) reitaisai touhou_lostword pokemon original touhou_tag_dream the_iron_of_yin_and_yang
+?mari_(blue_archive) -> blue_archive arknights chiikawa fate_(series) comiket_106 comiket_108 blue_archive_the_animation comiket_105 fate/grand_order umamusume
