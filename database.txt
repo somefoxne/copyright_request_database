@@ -94,3 +94,4 @@ ookami_mio_(street) -> hololive
 ?typhoeus_(arknights) -> arknights arknights:_endfield tonari_no_totoro minecraft umamusume zenless_zone_zero persona persona_3 fortnite vitruvian_man
 ?typhon_(arknights) -> arknights arknights:_endfield ambience_synesthesia granblue_fantasy monster_hunter_(series) tonari_no_totoro zenless_zone_zero minecraft rainbow_six_siege azur_lane
 ?lum -> urusei_yatsura ranma_1/2 touhou inuyasha original kantai_collection girls_und_panzer maison_ikkoku kyoukai_no_rinne idolmaster
+?kagamine_rin -> vocaloid evillious_nendaiki project_sekai project_diva_(series) aku_no_musume_(vocaloid) original utau roshin_yuukai_(vocaloid) aku_no_meshitsukai_(vocaloid) magical_mirai_(vocaloid)
