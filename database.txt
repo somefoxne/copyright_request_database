@@ -104,3 +104,4 @@
 ?denia_(wuthering_waves) -> wuthering_waves pizza-la blue_archive cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 chainsaw_man comiket_108 mirai_nikki backrooms_(creepypasta)
 ?maruzensky_(umamusume) -> umamusume umamusume:_cinderella_gray umayuru pacific_racing_team original real_life blue_archive gundam initial_d gundam_suisei_no_majo
 ?hu_tao_(cherries_snow-laden)_(genshin_impact) -> genshin_impact blue_archive honkai_(series) honkai:_star_rail wuthering_waves gochuumon_wa_usagi_desu_ka? mihoyo comiket_107
+?hu_tao_(genshin_impact) -> genshin_impact mihoyo honkai_(series) honkai:_star_rail lawson fate_(series) original honkai_impact_3rd kono_subarashii_sekai_ni_shukufuku_wo! zenless_zone_zero
