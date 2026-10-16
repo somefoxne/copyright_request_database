@@ -129,3 +129,4 @@ ookami_mio_(street) -> hololive
 ?peashooter_(plants_vs._zombies) -> plants_vs._zombies original plants_vs._zombies_2 hollow_knight pokemon mario_(series) minecraft vocaloid utdr_(toby_fox) cuphead_(game)
 ?fletchling -> pokemon pokemon_x_and_y pokemon_legends:_z-a pokemon_(anime) pokemon_scarlet_and_violet original pokemon_the_series:_xy pokemon_tcg pokemon_diamond/pearl/platinum pokemon_black_and_white
 ?greedent -> pokemon pokemon_sword_and_shield pokemon_scarlet_and_violet pokemon_masters_ex pokemon_(anime) original pokemon_pokopia pokemon_journeys pokemon_sun_and_moon pokemon_the_series:_diamond_and_pearl
+?munchlax -> pokemon pokemon_(anime) pokemon_legends:_arceus pokemon_diamond/pearl/platinum pokemon_the_series:_ruby_and_sapphire pokemon_ruby/sapphire/emerald pokemon_sword_and_shield pokemon_the_series:_diamond_and_pearl pokemon_(classic_anime) pokemon_adventures
