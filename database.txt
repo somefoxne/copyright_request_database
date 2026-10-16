@@ -644,3 +644,4 @@
 ?misumi_uika -> bang_dream! arknights yumenokessho sweets_paradise bang_dream!_our_notes ganso!_bang_dream_chan real_life bang_dream!_girls_band_party! killkiss_(bang_dream!)
 ?togawa_sakiko -> bang_dream! arknights yumenokessho sweets_paradise bang_dream!_girls_band_party! bang_dream!_our_notes ganso!_bang_dream_chan killkiss_(bang_dream!) girls_band_cry
 ?noir_(nikke) -> goddess_of_victory:_nikke blue_archive zozotown pokemon fate_(series) fate/grand_order zenless_zone_zero pokemon_sword_and_shield marvel nier_(series)
+?hedwig -> wizarding_world harry_potter_(series) real_life original touhou kantai_collection vocaloid final_fantasy mahou_shoujo_madoka_magica
