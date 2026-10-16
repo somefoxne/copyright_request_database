@@ -149,3 +149,4 @@ ookami_mio_(street) -> hololive
 ?mikazuki_augus -> gundam gundam_tekketsu_no_orphans gundam_00 gundam_wing gundam_suisei_no_majo zeta_gundam g_gundam mobile_suit_gundam gundam_unicorn
 ?vesna_(genshin_impact) -> genshin_impact winx_club honkai_(series) honkai:_star_rail suzumiya_haruhi_no_yuuutsu mihoyo chiikawa the_weaker_sex_1_(gibson) the_nutcracker
 ?eugene_sevenstark -> gundam gundam_tekketsu_no_orphans tengen_toppa_gurren_lagann turn_a_gundam grappler_baki sakigake!!_cromartie_koukou fate_(series) fate/apocrypha ensemble_stars! pretty_series
+?norba_shino -> gundam gundam_tekketsu_no_orphans mobile_suit_gundam turn_a_gundam gundam_seed gundam_00 zeta_gundam gundam_seed_destiny gundam_unicorn
