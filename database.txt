@@ -68,3 +68,4 @@
 ?kal'tsit_esperanta_(arknights) -> arknights arknights:_endfield jujutsu_kaisen ambience_synesthesia final_fantasy project_moon limbus_company final_fantasy_xiv ultra_series
 ?nakiri_ayame_(streetwear) -> hololive hololive_english hololive_indonesia hololive_dev_is indie_virtual_youtuber nijisanji original vspo! reject_(esports) pokemon
 ?ookami_mio_(street) -> hololive hololive_english getting_over_it hololive_indonesia hololive_dev_is minecraft animal_(vocaloid) a_dance_of_fire_and_ice pokemon splatoon_(series)
+?poyoyo_(nakiri_ayame) -> hololive hololive_english nijisanji indie_virtual_youtuber hololive_indonesia hololive_dreams kyu-kurarin_(cevio) mario_(series) hololive_official_card_game chainsaw_man
