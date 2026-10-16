@@ -827,3 +827,4 @@
 ?raora_panthera_(casual) -> hololive hololive_english hololive_dev_is
 ?chitose_sana -> tenshinranman yuzusoft riddle_joker tenshi_souzou_re-boot! senren_banka sanoba_witch dracu-riot! empty_x_embryo amairo_islenauts noble_works
 ?bard_(final_fantasy) -> final_fantasy final_fantasy_xiv final_fantasy_xi final_fantasy_v final_fantasy_tactics touhou the_iron_of_yin_and_yang original final_fantasy_iii bang_dream!
+?dialyn_(zenless_zone_zero) -> zenless_zone_zero pokemon blue_archive genshin_impact mihoyo honkai_(series) honkai:_star_rail gundam jojo_no_kimyou_na_bouken league_of_legends
