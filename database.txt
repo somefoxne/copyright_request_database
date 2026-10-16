@@ -607,3 +607,4 @@
 ?van_grants -> tales_of_(series) tales_of_the_abyss tales_of_vesperia tales_of_symphonia tales_of_destiny tales_of_phantasia tales_of_legendia tales_of_innocence tales_of_hearts tales_of_eternia
 ?mieu_(tales) -> tales_of_(series) tales_of_the_abyss tales_of_symphonia tales_of_vesperia tales_of_asteria tales_of_xillia tales_of_destiny tales_of_symphonia_knight_of_ratatosk tales_of_phantasia tales_of_graces
 ?mugino_shizuri -> toaru_majutsu_no_index toaru_kagaku_no_railgun toaru_kagaku_no_railgun_s toaru_majutsu_no_index:_old_testament toaru_majutsu_no_index:_new_testament toaru_anbu_no_item toaru_kagaku_no_railgun_t fate_(series) k-on! toaru_majutsu_no_index:_imaginary_fest
+?velouria_(fire_emblem) -> fire_emblem fire_emblem_fates fire_emblem_heroes fire_emblem_awakening fire_emblem:_radiant_dawn fire_emblem:_path_of_radiance fire_emblem_cipher pokemon fire_emblem:_three_houses xenoblade_chronicles_(series)
