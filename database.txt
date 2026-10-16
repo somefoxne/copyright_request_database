@@ -559,3 +559,4 @@
 ?hibiki_(kancolle) -> kantai_collection original gundam pokemon idolmaster girls_und_panzer jojo_no_kimyou_na_bouken godzilla_(series) touhou azur_lane
 ?takao_(kancolle) -> kantai_collection aoki_hagane_no_arpeggio azur_lane godzilla_(series) godzilla_minus_one original idolmaster gundam love_live! lawson
 ?ononoki_yotsugi -> monogatari_(series) nisemonogatari tsukimonogatari bakemonogatari nademonogatari onimonogatari orokamonogatari monogatari_series_puc_puc mahou_shoujo_madoka_magica pokemon
+?kuchiki_rukia -> bleach bleach:_sennen_kessen-hen bleach:_epilogue bleach:_the_high_school_warfare bleach:_brave_souls fate_(series) fate/stay_night sanrio gundam precure
