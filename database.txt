@@ -55,3 +55,4 @@ ookami_mio_(street) -> hololive
 ?kaenbyou_rin -> touhou subterranean_animism reitaisai touhou_(pc-98) reitaisai_8_contest touhou_lostword touhou_tag_dream pokemon unfinished_dream_of_all_living_ghost original
 ?remielle_dan -> zenless_zone_zero mihoyo honkai_(series) honkai_impact_3rd honkai:_star_rail genshin_impact original grand_theft_auto grand_theft_auto_vi persona
 ?adamski_s-rank_space -> duel_masters idolmaster umamusume idolmaster_shiny_colors gakuen_idolmaster kamen_rider ultra_series youtube dragon_musume_ni_naritakunai!
+?alpha_(kagejitsu) -> kage_no_jitsuryokusha_ni_naritakute! kage_no_jitsuryokusha_ni_naritakute!_master_of_garden kono_subarashii_sekai_ni_shukufuku_wo! konosuba!_fantastic_days dolphin_wave tensei_shitara_slime_datta_ken megami_magazine kadokawa chainsaw_man re:zero_kara_hajimeru_isekai_seikatsu
