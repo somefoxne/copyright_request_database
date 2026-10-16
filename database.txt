@@ -572,3 +572,4 @@
 ?tsushima_(kancolle) -> kantai_collection ghost_of_tsushima azur_lane umamusume gundam yurucamp twitter original fate_(series) fate/grand_order
 ?itou_bungaku -> real_life kuso_miso_technique barazoku_(magazine)
 ?shibuya_kanon -> love_live! love_live!_superstar!! love_live!_nijigasaki_high_school_idol_club love_live!_sunshine!! love_live!_school_idol_project love_live!_hasu_no_sora_jogakuin_school_idol_club hajimari_wa_kimi_no_sora tiny_stars real_life start!!_true_dreams_(love_live!)
+?amber_(genshin_impact) -> genshin_impact pizza_hut honkai_(series) mihoyo honkai_impact_3rd umamusume horizon_(game) hololive arknights original
