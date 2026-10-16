@@ -282,3 +282,4 @@
 ?black_cat_(marvel) -> marvel spider-man_(series) marvel_rivals dc_comics x-men batman_(series) tiger_division fantastic_four avengers_(series)
 ?monarch_amalee -> indie_virtual_youtuber vshojo gamer_supps hololive hololive_english nijisanji nijisanji_en honkai_(series) honkai:_star_rail one_piece
 ?cottontail_(vtuber) -> indie_virtual_youtuber vedal_ai socks_agency gamer_supps marvel spider-man_(series) dungeons_&_dragons chainsaw_man darkstalkers marvel_rivals
+?tier_harribel -> bleach bleach:_sennen_kessen-hen bleach:_brave_souls bleach:_epilogue bleach:_the_high_school_warfare naruto_(series) boku_no_hero_academia fate_(series) fate/grand_order the_king_of_fighters
