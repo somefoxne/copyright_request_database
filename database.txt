@@ -789,3 +789,4 @@
 ?andrew_graves -> the_coffin_of_andy_and_leyley original toy_story zenless_zone_zero dc_comics batman_(series) minecraft mesmerizer_(vocaloid) jujutsu_kaisen omori
 ?renee_graves -> the_coffin_of_andy_and_leyley original dc_comics batman_(series) jujutsu_kaisen helltaker fate_(series) fate/grand_order jojo_no_kimyou_na_bouken chainsaw_man
 ?black_sister -> neptune_(series) choujigen_game_neptune_mk2 nepnep_connect:_chaos_chanpuru choujigen_game_neptune choujijigen_game_neptune_re;birth_2 shin_jigen_game_neptune_vii kami_jigen_game_neptune_v four_goddesses_online:_cyber_dimension_neptune pokemon gundam
+?green_heart_(neptunia) -> neptune_(series) choujigen_game_neptune kami_jigen_game_neptune_v four_goddesses_online:_cyber_dimension_neptune shin_jigen_game_neptune_vii original azur_lane nepnep_connect:_chaos_chanpuru senran_nin_nin_ninja_taisen_neptune:_shoujo-tachi_no_kyouen senran_kagura
