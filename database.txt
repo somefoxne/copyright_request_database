@@ -460,3 +460,4 @@
 ?artoria_caster_(second_ascension)_(fate) -> fate_(series) fate/grand_order fate/stay_night fate/strange_fake fate/extra fate/grand_order_arcade learning_with_manga!_fgo fate/prototype hololive dark_souls_(series)
 ?oberon_(fate) -> fate_(series) fate/grand_order original pokemon howl_no_ugoku_shiro fate/extra fate/strange_fake fate/grail_league tsukihime tsukihime_(remake)
 ?oberon_(first_ascension)_(fate) -> fate_(series) fate/grand_order pokemon persona persona_3 howl_no_ugoku_shiro granblue_fantasy yu-gi-oh! the_legend_of_zelda fate/extra
+?cecilia_immergreen -> hololive hololive_english hololive_indonesia hololive_dev_is enigmatic_recollection chainsaw_man hololive_grand_theft_auto hololive_official_card_game umamusume minecraft
