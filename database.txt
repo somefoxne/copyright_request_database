@@ -666,3 +666,4 @@
 ?jean_pierre_polnareff -> jojo_no_kimyou_na_bouken stardust_crusaders vento_aureo diamond_wa_kudakenai battle_tendency stone_ocean phantom_blood steel_ball_run jojolion touhou
 ?joseph_joestar_(old) -> jojo_no_kimyou_na_bouken stardust_crusaders diamond_wa_kudakenai battle_tendency stone_ocean vento_aureo phantom_blood steel_ball_run jojolion touhou
 ?kakyoin_noriaki -> jojo_no_kimyou_na_bouken stardust_crusaders diamond_wa_kudakenai battle_tendency stone_ocean vento_aureo phantom_blood steel_ball_run jojolion pokemon
+?kujo_jotaro -> jojo_no_kimyou_na_bouken stardust_crusaders diamond_wa_kudakenai stone_ocean battle_tendency phantom_blood vento_aureo steel_ball_run jojolion touhou
