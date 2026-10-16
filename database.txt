@@ -965,3 +965,4 @@
 ?megumin -> kono_subarashii_sekai_ni_shukufuku_wo! kono_subarashii_sekai_ni_bakuen_wo! konosuba!_fantastic_days kono_subarashii_sekai_ni_shukufuku_wo!_kono_yokubukai_game_ni_shinpan_o! re:zero_kara_hajimeru_isekai_seikatsu sousou_no_frieren fate_(series) mushoku_tensei original genshin_impact
 ?ann_possible -> kim_possible_(series) naruto_(series) naruto_shippuuden bayonetta_(series) bayonetta_2 original the_incredibles danny_phantom
 ?special_week_(umamusume) -> umamusume real_life cygames original pakatube umamusume:_cinderella_gray umayuru pokemon pacific_racing_team kantai_collection
+?eunie_(xenoblade) -> xenoblade_chronicles_(series) xenoblade_chronicles_3 xenoblade_chronicles_1 xenoblade_chronicles_2 xenoblade_chronicles_3:_future_redeemed pokemon kid_icarus original fire_emblem bayonetta_(series)
