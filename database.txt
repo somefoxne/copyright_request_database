@@ -123,3 +123,4 @@ ookami_mio_(street) -> hololive
 ?seele_vollerei -> honkai_(series) honkai_impact_3rd honkai_gakuen honkai:_star_rail mihoyo genshin_impact xenoblade_chronicles_(series) xenoblade_chronicles_2 zenless_zone_zero
 ?seele_vollerei_(wings_of_panacea) -> honkai_(series) honkai_impact_3rd pokemon honkai:_star_rail mihoyo honkai:_nexus_anima
 ?miki_sayaka -> mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) mahou_shoujo_madoka_magica:_hangyaku_no_monogatari mahou_shoujo_madoka_magica_movie_1_&_2 magia_record:_mahou_shoujo_madoka_magica_gaiden mahou_shoujo_madoka_magica:_walpurgis_no_kaiten mahou_shoujo_madoka_magica_magia_exedra touhou mahou_shoujo_oriko_magica gundam
+?miki_sayaka_(anomalia) -> mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_magia_exedra mahou_shoujo_madoka_magica_(anime)
