@@ -74,3 +74,4 @@ unused_hololive_vtuber_(parsley-f) -> hololive
 ?aria_(zenless_zone_zero) -> zenless_zone_zero sanrio my_melody_(series) fuwa_fuwa_cinnamoroll hello_kitty honkai_(series) honkai:_star_rail kfc blue_archive genshin_impact
 ?nangong_yu -> zenless_zone_zero sanrio my_melody_(series) fuwa_fuwa_cinnamoroll hello_kitty honkai_(series) honkai:_star_rail kfc blue_archive mihoyo
 ?nangong_yu_(rhapsody's_muse) -> zenless_zone_zero kpop_demon_hunters indie_virtual_youtuber sanrio megami_magazine my_melody_(series)
+?sunna_(zenless_zone_zero) -> zenless_zone_zero sanrio fuwa_fuwa_cinnamoroll my_melody_(series) hello_kitty blue_archive kfc tamagotchi tamagotchi_(classic) honkai_(series)
