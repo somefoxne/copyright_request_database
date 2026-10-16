@@ -688,3 +688,4 @@
 ?kitashirakawa_chiyuri -> touhou touhou_(pc-98) phantasmagoria_of_dim.dream story_of_eastern_wonderland lotus_land_story highly_responsive_to_prayers mystic_square seihou original to_heart_(series)
 ?ruukoto -> touhou touhou_(pc-98) phantasmagoria_of_dim.dream highly_responsive_to_prayers story_of_eastern_wonderland seihou lotus_land_story mystic_square to_heart_(series) to_heart
 ?yumemi_riamu -> idolmaster idolmaster_cinderella_girls idolmaster_cinderella_girls_starlight_stage pokemon yu-gi-oh! cinderella_girls_gekijou idolmaster_shiny_colors twitter suzumiya_haruhi_no_yuuutsu fate_(series)
+?alice_margatroid -> touhou touhou_(pc-98) cookie_(touhou) perfect_cherry_blossom imperishable_night final_fantasy mystic_square shinza_bansho_series dies_irae final_fantasy_xi
