@@ -509,3 +509,4 @@
 ?velmoraart_(character) -> original
 ?fern_(sousou_no_frieren) -> sousou_no_frieren one-punch_man dungeon_meshi touhou blue_archive kono_subarashii_sekai_ni_shukufuku_wo! chainsaw_man original pokemon dragon_ball
 ?stark_(sousou_no_frieren) -> sousou_no_frieren dungeon_meshi one-punch_man pokemon kono_subarashii_sekai_ni_shukufuku_wo! chainsaw_man halo_(series) kimetsu_no_yaiba halo_2 fate_(series)
+?yumeha_hime -> indie_virtual_youtuber
