@@ -616,3 +616,4 @@
 ?serperior -> pokemon pokemon_black_2_and_white_2 pokemon_black_and_white pokemon_diamond/pearl/platinum pokemon_firered_and_leafgreen pokemon_masters_ex pokemon_heartgold_and_soulsilver original pokemon_sun_and_moon pokemon_red/green/blue/yellow
 ?dante_(devil_may_cry) -> devil_may_cry_(series) devil_may_cry_3 devil_may_cry_5 devil_may_cry_4 devil_may_cry_2 capcom devil_may_cry_1 resident_evil devil_may_cry_(netflix) marvel_vs._capcom
 ?vergil_(devil_may_cry) -> devil_may_cry_(series) devil_may_cry_5 devil_may_cry_3 m.u.g.e.n devil_may_cry_4 berserk capcom hololive hololive_english touhou
+?machinist_(final_fantasy) -> final_fantasy final_fantasy_xiv original bang_dream! twisted_wonderland touhou pokemon project_moon limbus_company
