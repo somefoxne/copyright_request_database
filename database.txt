@@ -624,3 +624,4 @@
 ?azuchi_(testing_courage_in_crimson)_(azur_lane) -> azur_lane
 ?suzutsuki_(azur_lane) -> azur_lane kantai_collection yu-gi-oh! sakura_dungeon
 ?ike_(fire_emblem) -> fire_emblem fire_emblem:_path_of_radiance fire_emblem:_radiant_dawn super_smash_bros. fire_emblem_heroes fire_emblem:_mystery_of_the_emblem the_legend_of_zelda kirby_(series) fire_emblem_awakening pokemon
+?ranulf_(fire_emblem) -> fire_emblem fire_emblem:_radiant_dawn fire_emblem:_path_of_radiance fire_emblem_heroes fire_emblem_awakening fire_emblem_fates fire_emblem_engage fire_emblem:_the_blazing_blade fire_emblem:_mystery_of_the_emblem fire_emblem:_the_binding_blade
