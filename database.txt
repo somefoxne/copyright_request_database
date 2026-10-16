@@ -119,3 +119,4 @@
 ?chito_(shoujo_shuumatsu_ryokou) -> shoujo_shuumatsu_ryokou shimeji_simulation bocchi_the_rock! nichijou hidamari_sketch original touhou vocaloid hololive hololive_english
 ?yuuri_(shoujo_shuumatsu_ryokou) -> shoujo_shuumatsu_ryokou shimeji_simulation bocchi_the_rock! nichijou original touhou minecraft hidamari_sketch utau yurucamp
 ?griseo -> honkai_(series) honkai_impact_3rd honkai:_star_rail star_wars mihoyo blue_archive genshin_impact arknights honkai_gakuen little_red_riding_hood_(fairy_tale)
+?aria_(robot)_(zenless_zone_zero) -> zenless_zone_zero blue_archive honkai_(series) honkai:_star_rail sanrio my_melody_(series) hello_kitty world_flipper pokemon genshin_impact
