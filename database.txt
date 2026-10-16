@@ -531,3 +531,4 @@
 ?amagi_(kancolle) -> kantai_collection line_(naver) call_of_duty call_of_duty_4 azur_lane neon_genesis_evangelion yuru-chara blue_archive umamusume kamen_rider
 ?swire_the_elegant_wit_(a_prosperous_visage)_(arknights) -> arknights
 ?kannagi_tenri -> indie_virtual_youtuber blue_archive pokemon pokemon_scarlet_and_violet nyanko_daisensou aogiri_high_school meridian_project jishenkong_jihua game_club_project
+?meg_(wakamepiza) -> original
