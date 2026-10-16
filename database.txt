@@ -301,3 +301,4 @@
 ?satou_yaniko -> yani_neko chainsaw_man blue_archive arknights bocchi_the_rock! super_no_ura_de_yani_suu_futari umamusume k-on! tsukihime yofukashi_no_uta
 ?legoshi -> beastars pokemon brand_new_animal animal_crossing zootopia zenless_zone_zero sonic_(series) aggressive_retsuko danganronpa_(series) danganronpa_2:_goodbye_despair
 ?biko_pegasus_(umamusume) -> umamusume kamen_rider umamusume:_cinderella_gray cygames original akari_ga_yatte_kitazo_(vocaloid) pokemon jojo_no_kimyou_na_bouken real_life saint_seiya
+?shy_(character) -> shy_(series) ninja_defenders:_cat_shinobi touhou blue_archive gundam boku_no_hero_academia touhou_(pc-98) kamen_rider gundam_suisei_no_majo shinryaku!_ikamusume
