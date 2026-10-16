@@ -458,3 +458,4 @@
 ?nimi_nightmare -> indie_virtual_youtuber hololive hololive_english densetsu.exe vinesauce original pokemon elden_ring vocaloid umamusume
 ?artoria_caster_(fate) -> fate_(series) fate/grand_order fate/stay_night fate/grand_order_arcade original fate/extra tsukihime tsukihime_(remake) fate/prototype fate/strange_fake
 ?artoria_caster_(second_ascension)_(fate) -> fate_(series) fate/grand_order fate/stay_night fate/strange_fake fate/extra fate/grand_order_arcade learning_with_manga!_fgo fate/prototype hololive dark_souls_(series)
+?oberon_(fate) -> fate_(series) fate/grand_order original pokemon howl_no_ugoku_shiro fate/extra fate/strange_fake fate/grail_league tsukihime tsukihime_(remake)
