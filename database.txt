@@ -181,3 +181,4 @@
 ?stg44_(girls'_frontline) -> kantai_collection azur_lane company_of_heroes metal_gear_(series) command_&_conquer pokemon fate_(series) fate/grand_order arknights
 ?cure_arcana -> precure meitantei_precure! kamen_rider toei_company kamen_rider_w kimi_to_idol_precure futari_wa_precure blue_archive pokemon gundam
 ?super_radiant_peach -> mario_(series) princess_peach:_showtime! super_mario_galaxy_2
+?thea_(nekojira) -> original comiket_104 hololive hololive_english jujutsu_kaisen sono_bisque_doll_wa_koi_wo_suru kk_magic_academy
