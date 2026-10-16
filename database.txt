@@ -55,3 +55,4 @@ unused_hololive_vtuber_(parsley-f) -> hololive
 ?lum -> urusei_yatsura ranma_1/2 touhou inuyasha original kantai_collection girls_und_panzer maison_ikkoku kyoukai_no_rinne idolmaster
 ?kagamine_rin -> vocaloid evillious_nendaiki project_sekai project_diva_(series) aku_no_musume_(vocaloid) original utau roshin_yuukai_(vocaloid) aku_no_meshitsukai_(vocaloid) magical_mirai_(vocaloid)
 ?kagamine_len -> vocaloid project_sekai evillious_nendaiki project_diva_(series) aku_no_musume_(vocaloid) aku_no_meshitsukai_(vocaloid) utau magical_mirai_(vocaloid) miku_symphony_(vocaloid) piapro_studio
+?choukai_(kancolle) -> kantai_collection aoki_hagane_no_arpeggio lawson moomin gundam original warship_girls_r uchuu_senkan_yamato comiket_88 azur_lane
