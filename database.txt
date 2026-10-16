@@ -657,3 +657,4 @@
 ?racing_miku_(2023_tropical_ver.) -> vocaloid goodsmile_company goodsmile_racing
 ?hiroi_kikuri -> bocchi_the_rock! the_king_of_fighters guilty_gear touhou street_fighter chainsaw_man blazblue pokemon sousou_no_frieren darkest_dungeon
 ?yomikawa_(shimeji_simulation) -> shimeji_simulation shoujo_shuumatsu_ryokou city_(arawi_keiichi) vocaloid bocchi_the_rock! suzumiya_haruhi_no_yuuutsu real_life minecraft nichijou kyoukai_no_kanata
+?kousaka_reina -> hibike!_euphonium lycoris_recoil liz_to_aoi_tori gekijouban_hibike!_euphonium k-on! hyouka tamako_market animedia bang_dream! bang_dream!_girls_band_party!
