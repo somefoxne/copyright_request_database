@@ -337,3 +337,4 @@
 ?nerissa_ravencroft -> hololive hololive_english hololive_indonesia enigmatic_recollection hololive_dev_is oyomeholic_(nerissa_ravencroft) rabbit_hole_(vocaloid) umamusume indie_virtual_youtuber final_fantasy
 ?recluse_(elden_ring) -> elden_ring elden_ring_nightreign dark_souls_(series) dark_souls_ii fromsoftware original indie_virtual_youtuber gundam blue_archive
 ?jill_valentine -> resident_evil resident_evil_3:_nemesis resident_evil_1 resident_evil_3_(remake) resident_evil_5 resident_evil_2 resident_evil:_revelations capcom street_fighter resident_evil_4
+?claret_flint -> zenless_zone_zero fate_(series) genshin_impact bloodborne kimi_no_koto_ga_dai_dai_dai_dai_daisuki_na_100-nin_no_kanojo mihoyo pokemon fate/grand_order gundam wuthering_waves
