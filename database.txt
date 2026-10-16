@@ -947,3 +947,4 @@
 ?delcatty -> pokemon pokemon_omega_ruby_and_alpha_sapphire pokemon_adventures pokemon_ruby/sapphire/emerald pokemon_(anime) pokemon_diamond/pearl/platinum pokemon_x_and_y pokemon_emerald pokemon_xd pokemon_heartgold_and_soulsilver
 ?bokuto_koutarou -> haikyuu!! houseki_no_kuni boku_no_hero_academia jujutsu_kaisen pokemon genshin_impact final_fantasy chainsaw_man final_fantasy_xiv ace_attorney
 ?dawn_(pokemon) -> pokemon pokemon_diamond/pearl/platinum pokemon_(anime) pokemon_platinum pokemon_the_series:_diamond_and_pearl pokemon_heartgold_and_soulsilver pokemon_black_and_white pokemon_ruby/sapphire/emerald pokemon_firered_and_leafgreen pokemon_brilliant_diamond_and_shining_pearl
+?piplup -> pokemon pokemon_diamond/pearl/platinum pokemon_(anime) pokemon_the_series:_diamond_and_pearl pokemon_platinum pokemon_black_and_white pokemon_heartgold_and_soulsilver pokemon_ruby/sapphire/emerald pokemon_firered_and_leafgreen pokemon_red/green/blue/yellow
