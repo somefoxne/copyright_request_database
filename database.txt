@@ -732,3 +732,4 @@
 ?wasu_(madoka_magica) -> mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica:_walpurgis_no_kaiten mahou_shoujo_madoka_magica_(anime) mahou_shoujo_madoka_magica_magia_exedra magia_record:_mahou_shoujo_madoka_magica_gaiden mahou_shoujo_madoka_magica:_hangyaku_no_monogatari super_smash_bros. hunter_x_hunter ore_no_imouto_ga_konna_ni_kawaii_wake_ga_nai golden_kamuy
 ?chando_(ado) -> ado_(utaite) vocaloid sanrio usseewa indie_utaite cloud_nine_inc one_piece one_piece_film:_red readymade_(ado) gira_gira
 ?kijin_seija -> touhou double_dealing_character impossible_spell_card touhou_(pc-98) kill_la_kill touhou_lostword pokemon embodiment_of_scarlet_devil legacy_of_lunatic_kingdom ten_desires
+?aradia_(night_of_revenge) -> night_of_revenge bloodstained_(series) bloodstained:_ritual_of_the_night sinisistar bloodborne castlevania_(series) castlevania:_order_of_ecclesia
