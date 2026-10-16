@@ -105,3 +105,4 @@ unused_hololive_vtuber_(parsley-f) -> hololive
 ?sprigatito -> pokemon pokemon_scarlet_and_violet pokemon_(anime) pokemon_horizons pokemon_sword_and_shield splatoon_(series) pokemon_sun_and_moon splatoon_3 original pokemon_x_and_y
 ?vulpix -> pokemon pokemon_(anime) pokemon_firered_and_leafgreen pokemon_red/green/blue/yellow pokemon_(classic_anime) original pokemon_mystery_dungeon pokemon_sword_and_shield pokemon_scarlet_and_violet pokemon_mystery_dungeon:_explorers_of_time/darkness/sky
 ?wooper -> pokemon pokemon_gold/silver/crystal pokemon_heartgold_and_soulsilver pokemon_sword_and_shield pokemon_scarlet_and_violet pokemon_(anime) pokemon_diamond/pearl/platinum hololive pokemon_(classic_anime) original
+?yokoyama_nao -> idolmaster idolmaster_million_live! idolmaster_million_live!_theater_days idolmaster_(classic) idolmaster_cinderella_girls idolmaster_movie little_red_riding_hood_(fairy_tale) god_eater skype god_eater_2:_rage_burst
