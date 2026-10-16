@@ -384,3 +384,4 @@
 ?jeanne_d'arc_alter_(fate) -> fate_(series) fate/grand_order fate/samurai_remnant fate/stay_night fate/extra fate/apocrypha fate/zero koha-ace pixiv_fate/grand_order_contest_1 pokemon
 ?saber_alter -> fate_(series) fate/grand_order fate/stay_night fate/hollow_ataraxia fate/unlimited_codes fate/extra carnival_phantasm fate/zero fate/apocrypha
 ?rebecca_(cyberpunk) -> cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 wuthering_waves boku_no_hero_academia chainsaw_man sousou_no_frieren original league_of_legends neon_genesis_evangelion
+?takigawa_noa -> yamada-kun_to_7-nin_no_majo megami_magazine
