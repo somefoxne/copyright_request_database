@@ -318,3 +318,4 @@
 ?lara_(alishia_art) -> original overwatch grand_theft_auto grand_theft_auto_vi
 ?elena_(ff7) -> final_fantasy final_fantasy_vii final_fantasy_vii_remake final_fantasy_vii_rebirth final_fantasy_vii:_advent_children before_crisis:_final_fantasy_vii crisis_core:_final_fantasy_vii final_fantasy_vi kingdom_hearts final_fantasy_vii:_ever_crisis
 ?rude_(ff7) -> final_fantasy final_fantasy_vii final_fantasy_vii_remake final_fantasy_vii_rebirth final_fantasy_vii:_advent_children crisis_core:_final_fantasy_vii before_crisis:_final_fantasy_vii final_fantasy_v kingdom_hearts final_fantasy_vii:_ever_crisis
+?tseng -> final_fantasy final_fantasy_vii final_fantasy_vii_remake final_fantasy_vii_rebirth crisis_core:_final_fantasy_vii final_fantasy_vii:_advent_children before_crisis:_final_fantasy_vii final_fantasy_vii:_ever_crisis kingdom_hearts super_smash_bros.
