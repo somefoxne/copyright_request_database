@@ -526,3 +526,4 @@
 ?misdreavus -> pokemon pokemon_heartgold_and_soulsilver vocaloid project_voltage pokemon_x_and_y pokemon_gold/silver/crystal pokemon_(anime) pokemon_diamond/pearl/platinum touhou pokemon_sun_and_moon
 ?sneasel -> pokemon pokemon_heartgold_and_soulsilver pokemon_adventures pokemon_gold/silver/crystal pokemon_masters_ex pokemon_diamond/pearl/platinum pokemon_scarlet_and_violet original pokemon_black_and_white pokemon_mystery_dungeon
 ?abe_takakazu -> kuso_miso_technique touhou vocaloid real_life doraemon mega_man_(series) lucky_star mega_man_(classic) suzumiya_haruhi_no_yuuutsu
+?chigiri_hyoma -> blue_lock sanrio my_melody_(series) chainsaw_man fuwa_fuwa_cinnamoroll original pokemon umamusume arknights nijisanji
