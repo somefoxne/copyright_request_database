@@ -794,3 +794,4 @@
 ?vert_(neptunia) -> neptune_(series) choujigen_game_neptune four_goddesses_online:_cyber_dimension_neptune kami_jigen_game_neptune_v shin_jigen_game_neptune_vii choujigen_game_neptune_mk2 azur_lane dengeki mainichi_compile_heart gekijigen_tag:_blanc_+_neptune_vs_zombie_gundan
 ?watanabe_manami -> seihantai_na_kimi_to_boku
 ?reg_(made_in_abyss) -> made_in_abyss hololive indie_virtual_youtuber kemono_friends chainsaw_man spy_x_family kobayashi-san_chi_no_maidragon touhou pokemon hololive_english
+?kudamaki_tsukasa -> touhou unconnected_marketeers unfinished_dream_of_all_living_ghost touhou_(pc-98) touhou_lostword reitaisai perfect_cherry_blossom original akatsuki_records touhou_unreal_mahjong
