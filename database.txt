@@ -44,3 +44,4 @@ ookami_mio_(street) -> hololive
 ?aqua_(deltarune) -> utdr_(toby_fox) deltarune touhou undertale umineko_no_naku_koro_ni yotsubato! pokemon original vocaloid indie_virtual_youtuber
 ?kris_(dark_world)_(deltarune) -> utdr_(toby_fox) deltarune undertale omori ace_attorney touhou alien_stage pokemon vocaloid yume_nikki
 ?kris_(deltarune) -> utdr_(toby_fox) deltarune undertale omori alien_stage touhou pokemon vocaloid ace_attorney yume_nikki
+?kitagawa_marin -> sono_bisque_doll_wa_koi_wo_suru komi-san_wa_komyushou_desu ijiranaide_nagatoro-san uzaki-chan_wa_asobitai! hololive original blue_archive chainsaw_man dandadan fate_(series)
