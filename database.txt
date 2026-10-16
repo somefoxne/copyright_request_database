@@ -404,3 +404,4 @@
 ?ende_(miresi) -> miresi:_invisible_future
 ?itsuka_(miresi) -> miresi:_invisible_future
 ?tieria_(miresi) -> miresi:_invisible_future
+?shuten_douji_(fate) -> fate_(series) fate/grand_order fate/extra fate/stay_night pokemon fate/apocrypha fate/kaleid_liner_prisma_illya original kantai_collection learning_with_manga!_fgo
