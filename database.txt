@@ -845,3 +845,4 @@
 ?shidou_ryuusei -> blue_lock
 ?kushima_kamome -> summer_pockets key_(company) little_busters! angel_beats! comiket_95 clannad comiket_106 kanon comiket_101 heaven_burns_red
 ?naruse_shiroha -> summer_pockets key_(company) angel_beats! little_busters! clannad air_(visual_novel) rewrite charlotte_(anime) kanon dango_daikazoku
+?takahara_hairi -> summer_pockets key_(company) kanon clannad comiket_105 comiket_106 comiket_103 heaven_burns_red little_busters! angel_beats!
