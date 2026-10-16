@@ -968,3 +968,4 @@
 ?eunie_(xenoblade) -> xenoblade_chronicles_(series) xenoblade_chronicles_3 xenoblade_chronicles_1 xenoblade_chronicles_2 xenoblade_chronicles_3:_future_redeemed pokemon kid_icarus original fire_emblem bayonetta_(series)
 ?lanz_(xenoblade) -> xenoblade_chronicles_(series) xenoblade_chronicles_3 xenoblade_chronicles_3:_future_redeemed xenoblade_chronicles_2 xenoblade_chronicles_1 warioware starbucks xenoblade_chronicles_x
 ?manana_(xenoblade) -> xenoblade_chronicles_(series) xenoblade_chronicles_3 xenoblade_chronicles_2 xenoblade_chronicles_3:_future_redeemed pragmata danganronpa_(series) danganronpa_2:_goodbye_despair xenoblade_chronicles_1 helios_rising_heroes xenoblade_chronicles_x
+?mio_(xenoblade) -> xenoblade_chronicles_(series) xenoblade_chronicles_3 xenoblade_chronicles_2 xenoblade_chronicles_3:_future_redeemed xenoblade_chronicles_1 fire_emblem pokemon fire_emblem:_three_houses xenoblade_chronicles_x original
