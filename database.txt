@@ -550,3 +550,4 @@
 ?juufuutei_raden_(1st_costume) -> hololive hololive_dev_is hololive_english hololive_official_card_game nijisanji sanrio hololive_indonesia bocchi_the_rock! toshi_densetsu_kaitai_center mona_lisa
 ?bing_hayu -> luvdia project_i indie_virtual_youtuber among_us stardays
 ?isha_(vtuber) -> indie_virtual_youtuber luvdia
+?fuji_kiseki_(umamusume) -> umamusume umamusume:_beginning_of_a_new_era original real_life midori_no_makibaoo pokemon umamusume:_cinderella_gray cygames jojo_no_kimyou_na_bouken
