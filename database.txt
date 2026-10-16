@@ -353,3 +353,4 @@
 ?sudou_tatsuya -> persona persona_2 persona_2_tsumi persona_2_batsu tales_of_(series) persona_3 persona_4 ace_attorney shin_megami_tensei soul_eater
 ?pepesha_andreanova -> shy_(series) gundam bang_dream! bishoujo_senshi_sailor_moon mahou_shoujo_no_majo_saiban shingeki_no_kyojin lucky_star girls_band_cry gundam_suisei_no_majo
 ?mococo_abyssgard -> hololive hololive_english hololive_indonesia hololive_dev_is hololive_grand_theft_auto enigmatic_recollection fuwamoco_adventure hololive_dreams pokemon metal_gear_(series)
+?ronova_(genshin_impact) -> genshin_impact mihoyo honkai_(series) honkai:_star_rail among_us original marvel hololive zenless_zone_zero
