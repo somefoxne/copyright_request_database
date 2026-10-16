@@ -975,3 +975,4 @@
 ?taion_(xenoblade) -> xenoblade_chronicles_(series) xenoblade_chronicles_3 xenoblade_chronicles_3:_future_redeemed xenoblade_chronicles_2 xenoblade_chronicles_1 xenoblade_chronicles_x pokemon mahou_shoujo_madoka_magica chainsaw_man the_legend_of_zelda
 ?nani_pelekai -> lilo_&_stitch disney the_road_to_el_dorado original powerpuff_girls big_hero_6 atlantis:_the_lost_empire lilo_&_stitch_(2025) pokemon marvel
 ?dukemon -> digimon digimon_tamers digimon_card_game digimon_adventure digimon_frontier digimon_adventure_02 digimon_xros_wars digimon_savers digimon_story:_cyber_sleuth digimon_xros_wars:_toki_wo_kakeru_shounen_hunter-tachi
+?magnamon -> digimon digimon_adventure_02 digimon_card_game digimon_adventure digimon_tamers digimon_frontier digimon_xros_wars digimon_savers digimon_xros_wars:_toki_wo_kakeru_shounen_hunter-tachi digimon_adventure_02:_digimon_hurricane_jouriku!!_chouzetsu_shinka!!_ougon_no_digimental
