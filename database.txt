@@ -645,3 +645,4 @@
 ?togawa_sakiko -> bang_dream! arknights yumenokessho sweets_paradise bang_dream!_girls_band_party! bang_dream!_our_notes ganso!_bang_dream_chan killkiss_(bang_dream!) girls_band_cry
 ?noir_(nikke) -> goddess_of_victory:_nikke blue_archive zozotown pokemon fate_(series) fate/grand_order zenless_zone_zero pokemon_sword_and_shield marvel nier_(series)
 ?hedwig -> wizarding_world harry_potter_(series) real_life original touhou kantai_collection vocaloid final_fantasy mahou_shoujo_madoka_magica
+?hermione_granger -> wizarding_world harry_potter_(series) harry_potter_and_the_goblet_of_fire harry_potter_and_the_chamber_of_secrets harry_potter_and_the_prisoner_of_azkaban harry_potter_and_the_deathly_hallows dc_comics star_wars japanese_mythology
