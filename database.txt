@@ -693,3 +693,4 @@
 ?gentilhomme_usher -> genshin_impact jojo_no_kimyou_na_bouken mihoyo comiket_104 honkai_(series) honkai:_star_rail zenless_zone_zero gundam oshi_no_ko
 ?surintendante_chevalmarin -> genshin_impact mihoyo honkai_(series) honkai:_star_rail jojo_no_kimyou_na_bouken comiket_104 zenless_zone_zero gundam jujutsu_kaisen
 ?iron_duke_(warship_girls_r) -> warship_girls_r
+?st_george_(warship_girls_r) -> warship_girls_r
