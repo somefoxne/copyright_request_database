@@ -814,3 +814,4 @@
 ?rias_gremory -> high_school_dxd high_school_dxd_born high_school_dxd_new high_school_dxd_infinity high_school_dxd_pi high_school_dxd_hero high_school_dxd_cross megami_magazine senran_kagura senran_kagura_new_link
 ?lanfear -> vrchat original indie_virtual_youtuber spy_x_family
 ?25-ji_miku -> project_sekai vocaloid kowareta_sekai_to_utaenai_miku zozotown sanrio identity_(vocaloid) project_diva_(series) piapro_studio gehenna_(vocaloid) fuwa_fuwa_cinnamoroll
+?yoisaki_kanade -> project_sekai vocaloid zozotown shadow_shadow_(vocaloid) kowareta_sekai_to_utaenai_miku samsa_(vocaloid) sanrio cat_loving_(cevio) alien_stage identity_(vocaloid)
