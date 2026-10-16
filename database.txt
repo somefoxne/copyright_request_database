@@ -922,3 +922,4 @@
 ?akizuki_(kancolle) -> kantai_collection aoki_hagane_no_arpeggio pokemon idolmaster original idolmaster_(classic) lawson fate_(series) fate/grand_order kamen_rider
 ?dante_(limbus_company) -> project_moon limbus_company lobotomy_corporation arknights library_of_ruina original fate_(series) blue_archive fate/grand_order mili_(band)
 ?outis_(project_moon) -> project_moon limbus_company lobotomy_corporation library_of_ruina arknights original the_distortion_detective fly_my_wings blue_archive mili_(band)
+?hayakawa_tazuna -> umamusume umamusume:_cinderella_gray original idolmaster cygames idolmaster_cinderella_girls dexter_(tv_series) pokemon princess_connect! persona
