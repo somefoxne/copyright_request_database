@@ -94,3 +94,4 @@
 ?iron_golem_(minecraft) -> minecraft mob_talker touhou blue_archive original utdr_(toby_fox) undertale hololive honkai_(series) honkai:_star_rail
 ?batsu_(elsimain) -> original
 ?mei_(overwatch) -> overwatch pokemon street_fighter original boku_no_hero_academia one_piece scooby-doo_(series) marvel soul_eater marvel_rivals
+?daiwa_scarlet_(peak_blue)_(umamusume) -> umamusume pokemon umamusume:_cinderella_gray kantai_collection real_life my_little_pony my_little_pony:_friendship_is_magic jojo_no_kimyou_na_bouken akari_ga_yatte_kitazo_(vocaloid) original
