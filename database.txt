@@ -67,3 +67,4 @@ ookami_mio_(street) -> hololive
 ?rio_(blue_archive) -> blue_archive wuthering_waves blue_archive_the_animation goddess_of_victory:_nikke umamusume kamen_rider comiket_106 arknights kamen_rider_dcd pokemon
 ?phoenix_reffaella -> zenless_zone_zero idolmaster gakuen_idolmaster kill_la_kill the_two-thousand_yard_stare pokemon honkai_(series) honkai:_star_rail gundam jujutsu_kaisen
 ?amiya_(arknights) -> arknights ambience_synesthesia arknights:_endfield white_rabbit_candy project_moon limbus_company blue_archive rainbow_six_siege fate_(series)
+?neopolitan_(rwby) -> rwby rwby_chibi pokemon fate_(series) fate/grand_order mario_(series) dc_comics suicide_squad blazblue blazblue:_cross_tag_battle
