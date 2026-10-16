@@ -323,3 +323,4 @@
 ?leonardo_da_vinci_(fate) -> fate_(series) fate/grand_order learning_with_manga!_fgo fate/extra fate/stay_night fate/grand_order_arcade fate/apocrypha mona_lisa fate/extra_ccc original
 ?leonardo_da_vinci_(rider)_(fate) -> fate_(series) fate/grand_order fate/grand_order_arcade learning_with_manga!_fgo original fate/apocrypha fate/stay_night fate/extra fate/kaleid_liner_prisma_illya mona_lisa
 ?weiss_schnee -> rwby rwby:_ice_queendom fate_(series) rwby_chibi genshin_impact fate/grand_order overwatch pokemon rooster_teeth dc_comics
+?yang_xiao_long -> rwby rwby_chibi fate_(series) blazblue dc_comics rooster_teeth genshin_impact league_of_legends marvel blazblue:_cross_tag_battle
