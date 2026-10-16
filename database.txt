@@ -79,3 +79,4 @@ ookami_mio_(street) -> hololive
 ?meowscarada -> pokemon pokemon_scarlet_and_violet pokemon_(anime) pokemon_horizons original pokemon_unite pokemon_cafe_remix digimon pokemon:_paldean_winds pokemon_sword_and_shield
 ?fujiwara_no_mokou -> touhou imperishable_night night_sparrow_love touhou_tag_dream touhou_(pc-98) pokemon reitaisai urban_legend_in_limbo original
 ?kaku_seiga -> touhou ten_desires touhou_(pc-98) touhou_lostword undefined_fantastic_object embodiment_of_scarlet_devil perfect_cherry_blossom imperishable_night phantasmagoria_of_flower_view original
+?mizuhashi_parsee -> touhou subterranean_animism cookie_(touhou) touhou_(pc-98) reitaisai reitaisai_8_contest touhou_tag_dream touhou_lostword final_fantasy embodiment_of_scarlet_devil
