@@ -296,3 +296,4 @@
 ?kafuu_chino -> gochuumon_wa_usagi_desu_ka? manga_time_kirara clockwork_rabbit gochuumon_wa_usagi_desu_ka??_wonderful_party! kantai_collection kirara_fantasia kin-iro_mosaic re:zero_kara_hajimeru_isekai_seikatsu original
 ?tippy_(gochiusa) -> gochuumon_wa_usagi_desu_ka? manga_time_kirara kantai_collection clockwork_rabbit re:zero_kara_hajimeru_isekai_seikatsu daydream_show kin-iro_mosaic kirara_fantasia gochuumon_wa_usagi_desu_ka??_wonderful_party!
 ?mocha_(osu!) -> osu! taiko_no_tatsujin pokemon mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) mega_man_(series) real_life dungeons_&_dragons mega_man_(classic) bemani
+?pippi_(osu!) -> osu! taiko_no_tatsujin original vocaloid zenless_zone_zero among_us neko_atsume mahou_shoujo_madoka_magica mega_man_(series) mega_man_(classic)
