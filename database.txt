@@ -279,3 +279,4 @@
 ?mejiro_ramonu_(umamusume) -> umamusume umamusume:_cinderella_gray original precure meitantei_precure! real_life kantai_collection blue_archive pokemon gundam
 ?sirius_symboli_(umamusume) -> umamusume original umayuru umamusume:_cinderella_gray pokemon fate_(series) real_life blue_archive chainsaw_man suntory
 ?momijiyama_teru -> shy_(series) pokemon boku_no_hero_academia fate_(series) fate/grand_order bang_dream! reverse:1999 mahou_shoujo_no_majo_saiban kamen_rider
+?black_cat_(marvel) -> marvel spider-man_(series) marvel_rivals dc_comics x-men batman_(series) tiger_division fantastic_four avengers_(series)
