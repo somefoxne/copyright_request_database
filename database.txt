@@ -930,3 +930,4 @@
 ?alolan_raichu -> pokemon pokemon_sun_and_moon pokemon_(anime) pokemon_ultra_sun_and_ultra_moon pokemon_the_series:_sun_&_moon pokemon_sword_and_shield pokemon_scarlet_and_violet pokemon_masters_ex pokemon_diamond/pearl/platinum pokemon_(classic_anime)
 ?fomantis -> pokemon pokemon_sun_and_moon pokemon_(anime) pokemon_the_series:_sun_&_moon pokemon_ultra_sun_and_ultra_moon pokemon_tcg pokemon_journeys pokemon_the_series:_black_&_white original pokemon_(classic_anime)
 ?golduck -> pokemon pokemon_(anime) pokemon_(classic_anime) pokemon_red/green/blue/yellow pokemon_heartgold_and_soulsilver pokemon_firered_and_leafgreen pokemon_adventures pokemon_black_2_and_white_2 pokemon:_the_first_movie_-_mewtwo_strikes_back original
+?incineroar -> pokemon pokemon_sun_and_moon super_smash_bros. mario_(series) animal_crossing fire_emblem pokemon_(anime) metroid donkey_kong_(series) street_fighter
