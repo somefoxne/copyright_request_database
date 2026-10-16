@@ -774,3 +774,4 @@
 ?shiroko_(cycling)_(blue_archive) -> blue_archive umamusume fast_&_furious hololive honkai_(series) bocchi_the_rock! kamen_rider world_cup comiket_108 blue_archive_the_animation
 ?raijin_(mythology) -> original japanese_mythology genshin_impact touhou kantai_collection towako_(akane_shinsha) vocaloid bleach the_hundred_line_-last_defense_academy- blue_archive
 ?yoshino_chidori -> persona persona_3 persona_3_reload persona_3_portable persona_4 persona_4:_the_ultimate_in_mayonaka_arena jojo_no_kimyou_na_bouken ace_attorney pokemon danganronpa_(series)
+?sage_(final_fantasy) -> final_fantasy final_fantasy_xiv original final_fantasy_iii dissidia_final_fantasy arknights square_enix pokemon hololive hololive_english
