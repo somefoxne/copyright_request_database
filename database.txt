@@ -196,3 +196,4 @@
 ?denji_(chainsaw_man) -> chainsaw_man jujutsu_kaisen spy_x_family dandadan original one_piece mob_psycho_100 jojo_no_kimyou_na_bouken naruto_(series)
 ?denji_man_(chainsaw_man) -> chainsaw_man jujutsu_kaisen dc_comics absolute_dc absolute_batman jojo_no_kimyou_na_bouken marvel stardust_crusaders tengen_toppa_gurren_lagann spider-man_(series)
 ?mitaka_asa -> chainsaw_man dandadan neon_genesis_evangelion jujutsu_kaisen scott_pilgrim_(series) lollipop_chainsaw pokemon sousou_no_frieren akira_(manga) original
+?yoru_(chainsaw_man) -> chainsaw_man jujutsu_kaisen neon_genesis_evangelion i_want_you hololive marvel sousou_no_frieren lollipop_chainsaw boku_no_hero_academia dc_comics
