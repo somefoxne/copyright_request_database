@@ -967,3 +967,4 @@
 ?special_week_(umamusume) -> umamusume real_life cygames original pakatube umamusume:_cinderella_gray umayuru pokemon pacific_racing_team kantai_collection
 ?eunie_(xenoblade) -> xenoblade_chronicles_(series) xenoblade_chronicles_3 xenoblade_chronicles_1 xenoblade_chronicles_2 xenoblade_chronicles_3:_future_redeemed pokemon kid_icarus original fire_emblem bayonetta_(series)
 ?lanz_(xenoblade) -> xenoblade_chronicles_(series) xenoblade_chronicles_3 xenoblade_chronicles_3:_future_redeemed xenoblade_chronicles_2 xenoblade_chronicles_1 warioware starbucks xenoblade_chronicles_x
+?manana_(xenoblade) -> xenoblade_chronicles_(series) xenoblade_chronicles_3 xenoblade_chronicles_2 xenoblade_chronicles_3:_future_redeemed pragmata danganronpa_(series) danganronpa_2:_goodbye_despair xenoblade_chronicles_1 helios_rising_heroes xenoblade_chronicles_x
