@@ -387,3 +387,4 @@
 ?takigawa_noa -> yamada-kun_to_7-nin_no_majo megami_magazine
 ?caesar_anthonio_zeppeli -> jojo_no_kimyou_na_bouken battle_tendency stardust_crusaders phantom_blood diamond_wa_kudakenai steel_ball_run vento_aureo stone_ocean jojolion jojo_no_kimyou_na_bouken:_all_star_battle
 ?joseph_joestar -> jojo_no_kimyou_na_bouken battle_tendency stardust_crusaders diamond_wa_kudakenai phantom_blood stone_ocean vento_aureo steel_ball_run jojolion jojo_no_kimyou_na_bouken:_all_star_battle
+?joseph_joestar_(young) -> jojo_no_kimyou_na_bouken battle_tendency stardust_crusaders phantom_blood diamond_wa_kudakenai vento_aureo stone_ocean steel_ball_run jojolion jojo_no_kimyou_na_bouken:_all_star_battle
