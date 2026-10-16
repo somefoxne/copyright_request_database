@@ -768,3 +768,4 @@
 ?air_groove_(umamusume) -> umamusume umamusume:_cinderella_gray original real_life umayuru cygames pokemon comiket_102 kantai_collection gundam
 ?fuji_kiseki_(shooting_star_revue)_(umamusume) -> umamusume umamusume:_beginning_of_a_new_era midori_no_makibaoo akari_ga_yatte_kitazo_(vocaloid) original pokemon umamusume:_cinderella_gray kantai_collection idolmaster jojo_no_kimyou_na_bouken
 ?super_creek_(umamusume) -> umamusume umamusume:_cinderella_gray pokemon pokemon_(anime) pokemon_journeys cygames real_life pakatube original umayon
+?symboli_rudolf_(umamusume) -> umamusume umamusume:_cinderella_gray original umayuru real_life kantai_collection pokemon jujutsu_kaisen comiket_100 idolmaster
