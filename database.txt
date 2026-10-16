@@ -157,3 +157,4 @@
 ?harry_potter -> wizarding_world harry_potter_(series) harry_potter_and_the_goblet_of_fire harry_potter_and_the_deathly_hallows harry_potter_and_the_chamber_of_secrets harry_potter_and_the_cursed_child harry_potter_and_the_half-blood_prince marvel naruto_(series)
 ?deadman_danny_(deadlock) -> deadlock_(game) megadeth
 ?dark_magician_girl -> yu-gi-oh! yu-gi-oh!_duel_monsters yu-gi-oh!_zexal yu-gi-oh!_gx original touhou yu-gi-oh!_the_dark_side_of_dimensions hololive pokemon
+?emiya_alter -> fate_(series) fate/grand_order fate/stay_night fate/extra fate/grand_order:_first_order original fate/extra_ccc fate/kaleid_liner_prisma_illya fate/zero fate/hollow_ataraxia
