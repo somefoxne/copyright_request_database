@@ -241,3 +241,4 @@
 ?leon_s._kennedy -> resident_evil resident_evil_4 resident_evil_requiem resident_evil_4_(remake) resident_evil_2 resident_evil_6 resident_evil_2_(remake) resident_evil_village resident_evil:_vendetta devil_may_cry_(series)
 ?kotora_(pokemon) -> pokemon pokemon_gold/silver/crystal_(prototype) pokemon_gold/silver/crystal kill_me_baby pokemon_mystery_dungeon pokemon_mystery_dungeon:_explorers_of_time/darkness/sky pokemon_snap
 ?raitora -> pokemon pokemon_gold/silver/crystal_(prototype) pokemon_gold/silver/crystal
+?power_(chainsaw_man) -> chainsaw_man jujutsu_kaisen dragon_ball boku_no_hero_academia spy_x_family goddess_of_victory:_nikke original dragon_ball_z one_piece
