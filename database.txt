@@ -903,3 +903,4 @@
 ?komamura_sajin -> bleach bleach:_sennen_kessen-hen idolmaster idolmaster_cinderella_girls bleach:_epilogue bleach:_jigoku-hen cho_kaguya-hime! spice_and_wolf shining_(series) yu_yu_hakusho
 ?kuchiki_byakuya -> bleach bleach:_sennen_kessen-hen bleach:_epilogue bleach:_turn_back_the_pendulum bleach:_brave_souls idolmaster titanic_(movie) gakuen_idolmaster fate_(series) bleach:_zanpakutou_ibun_hen
 ?kurotsuchi_mayuri -> bleach bleach:_sennen_kessen-hen bleach:_epilogue made_in_abyss fullmetal_alchemist idolmaster one_piece gakuen_idolmaster umamusume soul_eater
+?kyouraku_shunsui -> bleach bleach:_sennen_kessen-hen idolmaster bleach:_epilogue naruto_(series) idolmaster_cinderella_girls gakuen_idolmaster naruto_(classic) bleach:_turn_back_the_pendulum bleach:_zanpakutou_ibun_hen
