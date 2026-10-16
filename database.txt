@@ -253,3 +253,4 @@
 ?rem_kanashibari_(2nd_costume) -> v4mirai
 ?usada_pekora_(casual) -> hololive hololive_indonesia hololive_english minecraft hololive_dev_is pokemon comiket_104 comiket_102 nijisanji
 ?sherry_birkin -> resident_evil resident_evil_6 resident_evil_2 resident_evil_2_(remake) resident_evil_requiem resident_evil_4 resident_evil_4_(remake) resident_evil_3:_nemesis resident_evil_5 resident_evil_0
+?so_dakki -> houshin_engi jojo_no_kimyou_na_bouken stardust_crusaders rurouni_kenshin jigoku_sensei_nube fate_(series) vocaloid dragon_ball dragon_quest shoujo_kakumei_utena
