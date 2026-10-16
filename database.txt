@@ -60,3 +60,4 @@ ookami_mio_(street) -> hololive
 ?toki_(blue_archive) -> blue_archive comiket_102 original comiket_104 fate_(series) blue_archive_the_animation comiket_103 honkai_(series) honkai:_star_rail comiket_106
 ?vodyanitsa_(genshin_impact) -> genshin_impact honkai_(series) mihoyo honkai:_star_rail chiikawa arknights vocaloid zenless_zone_zero sanrio frozen_(disney)
 ?takanashi_kiara -> hololive hololive_english hololive_indonesia perfume_(takanashi_kiara) minecraft mirage_(takanashi_kiara) nijisanji hololive_dev_is ego_(takanashi_kiara) indie_virtual_youtuber
+?mori_calliope -> hololive hololive_english hololive_indonesia q_(hololive) hololive_dev_is minecraft indie_virtual_youtuber hololive_dreams one_piece monster_hunter_(series)
