@@ -547,3 +547,4 @@
 ?henry_jekyll_(fate) -> fate_(series) fate/grand_order fate/prototype fate/prototype:_fragments_of_blue_and_silver fate/stay_night fate/apocrypha fate/extra koha-ace learning_with_manga!_fgo pixiv_fate/grand_order_contest_1
 ?jekyll_and_hyde_(fate) -> fate_(series) fate/grand_order fate/prototype fate/prototype:_fragments_of_blue_and_silver fate/apocrypha fate/stay_night fate/extra fate/strange_fake danganronpa_(series) fate/zero
 ?kitano_tatsumi -> fate_(series) fate/prototype fate/prototype:_fragments_of_blue_and_silver fate/grand_order fate/stay_night fate/extra fate/apocrypha fate/zero fate/strange_fake
+?juufuutei_raden_(1st_costume) -> hololive hololive_dev_is hololive_english hololive_official_card_game nijisanji sanrio hololive_indonesia bocchi_the_rock! toshi_densetsu_kaitai_center mona_lisa
