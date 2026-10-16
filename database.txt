@@ -691,3 +691,4 @@
 ?alice_margatroid -> touhou touhou_(pc-98) cookie_(touhou) perfect_cherry_blossom imperishable_night final_fantasy mystic_square shinza_bansho_series dies_irae final_fantasy_xi
 ?furina_(genshin_impact) -> genshin_impact mihoyo honkai_(series) honkai:_star_rail zenless_zone_zero honkai_impact_3rd sanrio fuwa_fuwa_cinnamoroll kono_subarashii_sekai_ni_shukufuku_wo!
 ?gentilhomme_usher -> genshin_impact jojo_no_kimyou_na_bouken mihoyo comiket_104 honkai_(series) honkai:_star_rail zenless_zone_zero gundam oshi_no_ko
+?surintendante_chevalmarin -> genshin_impact mihoyo honkai_(series) honkai:_star_rail jojo_no_kimyou_na_bouken comiket_104 zenless_zone_zero gundam jujutsu_kaisen
