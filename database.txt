@@ -492,3 +492,4 @@
 ?puniru_(puniru_wa_kawaii_slime) -> puniru_wa_kawaii_slime corocoro_comic puyopuyo puyopuyo_quest umamusume original pokemon pokemon_scarlet_and_violet sana_channel duel_masters
 ?isago_mugi -> original
 ?shiina_mahiru_(otonari_no_tenshi-sama) -> otonari_no_tenshi-sama_ni_itsu_no_mani_ka_dame_ningen_ni_sarete_ita_ken tokidoki_bosotto_roshia-go_de_dereru_tonari_no_alya-san seishun_buta_yarou dead_or_alive megami_magazine sono_bisque_doll_wa_koi_wo_suru hibike!_euphonium hyouka youkoso_jitsuryoku_shijou_shugi_no_kyoushitsu_e justice_gakuen
+?evelyn_(greenopi) -> original
