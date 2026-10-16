@@ -856,3 +856,4 @@
 ?nicole_demara -> zenless_zone_zero mihoyo genshin_impact blue_archive honkai_(series) honkai:_star_rail azur_lane original pokemon
 ?yakumo_ran -> touhou perfect_cherry_blossom touhou_(pc-98) unfinished_dream_of_all_living_ghost imperishable_night original mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) pokemon touhou_lostword
 ?female_slayer_(dungeon_and_fighter) -> dungeon_and_fighter original dnf_duel sword_art_online goblin_slayer!
+?spectre_(dungeon_and_fighter) -> dungeon_and_fighter dnf_duel
