@@ -171,3 +171,4 @@
 ?severus_snape_(redteneri) -> wizarding_world harry_potter_(series) original harry_potter_and_the_goblet_of_fire jojo_no_kimyou_na_bouken chainsaw_man doki_doki_literature_club steel_ball_run reddit harry_potter_and_the_prisoner_of_azkaban
 ?mashu-tan -> precure meitantei_precure! naruto_(series) pokemon umamusume meitantei_conan blue_archive street_fighter umamusume:_cinderella_gray kin-iro_mosaic
 ?moria_luluka -> precure meitantei_precure! kamen_rider toei_company meitantei_conan kimi_to_idol_precure kamen_rider_zeztz_(series) gundam blue_archive umamusume
+?moria_luluka_(civilian) -> precure meitantei_precure! toei_company kamen_rider blue_archive umamusume comiket_108 pokemon mahou_shoujo_madoka_magica gundam
