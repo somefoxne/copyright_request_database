@@ -215,3 +215,4 @@
 ?rasa_(mabinogi) -> mabinogi
 ?gyro_zeppeli -> jojo_no_kimyou_na_bouken steel_ball_run battle_tendency phantom_blood stone_ocean vento_aureo diamond_wa_kudakenai stardust_crusaders jojolion umamusume
 ?judy_hopps -> zootopia looney_tunes disney zootopia_2 space_jam pokemon boku_no_hero_academia sonic_(series) mickey_mouse_&_friends genshin_impact
+?nick_wilde -> zootopia disney robin_hood_(disney_movie) zootopia_2 pinocchio_(disney_movie) song_of_the_south genshin_impact original pokemon bang_dream!
