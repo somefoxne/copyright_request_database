@@ -275,3 +275,4 @@
 ?amethyst_(steven_universe) -> steven_universe steven_universe_future dc_comics adventure_time chowder_(series) mario_(series) teen_titans cartoon_network original
 ?pearl_(steven_universe) -> steven_universe steven_universe_future steven_universe:_the_movie sonic_(series) cartoon_network ed_edd_n_eddy mario_(series) adventure_time powerpuff_girls kekkai_sensen
 ?nicole_quadriga -> choukou_(alicesoft) choukou_taisen_escalation_heroines alicesoft
+?ugumori_akie -> choukou_(alicesoft) choukou_taisen_escalation_heroines alicesoft
