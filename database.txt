@@ -364,3 +364,4 @@
 ?cecilus_segmunt -> re:zero_kara_hajimeru_isekai_seikatsu re:zero_kara_oboreru_isekai_seikatsu my_little_pony my_little_pony:_friendship_is_magic re:zero_kara_kasaneru_isekai_seikatsu re:zero_kara_ayamatsu_isekai_seikatsu re:zero_kara_tsugihagu_isekai_seikatsu re:if_kara_hajimeru_isekai_seikatsu
 ?kiritsu_tadashi -> arakure_ojou-sama_wa_monmon_shiteiru higanjima kurono_royale
 ?kuchinashi_tsubaki -> arakure_ojou-sama_wa_monmon_shiteiru higanjima ojikun_to_meichan kurono_royale
+?suou_tatsuya -> persona persona_2 persona_2_tsumi persona_4 persona_1 persona_3 persona_2_batsu persona_5 persona_3_portable shin_megami_tensei
