@@ -507,3 +507,4 @@
 ?miss_cloud -> kantai_collection dragon_ball ghostbusters original fate_(series) gochuumon_wa_usagi_desu_ka? fate/grand_order azur_lane dragon_ball_z kamen_rider
 ?kashima_yuno -> danball_senki danball_senki_wars danball_senki_w
 ?velmoraart_(character) -> original
+?fern_(sousou_no_frieren) -> sousou_no_frieren one-punch_man dungeon_meshi touhou blue_archive kono_subarashii_sekai_ni_shukufuku_wo! chainsaw_man original pokemon dragon_ball
