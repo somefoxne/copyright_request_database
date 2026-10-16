@@ -710,3 +710,4 @@
 ?lynette_(genshin_impact) -> genshin_impact mihoyo kfc zenless_zone_zero honkai_(series) honkai:_star_rail blue_archive olympics 2024_summer_olympics pokemon
 ?mythra_(xenoblade) -> xenoblade_chronicles_(series) xenoblade_chronicles_2 super_smash_bros. xenoblade_chronicles_3 mario_(series) pokemon fire_emblem xenoblade_chronicles_3:_future_redeemed kirby_(series) xenoblade_chronicles_1
 ?princess_zelda -> the_legend_of_zelda the_legend_of_zelda:_tears_of_the_kingdom the_legend_of_zelda:_breath_of_the_wild the_legend_of_zelda:_ocarina_of_time the_legend_of_zelda:_twilight_princess the_legend_of_zelda:_a_link_between_worlds super_smash_bros. the_legend_of_zelda:_skyward_sword mario_(series) the_legend_of_zelda:_the_wind_waker
+?elysia_(hi_love_elf)_(honkai_impact) -> honkai_(series) honkai_impact_3rd honkai:_star_rail mihoyo zenless_zone_zero original genshin_impact pash_(magazine) wuthering_waves xinyue_tongxing
