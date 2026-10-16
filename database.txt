@@ -748,3 +748,4 @@
 ?hong_meiling -> touhou embodiment_of_scarlet_devil touhou_(pc-98) m.u.g.e.n reitaisai jojo_no_kimyou_na_bouken touhou_lostword pokemon the_king_of_fighters
 ?izayoi_sakuya -> touhou embodiment_of_scarlet_devil perfect_cherry_blossom touhou_(pc-98) touhou_tag_dream cookie_(touhou) touhou_lostword imperishable_night koumajou_densetsu jojo_no_kimyou_na_bouken
 ?remilia_scarlet -> touhou embodiment_of_scarlet_devil touhou_lostword touhou_(pc-98) reitaisai koumajou_densetsu curiosities_of_lotus_asia imperishable_night touhou_tag_dream pokemon
+?aki_shizuha -> touhou mountain_of_faith touhou_(pc-98) reitaisai touhou_tag_dream reitaisai_8_contest embodiment_of_scarlet_devil imperishable_night perfect_cherry_blossom undefined_fantastic_object
