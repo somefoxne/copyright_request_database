@@ -593,3 +593,4 @@
 ?copano_rickey_(umamusume) -> umamusume cygames pokemon real_life umamusume:_cinderella_gray gundam original kantai_collection jojo_no_kimyou_na_bouken pokemon_(anime)
 ?luke_fon_fabre -> tales_of_(series) tales_of_the_abyss tales_of_vesperia tales_of_symphonia tales_of_phantasia tales_of_graces tales_of_destiny tales_of_xillia tales_of_eternia tales_of_innocence
 ?anise_tatlin -> tales_of_(series) tales_of_the_abyss tales_of_vesperia tales_of_symphonia tales_of_graces tales_of_destiny tales_of_xillia tales_of_phantasia tales_of_destiny_2 tales_of_zestiria
+?arietta_(tales) -> tales_of_(series) tales_of_the_abyss tales_of_symphonia tales_of_vesperia tales_of_xillia tales_of_asteria tales_of_graces tales_of_destiny tales_of_phantasia tales_of_eternia
