@@ -806,3 +806,4 @@
 ?t-head_trainer_(umamusume) -> umamusume original gundam blue_archive real_life idolmaster jojo_no_kimyou_na_bouken jujutsu_kaisen pakatube pokemon
 ?reefling_(stronny_cuttles) -> vallure indie_virtual_youtuber
 ?stronny_cuttles -> vallure indie_virtual_youtuber hololive umamusume hololive_english marvel original touhou blue_archive pokemon
+?doremy_sweet -> touhou legacy_of_lunatic_kingdom touhou_(pc-98) antinomy_of_common_flowers pokemon touhou_lostword touhou_cannonball ten_desires double_dealing_character touhou_bougetsushou
