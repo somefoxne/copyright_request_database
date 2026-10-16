@@ -803,3 +803,4 @@
 ?hirose_aiki -> ganbare!_nakamura-kun!! hikaru_ga_shinda_natsu pokemon zenless_zone_zero neon_genesis_evangelion ensemble_stars! minecraft nu_carnival chiikawa
 ?nakamura_okuto -> ganbare!_nakamura-kun!! hikaru_ga_shinda_natsu chevelle_(band) pokemon vocaloid zenless_zone_zero mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) chainsaw_man neon_genesis_evangelion
 ?kale_(dragon_ball) -> dragon_ball dragon_ball_super dragon_ball_z dragon_ball_super_broly dragon_ball_gt dragon_ball_fighterz dragon_ball_(classic) dragon_ball_heroes dragon_ball:_sparking! dragon_ball_minus
+?t-head_trainer_(umamusume) -> umamusume original gundam blue_archive real_life idolmaster jojo_no_kimyou_na_bouken jujutsu_kaisen pakatube pokemon
