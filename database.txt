@@ -754,3 +754,4 @@
 ?march_7th_(hunt)_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail honkai_impact_3rd fate_(series) fate/stay_night genshin_impact mihoyo fate/unlimited_blade_works arknights project_sekai
 ?mortarion -> warhammer_40k original hololive hololive_english dark_souls_(series) the_coronation_of_napoleon
 ?candore_(night_of_revenge) -> night_of_revenge
+?haanja_(sinisistar) -> sinisistar sinisistar_2
