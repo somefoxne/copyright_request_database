@@ -203,3 +203,4 @@
 ?samejima_mamimi -> flcl gainax neon_genesis_evangelion top_wo_nerae!_(series) top_wo_nerae_2! flcl_reanimated abenobashi_mahou_shoutengai tengen_toppa_gurren_lagann fushigi_no_umi_no_nadia chainsaw_man
 ?sakura_miko_(1st_costume) -> hololive hololive_english minecraft hololive_indonesia ark_survival_evolved hololive_dev_is grand_theft_auto grand_theft_auto_v final_fantasy nijisanji
 ?maneko_(makemon!) -> makemon! devilconnection
+?wini_(elin) -> elin_(game)
