@@ -1,2 +1,3 @@
 ookami_mio -> hololive
 ?shirakami_fubuki -> hololive hololive_english pokemon hololive_indonesia hololive_dev_is azur_lane hololive_grand_theft_auto hololive_alternative holostars indie_virtual_youtuber
+?shirakami_fubuki_(twinkle_on_the_shore) -> hololive hololive_dreams
