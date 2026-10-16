@@ -954,3 +954,4 @@
 ?valeriy_(genshin_impact) -> genshin_impact honkai_(series) honkai:_star_rail mihoyo crunchyroll dr._stone backrooms_(creepypasta) the_amazing_world_of_gumball dream_pool iii_(hololive)
 ?seadramon -> digimon digimon_world digimon_adventure umamusume vocaloid digimon_card_game digimon_story:_cyber_sleuth voiceroid real_life
 ?kuroo_tetsurou -> haikyuu!! jujutsu_kaisen pokemon boku_no_hero_academia wind_breaker_(nii_satoru) original sanrio daiya_no_ace vocaloid bishoujo_senshi_sailor_moon
+?sawamura_daichi -> haikyuu!! love_live! love_live!_school_idol_project fate_(series) fate/grand_order dc_comics tokyo_afterschool_summoners hunter_x_hunter seiken_densetsu doraemon
