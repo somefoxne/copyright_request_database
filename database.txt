@@ -108,3 +108,4 @@
 ?hatake_kakashi -> naruto_(series) naruto_(classic) naruto_shippuuden boruto_(series) boruto:_naruto_next_generations naruto:_the_last jujutsu_kaisen naruto_shippuuden:_ultimate_ninja_blazing one_piece pokemon
 ?murakumo_(senran_kagura) -> senran_kagura senran_kagura_new_wave senran_kagura_new_link senran_kagura_shinovi_versus senran_kagura_estival_versus senran_kagura_peach_beach_splash go-toubun_no_hanayome high_school_dxd kantai_collection boku_no_hero_academia
 ?silver_wolf_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail honkai_impact_3rd mihoyo genshin_impact vocaloid hoyohoyo_ni_shite_ageru kamen_rider blue_archive zenless_zone_zero
+?artoria_pendragon_(fate) -> fate_(series) fate/grand_order fate/stay_night fate/zero fate/unlimited_codes fate/hollow_ataraxia fate/apocrypha fate/extra fate/unlimited_blade_works
