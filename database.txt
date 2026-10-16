@@ -212,3 +212,4 @@
 ?nakano_azusa -> k-on! listen!! k-on!_movie no_thank_you!_(k-on!) singing!_(k-on!) vocaloid k-on!_high_school suzumiya_haruhi_no_yuuutsu yuruyuri
 ?galo_thymos -> promare trigger_(company) kill_la_kill tengen_toppa_gurren_lagann jojo_no_kimyou_na_bouken cyberpunk_(series) darling_in_the_franxx cyberpunk:_edgerunners cyberpunk:_edgerunners_1 uchuu_patrol_luluco
 ?lio_fotia -> promare trigger_(company) kill_la_kill tengen_toppa_gurren_lagann gridman_universe ssss.gridman uchuu_patrol_luluco pokemon fate_(series) honkai_(series)
+?rasa_(mabinogi) -> mabinogi
