@@ -113,3 +113,4 @@
 ?saber_(fate) -> fate_(series) fate/stay_night fate/grand_order fate/zero fate/hollow_ataraxia honkai_(series) honkai:_star_rail fate/extra fate/unlimited_blade_works fate/apocrypha
 ?rune_(yllande) -> original tarot_after_dark
 ?panam_palmer -> cyberpunk_(series) cyberpunk_2077 mrlsexdoll stray_(game) cyberpunk_trading_card_game cd_projekt_red apex_legends dungeons_&_dragons
+?hayakawa_aki -> chainsaw_man jujutsu_kaisen naruto_(series) kimetsu_no_yaiba spy_x_family blue_archive one_piece original bang_dream!
