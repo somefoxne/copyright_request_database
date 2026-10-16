@@ -921,3 +921,4 @@
 ?elysia_(summer_miss_elf)_(honkai_impact) -> honkai_(series) honkai_impact_3rd honkai:_star_rail honkai_gakuen mihoyo zenless_zone_zero genshin_impact sono_bisque_doll_wa_koi_wo_suru kawaii_kaiwai original
 ?akizuki_(kancolle) -> kantai_collection aoki_hagane_no_arpeggio pokemon idolmaster original idolmaster_(classic) lawson fate_(series) fate/grand_order kamen_rider
 ?dante_(limbus_company) -> project_moon limbus_company lobotomy_corporation arknights library_of_ruina original fate_(series) blue_archive fate/grand_order mili_(band)
+?outis_(project_moon) -> project_moon limbus_company lobotomy_corporation library_of_ruina arknights original the_distortion_detective fly_my_wings blue_archive mili_(band)
