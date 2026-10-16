@@ -723,3 +723,4 @@
 ?cinderella_(nikke) -> goddess_of_victory:_nikke wuthering_waves blue_archive yu-gi-oh! stellar_blade original zenless_zone_zero indie_virtual_youtuber oshi_no_ko minecraft
 ?azuma_shino_(seihantai_na_kimi_to_boku) -> seihantai_na_kimi_to_boku fate_(series) fate/grand_order vocaloid reverse:1999 re:zero_kara_hajimeru_isekai_seikatsu sono_bisque_doll_wa_koi_wo_suru path_to_nowhere blue_lock koori_no_jouheki
 ?nishi_natsumi -> seihantai_na_kimi_to_boku
+?suzuki_miyu -> seihantai_na_kimi_to_boku koori_no_jouheki bocchi_the_rock! spy_x_family sono_bisque_doll_wa_koi_wo_suru dandadan mato_seihei_no_slave kaijuu_no._8 shounen_jump 2.5_jigen_no_ririsa
