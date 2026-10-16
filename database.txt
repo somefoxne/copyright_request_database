@@ -185,3 +185,4 @@
 ?chiyo_(love-bullet) -> love-bullet lycoris_recoil kininatteru_hito_ga_otoko_ja_nakatta comitia_150
 ?ena_(love-bullet) -> love-bullet kininatteru_hito_ga_otoko_ja_nakatta comitia_150
 ?kanna_(love-bullet) -> love-bullet bang_dream! bang_dream!_girls_band_party! pokemon genshin_impact umamusume honkai_(series) fire_emblem zenless_zone_zero danganronpa_(series)
+?koharu_(love-bullet) -> love-bullet tongari_boushi_no_atelier sayonara_lara angel_with_a_shotgun pokemon fate_(series) genshin_impact fate/grand_order honkai_(series) fire_emblem
