@@ -76,3 +76,4 @@ ookami_mio_(street) -> hololive
 ?kagome_misaki -> alice_gear_aegis precure taimanin_(series) fresh_precure! frame_arms_girl
 ?nozomi_(blue_archive) -> blue_archive blue_archive_the_animation umamusume comiket_106 original comiket_108 thomas_the_tank_engine_(series) pokemon honkai_(series)
 ?aemeath_(wuthering_waves) -> wuthering_waves honkai_(series) honkai:_star_rail cyberpunk_(series) honkai_impact_3rd punishing:_gray_raven blue_archive cyberpunk:_edgerunners cyberpunk:_edgerunners_1 comiket_108
+?meowscarada -> pokemon pokemon_scarlet_and_violet pokemon_(anime) pokemon_horizons original pokemon_unite pokemon_cafe_remix digimon pokemon:_paldean_winds pokemon_sword_and_shield
