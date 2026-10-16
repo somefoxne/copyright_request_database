@@ -566,3 +566,4 @@
 ?mercedes_von_martritz -> fire_emblem fire_emblem:_three_houses fire_emblem_heroes fire_emblem_warriors:_three_hopes fire_emblem_fates fire_emblem:_genealogy_of_the_holy_war xenoblade_chronicles_(series) xenoblade_chronicles_2 fire_emblem_awakening fire_emblem_engage
 ?mercedes_von_martritz_(timeskip) -> fire_emblem fire_emblem:_three_houses fire_emblem_fates fire_emblem_cipher fire_emblem_warriors:_three_hopes gundam fire_emblem_heroes dungeon_meshi shin_megami_tensei
 ?tsurugi_(cougar1404) -> original
+?brooklyn_(halloween)_(kancolle) -> kantai_collection kimetsu_no_yaiba
