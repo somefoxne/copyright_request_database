@@ -153,3 +153,4 @@
 ?dokibird -> indie_virtual_youtuber densetsu.exe vinesauce nijisanji nijisanji_en 3am gamer_supps metal_gear_(series) hololive monster_hunter_(series)
 ?ushimaru_(senran_kagura) -> senran_kagura senran_kagura_new_wave senran_kagura_new_link pokemon pokemon_red/green/blue/yellow comiket_106
 ?kiperina -> reverse:1999 e.t. olympics 1980_summer_olympics lilo_&_stitch venus_de_milo
+?voyager_(reverse:1999) -> reverse:1999 e.t. vocaloid original fate_(series) fate/grand_order project_moon jujutsu_kaisen library_of_ruina path_to_nowhere
