@@ -471,3 +471,4 @@
 ?tatsuta_(kancolle) -> kantai_collection transformers transformers:_generation_1 aoki_hagane_no_arpeggio original idolmaster gundam pokemon fate_(series) idolmaster_(classic)
 ?tenryuu_(kancolle) -> kantai_collection transformers transformers:_generation_1 original aoki_hagane_no_arpeggio fate_(series) pokemon touken_ranbu touhou fate/grand_order
 ?ellen_joe -> zenless_zone_zero hololive mihoyo genshin_impact moechakkafire hololive_english honkai_(series) honkai:_star_rail blue_archive jaws_(movie)
+?flower_(vocaloid) -> vocaloid gynoid_talk cevio utau voiceroid synthesizer_v kamitsubaki_studio a.i._voice venom_(vocaloid) voicevox
