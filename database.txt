@@ -738,3 +738,4 @@
 ?aryu_jyubei -> blue_lock teletubbies
 ?niko_ikki -> blue_lock umamusume sousou_no_frieren
 ?oliver_aiku -> blue_lock
+?sendou_shuuto -> blue_lock starbucks
