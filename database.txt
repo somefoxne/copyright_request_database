@@ -617,3 +617,4 @@
 ?dante_(devil_may_cry) -> devil_may_cry_(series) devil_may_cry_3 devil_may_cry_5 devil_may_cry_4 devil_may_cry_2 capcom devil_may_cry_1 resident_evil devil_may_cry_(netflix) marvel_vs._capcom
 ?vergil_(devil_may_cry) -> devil_may_cry_(series) devil_may_cry_5 devil_may_cry_3 m.u.g.e.n devil_may_cry_4 berserk capcom hololive hololive_english touhou
 ?machinist_(final_fantasy) -> final_fantasy final_fantasy_xiv original bang_dream! twisted_wonderland touhou pokemon project_moon limbus_company
+?isabela_madrigal -> encanto disney frozen_(disney) tangled aladdin_(movie) mickey_mouse_&_friends the_little_mermaid_(disney) inside_out tarzan_(disney_movie) turning_red
