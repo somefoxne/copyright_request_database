@@ -434,3 +434,4 @@
 ?aisha_greyrat -> mushoku_tensei sousou_no_frieren re:zero_kara_hajimeru_isekai_seikatsu blue_archive toaru_majutsu_no_index monogatari_(series) megami_magazine nige_jouzu_no_wakagimi invincible_(series) backrooms_(creepypasta)
 ?frieren -> sousou_no_frieren dungeon_meshi one-punch_man kono_subarashii_sekai_ni_shukufuku_wo! blue_archive original vocaloid jujutsu_kaisen chainsaw_man the_legend_of_zelda
 ?nanahoshi_shizuka -> mushoku_tensei chainsaw_man sousou_no_frieren girls_und_panzer shingeki_no_kyojin lycoris_recoil the_elder_scrolls invincible_(series) the_elder_scrolls_v:_skyrim
+?rudeus_greyrat -> mushoku_tensei kono_subarashii_sekai_ni_shukufuku_wo! sousou_no_frieren re:zero_kara_hajimeru_isekai_seikatsu mushoku_tensei:_game_ni_nattemo_honki_dasu sevens_story konosuba!_fantastic_days blue_archive pokemon chainsaw_man
