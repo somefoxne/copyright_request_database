@@ -744,3 +744,4 @@
 ?rei_(rosumini) -> original
 ?kaede_(bakumatsu_rouman) -> bakumatsu_rouman snk fatal_fury garou:_mark_of_the_wolves the_king_of_fighters samurai_spirits ryuuko_no_ken touhou m.u.g.e.n
 ?rock_howard -> fatal_fury garou:_mark_of_the_wolves the_king_of_fighters snk samurai_spirits fatal_fury:_city_of_the_wolves ryuuko_no_ken street_fighter bakumatsu_rouman the_king_of_fighters_xiv
+?fairy_maid_(touhou) -> touhou embodiment_of_scarlet_devil touhou_(pc-98) perfect_cherry_blossom seihou touhou_bougetsushou touhou_lostword imperishable_night curiosities_of_lotus_asia dolls_in_pseudo_paradise
