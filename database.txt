@@ -885,3 +885,4 @@
 ?jiro_kyoka -> boku_no_hero_academia pokemon boku_no_hero_academia:_more original street_fighter dc_comics vocaloid overwatch shounen_jump one_piece
 ?roux_louka -> gundam gundam_zz zeta_gundam mobile_suit_gundam gundam_build_fighters arasa_ol_haman-sama super_robot_wars gundam_build_fighters_try sd_gundam
 ?zeta_gundam_(mobile_suit) -> gundam zeta_gundam gundam_zz mobile_suit_gundam sd_gundam original gundam_f91 zeta_gundam_define victory_gundam
+?male_tyrant_(stella_sora) -> stella_sora blue_archive arknights precure jojo_no_kimyou_na_bouken dragon_ball voiceroid utdr_(toby_fox) monogatari_(series) undertale
