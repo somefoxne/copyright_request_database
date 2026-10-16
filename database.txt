@@ -874,3 +874,4 @@
 ?felt_(re:zero) -> re:zero_kara_hajimeru_isekai_seikatsu re:zero_kara_hajimeru_isekai_seikatsu:_lost_in_memories kono_subarashii_sekai_ni_shukufuku_wo! tate_no_yuusha_no_nariagari fancy_frontier_28 pokemon k-on! divine_gate isekai_quartet kantai_collection
 ?natsuki_subaru -> re:zero_kara_hajimeru_isekai_seikatsu re:zero_kara_kasaneru_isekai_seikatsu re:zero_kara_ayamatsu_isekai_seikatsu re:zero_kara_tsugihagu_isekai_seikatsu kono_subarashii_sekai_ni_shukufuku_wo! re:zero_kara_hajimeru_isekai_seikatsu:_lost_in_memories re:zero_kara_oboreru_isekai_seikatsu isekai_quartet overlord_(maruyama) re:if_kara_hajimeru_isekai_seikatsu
 ?elegg_(nikke) -> goddess_of_victory:_nikke doom_(series) umamusume pokemon hololive original blue_archive doom_(2016) comiket_108 doom_i
+?robin_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail mihoyo genshin_impact zenless_zone_zero honkai_impact_3rd fate_(series) vocaloid fate/stay_night fate/unlimited_blade_works
