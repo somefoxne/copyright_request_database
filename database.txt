@@ -84,3 +84,4 @@ ookami_mio_(street) -> hololive
 ?ellen_joe -> zenless_zone_zero hololive mihoyo genshin_impact moechakkafire hololive_english honkai_(series) honkai:_star_rail blue_archive jaws_(movie)
 ?tachibana_hinano -> vspo! indie_virtual_youtuber nijisanji vcr_gta madtown_gta hololive apex_legends crazy_raccoon xross_stars real_life
 ?maruzensky_(umamusume) -> umamusume umamusume:_cinderella_gray umayuru pacific_racing_team original real_life blue_archive gundam initial_d gundam_suisei_no_majo
+?soda_(nikke) -> goddess_of_victory:_nikke re:zero_kara_hajimeru_isekai_seikatsu nier_(series) nier:automata fate_(series) fate/grand_order zenless_zone_zero resident_evil machikado_mazoku stellar_blade
