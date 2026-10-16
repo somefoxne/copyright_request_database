@@ -382,3 +382,4 @@
 ?ormrinn_langi -> azur_lane yostar
 ?amano_maya -> persona persona_2 persona_2_batsu persona_2_tsumi persona_3 persona_1 persona_4 persona_3_portable persona_5 shin_megami_tensei
 ?jeanne_d'arc_alter_(fate) -> fate_(series) fate/grand_order fate/samurai_remnant fate/stay_night fate/extra fate/apocrypha fate/zero koha-ace pixiv_fate/grand_order_contest_1 pokemon
+?saber_alter -> fate_(series) fate/grand_order fate/stay_night fate/hollow_ataraxia fate/unlimited_codes fate/extra carnival_phantasm fate/zero fate/apocrypha
