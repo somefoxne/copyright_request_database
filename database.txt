@@ -191,3 +191,4 @@
 ?suou_patra -> nanashi_inc. indie_virtual_youtuber nijisanji hololive tales_of_(series) final_fantasy pokemon sana_channel hololive_english xenoblade_chronicles_(series)
 ?suou_patra_(13th_costume) -> indie_virtual_youtuber nanashi_inc. donkey_kong_(series) donkey_kong_country_2 dreammix_tv_world_fighters
 ?psyche_(duet_night_abyss) -> duet_night_abyss
+?choso_(jujutsu_kaisen) -> jujutsu_kaisen chainsaw_man jujutsu_kaisen_modulo idolmaster one_piece kimetsu_no_yaiba umamusume boku_no_hero_academia gakuen_idolmaster naruto_(series)
