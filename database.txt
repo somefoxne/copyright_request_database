@@ -401,3 +401,4 @@
 ?mew_(pokemon) -> pokemon pokemon_(anime) pokemon_red/green/blue/yellow pokemon_firered_and_leafgreen pokemon_tcg pokemon_(classic_anime) pokemon_diamond/pearl/platinum pokemon_journeys original pokemon_ruby/sapphire/emerald
 ?cirno -> touhou embodiment_of_scarlet_devil hidden_star_in_four_seasons touhou_(pc-98) cookie_(touhou) touhou_lostword advent_cirno pokemon mario_(series)
 ?parasoul_(skullgirls) -> skullgirls persona lab_zero_games street_fighter who_framed_roger_rabbit original guilty_gear persona_3 persona_4 darkstalkers
+?ende_(miresi) -> miresi:_invisible_future
