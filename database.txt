@@ -602,3 +602,4 @@
 ?largo_(tales) -> tales_of_(series) tales_of_the_abyss lyrical_nanoha mahou_shoujo_lyrical_nanoha_strikers tales_of_vesperia tales_of_symphonia tales_of_xillia tales_of_graces tales_of_destiny tales_of_phantasia
 ?legretta_(tales) -> tales_of_(series) tales_of_the_abyss tales_of_vesperia tales_of_symphonia tales_of_graces tales_of_destiny tales_of_phantasia tales_of_symphonia_knight_of_ratatosk tales_of_legendia tales_of_the_world
 ?natalia_luzu_kimlasca_lanvaldear -> tales_of_(series) tales_of_the_abyss tales_of_asteria tales_of_vesperia tales_of_symphonia tales_of_graces tales_of_phantasia tales_of_xillia tales_of_destiny tales_of_eternia
+?sync_(tales) -> tales_of_(series) tales_of_the_abyss tales_of_symphonia tales_of_xillia tales_of_destiny tales_of_xillia_2 tales_of_the_rays tales_of_eternia tales_of_legendia tales_of_rebirth
