@@ -882,3 +882,4 @@
 ?handa_shin'ichi -> inazuma_eleven_(series) inazuma_eleven inazuma_eleven_go azumanga_daioh inazuma_eleven_go_chrono_stone inazuma_eleven_go_galaxy pokemon idolmaster final_fantasy precure
 ?sakihane_huya -> stellive goddess_of_victory:_nikke chainsaw_man snow_white_(fairy_tale) the_creation_of_adam
 ?roma_(kancolle) -> kantai_collection pokemon fate_(series) fate/grand_order line_(naver) uefa_euros thermae_romae ace_attorney euro_2020 aoki_hagane_no_arpeggio
+?jiro_kyoka -> boku_no_hero_academia pokemon boku_no_hero_academia:_more original street_fighter dc_comics vocaloid overwatch shounen_jump one_piece
