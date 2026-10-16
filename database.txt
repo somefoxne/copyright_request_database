@@ -927,3 +927,4 @@
 ?columbina_(genshin_impact) -> genshin_impact honkai_(series) honkai:_star_rail mihoyo alien_stage original zenless_zone_zero fate_(series) wuthering_waves honkai_impact_3rd
 ?sandrone_(genshin_impact) -> genshin_impact honkai_(series) mihoyo honkai:_star_rail alien_stage zenless_zone_zero comiket_108 zombie_stage honkai_impact_3rd comiket_107
 ?alolan_persian -> pokemon pokemon_sun_and_moon pokemon_(anime) pokemon_the_series:_sun_&_moon pokemon_black_and_white pokemon_sword_and_shield pokemon_masters_ex pokemon_red/green/blue/yellow pokemon_omega_ruby_and_alpha_sapphire pokemon_(classic_anime)
+?alolan_raichu -> pokemon pokemon_sun_and_moon pokemon_(anime) pokemon_ultra_sun_and_ultra_moon pokemon_the_series:_sun_&_moon pokemon_sword_and_shield pokemon_scarlet_and_violet pokemon_masters_ex pokemon_diamond/pearl/platinum pokemon_(classic_anime)
