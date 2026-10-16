@@ -714,3 +714,4 @@
 ?elysia_(honkai_impact) -> honkai_(series) honkai_impact_3rd honkai:_star_rail mihoyo zenless_zone_zero genshin_impact original honkai_gakuen arknights mahou_shoujo_madoka_magica
 ?pardofelis -> honkai_(series) honkai_impact_3rd honkai:_star_rail mihoyo genshin_impact honkai_gakuen zenless_zone_zero blue_archive xenoblade_chronicles_(series) xenoblade_chronicles_2
 ?chen -> touhou perfect_cherry_blossom touhou_(pc-98) pokemon foul_detective_satori touhou_lostword touhou_tag_dream original embodiment_of_scarlet_devil saturday_night_fever
+?shiki_eiki -> touhou touhou_(pc-98) phantasmagoria_of_flower_view touhou_tag_dream reitaisai embodiment_of_scarlet_devil pokemon perfect_cherry_blossom imperishable_night mountain_of_faith
