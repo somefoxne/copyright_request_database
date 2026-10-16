@@ -441,3 +441,4 @@
 ?vincent_valentine_(crowmaster_suit) -> final_fantasy final_fantasy_vii final_fantasy_vii:_ever_crisis final_fantasy_vii_remake final_fantasy_vii_rebirth nier_(series) final_fantasy_vii:_advent_children nier_reincarnation dirge_of_cerberus:_final_fantasy_vii final_fantasy_airborne_brigade
 ?tokisaki_kurumi -> date_a_live date_a_live:_date_a_bullet azur_lane date_a_live:_spirit_pledge majutsu_tantei_tokisaki_kurumi_no_jikenbo original pokemon honkai_(series) kantai_collection love_live!
 ?tokisaki_kurumi_(spirit) -> date_a_live date_a_live:_date_a_bullet azur_lane date_a_live:_spirit_pledge original honkai_(series) honkai:_star_rail mahou_shoujo_madoka_magica gekijouban_date_a_live:_mayuri_judgement mahou_shoujo_madoka_magica_(anime)
+?lexington_(warship_girls_r) -> warship_girls_r kantai_collection original azur_lane pacific_(kancolle) clover_theater fate_(series) love_live! love_live!_school_idol_project fate/extra
