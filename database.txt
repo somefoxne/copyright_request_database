@@ -785,3 +785,4 @@
 ?gunbreaker_(final_fantasy) -> final_fantasy final_fantasy_xiv original nier_(series) nier:automata blue_archive hololive honkai_(series) bang_dream! honkai_impact_3rd
 ?nonomi_(swimsuit)_(blue_archive) -> blue_archive comiket_101 comiket_100 comiket_105 comiket_106 vocaloid comiket_104 comiket_102 grand_theft_auto grand_theft_auto_vi
 ?iuno_(wuthering_waves) -> wuthering_waves fate_(series) fate/grand_order gs25 genshin_impact lawson punishing:_gray_raven vocaloid kuro_games ore_no_imouto_ga_konna_ni_kawaii_wake_ga_nai
+?taiki_shuttle_(umamusume) -> umamusume real_life kantai_collection umamusume:_cinderella_gray cygames kfc metal_gear_(series) pokemon idolmaster idolmaster_cinderella_girls
