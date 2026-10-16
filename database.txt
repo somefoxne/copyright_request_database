@@ -839,3 +839,4 @@
 ?houjou_satoko -> higurashi_no_naku_koro_ni higurashi_no_naku_koro_ni_gou umineko_no_naku_koro_ni higurashi_no_naku_koro_ni_mei suzumiya_haruhi_no_yuuutsu fate_(series) fate/stay_night gundam rozen_maiden shakugan_no_shana
 ?inamori_sakuya_(vtuber) -> indie_virtual_youtuber
 ?alice_thymefield -> zenless_zone_zero mihoyo genshin_impact blue_archive honkai_(series) honkai:_star_rail sushiro touhou bocchi_the_rock!
+?domina_(overwatch) -> overwatch marvel marvel_rivals x-men original deadlock_(game) grand_theft_auto grand_theft_auto_vi jujutsu_kaisen spider-man_(series)
