@@ -128,3 +128,4 @@
 ?revy_(black_lagoon) -> black_lagoon fate_(series) suzumiya_haruhi_no_yuuutsu bleach precure school_rumble lyrical_nanoha higurashi_no_naku_koro_ni mahou_shoujo_lyrical_nanoha rozen_maiden
 ?tio_plato -> eiyuu_densetsu zero_no_kiseki ao_no_kiseki sen_no_kiseki_(series) hajimari_no_kiseki sen_no_kiseki_iii sen_no_kiseki_i sen_no_kiseki_iv sora_no_kiseki kuro_no_kiseki_(series)
 ?firefly_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail genshin_impact mihoyo honkai_impact_3rd kamen_rider zenless_zone_zero comiket_107 comiket_106 fate_(series)
+?archer_(fate) -> fate_(series) fate/stay_night fate/grand_order fate/extra fate/hollow_ataraxia fate/zero fate/unlimited_blade_works fate/extra_ccc honkai_(series) honkai:_star_rail
