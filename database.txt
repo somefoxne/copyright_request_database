@@ -79,3 +79,4 @@ unused_hololive_vtuber_(parsley-f) -> hololive
 ?leets_(trickcal) -> trickcal blue_archive the_creation_of_adam the_great_gatsby
 ?laurent_thierry -> great_pretender fugou_keiji_balance:unlimited
 ?leila_(toosaka_asagi) -> original
+?grace_ashcroft -> resident_evil resident_evil_requiem resident_evil_4 resident_evil_2 resident_evil_village resident_evil_4_(remake) capcom resident_evil_2_(remake) pragmata resident_evil_3:_nemesis
