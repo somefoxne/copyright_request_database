@@ -840,3 +840,4 @@
 ?inamori_sakuya_(vtuber) -> indie_virtual_youtuber
 ?alice_thymefield -> zenless_zone_zero mihoyo genshin_impact blue_archive honkai_(series) honkai:_star_rail sushiro touhou bocchi_the_rock!
 ?domina_(overwatch) -> overwatch marvel marvel_rivals x-men original deadlock_(game) grand_theft_auto grand_theft_auto_vi jujutsu_kaisen spider-man_(series)
+?sutera_(flower_knight_girl) -> flower_knight_girl dmm bikkuriman
