@@ -292,3 +292,4 @@
 ?biwa_hayahide_(umamusume) -> umamusume kantai_collection original pokemon real_life umayuru umamusume:_cinderella_gray cygames mario_(series) blue_archive
 ?narita_taishin_(umamusume) -> umamusume original umamusume:_cinderella_gray kantai_collection pokemon pakatube nyaaaanvy gundam real_life umayuru
 ?winning_ticket_(get_to_winning!)_(umamusume) -> umamusume akari_ga_yatte_kitazo_(vocaloid) original jojo_no_kimyou_na_bouken kantai_collection pokemon fate_(series) hololive indie_virtual_youtuber gundam
+?winning_ticket_(umamusume) -> umamusume pacific_racing_team umamusume:_cinderella_gray original pokemon kantai_collection umayuru cygames real_life hanshin_tigers
