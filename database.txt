@@ -223,3 +223,4 @@
 ?pochita_(chainsaw_man) -> chainsaw_man jujutsu_kaisen spy_x_family pokemon original bocchi_the_rock! hololive sanrio vocaloid one_piece
 ?renewa_(leisurely_time)_(trickcal) -> trickcal
 ?renewa_(trickcal) -> trickcal project_moon limbus_company jujutsu_kaisen warhammer_40k instagram the_creation_of_adam
+?ninamori_eri -> flcl little_witch_academia top_wo_nerae!_(series) top_wo_nerae! comiket_88 daihatsu the_pillows touhou neon_genesis_evangelion tengen_toppa_gurren_lagann
