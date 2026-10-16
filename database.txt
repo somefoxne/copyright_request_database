@@ -222,3 +222,4 @@
 ?nayuta_(chainsaw_man) -> chainsaw_man pokemon jujutsu_kaisen yoru_mac original blue_archive vocaloid jojo_no_kimyou_na_bouken neon_genesis_evangelion
 ?pochita_(chainsaw_man) -> chainsaw_man jujutsu_kaisen spy_x_family pokemon original bocchi_the_rock! hololive sanrio vocaloid one_piece
 ?renewa_(leisurely_time)_(trickcal) -> trickcal
+?renewa_(trickcal) -> trickcal project_moon limbus_company jujutsu_kaisen warhammer_40k instagram the_creation_of_adam
