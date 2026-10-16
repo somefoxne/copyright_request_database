@@ -83,3 +83,4 @@ ookami_mio_(street) -> hololive
 ?kishin_sagume -> touhou legacy_of_lunatic_kingdom touhou_(pc-98) touhou_lostword touhou_bougetsushou touhou_cannonball ten_desires pokemon perfect_cherry_blossom undefined_fantastic_object
 ?ellen_joe -> zenless_zone_zero hololive mihoyo genshin_impact moechakkafire hololive_english honkai_(series) honkai:_star_rail blue_archive jaws_(movie)
 ?tachibana_hinano -> vspo! indie_virtual_youtuber nijisanji vcr_gta madtown_gta hololive apex_legends crazy_raccoon xross_stars real_life
+?maruzensky_(umamusume) -> umamusume umamusume:_cinderella_gray umayuru pacific_racing_team original real_life blue_archive gundam initial_d gundam_suisei_no_majo
