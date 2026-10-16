@@ -539,3 +539,4 @@
 ?female_robin_(grima)_(fire_emblem) -> fire_emblem fire_emblem_awakening fire_emblem_heroes fire_emblem_cipher fire_emblem_fates fire_emblem:_mystery_of_the_emblem fire_emblem:_the_binding_blade fire_emblem:_path_of_radiance fire_emblem:_three_houses fire_emblem:_genealogy_of_the_holy_war
 ?female_robin_(grima)_(halloween)_(fire_emblem) -> fire_emblem fire_emblem_heroes fire_emblem_awakening fire_emblem_fates fire_emblem_cipher mario_(series) fire_emblem:_radiant_dawn fire_emblem:_path_of_radiance fire_emblem:_mystery_of_the_emblem fire_emblem_shadows
 ?yoshi -> mario_(series) kirby_(series) super_smash_bros. pokemon the_legend_of_zelda donkey_kong_(series) metroid fire_emblem mother_(series) star_fox
+?drasna_(pokemon) -> pokemon pokemon_x_and_y pokemon_black_2_and_white_2 pokemon_sword_and_shield pokemon_black_and_white pokemon_heartgold_and_soulsilver pokemon_scarlet_and_violet pokemon_diamond/pearl/platinum pokemon_ruby/sapphire/emerald pokemon_sun_and_moon
