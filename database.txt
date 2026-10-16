@@ -229,3 +229,4 @@
 ?gunko -> one_piece touhou holy_knight
 ?classic_d.va -> overwatch mountain_dew neon_genesis_evangelion league_of_legends blizzard_entertainment marvel spider-man_(series) marvel_rivals original pokemon
 ?d.va_(overwatch) -> overwatch league_of_legends mountain_dew neon_genesis_evangelion pokemon perfect_night_(le_sserafim) blizzard_entertainment vocaloid marvel starcraft
+?makima_(chainsaw_man) -> chainsaw_man jujutsu_kaisen kobayashi-san_chi_no_maidragon original real_life honkai_(series) honkai:_star_rail goddess_of_victory:_nikke boku_no_hero_academia bocchi_the_rock!
