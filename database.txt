@@ -95,3 +95,4 @@ unused_hololive_vtuber_(parsley-f) -> hololive
 ?don_quixote_(project_moon) -> project_moon limbus_company lobotomy_corporation library_of_ruina arknights vocaloid pokemon mili_(band) hero_(mili) blue_archive
 ?sinclair_(project_moon) -> project_moon limbus_company lobotomy_corporation library_of_ruina pokemon original mili_(band) arknights vocaloid karaoke_manekineko
 ?byron_(pokemon) -> pokemon pokemon_diamond/pearl/platinum pokemon_heartgold_and_soulsilver pokemon_sun_and_moon pokemon_ruby/sapphire/emerald pokemon_black_and_white pokemon_platinum pokemon_emerald pokemon_firered_and_leafgreen pokemon_(anime)
+?applin -> pokemon pokemon_scarlet_and_violet pokemon_sword_and_shield original pokemon_(anime) pokemon_tcg pokemon_legends:_z-a pokemon_masters_ex pokemon_sun_and_moon pokemon_horizons
