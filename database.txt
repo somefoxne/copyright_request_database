@@ -242,3 +242,4 @@
 ?kotora_(pokemon) -> pokemon pokemon_gold/silver/crystal_(prototype) pokemon_gold/silver/crystal kill_me_baby pokemon_mystery_dungeon pokemon_mystery_dungeon:_explorers_of_time/darkness/sky pokemon_snap
 ?raitora -> pokemon pokemon_gold/silver/crystal_(prototype) pokemon_gold/silver/crystal
 ?power_(chainsaw_man) -> chainsaw_man jujutsu_kaisen dragon_ball boku_no_hero_academia spy_x_family goddess_of_victory:_nikke original dragon_ball_z one_piece
+?raora_panthera -> hololive hololive_english hololive_indonesia enigmatic_recollection mage_arena hololive_dev_is pokemon monster_hunter_(series) umamusume minecraft
