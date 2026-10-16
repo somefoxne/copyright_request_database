@@ -409,3 +409,4 @@
 ?sonozaki_shion -> higurashi_no_naku_koro_ni higurashi_no_naku_koro_ni_mei umineko_no_naku_koro_ni meakashi-hen fate_(series) suzumiya_haruhi_no_yuuutsu fate/stay_night shakugan_no_shana higurashi_no_naku_koro_ni_gou gundam
 ?chihara_yoshio -> arakure_ojou-sama_wa_monmon_shiteiru
 ?togakushi_touko -> sanoba_witch yuzusoft 9-nine- senren_banka amairo_islenauts onii-chan_wa_oshimai! riddle_joker comiket_106 tenshi_souzou_re-boot! original
+?kaya_rinha -> idolmaster gakuen_idolmaster kimi_to_semi_blue_(idolmaster) pokemon idolmaster_shiny_colors comiket_106 comiket_108 hajime_(idolmaster) campus_mode!!_(idolmaster) comiket_107
