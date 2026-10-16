@@ -419,3 +419,4 @@
 ?ormrinn_langi_(azur_lane) -> azur_lane yostar
 ?vincent_valentine_(holiday_formal_wear) -> final_fantasy final_fantasy_vii final_fantasy_vii:_ever_crisis dirge_of_cerberus:_final_fantasy_vii final_fantasy_vii:_advent_children final_fantasy_vii_remake nier_(series) final_fantasy_vii_rebirth nier_reincarnation
 ?ukinami_yuzuha -> zenless_zone_zero mihoyo genshin_impact sushiro honkai_(series) honkai:_star_rail bocchi_the_rock! blue_archive honkai_impact_3rd comiket_107
+?kasane_teto_(utau) -> utau vocaloid synthesizer_v a.i._voice hito_mania_(utau) igaku_(utau) triple_baka_(vocaloid) voiceroid voicepeak fukkireta
