@@ -777,3 +777,4 @@
 ?sage_(final_fantasy) -> final_fantasy final_fantasy_xiv original final_fantasy_iii dissidia_final_fantasy arknights square_enix pokemon hololive hololive_english
 ?veyle_(fire_emblem) -> fire_emblem fire_emblem_engage fire_emblem_heroes fire_emblem:_three_houses fire_emblem_awakening fire_emblem_fates fire_emblem:_genealogy_of_the_holy_war fire_emblem:_the_binding_blade pokemon fire_emblem:_mystery_of_the_emblem
 ?kevin_kaslana -> honkai_(series) honkai_impact_3rd honkai:_star_rail mihoyo genshin_impact honkai_gakuen zenless_zone_zero fate_(series) fate/grand_order fate/stay_night
+?kevin_kaslana_(diabolic) -> honkai_(series) honkai_impact_3rd honkai:_star_rail fate_(series) fate/stay_night tongari_boushi_no_atelier
