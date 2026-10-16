@@ -152,3 +152,4 @@
 ?lana_(pokemon) -> pokemon pokemon_sun_and_moon pokemon_(anime) pokemon_the_series:_sun_&_moon pokemon_masters_ex pokemon_(classic_anime) pokemon_journeys pokemon_the_series:_xy pokemon_the_series:_diamond_and_pearl pokemon_the_series:_ruby_and_sapphire
 ?dokibird -> indie_virtual_youtuber densetsu.exe vinesauce nijisanji nijisanji_en 3am gamer_supps metal_gear_(series) hololive monster_hunter_(series)
 ?ushimaru_(senran_kagura) -> senran_kagura senran_kagura_new_wave senran_kagura_new_link pokemon pokemon_red/green/blue/yellow comiket_106
+?kiperina -> reverse:1999 e.t. olympics 1980_summer_olympics lilo_&_stitch venus_de_milo
