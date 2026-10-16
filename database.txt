@@ -760,3 +760,4 @@
 ?blackbird_(nte) -> neverness_to_everness
 ?aragaki_shinjirou -> persona persona_3 persona_3_portable persona_3_reload persona_4 persona_5 persona_2 persona_q_(series) persona_4:_the_ultimate_in_mayonaka_arena persona_2_tsumi
 ?daiyousei -> touhou cookie_(touhou) embodiment_of_scarlet_devil touhou_(pc-98) manatsu_no_yo_no_inmu touhou_lostword offside:_diyusi perfect_cherry_blossom embodiment_of_scarlet_devil_new_classic yousei_daisensou
+?sundowner_(metal_gear_rising) -> metal_gear_(series) metal_gear_rising:_revengeance fate_(series) fate/grand_order original fate/extra fate/apocrypha phase_connect fate/requiem
