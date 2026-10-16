@@ -432,3 +432,4 @@
 ?eren_yeager -> shingeki_no_kyojin shingeki_no_school_castes dragon_ball jojo_no_kimyou_na_bouken naruto_(series) one_piece neon_genesis_evangelion vocaloid chainsaw_man kill_la_kill
 ?lazuli_(vtuber) -> indie_virtual_youtuber mario_(series) super_mario_galaxy pokemon chromashift glitch_stars beastiez
 ?aisha_greyrat -> mushoku_tensei sousou_no_frieren re:zero_kara_hajimeru_isekai_seikatsu blue_archive toaru_majutsu_no_index monogatari_(series) megami_magazine nige_jouzu_no_wakagimi invincible_(series) backrooms_(creepypasta)
+?frieren -> sousou_no_frieren dungeon_meshi one-punch_man kono_subarashii_sekai_ni_shukufuku_wo! blue_archive original vocaloid jujutsu_kaisen chainsaw_man the_legend_of_zelda
