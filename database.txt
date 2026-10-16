@@ -816,3 +816,4 @@
 ?25-ji_miku -> project_sekai vocaloid kowareta_sekai_to_utaenai_miku zozotown sanrio identity_(vocaloid) project_diva_(series) piapro_studio gehenna_(vocaloid) fuwa_fuwa_cinnamoroll
 ?yoisaki_kanade -> project_sekai vocaloid zozotown shadow_shadow_(vocaloid) kowareta_sekai_to_utaenai_miku samsa_(vocaloid) sanrio cat_loving_(cevio) alien_stage identity_(vocaloid)
 ?eiscue -> pokemon pokemon_sword_and_shield pokemon_masters_ex pokemon_scarlet_and_violet pokemon_(anime) pokemon_journeys love_live! love_live!_nijigasaki_high_school_idol_club pokemon_diamond/pearl/platinum pokemon_(classic_anime)
+?eiscue_(ice) -> pokemon pokemon_sword_and_shield pokemon_masters_ex pokemon_scarlet_and_violet pokemon_(anime) love_live! pokemon_journeys love_live!_nijigasaki_high_school_idol_club pokemon_(classic_anime) pokemon_tcg
