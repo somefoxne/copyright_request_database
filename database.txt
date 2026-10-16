@@ -853,3 +853,4 @@
 ?akashiya_yuu -> crack_lack_good_luck original
 ?nagisa_(swimsuit)_(blue_archive) -> blue_archive comiket_106 chainsaw_man pokemon comiket_108 initial_d white_chicks a_thousand_miles touhou arknights
 ?seia_(swimsuit)_(blue_archive) -> blue_archive zenless_zone_zero indie_virtual_youtuber comiket_107 street_fighter hololive hololive_english street_fighter_6 comiket_106 arknights
+?nicole_demara -> zenless_zone_zero mihoyo genshin_impact blue_archive honkai_(series) honkai:_star_rail azur_lane original pokemon
