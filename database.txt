@@ -233,3 +233,4 @@
 ?kirahoshi_aika -> shy_(series) bang_dream! reverse:1999 mahou_shoujo_no_majo_saiban pretty_series lycoris_recoil gridman_universe ssss.gridman watashi_ga_koibito_ni_nareru_wake_naijan_murimuri!
 ?koishikawa_iko -> shy_(series) pokemon gundam bang_dream! reverse:1999 mahou_shoujo_no_majo_saiban gundam_suisei_no_majo pretty_series lycoris_recoil
 ?diana_(pragmata) -> pragmata capcom resident_evil resident_evil_requiem hololive hololive_english mega_man_(series) monster_hunter_(series) blue_archive sonic_(series)
+?remielle_dan -> zenless_zone_zero mihoyo honkai_(series) honkai_impact_3rd honkai:_star_rail genshin_impact original grand_theft_auto grand_theft_auto_vi persona
