@@ -190,3 +190,4 @@
 ?rattly_the_rattlesnake -> donkey_kong_(series) donkey_kong_country_2 donkey_kong_country mario_(series) kid_icarus kid_icarus_uprising pokemon indie_virtual_youtuber mega_man_(series) blazblue
 ?suou_patra -> nanashi_inc. indie_virtual_youtuber nijisanji hololive tales_of_(series) final_fantasy pokemon sana_channel hololive_english xenoblade_chronicles_(series)
 ?suou_patra_(13th_costume) -> indie_virtual_youtuber nanashi_inc. donkey_kong_(series) donkey_kong_country_2 dreammix_tv_world_fighters
+?psyche_(duet_night_abyss) -> duet_night_abyss
