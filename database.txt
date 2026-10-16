@@ -908,3 +908,4 @@
 ?tousen_kaname -> bleach bleach:_sennen_kessen-hen ginga_tetsudou_999 idolmaster idolmaster_cinderella_girls jojo_no_kimyou_na_bouken bleach:_epilogue bleach:_brave_souls bleach:_zanpakutou_ibun_hen
 ?ukitake_juushirou -> bleach bleach:_sennen_kessen-hen bleach:_epilogue bleach:_turn_back_the_pendulum original naruto_(series) naruto_(classic) death_note cowboy_bebop black_jack_(series)
 ?yamamoto-genryuusai_shigekuni -> bleach bleach:_sennen_kessen-hen jojo_no_kimyou_na_bouken pokemon final_fantasy dragon_ball naruto_(series) dragon_quest stardust_crusaders one-punch_man
+?zaraki_kenpachi -> bleach bleach:_sennen_kessen-hen idolmaster gakuen_idolmaster naruto_(series) bleach:_epilogue naruto_(classic) one_piece jujutsu_kaisen shingeki_no_kyojin
