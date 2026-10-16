@@ -174,3 +174,4 @@
 ?moria_luluka_(civilian) -> precure meitantei_precure! toei_company kamen_rider blue_archive umamusume comiket_108 pokemon mahou_shoujo_madoka_magica gundam
 ?princess_peach -> mario_(series) super_smash_bros. the_legend_of_zelda metroid mario_kart new_super_mario_bros._u_deluxe super_mario_galaxy pokemon super_mario_odyssey princess_peach:_showtime!
 ?rosalina -> mario_(series) super_mario_galaxy super_smash_bros. mario_kart metroid the_legend_of_zelda kid_icarus fire_emblem pokemon mario_kart_tour
+?evelyn_chevalier -> zenless_zone_zero honkai_(series) mihoyo honkai:_star_rail genshin_impact wuthering_waves blue_archive fate_(series) honkai_impact_3rd goddess_of_victory:_nikke
