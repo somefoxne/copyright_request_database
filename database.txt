@@ -793,3 +793,4 @@
 ?uni_(neptunia) -> neptune_(series) choujigen_game_neptune_mk2 choujigen_game_neptune four_goddesses_online:_cyber_dimension_neptune shin_jigen_game_neptune_vii kami_jigen_game_neptune_v gekijigen_tag:_blanc_+_neptune_vs_zombie_gundan choujijigen_game_neptune_re;birth_2 pokemon choushinjiku_game_neptune_unlimited
 ?vert_(neptunia) -> neptune_(series) choujigen_game_neptune four_goddesses_online:_cyber_dimension_neptune kami_jigen_game_neptune_v shin_jigen_game_neptune_vii choujigen_game_neptune_mk2 azur_lane dengeki mainichi_compile_heart gekijigen_tag:_blanc_+_neptune_vs_zombie_gundan
 ?watanabe_manami -> seihantai_na_kimi_to_boku
+?reg_(made_in_abyss) -> made_in_abyss hololive indie_virtual_youtuber kemono_friends chainsaw_man spy_x_family kobayashi-san_chi_no_maidragon touhou pokemon hololive_english
