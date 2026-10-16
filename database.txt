@@ -772,3 +772,4 @@
 ?sayori_(doki_doki_literature_club) -> doki_doki_literature_club omori vocaloid utdr_(toby_fox) kirby_(series) touhou pokemon higurashi_no_naku_koro_ni dragon_ball sonic_(series)
 ?killer_t_(hataraku_saibou) -> hataraku_saibou hataraku_saibou_black kimetsu_no_yaiba jojo_no_kimyou_na_bouken battle_tendency original genshin_impact vocaloid love_live! mahou_shoujo_madoka_magica
 ?shiroko_(cycling)_(blue_archive) -> blue_archive umamusume fast_&_furious hololive honkai_(series) bocchi_the_rock! kamen_rider world_cup comiket_108 blue_archive_the_animation
+?raijin_(mythology) -> original japanese_mythology genshin_impact touhou kantai_collection towako_(akane_shinsha) vocaloid bleach the_hundred_line_-last_defense_academy- blue_archive
