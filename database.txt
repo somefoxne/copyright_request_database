@@ -490,3 +490,4 @@
 ?uzuki_(kancolle) -> kantai_collection gochuumon_wa_usagi_desu_ka? original azur_lane idolmaster idolmaster_cinderella_girls choo_choo_train kamen_rider poptepipic tensei_shitara_slime_datta_ken
 ?yayoi_(kancolle) -> kantai_collection gochuumon_wa_usagi_desu_ka? choo_choo_train voiceroid kamen_rider twitter aoki_hagane_no_arpeggio idolmaster umamusume vocaloid
 ?puniru_(puniru_wa_kawaii_slime) -> puniru_wa_kawaii_slime corocoro_comic puyopuyo puyopuyo_quest umamusume original pokemon pokemon_scarlet_and_violet sana_channel duel_masters
+?isago_mugi -> original
