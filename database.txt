@@ -697,3 +697,4 @@
 ?yagokoro_eirin -> touhou imperishable_night touhou_(pc-98) touhou_tag_dream touhou_lostword embodiment_of_scarlet_devil grappler_baki reitaisai perfect_cherry_blossom original
 ?touhoku_kiritan -> voiceroid vocaloid voicevox talkex utau cevio a.i._voice pokemon synthesizer_v kamitsubaki_studio
 ?mari_(headspace)_(omori) -> omori doki_doki_literature_club mario_(series) omariposa the_amazing_digital_circus emori original indie_virtual_youtuber danganronpa_(series) pokemon
+?mari_(omori) -> omori emori doki_doki_literature_club rainy_mari pokemon omariposa mario_(series) utdr_(toby_fox) danganronpa_(series) the_amazing_digital_circus
