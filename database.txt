@@ -286,3 +286,4 @@
 ?guido_(project_moon) -> project_moon limbus_company library_of_ruina utdr_(toby_fox) deltarune bereal home_alone
 ?heinrich_kromer_(project_moon) -> project_moon limbus_company pokemon xkcd
 ?jacob_(project_moon) -> project_moon limbus_company
+?kromer_(project_moon) -> project_moon limbus_company library_of_ruina lobotomy_corporation mili_(band) between_two_worlds original arknights chainsaw_man sanrio
