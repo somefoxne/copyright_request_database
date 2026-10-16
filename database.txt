@@ -188,3 +188,4 @@
 ?koharu_(love-bullet) -> love-bullet tongari_boushi_no_atelier sayonara_lara angel_with_a_shotgun pokemon fate_(series) genshin_impact fate/grand_order honkai_(series) fire_emblem
 ?kisaki_(swimsuit)_(blue_archive) -> blue_archive comiket_108 jojo_no_kimyou_na_bouken vento_aureo hololive hololive_english princess_connect! kantai_collection idolmaster umamusume
 ?rattly_the_rattlesnake -> donkey_kong_(series) donkey_kong_country_2 donkey_kong_country mario_(series) kid_icarus kid_icarus_uprising pokemon indie_virtual_youtuber mega_man_(series) blazblue
+?suou_patra -> nanashi_inc. indie_virtual_youtuber nijisanji hololive tales_of_(series) final_fantasy pokemon sana_channel hololive_english xenoblade_chronicles_(series)
