@@ -265,3 +265,4 @@
 ?kanon_ahonen -> shy_(series)
 ?faust_(project_moon) -> project_moon limbus_company arknights library_of_ruina lobotomy_corporation pokemon nier_(series) mili_(band) original vocaloid
 ?sunbringer_(original)_(zenless_zone_zero) -> zenless_zone_zero honkai_(series) honkai_impact_3rd mihoyo original genshin_impact honkai:_star_rail arknights arknights:_endfield honkai_gakuen
+?remielle_dan_(past) -> zenless_zone_zero honkai_(series) mihoyo honkai_impact_3rd honkai:_star_rail genshin_impact sono_bisque_doll_wa_koi_wo_suru chiikawa shikanoko_nokonoko_koshitantan kawaii_kaiwai
