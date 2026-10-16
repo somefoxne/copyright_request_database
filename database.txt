@@ -752,3 +752,4 @@
 ?kishin_sagume -> touhou legacy_of_lunatic_kingdom touhou_(pc-98) touhou_lostword touhou_bougetsushou touhou_cannonball ten_desires pokemon perfect_cherry_blossom undefined_fantastic_object
 ?march_7th_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail mihoyo genshin_impact honkai_impact_3rd zenless_zone_zero fate_(series) fate/stay_night fate/grand_order kfc
 ?march_7th_(hunt)_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail honkai_impact_3rd fate_(series) fate/stay_night genshin_impact mihoyo fate/unlimited_blade_works arknights project_sekai
+?mortarion -> warhammer_40k original hololive hololive_english dark_souls_(series) the_coronation_of_napoleon
