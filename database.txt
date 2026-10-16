@@ -630,3 +630,4 @@
 ?aki_minoriko -> touhou mountain_of_faith touhou_(pc-98) reitaisai touhou_tag_dream reitaisai_8_contest embodiment_of_scarlet_devil perfect_cherry_blossom imperishable_night undefined_fantastic_object
 ?fenrir_pup_(ff14) -> final_fantasy final_fantasy_xiv original final_fantasy_ix
 ?red_mage_(final_fantasy) -> final_fantasy final_fantasy_xiv final_fantasy_xi final_fantasy_v final_fantasy_i final_fantasy_iii original touhou final_fantasy_tactics_advance final_fantasy_xii
+?yoh_(honogurashi) -> honogurashi_no_niwa
