@@ -837,3 +837,4 @@
 ?chitose_(when_morning_glories_bloom_her_eyes_open)_(stella_sora) -> stella_sora mahou_shoujo_no_majo_saiban among_us meccha_chameleon
 ?mori_calliope_(new_year) -> hololive hololive_english q_(hololive) hololive_indonesia indie_virtual_youtuber k-on! utdr_(toby_fox) kill_la_kill hololive_dev_is undertale
 ?houjou_satoko -> higurashi_no_naku_koro_ni higurashi_no_naku_koro_ni_gou umineko_no_naku_koro_ni higurashi_no_naku_koro_ni_mei suzumiya_haruhi_no_yuuutsu fate_(series) fate/stay_night gundam rozen_maiden shakugan_no_shana
+?inamori_sakuya_(vtuber) -> indie_virtual_youtuber
