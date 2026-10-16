@@ -674,3 +674,4 @@
 ?ron_weasley -> wizarding_world harry_potter_(series) harry_potter_and_the_goblet_of_fire harry_potter_and_the_deathly_hallows harry_potter_and_the_chamber_of_secrets fantastic_beasts_and_where_to_find_them harry_potter_and_the_prisoner_of_azkaban jujutsu_kaisen little_witch_academia
 ?ruan_mei_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail honkai_impact_3rd mihoyo genshin_impact zenless_zone_zero fate_(series) wuthering_waves fate/stay_night blue_archive
 ?akechi_anna -> precure meitantei_precure! kamen_rider meitantei_conan wonderful_precure! kimi_to_idol_precure toei_company hirogaru_sky!_precure tropical-rouge!_precure comiket_108
+?fu_xuan_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail mihoyo genshin_impact honkai_impact_3rd zenless_zone_zero fate_(series) fate/stay_night kfc fate/unlimited_blade_works
