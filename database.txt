@@ -169,3 +169,4 @@
 ?lloyd_bannings -> eiyuu_densetsu zero_no_kiseki ao_no_kiseki sen_no_kiseki_(series) hajimari_no_kiseki sora_no_kiseki sen_no_kiseki_i sen_no_kiseki_iv kuro_no_kiseki_(series) kuro_no_kiseki_i
 ?severus_snape -> wizarding_world harry_potter_(series) harry_potter_and_the_deathly_hallows fate_(series) umamusume mahou_shoujo_madoka_magica harry_potter_and_the_goblet_of_fire yuusha_yoshihiko_to_maou_no_shiro original fate/grand_order
 ?severus_snape_(redteneri) -> wizarding_world harry_potter_(series) original harry_potter_and_the_goblet_of_fire jojo_no_kimyou_na_bouken chainsaw_man doki_doki_literature_club steel_ball_run reddit harry_potter_and_the_prisoner_of_azkaban
+?mashu-tan -> precure meitantei_precure! naruto_(series) pokemon umamusume meitantei_conan blue_archive street_fighter umamusume:_cinderella_gray kin-iro_mosaic
