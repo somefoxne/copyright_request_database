@@ -957,3 +957,4 @@
 ?sawamura_daichi -> haikyuu!! love_live! love_live!_school_idol_project fate_(series) fate/grand_order dc_comics tokyo_afterschool_summoners hunter_x_hunter seiken_densetsu doraemon
 ?violet_(deadlock) -> deadlock_(game) jojo_no_kimyou_na_bouken titanic_(movie) kishibe_rohan_wa_ugokanai
 ?terriermon_joshu -> digimon digimon_story:_time_stranger vocaloid digimon_beatbreak digimon_card_game digimon_liberator digimon_world_3 original hololive kamen_rider
+?aqua_(konosuba) -> kono_subarashii_sekai_ni_shukufuku_wo! konosuba!_fantastic_days kono_subarashii_sekai_ni_shukufuku_wo!_kono_yokubukai_game_ni_shinpan_o! re:zero_kara_hajimeru_isekai_seikatsu isekai_quartet the_legend_of_zelda fate_(series) overlord_(maruyama) sousou_no_frieren fate/grand_order
