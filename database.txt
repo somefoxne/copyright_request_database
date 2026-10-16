@@ -232,3 +232,4 @@
 ?makima_(chainsaw_man) -> chainsaw_man jujutsu_kaisen kobayashi-san_chi_no_maidragon original real_life honkai_(series) honkai:_star_rail goddess_of_victory:_nikke boku_no_hero_academia bocchi_the_rock!
 ?kirahoshi_aika -> shy_(series) bang_dream! reverse:1999 mahou_shoujo_no_majo_saiban pretty_series lycoris_recoil gridman_universe ssss.gridman watashi_ga_koibito_ni_nareru_wake_naijan_murimuri!
 ?koishikawa_iko -> shy_(series) pokemon gundam bang_dream! reverse:1999 mahou_shoujo_no_majo_saiban gundam_suisei_no_majo pretty_series lycoris_recoil
+?diana_(pragmata) -> pragmata capcom resident_evil resident_evil_requiem hololive hololive_english mega_man_(series) monster_hunter_(series) blue_archive sonic_(series)
