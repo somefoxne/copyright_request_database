@@ -205,3 +205,4 @@
 ?maneko_(makemon!) -> makemon! devilconnection
 ?wini_(elin) -> elin_(game)
 ?kawana_tsubasa -> the_hundred_line_-last_defense_academy- tower_records danganronpa_(series) pokemon precure danganronpa_v3:_killing_harmony futari_wa_precure danganronpa_2:_goodbye_despair danganronpa:_trigger_happy_havoc urusei_yatsura
+?creeper -> minecraft mob_talker touhou original hololive marumaru_no_shuyaku_wa_wareware_da! vocaloid hololive_english mario_(series) pokemon
