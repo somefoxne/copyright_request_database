@@ -124,3 +124,4 @@
 ?dantsu_flame_(umamusume) -> umamusume umamusume:_beginning_of_a_new_era kfc uber_eats umamusume:_cinderella_gray pokemon real_life comiket_108 umamusume:_road_to_the_top gundam
 ?carmine_(pokemon) -> pokemon pokemon_scarlet_and_violet pokemon_masters_ex pokemon_(anime) pokemon_sword_and_shield pokemon_sun_and_moon pokemon_horizons original pokemon_legends:_arceus pokemon_black_and_white
 ?carmine_(sygna_suit)_(pokemon) -> pokemon pokemon_masters_ex pokemon_scarlet_and_violet pokemon_legends:_arceus pokemon_sword_and_shield pokemon_sun_and_moon pokemon_diamond/pearl/platinum pokemon_legends:_z-a elden_ring
+?pecharunt -> pokemon pokemon_scarlet_and_violet pokemon_masters_ex pokemon_(anime) pokemon_horizons original pokemon_sword_and_shield pokemon_black_2_and_white_2 pokemon_tcg pokemon_legends:_z-a
