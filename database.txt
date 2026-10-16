@@ -613,3 +613,4 @@
 ?phainon_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail honkai_impact_3rd mihoyo genshin_impact fate_(series) fate/stay_night fate/unlimited_blade_works zenless_zone_zero pokemon
 ?kiwi_(cyberpunk) -> cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 wuthering_waves chainsaw_man sousou_no_frieren bemani va-11_hall-a trigger_(company) cyberpunk:_edgerunners_2
 ?monomi_(danganronpa) -> danganronpa_(series) danganronpa_2:_goodbye_despair danganronpa:_trigger_happy_havoc danganronpa_v3:_killing_harmony tetris danganronpa_another_episode:_ultra_despair_girls danganronpa/zero
+?serperior -> pokemon pokemon_black_2_and_white_2 pokemon_black_and_white pokemon_diamond/pearl/platinum pokemon_firered_and_leafgreen pokemon_masters_ex pokemon_heartgold_and_soulsilver original pokemon_sun_and_moon pokemon_red/green/blue/yellow
