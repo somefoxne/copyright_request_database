@@ -167,3 +167,4 @@
 ?plymouth_(an_angelic_physical)_(azur_lane) -> azur_lane
 ?elie_macdowell -> eiyuu_densetsu zero_no_kiseki ao_no_kiseki hajimari_no_kiseki sen_no_kiseki_(series) sen_no_kiseki_iv sen_no_kiseki_i sora_no_kiseki sen_no_kiseki_iii akatsuki_no_kiseki
 ?lloyd_bannings -> eiyuu_densetsu zero_no_kiseki ao_no_kiseki sen_no_kiseki_(series) hajimari_no_kiseki sora_no_kiseki sen_no_kiseki_i sen_no_kiseki_iv kuro_no_kiseki_(series) kuro_no_kiseki_i
+?severus_snape -> wizarding_world harry_potter_(series) harry_potter_and_the_deathly_hallows fate_(series) umamusume mahou_shoujo_madoka_magica harry_potter_and_the_goblet_of_fire yuusha_yoshihiko_to_maou_no_shiro original fate/grand_order
