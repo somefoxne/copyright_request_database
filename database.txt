@@ -289,3 +289,4 @@
 ?kromer_(project_moon) -> project_moon limbus_company library_of_ruina lobotomy_corporation mili_(band) between_two_worlds original arknights chainsaw_man sanrio
 ?ellie_minibot -> indie_virtual_youtuber vedal_ai vocaloid utdr_(toby_fox) deltarune twitch.tv makeship open_season overwatch sanrio
 ?biwa_hayahide_(pf._winning_equation...)_(umamusume) -> umamusume akari_ga_yatte_kitazo_(vocaloid) original kantai_collection real_life grappler_baki pokemon jojo_no_kimyou_na_bouken diamond_wa_kudakenai gorillaz
+?biwa_hayahide_(umamusume) -> umamusume kantai_collection original pokemon real_life umayuru umamusume:_cinderella_gray cygames mario_(series) blue_archive
