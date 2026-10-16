@@ -739,3 +739,4 @@
 ?niko_ikki -> blue_lock umamusume sousou_no_frieren
 ?oliver_aiku -> blue_lock
 ?sendou_shuuto -> blue_lock starbucks
+?yorigami_shion -> touhou antinomy_of_common_flowers sunken_fossil_world touhou_lostword touhou_(pc-98) cookie_(touhou) touhou_cannonball jojo_no_kimyou_na_bouken hidden_star_in_four_seasons pokemon
