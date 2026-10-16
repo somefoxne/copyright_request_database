@@ -61,3 +61,4 @@ unused_hololive_vtuber_(parsley-f) -> hololive
 ?patchouli_knowledge -> touhou embodiment_of_scarlet_devil touhou_(pc-98) cookie_(touhou) reitaisai touhou_lostword pokemon original touhou_tag_dream the_iron_of_yin_and_yang
 ?phoenix_reffaella -> zenless_zone_zero idolmaster gakuen_idolmaster kill_la_kill the_two-thousand_yard_stare pokemon honkai_(series) honkai:_star_rail gundam jujutsu_kaisen
 ?phoenix_reffaella_(the_illness_called_life) -> zenless_zone_zero kill_la_kill
+?jean_havoc -> fullmetal_alchemist fullmetal_alchemist_(2003) tales_of_(series) natsume_yuujinchou pokemon gundam precure street_fighter pokemon_(anime) guilty_gear
