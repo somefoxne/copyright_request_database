@@ -436,3 +436,4 @@
 ?nanahoshi_shizuka -> mushoku_tensei chainsaw_man sousou_no_frieren girls_und_panzer shingeki_no_kyojin lycoris_recoil the_elder_scrolls invincible_(series) the_elder_scrolls_v:_skyrim
 ?rudeus_greyrat -> mushoku_tensei kono_subarashii_sekai_ni_shukufuku_wo! sousou_no_frieren re:zero_kara_hajimeru_isekai_seikatsu mushoku_tensei:_game_ni_nattemo_honki_dasu sevens_story konosuba!_fantastic_days blue_archive pokemon chainsaw_man
 ?sylphiette_(mushoku_tensei) -> mushoku_tensei sousou_no_frieren re:zero_kara_hajimeru_isekai_seikatsu mushoku_tensei:_game_ni_nattemo_honki_dasu dungeon_meshi kono_subarashii_sekai_ni_shukufuku_wo! megami_magazine goblin_slayer! edomae_elf dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru_darou_ka
+?kaito_(vocaloid) -> vocaloid project_sekai project_diva_(series) evillious_nendaiki utau magical_mirai_(vocaloid) original cantarella_(vocaloid) akutoku_no_judgement_(vocaloid) miku_symphony_(vocaloid)
