@@ -130,3 +130,4 @@
 ?firefly_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail genshin_impact mihoyo honkai_impact_3rd kamen_rider zenless_zone_zero comiket_107 comiket_106 fate_(series)
 ?archer_(fate) -> fate_(series) fate/stay_night fate/grand_order fate/extra fate/hollow_ataraxia fate/zero fate/unlimited_blade_works fate/extra_ccc honkai_(series) honkai:_star_rail
 ?archer_(honkai:_star_rail)_(fate) -> fate_(series) honkai_(series) honkai:_star_rail fate/stay_night fate/unlimited_blade_works fate/grand_order carnival_phantasm zenless_zone_zero fate/extra tsukihime
+?saber_(honkai:_star_rail)_(fate) -> honkai_(series) honkai:_star_rail fate_(series) fate/stay_night fate/unlimited_blade_works fate/grand_order mihoyo genshin_impact umamusume tsukihime
