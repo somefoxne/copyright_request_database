@@ -66,3 +66,4 @@
 ?ookami_mio_(hoodie) -> hololive hololive_english hololive_indonesia hololive_dev_is original pokemon street_fighter splatoon_(series) street_fighter_6 indie_virtual_youtuber
 ?kal'tsit_(arknights) -> arknights project_moon limbus_company ambience_synesthesia arknights:_endfield xiong_xiaobai rainbow_six_siege blue_archive original
 ?kal'tsit_esperanta_(arknights) -> arknights arknights:_endfield jujutsu_kaisen ambience_synesthesia final_fantasy project_moon limbus_company final_fantasy_xiv ultra_series
+?nakiri_ayame_(streetwear) -> hololive hololive_english hololive_indonesia hololive_dev_is indie_virtual_youtuber nijisanji original vspo! reject_(esports) pokemon
