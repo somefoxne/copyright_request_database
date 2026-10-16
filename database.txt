@@ -805,3 +805,4 @@
 ?kale_(dragon_ball) -> dragon_ball dragon_ball_super dragon_ball_z dragon_ball_super_broly dragon_ball_gt dragon_ball_fighterz dragon_ball_(classic) dragon_ball_heroes dragon_ball:_sparking! dragon_ball_minus
 ?t-head_trainer_(umamusume) -> umamusume original gundam blue_archive real_life idolmaster jojo_no_kimyou_na_bouken jujutsu_kaisen pakatube pokemon
 ?reefling_(stronny_cuttles) -> vallure indie_virtual_youtuber
+?stronny_cuttles -> vallure indie_virtual_youtuber hololive umamusume hololive_english marvel original touhou blue_archive pokemon
