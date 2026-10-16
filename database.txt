@@ -503,3 +503,4 @@
 ?oshino_shinobu -> monogatari_(series) bakemonogatari kizumonogatari nisemonogatari mister_donut nekomonogatari mahou_shoujo_madoka_magica kabukimonogatari tsukimonogatari wazamonogatari
 ?ro-500_(kancolle) -> kantai_collection fate_(series) fate/kaleid_liner_prisma_illya lawson gundam original comic_lo touhou gochuumon_wa_usagi_desu_ka? aoki_hagane_no_arpeggio
 ?failure_penguin -> kantai_collection moomin azur_lane dragon_ball ghostbusters idolmaster idolmaster_cinderella_girls kamen_rider dragon_ball_z lawson
+?ikazuchi_(kancolle) -> kantai_collection pokemon youtube azur_lane watashi_ni_tenshi_ga_maiorita! aoki_hagane_no_arpeggio touhou original gundam transformers
