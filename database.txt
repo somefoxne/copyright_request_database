@@ -49,3 +49,4 @@ ookami_mio_(street) -> hololive
 ?karin_(blue_archive) -> blue_archive goddess_of_victory:_nikke original grand_theft_auto pokemon azur_lane fate_(series) fate/grand_order vocaloid kamen_rider
 ?silvervale -> indie_virtual_youtuber vshojo gamer_supps vyugen final_fantasy pokemon final_fantasy_xiv minecraft goddess_of_victory:_nikke fallout
 ?verxina_(umamusume) -> umamusume original yokohama_dena_baystars real_life blue_archive pokemon jujutsu_kaisen comiket_107 pakatube idolmaster
+?win_variation_(umamusume) -> umamusume real_life original umayuru umamusume:_cinderella_gray pakatube touhou pokemon fate_(series) fate/stay_night
