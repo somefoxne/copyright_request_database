@@ -335,3 +335,4 @@
 ?alice_(alice_in_wonderland) -> original persona persona_4 idolmaster vocaloid touhou little_red_riding_hood_(fairy_tale) kantai_collection fate_(series)
 ?duchess_(elden_ring) -> elden_ring elden_ring_nightreign bloodborne elden_ring:_shadow_of_the_erdtree fromsoftware gundam dark_souls_(series) fate_(series) hololive umamusume
 ?nerissa_ravencroft -> hololive hololive_english hololive_indonesia enigmatic_recollection hololive_dev_is oyomeholic_(nerissa_ravencroft) rabbit_hole_(vocaloid) umamusume indie_virtual_youtuber final_fantasy
+?recluse_(elden_ring) -> elden_ring elden_ring_nightreign dark_souls_(series) dark_souls_ii fromsoftware original indie_virtual_youtuber gundam blue_archive
