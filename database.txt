@@ -621,3 +621,4 @@
 ?camilo_madrigal -> encanto disney mickey_mouse_&_friends duffy_and_friends marvel avengers_(series) the_little_mermaid_(disney) big_hero_6 the_nightmare_before_christmas lady_and_the_tramp
 ?jenny_wakeman -> my_life_as_a_teenage_robot vocaloid nickelodeon spongebob_squarepants_(series) jimmy_neutron_(series) danny_phantom the_fairly_oddparents mega_man_(series) pokemon el_tigre
 ?azuchi_(azur_lane) -> azur_lane azur_lane:_slow_ahead
+?azuchi_(testing_courage_in_crimson)_(azur_lane) -> azur_lane
