@@ -906,3 +906,4 @@
 ?kyouraku_shunsui -> bleach bleach:_sennen_kessen-hen idolmaster bleach:_epilogue naruto_(series) idolmaster_cinderella_girls gakuen_idolmaster naruto_(classic) bleach:_turn_back_the_pendulum bleach:_zanpakutou_ibun_hen
 ?sui-feng -> bleach bleach:_sennen_kessen-hen bleach:_the_high_school_warfare idolmaster bleach:_turn_back_the_pendulum hololive bleach:_epilogue gakuen_idolmaster bleach:_brave_souls hololive_english
 ?tousen_kaname -> bleach bleach:_sennen_kessen-hen ginga_tetsudou_999 idolmaster idolmaster_cinderella_girls jojo_no_kimyou_na_bouken bleach:_epilogue bleach:_brave_souls bleach:_zanpakutou_ibun_hen
+?ukitake_juushirou -> bleach bleach:_sennen_kessen-hen bleach:_epilogue bleach:_turn_back_the_pendulum original naruto_(series) naruto_(classic) death_note cowboy_bebop black_jack_(series)
