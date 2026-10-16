@@ -962,3 +962,4 @@
 ?metalgarurumon_(black) -> digimon digimon_adventure digimon_card_game digimon_adventure_02 digimon_tamers digimon_story:_cyber_sleuth digimon_frontier digimon_xros_wars digimon_savers
 ?metalgarurumon -> digimon digimon_adventure digimon_card_game digimon_adventure:_bokura_no_war_game digimon_story:_cyber_sleuth digimon_adventure:_(2020) medarot digimon_story:_time_stranger digimon_adventure_tri. original
 ?wargreymon -> digimon digimon_adventure digimon_card_game digimon_adventure:_bokura_no_war_game digimon_adventure:_(2020) digimon_story:_cyber_sleuth digimon_adventure_02 digimon_adventure_tri. gundam original
+?megumin -> kono_subarashii_sekai_ni_shukufuku_wo! kono_subarashii_sekai_ni_bakuen_wo! konosuba!_fantastic_days kono_subarashii_sekai_ni_shukufuku_wo!_kono_yokubukai_game_ni_shinpan_o! re:zero_kara_hajimeru_isekai_seikatsu sousou_no_frieren fate_(series) mushoku_tensei original genshin_impact
