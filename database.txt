@@ -260,3 +260,4 @@
 ?clariskrays -> phantasy_star phantasy_star_online_2 phantasy_star_portable_2 phantasy_star_portable_2_infinity phantasy_star_nova
 ?huey_(pso2) -> phantasy_star phantasy_star_online_2
 ?kishibe_(chainsaw_man) -> chainsaw_man jujutsu_kaisen real_life gokushufudou naruto_(series) spy_x_family one_piece the_legend_of_zelda kimetsu_no_yaiba lycoris_recoil
+?quanxi_(chainsaw_man) -> chainsaw_man genshin_impact jujutsu_kaisen original sousou_no_frieren neon_genesis_evangelion kill_la_kill pieta blue_archive fate_(series)
