@@ -611,3 +611,4 @@
 ?dan_heng_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail mihoyo genshin_impact honkai_impact_3rd zenless_zone_zero kfc original pokemon fate_(series)
 ?dan_heng_(permansor_terrae)_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail mihoyo zenless_zone_zero honkai_impact_3rd genshin_impact arknights fate_(series) jojo_no_kimyou_na_bouken arknights:_endfield
 ?phainon_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail honkai_impact_3rd mihoyo genshin_impact fate_(series) fate/stay_night fate/unlimited_blade_works zenless_zone_zero pokemon
+?kiwi_(cyberpunk) -> cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 wuthering_waves chainsaw_man sousou_no_frieren bemani va-11_hall-a trigger_(company) cyberpunk:_edgerunners_2
