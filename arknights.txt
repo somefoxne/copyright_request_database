@@ -806,26 +806,43 @@ smarty_(arknights) -> arknights
 
 #collab
 nine-colored_deer -> a_deer_of_nine_colors  
+nine-colored_deer_(a_silvern_caress_on_the_flow_of_time) -> arknights
+
 misumi_uika -> bang_dream!_it's_mygo!!!!!  
+misumi_uika_(caged_singer) -> arknights
+misumi_uika_(perro) -> arknights
 togawa_sakiko -> bang_dream!_it's_mygo!!!!!  
+togawa_sakiko_(master_of_melodia) -> arknights
+togawa_sakiko_(sarkaz) -> arknights
 wakaba_mutsumi -> bang_dream!_it's_mygo!!!!!  
+wakaba_mutsumi_(marionette's_id) -> arknights
+wakaba_mutsumi_(cautus) -> arknights
 yahata_umiri -> bang_dream!_it's_mygo!!!!!  
+yahata_umiri_(moonlight_executioner) -> arknights
+yahata_umiri_(lupo) -> arknights
 yuutenji_nyamu -> bang_dream!_it's_mygo!!!!!  
+yuutenji_nyamu_(magician_of_passion) -> arknights
+yuutenji_nyamu_(feline) -> arknights
+
 chilchuck_tims -> dungeon_meshi  
 laios_touden -> dungeon_meshi  
 marcille_donato -> dungeon_meshi  
 senshi_(dungeon_meshi) -> dungeon_meshi  
+
 luo_xiaohei -> the_legend_of_luo_xiaohei  
+
 kirin_r_yato_(arknights) -> monster_hunter_(series)  
 rathalos_s_noir_corne_(arknights) -> monster_hunter_(series)  
 rhodes_island_recon_(arknights) -> monster_hunter_(series)  
 terra_research_commission_(arknights) -> monster_hunter_(series)  
 violet_mizutsune_orchid_(arknights) -> monster_hunter_(series)  
 zinogre_s_catapult_(arknights) -> monster_hunter_(series)  
+
 aigis_(persona) -> persona_3  
 koromaru_(persona) -> persona_3  
 yuuki_makoto_(persona_3) -> persona_3  
 takeba_yukari -> persona_3  
+
 ash_(rainbow_six_siege) -> rainbow_six_siege  
 blitz_(rainbow_six_siege) -> rainbow_six_siege  
 doc_(rainbow_six_siege) -> rainbow_six_siege  
