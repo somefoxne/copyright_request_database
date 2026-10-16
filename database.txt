@@ -961,3 +961,4 @@
 ?blackwargreymon -> digimon digimon_adventure_02 digimon_card_game digimon_adventure digimon_world_re:digitize digimon_tamers digimon_frontier digimon_xros_wars digimon_savers pokemon
 ?metalgarurumon_(black) -> digimon digimon_adventure digimon_card_game digimon_adventure_02 digimon_tamers digimon_story:_cyber_sleuth digimon_frontier digimon_xros_wars digimon_savers
 ?metalgarurumon -> digimon digimon_adventure digimon_card_game digimon_adventure:_bokura_no_war_game digimon_story:_cyber_sleuth digimon_adventure:_(2020) medarot digimon_story:_time_stranger digimon_adventure_tri. original
+?wargreymon -> digimon digimon_adventure digimon_card_game digimon_adventure:_bokura_no_war_game digimon_adventure:_(2020) digimon_story:_cyber_sleuth digimon_adventure_02 digimon_adventure_tri. gundam original
