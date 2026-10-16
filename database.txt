@@ -94,3 +94,4 @@ unused_hololive_vtuber_(parsley-f) -> hololive
 ?pachirisu -> pokemon pokemon_diamond/pearl/platinum pokemon_(anime) pokemon_platinum pokemon_the_series:_diamond_and_pearl pokemon_scarlet_and_violet original pokemon_brilliant_diamond_and_shining_pearl pokemon_legends:_arceus pokemon_x_and_y
 ?don_quixote_(project_moon) -> project_moon limbus_company lobotomy_corporation library_of_ruina arknights vocaloid pokemon mili_(band) hero_(mili) blue_archive
 ?sinclair_(project_moon) -> project_moon limbus_company lobotomy_corporation library_of_ruina pokemon original mili_(band) arknights vocaloid karaoke_manekineko
+?byron_(pokemon) -> pokemon pokemon_diamond/pearl/platinum pokemon_heartgold_and_soulsilver pokemon_sun_and_moon pokemon_ruby/sapphire/emerald pokemon_black_and_white pokemon_platinum pokemon_emerald pokemon_firered_and_leafgreen pokemon_(anime)
