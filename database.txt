@@ -257,3 +257,4 @@
 ?velvet_crowe -> tales_of_(series) tales_of_berseria tales_of_asteria blazblue tales_of_xillia tales_of_zestiria tales_of_the_rays tales_of_vesperia tales_of_the_abyss tales_of_symphonia
 ?velvet_crowe_(summer_swimwear) -> tales_of_(series) tales_of_berseria tales_of_asteria jojo_no_kimyou_na_bouken naruto_(series) kill_la_kill stardust_crusaders rwby blazblue naruto_shippuuden
 ?gyro_zeppeli_(executioner) -> jojo_no_kimyou_na_bouken steel_ball_run
+?clariskrays -> phantasy_star phantasy_star_online_2 phantasy_star_portable_2 phantasy_star_portable_2_infinity phantasy_star_nova
