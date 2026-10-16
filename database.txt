@@ -633,3 +633,4 @@
 ?yoh_(honogurashi) -> honogurashi_no_niwa
 ?dahlia_(sulcate) -> original final_fantasy final_fantasy_xiv
 ?hanamura_yousuke -> persona persona_4 persona_3 persona_4_the_golden persona_4_revival persona_5 persona_4:_the_ultimate_in_mayonaka_arena persona_dancing persona_4:_dancing_all_night
+?narukami_yu -> persona persona_4 persona_3 persona_5 persona_3_portable persona_4_the_golden persona_2 persona_1 persona_4_revival persona_4:_the_ultimate_in_mayonaka_arena
