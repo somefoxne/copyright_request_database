@@ -72,3 +72,4 @@ unused_hololive_vtuber_(parsley-f) -> hololive
 ?lacus_clyne -> gundam gundam_seed gundam_seed_destiny gundam_seed_freedom zeta_gundam rozen_maiden mobile_suit_gundam sanrio my_melody_(series) fate_(series)
 ?aria_(human)_(zenless_zone_zero) -> zenless_zone_zero sanrio my_melody_(series) fuwa_fuwa_cinnamoroll hello_kitty honkai_(series) honkai:_star_rail kfc blue_archive genshin_impact
 ?aria_(zenless_zone_zero) -> zenless_zone_zero sanrio my_melody_(series) fuwa_fuwa_cinnamoroll hello_kitty honkai_(series) honkai:_star_rail kfc blue_archive genshin_impact
+?nangong_yu -> zenless_zone_zero sanrio my_melody_(series) fuwa_fuwa_cinnamoroll hello_kitty honkai_(series) honkai:_star_rail kfc blue_archive mihoyo
