@@ -160,3 +160,4 @@
 ?emiya_alter -> fate_(series) fate/grand_order fate/stay_night fate/extra fate/grand_order:_first_order original fate/extra_ccc fate/kaleid_liner_prisma_illya fate/zero fate/hollow_ataraxia
 ?saber_lily -> fate_(series) fate/unlimited_codes fate/grand_order fate/stay_night fate/extra fate/kaleid_liner_prisma_illya fate/zero fate/hollow_ataraxia fate/tiger_colosseum
 ?brendan_(pokemon) -> pokemon pokemon_omega_ruby_and_alpha_sapphire pokemon_ruby/sapphire/emerald pokemon_adventures pokemon_diamond/pearl/platinum pokemon_emerald pokemon_heartgold_and_soulsilver pokemon_black_and_white pokemon_firered_and_leafgreen pokemon_gold/silver/crystal
+?may_(pokemon) -> pokemon pokemon_omega_ruby_and_alpha_sapphire pokemon_ruby/sapphire/emerald pokemon_(anime) pokemon_the_series:_ruby_and_sapphire pokemon_adventures pokemon_diamond/pearl/platinum pokemon_emerald pokemon_firered_and_leafgreen pokemon_black_and_white
