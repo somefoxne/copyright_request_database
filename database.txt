@@ -47,3 +47,4 @@ ookami_mio_(street) -> hololive
 ?kitagawa_marin -> sono_bisque_doll_wa_koi_wo_suru komi-san_wa_komyushou_desu ijiranaide_nagatoro-san uzaki-chan_wa_asobitai! hololive original blue_archive chainsaw_man dandadan fate_(series)
 ?gawr_gura -> hololive hololive_english reflect_(gawr_gura) hololive_indonesia indie_virtual_youtuber minecraft among_us original zenless_zone_zero pokemon
 ?karin_(blue_archive) -> blue_archive goddess_of_victory:_nikke original grand_theft_auto pokemon azur_lane fate_(series) fate/grand_order vocaloid kamen_rider
+?silvervale -> indie_virtual_youtuber vshojo gamer_supps vyugen final_fantasy pokemon final_fantasy_xiv minecraft goddess_of_victory:_nikke fallout
