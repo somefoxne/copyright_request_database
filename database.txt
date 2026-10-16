@@ -102,3 +102,4 @@
 ?promeia_(zenless_zone_zero) -> zenless_zone_zero honkai_(series) honkai:_star_rail genshin_impact chainsaw_man mihoyo original blue_archive fate_(series) jojo_no_kimyou_na_bouken
 ?yixuan_(zenless_zone_zero) -> zenless_zone_zero mihoyo genshin_impact honkai_(series) honkai_impact_3rd honkai:_star_rail comiket_108 fate_(series) wuthering_waves fate/grand_order
 ?denia_(wuthering_waves) -> wuthering_waves pizza-la blue_archive cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 chainsaw_man comiket_108 mirai_nikki backrooms_(creepypasta)
+?maruzensky_(umamusume) -> umamusume umamusume:_cinderella_gray umayuru pacific_racing_team original real_life blue_archive gundam initial_d gundam_suisei_no_majo
