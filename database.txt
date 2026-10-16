@@ -851,3 +851,4 @@
 ?wasu_(majokko)_(madoka_magica) -> mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica:_walpurgis_no_kaiten mahou_shoujo_madoka_magica_magia_exedra hunter_x_hunter tetoris_(synthesizer_v)
 ?goutokuji_mike -> touhou unconnected_marketeers touhou_(pc-98) touhou_lostword perfect_cherry_blossom embodiment_of_scarlet_devil foul_detective_satori touhou_cannonball dolls_in_pseudo_paradise mountain_of_faith
 ?akashiya_yuu -> crack_lack_good_luck original
+?nagisa_(swimsuit)_(blue_archive) -> blue_archive comiket_106 chainsaw_man pokemon comiket_108 initial_d white_chicks a_thousand_miles touhou arknights
