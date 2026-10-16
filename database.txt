@@ -556,3 +556,4 @@
 ?belorta_(nikke) -> goddess_of_victory:_nikke zoids bandai the_lego_group tamiya_incorporated hasegawa_(hobby_kits) battle_dome nerf
 ?belorta_(pumpkin_witch)_(nikke) -> goddess_of_victory:_nikke
 ?terra_branford -> final_fantasy final_fantasy_vi dissidia_final_fantasy final_fantasy_vii final_fantasy_v final_fantasy_ix final_fantasy_iv final_fantasy_viii final_fantasy_x final_fantasy_iii
+?hibiki_(kancolle) -> kantai_collection original gundam pokemon idolmaster girls_und_panzer jojo_no_kimyou_na_bouken godzilla_(series) touhou azur_lane
