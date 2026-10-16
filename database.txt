@@ -579,3 +579,4 @@
 ?itoshi_rin -> blue_lock sanrio little_red_riding_hood_(fairy_tale) project_sekai sayonara_zetsubou_sensei my_melody_(series) coca-cola fuwa_fuwa_cinnamoroll hello_kitty world_cup
 ?mona_(genshin_impact) -> genshin_impact original mihoyo fire_emblem mushoku_tensei zenless_zone_zero fate_(series) honkai_(series) fate/grand_order honkai:_star_rail
 ?maribel_hearn -> touhou taboo_japan_disentanglement touhou_(pc-98) ghostly_field_club magical_astronomy trojan_green_asteroid neo-traditionalism_of_japan dateless_bar_"old_adam" retrospective_53_minutes changeability_of_strange_dream
+?usami_renko -> touhou touhou_(pc-98) ghostly_field_club taboo_japan_disentanglement magical_astronomy trojan_green_asteroid dateless_bar_"old_adam" retrospective_53_minutes neo-traditionalism_of_japan
