@@ -656,3 +656,4 @@
 ?racing_miku -> vocaloid goodsmile_company goodsmile_racing super_gt magical_mirai_(vocaloid) pokemon umamusume nitroplus project_diva_(series) utau
 ?racing_miku_(2023_tropical_ver.) -> vocaloid goodsmile_company goodsmile_racing
 ?hiroi_kikuri -> bocchi_the_rock! the_king_of_fighters guilty_gear touhou street_fighter chainsaw_man blazblue pokemon sousou_no_frieren darkest_dungeon
+?yomikawa_(shimeji_simulation) -> shimeji_simulation shoujo_shuumatsu_ryokou city_(arawi_keiichi) vocaloid bocchi_the_rock! suzumiya_haruhi_no_yuuutsu real_life minecraft nichijou kyoukai_no_kanata
