@@ -779,3 +779,4 @@
 ?kevin_kaslana -> honkai_(series) honkai_impact_3rd honkai:_star_rail mihoyo genshin_impact honkai_gakuen zenless_zone_zero fate_(series) fate/grand_order fate/stay_night
 ?kevin_kaslana_(diabolic) -> honkai_(series) honkai_impact_3rd honkai:_star_rail fate_(series) fate/stay_night tongari_boushi_no_atelier
 ?mei_(honkai_impact) -> honkai_(series) honkai_impact_3rd honkai:_star_rail honkai_gakuen genshin_impact mihoyo zenless_zone_zero tears_of_themis the_exit_8 original
+?izumi_houka -> bang_dream! bang_dream!_our_notes bang_dream!_yumemita danganronpa_(series) danganronpa_2:_goodbye_despair bang_dream!_girls_band_party! shoujo_kageki_revue_starlight magnet_(vocaloid) sweets_paradise
