@@ -263,3 +263,4 @@
 ?quanxi_(chainsaw_man) -> chainsaw_man genshin_impact jujutsu_kaisen original sousou_no_frieren neon_genesis_evangelion kill_la_kill pieta blue_archive fate_(series)
 ?tayama_(super_no_ura_de_yani_suu_futari) -> super_no_ura_de_yani_suu_futari chainsaw_man yani_neko yofukashi_no_uta hololive hololive_english persona persona_5 cyberpunk_(series) cyberpunk:_edgerunners
 ?kanon_ahonen -> shy_(series)
+?faust_(project_moon) -> project_moon limbus_company arknights library_of_ruina lobotomy_corporation pokemon nier_(series) mili_(band) original vocaloid
