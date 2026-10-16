@@ -627,3 +627,4 @@
 ?ranulf_(fire_emblem) -> fire_emblem fire_emblem:_radiant_dawn fire_emblem:_path_of_radiance fire_emblem_heroes fire_emblem_awakening fire_emblem_fates fire_emblem_engage fire_emblem:_the_blazing_blade fire_emblem:_mystery_of_the_emblem fire_emblem:_the_binding_blade
 ?zhu_yuan -> zenless_zone_zero mihoyo genshin_impact honkai_(series) honkai:_star_rail transformers blue_archive goddess_of_victory:_nikke transformers_(live_action) honkai_impact_3rd
 ?garchomp -> pokemon pokemon_diamond/pearl/platinum pokemon_legends:_arceus pokemon_(anime) pokemon_black_and_white pokemon_x_and_y pokemon_masters_ex pokemon_heartgold_and_soulsilver pokemon_platinum pokemon_omega_ruby_and_alpha_sapphire
+?aki_minoriko -> touhou mountain_of_faith touhou_(pc-98) reitaisai touhou_tag_dream reitaisai_8_contest embodiment_of_scarlet_devil perfect_cherry_blossom imperishable_night undefined_fantastic_object
