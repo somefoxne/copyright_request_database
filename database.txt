@@ -24,3 +24,4 @@ ookami_mio -> hololive
 ?ookami_mio_(hololive_summer_2019) -> hololive azur_lane hololive_english comiket_106 hololive_dreams iriam hololive_official_card_game pictoria pokemon indie_virtual_youtuber
 ?ouro_kronii -> hololive hololive_english hololive_indonesia minecraft mafia_(vocaloid) enigmatic_recollection way_2_u_(ouro_kronii) umamusume fate_(series) vocaloid
 ?ouro_kronii_(maid) -> hololive hololive_english suki_suki_daisuki_(song) hololive_indonesia backrooms_(creepypasta) monster_hunter_(series) indie_virtual_youtuber ore_no_imouto_ga_konna_ni_kawaii_wake_ga_nai microsoft_windows
+?velina_airgid -> zenless_zone_zero fate_(series) genshin_impact honkai_(series) honkai:_star_rail goddess_of_victory:_nikke jujutsu_kaisen shuumatsu_no_valkyrie original umamusume
