@@ -385,3 +385,4 @@
 ?saber_alter -> fate_(series) fate/grand_order fate/stay_night fate/hollow_ataraxia fate/unlimited_codes fate/extra carnival_phantasm fate/zero fate/apocrypha
 ?rebecca_(cyberpunk) -> cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 wuthering_waves boku_no_hero_academia chainsaw_man sousou_no_frieren original league_of_legends neon_genesis_evangelion
 ?takigawa_noa -> yamada-kun_to_7-nin_no_majo megami_magazine
+?caesar_anthonio_zeppeli -> jojo_no_kimyou_na_bouken battle_tendency stardust_crusaders phantom_blood diamond_wa_kudakenai steel_ball_run vento_aureo stone_ocean jojolion jojo_no_kimyou_na_bouken:_all_star_battle
