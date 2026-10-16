@@ -801,3 +801,4 @@
 ?akane_rin_(nte) -> neverness_to_everness tokyo_game_show
 ?female_esper_zero_(nte) -> neverness_to_everness gundam chainsaw_man grand_theft_auto tower_of_fantasy crayon_shin-chan gundam_f91 nohara_hiroshi_hirumeshi_no_ryuugi tokyo_game_show
 ?hirose_aiki -> ganbare!_nakamura-kun!! hikaru_ga_shinda_natsu pokemon zenless_zone_zero neon_genesis_evangelion ensemble_stars! minecraft nu_carnival chiikawa
+?nakamura_okuto -> ganbare!_nakamura-kun!! hikaru_ga_shinda_natsu chevelle_(band) pokemon vocaloid zenless_zone_zero mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) chainsaw_man neon_genesis_evangelion
