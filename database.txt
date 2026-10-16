@@ -198,3 +198,4 @@
 ?mitaka_asa -> chainsaw_man dandadan neon_genesis_evangelion jujutsu_kaisen scott_pilgrim_(series) lollipop_chainsaw pokemon sousou_no_frieren akira_(manga) original
 ?yoru_(chainsaw_man) -> chainsaw_man jujutsu_kaisen neon_genesis_evangelion i_want_you hololive marvel sousou_no_frieren lollipop_chainsaw boku_no_hero_academia dc_comics
 ?fleki -> dungeon_meshi golden_kamuy beauty_and_the_beast_(disney) pokemon pokemon_(anime) pokemon_(classic_anime) little_witch_academia fate_(series) fate/grand_order vocaloid
+?barou_shouei -> blue_lock gintama
