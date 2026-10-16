@@ -484,3 +484,4 @@
 ?male_eshmel_(fire_emblem) -> fire_emblem fire_emblem:_three_houses fire_emblem_heroes fire_emblem_awakening honkai_(series) honkai:_star_rail fire_emblem_fates fire_emblem:_the_blazing_blade minecraft
 ?raphtalia -> tate_no_yuusha_no_nariagari tate_no_yuusha_no_nariagari_rerise tate_no_yuusha_no_nariagari_rise re:zero_kara_hajimeru_isekai_seikatsu spice_and_wolf kono_subarashii_sekai_ni_shukufuku_wo! isekai_quartet pokemon fate_(series) fate/grand_order
 ?katsuragi_lilja -> idolmaster gakuen_idolmaster kimi_to_semi_blue_(idolmaster) hakusen_(idolmaster) wake_up!!_(idolmaster) agitato_(idolmaster) hajime_(idolmaster) sakura_photograph_(idolmaster) kyokkou_(idolmaster) atmosphere_(idolmaster)
+?holo -> spice_and_wolf wolf_and_parchment k-on! code_geass touhou fate_(series) blazblue tate_no_yuusha_no_nariagari suzumiya_haruhi_no_yuuutsu vocaloid
