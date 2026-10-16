@@ -451,3 +451,4 @@
 ?marisbury_animusphere -> fate_(series) fate/grand_order lord_el-melloi_ii_case_files fate/stay_night fate/zero fate/hollow_ataraxia pokemon final_fantasy gundam final_fantasy_xiv
 ?shu_(everflowing_waters)_(arknights) -> arknights
 ?atra_mixta -> gundam gundam_tekketsu_no_orphans kodoku_no_gourmet kantai_collection gundam_00 mobile_suit_gundam gundam_unicorn g_gundam gundam_wing turn_a_gundam
+?pearl_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail starry_night_(van_gogh) fate_(series) fate/stay_night kanagawa_oki_nami_ura genshin_impact honkai_impact_3rd sanrio houseki_no_kuni
