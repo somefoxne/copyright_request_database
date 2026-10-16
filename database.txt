@@ -669,3 +669,4 @@
 ?kujo_jotaro -> jojo_no_kimyou_na_bouken stardust_crusaders diamond_wa_kudakenai stone_ocean battle_tendency phantom_blood vento_aureo steel_ball_run jojolion touhou
 ?mohammed_avdol -> jojo_no_kimyou_na_bouken stardust_crusaders diamond_wa_kudakenai battle_tendency stone_ocean vento_aureo phantom_blood steel_ball_run jojolion touhou
 ?logi_(blue_dragon) -> blue_dragon
+?miss_bandit_(harris_hero) -> original
