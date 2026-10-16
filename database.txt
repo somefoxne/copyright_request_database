@@ -701,3 +701,4 @@
 ?arjuna_(fate) -> fate_(series) fate/grand_order fate/apocrypha fate/extra fate/extella fate/extella_link fate/stay_night fate/extra_ccc koha-ace fate/zero
 ?arjuna_(traveling_outfit)_(fate) -> fate_(series) fate/grand_order fate/extra fate/apocrypha muppets
 ?arjuna_alter_(fate) -> fate_(series) fate/grand_order fate/apocrypha fate/extra fate/stay_night fate/extella fate/grand_order_arcade original mahou_shoujo_madoka_magica precure
+?arjuna_alter_(festival_outfit)_(fate) -> fate_(series) fate/grand_order fate/extra fate/apocrypha fate/extella fate/extella_link
