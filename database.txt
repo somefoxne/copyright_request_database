@@ -140,3 +140,4 @@ ookami_mio_(street) -> hololive
 ?furret -> pokemon pokemon_scarlet_and_violet pokemon_heartgold_and_soulsilver pokemon_masters_ex pokemon_gold/silver/crystal pokemon_(anime) pokemon_cafe_remix original pokemon_black_and_white pokemon_diamond/pearl/platinum
 ?jirachi -> pokemon pokemon_(anime) pokemon_the_series:_ruby_and_sapphire pokemon:_jirachi:_wish_maker vocaloid pokemon_ruby/sapphire/emerald project_voltage pokemon_omega_ruby_and_alpha_sapphire pokemon_diamond/pearl/platinum pokemon_black_and_white
 ?kieran_(pokemon) -> pokemon pokemon_scarlet_and_violet pokemon_masters_ex pokemon_sword_and_shield pokemon_sun_and_moon pokemon_legends:_z-a pokemon_(anime) original pokemon_legends:_arceus pokemon_horizons
+?litten -> pokemon pokemon_sun_and_moon pokemon_(anime) pokemon_ultra_sun_and_ultra_moon pokemon_the_series:_sun_&_moon pokemon_scarlet_and_violet pokemon_black_and_white pokemon_diamond/pearl/platinum pokemon_x_and_y pokemon_sword_and_shield
