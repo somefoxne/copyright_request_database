@@ -463,3 +463,4 @@
 ?cecilia_immergreen -> hololive hololive_english hololive_indonesia hololive_dev_is enigmatic_recollection chainsaw_man hololive_grand_theft_auto hololive_official_card_game umamusume minecraft
 ?cecilia_immergreen_(casual) -> hololive hololive_english wizarding_world harry_potter_(series)
 ?chi-yu_(pokemon) -> pokemon pokemon_scarlet_and_violet original pokemon_masters_ex pokemon_omega_ruby_and_alpha_sapphire touhou blue_archive pokemon_(anime) pokemon_legends:_z-a pokemon_horizons
+?2b_(nier:automata) -> nier_(series) nier:automata final_fantasy nier final_fantasy_vii goddess_of_victory:_nikke original hololive final_fantasy_xiv stellar_blade
