@@ -439,3 +439,4 @@
 ?kaito_(vocaloid) -> vocaloid project_sekai project_diva_(series) evillious_nendaiki utau magical_mirai_(vocaloid) original cantarella_(vocaloid) akutoku_no_judgement_(vocaloid) miku_symphony_(vocaloid)
 ?kamui_gakupo -> vocaloid utau evillious_nendaiki venomania_kou_no_kyouki_(vocaloid) voiceroid imitation_black_(vocaloid) niconico black_rock_shooter aku_no_musume_(vocaloid) cevio
 ?vincent_valentine_(crowmaster_suit) -> final_fantasy final_fantasy_vii final_fantasy_vii:_ever_crisis final_fantasy_vii_remake final_fantasy_vii_rebirth nier_(series) final_fantasy_vii:_advent_children nier_reincarnation dirge_of_cerberus:_final_fantasy_vii final_fantasy_airborne_brigade
+?tokisaki_kurumi -> date_a_live date_a_live:_date_a_bullet azur_lane date_a_live:_spirit_pledge majutsu_tantei_tokisaki_kurumi_no_jikenbo original pokemon honkai_(series) kantai_collection love_live!
