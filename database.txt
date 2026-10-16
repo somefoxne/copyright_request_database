@@ -35,3 +35,4 @@ ookami_mio -> hololive
 ?entelechia_(arknights) -> arknights original tsukihime microsoft_windows vampire_(vocaloid) windows_classic perfume_(band)
 ?entelechia_(dazzling_blue)_(arknights) -> arknights microsoft_windows windows_classic
 ?ookami_mio_(our_sparkle) -> hololive fbkingdom_story
+?konjiki_no_yami -> to_love-ru to_love-ru_darkness azur_lane senran_kagura senran_kagura_new_link kantai_collection megami_magazine to_love-ru_darkness_2nd lyrical_nanoha dolphin_wave
