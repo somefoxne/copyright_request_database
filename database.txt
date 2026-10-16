@@ -98,3 +98,4 @@ ookami_mio_(street) -> hololive
 ?kagamine_len -> vocaloid project_sekai evillious_nendaiki project_diva_(series) aku_no_musume_(vocaloid) aku_no_meshitsukai_(vocaloid) utau magical_mirai_(vocaloid) miku_symphony_(vocaloid) piapro_studio
 ?choukai_(kancolle) -> kantai_collection aoki_hagane_no_arpeggio lawson moomin gundam original warship_girls_r uchuu_senkan_yamato comiket_88 azur_lane
 ?oumi_(azur_lane) -> azur_lane
+?koakuma -> touhou embodiment_of_scarlet_devil touhou_(pc-98) reitaisai touhou_tag_dream touhou_lostword embodiment_of_scarlet_devil_new_classic cookie_(touhou) perfect_cherry_blossom
