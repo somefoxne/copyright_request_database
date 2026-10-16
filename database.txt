@@ -659,3 +659,4 @@
 ?yomikawa_(shimeji_simulation) -> shimeji_simulation shoujo_shuumatsu_ryokou city_(arawi_keiichi) vocaloid bocchi_the_rock! suzumiya_haruhi_no_yuuutsu real_life minecraft nichijou kyoukai_no_kanata
 ?kousaka_reina -> hibike!_euphonium lycoris_recoil liz_to_aoi_tori gekijouban_hibike!_euphonium k-on! hyouka tamako_market animedia bang_dream! bang_dream!_girls_band_party!
 ?kuroe_mayu -> hibike!_euphonium megami_magazine newtype kyoto_animation expo2025
+?tsukamoto_shuuichi -> hibike!_euphonium gekijouban_hibike!_euphonium newtype liz_to_aoi_tori 7-eleven
