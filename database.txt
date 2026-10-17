@@ -1187,3 +1187,4 @@
 ?hau_(sygna_suit)_(pokemon) -> pokemon pokemon_masters_ex pokemon_sun_and_moon pokemon_legends:_z-a
 ?viridi -> kid_icarus kid_icarus_uprising super_smash_bros. fire_emblem kirby_(series) fire_emblem:_three_houses pokemon mario_(series) the_legend_of_zelda metroid
 ?ashelin_praxis -> jak_and_daxter
+?vodyanitsa_(bard)_(genshin_impact) -> genshin_impact
