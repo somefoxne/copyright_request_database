@@ -2542,3 +2542,4 @@
 ?azusawa_kohane -> project_sekai vocaloid zozotown flyer_(vocaloid) beat_eater_(vocaloid) kowareta_sekai_to_utaenai_miku akuma_no_odorikata_(vocaloid) ayakashi_yokochou_no_natsuyasumi traffic_jam_(vocaloid) teikoku_shoujo_(vocaloid)
 ?shinonome_akito -> project_sekai vocaloid zozotown sanrio akuma_no_odorikata_(vocaloid) ensemble_stars! salamander_(vocaloid) traffic_jam_(vocaloid) beat_eater_(vocaloid) booo!_(vocaloid)
 ?shiraishi_an -> project_sekai vocaloid zozotown akuma_no_odorikata_(vocaloid) beat_eater_(vocaloid) teikoku_shoujo_(vocaloid) sanrio bang_dream! fuwa_fuwa_cinnamoroll kowareta_sekai_to_utaenai_miku
+?lovrina_(pokemon) -> pokemon pokemon_xd blue_archive pokemon_sword_and_shield pokemon_scarlet_and_violet pokemon_(anime) pokemon_black_and_white pokemon_diamond/pearl/platinum pokemon_omega_ruby_and_alpha_sapphire pokemon_firered_and_leafgreen
