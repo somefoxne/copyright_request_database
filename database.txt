@@ -3120,3 +3120,4 @@
 ?meursault_(project_moon) -> project_moon limbus_company lobotomy_corporation library_of_ruina the_stranger_(camus) arknights the_distortion_detective pokemon mili_(band) karaoke_manekineko
 ?kishinami_(kancolle) -> kantai_collection fate_(series) real_life comiket_100 fate/grand_order girls_und_panzer bocchi_the_rock! taimanin_(series) lawson original
 ?blackbird_(unfazed_denim)_(nte) -> neverness_to_everness
+?male_esper_zero_(nte) -> neverness_to_everness tokyo_game_show
