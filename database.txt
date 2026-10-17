@@ -1654,3 +1654,4 @@
 ?dusclops -> pokemon pokemon_ruby/sapphire/emerald pokemon_omega_ruby_and_alpha_sapphire pokemon_diamond/pearl/platinum pokemon_(anime) pokemon_black_and_white pokemon_heartgold_and_soulsilver pokemon_firered_and_leafgreen pokemon_adventures pokemon_emerald
 ?mutsuki_(dress)_(blue_archive) -> blue_archive pokemon the_seven-year_itch phase_connect seitokai_ni_mo_ana_wa_aru! gundam utdr_(toby_fox) kill_la_kill kirby_(series) undertale
 ?komiya_kaho -> idolmaster idolmaster_shiny_colors idolmaster_cinderella_girls idolmaster_million_live! idolmaster_shiny_colors_song_for_prism idolmaster_starlit_season gakuen_idolmaster pokemon idolmaster_side-m love_live!
+?archetype_earth -> tsukihime fate_(series) fate/grand_order tsukihime_(remake) melty_blood type-moon fate/stay_night kagetsu_tooya melty_blood:_type_lumina kara_no_kyoukai
