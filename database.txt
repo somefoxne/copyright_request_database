@@ -1762,3 +1762,4 @@
 ?shimakaze_(kancolle) -> kantai_collection original idolmaster touhou fate_(series) umamusume fate/grand_order vocaloid blue_archive pokemon
 ?yahata_umiri -> bang_dream! arknights bang_dream!_girls_band_party! killkiss_(bang_dream!) real_life girls_band_cry bang_dream!_our_notes lawson ganso!_bang_dream_chan
 ?runami_yachiyo_(tsukuyomi) -> cho_kaguya-hime! vocaloid watashi_ga_koibito_ni_nareru_wake_naijan_murimuri! sweets_paradise the_weaker_sex_1_(gibson) the_first_take bocchi_the_rock! sousou_no_frieren kyu-kurarin_(cevio) blue_archive
+?juniper_actias -> indie_virtual_youtuber original nier_(series) nier:automata hololive genshin_impact hololive_english real_life vshojo gamer_supps
