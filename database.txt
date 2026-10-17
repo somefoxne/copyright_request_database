@@ -2440,3 +2440,4 @@
 ?hecatia_lapislazuli -> touhou legacy_of_lunatic_kingdom touhou_(pc-98) touhou_lostword cookie_(touhou) touhou_sangetsusei dragon_ball akatsuki_records pokemon touhou_bougetsushou
 ?junko_(touhou) -> touhou legacy_of_lunatic_kingdom touhou_(pc-98) touhou_lostword pokemon ten_desires undefined_fantastic_object hidden_star_in_four_seasons perfect_cherry_blossom mountain_of_faith
 ?reisen_udongein_inaba -> touhou cookie_(touhou) imperishable_night touhou_(pc-98) touhou_lostword touhou_tag_dream legacy_of_lunatic_kingdom reitaisai pokemon jojo_no_kimyou_na_bouken
+?ringo_(touhou) -> touhou legacy_of_lunatic_kingdom touhou_(pc-98) touhou_lostword touhou_cannonball ten_desires double_dealing_character imperishable_night japanese_urban_legends touhou_bougetsushou
