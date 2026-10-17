@@ -3976,3 +3976,4 @@
 ?jude_mathis -> tales_of_(series) tales_of_xillia tales_of_xillia_2 tales_of_asteria tales_of_the_rays tales_of_vesperia tales_of_the_abyss tales_of_symphonia tales_of_graces tales_of_destiny
 ?jude_mathis_(swimsuit) -> tales_of_(series) tales_of_xillia tales_of_asteria tales_of_the_rays
 ?sans_(undertale) -> utdr_(toby_fox) undertale deltarune xtale touhou hololive pokemon dusttale mario_(series) super_smash_bros.
+?testarossa_(tensura) -> tensei_shitara_slime_datta_ken
