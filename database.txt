@@ -4277,3 +4277,4 @@
 ?shirogane_takeru -> muv-luv muv-luv_alternative muv-luv_alternative_(anime) muv-luv_unlimited:_the_day_after muv-luv_altered_fable muv-luv_girls_garden muv-luv:_dimensions fate_(series) mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime)
 ?type-00c_(muv-luv) -> muv-luv muv-luv_alternative muv-luv_unlimited:_the_day_after original alice_gear_aegis frame_arms_girl valgern-on
 ?type_00_takemikazuchi -> muv-luv muv-luv_alternative muv-luv_total_eclipse muv-luv_alternative_(anime) muv-luv_unlimited:_the_day_after original alice_gear_aegis frame_arms_girl touhou indie_virtual_youtuber
+?flayn_(fire_emblem) -> fire_emblem fire_emblem:_three_houses fire_emblem_heroes fire_emblem_fates fire_emblem_warriors:_three_hopes fire_emblem_awakening fire_emblem_engage fire_emblem:_path_of_radiance fire_emblem:_mystery_of_the_emblem fire_emblem:_the_binding_blade
