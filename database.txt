@@ -4096,3 +4096,4 @@
 ?kamen_rider_zero-one_(metalcluster_hopper) -> kamen_rider kamen_rider_01_(series) kamen_rider_saber_(series) kamen_rider_zero-one:_real_time pokemon super_robot_wars battle_spirits kamen_rider_build_(series) kamen_rider_battle kamen_rider_battle:_ganba_legends
 ?kamen_rider_zero-one_(rising_hopper) -> kamen_rider kamen_rider_01_(series) kamen_rider_zi-o_(series) kamen_rider_saber_(series) kamen_rider_revice_(series) kamen_rider_kuuga_(series) kamen_rider_ex-aid_(series) kamen_rider_den-o_(series) kamen_rider_dcd kamen_rider_geats_(series)
 ?kamen_rider_zero-one_(shining_assault_hopper) -> kamen_rider kamen_rider_01_(series) super_robot_wars zenonzard kamen_rider:_reiwa_the_first_generation kamen_rider_zero-one:_real_time
+?kamen_rider_zero-one_(shining_hopper) -> kamen_rider kamen_rider_01_(series) battle_spirits original super_robot_wars kamen_rider:_reiwa_the_first_generation kamen_rider_zero-one:_real_time
