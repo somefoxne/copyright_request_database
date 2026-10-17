@@ -3739,3 +3739,4 @@
 ?venom_(marvel) -> marvel spider-man_(series) marvel_rivals x-men venom_(2018) fantastic_four spider-verse avengers_(series) the_incredible_hulk_(series)
 ?yamakaze_(kancolle) -> kantai_collection azur_lane umamusume dragon_quest lawson bunny_garden choo_choo_train pokemon girls_und_panzer kamen_rider
 ?niitsu_kurumi -> assault_lily
+?sadamori_himeka -> assault_lily jojo_no_kimyou_na_bouken vento_aureo yuusha_de_aru yuuki_yuuna_wa_yuusha_de_aru momotarou
