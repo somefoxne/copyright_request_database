@@ -3431,3 +3431,4 @@
 ?yamato_(kancolle) -> kantai_collection kantai_collection_(anime) uchuu_senkan_yamato lawson uchuu_senkan_yamato_2199 touhou umamusume original aoki_hagane_no_arpeggio gundam
 ?gomamon -> digimon digimon_adventure digimon_story:_time_stranger digimon_adventure_02 digimon_adventure_tri. digimon_card_game digimon_frontier pokemon digimon_tamers digimon_xros_wars
 ?st._louis_(azur_lane) -> azur_lane hololive original lucky_star honkai_(series) fate_(series) fate/grand_order idolmaster kantai_collection idolmaster_cinderella_girls
+?st._louis_(luxurious_wheels)_(azur_lane) -> azur_lane hololive original lucky_star honkai_(series) fate_(series) fate/grand_order idolmaster honkai:_star_rail idolmaster_cinderella_girls
