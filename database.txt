@@ -3901,3 +3901,4 @@
 ?koga_mitsuki -> kininatteru_hito_ga_otoko_ja_nakatta nirvana_(band) alien_stage gorillaz mahou_shoujo_madoka_magica sanrio pink_floyd radiohead_(band) in_utero_(album) hololive
 ?sabrina_(pokemon) -> pokemon pokemon_firered_and_leafgreen pokemon_heartgold_and_soulsilver pokemon_red/green/blue/yellow pokemon_black_2_and_white_2 pokemon_adventures pokemon_(anime) pokemon_masters_ex pokemon_(classic_anime)
 ?saotome_ranma -> ranma_1/2 urusei_yatsura inuyasha ranma_1/2_kessen_tougenkyou!_hanayome_wo_torimodose! pokemon kyoukai_no_rinne dragon_ball meitantei_conan maison_ikkoku neon_genesis_evangelion
+?saotome_ranma_(female) -> ranma_1/2 ranma_1/2_kessen_tougenkyou!_hanayome_wo_torimodose! urusei_yatsura inuyasha pokemon neon_genesis_evangelion maison_ikkoku kyoukai_no_rinne dragon_ball bishoujo_senshi_sailor_moon
