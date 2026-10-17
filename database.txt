@@ -2586,3 +2586,4 @@
 ?asuna_(bunny)_(blue_archive) -> blue_archive original azur_lane rabbit_hole_(vocaloid) comiket_103 fate_(series) arknights kantai_collection nijisanji sono_bisque_doll_wa_koi_wo_suru
 ?aoyama_blue_mountain -> gochuumon_wa_usagi_desu_ka? kantai_collection gochuumon_wa_usagi_desu_ka??_wonderful_party! daydream_show girls_und_panzer to_love-ru megami_magazine utawarerumono_(series) utawarerumono:_itsuwari_no_kamen manga_time_kirara
 ?hoto_cocoa -> gochuumon_wa_usagi_desu_ka? gochuumon_wa_usagi_desu_ka??_wonderful_party! manga_time_kirara clockwork_rabbit kin-iro_mosaic kantai_collection megami_magazine kirara_fantasia daydream_show idolmaster
+?jouga_maya -> gochuumon_wa_usagi_desu_ka? chimame_chronicle gochuumon_wa_usagi_desu_ka??_wonderful_party! daydream_show clockwork_rabbit megami_magazine manga_time_kirara kantai_collection love_live! love_live!_school_idol_project
