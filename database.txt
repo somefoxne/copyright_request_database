@@ -4108,3 +4108,4 @@
 ?thomas_sankara -> real_life
 ?bibi_biscuit -> phase_connect
 ?aha_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail genshin_impact honkai_impact_3rd bleach mihoyo backrooms_(creepypasta) tom_and_jerry
+?akivili_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail blade_runner_(series) blade_runner_2049 backrooms_(creepypasta)
