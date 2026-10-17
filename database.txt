@@ -3664,3 +3664,4 @@
 ?yuna_(haishiki) -> original inemuri_hitsuji
 ?miyadeguchi_mizuchi -> touhou foul_detective_satori touhou_(pc-98) forbidden_scrollery dolls_in_pseudo_paradise lotus_eaters story_of_eastern_wonderland wild_and_horned_hermit touhou_sangetsusei touhou_lostword
 ?brazilian_miku -> vocaloid world_cup 2026_fifa_world_cup hololive utau hololive_english the_ring original sonic_(series) indie_virtual_youtuber
+?merlin_prismriver -> touhou perfect_cherry_blossom touhou_(pc-98) phantasmagoria_of_flower_view embodiment_of_scarlet_devil imperishable_night mountain_of_faith touhou_lostword immaterial_and_missing_power undefined_fantastic_object
