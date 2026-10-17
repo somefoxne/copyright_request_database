@@ -3218,3 +3218,4 @@
 ?inkay -> pokemon pokemon_(anime) pokemon_x_and_y pokemon_the_series:_xy pokemon_sword_and_shield pokemon_(classic_anime) pokemon_legends:_z-a pokemon_the_series:_sun_&_moon splatoon_(series) pokemon_the_series:_ruby_and_sapphire
 ?klefki -> pokemon pokemon_x_and_y pokemon_sun_and_moon pokemon_legends:_z-a pokemon_masters_ex pokemon_scarlet_and_violet pokemon_(anime) original touhou pokemon_sword_and_shield
 ?litleo -> pokemon pokemon_legends:_z-a pokemon_x_and_y pokemon_tcg pokemon_(anime) pokemon_the_series:_xy pokemon_scarlet_and_violet pokemon_the_movie:_volcanion_and_the_mechanical_marvel pokemon_diamond/pearl/platinum pokemon_journeys
+?meowstic -> pokemon pokemon_x_and_y pokemon_legends:_z-a pokemon_black_and_white pokemon_(anime) pokemon_diamond/pearl/platinum pokemon_the_series:_xy pokemon_sun_and_moon pokemon_black_2_and_white_2 pokemon_ruby/sapphire/emerald
