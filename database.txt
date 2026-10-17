@@ -3242,3 +3242,4 @@
 ?melusoy_(ebora) -> fate_(series) fate/grand_order mahou_tsukai_no_yoru umamusume arknights yu-gi-oh! fate/kaleid_liner_prisma_illya yu-gi-oh!_gx mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime)
 ?tamamo_aria_(fate) -> fate_(series) fate/samurai_remnant fate/grand_order fate/extra fate/extra_ccc blue_archive original final_fantasy final_fantasy_vii fate/kaleid_liner_prisma_illya
 ?minamizaki_minato -> shine_post
+?yakushiin_asuka -> shine_post
