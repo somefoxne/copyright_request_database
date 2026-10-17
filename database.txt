@@ -1103,3 +1103,4 @@
 ?curren_chan_(umamusume) -> umamusume umamusume:_road_to_the_top original pacific_racing_team real_life pokemon umamusume:_beginning_of_a_new_era kantai_collection umamusume:_cinderella_gray instagram
 ?draco_malfoy -> wizarding_world harry_potter_(series) harry_potter_and_the_cursed_child harry_potter_and_the_deathly_hallows original harry_potter_and_the_goblet_of_fire harry_potter_and_the_half-blood_prince mario_(series) harry_potter_and_the_chamber_of_secrets
 ?gregory_goyle -> wizarding_world harry_potter_(series) harry_potter_and_the_goblet_of_fire harry_potter_and_the_prisoner_of_azkaban konjiki_no_gash!! harry_potter:_magic_awakened
+?pansy_parkinson -> wizarding_world harry_potter_(series) harry_potter_and_the_goblet_of_fire harry_potter_and_the_prisoner_of_azkaban
