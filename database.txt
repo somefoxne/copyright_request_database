@@ -1881,3 +1881,4 @@
 ?till_(alien_stage) -> alien_stage zombie_stage ipstar cure_(alien_stage) genshin_impact blink_gone_(alien_stage) neon_genesis_evangelion unknown_till_the_end rebuild_of_evangelion evangelion:_3.0_you_can_(not)_redo
 ?koto_mitsuha -> filter-goshi_no_kanojo
 ?irys_(race_queenrys)_(hololive) -> hololive hololive_english carbonated_love_(hololive) pokemon initial_d
+?vertin_(reverse:1999) -> reverse:1999 ipstar atomic_heart project_moon limbus_company original umamusume
