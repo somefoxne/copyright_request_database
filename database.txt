@@ -3793,3 +3793,4 @@
 ?hawks_(boku_no_hero_academia) -> boku_no_hero_academia jujutsu_kaisen haikyuu!! pokemon shounen_jump fate_(series) one_piece marvel instagram original
 ?batgirl -> dc_comics batman_(series) superman_(series) dc:_dark_legion batgirls marvel dc_animated_universe teen_titans batman:_the_animated_series birds_of_prey
 ?lady_shiva -> dc_comics batman_(series) birds_of_prey batman_returns parahumans reply_of_the_zaporozhian_cossacks
+?cure_mystique -> precure meitantei_precure! kamen_rider toei_company kimi_to_idol_precure wonderful_precure! pokemon smile_precure! meitantei_conan dokidoki!_precure
