@@ -1812,3 +1812,4 @@
 ?lindverne_sunbringer -> zenless_zone_zero umamusume honkai_(series) honkai_impact_3rd jujutsu_kaisen
 ?dynamo_(deadlock) -> deadlock_(game)
 ?eagle_(reverse:1999) -> reverse:1999 lawson the_shining
+?silverwing_eagle -> reverse:1999
