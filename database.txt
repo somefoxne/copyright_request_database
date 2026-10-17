@@ -2974,3 +2974,4 @@
 ?nikaidou_tadashi -> devil_survivor_(series) devil_survivor_1 megami_tensei shin_megami_tensei durarara!! atlus
 ?deepseek-tan -> deepseek hearts_of_iron the_fire_rises chatgpt communist_party_of_china original ore_no_imouto_ga_konna_ni_kawaii_wake_ga_nai anthropic
 ?trey_clover -> twisted_wonderland pokemon disney_tsum-tsum final_fantasy final_fantasy_xiv ensemble_stars! disney the_little_mermaid_(disney) aladdin_(movie) snow_white_and_the_seven_dwarfs_(disney)
+?otsana_(varniskarnis) -> original
