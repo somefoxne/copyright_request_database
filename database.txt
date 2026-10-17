@@ -4102,3 +4102,4 @@
 ?simon_henriksson -> cry_of_fear afraid_of_monsters pyromaniac my_little_pony my_little_pony:_friendship_is_magic prototype_(game) sanrio hello_kitty postal_(game) vocaloid
 ?simon_henriksson_(book) -> cry_of_fear afraid_of_monsters my_little_pony my_little_pony:_friendship_is_magic pyromaniac bocchi_the_rock! sanrio microsoft_windows silent_hill_(series) hello_kitty
 ?atuarto_(tongari_boushi_no_atelier) -> tongari_boushi_no_atelier
+?galga_(tongari_boushi_no_atelier) -> tongari_boushi_no_atelier
