@@ -1321,3 +1321,4 @@
 ?araragi_tsukihi -> monogatari_(series) nisemonogatari bakemonogatari nekomonogatari orokamonogatari tsukimonogatari platinum_disco_(song) monogatari_series_puc_puc otorimonogatari touhou
 ?shinomiya_shizuku -> bang_dream! bang_dream!_our_notes bang_dream!_yumemita gundam jojo_no_kimyou_na_bouken bang_dream!_girls_band_party! steel_ball_run make_heroine_ga_oo_sugiru! gundam_wing
 ?shiva_(bare_knuckle) -> streets_of_rage idolmaster idolmaster_cinderella_girls bang_dream! monogatari_(series) idolmaster_cinderella_girls_starlight_stage bang_dream!_our_notes streets_of_rage_4 streets_of_rage_3
+?yakura_yomogi -> bang_dream! bang_dream!_our_notes love_live! love_live!_hasu_no_sora_jogakuin_school_idol_club bang_dream!_yumemita bocchi_the_rock! gundam jojo_no_kimyou_na_bouken chainsaw_man
