@@ -2870,3 +2870,4 @@
 ?touma_yumi -> girls_und_panzer darkstalkers girls_und_panzer_senshadou_daisakusen! record_of_lodoss_war girls_und_panzer_saishuushou
 ?uva_(girls_und_panzer) -> girls_und_panzer girls_und_panzer_saishuushou
 ?kafuu_saki -> gochuumon_wa_usagi_desu_ka? megami_magazine manga_time_kirara
+?mate_rin -> gochuumon_wa_usagi_desu_ka? to_love-ru megami_magazine manga_time_kirara
