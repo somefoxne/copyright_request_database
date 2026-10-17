@@ -2556,3 +2556,4 @@
 ?yorigami_jo'on -> touhou sunken_fossil_world antinomy_of_common_flowers touhou_lostword touhou_(pc-98) hidden_star_in_four_seasons touhou_danmaku_kagura curiosities_of_lotus_asia urban_legend_in_limbo hopeless_masquerade
 ?bayle_the_dread -> elden_ring elden_ring:_shadow_of_the_erdtree bloodborne godzilla_(series) shin_godzilla
 ?jade_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail mihoyo fate_(series) genshin_impact fate/stay_night fate/unlimited_blade_works fire_emblem zenless_zone_zero honkai_impact_3rd
+?ichijou_ayaka -> alice_gear_aegis gundam kantai_collection comiket_94 blue_archive idolmaster idolmaster_cinderella_girls gundam_suisei_no_majo gundam_wing frame_arms_girl
