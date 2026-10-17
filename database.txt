@@ -1054,3 +1054,4 @@
 ?pyukumuku -> pokemon pokemon_sun_and_moon pokemon_(anime) pokemon_sword_and_shield pokemon_the_series:_sun_&_moon pokemon_ultra_sun_and_ultra_moon pokemon_journeys plum_no_bouken_note love_live! love_live!_school_idol_project
 ?hishi_miracle_(umamusume) -> umamusume original umamusume:_cinderella_gray real_life pokemon pakatube jojo_no_kimyou_na_bouken umayuru gundam bishoujo_senshi_sailor_moon
 ?tailmon -> digimon digimon_adventure digimon_adventure_02 pokemon digimon_adventure_tri. digimon_card_game digimon_tamers digimon_story:_time_stranger digimon_xros_wars digimon_adventure:_(2020)
+?yagami_hikari -> digimon digimon_adventure digimon_adventure_02 digimon_adventure_tri. digimon_tamers digimon_frontier digimon_adventure:_(2020) digimon_xros_wars digimon_savers pokemon
