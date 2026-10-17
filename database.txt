@@ -3323,3 +3323,4 @@
 ?shiina_yuika -> nijisanji hololive nijisanji_koshien nijisanji_en pokemon nijisanji_kr indie_virtual_youtuber bans mito_and_kaede sana_channel
 ?shiina_yuika_(1st_costume) -> nijisanji hololive nijisanji_koshien pokemon indie_virtual_youtuber nijisanji_en nanashi_inc. youtube real_life minecraft
 ?sirius_(brawl_stars) -> brawl_stars original
+?minetsuki_ritsu_(real) -> bang_dream! bang_dream!_yumemita bang_dream!_our_notes kamen_rider kamen_rider_zeztz_(series) pokemon jojo_no_kimyou_na_bouken hunter_x_hunter megami_magazine
