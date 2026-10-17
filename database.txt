@@ -3002,3 +3002,4 @@
 ?kagura_(girls_garden) -> muv-luv muv-luv_girls_garden idolmaster love_live! love_live!_school_idol_project gakuen_idolmaster muv-luv_alternative
 ?naganami_(kancolle) -> kantai_collection taimanin_(series) fate_(series) fate/grand_order real_life hokkaido_nippon-ham_fighters umamusume gundam urusei_yatsura
 ?evie_(path_to_nowhere) -> path_to_nowhere
+?yvette_(strinova) -> strinova
