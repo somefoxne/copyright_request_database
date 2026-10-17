@@ -3732,3 +3732,4 @@
 ?isaac_(the_binding_of_isaac) -> the_binding_of_isaac cave_story super_meat_boy dragon_ball utdr_(toby_fox) minecraft gish_(game) final_fantasy undertale among_us
 ?toga_himiko -> boku_no_hero_academia chainsaw_man dc_comics cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 marvel yofukashi_no_uta pokemon sousou_no_frieren
 ?fat_gum_(boku_no_hero_academia) -> boku_no_hero_academia one_piece tonari_no_totoro trigun trigun_stampede nokabe pokemon chainsaw_man pokemon_scarlet_and_violet mario_(series)
+?needle_knight_leda -> elden_ring elden_ring:_shadow_of_the_erdtree fate_(series) original pokemon fate/stay_night street_fighter mega_man_(series) the_king_of_fighters dc_comics
