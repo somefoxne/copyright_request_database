@@ -3019,3 +3019,4 @@
 ?aozaki_aoko -> mahou_tsukai_no_yoru tsukihime fate_(series) fate/grand_order melty_blood type-moon fate/stay_night kara_no_kyoukai tsukihime_(remake) melty_blood:_type_lumina
 ?delta_(kagejitsu) -> kage_no_jitsuryokusha_ni_naritakute! kage_no_jitsuryokusha_ni_naritakute!_master_of_garden tensei_shitara_slime_datta_ken dolphin_wave original minecraft newtype genshin_impact arknights honkai_(series)
 ?seeu -> vocaloid voiceroid utau vsinger_(vocaloid) serenade_universe niconico cheon_nyeon-ui_si_(vocaloid) koi_wa_sensou_(vocaloid) black_rock_shooter zola_project
+?baba_(deadlock) -> deadlock_(game) vocaloid
