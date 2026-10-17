@@ -4086,3 +4086,4 @@
 ?izumi_yuki_(fleur_enchante) -> heaven_burns_red
 ?spice_(fortnite) -> fortnite touhou fate_(series) fate/grand_order guilty_gear
 ?kashimiya_karua -> the_hundred_line_-last_defense_academy- danganronpa_(series) danganronpa_2:_goodbye_despair pokemon fire_emblem final_fantasy yu-gi-oh! neon_genesis_evangelion final_fantasy_xiv fire_emblem:_three_houses
+?signora_(genshin_impact) -> genshin_impact original honkai_(series) mihoyo honkai_impact_3rd mega_man_(series) resident_evil path_to_nowhere mega_man_zero_(series) resident_evil_village
