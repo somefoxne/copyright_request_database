@@ -3594,3 +3594,4 @@
 ?milk-chan_(milk_series) -> milk_inside_a_bag_of_milk_inside_a_bag_of_milk serial_experiments_lain yume_nikki omori off_(game) z.a.t.o._//_i_love_the_world_and_everything_in_it neon_genesis_evangelion utdr_(toby_fox) deltarune needy_girl_overdose
 ?fujimaru_ritsuka_(female)_(tropical_summer) -> fate_(series) fate/grand_order fate/extra koha-ace fate/zero fate/extra_ccc fate/apocrypha fate/kaleid_liner_prisma_illya fate/hollow_ataraxia fate/extella
 ?lady_avalon_(fate) -> fate_(series) fate/grand_order fate/prototype fate/grand_order_arcade fire_emblem fate/kaleid_liner_prisma_illya fire_emblem:_radiant_dawn fire_emblem:_path_of_radiance kimi_no_koto_ga_dai_dai_dai_dai_daisuki_na_100-nin_no_kanojo comiket_103
+?lady_avalon_(second_ascension)_(fate) -> fate_(series) fate/grand_order fate/prototype fire_emblem fire_emblem:_radiant_dawn fire_emblem:_path_of_radiance fate/grand_order_arcade spy_x_family code_geass fate/kaleid_liner_prisma_illya
