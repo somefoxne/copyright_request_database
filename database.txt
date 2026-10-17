@@ -3913,3 +3913,4 @@
 ?kazama_genba -> nige_jouzu_no_wakagimi pokemon fate_(series) fate/grand_order mahou_shoujo_madoka_magica cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 kusuriya_no_hitorigoto gosick
 ?nezu_kojirou -> nige_jouzu_no_wakagimi cardcaptor_sakura onii-chan_wa_oshimai!
 ?chuno_churam -> chu_x_chu_idol chu_x_chu_idol_2 chu_x_chu!_on_the_move prismatic_princess_union_stars
+?oc_(atj7359) -> original dungeon_and_fighter
