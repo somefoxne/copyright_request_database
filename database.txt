@@ -1389,3 +1389,4 @@
 ?yang_nari -> nijisanji nijisanji_kr nijisanji_en nijisanji_koshien nijisanji_id jikkyou_powerful_pro_yakyuu vspo! virtuareal nijisanji_gta pokemon
 ?yang_nari_(3rd_costume) -> nijisanji nijisanji_kr nijisanji_en vspo! nijisanji_id neo-porte
 ?asami_sato -> avatar_legends the_legend_of_korra avatar:_the_last_airbender she-ra_and_the_princesses_of_power league_of_legends dc_comics adventure_time the_owl_house rwby arcane:_league_of_legends
+?riza_hawkeye -> fullmetal_alchemist fullmetal_alchemist_mobile fullmetal_alchemist_(2003) fate_(series) fate/stay_night neon_genesis_evangelion fate/zero gintama konjiki_no_gash!! fullmetal_alchemist_the_movie:_conqueror_of_shamballa
