@@ -2462,3 +2462,4 @@
 ?mini_durin_(genshin_impact) -> genshin_impact zenless_zone_zero mihoyo eve_(musician) original honkai_(series) honkai:_star_rail chainsaw_man wizarding_world harry_potter_(series)
 ?scaramouche_(harbinger)_(genshin_impact) -> genshin_impact original honkai_(series) gundam honkai:_star_rail mihoyo gundam_unicorn yoasobi honkai_impact_3rd neon_genesis_evangelion
 ?geto_suguru -> jujutsu_kaisen blue_archive chainsaw_man sanrio one_piece studio_mappa kimetsu_no_yaiba spy_x_family umamusume gundam
+?geto_suguru_(kenjaku) -> jujutsu_kaisen blue_archive chainsaw_man marvel jojo_no_kimyou_na_bouken the_legend_of_zelda sonic_(series) tengen_toppa_gurren_lagann fullmetal_alchemist berserk
