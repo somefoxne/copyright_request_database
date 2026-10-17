@@ -3552,3 +3552,4 @@
 ?node_(black_souls) -> black_souls black_souls_2 touhou helltaker arknights project_moon yu-gi-oh! limbus_company toaru_majutsu_no_index arknights:_endfield
 ?lon'qu_(fire_emblem) -> fire_emblem fire_emblem_awakening fire_emblem_heroes fire_emblem:_mystery_of_the_emblem fire_emblem_fates fire_emblem:_path_of_radiance fire_emblem:_the_blazing_blade fire_emblem:_genealogy_of_the_holy_war fire_emblem:_radiant_dawn fire_emblem:_the_sacred_stones
 ?bb_(fate) -> fate_(series) fate/grand_order fate/extra fate/extra_ccc fate/stay_night fate/kaleid_liner_prisma_illya fate/extra_ccc_fox_tail hololive original hololive_english
+?bb_(swimsuit_mooncancer)_(second_ascension)_(fate) -> fate_(series) fate/grand_order fate/extra fate/extra_ccc original fate/stay_night pokemon hololive fate/kaleid_liner_prisma_illya world_witches_series
