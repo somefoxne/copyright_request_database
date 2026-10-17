@@ -1756,3 +1756,4 @@
 ?nishi_kaoruko -> yani_neko umamusume original jujutsu_kaisen dc_comics batman_(series) kaoru_hana_wa_rin_to_saku joker_(2019) nyanyanyanyanyanyanya!_(vocaloid) ushiro_no_shoumen_kamui-san
 ?hanabatake_chaika -> nijisanji nijisanji_koshien nijisanji_en nijisanji_kr pokemon nijisanji_id jojo_no_kimyou_na_bouken pokemon_scarlet_and_violet bans hololive
 ?joe_rikiichi -> nijisanji nijisanji_en indie_virtual_youtuber nijisanji_kr bans nijisanji_koshien nijisanji_id hololive tengen_toppa_gurren_lagann nanashi_inc.
+?maimoto_keisuke -> nijisanji nijisanji_koshien indie_virtual_youtuber hololive bans nijisanji_en nijisanji_kr nijisanji_id gamecenter_cx noripro
