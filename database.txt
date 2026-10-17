@@ -3616,3 +3616,4 @@
 ?cerydra_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail genshin_impact mihoyo honkai_impact_3rd zenless_zone_zero bang_dream! original alien_stage
 ?warsman -> kinnikuman touhou kemono_friends girls_und_panzer rozen_maiden aibou_(tv_series) mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) jojo_no_kimyou_na_bouken kinnikuman_nisei
 ?martina_(dq11) -> dragon_quest dragon_quest_xi dragon_quest_viii dragon_quest_iii dragon_quest_iv dragon_quest_v dragon_quest_ii dragon_quest_vi dragon_quest_x dragon_quest_ix
+?sniper_(tf2) -> team_fortress_2 touhou zenless_zone_zero blue_archive hololive hololive_english meet_the_team pokemon higurashi_no_naku_koro_ni original
