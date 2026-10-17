@@ -1908,3 +1908,4 @@
 ?rim_(trickcal) -> trickcal umamusume backrooms_(creepypasta) meccha_chameleon idolmaster gakuen_idolmaster
 ?marcus_(reverse:1999) -> reverse:1999 original pokemon arknights bang_dream! mahou_shoujo_no_majo_saiban pretty_series lycoris_recoil
 ?ms._stranger_(reverse:1999) -> reverse:1999 the_elder_scrolls otome_kaibou_(vocaloid)
+?elysia_(miss_pink)_(honkai_impact) -> honkai_(series) honkai_impact_3rd honkai:_star_rail mihoyo genshin_impact zenless_zone_zero bocchi_the_rock! original pokemon
