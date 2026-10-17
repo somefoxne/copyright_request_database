@@ -2799,3 +2799,4 @@
 ?desscaras -> madan_no_ichi pokemon one_piece jojo_no_kimyou_na_bouken stardust_crusaders kagurabachi mairimashita!_iruma-kun shounen_jump sankyuu_pitch
 ?mus1ca_(vtuber) -> indie_virtual_youtuber
 ?futatsuiwa_mamizou -> touhou ten_desires touhou_(pc-98) urban_legend_in_limbo forbidden_scrollery hopeless_masquerade undefined_fantastic_object wild_and_horned_hermit embodiment_of_scarlet_devil imperishable_night
+?houjuu_nue -> touhou undefined_fantastic_object touhou_(pc-98) reitaisai ten_desires pokemon touhou_lostword embodiment_of_scarlet_devil perfect_cherry_blossom reitaisai_8_contest
