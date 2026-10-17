@@ -1447,3 +1447,4 @@
 ?ninomae_ina'nis -> hololive hololive_english hololive_indonesia minecraft monster_hunter_(series) pokemon hololive_dev_is
 ?takodachi_(ninomae_ina'nis) -> hololive hololive_english hololive_indonesia pokemon minecraft monster_hunter_(series) vocaloid indie_virtual_youtuber
 ?kuramoto_china -> idolmaster gakuen_idolmaster michinaru_hirogaru_(idolmaster) kimi_to_semi_blue_(idolmaster) wonder_scale_(idolmaster) hajime_(idolmaster) hibi_hakkenteki_step!_(idolmaster) idolmaster_cinderella_girls koukei_(idolmaster) pokemon
+?the_tower_(pop'n_music) -> bemani
