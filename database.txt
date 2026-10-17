@@ -1188,3 +1188,4 @@
 ?viridi -> kid_icarus kid_icarus_uprising super_smash_bros. fire_emblem kirby_(series) fire_emblem:_three_houses pokemon mario_(series) the_legend_of_zelda metroid
 ?ashelin_praxis -> jak_and_daxter
 ?vodyanitsa_(bard)_(genshin_impact) -> genshin_impact
+?vodyanitsa_(genshin_impact) -> genshin_impact honkai_(series) mihoyo honkai:_star_rail chiikawa arknights vocaloid zenless_zone_zero sanrio frozen_(disney)
