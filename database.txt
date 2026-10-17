@@ -3175,3 +3175,4 @@
 ?privaty_(unkind_maid)_(nikke) -> goddess_of_victory:_nikke blue_archive vocaloid comiket_104 re:zero_kara_hajimeru_isekai_seikatsu minecraft among_us spongebob_squarepants_(series) ashita_no_joe lemon_melon_cookie_(vocaloid)
 ?trony_(nikke) -> goddess_of_victory:_nikke comiket_108 comiket_107 doom_(series) breaking_bad blue_archive neon_genesis_evangelion metal_gear_(series) zoids ace_combat
 ?trony_(sweet_step)_(nikke) -> goddess_of_victory:_nikke
+?ninomiya_(mahoiku) -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_restart
