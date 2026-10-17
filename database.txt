@@ -3831,3 +3831,4 @@
 ?dogaressa -> utdr_(toby_fox) undertale deltarune original touhou cookie_(touhou) chargeman_ken! roki_(vocaloid)
 ?doggo_(undertale) -> utdr_(toby_fox) undertale deltarune original chargeman_ken!
 ?greater_dog -> utdr_(toby_fox) undertale hololive pokemon deltarune dungeons_&_dragons jojo_no_kimyou_na_bouken chainsaw_man real_life spy_x_family
+?lesser_dog -> utdr_(toby_fox) undertale pokemon deltarune pokemon_sword_and_shield poptepipic steven_universe ookami_(game) original touhou
