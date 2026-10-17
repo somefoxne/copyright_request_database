@@ -3231,3 +3231,4 @@
 ?yveltal -> pokemon pokemon_x_and_y pokemon_(anime) pokemon_black_and_white pokemon_masters_ex pokemon_the_series:_xy pokemon_diamond/pearl/platinum pokemon_ruby/sapphire/emerald pokemon_the_movie:_diancie_and_the_cocoon_of_destruction pokemon_(classic_anime)
 ?mist_(rune_factory) -> rune_factory rune_factory_1 rune_factory_frontier kantai_collection world_witches_series strike_witches pretty_series pripara rune_factory_4 comiket_77
 ?igusa_subaru -> assault_lily pokemon real_life 22/7 don_quijote_(store)
+?unchained_ogre_shara -> yu-gi-oh!
