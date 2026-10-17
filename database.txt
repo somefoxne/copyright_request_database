@@ -3824,3 +3824,4 @@
 ?kuzuryuu_amane -> devil_survivor_(series) devil_survivor_1 megami_tensei persona persona_3 shin_megami_tensei persona_3_portable yozakura_quartet atlus final_fantasy
 ?lancer_(deltarune) -> utdr_(toby_fox) deltarune undertale touhou pokemon mario_(series) cuphead_(game) vocaloid final_fantasy ace_attorney
 ?luna_(kyokugen_dasshutsu) -> kyokugen_dasshutsu kyokugen_dasshutsu_adv:_zennin_shibou_desu zero_escape:_toki_no_dilemma kyokugen_dasshutsu:_9_jikan_9_nin_9_no_tobira danganronpa_(series) danganronpa_2:_goodbye_despair pokemon gundam persona persona_5
+?gregor_(project_moon) -> project_moon limbus_company library_of_ruina arknights lobotomy_corporation the_metamorphosis original chainsaw_man mili_(band) pokemon
