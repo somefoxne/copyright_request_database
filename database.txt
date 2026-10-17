@@ -2079,3 +2079,4 @@
 ?velvet_(sensual_rabbit)_(nikke) -> goddess_of_victory:_nikke hololive hololive_english zenless_zone_zero original indie_virtual_youtuber coca-cola james_bond_(series) for_your_eyes_only_(james_bond)
 ?higa_tsutsuji -> hibi_wa_sugiredo_meshi_umashi mono_(afro) blue_archive idolmaster arknights azur_lane precure granblue_fantasy gakuen_idolmaster princess_connect!
 ?kawai_mako -> hibi_wa_sugiredo_meshi_umashi megami_magazine mono_(afro) bocchi_the_rock! k-on! kobayashi-san_chi_no_maidragon yurucamp zombie_land_saga nichijou ruri_no_houseki
+?himemiya_rie -> phase_connect project_moon lobotomy_corporation limbus_company original zenless_zone_zero indie_virtual_youtuber sanrio hololive goddess_of_victory:_nikke
