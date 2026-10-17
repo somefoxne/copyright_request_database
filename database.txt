@@ -1867,3 +1867,4 @@
 ?houjou_lily -> filter-goshi_no_kanojo
 ?kagurazaka_minami -> filter-goshi_no_kanojo
 ?amagi_happiness_(umamusume) -> umamusume umamusume:_star_blossom
+?yoshino_prevail_(umamusume) -> umamusume umamusume:_star_blossom umamusume:_cinderella_gray midori_no_makibaoo
