@@ -2930,3 +2930,4 @@
 ?nakano_miku -> go-toubun_no_hanayome megami_magazine pokemon vocaloid comiket_98 azur_lane original kimetsu_no_yaiba fate_(series) comiket_96
 ?kagura_(azumanga_daioh) -> azumanga_daioh lucky_star yotsubato! suzumiya_haruhi_no_yuuutsu touhou gundam k-on! pokemon vocaloid tsukihime
 ?anis_(nikke) -> goddess_of_victory:_nikke nier_(series) nier:automata blue_archive comiket_103 neon_genesis_evangelion re:zero_kara_hajimeru_isekai_seikatsu lawson comiket_104 comiket_102
+?duskull -> pokemon pokemon_ruby/sapphire/emerald pokemon_x_and_y pokemon_diamond/pearl/platinum pokemon_sun_and_moon pokemon_omega_ruby_and_alpha_sapphire pokemon_heartgold_and_soulsilver pokemon_sword_and_shield pokemon_(anime) vocaloid
