@@ -4049,3 +4049,4 @@
 ?mako_(vuxer) -> original
 ?aiboo_(mint_fantome) -> indie_virtual_youtuber densetsu.exe vshojo metal_gear_(series) blue_archive pokemon hololive hololive_english vinesauce monitoring_(vocaloid)
 ?tenko_shibuki_(1st_costume) -> stellive mario_(series) monster_hunter_(series) minecraft monster_hunter_wilds
+?fu_hua -> honkai_(series) honkai_impact_3rd mihoyo genshin_impact honkai_gakuen honkai:_star_rail zenless_zone_zero comiket_106 comiket_107 fate_(series)
