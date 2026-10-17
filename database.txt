@@ -4148,3 +4148,4 @@
 ?kongming_(honor_of_kings) -> honor_of_kings
 ?gliscor -> pokemon pokemon_legends:_arceus pokemon_(anime) pokemon_scarlet_and_violet pokemon_the_series:_diamond_and_pearl pokemon_diamond/pearl/platinum pokemon_(classic_anime) pokemon_journeys pokemon_black_and_white pokemon_the_series:_sun_&_moon
 ?ashur_(trickcal) -> trickcal blue_archive utdr_(toby_fox) undertale psycho-pass aoa_(group)
+?mint_fantome_(summer) -> densetsu.exe indie_virtual_youtuber vinesauce nijisanji nijisanji_en 3am
