@@ -3872,3 +3872,4 @@
 ?biddy_blas -> star_wars star_wars:_galactic_racer
 ?hoshi_(kiana_mai) -> bishoujo_senshi_sailor_moon cardcaptor_sakura mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) tongari_boushi_no_atelier tokyo_mew_mew the_simpsons tokyo_mew_mew_new
 ?tomoe_hotaru -> bishoujo_senshi_sailor_moon bishoujo_senshi_sailor_moon_s bishoujo_senshi_sailor_moon_stars bishoujo_senshi_sailor_moon_r bishoujo_senshi_sailor_moon_supers sailor_moon_musical bishoujo_senshi_sailor_moon_crystal precure bishoujo_senshi_sailor_moon_(first_season) magic_knight_rayearth
+?nyarlathotep_(nyaruko-san) -> haiyore!_nyaruko-san kamen_rider cthulhu_mythos nyantype mahou_shoujo_madoka_magica touhou mahou_shoujo_madoka_magica_(anime) lucky_star megami_magazine working!!
