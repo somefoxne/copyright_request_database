@@ -1783,3 +1783,4 @@
 ?danica_(genshin_impact) -> genshin_impact zenless_zone_zero mihoyo moechakkafire
 ?majin_fina -> final_fantasy final_fantasy_brave_exvius final_fantasy_resonance war_of_the_visions:_final_fantasy_brave_exvius final_fantasy_vii final_fantasy_vi final_fantasy_ix final_fantasy_xiii final_fantasy_iii final_fantasy_xiv
 ?krumroll -> indie_virtual_youtuber original one-punch_man miside vinesauce stellarversepro
+?sleepiebug -> indie_virtual_youtuber pokemon
