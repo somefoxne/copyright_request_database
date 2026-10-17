@@ -3749,3 +3749,4 @@
 ?aris_(armed)_(blue_archive) -> blue_archive gundam gundam_seed armored_core comiket_108 armored_core_vi:_fires_of_rubicon jujutsu_kaisen zenless_zone_zero neon_genesis_evangelion rebuild_of_evangelion
 ?gquuuuuux -> gundam gundam_gquuuuuux mobile_suit_gundam sd_gundam i_can_friday_by_day! original zeta_gundam sunrise_(company) neon_genesis_evangelion gundam_card_game
 ?shauntal_(pokemon) -> pokemon pokemon_black_and_white pokemon_masters_ex pokemon_diamond/pearl/platinum pokemon_black_2_and_white_2 pokemon_heartgold_and_soulsilver pokemon_sun_and_moon pokemon_x_and_y pokemon_ruby/sapphire/emerald pokemon_omega_ruby_and_alpha_sapphire
+?amajiki_tamaki -> boku_no_hero_academia disney original dragon_ball marvel kimetsu_no_yaiba dc_comics dragon_ball_z sanrio animal_crossing
