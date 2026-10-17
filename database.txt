@@ -2300,3 +2300,4 @@
 ?kaga_nazuna -> vspo! digimon xross_stars indie_virtual_youtuber comiket_102 original nijisanji digimon_adventure crazy_raccoon vcr_gta
 ?kaga_nazuna_(8th_costume) -> vspo! sanrio zeta_division
 ?tsumugi_kokage -> vspo! league_of_legends vcr_gta street_fighter xross_stars pokemon hololive nijisanji precure real_life
+?tsumugi_kokage_(1st_costume) -> vspo! pokemon hololive nijisanji precure holostars hirogaru_sky!_precure starbucks neo-porte getting_over_it
