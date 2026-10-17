@@ -1740,3 +1740,4 @@
 ?twilight_sparkle -> my_little_pony my_little_pony:_friendship_is_magic my_little_pony:_equestria_girls equestria_girls:_friendship_games touhou panty_&_stocking_with_garterbelt pokemon dc_comics arknights jojo_no_kimyou_na_bouken
 ?twilight_sparkle_(human) -> my_little_pony my_little_pony:_friendship_is_magic my_little_pony:_equestria_girls equestria_girls_(movie) panty_&_stocking_with_garterbelt kotobukiya_bishoujo equestria_girls:_friendship_games dc_comics teen_titans genshin_impact
 ?pwie_(project_moon) -> project_moon limbus_company jujutsu_kaisen utdr_(toby_fox) mahou_shoujo_no_majo_saiban deltarune fear_&_hunger_(series) youtube doom_(series) fear_&_hunger_1
+?emma_(drap15) -> original
