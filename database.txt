@@ -2564,3 +2564,4 @@
 ?momoe_nagisa -> mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica:_hangyaku_no_monogatari magia_record:_mahou_shoujo_madoka_magica_gaiden mahou_shoujo_madoka_magica_(anime) mahou_shoujo_madoka_magica:_walpurgis_no_kaiten mahou_shoujo_madoka_magica_magia_exedra mahou_shoujo_madoka_magica_plus mahou_shoujo_oriko_magica hidamari_sketch monogatari_(series)
 ?pino_(boku_no_hero_academia) -> boku_no_hero_academia real_life
 ?rody_soul -> boku_no_hero_academia real_life zootopia
+?todoroki_shoto -> boku_no_hero_academia original one_piece pokemon marvel kimetsu_no_yaiba jojo_no_kimyou_na_bouken jujutsu_kaisen dc_comics mario_(series)
