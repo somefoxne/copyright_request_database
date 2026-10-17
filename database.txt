@@ -1671,3 +1671,4 @@
 ?henya_the_genius -> vshojo indie_virtual_youtuber hololive hololive_english nijisanji voms original nijisanji_en densetsu.exe pokemon
 ?henya_the_genius_(kung-fu_henya) -> vshojo indie_virtual_youtuber
 ?fang_tang_(false_memory) -> false_memory
+?ame-chan_(needy_girl_overdose) -> needy_girl_overdose sweets_paradise microsoft_windows needy_girl_overdose_(anime) windows_classic ame-chan_waku-waku_date_game original cubism_(needy_girl_overdose) vocaloid sanrio
