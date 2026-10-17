@@ -2149,3 +2149,4 @@
 ?nilou_(genshin_impact) -> genshin_impact mihoyo honkai_(series) gigo yu-gi-oh! blue_archive yu-gi-oh!_arc-v honkai_impact_3rd honkai:_star_rail zenless_zone_zero
 ?kamogawa_asumi -> futatsu_no_spica uchuu_kyoudai
 ?nanba_mutta -> uchuu_kyoudai splatoon_(series) meitantei_conan pokemon final_fantasy gundam one_piece jojo_no_kimyou_na_bouken mario_(series) dragon_ball
+?cure_friendy -> precure wonderful_precure! meitantei_precure! mahou_tsukai_precure! pokemon hirogaru_sky!_precure tropical-rouge!_precure kimi_to_idol_precure sousou_no_frieren mahou_shoujo_ni_akogarete
