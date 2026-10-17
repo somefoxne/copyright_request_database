@@ -1484,3 +1484,4 @@
 ?azuki_(nekopara) -> nekopara nekopara_sekai_connect pokemon vocaloid goodsmile_company touhou kantai_collection blue_archive fate_(series) hololive
 ?han_juri -> street_fighter street_fighter_6 street_fighter_iv_(series) street_fighter_v fatal_fury capcom darkstalkers the_king_of_fighters street_fighter_zero_(series) final_fight
 ?aang -> avatar_legends avatar:_the_last_airbender avatar_aang:_the_last_airbender the_legend_of_korra naruto_(series) marvel pokemon final_fantasy naruto_(classic) nickelodeon
+?nisha_(avatar) -> avatar_legends avatar:_seven_havens avatar:_the_last_airbender the_legend_of_korra avatar_aang:_the_last_airbender
