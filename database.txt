@@ -4107,3 +4107,4 @@
 ?ittoki_otoya -> uta_no_prince-sama uta_no_prince-sama:_shining_live idolmaster ensemble_stars! vocaloid mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) idolmaster_(classic) idolmaster_side-m
 ?thomas_sankara -> real_life
 ?bibi_biscuit -> phase_connect
+?aha_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail genshin_impact honkai_impact_3rd bleach mihoyo backrooms_(creepypasta) tom_and_jerry
