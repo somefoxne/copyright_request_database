@@ -3795,3 +3795,4 @@
 ?lady_shiva -> dc_comics batman_(series) birds_of_prey batman_returns parahumans reply_of_the_zaporozhian_cossacks
 ?cure_mystique -> precure meitantei_precure! kamen_rider toei_company kimi_to_idol_precure wonderful_precure! pokemon smile_precure! meitantei_conan dokidoki!_precure
 ?kobayashi_mikuru -> precure meitantei_precure! kamen_rider toei_company wonderful_precure! kimi_to_idol_precure meitantei_conan comiket_108 pokemon kamen_rider_w
+?angela_(project_moon) -> project_moon library_of_ruina lobotomy_corporation limbus_company blue_archive hamhampangpang mili_(band) the_distortion_detective pokemon fate_(series)
