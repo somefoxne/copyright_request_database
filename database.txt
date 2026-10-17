@@ -3962,3 +3962,4 @@
 ?vil_schoenheit_(sweet_avatar) -> twisted_wonderland wreck-it_ralph
 ?sephiroth_(infiltration_style) -> final_fantasy final_fantasy_vii final_fantasy_vii:_ever_crisis nier_(series) nier:automata
 ?tsukumo_yuki_(jujutsu_kaisen) -> jujutsu_kaisen bleach bleach:_sennen_kessen-hen boku_no_hero_academia naruto_(series) one_piece blue_archive fate_(series) dragon_ball marvel
+?carrera_(tensura) -> tensei_shitara_slime_datta_ken
