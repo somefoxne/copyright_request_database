@@ -1036,3 +1036,4 @@
 ?yui_shousetsu_(fate) -> fate_(series) fate/samurai_remnant fate/grand_order kyu-kurarin_(cevio) pokemon street_fighter pokemon_sun_and_moon real_life fate/apocrypha pokemon_x_and_y
 ?yui_shousetsu_(third_ascension)_(fate) -> fate_(series) fate/grand_order fate/samurai_remnant
 ?gardevoir -> pokemon original pokemon_unite pokemon_x_and_y pokemon_omega_ruby_and_alpha_sapphire pokemon_sword_and_shield pokemon_legends:_arceus pokemon_legends:_z-a pokemon_(anime) pokemon_scarlet_and_violet
+?ralts -> pokemon pokemon_ruby/sapphire/emerald pokemon_omega_ruby_and_alpha_sapphire pokemon_diamond/pearl/platinum pokemon_firered_and_leafgreen original pokemon_emerald pokemon_tcg pokemon_legends:_arceus pokemon_(anime)
