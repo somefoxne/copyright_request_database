@@ -995,3 +995,4 @@
 ?mihono_bourbon_(mb-19890425)_(umamusume) -> umamusume gundam original girls_und_panzer bang_dream! gundam_seed vocaloid princess_connect! real_life umamusume:_cinderella_gray
 ?mihono_bourbon_(umamusume) -> umamusume gundam bocchi_the_rock! kantai_collection gundam_tekketsu_no_orphans original pokemon ryuu_ga_gotoku_(series) umamusume:_cinderella_gray pikmin_(series)
 ?halo_sweety -> indie_virtual_youtuber gamer_supps chainsaw_man touken_ranbu vinesauce
+?ayase_seiko -> dandadan naruto_(series) sousou_no_frieren mob_psycho_100 bayonetta_(series) shounen_jump original gokurakugai one_piece chainsaw_man
