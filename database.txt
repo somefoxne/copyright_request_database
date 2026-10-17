@@ -2846,3 +2846,4 @@
 ?hoto_mocha -> gochuumon_wa_usagi_desu_ka? manga_time_kirara gakkou_gurashi! daydream_show kantai_collection megami_magazine pokemon mahou_shoujo_madoka_magica girls_und_panzer gundam
 ?lala_(monster_musume) -> monster_musume_no_iru_nichijou pokemon durarara!! gundam to_love-ru zombie_land_saga to_love-ru_darkness demi-chan_wa_kataritai neko_musume_michikusa_nikki torikissa!
 ?mejiro_dober_(sapphire_sojourn)_(umamusume) -> umamusume comiket_100 kantai_collection jojo_no_kimyou_na_bouken stardust_crusaders coca-cola
+?diabellstar_the_black_witch -> yu-gi-oh! yu-gi-oh!_master_duel yu-gi-oh!_rush_duel fate_(series) fate/grand_order the_legend_of_zelda yu-gi-oh!_card_game_the_chronicles original
