@@ -1538,3 +1538,4 @@
 ?kurusu_natsume_(1st_costume) -> nijisanji nijisanji_kr nijisanji_en nijisanji_id pineapple_on_pizza_(game)
 ?ninomae_ina'nis_(loungewear) -> hololive hololive_english minecraft reflect_(gawr_gura) pokemon youtube indie_virtual_youtuber gundam sousou_no_frieren shingeki_no_kyojin
 ?narita_top_road_(umamusume) -> umamusume umamusume:_road_to_the_top umamusume:_cinderella_gray umamusume:_beginning_of_a_new_era real_life original gundam pokemon pakatube yu-gi-oh!
+?elio_(pokemon) -> pokemon pokemon_sun_and_moon pokemon_ultra_sun_and_ultra_moon pokemon_x_and_y pokemon_black_and_white pokemon_black_2_and_white_2 pokemon_heartgold_and_soulsilver pokemon_diamond/pearl/platinum pokemon_sword_and_shield pokemon_omega_ruby_and_alpha_sapphire
