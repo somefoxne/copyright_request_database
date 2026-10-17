@@ -2880,3 +2880,4 @@
 ?magia_baiser -> mahou_shoujo_ni_akogarete blue_archive bocchi_the_rock! precure hololive girls_und_panzer original umamusume meitantei_precure! fate_(series)
 ?minakami_sayo -> mahou_shoujo_ni_akogarete bang_dream! bang_dream!_girls_band_party! megami_magazine shikanoko_nokonoko_koshitantan shokunin_to_hitozuma mahou_shoujo_madoka_magica precure mahou_shoujo_madoka_magica_(anime) sousou_no_frieren
 ?fukunomiya_koko_(kuromiya) -> original
+?kiyomiya_hikari_(kuromiya) -> original
