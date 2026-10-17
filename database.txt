@@ -3401,3 +3401,4 @@
 ?rukkhadevata_(genshin_impact) -> genshin_impact honkai_(series) mihoyo honkai_impact_3rd original honkai:_star_rail lower_(vocaloid) wuthering_waves chainsaw_man avatar_legends
 ?kuon_(hasumi_(hasubatake39)) -> original
 ?setsuna_(hasumi_(hasubatake39)) -> original
+?collei_(genshin_impact) -> genshin_impact duolingo pokemon monogatari_(series) mihoyo yoasobi honkai_(series) honkai_impact_3rd little_red_riding_hood_(fairy_tale)
