@@ -1016,3 +1016,4 @@
 ?silence_suzuka_(umamusume) -> umamusume real_life original umamusume:_cinderella_gray kantai_collection love_live! love_live!_sunshine!! cygames blue_archive formula_one
 ?lady_geist_(deadlock) -> deadlock_(game) balatro the_outlast_trials
 ?silver_(deadlock) -> deadlock_(game) overwatch animal_crossing courage_the_cowardly_dog twilight_(series)
+?vyper_(deadlock) -> deadlock_(game) titanic_(movie)
