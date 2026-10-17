@@ -2367,3 +2367,4 @@
 ?bianca_castafiore -> tintin
 ?dupond_(tintin) -> tintin
 ?dupont_(tintin) -> tintin
+?suzuki_hina -> himehina_channel nijisanji hololive mirai_akari_project .live kizuna_ai_inc. hinata_channel indie_virtual_youtuber the_moon_studio rettou_joutou_(vocaloid)
