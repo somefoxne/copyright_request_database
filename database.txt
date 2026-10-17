@@ -3101,3 +3101,4 @@
 ?jinguji_sayaka -> cinderella_series hachigatsu_no_cinderella_nine touhoku_rakuten_golden_eagles persona persona_5 hokkaido_nippon-ham_fighters orix_buffaloes saitama_seibu_lions fukuoka_softbank_hawks chiba_lotte_marines
 ?mr._squeaks_(hakos_baelz) -> hololive hololive_english hololive_indonesia hololive_dreams hololive_dev_is minecraft mario_(series) holostars holostars_english ratatouille
 ?zen'in_maki -> jujutsu_kaisen chainsaw_man jujutsu_kaisen_modulo hololive umamusume bleach shingeki_no_kyojin bobobo-bo_bo-bobo hololive_english one_piece
+?zen'in_maki_(post-shibuya) -> jujutsu_kaisen chainsaw_man hololive umamusume hololive_english jujutsu_kaisen_modulo naruto_(series) shingeki_no_kyojin vocaloid one_piece
