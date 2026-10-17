@@ -2863,3 +2863,4 @@
 ?biko_pegasus_(choi_waru_hero_kenzan!)_(umamusume) -> umamusume
 ?fenomeno_(violet_flame_of_fortitude)_(umamusume) -> umamusume kindergarten_cop
 ?shinko_windy_(chomp-chomp_scamp)_(umamusume) -> umamusume kamen_rider kamen_rider_gavv_(series) pokemon mario_(series) kindergarten_cop
+?akaboshi_koume -> girls_und_panzer girls_und_panzer_senshadou_daisakusen! girls_und_panzer_little_army girls_und_panzer_motto_love_love_sakusen_desu! girls_und_panzer_saishuushou girls_und_panzer_phase_erika girls_und_panzer_ribbon_no_musha gekitotsu!_joshikousei_oiroke_sensha_gundan megami_magazine tower_records
