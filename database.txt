@@ -1800,3 +1800,4 @@
 ?roy_alphard -> re:zero_kara_hajimeru_isekai_seikatsu fate_(series) fate/grand_order mario_(series) super_mario_bros._wonder re:zero_kara_hajimeru_isekai_seikatsu:_lost_in_memories
 ?eva_beatrice -> umineko_no_naku_koro_ni banquet_of_the_golden_witch ougon_musou_kyoku higurashi_no_naku_koro_ni touhou twilight_of_the_golden_witch durarara!! black_rock_shooter higurashi_umineko_card_battle_jin alliance_of_the_golden_witch
 ?maria_cadenzavna_eve -> senki_zesshou_symphogear senki_zesshou_symphogear_xd_unlimited gundam gundam_seed comiket_102 darkstalkers megami_magazine gundam_seed_destiny wild_arms taimanin_(series)
+?irys_(hololive) -> hololive hololive_english hololive_indonesia hololive_dev_is enigmatic_recollection minecraft pokemon umamusume hololive_grand_theft_auto original
