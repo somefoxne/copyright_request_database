@@ -1113,3 +1113,4 @@
 ?black_cat_(coastal_cat)_(marvel) -> marvel marvel_rivals spider-man_(series) x-men avengers_(series) fantastic_four guardians_of_the_galaxy tiger_division
 ?felicia_hardy -> marvel spider-man_(series) marvel_rivals dc_comics batman_(series) x-men tiger_division spider-verse fantastic_four
 ?hisuian_decidueye -> pokemon pokemon_legends:_arceus original pokemon_scarlet_and_violet pokemon_(anime) pokemon_sun_and_moon pokemon_diamond/pearl/platinum pokemon_black_and_white pokemon_horizons pokemon_sword_and_shield
+?nishijou_takumi -> science_adventure chaos;head chaos;head_love_chu_chu! blood_tune chaos;child steins;gate robotics;notes occultic;nine watashi_ga_motenai_no_wa_dou_kangaetemo_omaera_ga_warui! kidou_battle_gunvarrel
