@@ -4020,3 +4020,4 @@
 ?gigi_murin_(1st_costume) -> hololive hololive_english enigmatic_recollection hololive_indonesia minecraft september_(ewf) earth_wind_&_fire_(band) hololive_dev_is umamusume league_of_legends
 ?hollow_ichigo -> bleach bleach:_sennen_kessen-hen bleach:_brave_souls naruto_(series) bleach:_epilogue naruto_shippuuden shounen_jump devil_may_cry_(series) bleach:_zanpakutou_ibun_hen touhou
 ?hollow_ichigo_(full_hollow) -> bleach naruto_(series) naruto_shippuuden shounen_jump dragon_ball marvel jujutsu_kaisen dc_comics dragon_ball_z dandadan
+?inoue_orihime_(hueco_mundo) -> bleach bleach:_sennen_kessen-hen bleach:_brave_souls danganronpa_(series) cardcaptor_sakura azumanga_daioh chiikawa bleach:_epilogue bleach:_the_high_school_warfare asano_sisters_project
