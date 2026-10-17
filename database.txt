@@ -1684,3 +1684,4 @@
 ?florence_(shattered_legends) -> hololive hololive_english shattered_legends
 ?okamoto_nagi -> vshojo indie_virtual_youtuber goddess_of_victory:_nikke
 ?mashiro_meme -> nijisanji nijisanji_kr nijisanji_en dream_pool nijisanji_id promare dream_c_club_(series) dream_c_club dream_c_club_zero blue_archive
+?mashiro_meme_(3rd_costume) -> nijisanji blue_archive vocaloid twitter youtube pepsi
