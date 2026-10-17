@@ -1022,3 +1022,4 @@
 ?nishino_flower_(layered_petals)_(umamusume) -> umamusume umamusume:_cinderella_gray alice_gear_aegis original umamusume:_road_to_the_top fate_(series) gundam cygames akari_ga_yatte_kitazo_(vocaloid) fate/grand_order
 ?nishino_flower_(umamusume) -> umamusume umamusume:_cinderella_gray original alice_gear_aegis cygames pokemon precure kantai_collection kamen_rider kamen_rider_den-o_(series)
 ?sakura_bakushin_o_(blossom_in_learning)_(umamusume) -> umamusume umamusume:_cinderella_gray umamusume:_star_blossom dragon_ball dc_comics dragon_ball_z the_flash_(series) touhou kantai_collection blue_archive
+?sakura_bakushin_o_(umamusume) -> umamusume real_life umamusume:_cinderella_gray original umamusume:_star_blossom cygames kantai_collection pokemon midori_no_makibaoo gundam
