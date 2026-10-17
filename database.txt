@@ -1513,3 +1513,4 @@
 ?asahina_mafuyu -> project_sekai vocaloid zozotown sanrio bug_(vocaloid) kamippoina_(vocaloid) alien_stage kowareta_sekai_to_utaenai_miku samsa_(vocaloid) otome_kaibou_(vocaloid)
 ?mitya_(genshin_impact) -> genshin_impact mihoyo honkai_(series) honkai:_star_rail sanrio marvel spider-man_(series) fuwa_fuwa_cinnamoroll dr._stone the_ring
 ?pierro_(genshin_impact) -> genshin_impact mihoyo honkai_(series) zenless_zone_zero honkai_impact_3rd dragon_ball dragon_ball_z the_last_supper
+?reze_(chainsaw_man) -> chainsaw_man boku_no_hero_academia hololive iris_out_(song) hololive_english kimetsu_no_yaiba original jujutsu_kaisen fate_(series) zenless_zone_zero
