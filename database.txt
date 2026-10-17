@@ -2701,3 +2701,4 @@
 ?midorikawa_sakura -> original
 ?furude_rika -> higurashi_no_naku_koro_ni higurashi_no_naku_koro_ni_gou umineko_no_naku_koro_ni higurashi_no_naku_koro_ni_mei suzumiya_haruhi_no_yuuutsu fate_(series) lyrical_nanoha fate/stay_night rozen_maiden shakugan_no_shana
 ?elpeo_puru -> gundam gundam_zz gundam_unicorn zeta_gundam mobile_suit_gundam gundam_f91 g_gundam gundam_0083 victory_gundam
+?judau_ashta -> gundam gundam_zz zeta_gundam mobile_suit_gundam gundam_unicorn turn_a_gundam gundam_00 gundam_f91
