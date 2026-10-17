@@ -3644,3 +3644,4 @@
 ?unzan -> touhou undefined_fantastic_object touhou_(pc-98) hopeless_masquerade mountain_of_faith embodiment_of_scarlet_devil imperishable_night perfect_cherry_blossom ten_desires subterranean_animism
 ?cheadle_yorkshire -> hunter_x_hunter haou_airen
 ?clook_(hunter_x_hunter) -> hunter_x_hunter haou_airen
+?gell_(hunter_x_hunter) -> hunter_x_hunter haou_airen
