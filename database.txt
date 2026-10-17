@@ -1734,3 +1734,4 @@
 ?haro -> gundam gundam_gquuuuuux gundam_00 gundam_seed mobile_suit_gundam gundam_suisei_no_majo zeta_gundam gundam_seed_destiny gundam_unicorn gundam_zz
 ?leon_(fire_emblem_echoes) -> fire_emblem fire_emblem_echoes:_shadows_of_valentia fire_emblem_heroes fire_emblem_gaiden fire_emblem_fates fire_emblem:_three_houses fire_emblem:_radiant_dawn fire_emblem:_mystery_of_the_emblem fire_emblem:_genealogy_of_the_holy_war fire_emblem_cipher
 ?valbar_(fire_emblem) -> fire_emblem fire_emblem_echoes:_shadows_of_valentia fire_emblem_heroes fire_emblem_fates fire_emblem:_radiant_dawn fire_emblem:_mystery_of_the_emblem fire_emblem_cipher fire_emblem_gaiden fire_emblem:_genealogy_of_the_holy_war fire_emblem:_three_houses
+?sazanami_hakuri -> kagurabachi pokemon chainsaw_man neon_genesis_evangelion dragon_ball jujutsu_kaisen sanrio fuwa_fuwa_cinnamoroll bucchigiri?! gorillaz
