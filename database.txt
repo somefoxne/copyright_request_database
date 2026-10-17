@@ -2127,3 +2127,4 @@
 ?monet_(one_piece) -> one_piece one_piece_card_game one_piece_treasure_cruise kantai_collection idolmaster umamusume idolmaster_cinderella_girls love_live! precure bang_dream!
 ?eris_greyrat -> mushoku_tensei mushoku_tensei:_game_ni_nattemo_honki_dasu brown_dust_(series) brown_dust_2 kono_subarashii_sekai_ni_shukufuku_wo! fate_(series) fate/grand_order megami_magazine re:zero_kara_hajimeru_isekai_seikatsu original
 ?natori_hinata -> project_nebula phase_connect vebop_high_school nanashi_inc. .live specialite_(company)
+?shigure_ruka -> project_nebula
