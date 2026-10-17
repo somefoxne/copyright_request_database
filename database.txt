@@ -2378,3 +2378,4 @@
 ?kanaria -> rozen_maiden suzumiya_haruhi_no_yuuutsu gundam higurashi_no_naku_koro_ni lyrical_nanoha shakugan_no_shana precure eureka_seven_(series) pani_poni_dash! eureka_seven
 ?yaruo -> 2channel rozen_maiden touhou call_of_cthulhu lucky_star original vocaloid death_note kantai_collection fate_(series)
 ?red_hood_(nikke) -> goddess_of_victory:_nikke indie_virtual_youtuber zenless_zone_zero tengen_toppa_gurren_lagann fate_(series) fate/grand_order comiket_104 touhou blue_archive neon_genesis_evangelion
+?snow_white_(innocent_days)_(nikke) -> goddess_of_victory:_nikke gs25 ichiban_kuji tengen_toppa_gurren_lagann comiket_104 blue_archive honkai_(series) honkai_impact_3rd dragon_ball jujutsu_kaisen
