@@ -2352,3 +2352,4 @@
 ?ludivine_marie-ange_de_la_trefle -> magical_explorer white_fox_(company)
 ?mizumori_yukine -> magical_explorer animate_(company) white_fox_(company)
 ?nanami_(magical_explorer) -> magical_explorer kono_subarashii_sekai_ni_shukufuku_wo! white_fox_(company)
+?takioto_kousuke -> magical_explorer
