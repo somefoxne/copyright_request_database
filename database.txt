@@ -2959,3 +2959,4 @@
 ?virakam_the_divine_spirit_of_artifice -> yu-gi-oh!
 ?win_variation_(casual)_(umamusume) -> umamusume nyanko_daisensou star_wars star_wars:_the_empire_strikes_back
 ?kaga_sumire_(2nd_costume) -> vspo! hololive crazy_raccoon apex_legends monitoring_(vocaloid) original nijisanji minecraft twitter the_beatles
+?chinatsu_(juukyuu) -> original
