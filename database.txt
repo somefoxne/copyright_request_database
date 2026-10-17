@@ -2266,3 +2266,4 @@
 ?red_hood_(dc) -> dc_comics batman_(series) red_hood_and_the_outlaws knightfight dc:_dark_legion superman_(series) original teen_titans marvel batman:_arkham_(series)
 ?senri_ayumu_(1st_costume) -> nijisanji pokemon
 ?yumesaki_hipopo -> indie_virtual_youtuber
+?baobhan_sith_(fate) -> fate_(series) fate/grand_order original learning_with_manga!_fgo comiket_105 fate/stay_night fate/extra fate/kaleid_liner_prisma_illya comiket_103 fate/dream_striker
