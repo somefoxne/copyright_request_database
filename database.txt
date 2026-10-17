@@ -2208,3 +2208,4 @@
 ?lady_noir -> miraculous_ladybug sanrio my_melody_(series) the_addams_family wednesday_(netflix)
 ?mister_bug_(miraculous_ladybug) -> miraculous_ladybug
 ?joker_(absolute_dc) -> dc_comics absolute_dc absolute_batman batman_(series) neon_genesis_evangelion marvel spider-man_(series) cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1
+?joker_(dc) -> dc_comics batman_(series) joker_(2019) the_dark_knight pokemon suicide_squad touhou original absolute_dc absolute_batman
