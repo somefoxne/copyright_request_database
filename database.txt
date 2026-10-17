@@ -2160,3 +2160,4 @@
 ?bow_kid -> a_hat_in_time spongebob_squarepants_(series) oneshot_(game) pokemon splatoon_(series) mario_(series) utdr_(toby_fox) sonic_(series) kirby_(series) deltarune
 ?baku_(sakihane_huya) -> stellive snow_white_(fairy_tale)
 ?chica -> five_nights_in_anime_(fangame) five_nights_in_anime:_after_hours_(fangame) pokemon original vocaloid animal_crossing
+?chiku_(cryptia) -> five_nights_in_anime_(fangame) among_us
