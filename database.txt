@@ -1088,3 +1088,4 @@
 ?roxy_ifrita_pryce -> zenless_zone_zero pokemon neon_genesis_evangelion comiket_108 original gundam jujutsu_kaisen dc_comics mobile_suit_gundam
 ?tokai_teio_(beyond_the_horizon)_(umamusume) -> umamusume hololive hololive_english pokemon original nanashi_inc. kantai_collection blue_archive fate_(series) arknights
 ?ace_trappola -> twisted_wonderland original fate_(series) fate/grand_order touken_ranbu disney the_nightmare_before_christmas kimetsu_no_yaiba zootopia youtube
+?satono_diamond_(umamusume) -> umamusume sega original pokemon real_life jojo_no_kimyou_na_bouken idolmaster sonic_(series) kantai_collection kfc
