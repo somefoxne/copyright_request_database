@@ -3272,3 +3272,4 @@
 ?stephanie_brown -> dc_comics batman_(series) superman_(series) absolute_dc absolute_batman batgirls marvel wonder_woman_(series) red_hood_and_the_outlaws spider-man_(series)
 ?ushi_gozen_(avenger)_(fate) -> fate_(series) fate/grand_order fate/samurai_remnant umamusume sanrio my_melody_(series) original umamusume:_cinderella_gray mahou_tsukai_no_yoru fate/grand_order_arcade
 ?ushi_gozen_(fate) -> fate_(series) fate/grand_order fate/samurai_remnant umamusume sanrio my_melody_(series) original pokemon pokemon_sun_and_moon pokemon_x_and_y
+?yamato_takeru_(fate) -> fate_(series) fate/samurai_remnant fate/grand_order fate/stay_night tsukihime tsukihime_(remake) fate/dream_striker fate/extra fate/grand_order_arcade fate/zero
