@@ -2268,3 +2268,4 @@
 ?yumesaki_hipopo -> indie_virtual_youtuber
 ?baobhan_sith_(fate) -> fate_(series) fate/grand_order original learning_with_manga!_fgo comiket_105 fate/stay_night fate/extra fate/kaleid_liner_prisma_illya comiket_103 fate/dream_striker
 ?melusine_(fate) -> fate_(series) fate/grand_order original blue_archive fate/kaleid_liner_prisma_illya fate/grand_order_arcade umamusume fate/zero comic_girls fate/stay_night
+?esperanza_(shadowverse) -> shadowverse shadowverse:_worlds_beyond kantai_collection original granblue_fantasy granblue_fantasy:_relink
