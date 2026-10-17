@@ -1692,3 +1692,4 @@
 ?rover_(wuthering_waves) -> wuthering_waves cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 genshin_impact honkai_(series) honkai:_star_rail mihoyo zenless_zone_zero comiket_105
 ?mathilda_lando -> leon_the_professional idolmaster real_life fate_(series) idolmaster_cinderella_girls neon_genesis_evangelion resident_evil lycoris_recoil kick-ass original
 ?gigi_murin_(casual) -> hololive hololive_english
+?citlali_(genshin_impact) -> genshin_impact mihoyo honkai_(series) honkai:_star_rail zenless_zone_zero vocaloid rabbit_hole_(vocaloid) blue_archive original fate_(series)
