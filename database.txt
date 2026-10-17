@@ -4145,3 +4145,4 @@
 ?sansin_jin -> indie_virtual_youtuber original gamer_supps pokemon the_legend_of_zelda twitter vyugen vchiban the_walking_dead
 ?piltz_dunant -> shy_(series)
 ?diaochan_(honor_of_kings) -> honor_of_kings
+?kongming_(honor_of_kings) -> honor_of_kings
