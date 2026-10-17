@@ -2073,3 +2073,4 @@
 ?rouge_(unlucky_rabbit)_(nikke) -> goddess_of_victory:_nikke zenless_zone_zero original blue_archive hololive azur_lane hololive_english indie_virtual_youtuber yu-gi-oh! lycoris_recoil
 ?rupee_(nikke) -> goddess_of_victory:_nikke sono_bisque_doll_wa_koi_wo_suru comiket_105 blue_archive last_origin original azur_lane pokemon umamusume fire_emblem
 ?rupee_(rabbit_deluxe)_(nikke) -> goddess_of_victory:_nikke blue_archive marvel comiket_105 captain_america_(series) captain_america:_civil_war
+?soda_(nikke) -> goddess_of_victory:_nikke re:zero_kara_hajimeru_isekai_seikatsu nier_(series) nier:automata fate_(series) fate/grand_order zenless_zone_zero resident_evil machikado_mazoku stellar_blade
