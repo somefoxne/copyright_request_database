@@ -2827,3 +2827,4 @@
 ?jervis_(kancolle) -> kantai_collection watashi_ni_tenshi_ga_maiorita! azur_lane kin-iro_mosaic marvel original sonic_(series) coca-cola avengers_(series)
 ?rulership_(casual)_(umamusume) -> umamusume jojo_no_kimyou_na_bouken stardust_crusaders dark_souls_(series) minecraft pepsi discord otaku_ni_yasashii_gal_wa_inai!?
 ?takaya_noriko -> top_wo_nerae!_(series) top_wo_nerae! top_wo_nerae_2! neon_genesis_evangelion gainax tengen_toppa_gurren_lagann fushigi_no_umi_no_nadia gundam flcl super_robot_wars
+?yukihana_lamy_(1st_costume) -> hololive hololive_english hololive_alternative hololive_indonesia hololive_dev_is hololive_official_card_game the_legend_of_zelda nijisanji jojo_no_kimyou_na_bouken dragon_quest
