@@ -3679,3 +3679,4 @@
 ?anby_demara -> zenless_zone_zero pizza-la honkai_(series) honkai:_star_rail mihoyo genshin_impact sousou_no_frieren honkai_impact_3rd nier_(series)
 ?miyuki_kazuya -> daiya_no_ace haikyuu!! olympics fukuoka_softbank_hawks free! hanshin_tigers 2020_summer_olympics touhoku_rakuten_golden_eagles pokemon fate_(series)
 ?carmilla_(castlevania) -> castlevania_(series) castlevania_(netflix) castlevania:_circle_of_the_moon castlevania:_symphony_of_the_night castlevania_judgment overwatch spy_x_family helltaker ace_attorney
+?colette_(haishiki) -> original inemuri_hitsuji
