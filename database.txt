@@ -3659,3 +3659,4 @@
 ?jun_the_swan -> gatchaman casshern_(series) tatsunoko_vs._capcom robot_hunter_casshern darkstalkers uchuu_no_kishi_tekkaman hariken_polymar street_fighter mega_man_(series) mega_man_(classic)
 ?rim_(kamitsubaki_studio) -> kamitsubaki_studio cevio kamitsubaki_city_under_construction hololive kamitsubaki_city_ensemble mandarin_(cevio) nijisanji comiket_100 re:act himehina_channel
 ?constellation_(azur_lane) -> azur_lane
+?constellation_(galaxy's_finest)_(azur_lane) -> azur_lane
