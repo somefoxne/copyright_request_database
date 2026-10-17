@@ -2965,3 +2965,4 @@
 ?the_bat_(absolute_dc) -> dc_comics absolute_dc absolute_batman batman_(series)
 ?tensho_hibiki -> aikatsu!_(series) aikatsu_friends! aikatsu! aikatsu_on_parade! aikatsu_stars!
 ?minetsuki_ritsu -> bang_dream! bang_dream!_yumemita bang_dream!_our_notes bang_dream!_girls_band_party! kamen_rider kamen_rider_zeztz_(series) getting_over_it sakanaction kamen_rider_zeztz:_farewell_mission
+?minetsuki_ritsu_(virtual) -> bang_dream! bang_dream!_yumemita bang_dream!_our_notes bang_dream!_girls_band_party! kamen_rider berserk kanagawa_oki_nami_ura getting_over_it kamen_rider_zeztz_(series)
