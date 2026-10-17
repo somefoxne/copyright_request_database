@@ -1138,3 +1138,4 @@
 ?grass_wonder_(umamusume) -> umamusume real_life original umayuru pakatube pokemon umamusume:_cinderella_gray among_us cygames hololive
 ?jack_the_ripper_(fate/apocrypha) -> fate_(series) fate/apocrypha fate/grand_order fate/extra fate/stay_night fate/extra_ccc learning_with_manga!_fgo fate/strange_fake koha-ace fate/kaleid_liner_prisma_illya
 ?jack_the_ripper_(zombie_nurse_the_ripper)_(fate) -> fate_(series) fate/grand_order fate/strange_fake honkai_(series) honkai:_star_rail fate/apocrypha
+?sha_lan_(fire_emblem) -> fire_emblem angry_birds angry_birds:_dice
