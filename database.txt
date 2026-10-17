@@ -3247,3 +3247,4 @@
 ?suimori_atori -> haconect
 ?lucille_(cslucaris) -> original warhammer_40k shokugeki_no_souma helldivers_(series)
 ?madeline_(cslucaris) -> original warhammer_40k helldivers_(series)
+?estelle_(vtuber) -> indie_virtual_youtuber world_cup 2026_fifa_world_cup real_life vocaloid hololive hololive_english original neon_genesis_evangelion jujutsu_kaisen
