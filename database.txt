@@ -2966,3 +2966,4 @@
 ?tensho_hibiki -> aikatsu!_(series) aikatsu_friends! aikatsu! aikatsu_on_parade! aikatsu_stars!
 ?minetsuki_ritsu -> bang_dream! bang_dream!_yumemita bang_dream!_our_notes bang_dream!_girls_band_party! kamen_rider kamen_rider_zeztz_(series) getting_over_it sakanaction kamen_rider_zeztz:_farewell_mission
 ?minetsuki_ritsu_(virtual) -> bang_dream! bang_dream!_yumemita bang_dream!_our_notes bang_dream!_girls_band_party! kamen_rider berserk kanagawa_oki_nami_ura getting_over_it kamen_rider_zeztz_(series)
+?charon_(reverse:1999) -> reverse:1999 pieta project_moon limbus_company chiikawa the_creation_of_adam ultrakill pop_mart
