@@ -1345,3 +1345,4 @@
 ?evanescia_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail genshin_impact mihoyo honkai_impact_3rd fate_(series) zenless_zone_zero titanic_(movie) fate/stay_night evanescence
 ?fairimon -> digimon digimon_frontier digimon_adventure digimon_card_game digimon_tamers digimon_adventure_02 digimon_story:_time_stranger digimon_xros_wars digimon_savers digihentai
 ?luvencia_(brown_dust) -> brown_dust_(series) brown_dust_2 neowiz
+?luvencia_(ocean_vanguard)_(brown_dust) -> brown_dust_(series) brown_dust_2
