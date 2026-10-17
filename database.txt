@@ -3204,3 +3204,4 @@
 ?chespin -> pokemon pokemon_x_and_y pokemon_(anime) pokemon_the_series:_xy pokemon_black_and_white pokemon_diamond/pearl/platinum pokemon_sun_and_moon pokemon_black_2_and_white_2 pokemon_ruby/sapphire/emerald pokemon_red/green/blue/yellow
 ?clauncher -> pokemon pokemon_x_and_y pokemon_(anime) pokemon_tcg pokemon_legends:_z-a pokemon_journeys pokemon_(classic_anime) pokemon_the_series:_xy pokemon_sword_and_shield pokemon_sun_and_moon
 ?dedenne -> pokemon pokemon_(anime) pokemon_the_series:_xy pokemon_x_and_y pokemon_legends:_z-a pokemon_scarlet_and_violet original pokemon_(classic_anime) pokemon_journeys pokemon_the_series:_ruby_and_sapphire
+?fennekin -> pokemon pokemon_x_and_y pokemon_(anime) pokemon_the_series:_xy pokemon_black_and_white pokemon_diamond/pearl/platinum pokemon_sun_and_moon pokemon_black_2_and_white_2 pokemon_heartgold_and_soulsilver pokemon_sword_and_shield
