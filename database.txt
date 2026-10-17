@@ -1924,3 +1924,4 @@
 ?creek_avancio -> fire_emblem tales_of_(series) fire_emblem:_the_blazing_blade fire_emblem:_genealogy_of_the_holy_war fire_emblem:_path_of_radiance fire_emblem:_mystery_of_the_emblem fire_emblem:_the_binding_blade fire_emblem:_the_sacred_stones tales_of_vesperia
 ?nathan_bakaudi -> fire_emblem tales_of_(series) tales_of_vesperia fire_emblem:_shadow_dragon_and_the_blade_of_light
 ?ivan_(zombie_stage) -> alien_stage zombie_stage aura!_(anakt_arts_high_school) futatsu_no_mokuba_(vocaloid) wiege_(alien_stage)
+?mizi_(zombie_stage) -> alien_stage zombie_stage futatsu_no_mokuba_(vocaloid) genshin_impact the_amazing_digital_circus ipstar perfect_blue loveit?_(biz) honkai_(series) project_sekai
