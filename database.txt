@@ -3618,3 +3618,4 @@
 ?martina_(dq11) -> dragon_quest dragon_quest_xi dragon_quest_viii dragon_quest_iii dragon_quest_iv dragon_quest_v dragon_quest_ii dragon_quest_vi dragon_quest_x dragon_quest_ix
 ?sniper_(tf2) -> team_fortress_2 touhou zenless_zone_zero blue_archive hololive hololive_english meet_the_team pokemon higurashi_no_naku_koro_ni original
 ?soldier_(tf2) -> team_fortress_2 touhou pokemon higurashi_no_naku_koro_ni original hololive honkai_(series) honkai:_star_rail blue_archive mario_(series)
+?kamishirasawa_keine -> touhou imperishable_night touhou_(pc-98) touhou_tag_dream night_sparrow_love pokemon embodiment_of_scarlet_devil original touhou_lostword reitaisai
