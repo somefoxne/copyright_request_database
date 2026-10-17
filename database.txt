@@ -2658,3 +2658,4 @@
 ?hinageshi_(girls_revolution_project) -> kamitsubaki_studio girls_revolution_project sinsekai_record vocaloid persona persona_3 cho_kaguya-hime! cevio valis_(sinsekai) rk_music
 ?ia_(vocaloid) -> vocaloid cevio voiceroid utau synthesizer_v a.i._voice niconico kamitsubaki_studio blue_archive conqueror_(cevio)
 ?neun_(rk_music) -> rk_music vocaloid persona persona_3 cho_kaguya-hime! kamitsubaki_studio cevio girls_revolution_project
+?sekai_(cevio) -> cevio kamitsubaki_studio vocaloid utau a.i._voice synthesizer_v voiceroid voicevox kamitsubaki_city_ensemble shinjigen_no_kinjite_(cevio)
