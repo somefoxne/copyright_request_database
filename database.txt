@@ -2505,3 +2505,4 @@
 ?hornet_(kancolle) -> kantai_collection azur_lane girls_und_panzer real_life comiket_100 jojo_no_kimyou_na_bouken genshin_impact umamusume precure twitter
 ?ariga_rei_(gibagiba) -> original
 ?fujiwara_sakurako_(gibagiba) -> original
+?fujiwara_yamato_(gibagiba) -> original ochame_na_okusan_to_no_nichijou_chabangoto boroboro_no_elf-san_wo_shiawase_ni_suru_kusuri_uri-san
