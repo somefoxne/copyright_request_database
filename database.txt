@@ -3259,3 +3259,4 @@
 ?illyasviel_von_einzbern -> fate_(series) fate/kaleid_liner_prisma_illya fate/stay_night fate/grand_order fate/zero fate/hollow_ataraxia tsukihime type-moon fate/extra
 ?fuwa_minato -> nijisanji nijisanji_en nijisanji_koshien nijisanji_kr nijisanji_gta nijisanji_id apex_legends madtown_gta ready_steady_(vocaloid) hololive
 ?fuwa_minato_(1st_costume) -> nijisanji dream_pool nijisanji_en apex_legends nijisanji_kr crazy_raccoon call_boy_(vocaloid) genshin_impact splatoon_(series) touken_ranbu
+?gionji_yukine -> shine_post tower_records sakigake!!_cromartie_koukou laugh_diamond
