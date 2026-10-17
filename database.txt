@@ -2234,3 +2234,4 @@
 ?ciel_(tsukihime) -> tsukihime tsukihime_(remake) fate_(series) fate/grand_order melty_blood type-moon fate/stay_night melty_blood:_type_lumina kagetsu_tooya fate/hollow_ataraxia
 ?adeleine -> kirby_(series) kirby_64 kirby_star_allies kirby_super_star kirby:_planet_robobot kirby:_squeak_squad
 ?king_dedede -> kirby_(series) super_smash_bros. mario_(series) kirby_64 the_legend_of_zelda pokemon donkey_kong_(series) fire_emblem metroid mother_(series)
+?white_bomberman -> bomberman bombergirl mario_(series) kirby_(series) sonic_(series) mega_man_(series) the_legend_of_zelda mega_man_(classic) bomberman_jetters pokemon
