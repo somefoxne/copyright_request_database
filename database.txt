@@ -3161,3 +3161,4 @@
 ?trigger_(zenless_zone_zero) -> zenless_zone_zero honkai_(series) honkai:_star_rail genshin_impact mihoyo blue_archive hololive persona kono_subarashii_sekai_ni_shukufuku_wo! persona_5
 ?moona_hoshinova_(1st_costume) -> hololive hololive_indonesia hololive_english minecraft hololive_dev_is holostars turing_love pokemon marvel nijisanji
 ?shorekeeper_(wuthering_waves) -> wuthering_waves honkai_(series) honkai:_star_rail kuro_games genshin_impact arknights kfc zenless_zone_zero chainsaw_man punishing:_gray_raven
+?blade_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail mihoyo genshin_impact honkai_impact_3rd honkai:_nexus_anima zenless_zone_zero pokemon original pokemon_(anime)
