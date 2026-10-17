@@ -1075,3 +1075,4 @@
 ?gekkomon -> digimon digimon_beatbreak digimon_ghost_game digimon_card_game digimon_story:_time_stranger digimon_adventure_02 digimon_adventure digimon_xros_wars digimon_universe:_appli_monsters digimon_savers
 ?heliosboamon -> digimon digimon_beatbreak
 ?kuonji_makoto -> digimon digimon_beatbreak honkai_(series) honkai:_star_rail digimon_tamers round1
+?sawashiro_kyo -> digimon digimon_beatbreak honkai_(series) honkai:_star_rail round1
