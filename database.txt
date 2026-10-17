@@ -1808,3 +1808,4 @@
 ?dhalsim -> street_fighter street_fighter_ii_(series) street_fighter_6 street_fighter_zero_(series) street_fighter_v final_fight capcom street_fighter_iv_(series) street_fighter_iii_(series) marvel_vs._capcom
 ?ushiromiya_lion -> umineko_no_naku_koro_ni requiem_of_the_golden_witch higurashi_no_naku_koro_ni bang_dream! touhou fate_(series) fate/stay_night rose_guns_days twilight_of_the_golden_witch
 ?rottytops -> shantae_(series) shantae:_half-genie_hero shantae_and_the_seven_sirens pokemon dc_comics shantae_advance:_risky_revolution wayforward original
+?godzilla -> godzilla_(series) shin_godzilla monsterverse kemono_friends king_kong_(series) godzilla:_king_of_the_monsters godzilla_(2014) godzilla_minus_one original godzilla_x_kong:_the_new_empire
