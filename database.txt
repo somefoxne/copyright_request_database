@@ -2222,3 +2222,4 @@
 ?mobius_(honkai_impact) -> honkai_(series) honkai_impact_3rd honkai:_star_rail mihoyo genshin_impact honkai_gakuen zenless_zone_zero blue_archive alien_stage
 ?susannah_manatt -> honkai_(series) honkai_impact_3rd genshin_impact honkai:_star_rail mihoyo zenless_zone_zero the_legend_of_zelda mario_(series) metroid dead_or_alive
 ?jacket_(hotline_miami) -> hotline_miami hotline_miami_2:_wrong_number touhou idolmaster napoli_no_otokotachi payday_(series) pokemon idolmaster_cinderella_girls doom_(series)
+?senadina -> honkai_(series) honkai_impact_3rd honkai:_star_rail genshin_impact mihoyo alien_stage apple_inc. tom_and_jerry nikkori^^chousatai_no_theme_(vocaloid) hollywood_undead
