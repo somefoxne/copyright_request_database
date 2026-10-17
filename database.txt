@@ -4037,3 +4037,4 @@
 ?samenyan -> mofusand original genshin_impact honkai_(series) azur_lane honkai:_star_rail goddess_of_victory:_nikke neon_genesis_evangelion sonic_(series) spy_x_family
 ?nono-chan_(ayanue) -> original
 ?captain_beezy -> indie_virtual_youtuber
+?gilliam_(fire_emblem) -> fire_emblem fire_emblem:_the_sacred_stones fire_emblem_heroes fire_emblem:_three_houses fire_emblem_awakening fire_emblem:_radiant_dawn fire_emblem:_thracia_776 fate_(series) fate/grand_order final_fantasy
