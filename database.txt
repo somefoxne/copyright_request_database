@@ -2414,3 +2414,4 @@
 ?takamiya_koharu -> yumene_connect
 ?takebe_saori -> girls_und_panzer girls_und_panzer_motto_love_love_sakusen_desu! gekitotsu!_joshikousei_oiroke_sensha_gundan girls_und_panzer_senshadou_daisakusen! kantai_collection megami_magazine girls_und_panzer_saishuushou gundam girls_und_panzer_little_army world_of_tanks
 ?amane_misa -> death_note naruto_(series) sanrio naruto_(classic) my_melody_(series) pokemon genshin_impact one_piece dragon_ball panty_&_stocking_with_garterbelt
+?rem_(death_note) -> death_note pokemon sanrio original fire_emblem re:zero_kara_hajimeru_isekai_seikatsu avatar_legends azumanga_daioh my_melody_(series) the_simpsons
