@@ -3054,3 +3054,4 @@
 ?eta_(kagejitsu) -> kage_no_jitsuryokusha_ni_naritakute! kage_no_jitsuryokusha_ni_naritakute!_master_of_garden dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru_darou_ka megami_magazine minecraft youkai_watch overlord_(maruyama) newtype comiket_103 sin:_nanatsu_no_taizai
 ?air_colthearts -> summon_night summon_night:_swordcraft_story_2 summon_night:_swordcraft_story summon_night_craft_sword_monogatari_hajimari_no_ishi summon_night_3
 ?suo_kazusa -> nue_no_onmyouji fate_(series) blue_archive fate/grand_order azur_lane fate/apocrypha fatal_fury
+?suo_mirai -> nue_no_onmyouji
