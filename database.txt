@@ -3931,3 +3931,4 @@
 ?falin_touden_(tallman) -> dungeon_meshi sousou_no_frieren wizarding_world harry_potter_(series) the_legend_of_zelda dungeons_&_dragons pokemon blue_archive
 ?izutsumi -> dungeon_meshi pokemon dungeons_&_dragons one_piece original tsukihime arknights kimetsu_no_yaiba
 ?kiriko_(overwatch) -> overwatch perfect_night_(le_sserafim) street_fighter one-punch_man street_fighter_6 le_sserafim yoasobi marvel nier_(series) nier:automata
+?kuramochi_meruto_(casual) -> nijisanji niginigi_nijitown
