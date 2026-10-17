@@ -1820,3 +1820,4 @@
 ?fusaichi_pandora_(snatchin'_hearts)_(umamusume) -> umamusume coca-cola
 ?sumita_mana -> bang_dream! bang_dream!_yumemita arknights ganso!_bang_dream_chan bocchi_the_rock! kimetsu_no_yaiba bang_dream!_girls_band_party! original real_life
 ?timoris_(bang_dream!) -> bang_dream! killkiss_(bang_dream!) arknights real_life bang_dream!_our_notes girls_band_cry bang_dream!_girls_band_party! kao_(bang_dream!) lawson
+?shirokane_rinko -> bang_dream! bang_dream!_girls_band_party! mahou_shoujo_madoka_magica hibike!_euphonium idolmaster idolmaster_cinderella_girls k-on! girls_band_cry lycoris_recoil
