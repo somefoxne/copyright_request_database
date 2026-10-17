@@ -2241,3 +2241,4 @@
 ?ak-alfa_(girls'_frontline) -> metal_gear_(series) gunslinger_girl mario_(series) nier_(series) nier:automata silent_hill_(series) va-11_hall-a
 ?tololo_(girls'_frontline_2) -> nier_(series) nier:automata silent_hill_(series) silent_hill_f age_of_empires_(series) the_creation_of_adam age_of_empires_i
 ?tololo_(horizon_cruise)_(girls'_frontline_2) -> silent_hill_(series) silent_hill_f
+?suisui_(bombergirl) -> bombergirl gundam bemani beatmania_iidx tokimeki_memorial quiz_magic_academy tokimeki_memorial_1 bomberman twinbee chase_chase_jokers
