@@ -2992,3 +2992,4 @@
 ?aloupeep_(enna_alouette) -> nijisanji nijisanji_en kamippoina_(vocaloid) vocaloid persona boku_no_hero_academia jujutsu_kaisen persona_5 sanrio dark_souls_(series)
 ?lucie_(millie_parfait) -> nijisanji nijisanji_en pokemon hololive hololive_english pokemon_diamond/pearl/platinum hololive_indonesia minecraft mickey_mouse_&_friends nijisanji_kr
 ?jien_(nikke) -> goddess_of_victory:_nikke fancy_frontier_46 powerpuff_girls
+?harley_quinn -> dc_comics batman_(series) suicide_squad suicide_squad_(2016_movie) batman:_the_animated_series suicide_squad_isekai harley_quinn_(cartoon) batman:_arkham_(series) dc_animated_universe marvel
