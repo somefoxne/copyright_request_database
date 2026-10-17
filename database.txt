@@ -2760,3 +2760,4 @@
 ?shioriha_ruri -> nijisanji nijisanji_en niginigi_nijitown nijisanji_kr nijisanji_koshien virtual_talent_academy blue_archive monitoring_(vocaloid) idolmaster monster_hunter_(series)
 ?kurogane_ren -> shine_post
 ?araime_yasuri -> alice_gear_aegis frame_arms_girl pokemon
+?lucky_lilac_(racing)_(umamusume) -> umamusume princess_connect! helltaker invincible_(series) cygames detroit:_become_human pakatube red_dead_redemption_(series) red_dead_redemption_2
