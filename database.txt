@@ -2362,3 +2362,4 @@
 ?shikijou_kyousuke -> hentai_kamen gundam tenkuu_no_shiro_laputa kuso_miso_technique touhou pokemon mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) chainsaw_man
 ?hayasui_(kancolle) -> kantai_collection gundam real_life lawson aoki_hagane_no_arpeggio wacky_races original genshin_impact vocaloid kamen_rider
 ?slime_(genshin_impact) -> genshin_impact mihoyo honkai_(series) honkai_impact_3rd tears_of_themis original honkai:_star_rail touhou zenless_zone_zero arknights
+?7-tan -> os-tan microsoft_windows windows_7 original gegege_no_kitarou futaba_channel microsoft nijiura_maids suigetsu uchuu_senshi_baldios
