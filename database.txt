@@ -1687,3 +1687,4 @@
 ?mashiro_meme_(3rd_costume) -> nijisanji blue_archive vocaloid twitter youtube pepsi
 ?comfey -> pokemon pokemon_sun_and_moon pokemon_(anime) pokemon_the_series:_sun_&_moon pokemon_sword_and_shield pokemon_masters_ex pokemon_unite pokemon_ultra_sun_and_ultra_moon vocaloid pokemon_scarlet_and_violet
 ?carlotta_(wuthering_waves) -> wuthering_waves pizza-la comiket_105 fate_(series) lawson fate/grand_order genshin_impact fate/stay_night cyberpunk_(series) cyberpunk:_edgerunners
+?male_rover_(wuthering_waves) -> wuthering_waves cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 genshin_impact honkai_(series) honkai:_star_rail mihoyo zenless_zone_zero blue_archive
