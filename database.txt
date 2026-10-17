@@ -2188,3 +2188,4 @@
 ?herge_(real_life) -> real_life tintin
 ?professeur_tryphon_tournesol -> real_life tintin
 ?nikaido_hiro -> mahou_shoujo_no_majo_saiban mahou_shoujo_no_inshuu_mura haishin_shoujo_no_uraaka_meikyuu karaoke_manekineko treasure_cafe book_off comiket_108 project_moon bang_dream!
+?aleph_(reverse:1999) -> reverse:1999 poptepipic ace_attorney zombie_high_school original neon_genesis_evangelion
