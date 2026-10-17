@@ -3191,3 +3191,4 @@
 ?black_knife_tiche -> elden_ring helltaker elden_ring:_shadow_of_the_erdtree
 ?tarnished_(elden_ring) -> elden_ring elden_ring:_shadow_of_the_erdtree original dark_souls_(series) fromsoftware dark_souls_i bloodborne hololive dark_souls_iii hololive_english
 ?takarada_rikka -> gridman_universe ssss.gridman gridman_universe_(movie) ssss.dynazenon azur_lane atelier_(series) atelier_ryza blue_archive fate_(series) megami_magazine
+?makaino_ririmu -> nijisanji monitoring_(vocaloid) pokemon crazy_raccoon vspo! madtown_gta nijisanji_kr indie_virtual_youtuber nijisanji_koshien nijisanji_gta
