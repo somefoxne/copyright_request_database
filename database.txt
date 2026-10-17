@@ -2902,3 +2902,4 @@
 ?senoo_aiko -> ojamajo_doremi precure toei_company bishoujo_senshi_sailor_moon cardcaptor_sakura heartcatch_precure! mahou_shoujo_madoka_magica magic_knight_rayearth mermaid_melody_pichi_pichi_pitch tokyo_mew_mew
 ?mayu_(vocaloid) -> vocaloid voiceroid utau cevio exit_tunes itto_na_kataomoi_minoraseta_chiisa_na_shiawase_(vocaloid) evillious_nendaiki chimidoro_switch_(vocaloid) vsinger_(vocaloid) kashokusei:_idol_shoukougun_(vocaloid)
 ?dubois_(project_moon) -> project_moon limbus_company
+?the_sedimented_(project_moon) -> project_moon limbus_company
