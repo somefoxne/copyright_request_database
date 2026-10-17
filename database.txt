@@ -3473,3 +3473,4 @@
 ?en_(iwbitu) -> original
 ?hu-geng_(the_tale_of_food) -> the_tale_of_food
 ?gunvolt -> azure_striker_gunvolt azure_striker_gunvolt_3 azure_striker_gunvolt_1 azure_striker_gunvolt_2 gal_gun_(series) mighty_no._9 mega_man_(series) mighty_gunvolt inti_creates mighty_gunvolt_burst
+?joule_(gunvolt) -> azure_striker_gunvolt azure_striker_gunvolt_1 azure_striker_gunvolt_2 azure_striker_gunvolt_3 love_live! love_live!_sunshine!! gal_gun_(series) inti_creates mighty_no._9 mighty_gunvolt
