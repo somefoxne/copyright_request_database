@@ -1011,3 +1011,4 @@
 ?twin_turbo_(blast_mode!_turbo_engine)_(umamusume) -> umamusume pokemon gundam jojo_no_kimyou_na_bouken pokemon_scarlet_and_violet akari_ga_yatte_kitazo_(vocaloid) real_life umamusume:_cinderella_gray original g_gundam
 ?twin_turbo_(umamusume) -> umamusume pokemon vocaloid gundam jojo_no_kimyou_na_bouken pokemon_scarlet_and_violet real_life umamusume:_cinderella_gray umayuru original
 ?mejiro_mcqueen_(end_of_the_skies)_(umamusume) -> umamusume original pokemon arknights granblue_fantasy dragon_ball jujutsu_kaisen dragon_ball_z monster_hunter_(series) oshi_no_ko
+?mejiro_mcqueen_(umamusume) -> umamusume original real_life hanshin_tigers jojo_no_kimyou_na_bouken pokemon gundam umamusume:_cinderella_gray umayuru gintama
