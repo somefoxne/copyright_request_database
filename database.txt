@@ -1917,3 +1917,4 @@
 ?zhongli_(genshin_impact) -> genshin_impact mihoyo honkai_(series) honkai:_star_rail honkai_impact_3rd original zenless_zone_zero squid_game blue_archive fate_(series)
 ?lieserl_albert_einstein -> honkai_(series) honkai_impact_3rd honkai:_star_rail genshin_impact mihoyo pokemon hololive neon_genesis_evangelion elden_ring honkai_gakuen
 ?terry_bogard -> fatal_fury the_king_of_fighters snk street_fighter super_smash_bros. snk_heroines:_tag_team_frenzy garou:_mark_of_the_wolves ryuuko_no_ken mario_(series) street_fighter_6
+?esdeath -> akame_ga_kill! chainsaw_man original kantai_collection high_school_dxd fate_(series) genshin_impact one_piece persona kono_subarashii_sekai_ni_shukufuku_wo!
