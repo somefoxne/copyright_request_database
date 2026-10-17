@@ -3709,3 +3709,4 @@
 ?eve_(elsword) -> elsword vocaloid project_moon limbus_company mega_man_(series) dc_comics batman_(series) mega_man_zero_(series) mega_man_zx original
 ?moby_(elsword) -> elsword closers
 ?remy_(elsword) -> elsword closers
+?seong_mi-na -> soulcalibur soulcalibur_iv soulcalibur_vi soulcalibur_ii samurai_spirits soulcalibur_iii soul_edge street_fighter the_king_of_fighters dead_or_alive
