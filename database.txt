@@ -1275,3 +1275,4 @@
 ?lara_(sayonara_lara) -> sayonara_lara kinema_citrus the_little_mermaid_(disney) the_lovers_(studio_heartbreak) gundam cho_kaguya-hime! chiikawa genshin_impact honkai_(series) gundam_suisei_no_majo
 ?ootsu_mari -> sayonara_lara kinema_citrus the_little_mermaid_(disney) the_lovers_(studio_heartbreak) chiikawa genshin_impact honkai_(series) gundam cho_kaguya-hime! gundam_suisei_no_majo
 ?flandre_scarlet -> touhou embodiment_of_scarlet_devil touhou_lostword reitaisai touhou_(pc-98) pokemon original vocaloid touhou_tag_dream sunken_fossil_world
+?lingeriena_(black_souls) -> black_souls black_souls_2 satsuriku_no_tenshi blue_archive rabbit_hole_(vocaloid)
