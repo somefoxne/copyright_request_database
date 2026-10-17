@@ -2212,3 +2212,4 @@
 ?kaniki_(sameko_saba) -> indie_virtual_youtuber hololive hololive_english kobayashi-san_chi_no_maidragon spongebob_squarepants_(series) kantai_collection vocaloid sousou_no_frieren nier_(series) nier:automata
 ?sameko_saba -> indie_virtual_youtuber hololive hololive_english blue_archive kantai_collection original pokemon kobayashi-san_chi_no_maidragon peak_(game) densetsu.exe
 ?sameko_saba_(lighthouse_maid) -> indie_virtual_youtuber ancient_aliens
+?endou_aina -> lovely_aina-chan original comic_bavel kaede_to_suzu comiket_101
