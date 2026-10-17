@@ -1319,3 +1319,4 @@
 ?zan_partizanne -> kirby_(series) kirby_star_allies kirby_64 kirby:_planet_robobot kirby_and_the_forgotten_land kirby:_squeak_squad kirby:_triple_deluxe
 ?grim_(twisted_wonderland) -> twisted_wonderland the_nightmare_before_christmas lilo_&_stitch fate_(series) fate/grand_order kimetsu_no_yaiba disney nijisanji mickey_mouse_&_friends youtube
 ?araragi_tsukihi -> monogatari_(series) nisemonogatari bakemonogatari nekomonogatari orokamonogatari tsukimonogatari platinum_disco_(song) monogatari_series_puc_puc otorimonogatari touhou
+?shinomiya_shizuku -> bang_dream! bang_dream!_our_notes bang_dream!_yumemita gundam jojo_no_kimyou_na_bouken bang_dream!_girls_band_party! steel_ball_run make_heroine_ga_oo_sugiru! gundam_wing
