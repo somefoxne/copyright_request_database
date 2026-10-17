@@ -1095,3 +1095,4 @@
 ?wakasagihime -> touhou double_dealing_character touhou_(pc-98) touhou_lostword pokemon legacy_of_lunatic_kingdom ten_desires touhou_bougetsushou imperishable_night perfect_cherry_blossom
 ?naitou_maia -> hapymaher purple_software original amatsutsumi kantai_collection amairo_islenauts zettai_ryouiki_sex_royale!! melonbooks senren_banka
 ?nonohara_akane -> idolmaster idolmaster_million_live! idolmaster_million_live!_theater_days idolmaster_(classic) idolmaster_cinderella_girls idolmaster_poplinks idolmaster_va-liv idolmaster_shiny_colors gakuen_idolmaster idolmaster_cinderella_girls_starlight_stage
+?midoriya_izuku -> boku_no_hero_academia shounen_jump marvel naruto_(series) one_piece kimetsu_no_yaiba spider-man_(series) boku_no_hero_academia:_more one-punch_man dragon_ball
