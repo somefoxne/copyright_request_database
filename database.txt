@@ -1930,3 +1930,4 @@
 ?tomoe_(persona_4) -> persona persona_4 persona_3 tengen_toppa_gurren_lagann persona_4:_the_ultimate_in_mayonaka_arena persona_4_revival persona_4_the_animation marvel persona_5 durarara!!
 ?hyuna_(alien_stage) -> alien_stage zombie_stage ipstar danganronpa_(series) chiikawa wiege_(alien_stage) sanrio grand_theft_auto grand_theft_auto_vi ruler_of_my_heart_(alien_stage)
 ?hyuna_(zombie_stage) -> alien_stage zombie_stage danganronpa_(series) instagram futatsu_no_mokuba_(vocaloid) paparazzi_(lady_gaga)
+?luka_(alien_stage) -> alien_stage zombie_stage ipstar blink_gone_(alien_stage) ruler_of_my_heart_(alien_stage) sanrio wiege_(alien_stage) houseki_no_kuni the_amazing_digital_circus danganronpa_(series)
