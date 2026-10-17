@@ -2798,3 +2798,4 @@
 ?eris_greyrat_(adult) -> mushoku_tensei re:zero_kara_hajimeru_isekai_seikatsu original elden_ring overlord_(maruyama) kage_no_jitsuryokusha_ni_naritakute! fate_(series) fate/grand_order fire_emblem kono_subarashii_sekai_ni_shukufuku_wo!
 ?desscaras -> madan_no_ichi pokemon one_piece jojo_no_kimyou_na_bouken stardust_crusaders kagurabachi mairimashita!_iruma-kun shounen_jump sankyuu_pitch
 ?mus1ca_(vtuber) -> indie_virtual_youtuber
+?futatsuiwa_mamizou -> touhou ten_desires touhou_(pc-98) urban_legend_in_limbo forbidden_scrollery hopeless_masquerade undefined_fantastic_object wild_and_horned_hermit embodiment_of_scarlet_devil imperishable_night
