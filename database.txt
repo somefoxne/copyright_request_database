@@ -2495,3 +2495,4 @@
 ?katsuragi_izumi_(swimsuit) -> love_live! love_live!_hasu_no_sora_jogakuin_school_idol_club comiket_108 hachiban_ramen
 ?coraline_(black_survival) -> black_survival eternal_return:_black_survival daejeon_autoarms
 ?ashal_(mansu) -> original rainbow_six_siege
+?griffith_(berserk) -> berserk neon_genesis_evangelion final_fantasy final_fantasy_vii marvel original gundam dragon_ball shingeki_no_kyojin street_fighter
