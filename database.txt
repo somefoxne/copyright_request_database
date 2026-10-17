@@ -2473,3 +2473,4 @@
 ?kodai_susumu -> uchuu_senkan_yamato uchuu_senkan_yamato_2199 uchuu_senkan_yamato_2202:_ai_no_senshi-tachi original super_robot_wars record_of_lodoss_war uchuu_senkan_yamato_2205:_arata_naru_tabidachi vocaloid gundam precure
 ?son_goku -> dragon_ball dragon_ball_z dragon_ball_super dragon_ball_gt dragon_ball_(classic) dragon_ball_daima dragon_ball_super_broly dragon_ball_heroes one_piece naruto_(series)
 ?huntsworn_lilya -> reverse:1999
+?lilya_(reverse:1999) -> reverse:1999 ipstar original pokemon coca-cola nirvana_(band) nevermind green_day
