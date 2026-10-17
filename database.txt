@@ -1038,3 +1038,4 @@
 ?gardevoir -> pokemon original pokemon_unite pokemon_x_and_y pokemon_omega_ruby_and_alpha_sapphire pokemon_sword_and_shield pokemon_legends:_arceus pokemon_legends:_z-a pokemon_(anime) pokemon_scarlet_and_violet
 ?ralts -> pokemon pokemon_ruby/sapphire/emerald pokemon_omega_ruby_and_alpha_sapphire pokemon_diamond/pearl/platinum pokemon_firered_and_leafgreen original pokemon_emerald pokemon_tcg pokemon_legends:_arceus pokemon_(anime)
 ?fuwawa_abyssgard -> hololive hololive_english hololive_indonesia hololive_dev_is hololive_grand_theft_auto enigmatic_recollection hololive_dreams fuwamoco_adventure pokemon metal_gear_(series)
+?dokugamine_riruka -> bleach bleach:_sennen_kessen-hen bleach:_the_high_school_warfare bleach:_brave_souls bleach:_epilogue ziga original panty_&_stocking_with_garterbelt carnival_phantasm bleach:_zanpakutou_ibun_hen
