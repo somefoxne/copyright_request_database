@@ -2304,3 +2304,4 @@
 ?himekawa_nene -> mayonaka_heart_tune muv-luv muv-luv_alternative kanan-sama_wa_akumade_choroi calbee_(potato_chips)
 ?kirino_iko -> mayonaka_heart_tune megami_magazine comiket_106 calbee_(potato_chips)
 ?uzuki_shinobu -> mayonaka_heart_tune megami_magazine calbee_(potato_chips)
+?xion_(trickcal) -> trickcal blue_archive naruto_(series) yani_neko akira_(manga) greek_mythology helldivers_(series) the_creation_of_adam hibana_(vocaloid) bokete
