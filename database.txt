@@ -3444,3 +3444,4 @@
 ?weiss_winterprison -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_unmarked mahou_shoujo_ikusei_keikaku_restart mahou_shoujo_ikusei_keikaku_limited mahou_shoujo_ikusei_keikaku_jokers mahou_shoujo_ikusei_keikaku_f2p
 ?wriggle_nightbug -> touhou imperishable_night touhou_(pc-98) embodiment_of_scarlet_devil night_sparrow_love pokemon touhou_tag_dream perfect_cherry_blossom saturday_night_fever touhou_cannonball
 ?lethe_(trickcal) -> trickcal cardcaptor_sakura pink_floyd dark_side_of_the_moon
+?yamashita_hideko -> high_school_fleet
