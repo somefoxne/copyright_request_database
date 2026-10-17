@@ -1729,3 +1729,4 @@
 ?liberalio_(nikke) -> goddess_of_victory:_nikke lawson ichiban_kuji comiket_108 pokemon indie_virtual_youtuber nivel_arena
 ?manhattan_cafe_(mysterious_rose)_(umamusume) -> umamusume comiket_108 original resident_evil resident_evil_village zuutto_issho_(kitani_tatsuya)
 ?clair_vaux_bernardus -> umineko_no_naku_koro_ni requiem_of_the_golden_witch bang_dream! higurashi_no_naku_koro_ni lord_of_the_mysteries darker_than_black 4chan ougon_musou_kyoku
+?rogue_(x-men) -> marvel x-men marvel_rivals x-men:_the_animated_series x-men_evolution marvel_vs._capcom street_fighter spider-man_(series) the_incredible_hulk_(series) marvel_vs._capcom_2
