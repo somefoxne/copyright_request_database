@@ -1792,3 +1792,4 @@
 ?clara_bow -> wings_(1927_movie)
 ?mary_preston -> wings_(1927_movie)
 ?hanayagi_kaoruko -> shoujo_kageki_revue_starlight shoujo_kageki_revue_starlight_-re_live- love_live! bang_dream! bang_dream!_girls_band_party! umamusume love_live!_nijigasaki_high_school_idol_club assault_lily bushiroad real_life
+?tendo_maya -> shoujo_kageki_revue_starlight shoujo_kageki_revue_starlight_-re_live- bang_dream! love_live! bang_dream!_girls_band_party! umamusume real_life fire_emblem love_live!_nijigasaki_high_school_idol_club toji_no_miko
