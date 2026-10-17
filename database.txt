@@ -3710,3 +3710,4 @@
 ?moby_(elsword) -> elsword closers
 ?remy_(elsword) -> elsword closers
 ?seong_mi-na -> soulcalibur soulcalibur_iv soulcalibur_vi soulcalibur_ii samurai_spirits soulcalibur_iii soul_edge street_fighter the_king_of_fighters dead_or_alive
+?shinso_hitoshi -> boku_no_hero_academia pokemon original precure one_piece marvel jujutsu_kaisen kimetsu_no_yaiba haikyuu!! arknights
