@@ -2213,3 +2213,4 @@
 ?sameko_saba -> indie_virtual_youtuber hololive hololive_english blue_archive kantai_collection original pokemon kobayashi-san_chi_no_maidragon peak_(game) densetsu.exe
 ?sameko_saba_(lighthouse_maid) -> indie_virtual_youtuber ancient_aliens
 ?endou_aina -> lovely_aina-chan original comic_bavel kaede_to_suzu comiket_101
+?riyala_bey_(azur_lane) -> azur_lane
