@@ -2962,3 +2962,4 @@
 ?chinatsu_(juukyuu) -> original
 ?mamiya_(kancolle) -> kantai_collection aoki_hagane_no_arpeggio lawson original geinoujin_kakuzuke_check girls_und_panzer gundam sazae-san pokemon metal_gear_(series)
 ?barbara_gordon_(absolute_dc) -> dc_comics absolute_dc absolute_batman batman_(series)
+?the_bat_(absolute_dc) -> dc_comics absolute_dc absolute_batman batman_(series)
