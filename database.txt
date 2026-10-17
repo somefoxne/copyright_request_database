@@ -1329,3 +1329,4 @@
 ?bismarck_(beacon_of_the_iron_blood)_(azur_lane) -> azur_lane fate_(series) fate/grand_order granblue_fantasy original kantai_collection azur_lane:_slow_ahead arakawa_under_the_bridge never_gonna_give_you_up
 ?prinz_eugen_(azur_lane) -> azur_lane kantai_collection fate_(series) fate/grand_order comiket_94 original azur_lane:_slow_ahead granblue_fantasy girls_und_panzer
 ?prinz_eugen_(cordial_cornflower)_(azur_lane) -> azur_lane
+?satou_kazuma -> kono_subarashii_sekai_ni_shukufuku_wo! kono_subarashii_sekai_ni_shukufuku_wo!_kono_yokubukai_game_ni_shinpan_o! konosuba!_fantastic_days re:zero_kara_hajimeru_isekai_seikatsu isekai_quartet overlord_(maruyama) youjo_senki kono_subarashii_sekai_ni_shukufuku_wo!:_kurenai_densetsu sousou_no_frieren toaru_majutsu_no_index
