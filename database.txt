@@ -1670,3 +1670,4 @@
 ?focalors_(genshin_impact) -> genshin_impact honkai_(series) honkai:_star_rail mihoyo wuthering_waves kono_subarashii_sekai_ni_shukufuku_wo! synthesizer_v liar_dancer_(synthesizer_v) +-0_(vocaloid) arknights
 ?henya_the_genius -> vshojo indie_virtual_youtuber hololive hololive_english nijisanji voms original nijisanji_en densetsu.exe pokemon
 ?henya_the_genius_(kung-fu_henya) -> vshojo indie_virtual_youtuber
+?fang_tang_(false_memory) -> false_memory
