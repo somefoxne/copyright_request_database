@@ -2355,3 +2355,4 @@
 ?takioto_kousuke -> magical_explorer
 ?zinogre -> monster_hunter_(series) monster_hunter_portable_3rd monster_hunter_rise pokemon monster_hunter:_world monster_hunter_3_g umamusume arknights hololive monster_hunter_x
 ?protagonist_(doki_doki_literature_club) -> doki_doki_literature_club vocaloid dragon_ball kirby_(series) cevio voiceroid dragon_ball_z one-punch_man among_us
+?kaku_seiga -> touhou ten_desires touhou_(pc-98) touhou_lostword undefined_fantastic_object embodiment_of_scarlet_devil perfect_cherry_blossom imperishable_night phantasmagoria_of_flower_view original
