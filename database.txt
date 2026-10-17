@@ -1057,3 +1057,4 @@
 ?yagami_hikari -> digimon digimon_adventure digimon_adventure_02 digimon_adventure_tri. digimon_tamers digimon_frontier digimon_adventure:_(2020) digimon_xros_wars digimon_savers pokemon
 ?mechanic_(splatoon_raiders) -> splatoon_(series) splatoon_raiders splatoon_3 splatoon_1 splatoon_2 nintendo metal_slug spongebob_squarepants_(series) splatoon_2:_octo_expansion
 ?demon_dragon_(zelda) -> the_legend_of_zelda the_legend_of_zelda:_tears_of_the_kingdom the_legend_of_zelda:_breath_of_the_wild the_legend_of_zelda:_twilight_princess original pokemon splatoon_(series) pokemon_scarlet_and_violet splatoon_3 the_legend_of_zelda:_ocarina_of_time
+?ganondorf -> the_legend_of_zelda the_legend_of_zelda:_ocarina_of_time the_legend_of_zelda:_tears_of_the_kingdom super_smash_bros. the_legend_of_zelda:_twilight_princess mario_(series) the_legend_of_zelda:_breath_of_the_wild the_legend_of_zelda:_the_wind_waker pokemon kirby_(series)
