@@ -4282,3 +4282,4 @@
 ?yashiro_kasumi -> muv-luv muv-luv_alternative muv-luv_alternative_(anime) muv-luv_altered_fable muv-luv_total_eclipse muv-luv:_dimensions fate_(series) fate/stay_night tsukihime muv-luv_alternative_strike_frontier
 ?naegi_makoto -> danganronpa_(series) danganronpa:_trigger_happy_havoc danganronpa_2:_goodbye_despair danganronpa_v3:_killing_harmony danganronpa_another_episode:_ultra_despair_girls danganronpa/zero sanrio
 ?maxwell_(ordinary_mechanic)_(chief_researcher)_(nikke) -> goddess_of_victory:_nikke
+?ayamine_kei -> muv-luv muv-luv_alternative muv-luv_alternative_(anime) muv-luv_girls_garden muv-luv:_dimensions muv-luv_altered_fable muv-luv_alternative_strike_frontier project_mikhail original precure
