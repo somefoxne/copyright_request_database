@@ -3826,3 +3826,4 @@
 ?luna_(kyokugen_dasshutsu) -> kyokugen_dasshutsu kyokugen_dasshutsu_adv:_zennin_shibou_desu zero_escape:_toki_no_dilemma kyokugen_dasshutsu:_9_jikan_9_nin_9_no_tobira danganronpa_(series) danganronpa_2:_goodbye_despair pokemon gundam persona persona_5
 ?gregor_(project_moon) -> project_moon limbus_company library_of_ruina arknights lobotomy_corporation the_metamorphosis original chainsaw_man mili_(band) pokemon
 ?hierda_(episode_17)_(arknights) -> arknights project_moon limbus_company forza forza_horizon_6 california_gurls
+?chief_undyne -> utdr_(toby_fox) deltarune undertale helltaker chainsaw_man street_fighter jujutsu_kaisen shingeki_no_kyojin little_red_riding_hood_(fairy_tale) street_fighter_iii_(series)
