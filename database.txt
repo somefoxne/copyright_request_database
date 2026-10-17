@@ -2971,3 +2971,4 @@
 ?usagi_(chiikawa) -> chiikawa original blue_archive sanrio pokemon umamusume vocaloid boku_no_hero_academia touhou my_melody_(series)
 ?edd_(eddsworld) -> eddsworld the_beginning_and_the_friend pokemon sonic_(series) utdr_(toby_fox) original tordsworld deltarune makeship tomsworld
 ?tord_(eddsworld) -> eddsworld the_beginning_and_the_friend pokemon sonic_(series) dear_starboy utdr_(toby_fox) undertale copycat_(vocaloid) tordsworld
+?nikaidou_tadashi -> devil_survivor_(series) devil_survivor_1 megami_tensei shin_megami_tensei durarara!! atlus
