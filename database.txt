@@ -1427,3 +1427,4 @@
 ?yu_phas_(fire_emblem) -> fire_emblem
 ?cassie_(tobias_wheller) -> original
 ?bryan_hodukavich -> resident_evil resident_evil_(2026_movie) resident_evil_2 resident_evil_2_(remake) resident_evil_requiem resident_evil_4 resident_evil_1 resident_evil_3:_nemesis project_hail_mary
+?hatsune_miku_(miku_with_you_2026) -> vocaloid miku_with_you_(vocaloid)
