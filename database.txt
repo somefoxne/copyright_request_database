@@ -3650,3 +3650,4 @@
 ?kirishima_eijiro -> boku_no_hero_academia boku_no_hero_academia:_more original jujutsu_kaisen pokemon kirby_(series) mario_(series) touken_ranbu one-punch_man silent_hill_(series)
 ?ilulu_(maidragon) -> kobayashi-san_chi_no_maidragon original blue_archive pokemon fate_(series) one-punch_man kono_subarashii_sekai_ni_shukufuku_wo! fate/extra fate/extra_ccc cuddly_octopus
 ?onozuka_komachi -> touhou cookie_(touhou) phantasmagoria_of_flower_view touhou_(pc-98) touhou_lostword touhou_tag_dream scarlet_weather_rhapsody reitaisai death_angel_komachi saturday_night_fever
+?hoshiguma_yuugi -> touhou subterranean_animism touhou_(pc-98) touhou_tag_dream original reitaisai touhou_lostword m.u.g.e.n reitaisai_8_contest saturday_night_fever
