@@ -1128,3 +1128,4 @@
 ?makise_kurisu -> science_adventure steins;gate steins;gate_0 chaos;head chaos;child robotics;notes mon-musu_quest! steins;gate:_linear_bounded_phenogram occultic;nine
 ?onoe_serika -> science_adventure chaos;child chaos;head robotics;notes steins;gate chaos;child_love_chu_chu!! occultic;nine 5pb. anonymous;code chaos;head_love_chu_chu!
 ?phinx_(robotics;notes) -> science_adventure robotics;notes steins;gate chaos;head chaos;child occultic;nine kidou_battle_gunvarrel 5pb. robotics;notes_dash anonymous;code
+?senomiya_akiho -> science_adventure robotics;notes robotics;notes_dash steins;gate chaos;head chaos;child kidou_battle_gunvarrel occultic;nine skal 5pb.
