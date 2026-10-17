@@ -2831,3 +2831,4 @@
 ?puyo_(puyopuyo) -> puyopuyo puyopuyo_20th_anniversary madou_monogatari puyopuyo_quest puyopuyo_sun puyopuyo_fever_2 puyopuyo~n sonic_(series) puyopuyo_7 puyopuyo_tetris
 ?koto_satsuki -> watashi_ga_koibito_ni_nareru_wake_naijan_murimuri! kamen_rider mahou_shoujo_no_majo_saiban vocaloid bang_dream! bocchi_the_rock! bishoujo_senshi_sailor_moon megami_magazine snow_white_(fairy_tale)
 ?enmu_(kimetsu_no_yaiba) -> kimetsu_no_yaiba villain_(vocaloid) sekiro:_shadows_die_twice pokemon pokemon_masters_ex wizarding_world harry_potter_(series) puyopuyo houseki_no_kuni azumanga_daioh
+?anko_(gochiusa) -> gochuumon_wa_usagi_desu_ka? manga_time_kirara kin-iro_mosaic clockwork_rabbit chimame_chronicle sanrio genshin_impact new_game! lawson
