@@ -3585,3 +3585,4 @@
 ?ludia_senghor -> fire_emblem
 ?jingei_(kancolle) -> kantai_collection little_red_riding_hood_(fairy_tale) c2_kikan pokemon fate_(series) fate/grand_order kamen_rider urusei_yatsura lawson halloween_(movie)
 ?mizuhara_chizuru -> kanojo_okarishimasu megami_magazine animedia shiunji-ke_no_kodomotachi jujutsu_kaisen kono_subarashii_sekai_ni_shukufuku_wo! real_life world_cup 2026_fifa_world_cup
+?luciana_de_montefio -> zenless_zone_zero mihoyo genshin_impact original umamusume honkai_(series) blue_archive comiket_108 honkai:_star_rail mario_(series)
