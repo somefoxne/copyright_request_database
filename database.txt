@@ -4213,3 +4213,4 @@
 ?super_aoko -> mahou_tsukai_no_yoru fate_(series) fate/grand_order tsukihime kara_no_kyoukai type-moon fate/stay_night tsukihime_(remake) melty_blood xenoblade_chronicles_(series)
 ?birgitta_(genshin_impact) -> genshin_impact chainsaw_man instagram
 ?joji_(theater_company_prince) -> theater_company_prince
+?kajiyama_fuuta -> milgram north_american_mythology precure danganronpa_(series) utau danganronpa_2:_goodbye_despair danganronpa_v3:_killing_harmony alien_stage the_hundred_line_-last_defense_academy- futari_wa_precure
