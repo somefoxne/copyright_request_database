@@ -3462,3 +3462,4 @@
 ?alexia_midgar -> kage_no_jitsuryokusha_ni_naritakute! kage_no_jitsuryokusha_ni_naritakute!_master_of_garden fate_(series) fate/kaleid_liner_prisma_illya megami_magazine dolphin_wave newtype comp_ace
 ?rose_oriana -> kage_no_jitsuryokusha_ni_naritakute! kage_no_jitsuryokusha_ni_naritakute!_master_of_garden hololive megami_magazine
 ?kitagawa_marin -> sono_bisque_doll_wa_koi_wo_suru komi-san_wa_komyushou_desu ijiranaide_nagatoro-san uzaki-chan_wa_asobitai! hololive original blue_archive chainsaw_man dandadan fate_(series)
+?wakui_keita -> devil_survivor_(series) devil_survivor_2
