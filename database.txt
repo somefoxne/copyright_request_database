@@ -1891,3 +1891,4 @@
 ?kazanari_tsubasa -> senki_zesshou_symphogear senki_zesshou_symphogear_xd_unlimited lyrical_nanoha megami_magazine gundam newtype nyantype mahou_shoujo_lyrical_nanoha_strikers gundam_seed love_live!
 ?albus_dumbledore -> wizarding_world harry_potter_(series) harry_potter_and_the_deathly_hallows jujutsu_kaisen death_note fantastic_beasts_and_where_to_find_them harry_potter_and_the_goblet_of_fire touhou hololive
 ?minerva_mcgonagall -> wizarding_world harry_potter_(series) harry_potter_and_the_deathly_hallows harry_potter:_magic_awakened innocent_witches_(fangame) idolmaster idolmaster_shiny_colors azumanga_daioh yuri!!!_on_ice
+?sorting_hat -> wizarding_world harry_potter_(series) umamusume hogwarts_legacy idolmaster kantai_collection hololive kemono_friends re:zero_kara_hajimeru_isekai_seikatsu
