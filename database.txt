@@ -3896,3 +3896,4 @@
 ?agott_arklaum_(tongari_boushi_no_atelier) -> tongari_boushi_no_atelier mahou_shoujo_madoka_magica dungeon_meshi jujutsu_kaisen omori love-bullet honkai_(series) honkai:_star_rail bocchi_the_rock! sousou_no_frieren
 ?amity_blight -> the_owl_house adventure_time dc_comics avatar_legends league_of_legends steven_universe she-ra_and_the_princesses_of_power bishoujo_senshi_sailor_moon little_witch_academia the_legend_of_korra
 ?coco_(tongari_boushi_no_atelier) -> tongari_boushi_no_atelier dungeon_meshi sousou_no_frieren mahou_shoujo_madoka_magica love-bullet starry_night_(van_gogh) omori the_owl_house honkai_(series) honkai:_star_rail
+?falin_touden -> dungeon_meshi sousou_no_frieren the_legend_of_zelda pokemon dungeons_&_dragons the_legend_of_zelda:_tears_of_the_kingdom wizarding_world harry_potter_(series)
