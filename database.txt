@@ -3621,3 +3621,4 @@
 ?kamishirasawa_keine -> touhou imperishable_night touhou_(pc-98) touhou_tag_dream night_sparrow_love pokemon embodiment_of_scarlet_devil original touhou_lostword reitaisai
 ?naoe_riki -> little_busters! key_(company) angel_beats! kanon clannad rewrite air_(visual_novel) kud_wafter summer_pockets charlotte_(anime)
 ?natsume_kyousuke -> little_busters! key_(company) rewrite angel_beats! kanon air_(visual_novel) clannad summer_pockets charlotte_(anime) kud_wafter
+?shii_nana -> nusisring_tactical original
