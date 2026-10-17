@@ -4044,3 +4044,4 @@
 ?fidel_castro -> real_life original mc_axis nihon-chan
 ?wheatley -> portal_(series) portal_2 portal_1 vocaloid utdr_(toby_fox) undertale team_fortress_2 touhou blue_archive pokemon
 ?izumi_yuki -> heaven_burns_red key_(company) angel_beats! snow_white_(fairy_tale) yostar little_busters! rewrite summer_pockets comiket_107 persona
+?kayamori_ruka -> heaven_burns_red key_(company) angel_beats! clannad persona persona_5 yostar little_busters! jikkyou_powerful_pro_yakyuu dango_daikazoku
