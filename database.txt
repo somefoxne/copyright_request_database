@@ -1480,3 +1480,4 @@
 ?panty_(psg) -> panty_&_stocking_with_garterbelt kill_la_kill tengen_toppa_gurren_lagann trigger_(company) pokemon neon_genesis_evangelion gainax touhou mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime)
 ?matoi_ryuuko -> kill_la_kill trigger_(company) tengen_toppa_gurren_lagann little_witch_academia original pokemon fate_(series) panty_&_stocking_with_garterbelt touhou chainsaw_man
 ?senketsu -> kill_la_kill trigger_(company) tengen_toppa_gurren_lagann touhou little_witch_academia original pokemon neon_genesis_evangelion kantai_collection panty_&_stocking_with_garterbelt
+?kotobuki_hisako -> seitokai_ni_mo_ana_wa_aru! onii-chan_wa_oshimai! mushoku_tensei flcl fate_(series) fate/grand_order idolmaster umamusume idolmaster_cinderella_girls gundam
