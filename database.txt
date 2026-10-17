@@ -3472,3 +3472,4 @@
 ?morichika_rinnosuke -> touhou touhou_(pc-98) curiosities_of_lotus_asia original m.u.g.e.n imperishable_night pokemon embodiment_of_scarlet_devil perfect_cherry_blossom jojo_no_kimyou_na_bouken
 ?en_(iwbitu) -> original
 ?hu-geng_(the_tale_of_food) -> the_tale_of_food
+?gunvolt -> azure_striker_gunvolt azure_striker_gunvolt_3 azure_striker_gunvolt_1 azure_striker_gunvolt_2 gal_gun_(series) mighty_no._9 mega_man_(series) mighty_gunvolt inti_creates mighty_gunvolt_burst
