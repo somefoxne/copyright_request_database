@@ -4252,3 +4252,4 @@
 ?candice_catnipp -> bleach bleach:_sennen_kessen-hen bleach:_brave_souls bleach:_the_high_school_warfare original umamusume darkstalkers fairy_tail powerpuff_girls grand_theft_auto
 ?gerard_valkyrie -> bleach bleach:_sennen_kessen-hen bleach:_epilogue
 ?ahri_(league) -> league_of_legends overwatch original 2xko genshin_impact final_fantasy ruined_king:_a_league_of_legends_story fate_(series) touhou
+?star_guardian_ahri -> league_of_legends avatar_legends avatar:_the_last_airbender original overwatch bishoujo_senshi_sailor_moon bishoujo_senshi_sailor_moon_s
