@@ -1416,3 +1416,4 @@
 ?minori_yume_(jourd4n) -> original angry_birds
 ?rayzel_(jourd4n) -> original
 ?okita_souji_(fate) -> fate_(series) fate/grand_order koha-ace fate/stay_night drifters fate/extra fate/apocrypha fate/type_redline touken_ranbu fate/extra_ccc
+?okita_souji_(koha-ace) -> fate_(series) fate/grand_order koha-ace fate/stay_night drifters fate/extra fate/apocrypha touken_ranbu fate/extra_ccc fate/type_redline
