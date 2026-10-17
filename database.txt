@@ -4048,3 +4048,4 @@
 ?yuri_(doki_doki_literature_club) -> doki_doki_literature_club utdr_(toby_fox) omori vocaloid chainsaw_man undertale mahou_shoujo_madoka_magica kirby_(series) original
 ?mako_(vuxer) -> original
 ?aiboo_(mint_fantome) -> indie_virtual_youtuber densetsu.exe vshojo metal_gear_(series) blue_archive pokemon hololive hololive_english vinesauce monitoring_(vocaloid)
+?tenko_shibuki_(1st_costume) -> stellive mario_(series) monster_hunter_(series) minecraft monster_hunter_wilds
