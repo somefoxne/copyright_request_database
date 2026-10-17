@@ -4195,3 +4195,4 @@
 ?aleida_guevara -> real_life
 ?aria_(human)_(cuteness_loading)_(zenless_zone_zero) -> zenless_zone_zero honkai_(series) honkai:_star_rail jojo_no_kimyou_na_bouken stardust_crusaders mihoyo
 ?nangong_yu_(heartfelt_support) -> zenless_zone_zero honkai_(series) honkai:_star_rail jojo_no_kimyou_na_bouken stardust_crusaders mihoyo kfc
+?royal_penguin_(kemono_friends) -> kemono_friends kemono_friends_3 kemono_friends_pavilion kemono_friends_2 kemono_friends_kingdom original kantai_collection kemono_friends_v_project doremifa_rondo_(vocaloid) touhou
