@@ -3010,3 +3010,4 @@
 ?hatsune_miku_(vocaloid4) -> vocaloid piapro_studio tokumei_m_(vocaloid) hatsune_miku_happy_16th_birthday_-dear_creators- ai_kotoba_iv_(vocaloid) magical_mirai_(vocaloid) utau chimera_(vocaloid) synthesizer_v vampire_(vocaloid)
 ?johnston_(halloween)_(kancolle) -> kantai_collection machikado_mazoku
 ?johnston_(kancolle) -> kantai_collection lawson coca-cola marvel i_want_you the_lone_ranger comiket_100 original the_legend_of_zelda neon_genesis_evangelion
+?soren_(fire_emblem) -> fire_emblem fire_emblem:_path_of_radiance fire_emblem:_radiant_dawn fire_emblem_heroes fire_emblem_awakening fire_emblem_fates fire_emblem_engage fire_emblem_cipher fire_emblem:_the_blazing_blade fire_emblem:_mystery_of_the_emblem
