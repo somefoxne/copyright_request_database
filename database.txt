@@ -1035,3 +1035,4 @@
 ?shantae -> shantae_(series) shantae:_half-genie_hero shantae_advance:_risky_revolution metroid shantae_and_the_seven_sirens pokemon super_smash_bros. the_legend_of_zelda
 ?yui_shousetsu_(fate) -> fate_(series) fate/samurai_remnant fate/grand_order kyu-kurarin_(cevio) pokemon street_fighter pokemon_sun_and_moon real_life fate/apocrypha pokemon_x_and_y
 ?yui_shousetsu_(third_ascension)_(fate) -> fate_(series) fate/grand_order fate/samurai_remnant
+?gardevoir -> pokemon original pokemon_unite pokemon_x_and_y pokemon_omega_ruby_and_alpha_sapphire pokemon_sword_and_shield pokemon_legends:_arceus pokemon_legends:_z-a pokemon_(anime) pokemon_scarlet_and_violet
