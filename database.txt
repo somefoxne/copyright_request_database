@@ -3785,3 +3785,4 @@
 ?takarai_hiyori -> hypnosis_mic hypnosis_mic:_rule_the_stage
 ?clive_(fire_emblem) -> fire_emblem fire_emblem_echoes:_shadows_of_valentia fire_emblem_heroes fire_emblem_fates fire_emblem:_mystery_of_the_emblem fire_emblem_cipher fire_emblem_gaiden fire_emblem:_three_houses fire_emblem:_the_blazing_blade fire_emblem_awakening
 ?mathilda_(fire_emblem) -> fire_emblem fire_emblem_echoes:_shadows_of_valentia fire_emblem_heroes fire_emblem_gaiden fire_emblem:_mystery_of_the_emblem fire_emblem_fates fire_emblem_awakening fire_emblem:_the_blazing_blade fire_emblem:_three_houses fire_emblem:_path_of_radiance
+?basil_(faraway)_(omori) -> omori omariposa emori pokemon original utdr_(toby_fox) vocaloid deltarune undertale persona
