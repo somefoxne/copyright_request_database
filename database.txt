@@ -4023,3 +4023,4 @@
 ?inoue_orihime_(hueco_mundo) -> bleach bleach:_sennen_kessen-hen bleach:_brave_souls danganronpa_(series) cardcaptor_sakura azumanga_daioh chiikawa bleach:_epilogue bleach:_the_high_school_warfare asano_sisters_project
 ?guanyin -> journey_to_the_west original all_wishes_come_true! path_to_nowhere cookie_run cookie_run:_kingdom chinese_mythology reverse:1999 the_tale_of_food
 ?alan_aramaki -> rose_guns_days higurashi_no_naku_koro_ni umineko_no_naku_koro_ni
+?elizabeth_bathory_(idol's_sleep_wear)_(fate) -> fate_(series) fate/extra fate/extella
