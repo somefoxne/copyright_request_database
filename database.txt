@@ -4283,3 +4283,4 @@
 ?naegi_makoto -> danganronpa_(series) danganronpa:_trigger_happy_havoc danganronpa_2:_goodbye_despair danganronpa_v3:_killing_harmony danganronpa_another_episode:_ultra_despair_girls danganronpa/zero sanrio
 ?maxwell_(ordinary_mechanic)_(chief_researcher)_(nikke) -> goddess_of_victory:_nikke
 ?ayamine_kei -> muv-luv muv-luv_alternative muv-luv_alternative_(anime) muv-luv_girls_garden muv-luv:_dimensions muv-luv_altered_fable muv-luv_alternative_strike_frontier project_mikhail original precure
+?sakaki_chizuru -> muv-luv muv-luv_alternative muv-luv_alternative_(anime) akane_maniax muv-luv_girls_garden kimi_ga_nozomu_eien muv-luv_altered_fable megami_magazine dmm muv-luv:_dimensions
