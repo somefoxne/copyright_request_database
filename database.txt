@@ -2255,3 +2255,4 @@
 ?medusa_(rider)_(fate) -> fate_(series) fate/stay_night fate/grand_order fate/hollow_ataraxia fate/zero tsukihime fate/extra type-moon koha-ace
 ?saber_alter_(third_ascension) -> fate_(series) fate/grand_order fate/stay_night fate/extra pixiv_fate/grand_order_contest_1 fate/unlimited_codes fate/unlimited_blade_works pixiv_fate/grand_order_contest_2 girls_und_panzer
 ?hsien-ko -> darkstalkers street_fighter capcom mega_man_(series) street_fighter_zero_(series) resident_evil marvel_vs._capcom marvel_vs._capcom_3 final_fight warzard
+?fujimaru_ritsuka_(male)_(summer_street) -> fate_(series) fate/grand_order fate/extra tsukihime jujutsu_kaisen fate/extra_ccc tsukihime_(remake) tokyo_ghoul coca-cola comiket_108
