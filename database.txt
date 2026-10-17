@@ -1993,3 +1993,4 @@
 ?anna_(fire_emblem) -> fire_emblem fire_emblem_heroes fire_emblem_engage fire_emblem_awakening fire_emblem_fates fire_emblem:_three_houses fire_emblem_warriors fire_emblem:_mystery_of_the_emblem fire_emblem:_the_binding_blade fire_emblem_echoes:_shadows_of_valentia
 ?anna_(fire_emblem:_fortune's_weave) -> fire_emblem
 ?fortuna_(fire_emblem) -> fire_emblem kfc
+?ouse_furachi -> night_dreamin
