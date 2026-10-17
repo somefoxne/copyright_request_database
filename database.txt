@@ -1249,3 +1249,4 @@
 ?pavolia_reine_(1st_costume) -> hololive hololive_indonesia hololive_english hololive_dev_is holostars nijisanji indie_virtual_youtuber nijisanji_en hololive_dreams chainsaw_man
 ?frank_castle -> marvel the_punisher_(series) spider-man_(series) marvel_rivals x-men spider-man:_brand_new_day avengers_(series) dc_comics superman_(series) guardians_of_the_galaxy
 ?jean_grey -> marvel x-men spider-man_(series) spider-man:_brand_new_day marvel_rivals x-men:_the_animated_series the_incredible_hulk_(series) marvel_vs._capcom avengers_(series) fantastic_four
+?spider-man -> marvel spider-man_(series) marvel_rivals x-men spider-verse spider-man:_brand_new_day deadpool_(series) avengers_(series) marvel_vs._capcom darkstalkers
