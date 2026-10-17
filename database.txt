@@ -2917,3 +2917,4 @@
 ?ferio_(rayearth) -> magic_knight_rayearth rayearth_ova newtype animage tengai_makyou tengai_makyou_daiyon_no_mokushiroku
 ?eyjafjalla_(ambience_synesthesia_2022)_(arknights) -> arknights ambience_synesthesia
 ?eyjafjalla_(fluffy_little_witch)_(arknights) -> arknights sanrio my_melody_(series) ambience_synesthesia fuwa_fuwa_cinnamoroll hello_kitty little_twin_stars
+?eyjafjalla_(summer_flower)_(arknights) -> arknights ambience_synesthesia blue_archive hololive azur_lane granblue_fantasy the_shining
