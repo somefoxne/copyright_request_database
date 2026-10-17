@@ -1658,3 +1658,4 @@
 ?cyrene_(demiurge)_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail honkai_impact_3rd mihoyo zenless_zone_zero genshin_impact wuthering_waves comiket_107 fate_(series) samsung
 ?cyrene_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail honkai_impact_3rd mihoyo zenless_zone_zero genshin_impact wuthering_waves fate_(series) blue_archive fate/grand_order
 ?limealicious -> vinesauce indie_virtual_youtuber 3am densetsu.exe monster_hunter_(series) metal_gear_(series) metal_gear_solid original mario_(series) animal_crossing
+?mint_fantome -> indie_virtual_youtuber densetsu.exe vinesauce vshojo hololive metal_gear_(series) hololive_english 3am blue_archive metal_gear_solid
