@@ -3494,3 +3494,4 @@
 ?astolfo_(fate) -> fate_(series) fate/grand_order fate/apocrypha fate/extra fate/extella fate/extella_link original guilty_gear re:zero_kara_hajimeru_isekai_seikatsu learning_with_manga!_fgo
 ?lily_(wuthering_waves) -> wuthering_waves
 ?postarie -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_limited mahou_shoujo_ikusei_keikaku_restart mahou_shoujo_ikusei_keikaku_unmarked mahou_shoujo_ikusei_keikaku_jokers mahou_shoujo_ikusei_keikaku_aces mahou_shoujo_ikusei_keikaku_f2p
+?tear_(recettear) -> recettear the_elder_scrolls the_elder_scrolls_v:_skyrim portal_(series) iji real_life atelier_(series) ore_no_imouto_ga_konna_ni_kawaii_wake_ga_nai invincible_(series) atelier_meruru
