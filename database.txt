@@ -4177,3 +4177,4 @@
 ?astolfo_(memories_at_trifas)_(fate) -> fate_(series) fate/apocrypha fate/grand_order original fate/extra fate/extella fate/extella_link comiket_93 guilty_gear guilty_gear_strive
 ?astolfo_(rider)_(fate) -> fate_(series) fate/apocrypha fate/grand_order fate/extra learning_with_manga!_fgo original fate/extella fate/extella_link fate/stay_night fate/extra_ccc
 ?astolfo_(saber)_(fate) -> fate_(series) fate/grand_order fate/apocrypha original fate/extra fate/extella fate/extella_link kantai_collection learning_with_manga!_fgo arknights
+?astolfo_(sailor_paladin)_(fate) -> fate_(series) fate/grand_order fate/apocrypha original guilty_gear kantai_collection guilty_gear_strive blend_s genshin_impact re:zero_kara_hajimeru_isekai_seikatsu
