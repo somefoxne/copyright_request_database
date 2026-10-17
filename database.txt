@@ -3545,3 +3545,4 @@
 ?minashiro_soushi_(reincarnation) -> soukyuu_no_fafner gundam gundam_seed gundam_seed_destiny scryed kurogane_no_linebarrel majestic_prince heroic_age mugen_no_ryvius giniro_no_olynssis
 ?ying_swei_(azur_lane) -> azur_lane azur_lane:_slow_ahead lynk_&_co
 ?ayatsuji_tsukasa -> amagami kamen_rider idolmaster idolmaster_cinderella_girls k-on! kamen_rider_dcd touhou nijisanji real_life ore_no_imouto_ga_konna_ni_kawaii_wake_ga_nai
+?sally_whitemane -> warcraft world_of_warcraft heroes_of_the_storm mega_man_(series) overwatch mega_man_(classic) youjo_senki egyptian_mythology mega_man_2
