@@ -3440,3 +3440,4 @@
 ?thing_(the_addams_family) -> the_addams_family wednesday_(netflix) pokemon spy_x_family gundam one_piece netflix league_of_legends dragon_ball naruto_(series)
 ?wednesday_addams -> the_addams_family wednesday_(netflix) original spy_x_family pokemon dc_comics teen_titans touhou one_piece league_of_legends
 ?yuri_(gnosia) -> gnosia newtype comiket_107
+?bijou_(hamtaro) -> hamtaro_(series) pokemon vocaloid fire_emblem the_legend_of_zelda pokemon_sword_and_shield fire_emblem:_three_houses naruto_(series) utdr_(toby_fox) kimetsu_no_yaiba
