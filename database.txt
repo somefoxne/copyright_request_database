@@ -1907,3 +1907,4 @@
 ?hachiya_temari -> filter-goshi_no_kanojo
 ?rim_(trickcal) -> trickcal umamusume backrooms_(creepypasta) meccha_chameleon idolmaster gakuen_idolmaster
 ?marcus_(reverse:1999) -> reverse:1999 original pokemon arknights bang_dream! mahou_shoujo_no_majo_saiban pretty_series lycoris_recoil
+?ms._stranger_(reverse:1999) -> reverse:1999 the_elder_scrolls otome_kaibou_(vocaloid)
