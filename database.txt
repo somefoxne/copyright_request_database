@@ -3583,3 +3583,4 @@
 ?m200_(girls'_frontline) -> blue_archive hololive hololive_english call_of_duty call_of_duty:_modern_warfare_2 original arknights
 ?vanya_(fymrie) -> original
 ?ludia_senghor -> fire_emblem
+?jingei_(kancolle) -> kantai_collection little_red_riding_hood_(fairy_tale) c2_kikan pokemon fate_(series) fate/grand_order kamen_rider urusei_yatsura lawson halloween_(movie)
