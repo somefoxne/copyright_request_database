@@ -3220,3 +3220,4 @@
 ?litleo -> pokemon pokemon_legends:_z-a pokemon_x_and_y pokemon_tcg pokemon_(anime) pokemon_the_series:_xy pokemon_scarlet_and_violet pokemon_the_movie:_volcanion_and_the_mechanical_marvel pokemon_diamond/pearl/platinum pokemon_journeys
 ?meowstic -> pokemon pokemon_x_and_y pokemon_legends:_z-a pokemon_black_and_white pokemon_(anime) pokemon_diamond/pearl/platinum pokemon_the_series:_xy pokemon_sun_and_moon pokemon_black_2_and_white_2 pokemon_ruby/sapphire/emerald
 ?meowstic_(female) -> pokemon pokemon_x_and_y pokemon_legends:_z-a pokemon_black_and_white pokemon_diamond/pearl/platinum pokemon_sun_and_moon pokemon_ruby/sapphire/emerald pokemon_black_2_and_white_2 pokemon_(anime) pokemon_red/green/blue/yellow
+?noibat -> pokemon pokemon_x_and_y pokemon_(anime) pokemon_the_series:_xy pokemon_scarlet_and_violet pokemon_legends:_z-a pokemon_sun_and_moon pokemon_black_and_white original pokemon_(classic_anime)
