@@ -2230,3 +2230,4 @@
 ?ladybug_(miraculous_ladybug) -> miraculous_ladybug genshin_impact marvel sonic_(series) spider-man_(series) vocaloid honkai_(series) honkai:_star_rail mario_(series) powerpuff_girls
 ?erdos_helia -> honkai_(series) honkai_impact_3rd honkai:_star_rail mihoyo genshin_impact zenless_zone_zero hooters fate_(series) wuthering_waves fate/stay_night
 ?murata_himeko -> honkai_(series) honkai_impact_3rd honkai_gakuen honkai:_star_rail mihoyo genshin_impact xenoblade_chronicles_(series) xenoblade_chronicles_2 neon_genesis_evangelion
+?raiden_mei_(herrscher_of_thunder) -> honkai_(series) honkai_impact_3rd genshin_impact mihoyo honkai:_star_rail zenless_zone_zero honkai_gakuen call_of_duty call_of_duty:_mobile original
