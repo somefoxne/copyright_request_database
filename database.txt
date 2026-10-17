@@ -1084,3 +1084,4 @@
 ?matsuda_takato -> digimon digimon_tamers digimon_adventure digimon_frontier digimon_adventure_02 digimon_savers digimon_xros_wars digimon_xros_wars:_toki_wo_kakeru_shounen_hunter-tachi digimon_universe:_appli_monsters digimon_ghost_game
 ?lilamon -> digimon digimon_beatbreak digimon_xros_wars digimon_card_game digimon_savers pokemon digimon_adventure digimon_adventure_02 digimon_tamers digimon_story:_cyber_sleuth
 ?skirk_(genshin_impact) -> genshin_impact mihoyo honkai_(series) honkai:_star_rail zenless_zone_zero honkai_impact_3rd wuthering_waves arknights original touhou
+?tartaglia_(genshin_impact) -> genshin_impact mihoyo honkai_(series) honkai:_star_rail honkai_impact_3rd tears_of_themis original spy_x_family wuthering_waves fate_(series)
