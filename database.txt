@@ -3817,3 +3817,4 @@
 ?naganohara_mio -> nichijou mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) lucky_star vocaloid kyoto_animation k-on! city_(arawi_keiichi) touhou suzumiya_haruhi_no_yuuutsu
 ?estelle_bright -> eiyuu_densetsu sora_no_kiseki sora_no_kiseki_fc sora_no_kiseki_sc sen_no_kiseki_(series) sen_no_kiseki_iv hajimari_no_kiseki zero_no_kiseki sen_no_kiseki_i falcom
 ?nagumo_midori -> city_(arawi_keiichi) nichijou amemiya-san_(arawi_keiichi) touhou umamusume chainsaw_man boku_no_hero_academia ranma_1/2 cookie_(touhou) lycoris_recoil
+?kirara_(genshin_impact) -> genshin_impact mihoyo honkai_(series) zenless_zone_zero honkai:_star_rail honkai_impact_3rd bocchi_the_rock! olympics 2024_summer_olympics original
