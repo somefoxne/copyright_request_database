@@ -3093,3 +3093,4 @@
 ?suzuka_gozen_(swimsuit_rider)_(fate) -> fate_(series) fate/grand_order fate/grand_order_arcade original dragon_ball dragon_ball_z fate/kaleid_liner_prisma_illya akira_(manga) fate/dream_striker
 ?suzuka_gozen_(swimsuit_rider)_(second_ascension)_(fate) -> fate_(series) fate/grand_order fate/grand_order_arcade original dragon_ball dragon_ball_z fate/kaleid_liner_prisma_illya
 ?black_swan_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail mihoyo genshin_impact honkai_impact_3rd zenless_zone_zero wuthering_waves jujutsu_kaisen rabbit_hole_(vocaloid) original
+?baobhan_sith_(bloody_bunny)_(fate) -> fate_(series) fate/grand_order honkai_(series) honkai:_star_rail kimetsu_no_yaiba
