@@ -3130,3 +3130,4 @@
 ?frye_(splatoon) -> splatoon_(series) splatoon_3 splatoon_raiders splatoon_2 splatoon_1 pokemon the_legend_of_zelda splatoon_3:_side_order mario_(series) vocaloid
 ?chika_tatehara -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_restart
 ?james_gordon_(absolute_dc) -> dc_comics absolute_dc absolute_batman batman_(series)
+?hyakumantenbara_salome -> nijisanji resident_evil nijisanji_en yu-gi-oh! nijisanji_koshien resident_evil_7:_biohazard hololive danganronpa_(series) nijisanji_kr pokemon
