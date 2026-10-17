@@ -2259,3 +2259,4 @@
 ?mysterious_executor_c.i.e.l_(fate) -> fate_(series) fate/grand_order tsukihime tsukihime_(remake) melty_blood type-moon bishoujo_senshi_sailor_moon melty_blood:_type_lumina
 ?ito_satsuki -> paradox_live genshin_impact
 ?tosa_ryoga -> paradox_live
+?kuroki_tomoko -> watashi_ga_motenai_no_wa_dou_kangaetemo_omaera_ga_warui! lucky_star 2channel touhou bocchi_the_rock! pokemon original neon_genesis_evangelion pokemon_x_and_y
