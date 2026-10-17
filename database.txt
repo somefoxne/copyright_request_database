@@ -2387,3 +2387,4 @@
 ?shanghai_doll -> touhou touhou_(pc-98) imperishable_night perfect_cherry_blossom touhou_lostword final_fantasy final_fantasy_xi the_iron_of_yin_and_yang subterranean_animism gundam
 ?sakamata_chloe_(gyarumata) -> hololive comiket_105 tcg_card_shop_simulator hololive_english hololive_indonesia hololive_grand_theft_auto alfort_(brand)
 ?juca_meilasch -> gundam victory_gundam gundam_suisei_no_majo
+?peggy_lee -> gundam victory_gundam gundam_suisei_no_majo zombie_land_saga newtype
