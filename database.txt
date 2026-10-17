@@ -1216,3 +1216,4 @@
 ?firenze_(stella_sora) -> stella_sora azur_lane zenless_zone_zero goddess_of_victory:_nikke
 ?hijiri_byakuren -> touhou undefined_fantastic_object touhou_(pc-98) urban_legend_in_limbo touhou_tag_dream hopeless_masquerade reitaisai touhou_lostword ten_desires embodiment_of_scarlet_devil
 ?oogaki_hinata -> otome_domain comiket_103
+?kufufu_kekerakera -> shy_(series) gundam bang_dream! bishoujo_senshi_sailor_moon mahou_shoujo_no_majo_saiban shingeki_no_kyojin lucky_star girls_band_cry gundam_suisei_no_majo
