@@ -1835,3 +1835,4 @@
 ?belfast_(retrofit)_(azur_lane) -> azur_lane umamusume
 ?m4_sopmod_ii_(girls'_frontline) -> arknights kantai_collection azur_lane helltaker metal_gear_(series) mario_(series) cyberpunk_(series)
 ?soppo_(girls'_frontline_2) -> kantai_collection arknights codename:_bakery_girl goddess_of_victory:_nikke metal_gear_(series) armored_core invincible_(series)
+?narita_(kyata_ti666) -> kyatapi_land i_am_part-time_worker!! meitantei_conan the_ring it_(stephen_king) the_adventures_of_sherlock_holmes neon_genesis_evangelion dragon_ball resident_evil team_fortress_2
