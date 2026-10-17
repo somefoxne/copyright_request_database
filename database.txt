@@ -3661,3 +3661,4 @@
 ?constellation_(azur_lane) -> azur_lane
 ?constellation_(galaxy's_finest)_(azur_lane) -> azur_lane
 ?niwatari_kutaka -> touhou wily_beast_and_weakest_creature touhou_lostword touhou_(pc-98) kfc sunken_fossil_world pokemon hakurei_frontier_spell_strive team_fortress_2 touhou_bougetsushou
+?yuna_(haishiki) -> original inemuri_hitsuji
