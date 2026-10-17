@@ -2705,3 +2705,4 @@
 ?yuki_miku_(2027) -> vocaloid magical_mirai_(vocaloid) vampire_(vocaloid) shinkai_shoujo_(vocaloid) ura-omote_lovers_(vocaloid)
 ?yuki_miku_(2027)_(applicant) -> vocaloid
 ?koshimizu_toru -> nijisanji nijisanji_en nijisanji_kr pokemon minecraft nijisanji_id nijisanji_koshien nijisanji_gta yu-gi-oh! pokemon_black_and_white
+?koshimizu_toru_(3rd_costume) -> nijisanji minecraft starbucks
