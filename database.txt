@@ -1358,3 +1358,4 @@
 ?shinosawa_hiro -> idolmaster gakuen_idolmaster koukei_(idolmaster) sunfaded_(idolmaster) kimi_to_semi_blue_(idolmaster) contrast_(idolmaster) me_(idolmaster) happy_mille-feuille_(idolmaster) hajime_(idolmaster) miracle_na_now!_(idolmaster)
 ?natsuki_(doki_doki_literature_club) -> doki_doki_literature_club one-punch_man sousou_no_frieren original omori pokemon vocaloid mahou_shoujo_madoka_magica sonic_(series) sanrio
 ?aurora_(fire_emblem) -> fire_emblem
+?solel_(fire_emblem) -> fire_emblem fire_emblem:_three_houses
