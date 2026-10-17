@@ -1105,3 +1105,4 @@
 ?gregory_goyle -> wizarding_world harry_potter_(series) harry_potter_and_the_goblet_of_fire harry_potter_and_the_prisoner_of_azkaban konjiki_no_gash!! harry_potter:_magic_awakened
 ?pansy_parkinson -> wizarding_world harry_potter_(series) harry_potter_and_the_goblet_of_fire harry_potter_and_the_prisoner_of_azkaban
 ?vincent_crabbe -> wizarding_world harry_potter_(series) harry_potter_and_the_goblet_of_fire harry_potter_and_the_prisoner_of_azkaban konjiki_no_gash!! harry_potter:_magic_awakened
+?hataya_misuzu -> idolmaster gakuen_idolmaster kimi_to_semi_blue_(idolmaster) star-mine_(idolmaster) comiket_107 veil_(idolmaster) tsuki_no_kame_(idolmaster) comiket_106 nee_icchau_yo_(idolmaster) taisetsu_na_mono_(idolmaster)
