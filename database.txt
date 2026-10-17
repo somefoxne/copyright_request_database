@@ -3414,3 +3414,4 @@
 ?agnea_bristarni -> octopath_traveler octopath_traveler_ii octopath_traveler_i octopath_traveler:_champions_of_the_continent nier_(series) nier:automata octopath_traveler_0 fire_emblem final_fantasy fire_emblem:_three_houses
 ?hikari_ku -> octopath_traveler octopath_traveler_ii octopath_traveler_i octopath_traveler:_champions_of_the_continent nier_(series) nier:automata snow_white_and_the_seven_dwarfs_(disney) octopath_traveler_0 famitsu
 ?matara_okina -> touhou hidden_star_in_four_seasons touhou_lostword touhou_(pc-98) sunken_fossil_world taboo_japan_disentanglement manatsu_no_yo_no_inmu embodiment_of_scarlet_devil legacy_of_lunatic_kingdom mountain_of_faith
+?arkose_(ff14) -> final_fantasy final_fantasy_xiv original
