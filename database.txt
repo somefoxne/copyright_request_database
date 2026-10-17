@@ -2758,3 +2758,4 @@
 ?burnice_white -> zenless_zone_zero pizza-la mihoyo genshin_impact honkai_(series) original honkai:_star_rail team_fortress_2 umamusume tsukihime
 ?komurasaki_momoka -> shine_post laugh_diamond youtube voisona
 ?shioriha_ruri -> nijisanji nijisanji_en niginigi_nijitown nijisanji_kr nijisanji_koshien virtual_talent_academy blue_archive monitoring_(vocaloid) idolmaster monster_hunter_(series)
+?kurogane_ren -> shine_post
