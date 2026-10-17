@@ -2713,3 +2713,4 @@
 ?mystia_lorelei -> touhou imperishable_night night_sparrow_love touhou_(pc-98) phantasmagoria_of_flower_view touhou_tag_dream embodiment_of_scarlet_devil final_fantasy reitaisai
 ?okamisty -> touhou night_sparrow_love touhou_(pc-98) imperishable_night reitaisai original puyopuyo pokemon mahou_shoujo_madoka_magica
 ?hatsune_miku_(dark_angel) -> vocaloid himitsu_keisatsu_(vocaloid) project_diva_(series) project_diva_f utau shinkai_shoujo_(vocaloid) senbonzakura_(vocaloid) suna_no_wakusei_(vocaloid) poppippoo_(vocaloid) unknown_mother_goose_(vocaloid)
+?luo_tianyi -> vocaloid vsinger_(vocaloid) voiceroid utau ace_studio san_yue_yu_(vocaloid) medium5 original genshin_impact cevio
