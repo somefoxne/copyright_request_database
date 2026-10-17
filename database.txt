@@ -1641,3 +1641,4 @@
 ?silver_(pokemon) -> pokemon pokemon_heartgold_and_soulsilver pokemon_adventures pokemon_gold/silver/crystal pokemon_masters_ex pokemon_diamond/pearl/platinum pokemon_firered_and_leafgreen pokemon_red/green/blue/yellow pokemon_black_and_white pokemon_ruby/sapphire/emerald
 ?guan_chao_(false_memory) -> false_memory omori naruto_(series) monster_hunter_(series) shiguang_dailiren aotu_world chiikawa magnet_(vocaloid) the_truman_show
 ?guan_chao_(teenager)_(false_memory) -> false_memory omori monster_hunter_(series) shiguang_dailiren chiikawa the_truman_show false_memory_(2020)
+?he_mingshuo -> false_memory omori monster_hunter_(series) cardcaptor_sakura my_little_pony shiguang_dailiren chiikawa magnet_(vocaloid) tsubasa_chronicle the_truman_show
