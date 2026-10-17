@@ -2023,3 +2023,4 @@
 ?liter_(nikke) -> goddess_of_victory:_nikke comiket_108 comiket_107 fullmetal_alchemist blue_archive vocaloid genshin_impact arknights neon_genesis_evangelion mega_man_(series)
 ?volt_(nikke) -> goddess_of_victory:_nikke comiket_108 comiket_107 fullmetal_alchemist blue_archive genshin_impact arknights neon_genesis_evangelion mega_man_(series) stellar_blade
 ?tsunade_(naruto) -> naruto_(series) naruto_(classic) naruto_shippuuden bleach boruto_(series) boruto:_naruto_next_generations one_piece hentai_key monsterhentai bleach:_sennen_kessen-hen
+?shou_tucker's_chimera -> fullmetal_alchemist pokemon jojo_no_kimyou_na_bouken stardust_crusaders chainsaw_man pokemon_(anime) spy_x_family animal_crossing gintama pokemon_the_series:_xy
