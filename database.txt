@@ -1033,3 +1033,4 @@
 ?gourgeist -> pokemon pokemon_x_and_y pokemon_legends:_z-a pokemon_(anime) pokemon_masters_ex pokemon_sun_and_moon original pokemon_the_series:_xy pokemon_black_and_white pokemon_the_series:_sun_&_moon
 ?beatrice_(umineko) -> umineko_no_naku_koro_ni higurashi_no_naku_koro_ni touhou vocaloid turn_of_the_golden_witch higanbana_no_saku_yoru_ni twilight_of_the_golden_witch dawn_of_the_golden_witch banquet_of_the_golden_witch fate_(series)
 ?shantae -> shantae_(series) shantae:_half-genie_hero shantae_advance:_risky_revolution metroid shantae_and_the_seven_sirens pokemon super_smash_bros. the_legend_of_zelda
+?yui_shousetsu_(fate) -> fate_(series) fate/samurai_remnant fate/grand_order kyu-kurarin_(cevio) pokemon street_fighter pokemon_sun_and_moon real_life fate/apocrypha pokemon_x_and_y
