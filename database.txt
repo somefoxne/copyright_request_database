@@ -1982,3 +1982,4 @@
 ?monika_(doki_doki_literature_club) -> doki_doki_literature_club miside vocaloid utdr_(toby_fox) omori undertale touhou hololive pokemon danganronpa_(series)
 ?hanazuki_(kancolle) -> kantai_collection
 ?gwen_stacy -> marvel spider-man_(series) spider-verse spider-man:_into_the_spider-verse spider-man:_across_the_spider-verse the_legend_of_zelda original the_legend_of_zelda:_tears_of_the_kingdom x-men avengers_(series)
+?spider-gwen -> marvel spider-man_(series) spider-verse spider-man:_into_the_spider-verse spider-man:_across_the_spider-verse avengers_(series) spider-verse_(comics) original boku_no_hero_academia the_legend_of_zelda
