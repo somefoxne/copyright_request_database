@@ -3992,3 +3992,4 @@
 ?percy_(platinum_wind) -> platinum_wind
 ?chi_kusari_no_ichigo -> bleach bleach:_sennen_kessen-hen instagram
 ?inoue_orihime -> bleach bleach:_sennen_kessen-hen bleach:_epilogue bleach:_the_high_school_warfare bleach:_brave_souls one_piece naruto_(series) fate_(series) sanrio gundam
+?inoue_orihime_(sennen_kessen-hen) -> bleach bleach:_sennen_kessen-hen one_piece naruto_(series) fate_(series) fate/grand_order taimanin_(series) dragon_ball jujutsu_kaisen dragon_quest
