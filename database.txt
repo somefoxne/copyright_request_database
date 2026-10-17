@@ -2490,3 +2490,4 @@
 ?quirinus_quirrell -> wizarding_world harry_potter_(series)
 ?adina_savic -> black_survival eternal_return:_black_survival hololive hololive_english daejeon_autoarms original
 ?aino_(genshin_impact) -> genshin_impact zenless_zone_zero honkai_(series) honkai:_star_rail mihoyo nichijou duolingo the_birth_of_venus pokemon wuthering_waves
+?ineffa_(genshin_impact) -> genshin_impact honkai_(series) honkai:_star_rail zenless_zone_zero hololive hololive_english mihoyo duolingo the_birth_of_venus pokemon
