@@ -3364,3 +3364,4 @@
 ?hinata_hajime -> danganronpa_(series) danganronpa_2:_goodbye_despair danganronpa:_trigger_happy_havoc danganronpa_v3:_killing_harmony danganronpa_another_episode:_ultra_despair_girls danganronpa/zero
 ?ishigami_nozomi -> nijisanji nijisanji_en nijisanji_kr nijisanji_gta nijisanji_koshien mario_(series) minecraft grand_theft_auto nijisanji_id pornhub
 ?ishigami_nozomi_(1st_costume) -> nijisanji nijisanji_en mario_(series) nijisanji_kr monster_hunter_(series) minecraft monster_hunter:_world nijisanji_id queen_(vocaloid) pokemon
+?ryuzaki_kaoru -> idolmaster idolmaster_cinderella_girls idolmaster_cinderella_girls_u149 idolmaster_cinderella_girls_starlight_stage cinderella_girls_gekijou idolmaster_million_live! blue_archive idolmaster_shiny_colors non_non_biyori mikakunin_de_shinkoukei
