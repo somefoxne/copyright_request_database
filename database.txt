@@ -3111,3 +3111,4 @@
 ?agnes_digital_(full-color_fangirling)_(umamusume) -> umamusume original fate_(series) jojo_no_kimyou_na_bouken umamusume:_beginning_of_a_new_era real_life comiket_100 bucchigiri?! dexter_(tv_series)
 ?tap_dance_city_(glitter!)_(umamusume) -> umamusume jojo_no_kimyou_na_bouken comiket_102 umamusume:_cinderella_gray idolmaster idolmaster_cinderella_girls real_life monster_hunter_(series) diamond_wa_kudakenai stone_ocean
 ?yuuhi_riri -> nijisanji nijisanji_en nijisanji_kr mario_(series) apex_legends nijisanji_id nijisanji_koshien pokemon indie_virtual_youtuber vspo!
+?murasame_(kancolle) -> kantai_collection little_red_riding_hood_(fairy_tale) gundam choo_choo_train fate_(series) fate/grand_order k-on! aoki_hagane_no_arpeggio original umamusume
