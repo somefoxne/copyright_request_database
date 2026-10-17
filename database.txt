@@ -2261,3 +2261,4 @@
 ?tosa_ryoga -> paradox_live
 ?kuroki_tomoko -> watashi_ga_motenai_no_wa_dou_kangaetemo_omaera_ga_warui! lucky_star 2channel touhou bocchi_the_rock! pokemon original neon_genesis_evangelion pokemon_x_and_y
 ?kate_bush -> gundam victory_gundam bishoujo_senshi_sailor_moon gundam_suisei_no_majo gundam_gquuuuuux zombie_land_saga newtype ip_police_tsuduki-chan
+?kiyohime_(swimsuit_lancer)_(first_ascension)_(fate) -> fate_(series) fate/grand_order fate/extra death_note comiket_92 touhou kantai_collection pokemon hololive arknights
