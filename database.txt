@@ -2143,3 +2143,4 @@
 ?yoshida_yuuko -> machikado_mazoku kirara_fantasia bocchi_the_rock! gochuumon_wa_usagi_desu_ka? kaguya-sama_wa_kokurasetai_~tensai-tachi_no_renai_zunousen~ azur_lane megami_magazine manga_time_kirara watashi_ni_tenshi_ga_maiorita! princess_connect!
 ?berys_(nekojira) -> original
 ?cerys_(nekojira) -> original
+?huyan_zhuo_(fate) -> fate_(series) fate/grand_order umamusume indie_virtual_youtuber blue_archive hololive vocaloid hololive_english fate/stay_night comiket_107
