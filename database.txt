@@ -2129,3 +2129,4 @@
 ?natori_hinata -> project_nebula phase_connect vebop_high_school nanashi_inc. .live specialite_(company)
 ?shigure_ruka -> project_nebula
 ?usui_yura -> project_nebula indie_virtual_youtuber
+?hinanawi_tenshi -> touhou touhou_(pc-98) touhou_tag_dream scarlet_weather_rhapsody pokemon saturday_night_fever m.u.g.e.n final_fantasy final_fantasy_xi
