@@ -2823,3 +2823,4 @@
 ?douma_(kimetsu_no_yaiba) -> kimetsu_no_yaiba kimetsu_gakuen original touhou chainsaw_man shounen_jump pokemon fate_(series) genshin_impact fate/grand_order
 ?frog_princess_(black_souls) -> black_souls black_souls_2
 ?ebihara_ai -> persona persona_4 persona_3 persona_4_the_golden persona_4_the_animation persona_5 tengen_toppa_gurren_lagann persona_3_portable touhou mahou_shoujo_madoka_magica
+?gumi -> vocaloid utau matryoshka_(vocaloid) synthesizer_v yowamushi_mont-blanc_(vocaloid) voiceroid evillious_nendaiki donut_hole_(vocaloid) mozaik_role_(vocaloid) yi_er_fan_club_(vocaloid)
