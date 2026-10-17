@@ -1162,3 +1162,4 @@
 ?kaname_madoka -> mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) mahou_shoujo_madoka_magica:_hangyaku_no_monogatari magia_record:_mahou_shoujo_madoka_magica_gaiden mahou_shoujo_madoka_magica:_walpurgis_no_kaiten mahou_shoujo_madoka_magica_magia_exedra mahou_shoujo_madoka_magica_movie_1_&_2 gundam touhou original
 ?edward_teach_(fate) -> fate_(series) fate/grand_order fate/extra fate/apocrypha fate/stay_night original fate/extra_ccc koha-ace fate/samurai_remnant
 ?edward_teach_(third_ascension)_(fate) -> fate_(series) fate/grand_order fate/extra fate/apocrypha fate/stay_night science_adventure chaos;head pixiv_fate/grand_order_contest_2 space_adventure_cobra pixiv_fate/grand_order_contest_1
+?lillie_(pokemon) -> pokemon pokemon_sun_and_moon pokemon_(anime) pokemon_the_series:_sun_&_moon pokemon_masters_ex pokemon_ultra_sun_and_ultra_moon pokemon_journeys pokemon_sword_and_shield pokemon_the_series:_xy pokemon_(classic_anime)
