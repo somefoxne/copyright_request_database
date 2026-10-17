@@ -1960,3 +1960,4 @@
 ?igisu_meika -> seifuku_kanojo seifuku_kanojo_3
 ?tsukishio_michiru -> indie_virtual_youtuber
 ?firefly_(stella_sora) -> stella_sora densetsu_kyojin_ideon
+?akashi_(kancolle) -> kantai_collection azur_lane gundam lawson line_(naver) original girls_und_panzer mobile_suit_gundam lupin_iii aoki_hagane_no_arpeggio
