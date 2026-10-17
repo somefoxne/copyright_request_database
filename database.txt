@@ -2825,3 +2825,4 @@
 ?ebihara_ai -> persona persona_4 persona_3 persona_4_the_golden persona_4_the_animation persona_5 tengen_toppa_gurren_lagann persona_3_portable touhou mahou_shoujo_madoka_magica
 ?gumi -> vocaloid utau matryoshka_(vocaloid) synthesizer_v yowamushi_mont-blanc_(vocaloid) voiceroid evillious_nendaiki donut_hole_(vocaloid) mozaik_role_(vocaloid) yi_er_fan_club_(vocaloid)
 ?jervis_(kancolle) -> kantai_collection watashi_ni_tenshi_ga_maiorita! azur_lane kin-iro_mosaic marvel original sonic_(series) coca-cola avengers_(series)
+?rulership_(casual)_(umamusume) -> umamusume jojo_no_kimyou_na_bouken stardust_crusaders dark_souls_(series) minecraft pepsi discord otaku_ni_yasashii_gal_wa_inai!?
