@@ -2405,3 +2405,4 @@
 ?crepe_(trickcal) -> trickcal shigoto_neko
 ?tokoyami_towa_(1st_costume) -> hololive hololive_english hololive_indonesia apex_legends nijisanji hololive_dev_is minecraft crazy_raccoon vspo! indie_virtual_youtuber
 ?suletta_mercury -> gundam gundam_suisei_no_majo red:birthmark_(song) gundam_suisei_no_majo:_seishun_frontier gundam_gquuuuuux gundam_tekketsu_no_orphans g_gundam mobile_suit_gundam zeta_gundam
+?sorceress_(dragon's_crown) -> original vanillaware touhou fate_(series) fate/grand_order one_piece odin_sphere kantai_collection pokemon
