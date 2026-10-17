@@ -2081,3 +2081,4 @@
 ?kawai_mako -> hibi_wa_sugiredo_meshi_umashi megami_magazine mono_(afro) bocchi_the_rock! k-on! kobayashi-san_chi_no_maidragon yurucamp zombie_land_saga nichijou ruri_no_houseki
 ?himemiya_rie -> phase_connect project_moon lobotomy_corporation limbus_company original zenless_zone_zero indie_virtual_youtuber sanrio hololive goddess_of_victory:_nikke
 ?lynae_(wuthering_waves) -> wuthering_waves cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 comiket_107 gs25 blue_archive grand_theft_auto grand_theft_auto_vi honkai_(series)
+?kumano_(kancolle) -> kantai_collection hanshin_tigers yuru-chara line_(naver) yu-gi-oh! aoki_hagane_no_arpeggio lawson geinoujin_kakuzuke_check original gundam
