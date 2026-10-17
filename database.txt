@@ -1896,3 +1896,4 @@
 ?bertrand_brunhild -> fire_emblem minecraft twelfth_night_(2009) coldplay viva_la_vida
 ?dante_(fire_emblem) -> fire_emblem fire_emblem:_the_sacred_stones fire_emblem_heroes fire_emblem:_three_houses fire_emblem_fates fire_emblem:_path_of_radiance
 ?gaitz_legazpi -> fire_emblem
+?goliath_(fire_emblem) -> fire_emblem
