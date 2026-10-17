@@ -2031,3 +2031,4 @@
 ?t.m._opera_o_(o_sole_suo!)_(umamusume) -> umamusume umamusume:_road_to_the_top umamusume:_beginning_of_a_new_era real_life original umamusume:_cinderella_gray jojo_no_kimyou_na_bouken akari_ga_yatte_kitazo_(vocaloid) amazon_(company) tombow_mono
 ?izayoi_aki -> yu-gi-oh! yu-gi-oh!_gx yu-gi-oh!_duel_monsters yu-gi-oh!_zexal yu-gi-oh!_vrains yu-gi-oh!_arc-v yu-gi-oh!_sevens yu-gi-oh!_go_rush!! code_geass
 ?sen_no_rikyu_(fate) -> fate_(series) fate/grand_order learning_with_manga!_fgo fate/grand_order_arcade pokemon fate/zero fate/kaleid_liner_prisma_illya fate/samurai_remnant lord_el-melloi_ii_case_files comiket_105
+?sen_no_rikyu_(second_ascension)_(fate) -> fate_(series) fate/grand_order learning_with_manga!_fgo pokemon shingeki_no_kyojin comiket_102 fate/grand_order_arcade tokyo_osamurai_land
