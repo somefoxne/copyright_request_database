@@ -2123,3 +2123,4 @@
 ?yuudachi_kai_ni_(kancolle) -> kantai_collection dragon_ball azur_lane dragon_ball_z pokemon gundam fate_(series) little_red_riding_hood_(fairy_tale) kantai_collection_(anime) fate/grand_order
 ?motohashi_iori -> charisma_house sanrio my_melody_(series) vocaloid omori twitter bungou_stray_dogs itazuraguma_no_gloomy
 ?magical_mirai_miku -> vocaloid magical_mirai_(vocaloid) suna_no_wakusei_(vocaloid) future_eve_(vocaloid) lustrous_(vocaloid) 39_music_(vocaloid) shinkai_shoujo_(vocaloid) hatsune_tenchikaibyaku_shinwa_(vocaloid) senbonzakura_(vocaloid) project_diva_(series)
+?magical_mirai_miku_(2026) -> vocaloid magical_mirai_(vocaloid) sora_ni_menjite_(vocaloid) synthesizer_v pokemon project_voltage lawson goodsmile_company goodsmile_racing monitoring_(vocaloid)
