@@ -2590,3 +2590,4 @@
 ?kirima_syaro -> gochuumon_wa_usagi_desu_ka? gochuumon_wa_usagi_desu_ka??_wonderful_party! kantai_collection manga_time_kirara kin-iro_mosaic clockwork_rabbit touhou idolmaster bocchi_the_rock! k-on!
 ?natsu_megumi -> gochuumon_wa_usagi_desu_ka? clockwork_rabbit re:zero_kara_hajimeru_isekai_seikatsu chimame_chronicle gochuumon_wa_usagi_desu_ka??_wonderful_party! daydream_show megami_magazine manga_time_kirara vocaloid kin-iro_mosaic
 ?tedeza_rize -> gochuumon_wa_usagi_desu_ka? gochuumon_wa_usagi_desu_ka??_wonderful_party! kin-iro_mosaic manga_time_kirara kantai_collection kirara_fantasia megami_magazine clockwork_rabbit daydream_show
+?ujimatsu_chiya -> gochuumon_wa_usagi_desu_ka? gochuumon_wa_usagi_desu_ka??_wonderful_party! manga_time_kirara new_game! kin-iro_mosaic clockwork_rabbit blend_s megami_magazine bang_dream! bang_dream!_girls_band_party!
