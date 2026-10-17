@@ -3633,3 +3633,4 @@
 ?samekichi_(funamusea) -> funamusea oounabara_to_wadanohara ice_scream haiiro_teien mogeko_castle sutare_yume mahou_shoujo_madoka_magica utau steven_universe tumblr
 ?wadanohara -> funamusea oounabara_to_wadanohara mogeko_castle yume_nikki ib_(kouri) omori haiiro_teien mad_father utdr_(toby_fox) satsuriku_no_tenshi
 ?tenkyuu_chimata -> touhou unconnected_marketeers touhou_(pc-98) 100th_black_market touhou_lostword reitaisai wily_beast_and_weakest_creature yu-gi-oh! perfect_cherry_blossom mountain_of_faith
+?haru_(akina_tsukako) -> original comic_kairakuten_beast
