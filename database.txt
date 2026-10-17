@@ -2169,3 +2169,4 @@
 ?vita_(honkai_impact) -> honkai_(series) honkai_impact_3rd honkai:_star_rail genshin_impact mihoyo kfc comiket_105 comiket_106 shoujo_kageki_revue_starlight star_wars
 ?devil_natashia -> indie_virtual_youtuber
 ?yuki_miku -> vocaloid suki!_yuki!_maji_magic_(vocaloid) star_night_snow_(vocaloid) magical_mirai_(vocaloid) project_diva_(series) sanrio shinkai_shoujo_(vocaloid) world_is_mine_(vocaloid) piapro_studio snow_fairy_story_(vocaloid)
+?yuki_miku_(2010) -> vocaloid magical_mirai_(vocaloid) project_diva_(series) miku_symphony_(vocaloid) piapro_studio koi_wa_sensou_(vocaloid) hatsune_miku_happy_16th_birthday_-dear_creators- project_sekai black_rock_shooter world_is_mine_(vocaloid)
