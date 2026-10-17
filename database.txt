@@ -2011,3 +2011,4 @@
 ?yahiro_mio -> seifuku_kanojo seifuku_kanojo_2 seifuku_kanojo_3
 ?appare_hinata -> weather_planet indie_virtual_youtuber round1 nijisanji ruridragon
 ?flamberge_(kirby) -> kirby_(series) kirby_star_allies kirby:_planet_robobot kirby_64 kirby_and_the_forgotten_land kirby:_triple_deluxe kirby:_squeak_squad
+?francisca_(kirby) -> kirby_(series) kirby_star_allies kirby:_planet_robobot kirby_64 kirby_and_the_forgotten_land kirby:_triple_deluxe kirby:_squeak_squad
