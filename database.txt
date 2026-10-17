@@ -3566,3 +3566,4 @@
 ?g36c_(girls'_frontline) -> azur_lane fate_(series) metal_gear_(series) kantai_collection hololive fate/grand_order mahou_shoujo_madoka_magica gundam
 ?yorozu_minami -> kamen_rider kamen_rider_zeztz_(series) precure meitantei_precure! kamen_rider_my-th_(series)
 ?bajiru_(vtuber) -> indie_virtual_youtuber
+?ukuru_(kancolle) -> kantai_collection monster_hunter_(series) himouto!_umaru-chan blue_archive pokemon indie_virtual_youtuber street_fighter lucky_star pokemon_red/green/blue/yellow twitter
