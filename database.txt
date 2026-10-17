@@ -1994,3 +1994,4 @@
 ?anna_(fire_emblem:_fortune's_weave) -> fire_emblem
 ?fortuna_(fire_emblem) -> fire_emblem kfc
 ?ouse_furachi -> night_dreamin
+?norma_hollowell -> zenless_zone_zero spy_x_family blue_archive honkai_(series) honkai:_star_rail fate_(series) genshin_impact sonic_(series) trickcal
