@@ -3419,3 +3419,4 @@
 ?hanazono_shuka -> pretty_series pripara idol_time_pripara pretty_rhythm king_of_prism precure delicious_party_precure idol_land_pripara
 ?peakychu -> pokemon pokemon_pokopia pokemon_firered_and_leafgreen pokemon_winds_and_waves detective_pikachu_(series) pokemon_(anime) pokemon_legends:_z-a the_hundred_line_-last_defense_academy- pokemon_(classic_anime) original
 ?female_corrin_(fire_emblem) -> fire_emblem fire_emblem_fates fire_emblem_heroes fire_emblem_awakening super_smash_bros. fire_emblem:_three_houses fire_emblem_engage fire_emblem_cipher pokemon fire_emblem:_mystery_of_the_emblem
+?kazami_yuuka -> touhou touhou_(pc-98) touhou_tag_dream lotus_land_story phantasmagoria_of_flower_view seihou cookie_(touhou) original kioh_gyoku pokemon
