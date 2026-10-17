@@ -4211,3 +4211,4 @@
 ?hinamori_kana -> akeiro_kaikitan nanairo_reincarnation
 ?neuras_(metaphor:_refantazio) -> metaphor:_refantazio
 ?super_aoko -> mahou_tsukai_no_yoru fate_(series) fate/grand_order tsukihime kara_no_kyoukai type-moon fate/stay_night tsukihime_(remake) melty_blood xenoblade_chronicles_(series)
+?birgitta_(genshin_impact) -> genshin_impact chainsaw_man instagram
