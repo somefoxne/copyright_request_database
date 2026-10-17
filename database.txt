@@ -3198,3 +3198,4 @@
 ?shun_(small)_(blue_archive) -> blue_archive vocaloid comiket_102 shukusei!!_loli-kami_requiem arknights fate_(series) comiket_103 original fate/grand_order azur_lane
 ?amaura -> pokemon pokemon_x_and_y pokemon_(anime) pokemon_sword_and_shield pokemon_tcg vocaloid project_voltage pokemon_the_series:_xy pokemon_diamond/pearl/platinum pokemon_ruby/sapphire/emerald
 ?bergmite -> pokemon pokemon_x_and_y pokemon_scarlet_and_violet pokemon_mystery_dungeon pokemon_(anime) pokemon_tcg pokemon_sword_and_shield pokemon_diamond/pearl/platinum pokemon_legends:_arceus pokemon_the_series:_xy
+?bunnelby -> pokemon pokemon_(anime) pokemon_the_series:_xy pokemon_x_and_y pokemon_legends:_z-a pokemon_mystery_dungeon pokemon_sword_and_shield pokemon_journeys pokemon_super_mystery_dungeon pokemon_diamond/pearl/platinum
