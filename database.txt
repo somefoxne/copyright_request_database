@@ -2236,3 +2236,4 @@
 ?king_dedede -> kirby_(series) super_smash_bros. mario_(series) kirby_64 the_legend_of_zelda pokemon donkey_kong_(series) fire_emblem metroid mother_(series)
 ?white_bomberman -> bomberman bombergirl mario_(series) kirby_(series) sonic_(series) mega_man_(series) the_legend_of_zelda mega_man_(classic) bomberman_jetters pokemon
 ?makihara_arina -> waku_waku_7 galaxy_fight pokemon gundam street_fighter guilty_gear the_king_of_fighters fatal_fury garou:_mark_of_the_wolves original
+?claw_noir -> miraculous_ladybug
