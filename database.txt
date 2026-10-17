@@ -1532,3 +1532,4 @@
 ?nakamura_yuri -> angel_beats! key_(company) little_busters! heaven_burns_red angel_beats!_track_zero clannad kanon air_(visual_novel) rewrite charlotte_(anime)
 ?puppet_zelda -> the_legend_of_zelda the_legend_of_zelda:_twilight_princess the_legend_of_zelda:_tears_of_the_kingdom mario_(series) paper_mario_(series) paper_mario:_the_thousand-year_door the_legend_of_zelda:_spirit_tracks
 ?rowlet -> pokemon pokemon_sun_and_moon pokemon_legends:_arceus pokemon_(anime) pokemon_the_series:_sun_&_moon pokemon_ultra_sun_and_ultra_moon pokemon_diamond/pearl/platinum pokemon_x_and_y pokemon_sword_and_shield pokemon_black_and_white
+?rem_(re:zero) -> re:zero_kara_hajimeru_isekai_seikatsu kono_subarashii_sekai_ni_shukufuku_wo! fate_(series) pokemon gochuumon_wa_usagi_desu_ka? goddess_of_victory:_nikke kantai_collection re:zero_kara_hajimeru_isekai_seikatsu:_lost_in_memories fate/grand_order original
