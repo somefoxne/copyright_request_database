@@ -2370,3 +2370,4 @@
 ?suzuki_hina -> himehina_channel nijisanji hololive mirai_akari_project .live kizuna_ai_inc. hinata_channel indie_virtual_youtuber the_moon_studio rettou_joutou_(vocaloid)
 ?tanaka_hime -> himehina_channel nijisanji mirai_akari_project hololive .live kizuna_ai_inc. hinata_channel the_moon_studio rettou_joutou_(vocaloid) indie_virtual_youtuber
 ?cynthia_(pokemon) -> pokemon pokemon_diamond/pearl/platinum pokemon_masters_ex pokemon_(anime) pokemon_black_and_white pokemon_sun_and_moon pokemon_x_and_y pokemon_journeys pokemon_heartgold_and_soulsilver pokemon_platinum
+?jarnbardinn_(azur_lane) -> azur_lane
