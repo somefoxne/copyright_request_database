@@ -2062,3 +2062,4 @@
 ?folkwang_(moist_rabbit)_(nikke) -> goddess_of_victory:_nikke
 ?folkwang_(nikke) -> goddess_of_victory:_nikke minecraft coca-cola among_us spongebob_squarepants_(series) ashita_no_joe
 ?idoll_ocean_(nikke) -> goddess_of_victory:_nikke comiket_107
+?jin_(nikke) -> goddess_of_victory:_nikke
