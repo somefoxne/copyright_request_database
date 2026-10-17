@@ -1303,3 +1303,4 @@
 ?suzumon -> digimon digimon_eggs coca-cola
 ?stasis -> armored_core armored_core:_for_answer touhou gundam jujutsu_kaisen gundam_gquuuuuux fromsoftware suibotsu_ouji_ga_gensou_iri
 ?type-lahire -> armored_core armored_core:_for_answer touhou gundam jujutsu_kaisen gundam_gquuuuuux fromsoftware suibotsu_ouji_ga_gensou_iri
+?doloris_(bang_dream!) -> bang_dream! yumenokessho sweets_paradise arknights killkiss_(bang_dream!) bang_dream!_our_notes sophie_(bang_dream!) real_life bang_dream!_girls_band_party!
