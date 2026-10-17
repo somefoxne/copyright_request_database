@@ -2724,3 +2724,4 @@
 ?susie_(dark_world)_(deltarune) -> utdr_(toby_fox) deltarune undertale touhou omori sonic_(series) pokemon cutie_mew_mew_magic_(deltarune) vocaloid ace_attorney
 ?susie_(deltarune) -> utdr_(toby_fox) deltarune undertale touhou pokemon omori vocaloid sonic_(series) ace_attorney cutie_mew_mew_magic_(deltarune)
 ?zapper_(deltarune) -> utdr_(toby_fox) deltarune undertale defernull touhou chainsaw_man jujutsu_kaisen kirby_(series) the_amazing_digital_circus yume_nikki
+?owari_(azur_lane) -> azur_lane hololive blue_archive goddess_of_victory:_nikke original comiket_108 hololive_english comiket_103 ...baby_one_more_time indie_virtual_youtuber
