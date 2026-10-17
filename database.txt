@@ -2853,3 +2853,4 @@
 ?kusanagi_kyou -> the_king_of_fighters fatal_fury snk street_fighter ryuuko_no_ken the_king_of_fighters_xv samurai_spirits the_king_of_fighters_xiv garou:_mark_of_the_wolves the_king_of_fighters_all-stars
 ?urd_(fate) -> fate_(series) fate/grand_order hololive hololive_indonesia indie_virtual_youtuber bishoujo_senshi_sailor_moon fate/hollow_ataraxia comiket_108 type-moon
 ?tokitou_muichirou -> kimetsu_no_yaiba kimetsu_gakuen original chainsaw_man pokemon vocaloid jojo_no_kimyou_na_bouken spy_x_family shingeki_no_kyojin cardcaptor_sakura
+?freudia_neuwahl -> rosenkreuzstilette rosenkreuzstilette_freudenstachel mega_man_(series) lucky_star mega_man_(classic) mega_man_zx bomberman
