@@ -1963,3 +1963,4 @@
 ?akashi_(kancolle) -> kantai_collection azur_lane gundam lawson line_(naver) original girls_und_panzer mobile_suit_gundam lupin_iii aoki_hagane_no_arpeggio
 ?sunna_(delusions_in_business)_(zenless_zone_zero) -> zenless_zone_zero honkai_(series) honkai:_star_rail jojo_no_kimyou_na_bouken stardust_crusaders mihoyo
 ?futago_imouto_(kakitama) -> original
+?firefly_(spring_missive)_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail comiket_106 fate_(series) fate/stay_night umamusume genshin_impact indie_virtual_youtuber fate/unlimited_blade_works kamen_rider
