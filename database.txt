@@ -990,3 +990,4 @@
 ?kekomon -> digimon digimon_beatbreak
 ?fine_motion_(umamusume) -> umamusume original umayuru comiket_100 real_life comiket_102 pokemon pakatube umamusume:_cinderella_gray kantai_collection
 ?pristimon -> digimon digimon_beatbreak umamusume digimon_card_game digimon_ghost_game round1
+?sakuya_reina -> digimon digimon_beatbreak digimon_savers digimon_tamers digimon_world_re:digitize round1
