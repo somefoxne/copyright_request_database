@@ -1974,3 +1974,4 @@
 ?noa_(pajamas)_(blue_archive) -> blue_archive tokidoki_bosotto_roshia-go_de_dereru_tonari_no_alya-san comiket_105 blue_archive_the_animation fire_emblem re:zero_kara_hajimeru_isekai_seikatsu fire_emblem:_mystery_of_the_emblem comiket_107 monitoring_(vocaloid) hololive
 ?exusiai_(apple)_(arknights) -> arknights ambience_synesthesia arknights:_endfield utau project_moon limbus_company league_of_legends mahou_shoujo_no_majo_saiban little_red_riding_hood_(fairy_tale)
 ?cerberus_(srw) -> super_robot_wars super_robot_wars_mx
+?marbled_cat_(kemono_friends) -> kemono_friends original ghost_in_the_shell keroro_gunsou crunchyroll
