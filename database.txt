@@ -2771,3 +2771,4 @@
 ?ol-chan_(udon) -> original comiket_107 comiket_106 starbucks comiket_103
 ?sua_(1st_anniversary)_(black_survival) -> black_survival eternal_return:_black_survival original
 ?horikawa_raiko -> touhou double_dealing_character touhou_(pc-98) touhou_lostword taiko_no_tatsujin touhou_cannonball ten_desires perfect_cherry_blossom legacy_of_lunatic_kingdom imperishable_night
+?dorothea_arnault -> fire_emblem fire_emblem:_three_houses fire_emblem_heroes fire_emblem_warriors:_three_hopes fire_emblem_awakening fire_emblem_fates fire_emblem:_genealogy_of_the_holy_war persona fire_emblem_engage persona_5
