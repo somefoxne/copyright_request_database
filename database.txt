@@ -3891,3 +3891,4 @@
 ?uzui_tengen -> kimetsu_no_yaiba kimetsu_gakuen one_piece jojo_no_kimyou_na_bouken jujutsu_kaisen battle_tendency pokemon fate_(series) fate/grand_order chainsaw_man
 ?heathcliff_(project_moon) -> project_moon limbus_company library_of_ruina lobotomy_corporation blue_archive arknights mili_(band) original wuthering_heights chainsaw_man
 ?kaf_(kamitsubaki_studio) -> kamitsubaki_studio cevio kamitsubaki_city_under_construction hololive hololive_english nijisanji kamitsubaki_city_ensemble kizuna_ai_inc. vocaloid indie_virtual_youtuber
+?namine_ritsu -> utau vocaloid synthesizer_v pokemon voiceroid voicevox touhou a.i._voice cevio idolmaster
