@@ -1032,3 +1032,4 @@
 ?vodka_(umamusume) -> umamusume original pokemon real_life umayuru umamusume:_cinderella_gray cygames meitantei_conan gundam jojo_no_kimyou_na_bouken
 ?gourgeist -> pokemon pokemon_x_and_y pokemon_legends:_z-a pokemon_(anime) pokemon_masters_ex pokemon_sun_and_moon original pokemon_the_series:_xy pokemon_black_and_white pokemon_the_series:_sun_&_moon
 ?beatrice_(umineko) -> umineko_no_naku_koro_ni higurashi_no_naku_koro_ni touhou vocaloid turn_of_the_golden_witch higanbana_no_saku_yoru_ni twilight_of_the_golden_witch dawn_of_the_golden_witch banquet_of_the_golden_witch fate_(series)
+?shantae -> shantae_(series) shantae:_half-genie_hero shantae_advance:_risky_revolution metroid shantae_and_the_seven_sirens pokemon super_smash_bros. the_legend_of_zelda
