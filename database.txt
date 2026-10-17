@@ -1334,3 +1334,4 @@
 ?cathyl -> monster_musume_no_iru_nichijou pokemon idolmaster idolmaster_cinderella_girls fate_(series) fate/grand_order kemono_friends uchi_no_hime-sama_ga_ichiban_kawaii maoyuu_maou_yuusha ishuzoku_reviewers
 ?applejack -> my_little_pony my_little_pony:_friendship_is_magic my_little_pony:_equestria_girls touhou equestria_girls:_better_together umamusume pokemon original arknights mario_(series)
 ?applejack_(equestria_girls) -> my_little_pony my_little_pony:_friendship_is_magic my_little_pony:_equestria_girls equestria_girls:_better_together equestria_girls:_rainbow_rocks umamusume equestria_girls:_legend_of_everfree amagami osomatsu_(series) osomatsu-san
+?rainbow_dash -> my_little_pony my_little_pony:_friendship_is_magic my_little_pony:_equestria_girls touhou pokemon sonic_(series) kotobukiya_bishoujo vocaloid equestria_girls:_better_together umamusume
