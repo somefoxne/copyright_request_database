@@ -3165,3 +3165,4 @@
 ?mortenax_blade_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail mihoyo genshin_impact zenless_zone_zero jojo_no_kimyou_na_bouken vento_aureo pragmata honkai:_nexus_anima anime_expo
 ?anemone_(princess_connect!) -> princess_connect! cygames
 ?anemone_(summer)_(princess_connect!) -> princess_connect! cygames
+?clear_(princess_connect!) -> princess_connect! cygames umamusume
