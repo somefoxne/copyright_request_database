@@ -3040,3 +3040,4 @@
 ?kurumi_(hanakaji) -> original hollow_knight hollow_knight:_silksong
 ?magical_mirai_rin_(2026) -> vocaloid magical_mirai_(vocaloid) synthesizer_v
 ?jinja_eru -> gochuumon_wa_usagi_desu_ka? manga_time_kirara clockwork_rabbit
+?jinja_natsume -> gochuumon_wa_usagi_desu_ka? manga_time_kirara clockwork_rabbit
