@@ -2520,3 +2520,4 @@
 ?yuzu_(armed)_(blue_archive) -> blue_archive gundam neon_genesis_evangelion rebuild_of_evangelion evangelion:_3.0+1.0_thrice_upon_a_time guilty_gear gundam_seed ring_fit_adventure gundam_f91 yu-gi-oh!
 ?scathach_(fate) -> fate_(series) fate/grand_order fate/stay_night fate/extra fate/apocrypha fate/extella fate/extella_link fate/empire_of_dirt original fate/zero
 ?doll_(astrae_oratio) -> astrae_oratio comiket_108
+?toffee_(vtuber) -> indie_virtual_youtuber
