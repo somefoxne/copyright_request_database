@@ -1934,3 +1934,4 @@
 ?luka_(zombie_stage) -> alien_stage zombie_stage suki_suki_daisuki_(song) paparazzi_(lady_gaga)
 ?theresa_apocalypse_(schicksal's_imperative) -> honkai_(series) honkai_impact_3rd honkai:_star_rail
 ?shylily -> indie_virtual_youtuber hololive hololive_english kill_bill gamer_supps vshojo zenless_zone_zero vyugen vocaloid vedal_ai
+?nakano_nino -> go-toubun_no_hanayome megami_magazine comiket_98 fate_(series) kantai_collection pokemon comiket_96 fate/grand_order fire_emblem original
