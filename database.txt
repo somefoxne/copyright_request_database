@@ -2054,3 +2054,4 @@
 ?ade_(nikke) -> goddess_of_victory:_nikke re:zero_kara_hajimeru_isekai_seikatsu blue_archive kantai_collection zenless_zone_zero comiket_108 original hololive hololive_english macross
 ?alice_(nikke) -> goddess_of_victory:_nikke touhou blue_archive original stellar_blade pokemon chainsaw_man fate_(series) zenless_zone_zero nijisanji
 ?alice_(wonderland_bunny)_(nikke) -> goddess_of_victory:_nikke azur_lane sin:_nanatsu_no_taizai
+?bay_(nikke) -> goddess_of_victory:_nikke blue_archive hololive hololive_english zozotown fate_(series) genshin_impact fate/grand_order umamusume project_moon
