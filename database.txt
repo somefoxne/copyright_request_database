@@ -2878,3 +2878,4 @@
 ?hiiragi_utena -> mahou_shoujo_ni_akogarete mahou_shoujo_madoka_magica precure mahou_shoujo_madoka_magica_(anime) megami_magazine meitantei_precure! wonderful_precure! sousou_no_frieren kono_subarashii_sekai_ni_shukufuku_wo! blue_archive
 ?magia_azure -> mahou_shoujo_ni_akogarete bocchi_the_rock! bang_dream! bang_dream!_girls_band_party! assault_lily shikanoko_nokonoko_koshitantan shokunin_to_hitozuma kantai_collection blue_archive hololive
 ?magia_baiser -> mahou_shoujo_ni_akogarete blue_archive bocchi_the_rock! precure hololive girls_und_panzer original umamusume meitantei_precure! fate_(series)
+?minakami_sayo -> mahou_shoujo_ni_akogarete bang_dream! bang_dream!_girls_band_party! megami_magazine shikanoko_nokonoko_koshitantan shokunin_to_hitozuma mahou_shoujo_madoka_magica precure mahou_shoujo_madoka_magica_(anime) sousou_no_frieren
