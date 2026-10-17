@@ -2243,3 +2243,4 @@
 ?tololo_(horizon_cruise)_(girls'_frontline_2) -> silent_hill_(series) silent_hill_f
 ?suisui_(bombergirl) -> bombergirl gundam bemani beatmania_iidx tokimeki_memorial quiz_magic_academy tokimeki_memorial_1 bomberman twinbee chase_chase_jokers
 ?otonose_kanade_(1st_costume) -> hololive hololive_dev_is hololive_english hololive_indonesia indie_virtual_youtuber hololive_official_card_game minecraft hololive_grand_theft_auto yu-gi-oh! hololive_dreams
+?merle_(tenkuu_no_escaflowne) -> tenkuu_no_escaflowne escaflowne_(movie) gundam slayers gundam_wing olympics animedia after_war_gundam_x knight_lamune_&_40_(series) bakuretsu_hunters
