@@ -1698,3 +1698,4 @@
 ?roselia_(pokemon) -> pokemon pokemon_(anime) pokemon_the_series:_ruby_and_sapphire pokemon_diamond/pearl/platinum pokemon_ruby/sapphire/emerald pokemon_the_series:_diamond_and_pearl pokemon_omega_ruby_and_alpha_sapphire pokemon_emerald pokemon_(classic_anime) pokemon_legends:_arceus
 ?vibrava -> pokemon pokemon_ruby/sapphire/emerald pokemon_sword_and_shield vocaloid pokemon_(anime) pokemon_diamond/pearl/platinum pokemon_omega_ruby_and_alpha_sapphire pokemon_firered_and_leafgreen pokemon_(classic_anime) pokemon_tcg
 ?elu_(7th_costume)_(nijisanji) -> nijisanji mahjong_soul
+?elu_(nijisanji) -> nijisanji nijisanji_kr nijisanji_en apex_legends nijisanji_id nijisanji_koshien pokemon indie_virtual_youtuber anpanman koko_wa_shinrin_kaitaku_honbu!_~yousei_no_genkai_shuuraku~
