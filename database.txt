@@ -4237,3 +4237,4 @@
 ?grace_(bunny)_(princess_connect!) -> princess_connect! cygames
 ?grace_(princess_connect!) -> princess_connect! cygames
 ?lily_(princess_connect!) -> princess_connect! cygames umamusume
+?takao_(azur_lane) -> azur_lane kantai_collection godzilla_(series) godzilla_minus_one aoki_hagane_no_arpeggio comiket_93 dolphin_wave fate_(series) azur_lane:_slow_ahead comiket_94
