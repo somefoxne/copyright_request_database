@@ -1971,3 +1971,4 @@
 ?clara_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail genshin_impact mihoyo fate_(series) fate/stay_night wuthering_waves original honkai_impact_3rd 2channel
 ?neia_e_pique -> gundam_n-extreme gundam gundam_extreme_vs._2 gundam_exa_vs gundam_exa gundam_extreme_vs._maxi_boost gundam_extreme_vs. gundam_extreme_vs._2_infinite_boost
 ?yuzuki_yukari's_younger_twin_brother -> voiceroid vocaloid a.i._voice cevio utau talkex synthesizer_v minecraft original kirby_(series)
+?noa_(pajamas)_(blue_archive) -> blue_archive tokidoki_bosotto_roshia-go_de_dereru_tonari_no_alya-san comiket_105 blue_archive_the_animation fire_emblem re:zero_kara_hajimeru_isekai_seikatsu fire_emblem:_mystery_of_the_emblem comiket_107 monitoring_(vocaloid) hololive
