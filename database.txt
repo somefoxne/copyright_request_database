@@ -1817,3 +1817,4 @@
 ?tsukasa_erin_(gwan-e) -> original
 ?oozora_subaru_(suspenders) -> hololive indie_virtual_youtuber hololive_english minecraft sausage_legend hololive_indonesia hololive_dev_is nijisanji pokemon jojo_no_kimyou_na_bouken
 ?yuzuki_choco_(1st_costume) -> hololive hololive_english hololive_indonesia nijisanji indie_virtual_youtuber nanashi_inc. hololive_dev_is holostars minecraft vocaloid
+?fusaichi_pandora_(snatchin'_hearts)_(umamusume) -> umamusume coca-cola
