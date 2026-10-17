@@ -3868,3 +3868,4 @@
 ?unika_(guilty_gear) -> guilty_gear guilty_gear_strive guilty_gear_strive:_dual_rulers granblue_fantasy marvel x-men marvel_tokon:_fighting_souls arc_system_works granblue_fantasy_versus:_rising the_king_of_fighters
 ?hotsuin_miyako -> devil_survivor_(series) devil_survivor_2 valkyrie_drive valkyrie_drive_-mermaid-
 ?sugawara_chie -> heaven_burns_red key_(company) yostar gundam persona persona_5 kanon turn_a_gundam fate_(series) fate/grand_order
+?iroha_(swimsuit)_(blue_archive) -> blue_archive grand_theft_auto grand_theft_auto:_vice_city cast_away arknights jojo_no_kimyou_na_bouken jujutsu_kaisen vento_aureo hunter_x_hunter manatsu_no_yo_no_inmu
