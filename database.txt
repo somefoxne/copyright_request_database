@@ -2809,3 +2809,4 @@
 ?kemomimi-chan_(naga_u) -> original pokemon vocaloid project_voltage kirby_(series) mario_(series) kirby_64 godzilla_(series) monster_hunter_(series) monsterverse
 ?goldmary_(darling_demon)_(fire_emblem) -> fire_emblem fire_emblem_heroes fire_emblem_engage
 ?goldmary_(fire_emblem) -> fire_emblem fire_emblem_engage fire_emblem_heroes fire_emblem:_three_houses fire_emblem_fates shantae_(series) aladdin_(movie) fire_emblem_awakening pokemon love_live!
+?cherry_bomb_(plants_vs._zombies) -> plants_vs._zombies hollow_knight plants_vs._zombies_2 hollow_knight:_silksong touhou
