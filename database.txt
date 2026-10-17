@@ -2882,3 +2882,4 @@
 ?fukunomiya_koko_(kuromiya) -> original
 ?kiyomiya_hikari_(kuromiya) -> original
 ?torafuji_nagi_(kuromiya) -> original
+?fnc_(girls'_frontline) -> cave_story original kantai_collection shoujo_shuumatsu_ryokou pokemon metal_gear_(series) doom_(series)
