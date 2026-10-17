@@ -3452,3 +3452,4 @@
 ?toyama_kintaroh -> tennis_no_ouji-sama tonari_no_totoro pokemon precure smile_precure! hirake!_ponkikki
 ?keek -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_restart mahou_shoujo_ikusei_keikaku_limited mahou_shoujo_ikusei_keikaku_unmarked mahou_shoujo_ikusei_keikaku_aces mahou_shoujo_ikusei_keikaku_black
 ?luna_snow -> marvel marvel_rivals x-men spider-man_(series) fantastic_four guardians_of_the_galaxy avengers_(series) tiger_division thor_(marvel)_(series) the_incredible_hulk_(series)
+?scream_tail -> pokemon pokemon_(anime) pokemon_horizons pokemon_scarlet_and_violet pokemon_masters_ex pokemon_tcg original pokemon_firered_and_leafgreen pokemon_sun_and_moon vocaloid
