@@ -2997,3 +2997,4 @@
 ?moriya_suwako -> touhou mountain_of_faith touhou_(pc-98) reitaisai reitaisai_8_contest touhou_tag_dream yotsubato! pokemon touhou_lostword cookie_(touhou)
 ?nekota_tsuna_(loungewear) -> vspo!
 ?rat_king_(deadlock) -> deadlock_(game) jojo_no_kimyou_na_bouken yu-gi-oh! overwatch kamen_rider diamond_wa_kudakenai mickey_mouse_&_friends teenage_mutant_ninja_turtles ratatouille kamen_rider_my-th_(series)
+?curren_chan_(casual)_(umamusume) -> umamusume instagram yu-gi-oh! starbucks comiket_103 umamusume:_road_to_the_top humanlike_(tatsuya_kitani) original touhou monster_hunter_(series)
