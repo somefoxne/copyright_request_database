@@ -3417,3 +3417,4 @@
 ?arkose_(ff14) -> final_fantasy final_fantasy_xiv original
 ?ars_almal_(1st_costume) -> nijisanji minecraft hololive mario_(series) nijisanji_kr mario_kart nijisanji_en nijisanji_id pokemon genshin_impact
 ?hanazono_shuka -> pretty_series pripara idol_time_pripara pretty_rhythm king_of_prism precure delicious_party_precure idol_land_pripara
+?peakychu -> pokemon pokemon_pokopia pokemon_firered_and_leafgreen pokemon_winds_and_waves detective_pikachu_(series) pokemon_(anime) pokemon_legends:_z-a the_hundred_line_-last_defense_academy- pokemon_(classic_anime) original
