@@ -3279,3 +3279,4 @@
 ?sirin_(miracle_magical_girl) -> honkai_(series) honkai_impact_3rd promare genshin_impact honkai:_star_rail mahou_shoujo_madoka_magica mihoyo comiket_108 tom_and_jerry
 ?nagumo_(sakamoto_days) -> sakamoto_days chainsaw_man hunter_x_hunter hikaru_ga_shinda_natsu chiikawa howl_no_ugoku_shiro pokemon fate_(series) fate/zero alien_stage
 ?julia_barnes -> muv-luv muv-luv_girls_garden muv-luv_alternative gundam gundam_unicorn muv-luv_total_eclipse schwarzesmarken
+?kanna_(young)_(blue_archive) -> blue_archive umamusume youtube blue_archive_the_animation resident_evil resident_evil_2
