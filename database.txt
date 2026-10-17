@@ -1728,3 +1728,4 @@
 ?liberalio_(dreaming_lake)_(nikke) -> goddess_of_victory:_nikke indie_virtual_youtuber nivel_arena
 ?liberalio_(nikke) -> goddess_of_victory:_nikke lawson ichiban_kuji comiket_108 pokemon indie_virtual_youtuber nivel_arena
 ?manhattan_cafe_(mysterious_rose)_(umamusume) -> umamusume comiket_108 original resident_evil resident_evil_village zuutto_issho_(kitani_tatsuya)
+?clair_vaux_bernardus -> umineko_no_naku_koro_ni requiem_of_the_golden_witch bang_dream! higurashi_no_naku_koro_ni lord_of_the_mysteries darker_than_black 4chan ougon_musou_kyoku
