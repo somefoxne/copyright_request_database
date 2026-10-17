@@ -3316,3 +3316,4 @@
 ?inugami_korone_(1st_costume) -> hololive hololive_english hololive_indonesia sonic_(series) doom_(series) mario_(series) pokemon youtube doom_(2016) nijisanji
 ?cael_anselm -> lovebrush_chronicles original pokemon ensemble_stars! devil_may_cry_(series) coca-cola hypnosis_mic tears_of_themis devil_may_cry_5 hua_yi_shanxin_zhiyue
 ?cael_anselm_(infinite_empire) -> lovebrush_chronicles
+?niijima_makoto -> persona persona_5 persona_5_the_royal persona_3 persona_dancing persona_5:_dancing_star_night persona_4 persona_5_scramble:_the_phantom_strikers goddess_of_victory:_nikke persona_3_portable
