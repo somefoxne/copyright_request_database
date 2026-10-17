@@ -2923,3 +2923,4 @@
 ?shima_rin -> yurucamp real_life yurucamp_movie metal_gear_(series) metal_gear_solid_3:_snake_eater bocchi_the_rock! manga_time_kirara original fate_(series) girls_und_panzer
 ?bibi_(tokoyami_towa) -> hololive hololive_english hololive_indonesia apex_legends nijisanji vspo! minecraft among_us crazy_raccoon hololive_alternative
 ?coralie_6626_planck -> honkai_(series) honkai_impact_3rd honkai:_star_rail genshin_impact mihoyo honkai_gakuen apple_inc. hooters fate_(series) fate/stay_night
+?kratos_(god_of_war) -> god_of_war_(series) god_of_war_ragnarok god_of_war_(2018) touhou god_of_war_ii final_fantasy final_fantasy_vii marvel metal_gear_(series) ratchet_&_clank
