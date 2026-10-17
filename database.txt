@@ -3499,3 +3499,4 @@
 ?ereshkigal_alter_(fate) -> fate_(series) fate/grand_order fate/strange_fake original fate/stay_night fate/extra fate/zero inazuma_eleven_(series) fate/extra_ccc animal_crossing
 ?istaroth_(genshin_impact) -> genshin_impact honkai_(series) honkai:_star_rail mihoyo among_us original elden_ring elden_ring_nightreign doraemon
 ?naberius_(genshin_impact) -> genshin_impact doraemon among_us youtube
+?merkuriy_(envoy_angel_of_love)_(azur_lane) -> azur_lane
