@@ -2245,3 +2245,4 @@
 ?otonose_kanade_(1st_costume) -> hololive hololive_dev_is hololive_english hololive_indonesia indie_virtual_youtuber hololive_official_card_game minecraft hololive_grand_theft_auto yu-gi-oh! hololive_dreams
 ?merle_(tenkuu_no_escaflowne) -> tenkuu_no_escaflowne escaflowne_(movie) gundam slayers gundam_wing olympics animedia after_war_gundam_x knight_lamune_&_40_(series) bakuretsu_hunters
 ?fukuga_kurumi -> fx_senshi_kurumi-chan jashin-chan_dropkick ai_mai_mii inmu_king
+?orihime_(girls_revolution_project) -> kamitsubaki_studio girls_revolution_project sinsekai_record original mimukauwa_nice_try_(vocaloid) valis_(sinsekai)
