@@ -1324,3 +1324,4 @@
 ?yakura_yomogi -> bang_dream! bang_dream!_our_notes love_live! love_live!_hasu_no_sora_jogakuin_school_idol_club bang_dream!_yumemita bocchi_the_rock! gundam jojo_no_kimyou_na_bouken chainsaw_man
 ?queen_anne's_revenge_(azur_lane) -> azur_lane azur_lane:_slow_ahead fate_(series) fate/grand_order comiket_107 dc_comics batman_(series)
 ?queen_anne's_revenge_(seductive_wings_of_dark_depravity)_(azur_lane) -> azur_lane
+?pepperoni_(girls_und_panzer) -> girls_und_panzer gekitotsu!_joshikousei_oiroke_sensha_gundan girls_und_panzer_senshadou_daisakusen! girls_und_panzer_motto_love_love_sakusen_desu! kantai_collection lupin_iii girls_und_panzer_little_army girls_und_panzer_gekijouban megami_magazine princess_principal
