@@ -2549,3 +2549,4 @@
 ?yao_guang_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail honkai_impact_3rd genshin_impact mihoyo titanic_(movie) zenless_zone_zero poppy_playtime arknights indie_virtual_youtuber
 ?tia_(black_survival) -> black_survival eternal_return:_black_survival blue_archive fate_(series) fate/grand_order umamusume vocaloid honkai_(series) honkai:_star_rail zenless_zone_zero
 ?grass_wonder_(stone-piercing_blue)_(umamusume) -> umamusume real_life original pokemon hololive hololive_english umamusume:_cinderella_gray fate_(series) akari_ga_yatte_kitazo_(vocaloid) bang_dream!
+?matikanetannhauser_(clippety-tippety-clop)_(umamusume) -> umamusume make_heroine_ga_oo_sugiru! real_life akari_ga_yatte_kitazo_(vocaloid) original pokemon mario_(series) dragon_ball dragon_ball_z umamusume:_cinderella_gray
