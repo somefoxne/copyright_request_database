@@ -2535,3 +2535,4 @@
 ?admiral_(kancolle) -> kantai_collection aoki_hagane_no_arpeggio gundam pokemon mario_(series) dragon_ball fate_(series) dragon_ball_z lawson transformers
 ?musashi_(kancolle) -> kantai_collection original azur_lane line_(naver) pokemon aoki_hagane_no_arpeggio fate_(series) fate/grand_order gundam touhou
 ?musashi_kai_ni_(kancolle) -> kantai_collection line_(naver) lawson comiket_102 kobeya fate_(series) fate/grand_order kemono_friends fatal_fury little_red_riding_hood_(fairy_tale)
+?g11_(girls'_frontline) -> va-11_hall-a jurassic_park blue_archive pokemon metal_gear_(series)
