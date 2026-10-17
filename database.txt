@@ -1450,3 +1450,4 @@
 ?the_tower_(pop'n_music) -> bemani
 ?yummy_(pop'n_music) -> bemani
 ?senri_ayumu -> nijisanji pokemon nijisanji_en nijisanji_kr nijisanji_id
+?fallenshadow -> indie_virtual_youtuber original phase_connect real_life blue_archive vedal_ai vershion touhou arknights sonic_(series)
