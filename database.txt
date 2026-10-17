@@ -3588,3 +3588,4 @@
 ?luciana_de_montefio -> zenless_zone_zero mihoyo genshin_impact original umamusume honkai_(series) blue_archive comiket_108 honkai:_star_rail mario_(series)
 ?luciana_de_montefio_(princess_on_holiday) -> zenless_zone_zero comiket_108 umamusume goddess_of_victory:_nikke coca-cola maria_holic the_silence_of_the_lambs
 ?robin_mask -> kinnikuman touhou girls_und_panzer gundam mobile_suit_gundam os-tan keroro_gunsou kiteretsu_daihyakka pokemon fate_(series)
+?junketsu -> kill_la_kill trigger_(company) panty_&_stocking_with_garterbelt little_witch_academia touhou fate_(series) tengen_toppa_gurren_lagann pokemon idolmaster mahou_shoujo_madoka_magica
