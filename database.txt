@@ -2787,3 +2787,4 @@
 ?yura-chan_(yura_tukishiro) -> original
 ?mari_(idol)_(blue_archive) -> blue_archive comiket_105 oshi_no_ko blue_archive_the_animation wuthering_waves comiket_106 idolmaster comiket_107 spongebob_squarepants_(series) original
 ?noire_(fire_emblem) -> fire_emblem fire_emblem_awakening fire_emblem_heroes fire_emblem_fates fire_emblem_cipher fire_emblem:_mystery_of_the_emblem fire_emblem_engage fire_emblem:_the_sacred_stones original fire_emblem:_three_houses
+?noire_(shade_seeker)_(fire_emblem) -> fire_emblem fire_emblem_awakening fire_emblem_heroes fire_emblem_fates fire_emblem:_the_sacred_stones original fate_(series) fire_emblem:_three_houses fire_emblem:_genealogy_of_the_holy_war fire_emblem:_mystery_of_the_emblem
