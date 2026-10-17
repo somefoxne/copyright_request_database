@@ -2155,3 +2155,4 @@
 ?inukai_komugi -> precure wonderful_precure! hirogaru_sky!_precure kimi_to_idol_precure tropical-rouge!_precure meitantei_precure! mahou_tsukai_precure! delicious_party_precure kirakira_precure_a_la_mode
 ?kawakami_princess_(casual)_(umamusume) -> umamusume touhou
 ?sakihane_huya_(2nd_costume) -> stellive
+?chitanda_eru -> hyouka kyoto_animation k-on! tamako_market hibike!_euphonium lycoris_recoil chuunibyou_demo_koi_ga_shitai! suzumiya_haruhi_no_yuuutsu idolmaster idolmaster_cinderella_girls
