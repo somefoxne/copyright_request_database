@@ -3170,3 +3170,4 @@
 ?yanagiya_otome -> devil_survivor_(series) devil_survivor_2 fire_emblem persona persona_5 fire_emblem_awakening
 ?drake_(maid_for_villain)_(nikke) -> goddess_of_victory:_nikke cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 iya_na_kao_sare_nagara_opantsu_misete_moraitai
 ?drake_(nikke) -> goddess_of_victory:_nikke umamusume azur_lane jojo_no_kimyou_na_bouken boku_no_hero_academia jurassic_park blue_archive precure re:zero_kara_hajimeru_isekai_seikatsu
+?mast_(nikke) -> goddess_of_victory:_nikke dave_the_diver hololive cast_away phase_connect comiket_108 spongebob_squarepants_(series) original blue_archive nier_(series)
