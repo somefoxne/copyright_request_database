@@ -1341,3 +1341,4 @@
 ?meta_knight -> kirby_(series) super_smash_bros. fire_emblem pokemon the_legend_of_zelda mario_(series) fire_emblem:_path_of_radiance fire_emblem:_mystery_of_the_emblem kid_icarus mother_(series)
 ?berrycrepe -> indie_virtual_youtuber minecraft mario_(series) mario_kart glitch_stars peak_(game) star_wars pepsi mario_kart_world helldivers_(series)
 ?purin_(berrycrepe) -> indie_virtual_youtuber minecraft star_wars helldivers_(series) star_wars:_revenge_of_the_sith a_minecraft_movie shift_at_midnight train_sim_world
+?hakozaki_serika -> idolmaster idolmaster_million_live! idolmaster_million_live!_theater_days idolmaster_(classic) idolmaster_cinderella_girls pokemon idolmaster_movie pokemon_black_2_and_white_2 idolmaster_shiny_colors idolmaster_side-m
