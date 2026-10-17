@@ -1708,3 +1708,4 @@
 ?voldemort -> wizarding_world harry_potter_(series) harry_potter_and_the_deathly_hallows harry_potter_and_the_half-blood_prince fate_(series) berserk ninja_slayer blue_archive hololive
 ?yakushimaru_ryota -> tokyo_afterschool_summoners original pokemon live_a_hero coca-cola line_(naver) shoukan_yuusha_to_f-kei_kareshi nep_league
 ?hijikata_toushirou -> gintama fate_(series) one_piece fate/grand_order sengoku_basara touken_ranbu gintama_movie_2:_yorozuya_yo_eien_nare sannen_z-gumi_ginpachi_sensei jojo_no_kimyou_na_bouken fullmetal_alchemist
+?katsuragi_ace_(dragon_rising_to_the_top)_(umamusume) -> umamusume real_life kill_la_kill fate_(series) jojo_no_kimyou_na_bouken spy_x_family kamen_rider umamusume:_cinderella_gray original pokemon
