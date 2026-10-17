@@ -1126,3 +1126,4 @@
 ?nishijou_nanami -> science_adventure chaos;head blood_tune chaos;head_love_chu_chu! steins;gate chaos;child phantasm nitroplus guilty_crown robotics;notes
 ?gero-froggy -> science_adventure chaos;head chaos;child steins;gate robotics;notes occultic;nine chaos;head_love_chu_chu! blood_tune kidou_battle_gunvarrel steins;gate_0
 ?makise_kurisu -> science_adventure steins;gate steins;gate_0 chaos;head chaos;child robotics;notes mon-musu_quest! steins;gate:_linear_bounded_phenogram occultic;nine
+?onoe_serika -> science_adventure chaos;child chaos;head robotics;notes steins;gate chaos;child_love_chu_chu!! occultic;nine 5pb. anonymous;code chaos;head_love_chu_chu!
