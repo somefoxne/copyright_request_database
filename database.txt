@@ -980,3 +980,4 @@
 ?maddie_fenton -> danny_phantom kim_possible_(series) the_incredibles original yu_yu_hakusho tsuujou_kougeki_ga_zentai_kougeki_de_ni-kai_kougeki_no_okaasan_wa_suki_desu_ka? hey_arnold! swat_kats
 ?paulina_sanchez -> danny_phantom the_fairly_oddparents avatar_legends avatar:_the_last_airbender powerpuff_girls kim_possible_(series)
 ?numemon -> digimon digimon_card_game digimon_adventure digimon_world digimon_adventure_02 digimon_frontier digimon_world_-next_0rder- digimon_tamers digimon_xros_wars digimon_liberator
+?numemon_x-antibody -> digimon
