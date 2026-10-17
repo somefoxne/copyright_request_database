@@ -1571,3 +1571,4 @@
 ?reiuji_utsuho -> touhou subterranean_animism reitaisai reitaisai_8_contest touhou_tag_dream touhou_(pc-98) cookie_(touhou) original touhou_lostword gundam
 ?reiuji_utsuho_(bird) -> touhou subterranean_animism reitaisai reitaisai_8_contest touhou_(pc-98) touhou_lostword original pokemon mario_(series) nichijou
 ?starfire -> dc_comics teen_titans batman_(series) teen_titans_go! red_hood_and_the_outlaws star_wars powerpuff_girls marvel new_teen_titans kim_possible_(series)
+?modernia_(nikke) -> goddess_of_victory:_nikke zozotown ichiban_kuji blue_archive to_love-ru lawson comiket_104 comiket_102 blade_runner_(series) blade_runner_2049
