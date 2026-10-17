@@ -1685,3 +1685,4 @@
 ?okamoto_nagi -> vshojo indie_virtual_youtuber goddess_of_victory:_nikke
 ?mashiro_meme -> nijisanji nijisanji_kr nijisanji_en dream_pool nijisanji_id promare dream_c_club_(series) dream_c_club dream_c_club_zero blue_archive
 ?mashiro_meme_(3rd_costume) -> nijisanji blue_archive vocaloid twitter youtube pepsi
+?comfey -> pokemon pokemon_sun_and_moon pokemon_(anime) pokemon_the_series:_sun_&_moon pokemon_sword_and_shield pokemon_masters_ex pokemon_unite pokemon_ultra_sun_and_ultra_moon vocaloid pokemon_scarlet_and_violet
