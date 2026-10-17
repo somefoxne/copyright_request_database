@@ -3425,3 +3425,4 @@
 ?alkaid_mcgrath -> lovebrush_chronicles original the_nightingale_and_the_rose touhou pokemon persona persona_3 ensemble_stars! wizarding_world harry_potter_(series)
 ?ayn_alwyn -> lovebrush_chronicles original pokemon real_life onmyoji coca-cola the_tale_of_food the_last_supper ophelia_(painting)
 ?clarence_clayden -> lovebrush_chronicles original arknights pokemon touqi_guaitan coca-cola merc_storia 18trip si_land
+?cowpens_(azur_lane) -> azur_lane azur_lane:_slow_ahead blue_archive yostar comiket_108
