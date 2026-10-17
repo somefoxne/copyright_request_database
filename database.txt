@@ -3370,3 +3370,4 @@
 ?anya_melfissa_(chill_sunny_holiday) -> hololive hololive_indonesia hololive_dreams hololive_english
 ?blackbird_(wandering_stars)_(nte) -> neverness_to_everness
 ?domino_(tatsushi_uchida) -> original
+?pfle -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_restart mahou_shoujo_ikusei_keikaku_unmarked mahou_shoujo_ikusei_keikaku_jokers mahou_shoujo_ikusei_keikaku_double_shadow mahou_shoujo_ikusei_keikaku_limited mahou_shoujo_ikusei_keikaku_aces mahou_shoujo_ikusei_keikaku_f2p mahou_shoujo_ikusei_keikaku_paradoxical_plot mahou_shoujo_ikusei_keikaku_breakdown
