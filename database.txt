@@ -1461,3 +1461,4 @@
 ?hanami_ume -> idolmaster gakuen_idolmaster kimi_to_semi_blue_(idolmaster) the_rolling_riceball_(idolmaster) hajime_(idolmaster) idolmaster_shiny_colors comiket_104 star-mine_(idolmaster) happy_mille-feuille_(idolmaster) pokemon
 ?mabel_(black_souls) -> black_souls black_souls_2 touhou blue_archive umamusume arknights project_moon yu-gi-oh! limbus_company toaru_majutsu_no_index
 ?lu_dongbin_(all_wishes_come_true!) -> all_wishes_come_true! pokemon ore_no_imouto_ga_konna_ni_kawaii_wake_ga_nai new_gods:_yang_jian where_winds_meet mr._and_mrs._smith
+?zhongli_quan_(all_wishes_come_true!) -> all_wishes_come_true! pokemon resident_evil ore_no_imouto_ga_konna_ni_kawaii_wake_ga_nai resident_evil:_vendetta new_gods:_yang_jian mob_psycho_100 resident_evil_2 spongebob_squarepants_(series) where_winds_meet
