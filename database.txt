@@ -3512,3 +3512,4 @@
 ?tohsaka_rin -> fate_(series) fate/stay_night fate/zero fate/hollow_ataraxia fate/grand_order honkai_(series) honkai:_star_rail fate/unlimited_blade_works tsukihime
 ?study-sama -> vedal_ai indie_virtual_youtuber bocchi_the_rock! girls_band_cry sanrio twitter twitch.tv live2d_inc. ashi_desu_ka._(vocaloid) four_horsemen_of_the_apocalypse_(1887_painting)
 ?gojo_satoru -> jujutsu_kaisen chainsaw_man original naruto_(series) blue_archive jujutsu_kaisen_modulo kimetsu_no_yaiba boku_no_hero_academia sanrio dragon_ball
+?iori_utahime -> jujutsu_kaisen honkai_(series) honkai_impact_3rd studio_mappa resident_evil honkai:_star_rail zenless_zone_zero wuthering_waves one_piece neon_genesis_evangelion
