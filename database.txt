@@ -3107,3 +3107,4 @@
 ?richard_p._leary_(kancolle) -> kantai_collection umamusume comiket_108 original blue_archive jojo_no_kimyou_na_bouken vento_aureo azumanga_daioh hokkaido_nippon-ham_fighters katamari_damacy
 ?ume_(kancolle) -> kantai_collection umamusume real_life flower_knight_girl god_eater god_eater_2:_rage_burst katamari_damacy
 ?kusakari_runa -> cinderella_series hachigatsu_no_cinderella_nine tamayomi street_fighter suzumiya_haruhi_no_yuuutsu yurucamp kizuna_ai_inc.
+?sako_makoto -> devil_survivor_(series) devil_survivor_2 persona persona_3 durarara!! pokemon fire_emblem precure danganronpa_(series) jojo_no_kimyou_na_bouken
