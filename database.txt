@@ -2076,3 +2076,4 @@
 ?soda_(nikke) -> goddess_of_victory:_nikke re:zero_kara_hajimeru_isekai_seikatsu nier_(series) nier:automata fate_(series) fate/grand_order zenless_zone_zero resident_evil machikado_mazoku stellar_blade
 ?soda_(twinkling_bunny)_(nikke) -> goddess_of_victory:_nikke fate_(series) fate/grand_order zenless_zone_zero wuthering_waves real_life punishing:_gray_raven
 ?velvet_(nikke) -> goddess_of_victory:_nikke zenless_zone_zero hololive hololive_english azur_lane indie_virtual_youtuber original coca-cola comiket_108 james_bond_(series)
+?velvet_(sensual_rabbit)_(nikke) -> goddess_of_victory:_nikke hololive hololive_english zenless_zone_zero original indie_virtual_youtuber coca-cola james_bond_(series) for_your_eyes_only_(james_bond)
