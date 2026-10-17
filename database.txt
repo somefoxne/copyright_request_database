@@ -1989,3 +1989,4 @@
 ?monica_melodia -> varium
 ?soukaku_(zenless_zone_zero) -> zenless_zone_zero genshin_impact mihoyo umamusume marvel original pokemon wuthering_waves kemono_friends guilty_gear
 ?seraphina_(disgaea) -> disgaea makai_senki_disgaea_5 disgaea_rpg makai_senki_disgaea_2 makai_senki_disgaea makai_senki_disgaea_4 makai_senki_disgaea_3 makai_senki_disgaea_6 disgaea_d2 makai_senki_disgaea_7
+?aino_minako -> bishoujo_senshi_sailor_moon bishoujo_senshi_sailor_moon_(first_season) bishoujo_senshi_sailor_moon_s bishoujo_senshi_sailor_moon_stars codename_wa_sailor_v bishoujo_senshi_sailor_moon_r bishoujo_senshi_sailor_moon_supers bishoujo_senshi_sailor_moon_crystal precure taimanin_(series)
