@@ -2576,3 +2576,4 @@
 ?mika_(swimsuit)_(blue_archive) -> blue_archive comiket_106 comiket_107 blue_archive_the_animation wuthering_waves pokemon umamusume kantai_collection jojo_no_kimyou_na_bouken goddess_of_victory:_nikke
 ?hanako_(swimsuit)_(blue_archive) -> blue_archive honkai_(series) zenless_zone_zero goddess_of_victory:_nikke comiket_103 blue_archive_the_animation project_moon limbus_company comiket_104 comiket_102
 ?tsurumaru_kuninaga -> touken_ranbu kantai_collection katsugeki/touken_ranbu touken_ranbu:_hanamaru pokemon idolmaster fate_(series) idolmaster_cinderella_girls axis_powers_hetalia
+?acheron_(lostmera)_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail
