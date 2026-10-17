@@ -1822,3 +1822,4 @@
 ?timoris_(bang_dream!) -> bang_dream! killkiss_(bang_dream!) arknights real_life bang_dream!_our_notes girls_band_cry bang_dream!_girls_band_party! kao_(bang_dream!) lawson
 ?shirokane_rinko -> bang_dream! bang_dream!_girls_band_party! mahou_shoujo_madoka_magica hibike!_euphonium idolmaster idolmaster_cinderella_girls k-on! girls_band_cry lycoris_recoil
 ?mahashi_miku -> bang_dream! bang_dream!_our_notes bang_dream!_yumemita vocaloid love_live! jojo_no_kimyou_na_bouken love_live!_hasu_no_sora_jogakuin_school_idol_club bang_dream!_girls_band_party! steel_ball_run
+?suga_raika -> bang_dream! bang_dream!_our_notes bang_dream!_yumemita bang_dream!_girls_band_party! sweets_paradise love_live! jojo_no_kimyou_na_bouken chainsaw_man love_live!_hasu_no_sora_jogakuin_school_idol_club
