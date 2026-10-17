@@ -2903,3 +2903,4 @@
 ?mayu_(vocaloid) -> vocaloid voiceroid utau cevio exit_tunes itto_na_kataomoi_minoraseta_chiisa_na_shiawase_(vocaloid) evillious_nendaiki chimidoro_switch_(vocaloid) vsinger_(vocaloid) kashokusei:_idol_shoukougun_(vocaloid)
 ?dubois_(project_moon) -> project_moon limbus_company
 ?the_sedimented_(project_moon) -> project_moon limbus_company
+?taihou_(azur_lane) -> azur_lane kantai_collection fate_(series) fate/grand_order original azur_lane:_slow_ahead coca-cola blue_archive hololive arknights
