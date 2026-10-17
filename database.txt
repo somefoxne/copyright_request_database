@@ -3246,3 +3246,4 @@
 ?nihilux_(blurry_qr_colt)_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail genshin_impact jojo_no_kimyou_na_bouken mihoyo never_gonna_give_you_up zenless_zone_zero gundam jujutsu_kaisen gundam_narrative
 ?suimori_atori -> haconect
 ?lucille_(cslucaris) -> original warhammer_40k shokugeki_no_souma helldivers_(series)
+?madeline_(cslucaris) -> original warhammer_40k helldivers_(series)
