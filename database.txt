@@ -1237,3 +1237,4 @@
 ?jeanne_(project_moon) -> project_moon limbus_company mili_(band) rendezvous_(mili) library_of_ruina wonder_(vocaloid) xkcd mizan_(vocaloid)
 ?matsunaga_hisahide_(fate) -> fate_(series) fate/grand_order fate/strange_fake azur_lane zenless_zone_zero sono_bisque_doll_wa_koi_wo_suru dandadan koha-ace fujimaru_ritsuka_wa_wakaranai
 ?daxter -> jak_and_daxter ratchet_&_clank final_fantasy metal_gear_(series) sly_cooper_(series) psm pokemon persona the_legend_of_zelda mario_(series)
+?torii_jungo -> devil_survivor_(series) devil_survivor_2
