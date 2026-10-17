@@ -2596,3 +2596,4 @@
 ?otto_apocalypse -> honkai_(series) honkai_impact_3rd honkai:_star_rail mihoyo genshin_impact honkai_gakuen honkai:_nexus_anima zenless_zone_zero kantai_collection fate_(series)
 ?loona_(helluva_boss) -> hellaverse helluva_boss hazbin_hotel pokemon marvel original zenless_zone_zero utdr_(toby_fox)
 ?jungle_pocket_(champion's_battle_cry)_(umamusume) -> umamusume umamusume:_beginning_of_a_new_era umamusume:_road_to_the_top umamusume:_cinderella_gray original alien_stage jojo_no_kimyou_na_bouken bucchigiri?! fate_(series)
+?female_protagonist_(pokemon_pokopia) -> pokemon pokemon_pokopia pokemon_legends:_z-a animal_crossing pokemon_(anime) kirby_(series) pokemon_firered_and_leafgreen nintendo touhou pokemon_scarlet_and_violet
