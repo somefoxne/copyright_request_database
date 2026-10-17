@@ -1781,3 +1781,4 @@
 ?dizzy_(guilty_gear) -> guilty_gear guilty_gear_xrd guilty_gear_strive guilty_gear_xx guilty_gear_x guilty_gear_2 blazblue arc_system_works
 ?hachimiya_meguru -> idolmaster idolmaster_shiny_colors idolmaster_shiny_colors_song_for_prism idolmaster_cinderella_girls idolmaster_(classic) idolmaster_million_live! gakuen_idolmaster kantai_collection idolmaster_side-m pokemon
 ?danica_(genshin_impact) -> genshin_impact zenless_zone_zero mihoyo moechakkafire
+?majin_fina -> final_fantasy final_fantasy_brave_exvius final_fantasy_resonance war_of_the_visions:_final_fantasy_brave_exvius final_fantasy_vii final_fantasy_vi final_fantasy_ix final_fantasy_xiii final_fantasy_iii final_fantasy_xiv
