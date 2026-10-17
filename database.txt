@@ -1144,3 +1144,4 @@
 ?kusanagi_motoko -> ghost_in_the_shell ghost_in_the_shell:_stand_alone_complex the_ghost_in_the_shell_(2026) ghost_in_the_shell_(1995) ghost_in_the_shell:_sac_2045 ghost_in_the_shell_arise ghost_in_the_shell_(1989) os-tan neon_genesis_evangelion gundam
 ?pixie_(monster_farm) -> monster_farm line:_monster_farm pokemon final_fantasy yu-gi-oh! mario_(series) pokemon_(anime) digimon darkstalkers pokemon_(classic_anime)
 ?meteora_osterreich -> re:creators black_lagoon 341_sentoudan megami_magazine pokemon fate_(series) fate/grand_order granblue_fantasy persona the_legend_of_zelda
+?tamamo_cross_(fast_as_lightning)_(umamusume) -> umamusume umamusume:_cinderella_gray pokemon monster_hunter_(series) dragon_ball cygames midori_no_makibaoo dragon_ball_z idolmaster idolmaster_cinderella_girls
