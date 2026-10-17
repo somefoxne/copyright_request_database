@@ -1651,3 +1651,4 @@
 ?suoming_(wuthering_waves) -> wuthering_waves blue_archive original vocaloid utau kfc kyoufuu_all_back_(vocaloid)
 ?princess_daisy_(swimwear)_(mario_kart_world) -> mario_(series) mario_kart mario_kart_world super_mario_bros._wonder super_mario_odyssey mario_kart_tour zackscottgames vocaloid persona sonic_(series)
 ?princess_daisy_(touring) -> mario_(series) mario_kart mario_kart_world dragon_ball dragon_ball_(classic) sonic_(series) super_smash_bros. sonic_boom_(series)
+?dusclops -> pokemon pokemon_ruby/sapphire/emerald pokemon_omega_ruby_and_alpha_sapphire pokemon_diamond/pearl/platinum pokemon_(anime) pokemon_black_and_white pokemon_heartgold_and_soulsilver pokemon_firered_and_leafgreen pokemon_adventures pokemon_emerald
