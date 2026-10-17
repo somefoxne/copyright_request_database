@@ -1300,3 +1300,4 @@
 ?ficusmon -> digimon digimon_eggs
 ?rootmon -> digimon digimon_eggs
 ?sekiryumon -> digimon digimon_eggs
+?suzumon -> digimon digimon_eggs coca-cola
