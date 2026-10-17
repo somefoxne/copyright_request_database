@@ -2608,3 +2608,4 @@
 ?agnes_digital_(casual)_(umamusume) -> umamusume pokemon kantai_collection real_life kfc comiket_100 the_penguins_of_madagascar original touhou blue_archive
 ?mochizuki_ryouji -> persona persona_3 persona_3_portable persona_4 persona_3_reload persona_5 persona_2 persona_1 persona_4:_the_ultimate_in_mayonaka_arena persona_5_the_royal
 ?ju_fufu -> zenless_zone_zero genshin_impact mihoyo honkai_(series) honkai:_star_rail blue_archive fate_(series) fate/grand_order umamusume jujutsu_kaisen
+?hsin_(moon_fox)_(wuthering_waves) -> wuthering_waves
