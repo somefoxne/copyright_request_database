@@ -2310,3 +2310,4 @@
 ?ump45_(girls'_frontline) -> kantai_collection arknights original metal_gear_(series) alien_(series) alien_(1979) azur_lane fate_(series)
 ?kazusa_(halloween)_(blue_archive) -> blue_archive comiket_107 hololive comiket_105 fate_(series) fate/grand_order hololive_english zenless_zone_zero kamen_rider stella_sora
 ?inohana_rikka -> mayonaka_heart_tune megami_magazine comiket_106 calbee_(potato_chips)
+?yatonokami_kanata -> paradox_live sanrio little_twin_stars my_melody_(series) genshin_impact nier_(series) nier:automata promare hello_kitty instagram
