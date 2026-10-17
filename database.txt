@@ -981,3 +981,4 @@
 ?paulina_sanchez -> danny_phantom the_fairly_oddparents avatar_legends avatar:_the_last_airbender powerpuff_girls kim_possible_(series)
 ?numemon -> digimon digimon_card_game digimon_adventure digimon_world digimon_adventure_02 digimon_frontier digimon_world_-next_0rder- digimon_tamers digimon_xros_wars digimon_liberator
 ?numemon_x-antibody -> digimon
+?midare_toushirou -> touken_ranbu touken_ranbu:_hanamaru idolmaster kantai_collection pokemon fate_(series) idolmaster_cinderella_girls fate/apocrypha cardcaptor_sakura twitter
