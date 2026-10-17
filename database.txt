@@ -3635,3 +3635,4 @@
 ?tenkyuu_chimata -> touhou unconnected_marketeers touhou_(pc-98) 100th_black_market touhou_lostword reitaisai wily_beast_and_weakest_creature yu-gi-oh! perfect_cherry_blossom mountain_of_faith
 ?haru_(akina_tsukako) -> original comic_kairakuten_beast
 ?kouta_(akina_tsukako) -> original comic_kairakuten_beast
+?todd_fang -> re:zero_kara_hajimeru_isekai_seikatsu pearl_(movie) yorushika bubble_(yorushika)
