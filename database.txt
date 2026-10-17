@@ -1295,3 +1295,4 @@
 ?aoba_moca -> bang_dream! bang_dream!_girls_band_party! lost_one_no_goukoku_(vocaloid) shoujo_kageki_revue_starlight comiket_94 comiket_97 pokemon bang_dream!_yumemita persona
 ?mitake_ran -> bang_dream! bang_dream!_girls_band_party! persona persona_5 lost_one_no_goukoku_(vocaloid) chainsaw_man bang_dream!_yumemita pokemon comiket_97
 ?hamasaki_mahoro -> bang_dream! bang_dream!_our_notes project_sekai pokemon shoujo_kageki_revue_starlight kyu-kurarin_(cevio) sweets_paradise toriko_(series) koufuku_kei_(vocaloid)
+?sawami_kanata -> bang_dream! bang_dream!_our_notes shoujo_kageki_revue_starlight idolmaster gakuen_idolmaster jujutsu_kaisen manimani_(vocaloid) koufuku_kei_(vocaloid)
