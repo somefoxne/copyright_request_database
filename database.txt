@@ -3454,3 +3454,4 @@
 ?luna_snow -> marvel marvel_rivals x-men spider-man_(series) fantastic_four guardians_of_the_galaxy avengers_(series) tiger_division thor_(marvel)_(series) the_incredible_hulk_(series)
 ?scream_tail -> pokemon pokemon_(anime) pokemon_horizons pokemon_scarlet_and_violet pokemon_masters_ex pokemon_tcg original pokemon_firered_and_leafgreen pokemon_sun_and_moon vocaloid
 ?akimoto_katherine_reiko -> kochikame shounen_jump naruto_(series) one_piece bleach naruto_(classic) gintama kuroko_no_basuke crayon_shin-chan beelzebub_(manga)
+?comet_(gnosia) -> gnosia splatoon_(series) comiket_107
