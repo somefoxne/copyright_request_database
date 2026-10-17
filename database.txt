@@ -1826,3 +1826,4 @@
 ?guin_(trickcal) -> trickcal
 ?scary_ghost_cat_(usa37107692) -> original pokemon
 ?fletcher_(kancolle) -> kantai_collection gundam lawson zeta_gundam pokemon gundam_gquuuuuux i_want_you umamusume marvel original
+?yudias_velgear -> yu-gi-oh! yu-gi-oh!_go_rush!! neon_genesis_evangelion yu-gi-oh!_duel_monsters evangelion:_30th_anniversary_special_performance bishoujo_senshi_sailor_moon rebuild_of_evangelion evangelion:_3.0_you_can_(not)_redo idolish7 megido72
