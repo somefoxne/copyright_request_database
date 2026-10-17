@@ -3790,3 +3790,4 @@
 ?kel_(omori) -> omori emori omariposa utdr_(toby_fox) undertale pokemon mario_(series) vocaloid monitoring_(vocaloid) original
 ?vinca_words -> touhou original white_names_spoiled_past touhou_(pc-98) m.u.g.e.n embodiment_of_scarlet_devil imperishable_night subterranean_animism perfect_cherry_blossom
 ?berdly_(deltarune) -> utdr_(toby_fox) deltarune undertale pokemon vocaloid sonic_(series) mario_(series) sanrio the_amazing_digital_circus adventure_time
+?hawks_(boku_no_hero_academia) -> boku_no_hero_academia jujutsu_kaisen haikyuu!! pokemon shounen_jump fate_(series) one_piece marvel instagram original
