@@ -1155,3 +1155,4 @@
 ?fujimaru_ritsuka_(female) -> fate_(series) fate/grand_order fate/extra fate/stay_night fate/apocrypha learning_with_manga!_fgo fate/extra_ccc fate/zero koha-ace fate/kaleid_liner_prisma_illya
 ?fujimaru_ritsuka_(female)_(brilliant_summer) -> fate_(series) fate/grand_order fate/extra fate/apocrypha fate/stay_night fate/extra_ccc granblue_fantasy kamen_rider kara_no_kyoukai learning_with_manga!_fgo
 ?mash_kyrielight_(swimsuit_of_perpetual_summer) -> fate_(series) fate/grand_order fate/apocrypha fate/stay_night fate/extra comiket_92 granblue_fantasy new_game! kemono_friends marvel
+?magician's_valkyria -> yu-gi-oh! yu-gi-oh!_duel_monsters yu-gi-oh!_gx original azur_lane metroid yu-gi-oh!_master_duel ganbare_goemon yu-gi-oh!_rush_duel
