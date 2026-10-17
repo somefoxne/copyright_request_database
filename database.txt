@@ -2167,3 +2167,4 @@
 ?nanaya_shiki -> tsukihime melty_blood tsukihime_(remake) kagetsu_tooya touhou m.u.g.e.n type-moon fate_(series) kara_no_kyoukai melty_blood:_type_lumina
 ?tohno_shiki -> tsukihime tsukihime_(remake) melty_blood fate_(series) fate/grand_order type-moon fate/stay_night kagetsu_tooya melty_blood:_type_lumina kara_no_kyoukai
 ?vita_(honkai_impact) -> honkai_(series) honkai_impact_3rd honkai:_star_rail genshin_impact mihoyo kfc comiket_105 comiket_106 shoujo_kageki_revue_starlight star_wars
+?devil_natashia -> indie_virtual_youtuber
