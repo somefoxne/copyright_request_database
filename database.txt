@@ -2109,3 +2109,4 @@
 ?caitlin_(fall_2021)_(pokemon) -> pokemon pokemon_masters_ex pokemon_black_and_white pokemon_sword_and_shield pokemon_scarlet_and_violet pokemon_firered_and_leafgreen pokemon_sun_and_moon pokemon_diamond/pearl/platinum pokemon_heartgold_and_soulsilver pokemon_platinum
 ?caitlin_(pokemon) -> pokemon pokemon_black_and_white pokemon_diamond/pearl/platinum pokemon_platinum pokemon_masters_ex pokemon_black_2_and_white_2 pokemon_heartgold_and_soulsilver pokemon_sun_and_moon pokemon_x_and_y pokemon_firered_and_leafgreen
 ?maru-yu_(kancolle) -> kantai_collection aoki_hagane_no_arpeggio space_adventure_cobra pokemon original gundam dragon_ball yuru-chara lupin_iii moomin
+?camellya_(wuthering_waves) -> wuthering_waves comiket_105 kfc honkai_(series) honkai:_star_rail chainsaw_man punishing:_gray_raven fate_(series) genshin_impact arknights
