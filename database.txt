@@ -2885,3 +2885,4 @@
 ?fnc_(girls'_frontline) -> cave_story original kantai_collection shoujo_shuumatsu_ryokou pokemon metal_gear_(series) doom_(series)
 ?jahoda_(genshin_impact) -> genshin_impact mihoyo honkai_(series) honkai:_star_rail duolingo original zenless_zone_zero pokemon hololive umamusume
 ?nefer_(genshin_impact) -> genshin_impact zenless_zone_zero mihoyo honkai_(series) honkai:_star_rail pokemon duolingo fire_emblem danganronpa_(series) bang_dream!
+?sabito_(kimetsu) -> kimetsu_no_yaiba kimetsu_gakuen pokemon neon_genesis_evangelion jujutsu_kaisen dc_comics batman_(series) mononoke_hime original fate_(series)
