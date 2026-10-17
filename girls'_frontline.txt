@@ -631,6 +631,7 @@ elid_(girls'_frontline) -> girls'_frontline
 smasher_(girls'_frontline) -> girls'_frontline  
 nightmare_(girls'_frontline) -> girls'_frontline  
 corpse_bride_(girls'_frontline) -> girls'_frontline  
+
 #girls'_frontline:_neural_cloud
 croque_(neural_cloud) -> girls'_frontline:_neural_cloud  
 simo_(neural_cloud) -> girls'_frontline:_neural_cloud  
@@ -754,6 +755,7 @@ antenora_(neural_cloud) -> girls'_frontline:_neural_cloud
 malkira_(neural_cloud) -> girls'_frontline:_neural_cloud  
 caina_(neural_cloud) -> girls'_frontline:_neural_cloud  
 baalia_(neural_cloud) -> girls'_frontline:_neural_cloud  
+
 #girls'_frontline_2:_exilium
 groza_(girls'_frontline_2) -> girls'_frontline_2:_exilium  
 lenna_(girls'_frontline_2) -> girls'_frontline_2:_exilium  
@@ -872,6 +874,7 @@ theia_(girls'_frontline_2) -> girls'_frontline_2:_exilium
 gaia_(girls'_frontline_2) -> girls'_frontline_2:_exilium  
 vasily_pugachev -> girls'_frontline_2:_exilium  
 ateraxis_(girls'_frontline_2) -> girls'_frontline_2:_exilium  
+
 #codename:_bakery_girl
 jefuty_(bakery_girl) -> codename:_bakery_girl  
 mendo_(bakery_girl) -> codename:_bakery_girl  
