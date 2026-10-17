@@ -2176,3 +2176,4 @@
 ?durandal_(honkai_impact) -> honkai_(series) honkai_impact_3rd mihoyo genshin_impact honkai:_star_rail zenless_zone_zero umamusume arknights blue_archive bishoujo_senshi_sailor_moon
 ?rita_rossweisse -> honkai_(series) honkai_impact_3rd honkai_gakuen mihoyo genshin_impact honkai:_star_rail zenless_zone_zero arknights blue_archive neon_genesis_evangelion
 ?rita_rossweisse_(umbral_rose) -> honkai_(series) honkai_impact_3rd mihoyo genshin_impact arknights honkai_gakuen original idolmaster azur_lane zenless_zone_zero
+?housho_margo -> mahou_shoujo_no_majo_saiban treasure_cafe comiket_108 karaoke_manekineko poker_chase tomodachi_life tomodachi_life:_living_the_dream chainsaw_man girls_band_cry the_last_supper
