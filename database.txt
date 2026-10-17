@@ -2904,3 +2904,4 @@
 ?dubois_(project_moon) -> project_moon limbus_company
 ?the_sedimented_(project_moon) -> project_moon limbus_company
 ?taihou_(azur_lane) -> azur_lane kantai_collection fate_(series) fate/grand_order original azur_lane:_slow_ahead coca-cola blue_archive hololive arknights
+?taihou_(fun_on_the_baize)_(azur_lane) -> azur_lane blue_archive original hololive hololive_english comiket_107 comiket_108
