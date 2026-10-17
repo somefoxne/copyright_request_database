@@ -1966,3 +1966,4 @@
 ?firefly_(spring_missive)_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail comiket_106 fate_(series) fate/stay_night umamusume genshin_impact indie_virtual_youtuber fate/unlimited_blade_works kamen_rider
 ?sparkle_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail honkai_impact_3rd genshin_impact mihoyo zenless_zone_zero fate_(series) rabbit_hole_(vocaloid) fate/stay_night vocaloid
 ?huohuo_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail mihoyo zenless_zone_zero genshin_impact bocchi_the_rock! blue_archive original honkai_impact_3rd jujutsu_kaisen
+?tail_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail mihoyo zenless_zone_zero genshin_impact original jujutsu_kaisen honkai_impact_3rd blue_archive chainsaw_man
