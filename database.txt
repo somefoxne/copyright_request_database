@@ -4234,3 +4234,4 @@
 ?derpy_(kpop_demon_hunters) -> kpop_demon_hunters original hololive hololive_english real_life arknights final_fantasy final_fantasy_vii marvel bishoujo_senshi_sailor_moon
 ?rumi_(kpop_demon_hunters) -> kpop_demon_hunters league_of_legends real_life arcane:_league_of_legends fortnite pokemon hololive hololive_english mario_(series) marvel
 ?sussie_(kpop_demon_hunters) -> kpop_demon_hunters original final_fantasy final_fantasy_vii league_of_legends real_life kimetsu_no_yaiba dc_comics teen_titans tonari_no_totoro
+?grace_(bunny)_(princess_connect!) -> princess_connect! cygames
