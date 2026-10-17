@@ -2578,3 +2578,4 @@
 ?tsurumaru_kuninaga -> touken_ranbu kantai_collection katsugeki/touken_ranbu touken_ranbu:_hanamaru pokemon idolmaster fate_(series) idolmaster_cinderella_girls axis_powers_hetalia
 ?acheron_(lostmera)_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail
 ?cyrene_(demiurge)_(cyrup)_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail honkai_impact_3rd
+?morisawa_chiaki -> ensemble_stars! project_sekai sanrio hello_kitty vocaloid pokemon fate_(series) fate/grand_order idolmaster idolmaster_side-m
