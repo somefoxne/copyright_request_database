@@ -2104,3 +2104,4 @@
 ?vesti_(nikke) -> goddess_of_victory:_nikke gundam sousou_no_frieren gundam_narrative jujutsu_kaisen re:zero_kara_hajimeru_isekai_seikatsu panty_&_stocking_with_garterbelt berserk comiket_108 a-1_pictures
 ?volume_(beat_the_gun)_(nikke) -> goddess_of_victory:_nikke gundam gundam_narrative berserk
 ?volume_(nikke) -> goddess_of_victory:_nikke gundam grand_theft_auto grand_theft_auto_vi gundam_narrative umamusume vocaloid bocchi_the_rock! darkstalkers vshojo
+?white_ice_dragon_(nikke) -> goddess_of_victory:_nikke berserk
