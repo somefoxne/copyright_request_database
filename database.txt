@@ -2265,3 +2265,4 @@
 ?nightwing -> dc_comics batman_(series) red_hood_and_the_outlaws teen_titans dc:_dark_legion superman_(series) marvel young_justice spider-man_(series) super_sons
 ?red_hood_(dc) -> dc_comics batman_(series) red_hood_and_the_outlaws knightfight dc:_dark_legion superman_(series) original teen_titans marvel batman:_arkham_(series)
 ?senri_ayumu_(1st_costume) -> nijisanji pokemon
+?yumesaki_hipopo -> indie_virtual_youtuber
