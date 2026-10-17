@@ -1585,3 +1585,4 @@
 ?yumizuka_satsuki -> tsukihime melty_blood tsukihime_(remake) fate_(series) type-moon fate/stay_night m.u.g.e.n kagetsu_tooya carnival_phantasm kara_no_kyoukai
 ?ootori_shousuke -> project_sekai vocaloid ego_rock_(vocaloid)
 ?ootori_keisuke_(project_sekai) -> project_sekai vocaloid
+?ootori_rakunosuke -> project_sekai vocaloid
