@@ -1244,3 +1244,4 @@
 ?kagura_(onmyoji) -> onmyoji cardcaptor_sakura cardcaptor_sakura_clear_card_arc gintama mononoke vocaloid sanrio inuyasha fuwa_fuwa_cinnamoroll hello_kitty
 ?millia_rage -> guilty_gear guilty_gear_xrd guilty_gear_strive guilty_gear_xx guilty_gear_x blazblue arc_system_works street_fighter evolution_championship_series touhou
 ?haiqing_(astral_party) -> astral_party mahou_shoujo_no_majo_saiban original indie_virtual_youtuber
+?haiqing_(jiangshi)_(astral_party) -> astral_party mahou_shoujo_no_majo_saiban original indie_virtual_youtuber
