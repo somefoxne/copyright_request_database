@@ -1581,3 +1581,4 @@
 ?olivia_park -> knights_of_guinevere pieta
 ?princess_guinevere -> knights_of_guinevere vocaloid the_amazing_digital_circus danganronpa_(series) bishoujo_senshi_sailor_moon monitoring_(vocaloid) murder_drones perfect_blue slay_the_princess pieta
 ?gentildonna_(umamusume) -> umamusume real_life original fate_(series) metal_gear_(series) dragon_ball metal_gear_rising:_revengeance fate/grand_order street_fighter hunter_x_hunter
+?ikuta_haruki -> idolmaster idolmaster_shiny_colors idolmaster_shiny_colors_song_for_prism pokemon gundam bandai_namco idolmaster_(classic) zozotown mister_donut idolmaster_cinderella_girls
