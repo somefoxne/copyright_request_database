@@ -3026,3 +3026,4 @@
 ?himari_(armed)_(blue_archive) -> blue_archive akira_(manga) gundam neon_genesis_evangelion rebuild_of_evangelion evangelion:_3.0+1.0_thrice_upon_a_time honkai_(series) honkai:_star_rail yu-gi-oh! sono_bisque_doll_wa_koi_wo_suru
 ?rio_(armed)_(blue_archive) -> blue_archive comiket_107 fate_(series) wuthering_waves neon_genesis_evangelion umamusume gundam goddess_of_victory:_nikke rebuild_of_evangelion metal_gear_(series)
 ?kasane_teto_(sv) -> utau synthesizer_v vocaloid a.i._voice tetoris_(synthesizer_v) igaku_(utau) mesmerizer_(vocaloid) voicepeak liar_dancer_(synthesizer_v) musekinin_shuugoutai_(synthesizer_v)
+?makinami_mari_illustrious -> neon_genesis_evangelion rebuild_of_evangelion evangelion:_2.0_you_can_(not)_advance evangelion:_3.0_you_can_(not)_redo evangelion:_3.0+1.0_thrice_upon_a_time goddess_of_victory:_nikke pokemon original fate_(series) bishoujo_senshi_sailor_moon
