@@ -1628,3 +1628,4 @@
 ?eco-arc -> tsukihime tsukihime_(remake) fate_(series) melty_blood fate/grand_order type-moon fate/stay_night melty_blood:_type_lumina suzumiya_haruhi_no_yuuutsu monogatari_(series)
 ?mejiro_palmer_(umamusume) -> umamusume pakatube sanrio original real_life umamusume:_cinderella_gray pokemon cygames akari_ga_yatte_kitazo_(vocaloid) idolmaster
 ?win_variation_(dramatic_tutu)_(umamusume) -> umamusume fate_(series) fate/stay_night umamusume:_cinderella_gray king_kong_(series) pokemon vocaloid gundam bleach real_life
+?win_variation_(umamusume) -> umamusume real_life original umayuru umamusume:_cinderella_gray pakatube touhou pokemon fate_(series) fate/stay_night
