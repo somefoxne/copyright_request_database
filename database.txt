@@ -2187,3 +2187,4 @@
 ?captain_archibald_haddock -> tintin real_life the_simpsons touhou azur_lane neon_genesis_evangelion league_of_legends mario_(series) lyrical_nanoha bleach
 ?herge_(real_life) -> real_life tintin
 ?professeur_tryphon_tournesol -> real_life tintin
+?nikaido_hiro -> mahou_shoujo_no_majo_saiban mahou_shoujo_no_inshuu_mura haishin_shoujo_no_uraaka_meikyuu karaoke_manekineko treasure_cafe book_off comiket_108 project_moon bang_dream!
