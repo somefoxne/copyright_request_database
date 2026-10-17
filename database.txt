@@ -1713,3 +1713,4 @@
 ?mr._c.b._(clear_bliss)_(umamusume) -> umamusume original jojo_no_kimyou_na_bouken vento_aureo real_life umamusume:_party_dash umamusume:_cinderella_gray kantai_collection blue_archive ryuu_ga_gotoku_(series)
 ?mr._c.b._(umamusume) -> umamusume umamusume:_cinderella_gray original real_life pokemon jojo_no_kimyou_na_bouken suiyou_dou_de_shou blue_archive vento_aureo umamusume:_party_dash
 ?eevee -> pokemon pokemon_(anime) pokemon_scarlet_and_violet pokemon_sword_and_shield pokemon_red/green/blue/yellow pokemon_firered_and_leafgreen original pokemon_journeys pokemon_mystery_dungeon
+?harmony_(pokemon) -> pokemon pokemon_legends:_z-a pokemon_x_and_y pokemon_scarlet_and_violet pokemon_legends:_arceus pokemon_black_and_white pokemon_sword_and_shield pokemon_sun_and_moon pokemon_heartgold_and_soulsilver pokemon_diamond/pearl/platinum
