@@ -2508,3 +2508,4 @@
 ?fujiwara_yamato_(gibagiba) -> original ochame_na_okusan_to_no_nichijou_chabangoto boroboro_no_elf-san_wo_shiawase_ni_suru_kusuri_uri-san
 ?saotome_berry -> nijisanji duel_masters minecraft niginigi_nijitown hololive hololive_dev_is nijisanji_en nijisanji_kr nijisanji_id
 ?saotome_berry_(2nd_costume) -> nijisanji minecraft
+?adela_(path_to_nowhere) -> path_to_nowhere original fate_(series) fate/grand_order vocaloid reverse:1999 re:zero_kara_hajimeru_isekai_seikatsu blue_lock seihantai_na_kimi_to_boku
