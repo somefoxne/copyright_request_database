@@ -1632,3 +1632,4 @@
 ?he_xiangu_(all_wishes_come_true!) -> all_wishes_come_true!
 ?yamper -> pokemon pokemon_sword_and_shield pokemon_(anime) pokemon_journeys pokemon:_twilight_wings pokemon_cafe_remix original pokemon_sun_and_moon pokemon_masters_ex pokemon_scarlet_and_violet
 ?lethe_(fire_emblem) -> fire_emblem fire_emblem:_path_of_radiance fire_emblem:_radiant_dawn fire_emblem_heroes fire_emblem_fates fire_emblem_awakening fire_emblem:_three_houses original fire_emblem_engage fire_emblem:_genealogy_of_the_holy_war
+?muarim_(fire_emblem) -> fire_emblem fire_emblem:_path_of_radiance fire_emblem:_radiant_dawn fire_emblem_heroes fire_emblem:_the_blazing_blade fire_emblem:_mystery_of_the_emblem fire_emblem:_the_binding_blade fire_emblem:_the_sacred_stones fire_emblem_fates fire_emblem_awakening
