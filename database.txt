@@ -1765,3 +1765,4 @@
 ?juniper_actias -> indie_virtual_youtuber original nier_(series) nier:automata hololive genshin_impact hololive_english real_life vshojo gamer_supps
 ?juniper_actias_(space_invader) -> indie_virtual_youtuber nier_(series) nier:automata vedal_ai socks_agency avatar_legends avatar:_the_last_airbender matryoshka_(vocaloid) kamippoina_(vocaloid) the_truman_show
 ?matara_kan -> vshojo indie_virtual_youtuber densetsu.exe vinesauce socks_agency hololive hololive_english 3am beastiez real_life
+?matara_kan_(1st_costume) -> vshojo indie_virtual_youtuber original hololive real_life hololive_english jujutsu_kaisen hololive_indonesia minecraft warhammer_40k
