@@ -4198,3 +4198,4 @@
 ?royal_penguin_(kemono_friends) -> kemono_friends kemono_friends_3 kemono_friends_pavilion kemono_friends_2 kemono_friends_kingdom original kantai_collection kemono_friends_v_project doremifa_rondo_(vocaloid) touhou
 ?sasaki_mikoi -> real_life tantei_opera_milky_holmes kemono_friends my_little_pony my_little_pony:_friendship_is_magic mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) durarara!!
 ?shion_(overwatch) -> overwatch chainsaw_man cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 ghost_in_the_shell
+?bokoblin -> the_legend_of_zelda the_legend_of_zelda:_tears_of_the_kingdom the_legend_of_zelda:_breath_of_the_wild hyrule_warriors:_age_of_calamity hyrule_warriors the_legend_of_zelda:_twilight_princess the_legend_of_zelda:_skyward_sword the_legend_of_zelda:_the_wind_waker the_legend_of_zelda:_a_link_between_worlds the_legend_of_zelda:_echoes_of_wisdom
