@@ -1467,3 +1467,4 @@
 ?shiba_tougo -> kagurabachi jujutsu_kaisen one_piece dragon_ball real_life monogatari_(series) mob_psycho_100 eizouken_ni_wa_te_wo_dasu_na! takopii_no_genzai akane-banashi
 ?hoshino_(swimsuit)_(blue_archive) -> blue_archive zenless_zone_zero grand_theft_auto genshin_impact wuthering_waves original onii-chan_wa_oshimai! comiket_106 wixoss blue_archive_the_animation
 ?arataki_itto -> genshin_impact mihoyo honkai_(series) zenless_zone_zero honkai:_star_rail honkai_impact_3rd jojo_no_kimyou_na_bouken kimetsu_no_yaiba original one_piece
+?gorou_(genshin_impact) -> genshin_impact mihoyo kantai_collection sushiro honkai_(series) original honkai:_star_rail zenless_zone_zero pokemon olympics
