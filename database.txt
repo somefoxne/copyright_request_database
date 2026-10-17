@@ -2220,3 +2220,4 @@
 ?mecha_knight -> kirby_(series) kirby:_planet_robobot super_smash_bros. kirby_super_star kirby:_canvas_curse pokemon fire_emblem the_legend_of_zelda fire_emblem_heroes splatoon_(series)
 ?susie_(kirby) -> kirby_(series) kirby:_planet_robobot kirby_star_allies kirby_air_ride kirby_air_riders kirby_and_the_forgotten_land kirby:_triple_deluxe kirby_64 kirby:_squeak_squad
 ?mobius_(honkai_impact) -> honkai_(series) honkai_impact_3rd honkai:_star_rail mihoyo genshin_impact honkai_gakuen zenless_zone_zero blue_archive alien_stage
+?susannah_manatt -> honkai_(series) honkai_impact_3rd genshin_impact honkai:_star_rail mihoyo zenless_zone_zero the_legend_of_zelda mario_(series) metroid dead_or_alive
