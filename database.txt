@@ -2283,3 +2283,4 @@
 ?talia_al_ghul -> dc_comics batman_(series) superman_(series) wonder_woman_(series) batman:_arkham_(series) dc:_dark_legion batman:_arkham_city neon_genesis_evangelion red_hood_and_the_outlaws my_adventures_with_superman
 ?kenneth_del_duca -> original youjo_senki a_song_of_ice_and_fire game_of_thrones postal_(game) death_(band) the_coffin_of_andy_and_leyley raging_bull the_last_of_us_(series) danbooru_(site)
 ?robert_de_niro -> taxi_driver original real_life tintin raging_bull mario_(series) k-on! lyrical_nanoha bleach dc_comics
+?cossack_(polish_anon) -> original
