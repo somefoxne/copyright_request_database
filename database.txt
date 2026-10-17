@@ -1941,3 +1941,4 @@
 ?lohen_(genshin_impact) -> genshin_impact honkai_(series) honkai:_star_rail mihoyo twitter honkai_impact_3rd rabbit_hole_(vocaloid) iii_(hololive) umamusume neon_genesis_evangelion
 ?narita_taishin_(nevertheless)_(umamusume) -> umamusume original akari_ga_yatte_kitazo_(vocaloid) pokemon umamusume:_cinderella_gray kantai_collection blue_archive fate_(series) indie_virtual_youtuber gundam
 ?gunshi_minoru -> real_life fire_emblem touhou mahou_shoujo_no_majo_saiban inazuma_eleven_(series) inazuma_eleven inazuma_eleven_victory_road pokemon danganronpa_(series)
+?maria_(fire_emblem:_fortune's_weave) -> fire_emblem
