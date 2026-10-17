@@ -3181,3 +3181,4 @@
 ?malyna_(malberrybush) -> original indie_virtual_youtuber arknights real_life phase_connect dungeons_&_dragons the_little_mermaid_(disney) ts_loli_oji-san_no_boukan the_wild_thornberrys coca-cola
 ?guzran_(fire_emblem) -> fire_emblem
 ?zero_two_(darling_in_the_franxx) -> darling_in_the_franxx neon_genesis_evangelion kill_la_kill fate_(series) violet_evergarden_(series) trigger_(company) rebuild_of_evangelion original fate/grand_order chainsaw_man
+?emma_(pokemon) -> pokemon pokemon_legends:_z-a pokemon_x_and_y pokemon_sun_and_moon pokemon_(anime) pokemon_horizons original pokemon_masters_ex pokemon_black_2_and_white_2 pokemon_sword_and_shield
