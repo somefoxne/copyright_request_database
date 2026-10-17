@@ -1479,3 +1479,4 @@
 ?chocola_(nekopara) -> nekopara original nekopara_sekai_connect touhou pokemon cat_fantasy azur_lane dengeki_moeoh kantai_collection blue_archive
 ?panty_(psg) -> panty_&_stocking_with_garterbelt kill_la_kill tengen_toppa_gurren_lagann trigger_(company) pokemon neon_genesis_evangelion gainax touhou mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime)
 ?matoi_ryuuko -> kill_la_kill trigger_(company) tengen_toppa_gurren_lagann little_witch_academia original pokemon fate_(series) panty_&_stocking_with_garterbelt touhou chainsaw_man
+?senketsu -> kill_la_kill trigger_(company) tengen_toppa_gurren_lagann touhou little_witch_academia original pokemon neon_genesis_evangelion kantai_collection panty_&_stocking_with_garterbelt
