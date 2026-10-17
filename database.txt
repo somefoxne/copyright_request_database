@@ -2747,3 +2747,4 @@
 ?hikari_(dora_garyeong) -> original
 ?nazrin -> touhou cookie_(touhou) undefined_fantastic_object touhou_(pc-98) manatsu_no_yo_no_inmu mickey_mouse_&_friends pokemon reitaisai unfinished_dream_of_all_living_ghost mountain_of_faith
 ?ako_(dress)_(blue_archive) -> blue_archive spongebob_squarepants_(series) original hololive hololive_english shingeki_no_kyojin phase_connect comiket_104 shuumatsu_no_valkyrie discord
+?daring_tact_(racing)_(umamusume) -> umamusume original bang_dream! princess_connect! real_life goldilocks_and_the_three_bears kantai_collection blue_archive pokemon
