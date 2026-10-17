@@ -4251,3 +4251,4 @@
 ?air_groove_(eternal_hecate)_(umamusume) -> umamusume jojo_no_kimyou_na_bouken stardust_crusaders
 ?candice_catnipp -> bleach bleach:_sennen_kessen-hen bleach:_brave_souls bleach:_the_high_school_warfare original umamusume darkstalkers fairy_tail powerpuff_girls grand_theft_auto
 ?gerard_valkyrie -> bleach bleach:_sennen_kessen-hen bleach:_epilogue
+?ahri_(league) -> league_of_legends overwatch original 2xko genshin_impact final_fantasy ruined_king:_a_league_of_legends_story fate_(series) touhou
