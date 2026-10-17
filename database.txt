@@ -4068,3 +4068,4 @@
 ?shadow_the_hedgehog -> sonic_(series) sonic_adventure_2 sonic_generations sonic_x_shadow_generations shadow_the_hedgehog_(game) sonic_(live_action) sonic_the_hedgehog_3_(movie) sonic_the_hedgehog_(classic) sonic_and_the_black_knight sonic_the_hedgehog_(2006)
 ?kayamori_ruka_(glorious_blades) -> heaven_burns_red jujutsu_kaisen
 ?ishii_iroha -> heaven_burns_red key_(company) yostar angel_beats! comiket_107
+?hanai_kakeru_(terasu_mc) -> original
