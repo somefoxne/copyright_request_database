@@ -3022,3 +3022,4 @@
 ?baba_(deadlock) -> deadlock_(game) vocaloid
 ?bruce_wayne_(absolute_dc) -> dc_comics absolute_dc absolute_batman batman_(series) absolute_superman superman_(series) absolute_wonder_woman the_batman_(2022) marvel spider-man_(series)
 ?tanizaki_yukari -> azumanga_daioh yotsubato! touhou final_fantasy lucky_star pokemon vocaloid gundam jojo_no_kimyou_na_bouken final_fantasy_vii
+?beta_(kagejitsu) -> kage_no_jitsuryokusha_ni_naritakute! kage_no_jitsuryokusha_ni_naritakute!_master_of_garden dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru_darou_ka kono_subarashii_sekai_ni_shukufuku_wo! konosuba!_fantastic_days re:zero_kara_hajimeru_isekai_seikatsu dolphin_wave megami_magazine mushoku_tensei kadokawa
