@@ -4042,3 +4042,4 @@
 ?shiraishi_kuranosuke -> tennis_no_ouji-sama sanrio hello_kitty tonari_no_totoro
 ?che_guevara -> real_life original sayonara_zetsubou_sensei touhou vocaloid final_fantasy persona guilty_gear code_geass tengen_toppa_gurren_lagann
 ?fidel_castro -> real_life original mc_axis nihon-chan
+?wheatley -> portal_(series) portal_2 portal_1 vocaloid utdr_(toby_fox) undertale team_fortress_2 touhou blue_archive pokemon
