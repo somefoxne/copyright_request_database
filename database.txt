@@ -1474,3 +1474,4 @@
 ?zhongli_quan_(young)_(all_wishes_come_true!) -> all_wishes_come_true!
 ?natsu_(nekota_tsuna) -> vspo! comiket_108
 ?nekota_tsuna -> vspo! hololive apex_legends nijisanji xross_stars crazy_raccoon indie_virtual_youtuber comiket_102 street_fighter street_fighter_6
+?leon_s._kennedy_(casual) -> resident_evil resident_evil_4 resident_evil_4_(remake) resident_evil_2 resident_evil_2_(remake)
