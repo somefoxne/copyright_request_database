@@ -2347,3 +2347,4 @@
 ?shizuna_rem_misurugi -> eiyuu_densetsu kuro_no_kiseki_(series) kuro_no_kiseki_i kuro_no_kiseki_ii kai_no_kiseki hajimari_no_kiseki sen_no_kiseki_(series) sora_no_kiseki sen_no_kiseki_i muv-luv
 ?merkuriy_(azur_lane) -> azur_lane
 ?shagaru_magala -> monster_hunter_(series) monster_hunter_4 monster_hunter_rise pokemon fate_(series) fate/grand_order monster_hunter:_world monster_hunter_4_g
+?elaina_(majo_no_tabitabi) -> majo_no_tabitabi majo_no_tabitabi_gakuen mushoku_tensei hololive genshin_impact blue_archive hololive_english sousou_no_frieren kantai_collection kono_subarashii_sekai_ni_shukufuku_wo!
