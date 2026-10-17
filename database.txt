@@ -2660,3 +2660,4 @@
 ?neun_(rk_music) -> rk_music vocaloid persona persona_3 cho_kaguya-hime! kamitsubaki_studio cevio girls_revolution_project
 ?sekai_(cevio) -> cevio kamitsubaki_studio vocaloid utau a.i._voice synthesizer_v voiceroid voicevox kamitsubaki_city_ensemble shinjigen_no_kinjite_(cevio)
 ?devil_jin -> tekken tekken_8 idolmaster tekken_tag_tournament_2 street_fighter idolmaster_million_live! tekken_7 namco tekken_6 tekken_5
+?hanma_yujiro -> grappler_baki umamusume touhou tekken tekken_8 dragon_ball jojo_no_kimyou_na_bouken street_fighter dragon_ball_z final_fantasy
