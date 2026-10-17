@@ -4271,3 +4271,4 @@
 ?kougetsu_(ishiyumi) -> original mechanical_buddy_universe
 ?kougetsu_shinzou_(ishiyumi) -> original mechanical_buddy_universe
 ?otsugetsu_(mechanical_buddy_universe) -> mechanical_buddy_universe
+?rainy_(mechanical_buddy_universe) -> mechanical_buddy_universe original google ma_no_mono-tachi ma_no_mono-tachi_wa_kuwadateru
