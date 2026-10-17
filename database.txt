@@ -3287,3 +3287,4 @@
 ?lars_rorschach -> lovebrush_chronicles original the_lantern_bearers_(painting) pokemon coca-cola eulogy_(patricia_piccinini) air_france
 ?mad_hatter_(alice_in_wonderland) -> original touhou idolmaster vocaloid umamusume fate_(series) houseki_no_kuni ensemble_stars! alice_in_musicland_(vocaloid)
 ?god_(squirrel_stapler) -> squirrel_stapler gameoverse
+?luma_(mario) -> mario_(series) super_mario_galaxy super_smash_bros. pokemon the_legend_of_zelda metroid kid_icarus fire_emblem kirby_(series) animal_crossing
