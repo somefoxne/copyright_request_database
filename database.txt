@@ -2835,3 +2835,4 @@
 ?wild_geese -> gochuumon_wa_usagi_desu_ka? clockwork_rabbit chimame_chronicle manga_time_kirara genshin_impact bocchi_the_rock! sanrio new_game! lawson
 ?yukihana_lamy_(cyber) -> hololive comiket_107 pokemon touhou cupid_(amane_kanata)
 ?nice_nature_(poinsettia_ribbon)_(umamusume) -> umamusume real_life jujutsu_kaisen original akari_ga_yatte_kitazo_(vocaloid) pokemon love_live! dragon_ball love_live!_nijigasaki_high_school_idol_club umamusume:_cinderella_gray
+?tomitake_jirou -> higurashi_no_naku_koro_ni lucky_star touhou suzumiya_haruhi_no_yuuutsu yu-gi-oh! vocaloid mega_man_(series) umineko_no_naku_koro_ni mega_man_(classic) yu-gi-oh!_duel_monsters
