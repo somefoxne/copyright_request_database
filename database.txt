@@ -2994,3 +2994,4 @@
 ?jien_(nikke) -> goddess_of_victory:_nikke fancy_frontier_46 powerpuff_girls
 ?harley_quinn -> dc_comics batman_(series) suicide_squad suicide_squad_(2016_movie) batman:_the_animated_series suicide_squad_isekai harley_quinn_(cartoon) batman:_arkham_(series) dc_animated_universe marvel
 ?harley_quinn_(absolute_dc) -> dc_comics absolute_dc absolute_batman batman_(series)
+?moriya_suwako -> touhou mountain_of_faith touhou_(pc-98) reitaisai reitaisai_8_contest touhou_tag_dream yotsubato! pokemon touhou_lostword cookie_(touhou)
