@@ -3574,3 +3574,4 @@
 ?fubuki_kai_ni_(kancolle) -> kantai_collection kantai_collection_(anime) lawson gundam c2_kikan famitsu original pokemon azur_lane
 ?fubuki_kai_san_(kancolle) -> kantai_collection famitsu fuan_no_tane
 ?fubuki_kai_san_go_(type_6)_(kancolle) -> kantai_collection famitsu fuan_no_tane
+?komazoi_eden -> alice_gear_aegis sousou_no_frieren dolphin_wave frame_arms_girl
