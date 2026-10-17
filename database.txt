@@ -1720,3 +1720,4 @@
 ?runami_yachiyo -> cho_kaguya-hime! the_first_take comiket_108 vocaloid world_is_mine_(vocaloid) watashi_ga_koibito_ni_nareru_wake_naijan_murimuri! chainsaw_man bocchi_the_rock! the_weaker_sex_1_(gibson) blue_archive
 ?sakayori_iroha -> cho_kaguya-hime! comiket_108 world_is_mine_(vocaloid) gundam vocaloid bocchi_the_rock! jujutsu_kaisen youtube hololive minecraft
 ?dream_journey_(gold-triumph)_(umamusume) -> umamusume
+?dream_journey_(umamusume) -> umamusume original real_life pakatube jojo_no_kimyou_na_bouken coyote_(board_game) japan_racing_association comiket_105 pokemon gundam
