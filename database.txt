@@ -3715,3 +3715,4 @@
 ?osaki_amana -> idolmaster idolmaster_shiny_colors idolmaster_shiny_colors_song_for_prism idolmaster_cinderella_girls idolmaster_million_live! idolmaster_(classic) idolmaster_million_live!_theater_days idolmaster_side-m bocchi_the_rock! comiket_102
 ?osaki_tenka -> idolmaster idolmaster_shiny_colors idolmaster_shiny_colors_song_for_prism idolmaster_cinderella_girls idolmaster_(classic) bocchi_the_rock! idolmaster_million_live! idolmaster_starlit_season nijisanji idolmaster_cinderella_girls_starlight_stage
 ?sherald_(haishiki) -> original inemuri_hitsuji
+?uchiha_sasuke -> naruto_(series) naruto_(classic) naruto_shippuuden boruto_(series) boruto:_naruto_next_generations naruto:_the_last boruto:_naruto_the_movie naruto_shippuuden:_ultimate_ninja_blazing one_piece pokemon
