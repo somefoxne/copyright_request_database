@@ -1824,3 +1824,4 @@
 ?mahashi_miku -> bang_dream! bang_dream!_our_notes bang_dream!_yumemita vocaloid love_live! jojo_no_kimyou_na_bouken love_live!_hasu_no_sora_jogakuin_school_idol_club bang_dream!_girls_band_party! steel_ball_run
 ?suga_raika -> bang_dream! bang_dream!_our_notes bang_dream!_yumemita bang_dream!_girls_band_party! sweets_paradise love_live! jojo_no_kimyou_na_bouken chainsaw_man love_live!_hasu_no_sora_jogakuin_school_idol_club
 ?guin_(trickcal) -> trickcal
+?scary_ghost_cat_(usa37107692) -> original pokemon
