@@ -3983,3 +3983,4 @@
 ?kyouno_natsumi -> date_a_live date_a_live:_spirit_pledge azur_lane crash_fever fantasia_re:build original pokemon honkai_(series) honkai_gakuen little_red_riding_hood_(fairy_tale)
 ?kaai_yuki -> vocaloid kyoufuu_all_back_(vocaloid) utau zako_(vocaloid) voiceroid shogi_ichiban!_(vocaloid) a.i._voice cevio kamitsubaki_studio synthesizer_v
 ?w.d._gaster -> utdr_(toby_fox) undertale deltarune xtale yume_nikki jujutsu_kaisen downtown_no_gaki_no_tsukai_ya_arahende!! omori epictale project_moon
+?arcanine -> pokemon pokemon_firered_and_leafgreen pokemon_red/green/blue/yellow pokemon_heartgold_and_soulsilver pokemon_diamond/pearl/platinum pokemon_sword_and_shield pokemon_(anime) pokemon_gold/silver/crystal pokemon_sun_and_moon pokemon_(classic_anime)
