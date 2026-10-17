@@ -3591,3 +3591,4 @@
 ?junketsu -> kill_la_kill trigger_(company) panty_&_stocking_with_garterbelt little_witch_academia touhou fate_(series) tengen_toppa_gurren_lagann pokemon idolmaster mahou_shoujo_madoka_magica
 ?kiryuuin_satsuki -> kill_la_kill trigger_(company) panty_&_stocking_with_garterbelt tengen_toppa_gurren_lagann pokemon little_witch_academia fate_(series) idolmaster neon_genesis_evangelion precure
 ?dancer_(final_fantasy) -> final_fantasy final_fantasy_xiv final_fantasy_v final_fantasy_xi final_fantasy_tactics original indie_virtual_youtuber hololive dissidia_final_fantasy dragon_quest
+?milk-chan_(milk_series) -> milk_inside_a_bag_of_milk_inside_a_bag_of_milk serial_experiments_lain yume_nikki omori off_(game) z.a.t.o._//_i_love_the_world_and_everything_in_it neon_genesis_evangelion utdr_(toby_fox) deltarune needy_girl_overdose
