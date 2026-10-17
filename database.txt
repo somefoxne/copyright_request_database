@@ -2324,3 +2324,4 @@
 ?archetype_earth_(third_ascension) -> fate_(series) fate/grand_order tsukihime tsukihime_(remake) type-moon melty_blood melty_blood:_type_lumina kagetsu_tooya fate/strange_fake fate/stay_night
 ?pecorine_(princess_connect!) -> princess_connect! cygames umamusume idolmaster idolmaster_cinderella_girls granblue_fantasy kantai_collection fate_(series) pokemon fate/grand_order
 ?acheron_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail honkai_impact_3rd mihoyo genshin_impact zenless_zone_zero original fate_(series) wuthering_waves arknights
+?acheron_(slashed_dream)_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail mihoyo honkai_impact_3rd genshin_impact zenless_zone_zero wuthering_waves jujutsu_kaisen original fate_(series)
