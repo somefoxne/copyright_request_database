@@ -4024,3 +4024,4 @@
 ?guanyin -> journey_to_the_west original all_wishes_come_true! path_to_nowhere cookie_run cookie_run:_kingdom chinese_mythology reverse:1999 the_tale_of_food
 ?alan_aramaki -> rose_guns_days higurashi_no_naku_koro_ni umineko_no_naku_koro_ni
 ?elizabeth_bathory_(idol's_sleep_wear)_(fate) -> fate_(series) fate/extra fate/extella
+?tamamo_no_mae_(fate) -> fate_(series) fate/extra fate/grand_order fate/extra_ccc fate/extella fate/stay_night fate/extella_link learning_with_manga!_fgo fate/apocrypha fate/kaleid_liner_prisma_illya
