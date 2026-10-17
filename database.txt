@@ -1418,3 +1418,4 @@
 ?okita_souji_(fate) -> fate_(series) fate/grand_order koha-ace fate/stay_night drifters fate/extra fate/apocrypha fate/type_redline touken_ranbu fate/extra_ccc
 ?okita_souji_(koha-ace) -> fate_(series) fate/grand_order koha-ace fate/stay_night drifters fate/extra fate/apocrypha touken_ranbu fate/extra_ccc fate/type_redline
 ?okita_souji_(second_ascension)_(fate) -> fate_(series) fate/grand_order koha-ace fate/stay_night drifters fate/extra fate/apocrypha golden_kamuy gag_manga_biyori kantai_collection
+?ootori_hinata -> project_sekai vocaloid ego_rock_(vocaloid)
