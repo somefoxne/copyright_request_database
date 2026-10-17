@@ -2313,3 +2313,4 @@
 ?yatonokami_kanata -> paradox_live sanrio little_twin_stars my_melody_(series) genshin_impact nier_(series) nier:automata promare hello_kitty instagram
 ?izumi_mei -> idolmaster idolmaster_shiny_colors idolmaster_shiny_colors_song_for_prism idolmaster_cinderella_girls idolmaster_million_live! gakuen_idolmaster oshi_no_ko idolmaster_(classic) blue_archive love_live!
 ?yi_sang_(project_moon) -> project_moon limbus_company lobotomy_corporation library_of_ruina fly_my_wings mili_(band) arknights original lunatic_moonnight_fantasy hamhampangpang
+?bomi_(vtuber) -> indie_virtual_youtuber
