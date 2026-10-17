@@ -2389,3 +2389,4 @@
 ?juca_meilasch -> gundam victory_gundam gundam_suisei_no_majo
 ?peggy_lee -> gundam victory_gundam gundam_suisei_no_majo zombie_land_saga newtype
 ?francesca_o'hara -> gundam victory_gundam gundam_suisei_no_majo
+?mitsuhirato_(tintin) -> tintin
