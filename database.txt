@@ -2351,3 +2351,4 @@
 ?luo_xiaohei_(human) -> the_legend_of_luo_xiaohei arknights lanxi_zhen spy_x_family original genshin_impact indie_virtual_youtuber haikyuu!! all_saints_street ao_la_xing
 ?ludivine_marie-ange_de_la_trefle -> magical_explorer white_fox_(company)
 ?mizumori_yukine -> magical_explorer animate_(company) white_fox_(company)
+?nanami_(magical_explorer) -> magical_explorer kono_subarashii_sekai_ni_shukufuku_wo! white_fox_(company)
