@@ -2027,3 +2027,4 @@
 ?kilo_(nikke) -> goddess_of_victory:_nikke blue_archive fullmetal_alchemist armored_core armored_core_vi:_fires_of_rubicon gundam super_robot_wars zeta_gundam stellar_blade
 ?clear_(djmax) -> djmax djmax_respect blue_archive original pokemon muse_dash touhou arknights vocaloid
 ?ribombee -> pokemon pokemon_sun_and_moon pokemon_masters_ex pokemon_sword_and_shield pokemon_(anime) pokemon_ultra_sun_and_ultra_moon pokemon_the_series:_sun_&_moon pokemon_scarlet_and_violet vocaloid project_voltage
+?sonia_(pokemon) -> pokemon pokemon_sword_and_shield pokemon_masters_ex pokemon:_twilight_wings pokemon_(anime) pokemon_journeys pokemon_scarlet_and_violet pokemon_sun_and_moon pokemon_black_and_white pokemon_diamond/pearl/platinum
