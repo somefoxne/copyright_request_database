@@ -2843,3 +2843,4 @@
 ?sakuragi_haru_(kyutai_x) -> original
 ?nurse-chan -> dr.kamekame
 ?rice_shower_(yummy_dreamy_fairy)_(umamusume) -> umamusume jujutsu_kaisen
+?hoto_mocha -> gochuumon_wa_usagi_desu_ka? manga_time_kirara gakkou_gurashi! daydream_show kantai_collection megami_magazine pokemon mahou_shoujo_madoka_magica girls_und_panzer gundam
