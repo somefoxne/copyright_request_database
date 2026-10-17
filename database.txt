@@ -2423,3 +2423,4 @@
 ?nemesis_(resident_evil) -> resident_evil resident_evil_3:_nemesis resident_evil_3_(remake) street_fighter capcom marvel_vs._capcom marvel devil_may_cry_(series) marvel_vs._capcom_3 makaimura
 ?yomotsu_hisami -> touhou unfinished_dream_of_all_living_ghost touhou_(pc-98) touhou_lostword pokemon akatsuki_records sorosoro_sushi_wo_tabenai_to_shinu_ze! reitaisai foul_detective_satori akihabara_beer_fair
 ?albert_wesker -> resident_evil resident_evil_5 resident_evil_1 resident_evil_4 resident_evil_4_(remake) capcom dead_by_daylight street_fighter darkstalkers marvel_vs._capcom
+?barry_burton -> resident_evil resident_evil_1 resident_evil_5 resident_evil_3:_nemesis resident_evil:_revelations_2 resident_evil_4 resident_evil_2 resident_evil_6 resident_evil_-_code:_veronica resident_evil_0
