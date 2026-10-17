@@ -3948,3 +3948,4 @@
 ?lily_evans -> wizarding_world harry_potter_(series) harry_potter_and_the_deathly_hallows vocaloid just_be_friends_(vocaloid) pieta harry_potter_and_the_cursed_child
 ?aerith_gainsborough_(fairy_of_snowfall) -> final_fantasy final_fantasy_vii final_fantasy_vii:_ever_crisis final_fantasy_vii_remake final_fantasy_ix crisis_core:_final_fantasy_vii final_fantasy_vii_rebirth kingdom_hearts dissidia_final_fantasy kingdom_hearts_ii
 ?zack_fair_(holiday_suit) -> final_fantasy final_fantasy_vii final_fantasy_vii:_ever_crisis final_fantasy_vii_remake crisis_core:_final_fantasy_vii nier_(series) final_fantasy_ix nier
+?guy_crimson -> tensei_shitara_slime_datta_ken
