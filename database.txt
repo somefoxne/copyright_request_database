@@ -4206,3 +4206,4 @@
 ?dragalge -> pokemon pokemon_legends:_z-a pokemon_x_and_y pokemon_scarlet_and_violet original pokemon_sword_and_shield pokemon_omega_ruby_and_alpha_sapphire pokemon_(anime) pokemon_sun_and_moon pokemon_black_and_white
 ?mega_dragalge -> pokemon pokemon_legends:_z-a original pokemon_scarlet_and_violet pokemon_x_and_y pokemon_tcg pokemon_champions
 ?noivern -> pokemon pokemon_(anime) pokemon_x_and_y pokemon_the_series:_xy pokemon_legends:_z-a pokemon_sword_and_shield pokemon_scarlet_and_violet pokemon_journeys pokemon_(classic_anime) pokemon_the_series:_sun_&_moon
+?tyrantrum -> pokemon pokemon_x_and_y pokemon_(anime) pokemon_legends:_z-a pokemon_the_series:_xy pokemon_omega_ruby_and_alpha_sapphire original pokemon_sword_and_shield love_live! pokemon_sun_and_moon
