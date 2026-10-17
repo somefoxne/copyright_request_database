@@ -3042,3 +3042,4 @@
 ?jinja_eru -> gochuumon_wa_usagi_desu_ka? manga_time_kirara clockwork_rabbit
 ?jinja_natsume -> gochuumon_wa_usagi_desu_ka? manga_time_kirara clockwork_rabbit
 ?karede_yura -> gochuumon_wa_usagi_desu_ka? pudu_robotics
+?piper_wheel -> zenless_zone_zero blue_archive original genshin_impact guilty_gear real_life transformers mihoyo death_stranding pokemon
