@@ -2793,3 +2793,4 @@
 ?yellow_heart_(neptunia) -> neptune_(series) kami_jigen_game_neptune_v choujigen_game_neptune shin_jigen_game_neptune_vii blue_archive touhou granblue_fantasy yu-gi-oh! marvel senran_kagura
 ?echidna_(re:zero) -> re:zero_kara_hajimeru_isekai_seikatsu re:zero_kara_kasaneru_isekai_seikatsu re:zero_kara_hajimeru_isekai_seikatsu:_lost_in_memories princess_connect! touhou kono_subarashii_sekai_ni_shukufuku_wo! code_geass va-11_hall-a me!me!me! grand_summoners
 ?termichan_(not-a-bot) -> original indie_virtual_youtuber monster_hunter_(series) team_fortress_2 monster_hunter_wilds discord arknights real_life phase_connect
+?kasuga_ayumu -> azumanga_daioh yotsubato! touhou lucky_star suzumiya_haruhi_no_yuuutsu nichijou gundam vocaloid neon_genesis_evangelion real_life
