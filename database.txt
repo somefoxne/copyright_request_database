@@ -3636,3 +3636,4 @@
 ?haru_(akina_tsukako) -> original comic_kairakuten_beast
 ?kouta_(akina_tsukako) -> original comic_kairakuten_beast
 ?todd_fang -> re:zero_kara_hajimeru_isekai_seikatsu pearl_(movie) yorushika bubble_(yorushika)
+?tails_(sonic) -> sonic_(series) sonic_the_hedgehog_(classic) the_murder_of_sonic_the_hedgehog sonic_the_hedgehog_(idw) sonic_(live_action) sega sonic_adventure sonic_adventure_2 sonic_boom_(series) mario_(series)
