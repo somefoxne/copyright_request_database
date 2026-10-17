@@ -1961,3 +1961,4 @@
 ?tsukishio_michiru -> indie_virtual_youtuber
 ?firefly_(stella_sora) -> stella_sora densetsu_kyojin_ideon
 ?akashi_(kancolle) -> kantai_collection azur_lane gundam lawson line_(naver) original girls_und_panzer mobile_suit_gundam lupin_iii aoki_hagane_no_arpeggio
+?sunna_(delusions_in_business)_(zenless_zone_zero) -> zenless_zone_zero honkai_(series) honkai:_star_rail jojo_no_kimyou_na_bouken stardust_crusaders mihoyo
