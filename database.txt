@@ -3486,3 +3486,4 @@
 ?pastel_mary_(mahoiku) -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_breakdown mahou_shoujo_ikusei_keikaku_restart mahou_shoujo_ikusei_keikaku_unmarked mahou_shoujo_ikusei_keikaku_limited mahou_shoujo_ikusei_keikaku_jokers mahou_shoujo_ikusei_keikaku_black mahou_shoujo_ikusei_keikaku_f2p mahou_shoujo_ikusei_keikaku_aces mahou_shoujo_ikusei_keikaku_queens
 ?hisui_(tsukihime) -> tsukihime melty_blood tsukihime_(remake) fate_(series) type-moon fate/stay_night kagetsu_tooya melty_blood:_type_lumina carnival_phantasm fate/grand_order
 ?kohaku_(tsukihime) -> tsukihime melty_blood tsukihime_(remake) fate_(series) type-moon fate/stay_night melty_blood:_type_lumina kagetsu_tooya carnival_phantasm fate/grand_order
+?evil_neuro-sama -> vedal_ai indie_virtual_youtuber never_(neuro-sama) osu! microsoft_windows muppets makeship vrchat original twitch.tv
