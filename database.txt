@@ -2638,3 +2638,4 @@
 ?kaneda_rei -> precure meitantei_precure! kamen_rider toei_company gundam jojo_no_kimyou_na_bouken vento_aureo gundam_00 hirogaru_sky!_precure hugtto!_precure
 ?pochi-tan -> precure meitantei_precure! mahou_shoujo_madoka_magica pokemon toei_company mahou_shoujo_madoka_magica_(anime) pokemon_(anime) final_fantasy street_fighter kamen_rider
 ?camus_(dq11) -> dragon_quest dragon_quest_xi dragon_quest_treasures final_fantasy dragon_quest_viii final_fantasy_vii dragon_quest_iii dragon_quest_iv pokemon dragon_quest_v
+?dracky -> dragon_quest dragon_quest_v dragon_quest_i dragon_quest_ii dragon_quest_x dragon_quest_iii dragon_quest_iv dragon_quest_viii dragon_quest_xi dragon_quest_vi
