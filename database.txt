@@ -2986,3 +2986,4 @@
 ?kamizuru_cosmo -> idolmaster idolmaster_va-liv idolmaster_dearly_stars idolmaster_(classic) idolmaster_million_live! gakuen_idolmaster idolmaster_shiny_colors idolmaster_cinderella_girls idolmaster_million_live!_theater_days idolmaster_side-m
 ?letora_(idolmaster) -> idolmaster idolmaster_va-liv idolmaster_dearly_stars idolmaster_(classic) idolmaster_million_live! idolmaster_shiny_colors gakuen_idolmaster idolmaster_cinderella_girls idolmaster_side-m idolmaster_million_live!_theater_days
 ?tomori_manaka -> idolmaster idolmaster_va-liv idolmaster_dearly_stars idolmaster_(classic) idolmaster_million_live! idolmaster_shiny_colors gakuen_idolmaster idolmaster_side-m idolmaster_cinderella_girls idolmaster_million_live!_theater_days
+?yokaze_yui -> nijisanji mode_aim
