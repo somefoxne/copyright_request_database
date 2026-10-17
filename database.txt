@@ -1142,3 +1142,4 @@
 ?noya_(pajamas)_(stella_sora) -> stella_sora
 ?daring_tact_(umamusume) -> umamusume real_life original pakatube japan_racing_association cygames kobeya jojo_no_kimyou_na_bouken monster_hunter_(series)
 ?kusanagi_motoko -> ghost_in_the_shell ghost_in_the_shell:_stand_alone_complex the_ghost_in_the_shell_(2026) ghost_in_the_shell_(1995) ghost_in_the_shell:_sac_2045 ghost_in_the_shell_arise ghost_in_the_shell_(1989) os-tan neon_genesis_evangelion gundam
+?pixie_(monster_farm) -> monster_farm line:_monster_farm pokemon final_fantasy yu-gi-oh! mario_(series) pokemon_(anime) digimon darkstalkers pokemon_(classic_anime)
