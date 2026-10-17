@@ -1272,3 +1272,4 @@
 ?kirby -> kirby_(series) super_smash_bros. pokemon mario_(series) real_life kirby_and_the_forgotten_land the_legend_of_zelda fire_emblem kirby_64 metroid
 ?phan_phan -> kirby_(series) kirby_&_the_amazing_mirror mario_(series) kirby_64 kirby_and_the_forgotten_land kirby_star_allies kirby_super_star kirby:_planet_robobot
 ?rolling_turtle -> kirby_(series) nintendo kirby_64 kirby_and_the_forgotten_land kirby_star_allies kirby_air_ride kirby_super_star kirby:_planet_robobot
+?lara_(sayonara_lara) -> sayonara_lara kinema_citrus the_little_mermaid_(disney) the_lovers_(studio_heartbreak) gundam cho_kaguya-hime! chiikawa genshin_impact honkai_(series) gundam_suisei_no_majo
