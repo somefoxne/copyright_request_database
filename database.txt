@@ -1839,3 +1839,4 @@
 ?seina_(kyata_ti666) -> kyatapi_land the_adventures_of_sherlock_holmes the_ring original meitantei_conan japanese_urban_legends it_(stephen_king) teikou_penguin jojo_no_kimyou_na_bouken the_legend_of_zelda
 ?cai_castor -> fire_emblem fire_emblem_heroes fire_emblem:_three_houses minecraft mario_(series) fire_emblem:_genealogy_of_the_holy_war fire_emblem:_path_of_radiance fire_emblem:_the_binding_blade fire_emblem_warriors:_three_hopes
 ?theodora_sergio_savangren -> fire_emblem fire_emblem_heroes fire_emblem:_three_houses fire_emblem_warriors:_three_hopes
+?wasu_(majokko)_(2nd_form)_(madoka_magica) -> mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica:_walpurgis_no_kaiten mahou_shoujo_madoka_magica:_hangyaku_no_monogatari golden_kamuy
