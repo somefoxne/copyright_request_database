@@ -1787,3 +1787,4 @@
 ?ijichi_nijika -> bocchi_the_rock! pokemon bang_dream! k-on! blue_archive chainsaw_man real_life vocaloid sousou_no_frieren
 ?yamada_ryo -> bocchi_the_rock! pokemon bang_dream! k-on! real_life girls_band_cry blue_archive original gundam
 ?mortis_(bang_dream!) -> bang_dream! killkiss_(bang_dream!) arknights bang_dream!_our_notes bang_dream!_girls_band_party! girls_band_cry the_shining hachibousei_dance_(bang_dream!) ganso!_bang_dream_chan
+?mortis_(costume)_(bang_dream!) -> bang_dream! killkiss_(bang_dream!) arknights girls_band_cry bang_dream!_our_notes bang_dream!_girls_band_party! umineko_no_naku_koro_ni ganso!_bang_dream_chan kao_(bang_dream!)
