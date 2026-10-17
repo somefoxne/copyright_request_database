@@ -2768,3 +2768,4 @@
 ?karin_(princess_connect!) -> princess_connect! umamusume idolmaster idolmaster_cinderella_girls cygames granblue_fantasy original naruto_(series) kono_subarashii_sekai_ni_shukufuku_wo! shadowverse
 ?konoe_kanata -> love_live! love_live!_nijigasaki_high_school_idol_club love_live!_nijigasaki_high_school_idol_club_the_movie_-_finale butterfly_(love_live!) love_live!_school_idol_festival_all_stars daydream_mermaid love_live!_school_idol_project love_live!_sunshine!! cooking_with_love love_live!_school_idol_festival
 ?mars_(fire_emblem) -> fire_emblem
+?ol-chan_(udon) -> original comiket_107 comiket_106 starbucks comiket_103
