@@ -3057,3 +3057,4 @@
 ?suo_mirai -> nue_no_onmyouji
 ?yajima_gakuro -> nue_no_onmyouji one_piece jujutsu_kaisen nige_jouzu_no_wakagimi kagurabachi sakamoto_days shounen_jump ao_no_hako witch_watch akane-banashi
 ?protagonist_(devil_survivor_2) -> devil_survivor_(series) devil_survivor_2 devil_survivor_1 persona persona_3 megami_tensei shin_megami_tensei persona_4 devil_summoner_(series) persona_5
+?topaz_(sonic_x) -> sonic_(series) sonic_x
