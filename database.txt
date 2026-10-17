@@ -1442,3 +1442,4 @@
 ?sorakado_ao -> summer_pockets key_(company) angel_beats! comiket_95 little_busters! clannad rewrite comiket_106 comiket_103 comiket_96
 ?elizabeth_rose_bloodflame -> hololive hololive_english enigmatic_recollection hololive_indonesia hololive_dev_is holostars holostars_english umamusume shoujo_kakumei_utena hololive_official_card_game
 ?elizabeth_rose_bloodflame_(casual) -> hololive hololive_english enigmatic_recollection
+?rosarian_(elizabeth_rose_bloodflame) -> hololive hololive_english goddess_of_victory:_nikke hololive_indonesia world_cup 2026_fifa_world_cup enigmatic_recollection meccha_chameleon illit not_cute_anymore_(illit)
