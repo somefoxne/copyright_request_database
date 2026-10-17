@@ -4027,3 +4027,4 @@
 ?tamamo_no_mae_(fate) -> fate_(series) fate/extra fate/grand_order fate/extra_ccc fate/extella fate/stay_night fate/extella_link learning_with_manga!_fgo fate/apocrypha fate/kaleid_liner_prisma_illya
 ?keith_kisaragi -> rose_guns_days
 ?azdaja_(ff14) -> final_fantasy final_fantasy_xiv final_fantasy_iv
+?vrtra_(final_fantasy) -> final_fantasy final_fantasy_xiv original final_fantasy_xi final_fantasy_xvi
