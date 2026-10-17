@@ -1847,3 +1847,4 @@
 ?jeanne_amakawa -> rose_guns_days
 ?rose_haibara -> rose_guns_days higurashi_no_naku_koro_ni umineko_no_naku_koro_ni higanbana_no_saku_yoru_ni iwaihime trianthology_sanmenkyou_no_kuni_no_alice
 ?joanne_(trickcal) -> trickcal pokemon original jujutsu_kaisen cult_of_the_lamb the_creation_of_adam
+?cure_arcana_shadow -> precure meitantei_precure! blue_archive kamen_rider umamusume meitantei_conan kimi_to_idol_precure toei_company mahou_shoujo_madoka_magica gundam
