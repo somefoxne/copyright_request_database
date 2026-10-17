@@ -3412,3 +3412,4 @@
 ?shimanto_(azur_lane) -> azur_lane world_of_warships azur_lane:_slow_ahead pepsi comiket_107
 ?cliernon_(dreamwild) -> dreamwild
 ?agnea_bristarni -> octopath_traveler octopath_traveler_ii octopath_traveler_i octopath_traveler:_champions_of_the_continent nier_(series) nier:automata octopath_traveler_0 fire_emblem final_fantasy fire_emblem:_three_houses
+?hikari_ku -> octopath_traveler octopath_traveler_ii octopath_traveler_i octopath_traveler:_champions_of_the_continent nier_(series) nier:automata snow_white_and_the_seven_dwarfs_(disney) octopath_traveler_0 famitsu
