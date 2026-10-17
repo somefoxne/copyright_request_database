@@ -4169,3 +4169,4 @@
 ?canari_(pokemon) -> pokemon pokemon_legends:_z-a pokemon_scarlet_and_violet pokemon_sword_and_shield pokemon_black_2_and_white_2 pokemon_black_and_white pokemon_diamond/pearl/platinum pokemon_(anime) pokemon_x_and_y original
 ?jia_huan_(project_moon) -> project_moon limbus_company library_of_ruina lobotomy_corporation kekkai_sensen original pokemon fate_(series) fate/grand_order arknights
 ?eous_(zenless_zone_zero) -> zenless_zone_zero mihoyo genshin_impact honkai_(series) honkai:_star_rail blue_archive honkai_impact_3rd gigo tears_of_themis arknights
+?pom-pom_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail mihoyo genshin_impact honkai_impact_3rd zenless_zone_zero fate_(series) tears_of_themis fate/stay_night kfc
