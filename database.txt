@@ -3391,3 +3391,4 @@
 ?pshuke_prains -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_black mahou_shoujo_ikusei_keikaku_unmarked mahou_shoujo_ikusei_keikaku_restart mahou_shoujo_ikusei_keikaku_breakdown
 ?hatsuzuki_(kancolle) -> kantai_collection pokemon fate_(series) line_(naver) fate/grand_order umamusume gundam kemono_friends original granblue_fantasy
 ?toyosatomimi_no_miko -> touhou ten_desires touhou_(pc-98) hopeless_masquerade touhou_lostword urban_legend_in_limbo undefined_fantastic_object reitaisai embodiment_of_scarlet_devil imperishable_night
+?ooyodo_(kancolle) -> kantai_collection lawson line_(naver) kantai_collection_(anime) aoki_hagane_no_arpeggio gundam c2_kikan girls_und_panzer death_note lupin_iii
