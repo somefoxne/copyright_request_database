@@ -3918,3 +3918,4 @@
 ?rei_(milgram) -> milgram umineko_no_naku_koro_ni
 ?sakurai_haruka_(milgram) -> milgram alien_stage north_american_mythology precure futari_wa_precure backrooms_(creepypasta) android_girl_(vocaloid) love_kitty_dear_bianca_(biz)
 ?mojo_jojo -> powerpuff_girls powerpuff_girls_z samurai_jack courage_the_cowardly_dog the_grim_adventures_of_billy_&_mandy cartoon_network cow_&_chicken dragon_ball
+?namine_ritsu_(vox_factory) -> vox_factory utau
