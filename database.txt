@@ -2232,3 +2232,4 @@
 ?murata_himeko -> honkai_(series) honkai_impact_3rd honkai_gakuen honkai:_star_rail mihoyo genshin_impact xenoblade_chronicles_(series) xenoblade_chronicles_2 neon_genesis_evangelion
 ?raiden_mei_(herrscher_of_thunder) -> honkai_(series) honkai_impact_3rd genshin_impact mihoyo honkai:_star_rail zenless_zone_zero honkai_gakuen call_of_duty call_of_duty:_mobile original
 ?ciel_(tsukihime) -> tsukihime tsukihime_(remake) fate_(series) fate/grand_order melty_blood type-moon fate/stay_night melty_blood:_type_lumina kagetsu_tooya fate/hollow_ataraxia
+?adeleine -> kirby_(series) kirby_64 kirby_star_allies kirby_super_star kirby:_planet_robobot kirby:_squeak_squad
