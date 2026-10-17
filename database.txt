@@ -1954,3 +1954,4 @@
 ?nakano_ichika -> go-toubun_no_hanayome megami_magazine comiket_98 pokemon comiket_96 kimetsu_no_yaiba starbucks hataraku_saibou comiket_105 amagami-san_chi_no_enmusubi
 ?fujinokawa_haru -> guilty_library
 ?miyako_asahi -> guilty_library
+?devilboo_(zenless_zone_zero) -> zenless_zone_zero original honkai_(series) honkai:_star_rail nijisanji dragon_ball sousou_no_frieren dragon_ball_z mihoyo
