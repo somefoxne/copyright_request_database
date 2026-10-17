@@ -1268,3 +1268,4 @@
 ?pichu -> pokemon super_smash_bros. fire_emblem mario_(series) kirby_(series) the_legend_of_zelda pokemon_heartgold_and_soulsilver metroid mother_(series) pokemon_firered_and_leafgreen
 ?pikachu -> pokemon pokemon_(anime) pokemon_red/green/blue/yellow pokemon_firered_and_leafgreen pokemon_(classic_anime) pokemon_journeys super_smash_bros. kirby_(series) mario_(series) pokemon_heartgold_and_soulsilver
 ?raichu -> pokemon pokemon_heartgold_and_soulsilver pokemon_red/green/blue/yellow pokemon_(anime) pokemon_diamond/pearl/platinum pokemon_firered_and_leafgreen original pokemon_(classic_anime) pokemon_legends:_z-a pokemon_sun_and_moon
+?kochiya_sanae -> touhou mountain_of_faith touhou_(pc-98) touhou_tag_dream touhou_lostword cookie_(touhou) reitaisai undefined_fantastic_object mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime)
