@@ -3623,3 +3623,4 @@
 ?natsume_kyousuke -> little_busters! key_(company) rewrite angel_beats! kanon air_(visual_novel) clannad summer_pockets charlotte_(anime) kud_wafter
 ?shii_nana -> nusisring_tactical original
 ?dr._nadja -> black_survival eternal_return:_black_survival
+?li_dailin -> black_survival eternal_return:_black_survival original touhou guilty_gear guilty_gear_strive
