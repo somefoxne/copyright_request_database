@@ -2285,3 +2285,4 @@
 ?robert_de_niro -> taxi_driver original real_life tintin raging_bull mario_(series) k-on! lyrical_nanoha bleach dc_comics
 ?cossack_(polish_anon) -> original
 ?kraken_(japanon) -> original chainsaw_man vocaloid real_life tsukihime lucky_star melty_blood
+?marichka -> original real_life a_song_of_ice_and_fire stalker_(game) game_of_thrones death_(band) metal_gear_(series) metal_gear_solid_v:_the_phantom_pain the_office metal_gear_solid_v:_ground_zeroes
