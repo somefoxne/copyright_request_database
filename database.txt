@@ -3622,3 +3622,4 @@
 ?naoe_riki -> little_busters! key_(company) angel_beats! kanon clannad rewrite air_(visual_novel) kud_wafter summer_pockets charlotte_(anime)
 ?natsume_kyousuke -> little_busters! key_(company) rewrite angel_beats! kanon air_(visual_novel) clannad summer_pockets charlotte_(anime) kud_wafter
 ?shii_nana -> nusisring_tactical original
+?dr._nadja -> black_survival eternal_return:_black_survival
