@@ -1280,3 +1280,4 @@
 ?whitney_(male)_(degrees_of_lewdity) -> degrees_of_lewdity original umamusume pokemon project_moon limbus_company mario_(series) bishoujo_senshi_sailor_moon sanrio library_of_ruina
 ?emboar -> pokemon pokemon_black_and_white pokemon_black_2_and_white_2 pokemon_legends:_z-a pokemon_diamond/pearl/platinum pokemon_x_and_y pokemon_ruby/sapphire/emerald pokemon_red/green/blue/yellow pokemon_sun_and_moon pokemon_masters_ex
 ?hilda_(pokemon) -> pokemon pokemon_black_and_white pokemon_black_2_and_white_2 pokemon_diamond/pearl/platinum pokemon_heartgold_and_soulsilver pokemon_firered_and_leafgreen pokemon_x_and_y pokemon_ruby/sapphire/emerald pokemon_masters_ex pokemon_sun_and_moon
+?nekomata_okayu_(1st_costume) -> hololive hololive_english hololive_indonesia hololive_dev_is nijisanji pokemon indie_virtual_youtuber splatoon_(series) minecraft hololive_alternative
