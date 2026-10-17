@@ -4264,3 +4264,4 @@
 ?natalia_knight -> dc_comics batman_(series)
 ?nocturna_(dc) -> dc_comics batman_(series)
 ?kate_evans -> ace_combat ace_combat_8
+?tama_(halloween)_(kancolle) -> kantai_collection little_red_riding_hood_(fairy_tale)
