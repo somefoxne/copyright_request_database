@@ -2084,3 +2084,4 @@
 ?kumano_(kancolle) -> kantai_collection hanshin_tigers yuru-chara line_(naver) yu-gi-oh! aoki_hagane_no_arpeggio lawson geinoujin_kakuzuke_check original gundam
 ?maya_(kancolle) -> kantai_collection transformers aoki_hagane_no_arpeggio transformers:_generation_1 neon_genesis_evangelion lawson idolmaster idolmaster_cinderella_girls crayon_shin-chan moomin
 ?maya_kai_ni_(kancolle) -> kantai_collection idolmaster idolmaster_cinderella_girls neon_genesis_evangelion pokemon girls_und_panzer granblue_fantasy lupin_iii mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime)
+?suzuya_kai_ni_(kancolle) -> kantai_collection fate_(series) fate/extra fate/extra_ccc fate/extra_ccc_fox_tail azur_lane idolmaster idolmaster_cinderella_girls idolmaster_shiny_colors original
