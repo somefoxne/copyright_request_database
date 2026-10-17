@@ -1449,3 +1449,4 @@
 ?kuramoto_china -> idolmaster gakuen_idolmaster michinaru_hirogaru_(idolmaster) kimi_to_semi_blue_(idolmaster) wonder_scale_(idolmaster) hajime_(idolmaster) hibi_hakkenteki_step!_(idolmaster) idolmaster_cinderella_girls koukei_(idolmaster) pokemon
 ?the_tower_(pop'n_music) -> bemani
 ?yummy_(pop'n_music) -> bemani
+?senri_ayumu -> nijisanji pokemon nijisanji_en nijisanji_kr nijisanji_id
