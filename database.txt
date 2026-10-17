@@ -2158,3 +2158,4 @@
 ?chitanda_eru -> hyouka kyoto_animation k-on! tamako_market hibike!_euphonium lycoris_recoil chuunibyou_demo_koi_ga_shitai! suzumiya_haruhi_no_yuuutsu idolmaster idolmaster_cinderella_girls
 ?terebi-chan -> niconico vocaloid touhou azur_lane utau original voiceroid idolmaster a.i._voice ado_(utaite)
 ?bow_kid -> a_hat_in_time spongebob_squarepants_(series) oneshot_(game) pokemon splatoon_(series) mario_(series) utdr_(toby_fox) sonic_(series) kirby_(series) deltarune
+?baku_(sakihane_huya) -> stellive snow_white_(fairy_tale)
