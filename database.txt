@@ -2033,3 +2033,4 @@
 ?sen_no_rikyu_(fate) -> fate_(series) fate/grand_order learning_with_manga!_fgo fate/grand_order_arcade pokemon fate/zero fate/kaleid_liner_prisma_illya fate/samurai_remnant lord_el-melloi_ii_case_files comiket_105
 ?sen_no_rikyu_(second_ascension)_(fate) -> fate_(series) fate/grand_order learning_with_manga!_fgo pokemon shingeki_no_kyojin comiket_102 fate/grand_order_arcade tokyo_osamurai_land
 ?florence_nightingale_(fate) -> fate_(series) fate/grand_order fate/apocrypha fate/extra fate/extra_ccc original fate/stay_night umamusume kantai_collection blue_archive
+?florence_nightingale_(trick_or_treatment)_(fate) -> fate_(series) fate/grand_order original fate/extra umamusume fate/extra_ccc kantai_collection fate/apocrypha blue_archive fate/stay_night
