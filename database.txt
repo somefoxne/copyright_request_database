@@ -2924,3 +2924,4 @@
 ?bibi_(tokoyami_towa) -> hololive hololive_english hololive_indonesia apex_legends nijisanji vspo! minecraft among_us crazy_raccoon hololive_alternative
 ?coralie_6626_planck -> honkai_(series) honkai_impact_3rd honkai:_star_rail genshin_impact mihoyo honkai_gakuen apple_inc. hooters fate_(series) fate/stay_night
 ?kratos_(god_of_war) -> god_of_war_(series) god_of_war_ragnarok god_of_war_(2018) touhou god_of_war_ii final_fantasy final_fantasy_vii marvel metal_gear_(series) ratchet_&_clank
+?gokusai_kaibi -> toaru_majutsu_no_index toaru_majutsu_no_index:_old_testament toaru_kagaku_no_railgun toaru_kagaku_no_dark_matter toaru_majutsu_no_index:_new_testament toaru_kagaku_no_railgun_t toaru_majutsu_no_index:_imaginary_fest saint_onii-san toaru_majutsu_no_index:_endymion_no_kiseki durarara!!
