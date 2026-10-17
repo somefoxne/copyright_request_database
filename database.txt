@@ -3233,3 +3233,4 @@
 ?igusa_subaru -> assault_lily pokemon real_life 22/7 don_quijote_(store)
 ?unchained_ogre_shara -> yu-gi-oh!
 ?unchained_ogre_shma -> yu-gi-oh!
+?tsunomaki_watame_(1st_costume) -> hololive hololive_english hololive_indonesia hololive_dev_is indie_virtual_youtuber minecraft nijisanji hololive_alternative mario_(series) hololive_official_card_game
