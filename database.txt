@@ -1177,3 +1177,4 @@
 ?yuuka_(pajamas)_(blue_archive) -> blue_archive comiket_106 comiket_105 blue_archive_the_animation pokemon fire_emblem fire_emblem:_mystery_of_the_emblem manatsu_no_yo_no_inmu monitoring_(vocaloid) one_piece
 ?march_7th_(march_bunny)_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail genshin_impact zenless_zone_zero honkai_impact_3rd mihoyo honkai:_nexus_anima tears_of_themis
 ?stephan_(chao) -> chao_(movie)
+?cammy_white -> street_fighter street_fighter_6 street_fighter_zero_(series) street_fighter_v street_fighter_ii_(series) street_fighter_iv_(series) capcom darkstalkers the_king_of_fighters fatal_fury
