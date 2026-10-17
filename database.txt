@@ -4030,3 +4030,4 @@
 ?vrtra_(final_fantasy) -> final_fantasy final_fantasy_xiv original final_fantasy_xi final_fantasy_xvi
 ?cell_(dragon_ball) -> dragon_ball dragon_ball_z dragon_ball_super dragon_ball_(classic) dragon_ball_fighterz touhou dr._slump dragon_ball_super_super_hero original sonic_(series)
 ?perfect_cell -> dragon_ball dragon_ball_z dragon_ball_super dragon_ball_(classic) dragon_ball_fighterz dragon_ball_super_super_hero touhou dr._slump sonic_(series) dragon_ball_gt
+?mist_(fire_emblem) -> fire_emblem fire_emblem:_path_of_radiance fire_emblem:_radiant_dawn fire_emblem_heroes fire_emblem_cipher fire_emblem_awakening fire_emblem:_the_sacred_stones fire_emblem_fates fire_emblem:_mystery_of_the_emblem fire_emblem:_the_blazing_blade
