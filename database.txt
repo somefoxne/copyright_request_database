@@ -3052,3 +3052,4 @@
 ?gran_alegria_(smile_my_way!)_(umamusume) -> umamusume pakatube tokyo_sports green_channel dragon_ball dragon_ball_z love_live! chainsaw_man jujutsu_kaisen real_life
 ?cobra_(space_adventure_cobra) -> space_adventure_cobra kantai_collection touhou gundam dragon_ball hokuto_no_ken dragon_ball_z jojo_no_kimyou_na_bouken idolmaster kemono_friends
 ?eta_(kagejitsu) -> kage_no_jitsuryokusha_ni_naritakute! kage_no_jitsuryokusha_ni_naritakute!_master_of_garden dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru_darou_ka megami_magazine minecraft youkai_watch overlord_(maruyama) newtype comiket_103 sin:_nanatsu_no_taizai
+?air_colthearts -> summon_night summon_night:_swordcraft_story_2 summon_night:_swordcraft_story summon_night_craft_sword_monogatari_hajimari_no_ishi summon_night_3
