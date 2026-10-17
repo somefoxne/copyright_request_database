@@ -3995,3 +3995,4 @@
 ?inoue_orihime_(sennen_kessen-hen) -> bleach bleach:_sennen_kessen-hen one_piece naruto_(series) fate_(series) fate/grand_order taimanin_(series) dragon_ball jujutsu_kaisen dragon_quest
 ?kiryuu_miya -> heaven_burns_red key_(company) yostar love_live! persona love_live!_nijigasaki_high_school_idol_club persona_5 kamen_rider kanon kamen_rider_ryuki_(series)
 ?kiryuu_miya_(seductive_sea_breeze) -> heaven_burns_red
+?ezlo -> the_legend_of_zelda the_legend_of_zelda:_the_minish_cap the_legend_of_zelda:_the_wind_waker the_legend_of_zelda:_twilight_princess the_legend_of_zelda:_ocarina_of_time the_legend_of_zelda:_skyward_sword the_legend_of_zelda:_spirit_tracks the_legend_of_zelda:_a_link_to_the_past the_legend_of_zelda_(nes)
