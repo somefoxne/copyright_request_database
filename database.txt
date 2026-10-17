@@ -3216,3 +3216,4 @@
 ?hawlucha -> pokemon pokemon_(anime) pokemon_the_series:_xy pokemon_x_and_y pokemon_legends:_z-a pokemon_sword_and_shield pokemon_(classic_anime) pokemon_journeys pokemon_scarlet_and_violet pokemon_the_series:_sun_&_moon
 ?helioptile -> pokemon pokemon_x_and_y pokemon_(anime) vocaloid pokemon_legends:_z-a project_voltage pokemon_gold/silver/crystal pokemon_the_series:_xy denki_yohou_(vocaloid) pokemon_sword_and_shield
 ?inkay -> pokemon pokemon_(anime) pokemon_x_and_y pokemon_the_series:_xy pokemon_sword_and_shield pokemon_(classic_anime) pokemon_legends:_z-a pokemon_the_series:_sun_&_moon splatoon_(series) pokemon_the_series:_ruby_and_sapphire
+?klefki -> pokemon pokemon_x_and_y pokemon_sun_and_moon pokemon_legends:_z-a pokemon_masters_ex pokemon_scarlet_and_violet pokemon_(anime) original touhou pokemon_sword_and_shield
