@@ -1423,3 +1423,4 @@
 ?elira_pendora -> nijisanji nijisanji_en nijisanji_kr hololive nijisanji_id xenoblade_chronicles_(series) hololive_english pokemon indie_virtual_youtuber hololive_indonesia
 ?famelira_(elira_pendora) -> nijisanji nijisanji_en pokemon polygonal_mind idolmaster idolmaster_cinderella_girls apex_legends peppa_pig_(series) turing_love blue_archive
 ?pikl_(elira_pendora) -> nijisanji nijisanji_en nijisanji_kr nijisanji_id among_us apex_legends virtuareal hololive genshin_impact hololive_english
+?orchel_(fire_emblem) -> fire_emblem
