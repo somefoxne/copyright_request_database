@@ -984,3 +984,4 @@
 ?midare_toushirou -> touken_ranbu touken_ranbu:_hanamaru idolmaster kantai_collection pokemon fate_(series) idolmaster_cinderella_girls fate/apocrypha cardcaptor_sakura twitter
 ?blanc_(nikke) -> goddess_of_victory:_nikke blue_archive original zenless_zone_zero zozotown genshin_impact wuthering_waves marvel
 ?narita_brian_(ravenous_wolf)_(umamusume) -> umamusume original pokemon bleach
+?narita_brian_(umamusume) -> umamusume umamusume:_cinderella_gray umamusume:_star_blossom original pokemon pikmin_(series) cygames pakatube real_life pikmin_bloom
