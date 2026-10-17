@@ -1643,3 +1643,4 @@
 ?guan_chao_(teenager)_(false_memory) -> false_memory omori monster_hunter_(series) shiguang_dailiren chiikawa the_truman_show false_memory_(2020)
 ?he_mingshuo -> false_memory omori monster_hunter_(series) cardcaptor_sakura my_little_pony shiguang_dailiren chiikawa magnet_(vocaloid) tsubasa_chronicle the_truman_show
 ?tippy-toe -> marvel marvel_rivals spider-man_(series) x-men fantastic_four guardians_of_the_galaxy marvel_rising blazblue avengers_(series) thor_(marvel)_(series)
+?iori_junpei -> persona persona_3 persona_3_portable persona_3_reload persona_4 persona_4:_the_ultimate_in_mayonaka_arena persona_5 persona_4:_the_ultimax_ultra_suplex_hold persona_q_(series) persona_2
