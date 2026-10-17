@@ -2119,3 +2119,4 @@
 ?bakugou_katsuki -> boku_no_hero_academia chainsaw_man pokemon shounen_jump boku_no_hero_academia:_more kimetsu_no_yaiba mario_(series) one_piece jujutsu_kaisen original
 ?kumano_kai_ni_(kancolle) -> kantai_collection geinoujin_kakuzuke_check line_(naver) original umamusume sesame_street blue_archive fate_(series) fate/grand_order azur_lane
 ?yuudachi_(halloween)_(kancolle) -> kantai_collection little_red_riding_hood_(fairy_tale) digimon azur_lane gundam machikado_mazoku kancolle_arcade
+?yuudachi_(kancolle) -> kantai_collection azur_lane kantai_collection_(anime) pokemon gundam fate_(series) dragon_ball fate/grand_order little_red_riding_hood_(fairy_tale) dragon_ball_z
