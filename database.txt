@@ -3407,3 +3407,4 @@
 ?shirayuki_ren -> shino_to_ren comiket_105 little_red_riding_hood_(fairy_tale) snow_white_(fairy_tale) bang_dream! mahou_shoujo_no_majo_saiban comiket_102 amazon_(company)
 ?drake_(reverse:1999) -> reverse:1999
 ?asmoday_(genshin_impact) -> genshin_impact honkai_(series) mihoyo honkai_impact_3rd honkai_gakuen honkai:_star_rail zenless_zone_zero among_us chiikawa jujutsu_kaisen
+?scaramouche_(shouki_no_kami)_(genshin_impact) -> genshin_impact gundam gundam_unicorn mihoyo zenless_zone_zero neon_genesis_evangelion gundam_build_fighters original honkai_(series) honkai:_star_rail
