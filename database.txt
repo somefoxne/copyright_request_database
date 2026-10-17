@@ -2733,3 +2733,4 @@
 ?estelle_(bestelle)_(black_survival) -> black_survival eternal_return:_black_survival original
 ?takamiya_keika -> original
 ?tina_(kmnz) -> kmnz splatoon_(series) splatoon_3 lavie_(vocaloid) nanashi_inc. starbucks plants_vs._zombies igaku_(utau) the_beatles abbey_road
+?sirius_(azur_lane) -> azur_lane original fate_(series) fate/grand_order kantai_collection arknights blue_archive hololive genshin_impact
