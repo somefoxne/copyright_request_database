@@ -3422,3 +3422,4 @@
 ?kazami_yuuka -> touhou touhou_(pc-98) touhou_tag_dream lotus_land_story phantasmagoria_of_flower_view seihou cookie_(touhou) original kioh_gyoku pokemon
 ?mityl_(girls'_frontline_2) -> monitoring_(vocaloid) leon_the_professional titanic_(movie) rambo the_shawshank_redemption
 ?p90_(girls'_frontline) -> arena_breakout counter-strike_(series) counter-strike_2 arknights rainbow_six_siege ace_attorney azur_lane sword_art_online
+?alkaid_mcgrath -> lovebrush_chronicles original the_nightingale_and_the_rose touhou pokemon persona persona_3 ensemble_stars! wizarding_world harry_potter_(series)
