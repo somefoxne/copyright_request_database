@@ -1778,3 +1778,4 @@
 ?mitarashi_anko -> naruto_(series) naruto_(classic) naruto_shippuuden boruto_(series) boruto:_naruto_next_generations hentai_key naruto:_the_last naruto_shippuuden:_ultimate_ninja_blazing monsterhentai mahou_shoujo_madoka_magica
 ?giryn_(gigi_murin) -> hololive hololive_english shattered_legends
 ?ban_airi -> devil_survivor_(series) devil_survivor_2 persona persona_5 cardcaptor_sakura megami_magazine haiyore!_nyaruko-san devil_survivor_1
+?dizzy_(guilty_gear) -> guilty_gear guilty_gear_xrd guilty_gear_strive guilty_gear_xx guilty_gear_x guilty_gear_2 blazblue arc_system_works
