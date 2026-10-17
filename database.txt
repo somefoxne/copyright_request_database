@@ -2218,3 +2218,4 @@
 ?evernight_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail honkai_impact_3rd mihoyo zenless_zone_zero genshin_impact fate_(series) comiket_106 fate/grand_order
 ?cersea_soulstorm -> chromashift fate_(series) fate/grand_order jojo_no_kimyou_na_bouken goddess_of_victory:_nikke diamond_wa_kudakenai hollow_knight hollow_knight:_silksong
 ?mecha_knight -> kirby_(series) kirby:_planet_robobot super_smash_bros. kirby_super_star kirby:_canvas_curse pokemon fire_emblem the_legend_of_zelda fire_emblem_heroes splatoon_(series)
+?susie_(kirby) -> kirby_(series) kirby:_planet_robobot kirby_star_allies kirby_air_ride kirby_air_riders kirby_and_the_forgotten_land kirby:_triple_deluxe kirby_64 kirby:_squeak_squad
