@@ -1689,3 +1689,4 @@
 ?carlotta_(wuthering_waves) -> wuthering_waves pizza-la comiket_105 fate_(series) lawson fate/grand_order genshin_impact fate/stay_night cyberpunk_(series) cyberpunk:_edgerunners
 ?male_rover_(wuthering_waves) -> wuthering_waves cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 genshin_impact honkai_(series) honkai:_star_rail mihoyo zenless_zone_zero blue_archive
 ?namipon_(wuthering_waves) -> wuthering_waves samsung redmagic gs25 silent_hill_(series) silent_hill_f lawson irasutoya persona persona_5
+?rover_(wuthering_waves) -> wuthering_waves cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 genshin_impact honkai_(series) honkai:_star_rail mihoyo zenless_zone_zero comiket_105
