@@ -2339,3 +2339,4 @@
 ?monster_hunter_(character) -> monster_hunter_(series) monster_hunter:_world monster_hunter_portable_3rd monster_hunter_rise monster_hunter_wilds monster_hunter_frontier monster_hunter_3 original monster_hunter_4 monster_hunter_x
 ?hakos_baelz -> hololive hololive_english hololive_indonesia hololive_dev_is holostars minecraft snake_eyes_(hakos_baelz) holostars_english pokemon umamusume
 ?inoue_marina -> honkai_(series) honkai_impact_3rd honkai:_star_rail mihoyo zenless_zone_zero tengen_toppa_gurren_lagann precure smile_precure! minami-ke genshin_impact
+?yanning -> honkai_(series) honkai_impact_3rd honkai:_star_rail mihoyo zenless_zone_zero genshin_impact wuthering_waves reverend_insanity fancy_frontier_46 fate_(series)
