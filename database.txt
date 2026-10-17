@@ -4165,3 +4165,4 @@
 ?sai_(naruto) -> naruto_(series) naruto_shippuuden naruto_(classic) boruto_(series) boruto:_naruto_next_generations naruto:_the_last boruto:_naruto_the_movie naruto_shippuuden:_ultimate_ninja_blazing pokemon final_fantasy
 ?yamanaka_ino -> naruto_(series) naruto_shippuuden naruto_(classic) boruto_(series) boruto:_naruto_next_generations naruto:_the_last original pokemon hentai_key mario_(series)
 ?jia_xichun_(project_moon) -> project_moon limbus_company library_of_ruina lobotomy_corporation pokemon arknights blue_archive the_distortion_detective mili_(band) tian_tian_(mili)
+?wei_(project_moon) -> project_moon limbus_company library_of_ruina princess_maker_(series) blue_archive lobotomy_corporation princess_maker_2
