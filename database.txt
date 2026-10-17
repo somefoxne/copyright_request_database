@@ -4189,3 +4189,4 @@
 ?eupha_(metaphor:_refantazio) -> metaphor:_refantazio atlus shin_megami_tensei persona persona_3 sekaiju_no_meikyuu the_legend_of_zelda persona_5 persona_4 sekaiju_no_meikyuu_5
 ?heismay_(metaphor:_refantazio) -> metaphor:_refantazio pokemon persona persona_5 pokemon_scarlet_and_violet xenoblade_chronicles_(series) pokemon_sun_and_moon pokemon_black_and_white pokemon_diamond/pearl/platinum pokemon_x_and_y
 ?hulkenberg_(metaphor:_refantazio) -> metaphor:_refantazio atlus persona persona_3 persona_5 persona_4 final_fantasy final_fantasy_vii dungeon_meshi pokemon
+?junah_(metaphor:_refantazio) -> metaphor:_refantazio persona persona_3 atlus persona_4 pokemon pokemon_scarlet_and_violet pokemon_sun_and_moon pokemon_black_and_white persona_5
