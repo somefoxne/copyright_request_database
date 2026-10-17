@@ -1013,3 +1013,4 @@
 ?mejiro_mcqueen_(end_of_the_skies)_(umamusume) -> umamusume original pokemon arknights granblue_fantasy dragon_ball jujutsu_kaisen dragon_ball_z monster_hunter_(series) oshi_no_ko
 ?mejiro_mcqueen_(umamusume) -> umamusume original real_life hanshin_tigers jojo_no_kimyou_na_bouken pokemon gundam umamusume:_cinderella_gray umayuru gintama
 ?silence_suzuka_(innocent_silence)_(umamusume) -> umamusume real_life kantai_collection umamusume:_party_dash cygames original blue_archive akari_ga_yatte_kitazo_(vocaloid) umamusume:_cinderella_gray fate_(series)
+?silence_suzuka_(umamusume) -> umamusume real_life original umamusume:_cinderella_gray kantai_collection love_live! love_live!_sunshine!! cygames blue_archive formula_one
