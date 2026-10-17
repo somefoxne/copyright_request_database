@@ -1731,3 +1731,4 @@
 ?clair_vaux_bernardus -> umineko_no_naku_koro_ni requiem_of_the_golden_witch bang_dream! higurashi_no_naku_koro_ni lord_of_the_mysteries darker_than_black 4chan ougon_musou_kyoku
 ?rogue_(x-men) -> marvel x-men marvel_rivals x-men:_the_animated_series x-men_evolution marvel_vs._capcom street_fighter spider-man_(series) the_incredible_hulk_(series) marvel_vs._capcom_2
 ?garma_zabi -> gundam mobile_suit_gundam mobile_suit_gundam_the_origin gundam_gihren_no_yabou zeta_gundam gundam_gquuuuuux gundam-san inu_gundam
+?haro -> gundam gundam_gquuuuuux gundam_00 gundam_seed mobile_suit_gundam gundam_suisei_no_majo zeta_gundam gundam_seed_destiny gundam_unicorn gundam_zz
