@@ -2643,3 +2643,4 @@
 ?hero_(dq11) -> dragon_quest dragon_quest_xi super_smash_bros. dragon_quest_iii dragon_quest_viii dragon_quest_iv banjo-kazooie persona persona_5 fire_emblem
 ?slime_(dragon_quest) -> dragon_quest dragon_quest_iii dragon_quest_iv dragon_quest_v dragon_quest_xi dragon_quest_ii dragon_quest_x dragon_quest_viii final_fantasy dragon_quest_builders_2
 ?tockle_(dq11) -> dragon_quest dragon_quest_xi dragon_quest_iii dragon_quest_ii dragon_quest_viii dragon_quest_i dragon_quest_treasures dragon_quest_iv dragon_quest_v pokemon
+?alisa_ilinichina_amiella -> god_eater god_eater_burst god_eater_2:_rage_burst project_x_zone fire_emblem god_eater_3 fate_(series) god_eater_resurrection idolmaster tales_of_(series)
