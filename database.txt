@@ -2342,3 +2342,4 @@
 ?yanning -> honkai_(series) honkai_impact_3rd honkai:_star_rail mihoyo zenless_zone_zero genshin_impact wuthering_waves reverend_insanity fancy_frontier_46 fate_(series)
 ?shirakiin_ririchiyo -> inu_x_boku_ss working!! cardcaptor_sakura vocaloid love_live! love_live!_school_idol_project k-on! suzumiya_haruhi_no_yuuutsu to_heart_(series) ore_no_imouto_ga_konna_ni_kawaii_wake_ga_nai
 ?sayume_(abpart) -> original
+?luo_xiaohei_(cat) -> the_legend_of_luo_xiaohei arknights lanxi_zhen nikki_(series) monster_hunter_(series) cardcaptor_sakura bishoujo_senshi_sailor_moon ensemble_stars! majo_no_takkyuubin pokemon
