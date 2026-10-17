@@ -2059,3 +2059,4 @@
 ?doro_(nikke) -> goddess_of_victory:_nikke blue_archive stellar_blade original hololive shift_up hololive_english zenless_zone_zero trickcal fate_(series)
 ?exia_(hacker_rabbit)_(nikke) -> goddess_of_victory:_nikke
 ?exia_(nikke) -> goddess_of_victory:_nikke doom_(series) monitoring_(vocaloid) doom_(2016) blue_archive neon_genesis_evangelion minecraft among_us armored_core spongebob_squarepants_(series)
+?folkwang_(moist_rabbit)_(nikke) -> goddess_of_victory:_nikke
