@@ -3518,3 +3518,4 @@
 ?buckbeak -> wizarding_world harry_potter_(series) harry_potter_and_the_prisoner_of_azkaban
 ?deutschland_(azur_lane) -> azur_lane azur_lane:_slow_ahead pokemon hololive yu-gi-oh! mazinger_(series) mazinger_z fate_(series) hololive_english gundam
 ?elbe_(azur_lane) -> azur_lane azur_lane:_slow_ahead blue_archive wizarding_world harry_potter_(series) comiket_104 comiket_108 parodius
+?pamiat_merkuria_(azur_lane) -> azur_lane azur_lane:_slow_ahead jojo_no_kimyou_na_bouken pokemon shingeki_no_kyojin call_of_duty comiket_107 choo_choo_train call_of_duty:_black_ops
