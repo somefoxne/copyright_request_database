@@ -3751,3 +3751,4 @@
 ?shauntal_(pokemon) -> pokemon pokemon_black_and_white pokemon_masters_ex pokemon_diamond/pearl/platinum pokemon_black_2_and_white_2 pokemon_heartgold_and_soulsilver pokemon_sun_and_moon pokemon_x_and_y pokemon_ruby/sapphire/emerald pokemon_omega_ruby_and_alpha_sapphire
 ?amajiki_tamaki -> boku_no_hero_academia disney original dragon_ball marvel kimetsu_no_yaiba dc_comics dragon_ball_z sanrio animal_crossing
 ?togata_mirio -> boku_no_hero_academia pokemon kimetsu_no_yaiba pokemon_sword_and_shield chainsaw_man marvel jujutsu_kaisen animal_crossing one_piece dragon_ball
+?deedlit -> record_of_lodoss_war sousou_no_frieren dungeon_meshi edomae_elf the_legend_of_zelda rozen_maiden original fate_(series) final_fantasy gundam
