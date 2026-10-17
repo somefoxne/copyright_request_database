@@ -1468,3 +1468,4 @@
 ?hoshino_(swimsuit)_(blue_archive) -> blue_archive zenless_zone_zero grand_theft_auto genshin_impact wuthering_waves original onii-chan_wa_oshimai! comiket_106 wixoss blue_archive_the_animation
 ?arataki_itto -> genshin_impact mihoyo honkai_(series) zenless_zone_zero honkai:_star_rail honkai_impact_3rd jojo_no_kimyou_na_bouken kimetsu_no_yaiba original one_piece
 ?gorou_(genshin_impact) -> genshin_impact mihoyo kantai_collection sushiro honkai_(series) original honkai:_star_rail zenless_zone_zero pokemon olympics
+?shiina_taki -> bang_dream! bang_dream!_girls_band_party! arknights lawson girls_band_cry love_live! love_live!_nijigasaki_high_school_idol_club bang_dream!_our_notes original
