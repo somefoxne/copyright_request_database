@@ -2296,3 +2296,4 @@
 ?batman -> dc_comics batman_(series) superman_(series) absolute_dc absolute_batman wonder_woman_(series) marvel the_batman_(2022) red_hood_and_the_outlaws justice_league
 ?bruce_wayne -> dc_comics batman_(series) superman_(series) absolute_dc absolute_batman the_batman_(2022) green_lantern_(series) wonder_woman_(series) red_hood_and_the_outlaws justice_league
 ?enemy_naval_mine_(kancolle) -> kantai_collection azur_lane original genshin_impact fate_(series) hololive gundam fate/kaleid_liner_prisma_illya lawson fate/grand_order
+?kashima_(kancolle) -> kantai_collection lawson original idolmaster gundam idolmaster_cinderella_girls azur_lane fate_(series) nier_(series) nier:automata
