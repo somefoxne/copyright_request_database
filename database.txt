@@ -1119,3 +1119,4 @@
 ?heero_yuy -> gundam gundam_wing gundam_00 zeta_gundam g_gundam mobile_suit_gundam gundam_seed gundam_tekketsu_no_orphans gundam_suisei_no_majo gundam_seed_destiny
 ?minamisawa_senri -> science_adventure chaos;child chaos;child_love_chu_chu!! chaos;head nazo_no_kanojo_x gundam steins;gate gundam_wing phantasm
 ?kiryuu_moeka -> science_adventure steins;gate steins;gate_0 steins;gate:_linear_bounded_phenogram mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) robotics;notes divine_gate monogatari_(series)
+?aoi_sena -> science_adventure chaos;head chaos;head_love_chu_chu! blood_tune steins;gate phantasm chaos;head:_blue_complex chaos;child robotics;notes steins;gate:_the_committee_of_antimatter
