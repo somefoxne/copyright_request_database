@@ -3904,3 +3904,4 @@
 ?saotome_ranma_(female) -> ranma_1/2 ranma_1/2_kessen_tougenkyou!_hanayome_wo_torimodose! urusei_yatsura inuyasha pokemon neon_genesis_evangelion maison_ikkoku kyoukai_no_rinne dragon_ball bishoujo_senshi_sailor_moon
 ?tendou_akane -> ranma_1/2 urusei_yatsura inuyasha ranma_1/2_kessen_tougenkyou!_hanayome_wo_torimodose! kyoukai_no_rinne maison_ikkoku mao_(takahashi_rumiko) pokemon romeo_and_juliet cardcaptor_sakura
 ?steve_(minecraft) -> minecraft super_smash_bros. mario_(series) final_fantasy final_fantasy_vii pokemon kirby_(series) persona xenoblade_chronicles_(series) arms_(game)
+?usada_pekora_(1st_costume) -> hololive hololive_indonesia hololive_english minecraft hololive_dev_is pokemon dragon_ball hololive_alternative original dragon_quest
