@@ -1868,3 +1868,4 @@
 ?kagurazaka_minami -> filter-goshi_no_kanojo
 ?amagi_happiness_(umamusume) -> umamusume umamusume:_star_blossom
 ?yoshino_prevail_(umamusume) -> umamusume umamusume:_star_blossom umamusume:_cinderella_gray midori_no_makibaoo
+?ivan_(alien_stage) -> alien_stage zombie_stage ipstar genshin_impact cure_(alien_stage) neon_genesis_evangelion blink_gone_(alien_stage) rebuild_of_evangelion wiege_(alien_stage)
