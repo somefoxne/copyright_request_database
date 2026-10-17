@@ -4008,3 +4008,4 @@
 ?hinomori_shizuku -> project_sekai vocaloid romeo_to_cinderella_(vocaloid) zozotown pokemon shoujo_rei_(vocaloid) love_live! kowareta_sekai_to_utaenai_miku idolmaster bang_dream!
 ?momoi_airi -> project_sekai vocaloid zozotown sanrio my_melody_(series) romeo_to_cinderella_(vocaloid) kowareta_sekai_to_utaenai_miku pokemon momoiro_no_kagi_(vocaloid) sekai_no_housekibako
 ?bondrewd -> made_in_abyss umamusume touhou bleach hololive arknights one_piece fullmetal_alchemist fate_(series) fate/grand_order
+?morikawa_toshiyuki -> resident_evil jojo_no_kimyou_na_bouken capcom diamond_wa_kudakenai resident_evil_4 resident_evil_4_(remake) world_masterpiece_theater tekkaman_blade nippon_animation made_in_abyss
