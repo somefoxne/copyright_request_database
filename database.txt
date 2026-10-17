@@ -3424,3 +3424,4 @@
 ?p90_(girls'_frontline) -> arena_breakout counter-strike_(series) counter-strike_2 arknights rainbow_six_siege ace_attorney azur_lane sword_art_online
 ?alkaid_mcgrath -> lovebrush_chronicles original the_nightingale_and_the_rose touhou pokemon persona persona_3 ensemble_stars! wizarding_world harry_potter_(series)
 ?ayn_alwyn -> lovebrush_chronicles original pokemon real_life onmyoji coca-cola the_tale_of_food the_last_supper ophelia_(painting)
+?clarence_clayden -> lovebrush_chronicles original arknights pokemon touqi_guaitan coca-cola merc_storia 18trip si_land
