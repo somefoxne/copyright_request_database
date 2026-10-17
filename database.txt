@@ -4127,3 +4127,4 @@
 ?chrchie -> indie_virtual_youtuber vedal_ai vocaloid animal_crossing vrchat ado_(utaite) pepsi osu! muppets
 ?haitani_ran -> tokyo_revengers tokyo_revengers_pazuribe! tokyo_revengers_unlimited namco_namja_town chiikawa princess_cafe sanrio my_melody_(series) jojo_no_kimyou_na_bouken naruto_(series)
 ?haitani_rindou -> tokyo_revengers tokyo_revengers_unlimited namco_namja_town tokyo_revengers_pazuribe! princess_cafe chiikawa the_little_mermaid_(disney) original jojo_no_kimyou_na_bouken naruto_(series)
+?mash_kyrielight_(ortenaus) -> fate_(series) fate/grand_order learning_with_manga!_fgo pixiv_fate/grand_order_contest_2 neon_genesis_evangelion fate/stay_night fate/apocrypha rebuild_of_evangelion marvel fate/extra
