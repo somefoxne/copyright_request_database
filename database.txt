@@ -4163,3 +4163,4 @@
 ?majin_buu -> dragon_ball dragon_ball_z dragon_ball_super dragon_ball_(classic) touhou dragon_ball_fighterz dragon_ball_gt pokemon real_life kirby_(series)
 ?haniyasushin_keiki -> touhou wily_beast_and_weakest_creature touhou_(pc-98) marvel touhou_lostword iron_man_(series) pokemon animal_crossing reitaisai legacy_of_lunatic_kingdom
 ?sai_(naruto) -> naruto_(series) naruto_shippuuden naruto_(classic) boruto_(series) boruto:_naruto_next_generations naruto:_the_last boruto:_naruto_the_movie naruto_shippuuden:_ultimate_ninja_blazing pokemon final_fantasy
+?yamanaka_ino -> naruto_(series) naruto_shippuuden naruto_(classic) boruto_(series) boruto:_naruto_next_generations naruto:_the_last original pokemon hentai_key mario_(series)
