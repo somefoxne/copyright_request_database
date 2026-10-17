@@ -1845,3 +1845,4 @@
 ?mari_(track)_(blue_archive) -> blue_archive real_life ultra_series comiket_104 chiikawa blue_archive_the_animation olympics god_of_war_(series) 2024_summer_olympics original
 ?uruha_youji -> kagurabachi jujutsu_kaisen aizo_(king_gnu)
 ?jeanne_amakawa -> rose_guns_days
+?rose_haibara -> rose_guns_days higurashi_no_naku_koro_ni umineko_no_naku_koro_ni higanbana_no_saku_yoru_ni iwaihime trianthology_sanmenkyou_no_kuni_no_alice
