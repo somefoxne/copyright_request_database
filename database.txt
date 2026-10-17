@@ -2634,3 +2634,4 @@
 ?kaga_sumire -> vspo! nijisanji apex_legends hololive crazy_raccoon game_game_over indie_virtual_youtuber sanrio monitoring_(vocaloid) comiket_102
 ?marshadow -> pokemon pokemon_masters_ex pokemon_(anime) pokemon_sun_and_moon pokemon_sword_and_shield pokemon_tcg pokemon_the_movie:_i_choose_you! original pokemon_x_and_y pokemon_ultra_sun_and_ultra_moon
 ?miri_(meridian_project) -> meridian_project
+?sua_(black_survival) -> black_survival eternal_return:_black_survival original starbucks dungeon_and_fighter rabbit_hole_(vocaloid)
