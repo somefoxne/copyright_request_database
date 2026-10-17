@@ -1892,3 +1892,4 @@
 ?albus_dumbledore -> wizarding_world harry_potter_(series) harry_potter_and_the_deathly_hallows jujutsu_kaisen death_note fantastic_beasts_and_where_to_find_them harry_potter_and_the_goblet_of_fire touhou hololive
 ?minerva_mcgonagall -> wizarding_world harry_potter_(series) harry_potter_and_the_deathly_hallows harry_potter:_magic_awakened innocent_witches_(fangame) idolmaster idolmaster_shiny_colors azumanga_daioh yuri!!!_on_ice
 ?sorting_hat -> wizarding_world harry_potter_(series) umamusume hogwarts_legacy idolmaster kantai_collection hololive kemono_friends re:zero_kara_hajimeru_isekai_seikatsu
+?pitbull_(singer) -> real_life vocaloid touhou kantai_collection pokemon idolmaster love_live! danganronpa_(series) jojo_no_kimyou_na_bouken idolmaster_(classic)
