@@ -2003,3 +2003,4 @@
 ?hilda_valentine_goneril -> fire_emblem fire_emblem:_three_houses fire_emblem_heroes fire_emblem_warriors:_three_hopes fire_emblem_fates pokemon fire_emblem:_the_blazing_blade persona fire_emblem_awakening fire_emblem_engage
 ?male_byleth_(awakened)_(fire_emblem) -> fire_emblem fire_emblem:_three_houses fire_emblem_warriors:_three_hopes fire_emblem_heroes fire_emblem_awakening fire_emblem_fates super_smash_bros. fire_emblem_engage fire_emblem_cipher
 ?male_byleth_(fire_emblem) -> fire_emblem fire_emblem:_three_houses fire_emblem_heroes fire_emblem_warriors:_three_hopes fire_emblem_fates fire_emblem_awakening super_smash_bros. fire_emblem_engage persona persona_5
+?mary_(bay_goddess)_(nikke) -> goddess_of_victory:_nikke nier_(series) nier:automata lawson
