@@ -3195,3 +3195,4 @@
 ?colobbit -> nijisanji nijisanji_en pokemon nijisanji_kr nijisanji_id bunny_garden nijisanji_koshien cherry_pop_(vocaloid) nijisanji_gta niginigi_nijitown
 ?sophia_valentine_(3rd_costume) -> nijisanji
 ?acheron_(izumo)_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail honkai_impact_3rd original genshin_impact mihoyo fate_(series) fate/grand_order counter:side squid_game
+?shun_(small)_(blue_archive) -> blue_archive vocaloid comiket_102 shukusei!!_loli-kami_requiem arknights fate_(series) comiket_103 original fate/grand_order azur_lane
