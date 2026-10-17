@@ -4109,3 +4109,4 @@
 ?bibi_biscuit -> phase_connect
 ?aha_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail genshin_impact honkai_impact_3rd bleach mihoyo backrooms_(creepypasta) tom_and_jerry
 ?akivili_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail blade_runner_(series) blade_runner_2049 backrooms_(creepypasta)
+?team_rainbow_rocket_grunt -> pokemon pokemon_ultra_sun_and_ultra_moon pokemon_sun_and_moon pokemon_(anime) pokemon_sword_and_shield pokemon_diamond/pearl/platinum pokemon_black_and_white original fire_emblem pokemon_x_and_y
