@@ -1090,3 +1090,4 @@
 ?ace_trappola -> twisted_wonderland original fate_(series) fate/grand_order touken_ranbu disney the_nightmare_before_christmas kimetsu_no_yaiba zootopia youtube
 ?satono_diamond_(umamusume) -> umamusume sega original pokemon real_life jojo_no_kimyou_na_bouken idolmaster sonic_(series) kantai_collection kfc
 ?rose_belmont -> castlevania_(series) metroid metroid_ravenous castlevania_legends
+?trevor_c._belmont -> castlevania_(series) castlevania_(netflix) castlevania:_curse_of_darkness castlevania:_symphony_of_the_night castlevania:_harmony_of_dissonance castlevania:_rondo_of_blood castlevania:_lament_of_innocence castlevania:_aria_of_sorrow castlevania:_dawn_of_sorrow
