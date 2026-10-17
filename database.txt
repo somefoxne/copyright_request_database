@@ -2215,3 +2215,4 @@
 ?endou_aina -> lovely_aina-chan original comic_bavel kaede_to_suzu comiket_101
 ?riyala_bey_(azur_lane) -> azur_lane
 ?caelus_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail mihoyo genshin_impact zenless_zone_zero fate_(series) fate/stay_night honkai_impact_3rd fate/unlimited_blade_works wuthering_waves
+?evernight_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail honkai_impact_3rd mihoyo zenless_zone_zero genshin_impact fate_(series) comiket_106 fate/grand_order
