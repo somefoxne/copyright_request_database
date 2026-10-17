@@ -3632,3 +3632,4 @@
 ?luigi -> mario_(series) mario_&_luigi_rpg super_smash_bros. pokemon the_legend_of_zelda kirby_(series) new_super_mario_bros._u_deluxe donkey_kong_(series) metroid
 ?samekichi_(funamusea) -> funamusea oounabara_to_wadanohara ice_scream haiiro_teien mogeko_castle sutare_yume mahou_shoujo_madoka_magica utau steven_universe tumblr
 ?wadanohara -> funamusea oounabara_to_wadanohara mogeko_castle yume_nikki ib_(kouri) omori haiiro_teien mad_father utdr_(toby_fox) satsuriku_no_tenshi
+?tenkyuu_chimata -> touhou unconnected_marketeers touhou_(pc-98) 100th_black_market touhou_lostword reitaisai wily_beast_and_weakest_creature yu-gi-oh! perfect_cherry_blossom mountain_of_faith
