@@ -2611,3 +2611,4 @@
 ?hsin_(moon_fox)_(wuthering_waves) -> wuthering_waves
 ?cogane_rang -> stellive
 ?yumemizuki_mizuki -> genshin_impact honkai_(series) honkai:_star_rail mihoyo yu-gi-oh! yu-gi-oh!_arc-v honkai_impact_3rd original sushiro pokemon
+?ratkin_(rimworld) -> rimworld original
