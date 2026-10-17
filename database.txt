@@ -1271,3 +1271,4 @@
 ?kochiya_sanae -> touhou mountain_of_faith touhou_(pc-98) touhou_tag_dream touhou_lostword cookie_(touhou) reitaisai undefined_fantastic_object mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime)
 ?kirby -> kirby_(series) super_smash_bros. pokemon mario_(series) real_life kirby_and_the_forgotten_land the_legend_of_zelda fire_emblem kirby_64 metroid
 ?phan_phan -> kirby_(series) kirby_&_the_amazing_mirror mario_(series) kirby_64 kirby_and_the_forgotten_land kirby_star_allies kirby_super_star kirby:_planet_robobot
+?rolling_turtle -> kirby_(series) nintendo kirby_64 kirby_and_the_forgotten_land kirby_star_allies kirby_air_ride kirby_super_star kirby:_planet_robobot
