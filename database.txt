@@ -2418,3 +2418,4 @@
 ?druvis_iii -> reverse:1999 the_last_supper final_fantasy final_fantasy_xiv apple_inc. ipstar grizzly_ni_osowaretara man_and_woman_dancing_(leyendecker)
 ?koharu_(swimsuit)_(blue_archive) -> blue_archive comiket_102 comiket_104 spongebob_squarepants_(series) original kantai_collection azur_lane real_life shingeki_no_kyojin azumanga_daioh
 ?orange_pekoe_(girls_und_panzer) -> girls_und_panzer girls_und_panzer_motto_love_love_sakusen_desu! gekitotsu!_joshikousei_oiroke_sensha_gundan girls_und_panzer_senshadou_daisakusen! fate_(series) girls_und_panzer_gekijouban kantai_collection girls_und_panzer_saishuushou megami_magazine original
+?la+_darknesss -> hololive hololive_english hololive_dev_is hololive_indonesia hololive_grand_theft_auto pokemon the_king_of_fighters fatal_fury hololive_dreams nijisanji
