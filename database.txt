@@ -4247,3 +4247,4 @@
 ?silmeria_valkyrie -> valkyrie_profile_(series) valkyrie_profile_2:_silmeria valkyrie_anatomia project_tokyo_dolls valkyrie_profile_1 tales_of_(series) tales_of_berseria tales_of_the_rays
 ?hanako-san_(fushigi_tsuushin_toire_no_hanako-san) -> fushigi_tsuushin_toire_no_hanako-san jibaku_shounen_hanako-kun
 ?mitsuba_sousuke -> jibaku_shounen_hanako-kun vocaloid soul_eater original pokemon genshin_impact danganronpa_(series) project_sekai danganronpa_v3:_killing_harmony pokemon_sun_and_moon
+?mokke_(jibaku_shounen_hanako-kun) -> jibaku_shounen_hanako-kun touhou original vocaloid kimetsu_no_yaiba mahou_shounen_natsuki_x_loveits
