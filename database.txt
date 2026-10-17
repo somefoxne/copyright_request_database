@@ -2450,3 +2450,4 @@
 ?scaramouche_(genshin_impact) -> genshin_impact original mihoyo honkai_(series) honkai:_star_rail zenless_zone_zero marvel pokemon spider-man_(series)
 ?wanderer_(genshin_impact) -> genshin_impact original honkai_(series) mihoyo honkai:_star_rail pokemon zenless_zone_zero honkai_impact_3rd marvel
 ?sin_(nikke) -> goddess_of_victory:_nikke blue_archive original indie_virtual_youtuber last_origin helltaker
+?sin_(swift_bunny)_(nikke) -> goddess_of_victory:_nikke
