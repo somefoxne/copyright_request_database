@@ -1635,3 +1635,4 @@
 ?muarim_(fire_emblem) -> fire_emblem fire_emblem:_path_of_radiance fire_emblem:_radiant_dawn fire_emblem_heroes fire_emblem:_the_blazing_blade fire_emblem:_mystery_of_the_emblem fire_emblem:_the_binding_blade fire_emblem:_the_sacred_stones fire_emblem_fates fire_emblem_awakening
 ?chiya_(urara_meirochou) -> urara_meirochou manga_time_kirara kirara_fantasia idolmaster idolmaster_cinderella_girls gochuumon_wa_usagi_desu_ka? new_game! kobayashi-san_chi_no_maidragon kin-iro_mosaic megami_magazine
 ?amada_ken -> persona persona_3 persona_3_portable persona_4 persona_3_reload persona_4:_the_ultimate_in_mayonaka_arena persona_4:_the_ultimax_ultra_suplex_hold persona_5 persona_q_(series) persona_2
+?shiomi_kotone -> persona persona_3 persona_3_portable persona_4 persona_5 persona_2 persona_1 persona_2_tsumi persona_2_batsu persona_3_reload
