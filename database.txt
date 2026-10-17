@@ -1493,3 +1493,4 @@
 ?levi_(fear_&_hunger) -> fear_&_hunger_(series) fear_&_hunger_2:_termina fear_&_hunger_1 chainsaw_man pokemon original touhou vocaloid mahou_shoujo_madoka_magica project_moon
 ?lord_of_dark_blade_(all_wishes_come_true!) -> all_wishes_come_true! pokemon new_gods:_yang_jian
 ?gun_devil_(chainsaw_man) -> chainsaw_man fire_punch mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) persona marvel jujutsu_kaisen persona_3 spider-man_(series) marvel_rivals
+?walpurgisnacht_(madoka_magica) -> mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) mahou_shoujo_madoka_magica:_hangyaku_no_monogatari toaru_majutsu_no_index lyrical_nanoha magia_record:_mahou_shoujo_madoka_magica_gaiden touhou final_fantasy mahou_shoujo_lyrical_nanoha final_fantasy_iii
