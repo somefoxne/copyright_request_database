@@ -2287,3 +2287,4 @@
 ?kraken_(japanon) -> original chainsaw_man vocaloid real_life tsukihime lucky_star melty_blood
 ?marichka -> original real_life a_song_of_ice_and_fire stalker_(game) game_of_thrones death_(band) metal_gear_(series) metal_gear_solid_v:_the_phantom_pain the_office metal_gear_solid_v:_ground_zeroes
 ?baobhan_sith_(first_ascension)_(fate) -> fate_(series) fate/grand_order original fate/stay_night fate/strange_fake learning_with_manga!_fgo fate/final_journey pokemon fate/kaleid_liner_prisma_illya genshin_impact
+?klee_(genshin_impact) -> genshin_impact honkai_(series) mihoyo honkai_impact_3rd honkai:_star_rail spy_x_family duolingo arknights blue_archive pokemon
