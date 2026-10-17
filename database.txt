@@ -3196,3 +3196,4 @@
 ?sophia_valentine_(3rd_costume) -> nijisanji
 ?acheron_(izumo)_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail honkai_impact_3rd original genshin_impact mihoyo fate_(series) fate/grand_order counter:side squid_game
 ?shun_(small)_(blue_archive) -> blue_archive vocaloid comiket_102 shukusei!!_loli-kami_requiem arknights fate_(series) comiket_103 original fate/grand_order azur_lane
+?amaura -> pokemon pokemon_x_and_y pokemon_(anime) pokemon_sword_and_shield pokemon_tcg vocaloid project_voltage pokemon_the_series:_xy pokemon_diamond/pearl/platinum pokemon_ruby/sapphire/emerald
