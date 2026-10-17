@@ -1017,3 +1017,4 @@
 ?lady_geist_(deadlock) -> deadlock_(game) balatro the_outlast_trials
 ?silver_(deadlock) -> deadlock_(game) overwatch animal_crossing courage_the_cowardly_dog twilight_(series)
 ?vyper_(deadlock) -> deadlock_(game) titanic_(movie)
+?eishin_flash_(meisterschaft)_(umamusume) -> umamusume kantai_collection fate_(series) real_life pokemon idolmaster umamusume:_cinderella_gray akari_ga_yatte_kitazo_(vocaloid) umamusume:_road_to_the_top deutsche_tourenwagen_masters
