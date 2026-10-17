@@ -2668,3 +2668,4 @@
 ?mishima_kazuya -> tekken super_smash_bros. tekken_8 kirby_(series) street_fighter mario_(series) fire_emblem fatal_fury final_fantasy final_fantasy_vii
 ?reina_(tekken) -> tekken tekken_8 street_fighter street_fighter_6 bandai_namco evolution_championship_series the_king_of_fighters guilty_gear original pokemon
 ?rumi_(swimsuit)_(blue_archive) -> blue_archive comiket_108
+?janus_(azur_lane) -> azur_lane azur_lane:_slow_ahead original pokemon zenless_zone_zero megami_magazine date_a_live palworld tower_records
