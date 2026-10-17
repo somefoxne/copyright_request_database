@@ -1438,3 +1438,4 @@
 ?k.s.miracle_(umamusume) -> umamusume pokemon tomodachi_life tomodachi_life:_living_the_dream umamusume:_cinderella_gray yu-gi-oh! pokemon_scarlet_and_violet dragon_ball
 ?kanou_tenzen -> summer_pockets higurashi_no_naku_koro_ni key_(company) little_busters! angel_beats! kanon rewrite comiket_106 comiket_95
 ?mitani_ryouichi -> summer_pockets higurashi_no_naku_koro_ni key_(company) little_busters! angel_beats! kanon rewrite comiket_106 comiket_95
+?nomura_miki -> summer_pockets key_(company) little_busters! angel_beats! kanon higurashi_no_naku_koro_ni clannad air_(visual_novel) rewrite charlotte_(anime)
