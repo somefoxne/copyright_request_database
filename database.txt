@@ -1403,3 +1403,4 @@
 ?dietrich_gregor_lamine -> fire_emblem fire_emblem_heroes fire_emblem:_three_houses fire_emblem_warriors:_three_hopes fire_emblem_shadows pokemon final_fantasy final_fantasy_xiv dragon_ball
 ?christ-chan -> original 4chan serbia_strong reddit hololive suzumiya_haruhi_no_yuuutsu kono_subarashii_sekai_ni_shukufuku_wo! real_life tsukihime cardcaptor_sakura
 ?arimura_mao -> idolmaster gakuen_idolmaster kimi_to_semi_blue_(idolmaster) fluorite_(idolmaster) feel_jewel_dream_(idolmaster) sweet_magic_(idolmaster) idolmaster_cinderella_girls hajime_(idolmaster) sakura_photograph_(idolmaster) mite_(idolmaster)
+?phoebe_(vtuber) -> densetsu.exe indie_virtual_youtuber vinesauce 3am beastiez shirayuri_production hololive hololive_english real_life metal_gear_(series)
