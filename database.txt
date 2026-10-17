@@ -3207,3 +3207,4 @@
 ?fennekin -> pokemon pokemon_x_and_y pokemon_(anime) pokemon_the_series:_xy pokemon_black_and_white pokemon_diamond/pearl/platinum pokemon_sun_and_moon pokemon_black_2_and_white_2 pokemon_heartgold_and_soulsilver pokemon_sword_and_shield
 ?flabebe -> pokemon pokemon_x_and_y pokemon_(anime) pokemon_legends:_z-a pokemon_scarlet_and_violet pokemon_the_series:_xy original pokemon_black_and_white pokemon_diamond/pearl/platinum pokemon_journeys
 ?flabebe_(red_flower) -> pokemon pokemon_x_and_y pokemon_scarlet_and_violet pokemon_legends:_z-a pokemon_(anime) pokemon_black_and_white pokemon_the_series:_xy original touhou pokemon_diamond/pearl/platinum
+?floette -> pokemon pokemon_legends:_z-a pokemon_x_and_y pokemon_scarlet_and_violet pokemon_(anime) original pokemon_firered_and_leafgreen pokemon_black_and_white pokemon_sword_and_shield pokemon_diamond/pearl/platinum
