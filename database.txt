@@ -1928,3 +1928,4 @@
 ?sua_(zombie_stage) -> alien_stage zombie_stage futatsu_no_mokuba_(vocaloid) genshin_impact youtube loveit?_(biz) honkai_(series) project_sekai magnet_(vocaloid) pink_bitch_club
 ?till_(zombie_stage) -> alien_stage zombie_stage loona_(group) obsession_(movie)
 ?tomoe_(persona_4) -> persona persona_4 persona_3 tengen_toppa_gurren_lagann persona_4:_the_ultimate_in_mayonaka_arena persona_4_revival persona_4_the_animation marvel persona_5 durarara!!
+?hyuna_(alien_stage) -> alien_stage zombie_stage ipstar danganronpa_(series) chiikawa wiege_(alien_stage) sanrio grand_theft_auto grand_theft_auto_vi ruler_of_my_heart_(alien_stage)
