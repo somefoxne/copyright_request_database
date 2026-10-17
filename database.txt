@@ -2937,3 +2937,4 @@
 ?shinazugawa_sanemi -> kimetsu_no_yaiba kimetsu_gakuen pokemon jujutsu_kaisen boku_no_hero_academia shounen_jump original fate_(series) precure one_piece
 ?fuiba_fuyu -> gochuumon_wa_usagi_desu_ka? umamusume manga_time_kirara clockwork_rabbit comiket_104 comiket_102 comiket_100 lol_comics
 ?batman_(absolute_dc) -> dc_comics absolute_dc absolute_batman batman_(series) absolute_wonder_woman absolute_superman wonder_woman_(series) superman_(series) marvel original
+?tokiai_misao -> indie_virtual_youtuber fate_(series) fate/grand_order
