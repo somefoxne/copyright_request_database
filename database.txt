@@ -4170,3 +4170,4 @@
 ?jia_huan_(project_moon) -> project_moon limbus_company library_of_ruina lobotomy_corporation kekkai_sensen original pokemon fate_(series) fate/grand_order arknights
 ?eous_(zenless_zone_zero) -> zenless_zone_zero mihoyo genshin_impact honkai_(series) honkai:_star_rail blue_archive honkai_impact_3rd gigo tears_of_themis arknights
 ?pom-pom_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail mihoyo genshin_impact honkai_impact_3rd zenless_zone_zero fate_(series) tears_of_themis fate/stay_night kfc
+?tanya_degurechaff -> youjo_senki kono_subarashii_sekai_ni_shukufuku_wo! isekai_quartet overlord_(maruyama) re:zero_kara_hajimeru_isekai_seikatsu original girls_und_panzer kemono_friends kobayashi-san_chi_no_maidragon tate_no_yuusha_no_nariagari
