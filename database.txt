@@ -2275,3 +2275,4 @@
 ?rikka_(holostars) -> holostars hololive holostars_english hololive_english hololive_indonesia kick_back_(song) jojo_no_kimyou_na_bouken star_animals nijisanji mario_(series)
 ?rikka_(1st_costume)_(holostars) -> holostars hololive jojo_no_kimyou_na_bouken holostars_english inochi_bakari_(vocaloid) mario_(series) stardust_crusaders kimi_no_na_wa. tetris super_bunny_man
 ?rossweisse_(chaos_zero_nightmare) -> chaos_zero_nightmare
+?sessyoin_kiara -> fate_(series) fate/grand_order fate/extra fate/extra_ccc kantai_collection granblue_fantasy tsukihime fate/empire_of_dirt hololive fate/stay_night
