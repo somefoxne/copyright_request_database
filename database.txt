@@ -4123,3 +4123,4 @@
 ?lady_sun_(honor_of_kings) -> honor_of_kings
 ?aria_(human)_(discordant_note)_(zenless_zone_zero) -> zenless_zone_zero genshin_impact kpop_demon_hunters original honkai_(series) honkai:_star_rail indie_virtual_youtuber mihoyo invincible_(series)
 ?aura_bella_fiora -> overlord_(maruyama) re:zero_kara_hajimeru_isekai_seikatsu isekai_quartet kono_subarashii_sekai_ni_shukufuku_wo! youjo_senki tate_no_yuusha_no_nariagari nyantype original touhou kantai_collection
+?zhuge_liang_(wang_chuan_feng_hua_lu) -> wang_chuan_feng_hua_lu
