@@ -2238,3 +2238,4 @@
 ?makihara_arina -> waku_waku_7 galaxy_fight pokemon gundam street_fighter guilty_gear the_king_of_fighters fatal_fury garou:_mark_of_the_wolves original
 ?claw_noir -> miraculous_ladybug
 ?shadybug -> miraculous_ladybug
+?ak-alfa_(girls'_frontline) -> metal_gear_(series) gunslinger_girl mario_(series) nier_(series) nier:automata silent_hill_(series) va-11_hall-a
