@@ -3288,3 +3288,4 @@
 ?mad_hatter_(alice_in_wonderland) -> original touhou idolmaster vocaloid umamusume fate_(series) houseki_no_kuni ensemble_stars! alice_in_musicland_(vocaloid)
 ?god_(squirrel_stapler) -> squirrel_stapler gameoverse
 ?luma_(mario) -> mario_(series) super_mario_galaxy super_smash_bros. pokemon the_legend_of_zelda metroid kid_icarus fire_emblem kirby_(series) animal_crossing
+?roger_(guilty_gear) -> guilty_gear guilty_gear_strive guilty_gear_xx tower_records guilty_gear_xrd arc_system_works blazblue umamusume kunio-kun_series guilty_gear_vastedge_xt
