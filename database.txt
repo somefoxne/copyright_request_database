@@ -2855,3 +2855,4 @@
 ?tokitou_muichirou -> kimetsu_no_yaiba kimetsu_gakuen original chainsaw_man pokemon vocaloid jojo_no_kimyou_na_bouken spy_x_family shingeki_no_kyojin cardcaptor_sakura
 ?freudia_neuwahl -> rosenkreuzstilette rosenkreuzstilette_freudenstachel mega_man_(series) lucky_star mega_man_(classic) mega_man_zx bomberman
 ?kyokotsu_(nue_no_onmyouji) -> nue_no_onmyouji samon-kun_wa_summoner service_wars
+?souryuu_asuka_langley -> neon_genesis_evangelion rebuild_of_evangelion evangelion:_3.0_you_can_(not)_redo evangelion:_2.0_you_can_(not)_advance evangelion:_3.0+1.0_thrice_upon_a_time the_end_of_evangelion original neon_genesis_evangelion_gakuen_datenroku fate_(series) tengen_toppa_gurren_lagann
