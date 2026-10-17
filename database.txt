@@ -1626,3 +1626,4 @@
 ?terui_arisu -> seitokai_ni_mo_ana_wa_aru! original fate_(series) fate/grand_order idolmaster idolmaster_cinderella_girls dragon_quest lucky_star darkstalkers onii-chan_wa_oshimai!
 ?arcueid_brunestud -> tsukihime tsukihime_(remake) fate_(series) fate/grand_order melty_blood type-moon fate/stay_night kara_no_kyoukai melty_blood:_type_lumina carnival_phantasm
 ?eco-arc -> tsukihime tsukihime_(remake) fate_(series) melty_blood fate/grand_order type-moon fate/stay_night melty_blood:_type_lumina suzumiya_haruhi_no_yuuutsu monogatari_(series)
+?mejiro_palmer_(umamusume) -> umamusume pakatube sanrio original real_life umamusume:_cinderella_gray pokemon cygames akari_ga_yatte_kitazo_(vocaloid) idolmaster
