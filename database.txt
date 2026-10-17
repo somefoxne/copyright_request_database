@@ -3573,3 +3573,4 @@
 ?princess_deluge -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_jokers mahou_shoujo_ikusei_keikaku_aces mahou_shoujo_ikusei_keikaku_restart mahou_shoujo_ikusei_keikaku_unmarked mahou_shoujo_ikusei_keikaku_limited mahou_shoujo_ikusei_keikaku_queens mahou_shoujo_ikusei_keikaku_black mahou_shoujo_ikusei_keikaku_breakdown mahou_shoujo_ikusei_keikaku_f2p
 ?fubuki_kai_ni_(kancolle) -> kantai_collection kantai_collection_(anime) lawson gundam c2_kikan famitsu original pokemon azur_lane
 ?fubuki_kai_san_(kancolle) -> kantai_collection famitsu fuan_no_tane
+?fubuki_kai_san_go_(type_6)_(kancolle) -> kantai_collection famitsu fuan_no_tane
