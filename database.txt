@@ -4191,3 +4191,4 @@
 ?hulkenberg_(metaphor:_refantazio) -> metaphor:_refantazio atlus persona persona_3 persona_5 persona_4 final_fantasy final_fantasy_vii dungeon_meshi pokemon
 ?junah_(metaphor:_refantazio) -> metaphor:_refantazio persona persona_3 atlus persona_4 pokemon pokemon_scarlet_and_violet pokemon_sun_and_moon pokemon_black_and_white persona_5
 ?protagonist_(metaphor:_refantazio) -> metaphor:_refantazio persona persona_3 atlus persona_5 shin_megami_tensei persona_4 persona_3_reload shin_megami_tensei_v sonic_(series)
+?strohl_(metaphor:_refantazio) -> metaphor:_refantazio persona persona_3 persona_4 atlus splatoon_(series) persona_5 pokemon hololive fire_emblem
