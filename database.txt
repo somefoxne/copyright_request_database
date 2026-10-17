@@ -2907,3 +2907,4 @@
 ?taihou_(fun_on_the_baize)_(azur_lane) -> azur_lane blue_archive original hololive hololive_english comiket_107 comiket_108
 ?aokumo_rin -> stellive blue_archive chainsaw_man pokemon hololive hololive_english original umamusume honkai_(series) honkai:_star_rail
 ?usami_taiga -> original pokemon pokemon_sun_and_moon the_legend_of_zelda super_smash_bros.
+?green_lantern -> dc_comics green_lantern_(series) batman_(series) the_flash_(series) superman_(series) justice_league wonder_woman_(series) marvel superman_(2025) lanterns_(hbo_max)
