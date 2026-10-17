@@ -2510,3 +2510,4 @@
 ?saotome_berry_(2nd_costume) -> nijisanji minecraft
 ?adela_(path_to_nowhere) -> path_to_nowhere original fate_(series) fate/grand_order vocaloid reverse:1999 re:zero_kara_hajimeru_isekai_seikatsu blue_lock seihantai_na_kimi_to_boku
 ?mafuyu_(vrchat) -> vrchat original pokemon hololive escape_from_tarkov puppet_sunsun
+?salt_(komado_booth) -> vrchat
