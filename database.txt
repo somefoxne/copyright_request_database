@@ -1575,3 +1575,4 @@
 ?rapi_(red_hood)_(cherished_red)_(nikke) -> goddess_of_victory:_nikke original blue_archive honkai_(series) honkai:_star_rail shift_up
 ?mizunoe_ume -> seitokai_ni_mo_ana_wa_aru! original
 ?angel_devil_(chainsaw_man) -> chainsaw_man jujutsu_kaisen spy_x_family neon_genesis_evangelion fate_(series) genshin_impact naruto_(series) omori real_life kimetsu_no_yaiba
+?clefairy -> pokemon pokemon_sun_and_moon pokemon_(anime) pokemon_red/green/blue/yellow pokemon_firered_and_leafgreen pokemon_heartgold_and_soulsilver vocaloid pokemon_diamond/pearl/platinum project_voltage pokemon_gold/silver/crystal
