@@ -4207,3 +4207,4 @@
 ?mega_dragalge -> pokemon pokemon_legends:_z-a original pokemon_scarlet_and_violet pokemon_x_and_y pokemon_tcg pokemon_champions
 ?noivern -> pokemon pokemon_(anime) pokemon_x_and_y pokemon_the_series:_xy pokemon_legends:_z-a pokemon_sword_and_shield pokemon_scarlet_and_violet pokemon_journeys pokemon_(classic_anime) pokemon_the_series:_sun_&_moon
 ?tyrantrum -> pokemon pokemon_x_and_y pokemon_(anime) pokemon_legends:_z-a pokemon_the_series:_xy pokemon_omega_ruby_and_alpha_sapphire original pokemon_sword_and_shield love_live! pokemon_sun_and_moon
+?son_gohan -> dragon_ball dragon_ball_z dragon_ball_super dragon_ball_super_super_hero dragon_ball_(classic) dragon_ball_gt dragon_ball_heroes dragon_ball_super_broly dragon_ball:_sparking! pokemon
