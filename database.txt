@@ -1209,3 +1209,4 @@
 ?yae_sakura_(goushinnso_memento) -> honkai_(series) honkai_impact_3rd mihoyo genshin_impact honkai:_star_rail zenless_zone_zero honkai_gakuen date_a_live devil_may_cry_(series) original
 ?legionary_(fallout) -> fallout fallout:_new_vegas magic:_the_gathering liberty_leading_the_people
 ?ncr_trooper -> fallout fallout:_new_vegas original touhou cookie_(touhou) shoujo_shuumatsu_ryokou invincible_(series) liberty_leading_the_people
+?char_aznable -> gundam mobile_suit_gundam zeta_gundam gundam_gquuuuuux mobile_suit_gundam_the_origin gundam_zz gundam_unicorn gundam_seed
