@@ -1264,3 +1264,4 @@
 ?kusanagi_nene -> project_sekai vocaloid zozotown sanrio kowareta_sekai_to_utaenai_miku netsu_ijou_(utau) yi_er_fan_club_(vocaloid) tensei_ringo_(vocaloid) ego_rock_(vocaloid) pokemon
 ?azumarill -> pokemon pokemon_scarlet_and_violet pokemon_heartgold_and_soulsilver pokemon_sword_and_shield pokemon_(anime) pokemon_x_and_y pokemon_gold/silver/crystal pokemon_ruby/sapphire/emerald pokemon_omega_ruby_and_alpha_sapphire pokemon_firered_and_leafgreen
 ?azurill -> pokemon pokemon_(anime) pokemon_ruby/sapphire/emerald pokemon_(classic_anime) pokemon_omega_ruby_and_alpha_sapphire pokemon_firered_and_leafgreen pokemon_heartgold_and_soulsilver original pokemon_the_series:_ruby_and_sapphire pokemon_x_and_y
+?marill -> pokemon pokemon_heartgold_and_soulsilver pokemon_(anime) pokemon_gold/silver/crystal pokemon_firered_and_leafgreen pokemon_black_and_white pokemon_(classic_anime) pokemon_ruby/sapphire/emerald pokemon_diamond/pearl/platinum pokemon_red/green/blue/yellow
