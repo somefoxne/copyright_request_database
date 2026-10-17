@@ -1377,3 +1377,4 @@
 ?kei_(aris)_(blue_archive) -> blue_archive kamen_rider cyberpunk_(series) the_legend_of_zelda comiket_107 vocaloid needy_girl_overdose cyberpunk_2077 kamen_rider_dcd internet_yamero
 ?hanami_saki -> idolmaster gakuen_idolmaster fighting_my_way_(idolmaster) kimi_to_semi_blue_(idolmaster) hajime_(idolmaster) boom_boom_pow_(idolmaster) idolmaster_cinderella_girls idolmaster_shiny_colors idolmaster_million_live! idolmaster_(classic)
 ?metal_sonic -> sonic_(series) sonic_the_hedgehog_(classic) sonic_heroes sonic_cd sonic_frontiers sonic_the_hedgehog_(idw) sonic_adventure vocaloid sonic_unleashed sonic_the_hedgehog_(ova)
+?sonic_the_hedgehog -> sonic_(series) sonic_the_hedgehog_(classic) mario_(series) pokemon super_smash_bros. kirby_(series) the_legend_of_zelda sonic_unleashed sonic_frontiers mega_man_(series)
