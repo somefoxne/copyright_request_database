@@ -2009,3 +2009,4 @@
 ?neon_(nikke) -> goddess_of_victory:_nikke nier_(series) nier:automata neon_genesis_evangelion lawson rebuild_of_evangelion re:zero_kara_hajimeru_isekai_seikatsu blue_archive original honkai_(series)
 ?mu_ogosto -> fire_emblem
 ?yahiro_mio -> seifuku_kanojo seifuku_kanojo_2 seifuku_kanojo_3
+?appare_hinata -> weather_planet indie_virtual_youtuber round1 nijisanji ruridragon
