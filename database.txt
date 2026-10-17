@@ -2186,3 +2186,4 @@
 ?abdullah_(tintin) -> real_life tintin
 ?captain_archibald_haddock -> tintin real_life the_simpsons touhou azur_lane neon_genesis_evangelion league_of_legends mario_(series) lyrical_nanoha bleach
 ?herge_(real_life) -> real_life tintin
+?professeur_tryphon_tournesol -> real_life tintin
