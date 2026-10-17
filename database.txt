@@ -2727,3 +2727,4 @@
 ?owari_(azur_lane) -> azur_lane hololive blue_archive goddess_of_victory:_nikke original comiket_108 hololive_english comiket_103 ...baby_one_more_time indie_virtual_youtuber
 ?owari_(shimmering_forsythia)_(azur_lane) -> azur_lane comiket_103 comiket_104
 ?iwanaga_ariya -> touhou fossilized_wonders touhou_danmaku_kagura pokemon retrospective_53_minutes touhou_(pc-98) reitaisai zenless_zone_zero persona
+?yuiman_asama -> touhou fossilized_wonders touhou_danmaku_kagura touhou_(pc-98) artificial_utopia_in_ruins reitaisai pokemon chainsaw_man jujutsu_kaisen mega_man_(series)
