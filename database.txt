@@ -1121,3 +1121,4 @@
 ?kiryuu_moeka -> science_adventure steins;gate steins;gate_0 steins;gate:_linear_bounded_phenogram mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) robotics;notes divine_gate monogatari_(series)
 ?aoi_sena -> science_adventure chaos;head chaos;head_love_chu_chu! blood_tune steins;gate phantasm chaos;head:_blue_complex chaos;child robotics;notes steins;gate:_the_committee_of_antimatter
 ?orihara_kozue -> science_adventure chaos;head chaos;head_love_chu_chu! blood_tune phantasm chaos;head:_blue_complex chaos;child original steins;gate robotics;notes
+?daitoku_junna -> science_adventure robotics;notes robotics;notes_dash kidou_battle_gunvarrel skal steins;gate chaos;head newtype dengeki_online idolmaster
