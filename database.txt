@@ -2376,3 +2376,4 @@
 ?captain_america -> marvel avengers_(series) captain_america_(series) the_incredible_hulk_(series) x-men spider-man_(series) captain_america:_the_winter_soldier marvel_vs._capcom street_fighter fantastic_four
 ?elvis_presley -> original real_life kantai_collection jojo_no_kimyou_na_bouken chainsaw_man jojolion sangius sangius_petrified fate_(series) fate/grand_order
 ?kanaria -> rozen_maiden suzumiya_haruhi_no_yuuutsu gundam higurashi_no_naku_koro_ni lyrical_nanoha shakugan_no_shana precure eureka_seven_(series) pani_poni_dash! eureka_seven
+?yaruo -> 2channel rozen_maiden touhou call_of_cthulhu lucky_star original vocaloid death_note kantai_collection fate_(series)
