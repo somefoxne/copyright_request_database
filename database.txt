@@ -1888,3 +1888,4 @@
 ?nami_(bokujou_monogatari) -> bokujou_monogatari bokujou_monogatari:_wonderful_life
 ?shiro_(no_game_no_life) -> no_game_no_life kantai_collection fate_(series) vocaloid original sword_art_online fate/kaleid_liner_prisma_illya kobayashi-san_chi_no_maidragon divine_gate idolmaster
 ?koyuki_(pajamas)_(blue_archive) -> blue_archive pokemon arknights fire_emblem disgaea fire_emblem:_mystery_of_the_emblem monitoring_(vocaloid) backrooms_(creepypasta) original hololive
+?kazanari_tsubasa -> senki_zesshou_symphogear senki_zesshou_symphogear_xd_unlimited lyrical_nanoha megami_magazine gundam newtype nyantype mahou_shoujo_lyrical_nanoha_strikers gundam_seed love_live!
