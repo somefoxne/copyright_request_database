@@ -1650,3 +1650,4 @@
 ?youtou_hime_(onmyoji) -> onmyoji league_of_legends monster_hunter_(series) devil_may_cry_(series) metal_gear_(series) devil_may_cry_5 monster_hunter:_world mawaru_penguindrum metal_gear_rising:_revengeance yong_jie_wujian
 ?suoming_(wuthering_waves) -> wuthering_waves blue_archive original vocaloid utau kfc kyoufuu_all_back_(vocaloid)
 ?princess_daisy_(swimwear)_(mario_kart_world) -> mario_(series) mario_kart mario_kart_world super_mario_bros._wonder super_mario_odyssey mario_kart_tour zackscottgames vocaloid persona sonic_(series)
+?princess_daisy_(touring) -> mario_(series) mario_kart mario_kart_world dragon_ball dragon_ball_(classic) sonic_(series) super_smash_bros. sonic_boom_(series)
