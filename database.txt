@@ -1072,3 +1072,4 @@
 ?lisha_tian_(wonemie) -> original little_red_riding_hood_(fairy_tale)
 ?little_red_riding_hood_(fairy_tale_character) -> little_red_riding_hood_(fairy_tale) original kantai_collection touhou vocaloid idolmaster snow_white_(fairy_tale) love_live! marvel
 ?chiropmon -> digimon digimon_beatbreak original pokemon honkai_(series) honkai:_star_rail dc_comics batman_(series) digimon_card_game digimon_tamers
+?gekkomon -> digimon digimon_beatbreak digimon_ghost_game digimon_card_game digimon_story:_time_stranger digimon_adventure_02 digimon_adventure digimon_xros_wars digimon_universe:_appli_monsters digimon_savers
