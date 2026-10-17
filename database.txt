@@ -3332,3 +3332,4 @@
 ?honey_(breath_of_fire) -> breath_of_fire breath_of_fire_iii breath_of_fire_iv breath_of_fire_ii breath_of_fire_v breath_of_fire_i breath_of_fire_6
 ?momo_(breath_of_fire) -> breath_of_fire breath_of_fire_iii breath_of_fire_iv breath_of_fire_ii breath_of_fire_v street_fighter capcom breath_of_fire_i mega_man_(series) sonic_(series)
 ?taiwan_(kokkimusume) -> kokkimusume kantai_collection
+?allen_avadonia -> vocaloid evillious_nendaiki aku_no_musume_(vocaloid) aku_no_meshitsukai_(vocaloid) miku_symphony_(vocaloid) aku_no_musume_(series) regret_message_(vocaloid) project_sekai enbizaka_no_shitateya_(vocaloid) akujiki_musume_conchita_(vocaloid)
