@@ -2293,3 +2293,4 @@
 ?iruma_miu -> danganronpa_(series) danganronpa_v3:_killing_harmony danganronpa_2:_goodbye_despair danganronpa:_trigger_happy_havoc danganronpa_another_episode:_ultra_despair_girls danganronpa/zero pokemon
 ?milenna_(nekojira) -> original
 ?madobe_nanami -> os-tan microsoft_windows windows_7 microsoft windows_azure windows_8 cloud_girl silverlight touhou vocaloid
+?batman -> dc_comics batman_(series) superman_(series) absolute_dc absolute_batman wonder_woman_(series) marvel the_batman_(2022) red_hood_and_the_outlaws justice_league
