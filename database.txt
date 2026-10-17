@@ -2314,3 +2314,4 @@
 ?izumi_mei -> idolmaster idolmaster_shiny_colors idolmaster_shiny_colors_song_for_prism idolmaster_cinderella_girls idolmaster_million_live! gakuen_idolmaster oshi_no_ko idolmaster_(classic) blue_archive love_live!
 ?yi_sang_(project_moon) -> project_moon limbus_company lobotomy_corporation library_of_ruina fly_my_wings mili_(band) arknights original lunatic_moonnight_fantasy hamhampangpang
 ?bomi_(vtuber) -> indie_virtual_youtuber
+?malos_(xenoblade) -> xenoblade_chronicles_(series) xenoblade_chronicles_2 xenoblade_chronicles_1 xenoblade_chronicles_2:_torna_-_the_golden_country mario_(series) super_smash_bros. xenoblade_chronicles_3 fire_emblem the_legend_of_zelda metroid
