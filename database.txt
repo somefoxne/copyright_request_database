@@ -2426,3 +2426,4 @@
 ?barry_burton -> resident_evil resident_evil_1 resident_evil_5 resident_evil_3:_nemesis resident_evil:_revelations_2 resident_evil_4 resident_evil_2 resident_evil_6 resident_evil_-_code:_veronica resident_evil_0
 ?rebecca_chambers -> resident_evil resident_evil_0 resident_evil_1 resident_evil_2 resident_evil_4 resident_evil_3:_nemesis resident_evil_5 resident_evil_6 resident_evil:_death_island resident_evil_2_(remake)
 ?brad_vickers -> resident_evil resident_evil_3:_nemesis resident_evil_1 resident_evil_3_(remake) resident_evil_0
+?carlos_oliveira -> resident_evil resident_evil_3:_nemesis resident_evil_3_(remake) resident_evil_4 resident_evil_2 resident_evil_4_(remake) resident_evil_village resident_evil_5 resident_evil_2_(remake) resident_evil_6
