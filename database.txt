@@ -3884,3 +3884,4 @@
 ?aoi_anna -> shinkon_gattai_godannar!! megami_magazine gundam yuusha_series yuusha_ou_gaogaigar idolmaster idolmaster_cinderella_girls lyrical_nanoha world_witches_series strike_witches
 ?yamauchi_sawa_(date_a_live) -> date_a_live date_a_live:_date_a_bullet date_a_live:_spirit_pledge majutsu_tantei_tokisaki_kurumi_no_jikenbo
 ?kotobuki_tsumugi -> k-on! k-on!_movie listen!! no_thank_you!_(k-on!) suzumiya_haruhi_no_yuuutsu singing!_(k-on!) lucky_star fuwafuwa_time vocaloid
+?riyo_reaper -> gachiakuta chainsaw_man umamusume kill_la_kill hololive arknights honkai_(series) honkai:_star_rail zenless_zone_zero one_piece
