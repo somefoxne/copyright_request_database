@@ -2654,3 +2654,4 @@
 ?torchic -> pokemon pokemon_ruby/sapphire/emerald pokemon_omega_ruby_and_alpha_sapphire pokemon_diamond/pearl/platinum pokemon_emerald pokemon_black_and_white pokemon_heartgold_and_soulsilver pokemon_firered_and_leafgreen pokemon_(anime) pokemon_gold/silver/crystal
 ?nanashi_mumei -> hololive hololive_english hololive_indonesia mumei_(song)_(hololive) minecraft pokemon vocaloid hololive_dev_is holostars indie_virtual_youtuber
 ?asu_(sinsekai) -> kamitsubaki_studio sinsekai_record cevio vampire_(vocaloid) valis_(sinsekai) girls_revolution_project lavie_(vocaloid) vocaloid persona chainsaw_man
+?culua -> rk_music vocaloid persona persona_3 cho_kaguya-hime! kamitsubaki_studio cevio girls_revolution_project
