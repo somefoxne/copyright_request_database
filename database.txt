@@ -4133,3 +4133,4 @@
 ?yui_shousetsu_(first_ascension)_(fate) -> fate_(series) fate/grand_order fate/samurai_remnant fate/kaleid_liner_prisma_illya
 ?hen_squad_(henya_the_genius) -> vshojo indie_virtual_youtuber
 ?henya_the_genius_(jersey_maid) -> indie_virtual_youtuber chiikawa
+?seed_(zenless_zone_zero) -> zenless_zone_zero gundam umamusume honkai_(series) honkai:_star_rail goddess_of_victory:_nikke macross macross_delta original
