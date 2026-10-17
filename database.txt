@@ -2201,3 +2201,4 @@
 ?eclipse_shadow -> precure meitantei_precure! toei_company mahou_shoujo_madoka_magica dragon_ball mahou_shoujo_madoka_magica:_hangyaku_no_monogatari kamen_rider berserk super_sentai yuusha_de_aru
 ?isazi_(utaite) -> indie_utaite vocaloid di_gi_charat rhythm_tengoku kuso_miso_technique minna_no_rhythm_tengoku
 ?puchiko -> di_gi_charat galaxy_angel di_gi_charat_(1999) rozen_maiden di_gi_charat_nyo! winter_garden fate_(series) neon_genesis_evangelion street_fighter suzumiya_haruhi_no_yuuutsu
+?lunamaria_hawke -> gundam gundam_seed gundam_seed_destiny gundam_seed_freedom zeta_gundam fate_(series) sanrio eureka_seven_(series) eureka_seven fate/stay_night
