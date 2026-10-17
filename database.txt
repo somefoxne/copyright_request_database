@@ -2246,3 +2246,4 @@
 ?merle_(tenkuu_no_escaflowne) -> tenkuu_no_escaflowne escaflowne_(movie) gundam slayers gundam_wing olympics animedia after_war_gundam_x knight_lamune_&_40_(series) bakuretsu_hunters
 ?fukuga_kurumi -> fx_senshi_kurumi-chan jashin-chan_dropkick ai_mai_mii inmu_king
 ?orihime_(girls_revolution_project) -> kamitsubaki_studio girls_revolution_project sinsekai_record original mimukauwa_nice_try_(vocaloid) valis_(sinsekai)
+?chichino_kaori -> motto!_haramase!_(series) motto!_haramase!_honoo_no_oppai_isekai_oppai_bunny_gakuen!
