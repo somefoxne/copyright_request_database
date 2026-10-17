@@ -3384,3 +3384,4 @@
 ?niwa_(genshin_impact) -> genshin_impact vocaloid honkai_(series) honkai:_star_rail synthesizer_v mihoyo yoasobi eve_(musician) coraline slow_downer_(vocaloid)
 ?nekota_tsuna_(4th_costume) -> vspo! nijisanji indie_virtual_youtuber yotsubato! crazy_raccoon girl_with_a_pearl_earring xross_stars passpartout:_the_starving_artist
 ?kotomiya_ayane -> taima_senki_ayane_~chijoku_saimin_no_wana~
+?scaramouche_(cat)_(genshin_impact) -> genshin_impact original mihoyo honkai_(series) honkai:_star_rail zenless_zone_zero got_talent pokemon sanrio death_note
