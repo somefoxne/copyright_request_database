@@ -3157,3 +3157,4 @@
 ?zelgius_(fire_emblem) -> fire_emblem fire_emblem:_radiant_dawn fire_emblem_heroes fire_emblem:_path_of_radiance fire_emblem_fates fire_emblem:_mystery_of_the_emblem fire_emblem:_genealogy_of_the_holy_war fire_emblem_echoes:_shadows_of_valentia fire_emblem_awakening fire_emblem:_the_blazing_blade
 ?akebono_(halloween)_(kancolle) -> kantai_collection
 ?akebono_(kancolle) -> kantai_collection fate_(series) fate/grand_order aoki_hagane_no_arpeggio original choo_choo_train bonobono pokemon girls_und_panzer gundam
+?yuki_aine -> aikatsu!_(series) aikatsu_friends! aikatsu! aikatsu_on_parade! aikatsu_stars! blue_archive pretty_series animedia kiratto_pri_chan miffy
