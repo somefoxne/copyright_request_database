@@ -3492,3 +3492,4 @@
 ?beryl_bouanich -> reverse:1999 honkai_(series) honkai_impact_3rd project_moon limbus_company real_life axis_powers_hetalia call_of_cthulhu detroit:_become_human b.duck
 ?matilda_bouanich -> reverse:1999 pizza_hut neon_genesis_evangelion olympics 2024_summer_olympics ganbare!_nakamura-kun!! b.duck original fate_(series) genshin_impact
 ?astolfo_(fate) -> fate_(series) fate/grand_order fate/apocrypha fate/extra fate/extella fate/extella_link original guilty_gear re:zero_kara_hajimeru_isekai_seikatsu learning_with_manga!_fgo
+?lily_(wuthering_waves) -> wuthering_waves
