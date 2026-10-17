@@ -2132,3 +2132,4 @@
 ?hinanawi_tenshi -> touhou touhou_(pc-98) touhou_tag_dream scarlet_weather_rhapsody pokemon saturday_night_fever m.u.g.e.n final_fantasy final_fantasy_xi
 ?yajuu_senpai -> manatsu_no_yo_no_inmu touhou cookie_(touhou) pokemon blue_archive niconico real_life bleach original 2channel
 ?niko_(oneshot) -> oneshot_(game) utdr_(toby_fox) omori yume_nikki deltarune undertale ib_(kouri) off_(game) hollow_knight a_hat_in_time
+?okazaki_ushio -> clannad dango_daikazoku key_(company) air_(visual_novel) kanon little_busters! angel_beats! rewrite summer_pockets planetarian
