@@ -1041,3 +1041,4 @@
 ?dokugamine_riruka -> bleach bleach:_sennen_kessen-hen bleach:_the_high_school_warfare bleach:_brave_souls bleach:_epilogue ziga original panty_&_stocking_with_garterbelt carnival_phantasm bleach:_zanpakutou_ibun_hen
 ?annie_leonhart -> shingeki_no_kyojin shingeki_no_school_castes final_fantasy pokemon fate_(series) fate/stay_night final_fantasy_vii cinderella_(fairy_tale) shingeki!_kyojin_chuugakkou vocaloid
 ?armin_arlert -> shingeki_no_kyojin shingeki_no_school_castes berserk fate_(series) kantai_collection naruto_(series) sanrio wizarding_world cinderella_(fairy_tale) precure
+?kotemon -> digimon digimon_adventure digimon_adventure_02 digimon_tamers digimon_frontier digimon_xros_wars digimon_savers digimon_world digimon_world_3 original
