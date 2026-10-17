@@ -1773,3 +1773,4 @@
 ?tanigawa_ruri -> ruri_no_houseki onii-chan_wa_oshimai! studio_bind minecraft houseki_no_kuni blue_archive umamusume yu-gi-oh! dragon_quest kill_la_kill
 ?akehoshi_subaru -> ensemble_stars! idolmaster vocaloid love_live! love_live!_school_idol_project idolmaster_side-m uta_no_prince-sama idolish7 ensemble_girls! i-chu
 ?hidaka_hokuto -> ensemble_stars! ensemble_girls! pokemon sanrio fuwa_fuwa_cinnamoroll genshin_impact idolmaster project_moon omori sword_art_online
+?kaguya_(tsukuyomi)_(cho_kaguya-hime!) -> cho_kaguya-hime! hololive umamusume touhou dragon_ball dragon_ball_z sweets_paradise watashi_ga_koibito_ni_nareru_wake_naijan_murimuri! zootopia oshi_no_ko
