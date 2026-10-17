@@ -1606,3 +1606,4 @@
 ?yamamura_sadako -> the_ring original touhou vocaloid friday_the_13th the_grudge japanese_urban_legends pokemon mario_(series) dead_by_daylight
 ?adachi_tohru -> persona persona_4 persona_4_the_golden persona_3 persona_4:_the_ultimate_in_mayonaka_arena persona_5 persona_4:_the_ultimax_ultra_suplex_hold persona_4_the_animation persona_3_portable persona_2
 ?bastian_(fire_emblem) -> fire_emblem fire_emblem:_radiant_dawn fire_emblem:_path_of_radiance fire_emblem:_the_sacred_stones fire_emblem_cipher fire_emblem:_thracia_776 fire_emblem_fates fire_emblem_awakening fire_emblem:_the_blazing_blade fire_emblem:_genealogy_of_the_holy_war
+?geoffrey_(fire_emblem) -> fire_emblem fire_emblem:_radiant_dawn fire_emblem:_path_of_radiance fire_emblem_heroes fire_emblem_cipher fire_emblem:_genealogy_of_the_holy_war fire_emblem:_the_sacred_stones fire_emblem_fates fire_emblem_awakening fire_emblem:_the_blazing_blade
