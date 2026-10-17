@@ -1242,3 +1242,4 @@
 ?cinderella_(fairy_tale_character) -> cinderella_(fairy_tale) original little_red_riding_hood_(fairy_tale) kantai_collection snow_white_(fairy_tale) idolmaster cinderella_(disney_movie) vocaloid
 ?hanasato_minori -> project_sekai vocaloid zozotown booo!_(vocaloid) kowareta_sekai_to_utaenai_miku darling_dance_(vocaloid) tenshi_no_clover_(vocaloid) yi_er_fan_club_(vocaloid) gunjou_sanka_(vocaloid) sayonara_princess_(vocaloid)
 ?kagura_(onmyoji) -> onmyoji cardcaptor_sakura cardcaptor_sakura_clear_card_arc gintama mononoke vocaloid sanrio inuyasha fuwa_fuwa_cinnamoroll hello_kitty
+?millia_rage -> guilty_gear guilty_gear_xrd guilty_gear_strive guilty_gear_xx guilty_gear_x blazblue arc_system_works street_fighter evolution_championship_series touhou
