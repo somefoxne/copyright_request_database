@@ -2152,3 +2152,4 @@
 ?cure_friendy -> precure wonderful_precure! meitantei_precure! mahou_tsukai_precure! pokemon hirogaru_sky!_precure tropical-rouge!_precure kimi_to_idol_precure sousou_no_frieren mahou_shoujo_ni_akogarete
 ?cure_wonderful -> precure wonderful_precure! hirogaru_sky!_precure kimi_to_idol_precure kirakira_precure_a_la_mode mahou_tsukai_precure! tropical-rouge!_precure meitantei_precure! delicious_party_precure heartcatch_precure!
 ?inukai_iroha -> precure wonderful_precure! hirogaru_sky!_precure kimi_to_idol_precure tropical-rouge!_precure meitantei_precure! delicious_party_precure kirakira_precure_a_la_mode mahou_tsukai_precure! star_twinkle_precure
+?inukai_komugi -> precure wonderful_precure! hirogaru_sky!_precure kimi_to_idol_precure tropical-rouge!_precure meitantei_precure! mahou_tsukai_precure! delicious_party_precure kirakira_precure_a_la_mode
