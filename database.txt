@@ -3859,3 +3859,4 @@
 ?matou_sakura -> fate_(series) fate/stay_night fate/zero fate/grand_order fate/hollow_ataraxia fate/extra fate/extra_ccc tsukihime type-moon
 ?aika_(kiana_mai) -> cardcaptor_sakura bishoujo_senshi_sailor_moon mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) utdr_(toby_fox) tokyo_mew_mew carmico_(brand) original pokemon
 ?wayward_passenger -> project_moon limbus_company library_of_ruina mili_(band) ultra_trailer_(synthesizer_v) fly_my_wings
+?ayatsumugi_roka -> cho_kaguya-hime! darling_(suda_keina) pokemon mahou_shoujo_madoka_magica bang_dream! bocchi_the_rock! project_sekai kaguya-sama_wa_kokurasetai_~tensai-tachi_no_renai_zunousen~ animal_crossing
