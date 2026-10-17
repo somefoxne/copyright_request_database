@@ -2774,3 +2774,4 @@
 ?dorothea_arnault -> fire_emblem fire_emblem:_three_houses fire_emblem_heroes fire_emblem_warriors:_three_hopes fire_emblem_awakening fire_emblem_fates fire_emblem:_genealogy_of_the_holy_war persona fire_emblem_engage persona_5
 ?edelgard_von_hresvelg -> fire_emblem fire_emblem:_three_houses fire_emblem_heroes fire_emblem_warriors:_three_hopes fire_emblem_awakening super_smash_bros. pokemon fire_emblem_fates fire_emblem:_radiant_dawn fire_emblem_engage
 ?china_(kokkimusume) -> kokkimusume manatsu_no_yo_no_inmu pokemon dragon_ball pokemon_(anime) world_cup 2026_fifa_world_cup triple_baka_(vocaloid)
+?japan_(kokkimusume) -> kokkimusume world_cup manatsu_no_yo_no_inmu 2026_fifa_world_cup kyu-kurarin_(cevio) kantai_collection pokemon dragon_ball pokemon_(anime) jujutsu_kaisen
