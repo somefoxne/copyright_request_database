@@ -1124,3 +1124,4 @@
 ?daitoku_junna -> science_adventure robotics;notes robotics;notes_dash kidou_battle_gunvarrel skal steins;gate chaos;head newtype dengeki_online idolmaster
 ?fujita_tetsuharu -> science_adventure robotics;notes robotics;notes_dash
 ?nishijou_nanami -> science_adventure chaos;head blood_tune chaos;head_love_chu_chu! steins;gate chaos;child phantasm nitroplus guilty_crown robotics;notes
+?gero-froggy -> science_adventure chaos;head chaos;child steins;gate robotics;notes occultic;nine chaos;head_love_chu_chu! blood_tune kidou_battle_gunvarrel steins;gate_0
