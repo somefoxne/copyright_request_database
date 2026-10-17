@@ -3940,3 +3940,4 @@
 ?yamai_kaguya -> date_a_live date_a_live:_spirit_pledge azur_lane neptune_(series) gekijouban_date_a_live:_mayuri_judgement shin_jigen_game_neptune_vii fantasia_re:build choujigen_game_neptune_mk2 date_a_live:_arusu_install vivid_army
 ?yamai_yuzuru -> date_a_live date_a_live:_spirit_pledge azur_lane gekijouban_date_a_live:_mayuri_judgement fantasia_re:build nichijou date_a_live:_arusu_install neptune_(series) crash_fever divine_gate
 ?nippaku_zanmu -> touhou unfinished_dream_of_all_living_ghost touhou_(pc-98) touhou_lostword utdr_(toby_fox) undertale foul_detective_satori pokemon reitaisai dolls_in_pseudo_paradise
+?manun-chan -> indie_utaite kawaikute_gomen_(honeyworks) turing_love matryoshka_(vocaloid) after_the_rain original hololive vocaloid junky_night_town_orchestra_(vocaloid) gokuraku_jigoku
