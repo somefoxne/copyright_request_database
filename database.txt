@@ -1573,3 +1573,4 @@
 ?starfire -> dc_comics teen_titans batman_(series) teen_titans_go! red_hood_and_the_outlaws star_wars powerpuff_girls marvel new_teen_titans kim_possible_(series)
 ?modernia_(nikke) -> goddess_of_victory:_nikke zozotown ichiban_kuji blue_archive to_love-ru lawson comiket_104 comiket_102 blade_runner_(series) blade_runner_2049
 ?rapi_(red_hood)_(cherished_red)_(nikke) -> goddess_of_victory:_nikke original blue_archive honkai_(series) honkai:_star_rail shift_up
+?mizunoe_ume -> seitokai_ni_mo_ana_wa_aru! original
