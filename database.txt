@@ -3325,3 +3325,4 @@
 ?sirius_(brawl_stars) -> brawl_stars original
 ?minetsuki_ritsu_(real) -> bang_dream! bang_dream!_yumemita bang_dream!_our_notes kamen_rider kamen_rider_zeztz_(series) pokemon jojo_no_kimyou_na_bouken hunter_x_hunter megami_magazine
 ?nakamachi_arale -> bang_dream! bang_dream!_yumemita bang_dream!_our_notes bang_dream!_girls_band_party! ganso!_bang_dream_chan kamen_rider kamen_rider_zeztz_(series) sakanaction wasurerarenaino
+?nakamachi_arale_(real) -> bang_dream! bang_dream!_yumemita bang_dream!_our_notes kamen_rider kamen_rider_zeztz_(series) lower_(vocaloid) jojo_no_kimyou_na_bouken hunter_x_hunter shoujo_kageki_revue_starlight
