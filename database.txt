@@ -1833,3 +1833,4 @@
 ?tomioka_giyuu -> kimetsu_no_yaiba kimetsu_gakuen original pokemon final_fantasy final_fantasy_vii chainsaw_man shounen_jump jujutsu_kaisen fate_(series)
 ?belfast_(azur_lane) -> azur_lane kantai_collection blue_archive original azur_lane:_slow_ahead pizza_hut fate_(series) fate/grand_order idolmaster idolmaster_cinderella_girls
 ?belfast_(retrofit)_(azur_lane) -> azur_lane umamusume
+?m4_sopmod_ii_(girls'_frontline) -> arknights kantai_collection azur_lane helltaker metal_gear_(series) mario_(series) cyberpunk_(series)
