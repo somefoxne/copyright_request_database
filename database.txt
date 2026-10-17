@@ -4078,3 +4078,4 @@
 ?forever_young_(racing)_(umamusume) -> umamusume real_life dc_comics monster_hunter_(series) formula_one justice_league payday_(series) payday_2 justice_league_(movie) original
 ?sakai_ryusei -> umamusume real_life
 ?houshou_marine_(1st_costume) -> hololive hololive_english hololive_indonesia nijisanji hololive_dev_is indie_virtual_youtuber original touhou
+?belyi_tsar_(genshin_impact) -> genshin_impact
