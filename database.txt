@@ -2703,3 +2703,4 @@
 ?elpeo_puru -> gundam gundam_zz gundam_unicorn zeta_gundam mobile_suit_gundam gundam_f91 g_gundam gundam_0083 victory_gundam
 ?judau_ashta -> gundam gundam_zz zeta_gundam mobile_suit_gundam gundam_unicorn turn_a_gundam gundam_00 gundam_f91
 ?yuki_miku_(2027) -> vocaloid magical_mirai_(vocaloid) vampire_(vocaloid) shinkai_shoujo_(vocaloid) ura-omote_lovers_(vocaloid)
+?yuki_miku_(2027)_(applicant) -> vocaloid
