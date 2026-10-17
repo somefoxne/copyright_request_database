@@ -1302,3 +1302,4 @@
 ?sekiryumon -> digimon digimon_eggs
 ?suzumon -> digimon digimon_eggs coca-cola
 ?stasis -> armored_core armored_core:_for_answer touhou gundam jujutsu_kaisen gundam_gquuuuuux fromsoftware suibotsu_ouji_ga_gensou_iri
+?type-lahire -> armored_core armored_core:_for_answer touhou gundam jujutsu_kaisen gundam_gquuuuuux fromsoftware suibotsu_ouji_ga_gensou_iri
