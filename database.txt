@@ -1044,3 +1044,4 @@
 ?kotemon -> digimon digimon_adventure digimon_adventure_02 digimon_tamers digimon_frontier digimon_xros_wars digimon_savers digimon_world digimon_world_3 original
 ?saigyouji_yuyuko -> touhou perfect_cherry_blossom touhou_(pc-98) imperishable_night reitaisai ten_desires pokemon touhou_tag_dream touhou_lostword kirby_(series)
 ?lida_(pokemon) -> pokemon pokemon_legends:_z-a pokemon_x_and_y pokemon_scarlet_and_violet original pokemon_legends:_arceus pokemon_omega_ruby_and_alpha_sapphire pokemon_ruby/sapphire/emerald pokemon_sword_and_shield
+?naveen_(pokemon) -> pokemon pokemon_legends:_z-a pokemon_scarlet_and_violet pokemon_sword_and_shield pokemon_legends:_arceus pokemon_x_and_y original pokemon_ruby/sapphire/emerald pokemon_(anime) pokemon_sun_and_moon
