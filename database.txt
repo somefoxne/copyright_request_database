@@ -2860,3 +2860,4 @@
 ?mori_calliope_(sheriff) -> hololive hololive_english hololive_indonesia hololive_grand_theft_auto tsukihime hololive_dev_is grand_theft_auto grand_theft_auto_v evil_west dc_comics
 ?shinonome_ena -> project_sekai vocaloid zozotown sanrio my_melody_(series) salamander_(vocaloid) alien_stage kowareta_sekai_to_utaenai_miku gehenna_(vocaloid) cat_loving_(cevio)
 ?kamado_tanjirou -> kimetsu_no_yaiba kimetsu_gakuen boku_no_hero_academia pokemon one_piece jujutsu_kaisen sekiro:_shadows_die_twice shounen_jump original naruto_(series)
+?biko_pegasus_(choi_waru_hero_kenzan!)_(umamusume) -> umamusume
