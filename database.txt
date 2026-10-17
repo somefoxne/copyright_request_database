@@ -1803,3 +1803,4 @@
 ?irys_(hololive) -> hololive hololive_english hololive_indonesia hololive_dev_is enigmatic_recollection minecraft pokemon umamusume hololive_grand_theft_auto original
 ?ange_katrina -> nijisanji page_of_lambda hololive nijisanji_koshien pokemon nijisanji_en nijisanji_kr cherry_pop_(vocaloid) indie_virtual_youtuber vampire_(vocaloid)
 ?ange_katrina_(1st_costume) -> nijisanji vampire_(vocaloid) hololive pokemon minecraft propose_(natori) nijisanji_kr nijisanji_en indie_virtual_youtuber danganronpa_(series)
+?sherlock_holmes -> the_adventures_of_sherlock_holmes touhou kantai_collection sherlock_(bbc) meitantei_conan hololive hololive_english original fate_(series) fate/grand_order
