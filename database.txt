@@ -2477,3 +2477,4 @@
 ?saijo_claudine -> shoujo_kageki_revue_starlight shoujo_kageki_revue_starlight_-re_live- bang_dream! bang_dream!_girls_band_party! toji_no_miko umamusume real_life fire_emblem d4dj toji_no_miko:_kizamishi_issen_no_tomoshibi
 ?fusaichi_pandora_(assorted_cuteness)_(umamusume) -> umamusume original blue_archive precure jojo_no_kimyou_na_bouken meitantei_precure! cygames
 ?dan'in-san_(shirogane_noel) -> hololive hololive_dreams hololive_english hololive_official_card_game hololive_indonesia holohoneygaoka_koukou chainsaw_man the_legend_of_zelda dragon_ball dragon_ball_z
+?natsu_(band)_(blue_archive) -> blue_archive the_beatles whiplash_(2014_movie) bocchi_the_rock! real_life abbey_road please_please_me k-on! black_lagoon 2channel
