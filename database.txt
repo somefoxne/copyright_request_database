@@ -2494,3 +2494,4 @@
 ?cha_cha_(vtuber) -> indie_virtual_youtuber gamer_supps vedal_ai grand_theft_auto grand_theft_auto_vi final_fantasy chainsaw_man final_fantasy_vii mario_(series) nier_(series)
 ?katsuragi_izumi_(swimsuit) -> love_live! love_live!_hasu_no_sora_jogakuin_school_idol_club comiket_108 hachiban_ramen
 ?coraline_(black_survival) -> black_survival eternal_return:_black_survival daejeon_autoarms
+?ashal_(mansu) -> original rainbow_six_siege
