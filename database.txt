@@ -2064,3 +2064,4 @@
 ?idoll_ocean_(nikke) -> goddess_of_victory:_nikke comiket_107
 ?jin_(nikke) -> goddess_of_victory:_nikke
 ?mary_(medical_rabbit)_(nikke) -> goddess_of_victory:_nikke project_moon limbus_company original azur_lane f-ism blue_archive pokemon fate_(series) hololive
+?milk_(blooming_bunny)_(nikke) -> goddess_of_victory:_nikke original nijisanji bang_dream! nijisanji_en ryuu_ga_gotoku_(series) james_bond_(series) for_your_eyes_only_(james_bond)
