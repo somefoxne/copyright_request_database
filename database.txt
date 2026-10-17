@@ -1205,3 +1205,4 @@
 ?ye_shunguang -> zenless_zone_zero mihoyo honkai_(series) honkai:_star_rail genshin_impact jujutsu_kaisen pokemon umamusume meiji_(brand) honkai_impact_3rd
 ?ye_shunguang_(touch_of_dawnlight) -> zenless_zone_zero meiji_(brand) genshin_impact mihoyo crayon_shin-chan google google_search nohara_hiroshi_hirumeshi_no_ryuugi
 ?umbrella_sheep_(arknights) -> arknights
+?yae_sakura -> honkai_(series) honkai_impact_3rd mihoyo genshin_impact honkai_gakuen honkai:_star_rail comiket_96 zenless_zone_zero arknights fate_(series)
