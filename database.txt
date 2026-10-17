@@ -1174,3 +1174,4 @@
 ?ushizaki_urumi_(ushi_oni) -> touhou
 ?aoyagi_touya -> project_sekai vocaloid sanrio zozotown booo!_(vocaloid) beat_eater_(vocaloid) ensemble_stars! shanti_(vocaloid) akuma_no_odorikata_(vocaloid) traffic_jam_(vocaloid)
 ?sakuraba_ema -> mahou_shoujo_no_majo_saiban book_off karaoke_manekineko treasure_cafe poker_chase comiket_108 mahou_shoujo_no_inshuu_mura aquarium_wa_odoranai mahou_shoujo_madoka_magica danganronpa_(series)
+?yuuka_(pajamas)_(blue_archive) -> blue_archive comiket_106 comiket_105 blue_archive_the_animation pokemon fire_emblem fire_emblem:_mystery_of_the_emblem manatsu_no_yo_no_inmu monitoring_(vocaloid) one_piece
