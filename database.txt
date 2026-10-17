@@ -1197,3 +1197,4 @@
 ?sakurauchi_riko -> love_live! love_live!_sunshine!! love_live!_school_idol_project love_live!_school_idol_festival genjitsu_no_yohane love_live!_nijigasaki_high_school_idol_club kimi_no_kokoro_wa_kagayaiteru_kai? real_life love_live!_superstar!! love_live!_school_idol_festival_all_stars
 ?fujimaru_ritsuka_(male) -> fate_(series) fate/grand_order fate/extra fate/apocrypha fate/stay_night fate/extra_ccc fate/zero original fate/kaleid_liner_prisma_illya koha-ace
 ?hassan_of_serenity_(fate) -> fate_(series) fate/prototype fate/prototype:_fragments_of_blue_and_silver fate/grand_order fate/zero fate/kaleid_liner_prisma_illya fate/stay_night fate/apocrypha fate/strange_fake fate/grand_order_waltz_in_the_moonlight/lostroom
+?kiyohime_(fate) -> fate_(series) fate/grand_order fate/extra fate/extra_ccc fate/stay_night fate/apocrypha learning_with_manga!_fgo koha-ace kantai_collection fate/zero
