@@ -1886,3 +1886,4 @@
 ?ultraman_trigger_(power_type) -> ultra_series ultraman_trigger_(series) ultraman_z_(series) ultraman_tiga_(series) kaijuu_step
 ?ultraman_trigger_(sky_type) -> ultra_series ultraman_trigger_(series) ultraman_tiga_(series) ultraman_z_(series) ultraman_decker_(series)
 ?nami_(bokujou_monogatari) -> bokujou_monogatari bokujou_monogatari:_wonderful_life
+?shiro_(no_game_no_life) -> no_game_no_life kantai_collection fate_(series) vocaloid original sword_art_online fate/kaleid_liner_prisma_illya kobayashi-san_chi_no_maidragon divine_gate idolmaster
