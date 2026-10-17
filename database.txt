@@ -1007,3 +1007,4 @@
 ?kitasan_black_(gilded_shrine_to_glory)_(umamusume) -> umamusume real_life original kamen_rider umamusume:_cinderella_gray umamusume:_road_to_the_top love_live! bocchi_the_rock! love_live!_nijigasaki_high_school_idol_club comiket_100
 ?kitasan_black_(umamusume) -> umamusume real_life original umamusume:_cinderella_gray bocchi_the_rock! kamen_rider gintama sega pokemon love_live!
 ?rice_shower_(rosy_dreams)_(umamusume) -> umamusume original kantai_collection fate_(series) real_life jojo_no_kimyou_na_bouken pokemon comiket_100 blue_archive idolmaster
+?rice_shower_(umamusume) -> umamusume kantai_collection umamusume:_road_to_the_top real_life pikmin_(series) blue_archive pokemon fate_(series) pacific_racing_team pikmin_bloom
