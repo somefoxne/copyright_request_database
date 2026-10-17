@@ -2778,3 +2778,4 @@
 ?south_korea_(kokkimusume) -> kokkimusume world_cup 2026_fifa_world_cup manatsu_no_yo_no_inmu pokemon dragon_ball pokemon_(anime) jujutsu_kaisen bleach chiikawa
 ?komaki_midori -> devil_survivor_(series) devil_survivor_1 megami_tensei persona persona_4 persona_3 shin_megami_tensei fire_emblem macross macross_frontier
 ?takagi_keisuke -> devil_survivor_(series) devil_survivor_1 megami_tensei touhou shin_megami_tensei durarara!! atlus
+?hieda_no_akyuu -> touhou touhou_(pc-98) forbidden_scrollery touhou_tag_dream touhou_lostword embodiment_of_scarlet_devil imperishable_night perfect_cherry_blossom undefined_fantastic_object mountain_of_faith
