@@ -1813,3 +1813,4 @@
 ?dynamo_(deadlock) -> deadlock_(game)
 ?eagle_(reverse:1999) -> reverse:1999 lawson the_shining
 ?silverwing_eagle -> reverse:1999
+?ishikawa_anna_(gwan-e) -> original
