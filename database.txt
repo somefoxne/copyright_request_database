@@ -1212,3 +1212,4 @@
 ?char_aznable -> gundam mobile_suit_gundam zeta_gundam gundam_gquuuuuux mobile_suit_gundam_the_origin gundam_zz gundam_unicorn gundam_seed
 ?haman_karn -> gundam zeta_gundam gundam_zz mobile_suit_gundam arasa_ol_haman-sama gundam_seed gundam_seed_destiny precure
 ?kamille_bidan -> gundam zeta_gundam gundam_zz mobile_suit_gundam gundam_wing gundam_unicorn gundam_00 gundam_seed g_gundam
+?quattro_bajeena -> gundam zeta_gundam mobile_suit_gundam gundam_zz gundam_gquuuuuux gundam_unicorn umamusume kantai_collection super_robot_wars
