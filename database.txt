@@ -3905,3 +3905,4 @@
 ?tendou_akane -> ranma_1/2 urusei_yatsura inuyasha ranma_1/2_kessen_tougenkyou!_hanayome_wo_torimodose! kyoukai_no_rinne maison_ikkoku mao_(takahashi_rumiko) pokemon romeo_and_juliet cardcaptor_sakura
 ?steve_(minecraft) -> minecraft super_smash_bros. mario_(series) final_fantasy final_fantasy_vii pokemon kirby_(series) persona xenoblade_chronicles_(series) arms_(game)
 ?usada_pekora_(1st_costume) -> hololive hololive_indonesia hololive_english minecraft hololive_dev_is pokemon dragon_ball hololive_alternative original dragon_quest
+?nanami_chiaki -> danganronpa_(series) danganronpa_2:_goodbye_despair danganronpa:_trigger_happy_havoc danganronpa_v3:_killing_harmony tetris sanrio my_melody_(series) danganronpa_another_episode:_ultra_despair_girls
