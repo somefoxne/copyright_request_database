@@ -1354,3 +1354,4 @@
 ?akiyama_mizuki -> project_sekai vocaloid zozotown sanrio id_smile_(vocaloid) alien_stage gehenna_(vocaloid) my_melody_(series) bake_no_hana_(vocaloid) kitty_(vocaloid)
 ?kei_(student)_(blue_archive) -> blue_archive comiket_108 jujutsu_kaisen minecraft meccha_chameleon kantai_collection protocol_supernova trickcal neon_genesis_evangelion fancy_frontier_47
 ?togawa_nonoha -> nijisanji yi_er_fan_club_(vocaloid) nijisanji_en duel_masters nijisanji_kr nijisanji_id migikata_no_chou_(vocaloid)
+?togawa_nonoha_(1st_costume) -> nijisanji nijisanji_en duel_masters nijisanji_kr nijisanji_id
