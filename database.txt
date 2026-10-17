@@ -1018,3 +1018,4 @@
 ?silver_(deadlock) -> deadlock_(game) overwatch animal_crossing courage_the_cowardly_dog twilight_(series)
 ?vyper_(deadlock) -> deadlock_(game) titanic_(movie)
 ?eishin_flash_(meisterschaft)_(umamusume) -> umamusume kantai_collection fate_(series) real_life pokemon idolmaster umamusume:_cinderella_gray akari_ga_yatte_kitazo_(vocaloid) umamusume:_road_to_the_top deutsche_tourenwagen_masters
+?eishin_flash_(umamusume) -> umamusume world_cup real_life 2022_fifa_world_cup kantai_collection original umamusume:_cinderella_gray 2026_fifa_world_cup grappler_baki pokemon
