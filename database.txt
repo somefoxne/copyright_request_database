@@ -3864,3 +3864,4 @@
 ?suigintou -> rozen_maiden gundam suzumiya_haruhi_no_yuuutsu higurashi_no_naku_koro_ni touhou original fate_(series) lyrical_nanoha gundam_seed shakugan_no_shana
 ?he_cheng -> 19_tian original
 ?qiu_(19_tian) -> 19_tian original
+?giovanna_(guilty_gear) -> guilty_gear guilty_gear_strive street_fighter blazblue arc_system_works the_king_of_fighters marvel street_fighter_6 dc_comics marvel_rivals
