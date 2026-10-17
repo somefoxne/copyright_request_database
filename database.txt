@@ -4116,3 +4116,4 @@
 ?green_soul_(utdr) -> utdr_(toby_fox) undertale deltarune touhou original suishitai_wa_koi_shitai_(vocaloid) mahou_shoujo_madoka_magica jojo_no_kimyou_na_bouken omori sonic_(series)
 ?orange_soul_(utdr) -> utdr_(toby_fox) undertale deltarune touhou original suishitai_wa_koi_shitai_(vocaloid) mahou_shoujo_madoka_magica jojo_no_kimyou_na_bouken omori sonic_(series)
 ?purple_soul_(utdr) -> utdr_(toby_fox) undertale deltarune touhou original cutie_mew_mew_magic_(deltarune) suishitai_wa_koi_shitai_(vocaloid) vocaloid mahou_shoujo_madoka_magica jojo_no_kimyou_na_bouken
+?red_soul_(utdr) -> utdr_(toby_fox) deltarune undertale touhou omori alien_stage yume_nikki off_(game) ib_(kouri) sonic_(series)
