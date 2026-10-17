@@ -4276,3 +4276,4 @@
 ?meowscarada -> pokemon pokemon_scarlet_and_violet pokemon_(anime) pokemon_horizons original pokemon_unite pokemon_cafe_remix digimon pokemon:_paldean_winds pokemon_sword_and_shield
 ?shirogane_takeru -> muv-luv muv-luv_alternative muv-luv_alternative_(anime) muv-luv_unlimited:_the_day_after muv-luv_altered_fable muv-luv_girls_garden muv-luv:_dimensions fate_(series) mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime)
 ?type-00c_(muv-luv) -> muv-luv muv-luv_alternative muv-luv_unlimited:_the_day_after original alice_gear_aegis frame_arms_girl valgern-on
+?type_00_takemikazuchi -> muv-luv muv-luv_alternative muv-luv_total_eclipse muv-luv_alternative_(anime) muv-luv_unlimited:_the_day_after original alice_gear_aegis frame_arms_girl touhou indie_virtual_youtuber
