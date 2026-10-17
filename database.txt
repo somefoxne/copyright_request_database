@@ -2625,3 +2625,4 @@
 ?qingming_bird_(zenless_zone_zero) -> zenless_zone_zero honkai_(series) mihoyo honkai_impact_3rd genshin_impact touhou arknights azur_lane honkai:_star_rail yu-gi-oh!
 ?rose_kingdom_(eclat_de_roseraie)_(umamusume) -> umamusume cygames versailles_no_bara the_weaker_sex_1_(gibson)
 ?shito_alisa -> mahou_shoujo_no_majo_saiban karaoke_manekineko aschenputtel_(manosaba) treasure_cafe comiket_108 touhou bang_dream! puyopuyo book_off
+?acheron_(ambush)_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail
