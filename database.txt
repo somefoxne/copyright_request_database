@@ -1420,3 +1420,4 @@
 ?okita_souji_(second_ascension)_(fate) -> fate_(series) fate/grand_order koha-ace fate/stay_night drifters fate/extra fate/apocrypha golden_kamuy gag_manga_biyori kantai_collection
 ?ootori_hinata -> project_sekai vocaloid ego_rock_(vocaloid)
 ?kigurumi-san_(project_sekai) -> project_sekai vocaloid blank_room_soup ego_rock_(vocaloid)
+?elira_pendora -> nijisanji nijisanji_en nijisanji_kr hololive nijisanji_id xenoblade_chronicles_(series) hololive_english pokemon indie_virtual_youtuber hololive_indonesia
