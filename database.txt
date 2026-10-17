@@ -1202,3 +1202,4 @@
 ?minamoto_no_raikou_(fate) -> fate_(series) fate/grand_order fate/extra fate/stay_night fate/apocrypha fate/samurai_remnant fate/extra_ccc pokemon original genshin_impact
 ?tiamat_(fate) -> fate_(series) fate/grand_order fate/grand_order_arcade original granblue_fantasy fate/stay_night fate/extra arknights fate/extra_ccc shuumatsu_no_valkyrie
 ?keira_hagai -> jak_and_daxter psm final_fantasy mega_man_(series) star_ocean mega_man_legends_(series) final_fantasy_xvi final_fantasy_xv senjou_no_valkyria_(series) star_ocean:_the_second_story
+?ye_shunguang -> zenless_zone_zero mihoyo honkai_(series) honkai:_star_rail genshin_impact jujutsu_kaisen pokemon umamusume meiji_(brand) honkai_impact_3rd
