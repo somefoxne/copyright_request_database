@@ -2055,3 +2055,4 @@
 ?alice_(nikke) -> goddess_of_victory:_nikke touhou blue_archive original stellar_blade pokemon chainsaw_man fate_(series) zenless_zone_zero nijisanji
 ?alice_(wonderland_bunny)_(nikke) -> goddess_of_victory:_nikke azur_lane sin:_nanatsu_no_taizai
 ?bay_(nikke) -> goddess_of_victory:_nikke blue_archive hololive hololive_english zozotown fate_(series) genshin_impact fate/grand_order umamusume project_moon
+?bay_(radiant_rabbit)_(nikke) -> goddess_of_victory:_nikke fate_(series) hololive fate/grand_order hololive_english umamusume blue_archive va-11_hall-a
