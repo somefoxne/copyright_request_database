@@ -3319,3 +3319,4 @@
 ?niijima_makoto -> persona persona_5 persona_5_the_royal persona_3 persona_dancing persona_5:_dancing_star_night persona_4 persona_5_scramble:_the_phantom_strikers goddess_of_victory:_nikke persona_3_portable
 ?queen_(persona_5) -> persona persona_5 persona_5_the_royal goddess_of_victory:_nikke persona_3 persona_4 akira_(manga) persona_5_scramble:_the_phantom_strikers super_smash_bros. persona_5_tactica
 ?lucca_(afk) -> afk_(series) afk_journey
+?mr._house -> fallout fallout:_new_vegas touhou kantai_collection blue_archive invincible_(series) unconnected_marketeers antinomy_of_common_flowers comiket_93
