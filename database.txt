@@ -2840,3 +2840,4 @@
 ?yuki_miku_(2012) -> vocaloid project_diva_(series) magical_mirai_(vocaloid) goodsmile_company goodsmile_racing world_is_mine_(vocaloid) shinkai_shoujo_(vocaloid) unknown_mother_goose_(vocaloid) suki!_yuki!_maji_magic_(vocaloid) akari_ga_yatte_kitazo_(vocaloid)
 ?sato_misaki_(wryyyyy) -> original
 ?sato_sakura_(wryyyyy) -> original
+?sakuragi_haru_(kyutai_x) -> original
