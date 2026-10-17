@@ -2533,3 +2533,4 @@
 ?himeko_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail honkai_impact_3rd mihoyo genshin_impact zenless_zone_zero fate_(series) honkai_gakuen original pokemon
 ?ouro_kronii_(1st_costume) -> hololive hololive_english hololive_indonesia minecraft enigmatic_recollection hololive_dev_is marvel jojo_no_kimyou_na_bouken chrono_gear:_warden_of_time holostars
 ?admiral_(kancolle) -> kantai_collection aoki_hagane_no_arpeggio gundam pokemon mario_(series) dragon_ball fate_(series) dragon_ball_z lawson transformers
+?musashi_(kancolle) -> kantai_collection original azur_lane line_(naver) pokemon aoki_hagane_no_arpeggio fate_(series) fate/grand_order gundam touhou
