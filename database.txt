@@ -3835,3 +3835,4 @@
 ?kanroji_mitsuri -> kimetsu_no_yaiba kimetsu_gakuen fate_(series) pokemon sousou_no_frieren spy_x_family original blue_archive one_piece boku_no_hero_academia
 ?shinonome_nano -> nichijou lucky_star kyoto_animation azumanga_daioh mahou_shoujo_madoka_magica gundam mahou_shoujo_madoka_magica_(anime) suzumiya_haruhi_no_yuuutsu kill_me_baby vocaloid
 ?phi_(kyokugen_dasshutsu) -> kyokugen_dasshutsu kyokugen_dasshutsu_adv:_zennin_shibou_desu zero_escape:_toki_no_dilemma kyokugen_dasshutsu:_9_jikan_9_nin_9_no_tobira pokemon danganronpa_(series) ai_the_somnium_files persona danganronpa_2:_goodbye_despair ai_the_somnium_files:_nirvana_initiative
+?kaedehara_kazuha -> genshin_impact mihoyo honkai_(series) honkai:_star_rail zenless_zone_zero sekiro:_shadows_die_twice honkai_impact_3rd wizarding_world harry_potter_(series)
