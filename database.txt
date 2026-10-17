@@ -2172,3 +2172,4 @@
 ?yuki_miku_(2010) -> vocaloid magical_mirai_(vocaloid) project_diva_(series) miku_symphony_(vocaloid) piapro_studio koi_wa_sensou_(vocaloid) hatsune_miku_happy_16th_birthday_-dear_creators- project_sekai black_rock_shooter world_is_mine_(vocaloid)
 ?aizawa_shota -> boku_no_hero_academia vigilante_-boku_no_hero_academia:_illegals- pokemon marvel pirates_of_the_caribbean jojo_no_kimyou_na_bouken jujutsu_kaisen mega_man_(series) kirby_(series) dc_comics
 ?tsukishima_kirari -> kirarin_revolution precure sanrio futari_wa_precure gundam lyrical_nanoha suzumiya_haruhi_no_yuuutsu higurashi_no_naku_koro_ni mahou_shoujo_lyrical_nanoha to_heart_(series)
+?captain_(honkai_impact) -> honkai_(series) honkai_impact_3rd honkai:_star_rail mihoyo genshin_impact comiket_96 honkai_gakuen original zenless_zone_zero fate_(series)
