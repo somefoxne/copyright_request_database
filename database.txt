@@ -3972,3 +3972,4 @@
 ?takamachi_yukino -> chu_x_chu_idol chu_x_chu_idol_2
 ?luminous_valentine -> tensei_shitara_slime_datta_ken touhou
 ?agria_(midsummer_girl)_(tales) -> tales_of_(series) tales_of_xillia tales_of_the_rays tales_of_asteria
+?agria_(tales) -> tales_of_(series) tales_of_xillia tales_of_asteria tales_of_the_rays tales_of_xillia_2 idolmaster idolmaster_million_live! tales_of_the_abyss bandai_namco tales_of_graces
