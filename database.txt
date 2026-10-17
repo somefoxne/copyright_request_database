@@ -2028,3 +2028,4 @@
 ?clear_(djmax) -> djmax djmax_respect blue_archive original pokemon muse_dash touhou arknights vocaloid
 ?ribombee -> pokemon pokemon_sun_and_moon pokemon_masters_ex pokemon_sword_and_shield pokemon_(anime) pokemon_ultra_sun_and_ultra_moon pokemon_the_series:_sun_&_moon pokemon_scarlet_and_violet vocaloid project_voltage
 ?sonia_(pokemon) -> pokemon pokemon_sword_and_shield pokemon_masters_ex pokemon:_twilight_wings pokemon_(anime) pokemon_journeys pokemon_scarlet_and_violet pokemon_sun_and_moon pokemon_black_and_white pokemon_diamond/pearl/platinum
+?t.m._opera_o_(o_sole_suo!)_(umamusume) -> umamusume umamusume:_road_to_the_top umamusume:_beginning_of_a_new_era real_life original umamusume:_cinderella_gray jojo_no_kimyou_na_bouken akari_ga_yatte_kitazo_(vocaloid) amazon_(company) tombow_mono
