@@ -2759,3 +2759,4 @@
 ?komurasaki_momoka -> shine_post laugh_diamond youtube voisona
 ?shioriha_ruri -> nijisanji nijisanji_en niginigi_nijitown nijisanji_kr nijisanji_koshien virtual_talent_academy blue_archive monitoring_(vocaloid) idolmaster monster_hunter_(series)
 ?kurogane_ren -> shine_post
+?araime_yasuri -> alice_gear_aegis frame_arms_girl pokemon
