@@ -2604,3 +2604,4 @@
 ?trevenant -> pokemon pokemon_x_and_y pokemon_sun_and_moon pokemon_(anime) pokemon_sword_and_shield vocaloid pokemon_diamond/pearl/platinum project_voltage pokemon_black_and_white pokemon_ruby/sapphire/emerald
 ?zubat -> pokemon pokemon_(anime) pokemon_red/green/blue/yellow pokemon_heartgold_and_soulsilver pokemon_firered_and_leafgreen pokemon_diamond/pearl/platinum pokemon_sun_and_moon pokemon_(classic_anime) pokemon_ruby/sapphire/emerald pokemon_omega_ruby_and_alpha_sapphire
 ?gentildonna_(regina_dei_fiori)_(umamusume) -> umamusume real_life dragon_ball original dragon_ball_z comiket_107 fate_(series) fate/stay_night grappler_baki japan_racing_association
+?absol -> pokemon original pokemon_unite pokemon_ruby/sapphire/emerald pokemon_omega_ruby_and_alpha_sapphire pokemon_tcg pokemon_(anime) pokemon_x_and_y touhou pokemon_black_and_white
