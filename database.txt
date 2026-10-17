@@ -2718,3 +2718,4 @@
 ?norman_(yakusoku_no_neverland) -> yakusoku_no_neverland identity_v original spy_x_family wizarding_world harry_potter_(series) mr._and_mrs._smith pokemon genshin_impact
 ?ray_(yakusoku_no_neverland) -> yakusoku_no_neverland identity_v original pokemon genshin_impact inazuma_eleven_(series) hunter_x_hunter wizarding_world harry_potter_(series)
 ?kuchiba_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail fate_(series) zenless_zone_zero fate/stay_night fate/strange_fake fate/unlimited_blade_works psycho-pass
+?rusk_(komado_booth) -> vrchat original pokemon sanrio my_melody_(series) nirvana_(band) nevermind
