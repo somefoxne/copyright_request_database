@@ -4098,3 +4098,4 @@
 ?kamen_rider_zero-one_(shining_assault_hopper) -> kamen_rider kamen_rider_01_(series) super_robot_wars zenonzard kamen_rider:_reiwa_the_first_generation kamen_rider_zero-one:_real_time
 ?kamen_rider_zero-one_(shining_hopper) -> kamen_rider kamen_rider_01_(series) battle_spirits original super_robot_wars kamen_rider:_reiwa_the_first_generation kamen_rider_zero-one:_real_time
 ?kamen_rider_zero-two -> kamen_rider kamen_rider_01_(series) kamen_rider_zero-one:_real_time kamen_rider_dcd kamen_rider_ex-aid_(series) kamen_rider_gotchard_(series) blue_archive umamusume kamen_rider_w kamen_rider_ooo_(series)
+?kamen_rider_zerozero-one -> kamen_rider kamen_rider_01_(series) kamen_rider:_reiwa_the_first_generation super_robot_wars toei_company kikaider_(series) kamen_rider_zero-one:_real_time
