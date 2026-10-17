@@ -1491,3 +1491,4 @@
 ?guillotine_devil_(chainsaw_man) -> chainsaw_man
 ?nonna_(girls_und_panzer) -> girls_und_panzer girls_und_panzer_motto_love_love_sakusen_desu! girls_und_panzer_senshadou_daisakusen! gekitotsu!_joshikousei_oiroke_sensha_gundan kantai_collection girls_und_panzer:_atsumare!_minna_no_senshadou!! touhou megami_magazine urusei_yatsura world_of_tanks
 ?levi_(fear_&_hunger) -> fear_&_hunger_(series) fear_&_hunger_2:_termina fear_&_hunger_1 chainsaw_man pokemon original touhou vocaloid mahou_shoujo_madoka_magica project_moon
+?lord_of_dark_blade_(all_wishes_come_true!) -> all_wishes_come_true! pokemon new_gods:_yang_jian
