@@ -2434,3 +2434,4 @@
 ?billy_coen -> resident_evil resident_evil_0 resident_evil_2 resident_evil_4 resident_evil_1 resident_evil_6 resident_evil_5 resident_evil_-_code:_veronica resident_evil_3:_nemesis hololive
 ?kayoko_(dress)_(blue_archive) -> blue_archive rance_(series) comiket_104 rance_x james_bond_(series) blue_archive_the_animation idolmaster original pokemon hololive
 ?blanchet_(trickcal) -> trickcal kamen_rider kamen_rider_kabuto_(series) bokete kamen_rider_kabuto:_god_speed_love
+?shirayuki_noa -> tenshi_souzou_re-boot! yuzusoft cafe_stella_to_shinigami_no_chou senren_banka riddle_joker sanoba_witch comiket_104 amairo_islenauts coca-cola dracu-riot!
