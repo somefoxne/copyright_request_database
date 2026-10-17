@@ -3612,3 +3612,4 @@
 ?isolte_cruel -> mushoku_tensei
 ?shisui_michiru -> phase_connect danganronpa_(series) little_red_riding_hood_(fairy_tale) invincible_(series) frankenstein eve_(musician) inochi_no_tabekata
 ?shisui_michiru_(gluttony) -> phase_connect eve_(musician) inochi_no_tabekata
+?mugen_mochi -> indie_virtual_youtuber original comic_lo
