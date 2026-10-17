@@ -2457,3 +2457,4 @@
 ?joseph_frost -> resident_evil resident_evil_1 resident_evil_0
 ?kenneth_j._sullivan -> resident_evil resident_evil_1 original resident_evil_0
 ?richard_aiken -> resident_evil resident_evil_1 resident_evil_0
+?asaga_(i3if3b) -> original genshin_impact
