@@ -4270,3 +4270,4 @@
 ?nishida_satono -> touhou hidden_star_in_four_seasons touhou_(pc-98) touhou_lostword taboo_japan_disentanglement perfect_cherry_blossom legacy_of_lunatic_kingdom ten_desires double_dealing_character touhou_bougetsushou
 ?kougetsu_(ishiyumi) -> original mechanical_buddy_universe
 ?kougetsu_shinzou_(ishiyumi) -> original mechanical_buddy_universe
+?otsugetsu_(mechanical_buddy_universe) -> mechanical_buddy_universe
