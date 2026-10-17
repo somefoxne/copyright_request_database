@@ -1274,3 +1274,4 @@
 ?rolling_turtle -> kirby_(series) nintendo kirby_64 kirby_and_the_forgotten_land kirby_star_allies kirby_air_ride kirby_super_star kirby:_planet_robobot
 ?lara_(sayonara_lara) -> sayonara_lara kinema_citrus the_little_mermaid_(disney) the_lovers_(studio_heartbreak) gundam cho_kaguya-hime! chiikawa genshin_impact honkai_(series) gundam_suisei_no_majo
 ?ootsu_mari -> sayonara_lara kinema_citrus the_little_mermaid_(disney) the_lovers_(studio_heartbreak) chiikawa genshin_impact honkai_(series) gundam cho_kaguya-hime! gundam_suisei_no_majo
+?flandre_scarlet -> touhou embodiment_of_scarlet_devil touhou_lostword reitaisai touhou_(pc-98) pokemon original vocaloid touhou_tag_dream sunken_fossil_world
