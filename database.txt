@@ -3283,3 +3283,4 @@
 ?red_hood_(retro_days)_(nikke) -> goddess_of_victory:_nikke zenless_zone_zero indie_virtual_youtuber jujutsu_kaisen coca-cola green_day 21st_century_breakdown_(album)
 ?neptune_(neptunia) -> neptune_(series) choujigen_game_neptune kami_jigen_game_neptune_v shin_jigen_game_neptune_vii four_goddesses_online:_cyber_dimension_neptune choujigen_game_neptune_mk2 azur_lane choushinjiku_game_neptune_unlimited gekijigen_tag:_blanc_+_neptune_vs_zombie_gundan honkai_(series)
 ?amy_rose -> sonic_(series) sonic_the_hedgehog_(classic) sonic_the_hedgehog_(idw) the_murder_of_sonic_the_hedgehog sonic_boom_(series) sonic_adventure sonic_forces:_speed_battle sonic_frontiers sonic_riders_(series) vocaloid
+?mira_ormana_(anparu) -> original
