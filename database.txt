@@ -2299,3 +2299,4 @@
 ?kashima_(kancolle) -> kantai_collection lawson original idolmaster gundam idolmaster_cinderella_girls azur_lane fate_(series) nier_(series) nier:automata
 ?kaga_nazuna -> vspo! digimon xross_stars indie_virtual_youtuber comiket_102 original nijisanji digimon_adventure crazy_raccoon vcr_gta
 ?kaga_nazuna_(8th_costume) -> vspo! sanrio zeta_division
+?tsumugi_kokage -> vspo! league_of_legends vcr_gta street_fighter xross_stars pokemon hololive nijisanji precure real_life
