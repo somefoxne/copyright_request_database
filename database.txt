@@ -3498,3 +3498,4 @@
 ?ereshkigal_(fate) -> fate_(series) fate/grand_order fate/stay_night fate/extra original bishoujo_senshi_sailor_moon fate/strange_fake fate/apocrypha pixiv_fate/grand_order_contest_2 fate/extra_ccc
 ?ereshkigal_alter_(fate) -> fate_(series) fate/grand_order fate/strange_fake original fate/stay_night fate/extra fate/zero inazuma_eleven_(series) fate/extra_ccc animal_crossing
 ?istaroth_(genshin_impact) -> genshin_impact honkai_(series) honkai:_star_rail mihoyo among_us original elden_ring elden_ring_nightreign doraemon
+?naberius_(genshin_impact) -> genshin_impact doraemon among_us youtube
