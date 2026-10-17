@@ -1883,3 +1883,4 @@
 ?irys_(race_queenrys)_(hololive) -> hololive hololive_english carbonated_love_(hololive) pokemon initial_d
 ?vertin_(reverse:1999) -> reverse:1999 ipstar atomic_heart project_moon limbus_company original umamusume
 ?gubira -> ultra_series ultraman_(1st_series) ultraseven_(series) gundam marvel kamen_rider getter_robo thor_(marvel)_(series) gundam_msv kamen_rider_v3_(series)
+?ultraman_trigger_(power_type) -> ultra_series ultraman_trigger_(series) ultraman_z_(series) ultraman_tiga_(series) kaijuu_step
