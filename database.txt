@@ -2089,3 +2089,4 @@
 ?kachou_fuugetsu_(onmyoji) -> onmyoji onmyoji:_the_card_game
 ?tamamo_no_mae_(onmyoji) -> onmyoji aotu_world pili_budaixi nishui_han fantasy_westward_journey
 ?shimiko_(magical)_(blue_archive) -> blue_archive densetsu.exe kantai_collection mahou_shoujo_ni_akogarete fate_(series) fate/grand_order honkai_(series) love_live! zenless_zone_zero precure
+?air_shakur_(unsigned)_(umamusume) -> umamusume real_life original umamusume:_road_to_the_top umamusume:_cinderella_gray help_me_erinnnnnn!! touhou pokemon idolmaster idolmaster_cinderella_girls
