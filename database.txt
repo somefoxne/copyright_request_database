@@ -3577,3 +3577,4 @@
 ?komazoi_eden -> alice_gear_aegis sousou_no_frieren dolphin_wave frame_arms_girl
 ?zani_(wuthering_waves) -> wuthering_waves pizza-la genshin_impact umamusume zenless_zone_zero lawson honkai_(series) honkai:_star_rail goddess_of_victory:_nikke
 ?haguro_(kancolle) -> kantai_collection original aoki_hagane_no_arpeggio gundam comiket_95 pokemon fate_(series) super_robot_wars touhou bishoujo_senshi_sailor_moon
+?haguro_kai_ni_(kancolle) -> kantai_collection original comiket_95 kabe_ni_hamatte_ugokenai! fate_(series) umamusume jojo_no_kimyou_na_bouken nintendo peach_(airline) azur_lane
