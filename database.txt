@@ -3252,3 +3252,4 @@
 ?akizuki_ryo -> idolmaster idolmaster_dearly_stars idolmaster_(classic) idolmaster_side-m idolmaster_cinderella_girls idolmaster_2 idolmaster_million_live! idolmaster_side-m_growing_stars idolmaster_1 idolmaster_va-liv
 ?hidaka_ai -> idolmaster idolmaster_dearly_stars idolmaster_(classic) idolmaster_cinderella_girls idolmaster_million_live! idolmaster_side-m idolmaster_va-liv idolmaster_1 idolmaster_2 idolmaster_shiny_colors
 ?mizutani_eri -> idolmaster idolmaster_dearly_stars idolmaster_(classic) idolmaster_cinderella_girls idolmaster_side-m idolmaster_va-liv idolmaster_million_live! idolmaster_1 idolmaster_2 idolmaster_live_for_you!
+?aotsuki_eito -> the_hundred_line_-last_defense_academy- tower_records danganronpa_(series) danganronpa_2:_goodbye_despair pokemon fate_(series) final_fantasy persona final_fantasy_xiv danganronpa_v3:_killing_harmony
