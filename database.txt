@@ -1182,3 +1182,4 @@
 ?leda_(fire_emblem) -> fire_emblem fire_emblem_heroes fire_emblem:_three_houses fire_emblem_engage fire_emblem_shadows final_fantasy final_fantasy_vii dragon_ball fire_emblem_fates
 ?olympia_iris -> fire_emblem fire_emblem:_three_houses
 ?anatolia_(fire_emblem) -> fire_emblem fire_emblem_fates resident_evil resident_evil_4 jojo_no_kimyou_na_bouken fire_emblem:_three_houses real_life vento_aureo fire_emblem:_the_sacred_stones
+?herta_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail genshin_impact mihoyo honkai_impact_3rd comiket_107 original fate_(series) comiket_106 hololive
