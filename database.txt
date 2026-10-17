@@ -1837,3 +1837,4 @@
 ?soppo_(girls'_frontline_2) -> kantai_collection arknights codename:_bakery_girl goddess_of_victory:_nikke metal_gear_(series) armored_core invincible_(series)
 ?narita_(kyata_ti666) -> kyatapi_land i_am_part-time_worker!! meitantei_conan the_ring it_(stephen_king) the_adventures_of_sherlock_holmes neon_genesis_evangelion dragon_ball resident_evil team_fortress_2
 ?seina_(kyata_ti666) -> kyatapi_land the_adventures_of_sherlock_holmes the_ring original meitantei_conan japanese_urban_legends it_(stephen_king) teikou_penguin jojo_no_kimyou_na_bouken the_legend_of_zelda
+?cai_castor -> fire_emblem fire_emblem_heroes fire_emblem:_three_houses minecraft mario_(series) fire_emblem:_genealogy_of_the_holy_war fire_emblem:_path_of_radiance fire_emblem:_the_binding_blade fire_emblem_warriors:_three_hopes
