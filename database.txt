@@ -2353,3 +2353,4 @@
 ?mizumori_yukine -> magical_explorer animate_(company) white_fox_(company)
 ?nanami_(magical_explorer) -> magical_explorer kono_subarashii_sekai_ni_shukufuku_wo! white_fox_(company)
 ?takioto_kousuke -> magical_explorer
+?zinogre -> monster_hunter_(series) monster_hunter_portable_3rd monster_hunter_rise pokemon monster_hunter:_world monster_hunter_3_g umamusume arknights hololive monster_hunter_x
