@@ -2153,3 +2153,4 @@
 ?cure_wonderful -> precure wonderful_precure! hirogaru_sky!_precure kimi_to_idol_precure kirakira_precure_a_la_mode mahou_tsukai_precure! tropical-rouge!_precure meitantei_precure! delicious_party_precure heartcatch_precure!
 ?inukai_iroha -> precure wonderful_precure! hirogaru_sky!_precure kimi_to_idol_precure tropical-rouge!_precure meitantei_precure! delicious_party_precure kirakira_precure_a_la_mode mahou_tsukai_precure! star_twinkle_precure
 ?inukai_komugi -> precure wonderful_precure! hirogaru_sky!_precure kimi_to_idol_precure tropical-rouge!_precure meitantei_precure! mahou_tsukai_precure! delicious_party_precure kirakira_precure_a_la_mode
+?kawakami_princess_(casual)_(umamusume) -> umamusume touhou
