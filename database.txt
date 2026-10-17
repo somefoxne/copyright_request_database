@@ -1381,3 +1381,4 @@
 ?sofia_(fire_emblem) -> fire_emblem
 ?agent_(girls'_frontline) -> doom_(series) doom_(2016) blue_archive va-11_hall-a team_fortress_2 jashin-chan_dropkick kantai_collection azur_lane
 ?odette_(genshin_impact) -> genshin_impact baskin-robbins honkai_(series) honkai:_star_rail mihoyo zenless_zone_zero sanrio frozen_(disney) chiikawa kakuchou_shoujo-kei_trinary
+?amaori_renako -> watashi_ga_koibito_ni_nareru_wake_naijan_murimuri! bang_dream! megami_magazine cho_kaguya-hime! love_live! kamen_rider bocchi_the_rock! mahou_shoujo_no_majo_saiban resident_evil
