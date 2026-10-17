@@ -1266,3 +1266,4 @@
 ?azurill -> pokemon pokemon_(anime) pokemon_ruby/sapphire/emerald pokemon_(classic_anime) pokemon_omega_ruby_and_alpha_sapphire pokemon_firered_and_leafgreen pokemon_heartgold_and_soulsilver original pokemon_the_series:_ruby_and_sapphire pokemon_x_and_y
 ?marill -> pokemon pokemon_heartgold_and_soulsilver pokemon_(anime) pokemon_gold/silver/crystal pokemon_firered_and_leafgreen pokemon_black_and_white pokemon_(classic_anime) pokemon_ruby/sapphire/emerald pokemon_diamond/pearl/platinum pokemon_red/green/blue/yellow
 ?pichu -> pokemon super_smash_bros. fire_emblem mario_(series) kirby_(series) the_legend_of_zelda pokemon_heartgold_and_soulsilver metroid mother_(series) pokemon_firered_and_leafgreen
+?pikachu -> pokemon pokemon_(anime) pokemon_red/green/blue/yellow pokemon_firered_and_leafgreen pokemon_(classic_anime) pokemon_journeys super_smash_bros. kirby_(series) mario_(series) pokemon_heartgold_and_soulsilver
