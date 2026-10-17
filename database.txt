@@ -1614,3 +1614,4 @@
 ?higuchi_madoka -> idolmaster idolmaster_shiny_colors idolmaster_shiny_colors_song_for_prism mahjong_soul comiket_99 idolmaster_cinderella_girls elden_ring gakuen_idolmaster blue_archive comiket_100
 ?ao-chan_(ninomae_ina'nis) -> hololive hololive_english hololive_indonesia minecraft among_us enigmatic_recollection touhou nier_(series)
 ?ninomae_ina'nis_(1st_costume) -> hololive hololive_english hololive_indonesia minecraft enigmatic_recollection hololive_dev_is among_us fate_(series) indie_virtual_youtuber nijisanji
+?budew -> pokemon pokemon_diamond/pearl/platinum pokemon_sword_and_shield pokemon_legends:_z-a pokemon_legends:_arceus pokemon_(anime) pokemon_platinum pokemon_heartgold_and_soulsilver pokemon_firered_and_leafgreen pokemon_black_and_white
