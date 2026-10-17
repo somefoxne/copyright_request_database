@@ -2522,3 +2522,4 @@
 ?doll_(astrae_oratio) -> astrae_oratio comiket_108
 ?toffee_(vtuber) -> indie_virtual_youtuber
 ?alyosha_(genshin_impact) -> genshin_impact honkai_(series) honkai:_star_rail sanrio mihoyo bang_dream! marvel kono_subarashii_sekai_ni_shukufuku_wo! spider-man_(series)
+?estelle_(black_survival) -> black_survival eternal_return:_black_survival goddess_of_victory:_nikke kill_la_kill darkstalkers daejeon_autoarms
