@@ -1009,3 +1009,4 @@
 ?rice_shower_(rosy_dreams)_(umamusume) -> umamusume original kantai_collection fate_(series) real_life jojo_no_kimyou_na_bouken pokemon comiket_100 blue_archive idolmaster
 ?rice_shower_(umamusume) -> umamusume kantai_collection umamusume:_road_to_the_top real_life pikmin_(series) blue_archive pokemon fate_(series) pacific_racing_team pikmin_bloom
 ?twin_turbo_(blast_mode!_turbo_engine)_(umamusume) -> umamusume pokemon gundam jojo_no_kimyou_na_bouken pokemon_scarlet_and_violet akari_ga_yatte_kitazo_(vocaloid) real_life umamusume:_cinderella_gray original g_gundam
+?twin_turbo_(umamusume) -> umamusume pokemon vocaloid gundam jojo_no_kimyou_na_bouken pokemon_scarlet_and_violet real_life umamusume:_cinderella_gray umayuru original
