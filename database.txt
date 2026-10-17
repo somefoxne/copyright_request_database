@@ -1972,3 +1972,4 @@
 ?neia_e_pique -> gundam_n-extreme gundam gundam_extreme_vs._2 gundam_exa_vs gundam_exa gundam_extreme_vs._maxi_boost gundam_extreme_vs. gundam_extreme_vs._2_infinite_boost
 ?yuzuki_yukari's_younger_twin_brother -> voiceroid vocaloid a.i._voice cevio utau talkex synthesizer_v minecraft original kirby_(series)
 ?noa_(pajamas)_(blue_archive) -> blue_archive tokidoki_bosotto_roshia-go_de_dereru_tonari_no_alya-san comiket_105 blue_archive_the_animation fire_emblem re:zero_kara_hajimeru_isekai_seikatsu fire_emblem:_mystery_of_the_emblem comiket_107 monitoring_(vocaloid) hololive
+?exusiai_(apple)_(arknights) -> arknights ambience_synesthesia arknights:_endfield utau project_moon limbus_company league_of_legends mahou_shoujo_no_majo_saiban little_red_riding_hood_(fairy_tale)
