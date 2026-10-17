@@ -3256,3 +3256,4 @@
 ?sumino_takumi -> the_hundred_line_-last_defense_academy- tower_records danganronpa_(series) danganronpa_2:_goodbye_despair pokemon final_fantasy final_fantasy_xiv danganronpa_v3:_killing_harmony danganronpa:_trigger_happy_havoc master_detective_archives:_rain_code
 ?shishizaki_mari_(dokusen_yoku_ga_tsuyo_sugiru_yandere_kai_neko-chan) -> dokusen_yoku_ga_tsuyo_sugiru_yandere_kai_neko-chan
 ?yorita_yoshino -> idolmaster idolmaster_cinderella_girls idolmaster_cinderella_girls_starlight_stage cinderella_girls_gekijou idolmaster_million_live! little_red_riding_hood_(fairy_tale) idolmaster_(classic) original gakuen_idolmaster touhou
+?illyasviel_von_einzbern -> fate_(series) fate/kaleid_liner_prisma_illya fate/stay_night fate/grand_order fate/zero fate/hollow_ataraxia tsukihime type-moon fate/extra
