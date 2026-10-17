@@ -2620,3 +2620,4 @@
 ?doujima_ryoutarou -> persona persona_4 persona_3 persona_4_the_golden persona_5 persona_3_portable yotsubato! persona_4:_the_ultimate_in_mayonaka_arena persona_4_the_animation pokemon
 ?yidhari_murphy -> zenless_zone_zero hololive hololive_english chainsaw_man honkai_(series) honkai:_star_rail indie_virtual_youtuber splatoon_(series) comiket_107 original
 ?alexandrina_sebastiane -> zenless_zone_zero mihoyo genshin_impact honkai_(series) honkai:_star_rail goddess_of_victory:_nikke blue_archive honkai_impact_3rd touhou dc_comics
+?ichinose_uruha -> vspo! nijisanji apex_legends neo-porte crazy_raccoon nanashi_inc. madtown_gta hololive xross_stars fatal_fury
