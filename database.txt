@@ -2204,3 +2204,4 @@
 ?lunamaria_hawke -> gundam gundam_seed gundam_seed_destiny gundam_seed_freedom zeta_gundam fate_(series) sanrio eureka_seven_(series) eureka_seven fate/stay_night
 ?daroach -> kirby_(series) kirby:_squeak_squad kirby_star_allies kirby_64 kirby:_planet_robobot kirby_&_the_amazing_mirror kirby_and_the_forgotten_land
 ?biker_(hotline_miami) -> hotline_miami hotline_miami_2:_wrong_number touhou kantai_collection warship_girls_r powerpuff_girls d4dj akira_(manga) pacific_(kancolle) metallica
+?shilka_levinia -> phantasy_star phantasy_star_ii phantasy_star_online
