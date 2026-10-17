@@ -4222,3 +4222,4 @@
 ?lucia_crabs -> indie_virtual_youtuber
 ?lawine_(strinova) -> strinova genshin_impact azur_lane kiseijuu
 ?ming_(strinova) -> strinova genshin_impact azur_lane
+?magical_mirai_miku_(2017) -> vocaloid magical_mirai_(vocaloid) suna_no_wakusei_(vocaloid) hatsune_miku_happy_16th_birthday_-dear_creators- melt_(vocaloid) odds_&_ends_(vocaloid) miku_symphony_(vocaloid) piapro_studio tell_your_world_(vocaloid) project_diva_(series)
