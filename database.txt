@@ -1486,3 +1486,4 @@
 ?aang -> avatar_legends avatar:_the_last_airbender avatar_aang:_the_last_airbender the_legend_of_korra naruto_(series) marvel pokemon final_fantasy naruto_(classic) nickelodeon
 ?nisha_(avatar) -> avatar_legends avatar:_seven_havens avatar:_the_last_airbender the_legend_of_korra avatar_aang:_the_last_airbender
 ?pavi_(avatar) -> avatar_legends avatar:_seven_havens avatar:_the_last_airbender the_legend_of_korra avatar_aang:_the_last_airbender
+?raava_(avatar) -> avatar_legends the_legend_of_korra avatar:_the_last_airbender chronicles_of_the_avatar the_reckoning_of_roku avatar_aang:_the_last_airbender nickelodeon the_rise_of_kyoshi avatar:_seven_havens
