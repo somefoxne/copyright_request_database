@@ -4035,3 +4035,4 @@
 ?flannery_(pokemon) -> pokemon pokemon_omega_ruby_and_alpha_sapphire pokemon_ruby/sapphire/emerald pokemon_diamond/pearl/platinum pokemon_black_and_white pokemon_heartgold_and_soulsilver pokemon_emerald pokemon_masters_ex pokemon_firered_and_leafgreen pokemon_sword_and_shield
 ?shun_(swimsuit)_(blue_archive) -> blue_archive bocchi_the_rock! hunter_x_hunter
 ?samenyan -> mofusand original genshin_impact honkai_(series) azur_lane honkai:_star_rail goddess_of_victory:_nikke neon_genesis_evangelion sonic_(series) spy_x_family
+?nono-chan_(ayanue) -> original
