@@ -1753,3 +1753,4 @@
 ?shiomi_syuko -> idolmaster idolmaster_cinderella_girls idolmaster_cinderella_girls_starlight_stage cinderella_girls_gekijou tulip_(idolmaster) idolmaster_(classic) idolmaster_million_live! saite_jewel_(idolmaster) pokemon fate_(series)
 ?yumi_(senran_kagura) -> senran_kagura senran_kagura_shinovi_versus senran_kagura_new_wave senran_kagura_new_link senran_kagura_estival_versus azur_lane senran_kagura_peach_beach_splash dolphin_wave senran_kagura_peach_ball
 ?uguisu_anko -> yofukashi_no_uta super_no_ura_de_yani_suu_futari yani_neko chainsaw_man cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 black_lagoon grand_blue arknights
+?nishi_kaoruko -> yani_neko umamusume original jujutsu_kaisen dc_comics batman_(series) kaoru_hana_wa_rin_to_saku joker_(2019) nyanyanyanyanyanyanya!_(vocaloid) ushiro_no_shoumen_kamui-san
