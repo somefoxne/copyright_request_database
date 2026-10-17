@@ -1132,3 +1132,4 @@
 ?upa_(steins;gate) -> science_adventure steins;gate steins;gate_0 robotics;notes chaos;head chaos;child occultic;nine steins;gate:_linear_bounded_phenogram kidou_battle_gunvarrel
 ?igla_(girls'_frontline_2) -> ghost_in_the_shell
 ?kanbaru_suruga -> monogatari_(series) bakemonogatari nisemonogatari nekomonogatari hanamonogatari mahou_shoujo_madoka_magica monogatari_series_puc_puc mahou_shoujo_madoka_magica_(anime) owarimonogatari magia_record:_mahou_shoujo_madoka_magica_gaiden
+?v-dramon -> digimon digimon_card_game digimon_adventure digimon_universe:_appli_monsters digimon_adventure_02 digimon_tamers digimon_frontier digimon_xros_wars digimon_savers digimon_adventure_v-tamer_01
