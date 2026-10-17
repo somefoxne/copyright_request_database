@@ -2227,3 +2227,4 @@
 ?bronya_zaychik -> honkai_(series) honkai_impact_3rd honkai_gakuen honkai:_star_rail mihoyo genshin_impact neon_genesis_evangelion original zenless_zone_zero
 ?bronya_zaychik_(silverwing:_n-ex) -> honkai_(series) honkai_impact_3rd honkai:_star_rail mihoyo genshin_impact honkai_gakuen original kantai_collection zenless_zone_zero honkai:_nexus_anima
 ?chat_noir -> miraculous_ladybug genshin_impact vocaloid honkai_(series) honkai:_star_rail danganronpa_(series) marvel original love_live! one_piece
+?ladybug_(miraculous_ladybug) -> miraculous_ladybug genshin_impact marvel sonic_(series) spider-man_(series) vocaloid honkai_(series) honkai:_star_rail mario_(series) powerpuff_girls
