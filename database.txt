@@ -2499,3 +2499,4 @@
 ?tone_(kancolle) -> kantai_collection mario_(series) gintama aoki_hagane_no_arpeggio super_mario_bros._1 original fate_(series) girls_und_panzer love_live! kemono_friends
 ?kobotoke_chinko -> honoo_no_toukyuujo:_dodge_danko
 ?lilith_(darkstalkers) -> darkstalkers street_fighter capcom touhou original mega_man_(series) street_fighter_zero_(series) kantai_collection marvel mega_man_(classic)
+?bihyung_(black_survival) -> black_survival eternal_return:_black_survival
