@@ -2868,3 +2868,4 @@
 ?sendai_eri -> sanoba_witch yuzusoft senren_banka girls_und_panzer tenshi_souzou_re-boot! precure yes!_precure_5 riddle_joker cafe_stella_to_shinigami_no_chou yes!_precure_5_gogo!
 ?tanaka_rie -> rozen_maiden real_life gundam gundam_seed honkai_(series) girls_und_panzer neptune_(series) honkai:_star_rail honkai_impact_3rd genshin_impact
 ?touma_yumi -> girls_und_panzer darkstalkers girls_und_panzer_senshadou_daisakusen! record_of_lodoss_war girls_und_panzer_saishuushou
+?uva_(girls_und_panzer) -> girls_und_panzer girls_und_panzer_saishuushou
