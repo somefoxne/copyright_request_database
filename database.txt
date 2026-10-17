@@ -4144,3 +4144,4 @@
 ?marianne_von_edmund -> fire_emblem fire_emblem:_three_houses fire_emblem_heroes fire_emblem_warriors:_three_hopes fire_emblem_fates pokemon fire_emblem_awakening persona fire_emblem_engage persona_5
 ?sansin_jin -> indie_virtual_youtuber original gamer_supps pokemon the_legend_of_zelda twitter vyugen vchiban the_walking_dead
 ?piltz_dunant -> shy_(series)
+?diaochan_(honor_of_kings) -> honor_of_kings
