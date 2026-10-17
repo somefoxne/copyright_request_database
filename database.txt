@@ -3523,3 +3523,4 @@
 ?miyamoto_musashi_(fate) -> fate_(series) fate/grand_order fate/samurai_remnant fate/stay_night kantai_collection koha-ace fate/extra pixiv_fate/grand_order_contest_2 fate/apocrypha pokemon
 ?nadeshiko_(shouten_gohan) -> shinigami-san_to_shouten_gohan
 ?fullnono_(tate_no_yuusha_no_nariagari_rise) -> tate_no_yuusha_no_nariagari tate_no_yuusha_no_nariagari_rise
+?ayaka_(tate_no_yuusha_no_nariagari_rise) -> tate_no_yuusha_no_nariagari tate_no_yuusha_no_nariagari_rise
