@@ -3908,3 +3908,4 @@
 ?nanami_chiaki -> danganronpa_(series) danganronpa_2:_goodbye_despair danganronpa:_trigger_happy_havoc danganronpa_v3:_killing_harmony tetris sanrio my_melody_(series) danganronpa_another_episode:_ultra_despair_girls
 ?blossom_(ppg) -> powerpuff_girls powerpuff_girls_z cartoon_network dc_comics the_grim_adventures_of_billy_&_mandy courage_the_cowardly_dog pokemon adventure_time
 ?bubbles_(ppg) -> powerpuff_girls powerpuff_girls_z dc_comics cartoon_network original the_grim_adventures_of_billy_&_mandy the_amazing_world_of_gumball pokemon
+?buttercup_(ppg) -> powerpuff_girls powerpuff_girls_z dc_comics cartoon_network pokemon the_grim_adventures_of_billy_&_mandy adventure_time courage_the_cowardly_dog
