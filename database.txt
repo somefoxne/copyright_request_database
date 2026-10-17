@@ -1299,3 +1299,4 @@
 ?nishizumi_maho -> girls_und_panzer girls_und_panzer_senshadou_daisakusen! girls_und_panzer_motto_love_love_sakusen_desu! gundam girls_und_panzer_saishuushou world_witches_series gekitotsu!_joshikousei_oiroke_sensha_gundan girls_und_panzer_little_army pacific_racing_team princess_connect!
 ?ficusmon -> digimon digimon_eggs
 ?rootmon -> digimon digimon_eggs
+?sekiryumon -> digimon digimon_eggs
