@@ -2343,3 +2343,4 @@
 ?shirakiin_ririchiyo -> inu_x_boku_ss working!! cardcaptor_sakura vocaloid love_live! love_live!_school_idol_project k-on! suzumiya_haruhi_no_yuuutsu to_heart_(series) ore_no_imouto_ga_konna_ni_kawaii_wake_ga_nai
 ?sayume_(abpart) -> original
 ?luo_xiaohei_(cat) -> the_legend_of_luo_xiaohei arknights lanxi_zhen nikki_(series) monster_hunter_(series) cardcaptor_sakura bishoujo_senshi_sailor_moon ensemble_stars! majo_no_takkyuubin pokemon
+?wuxian_(the_legend_of_luo_xiaohei) -> the_legend_of_luo_xiaohei lanxi_zhen nikki_(series) pokemon spy_x_family infinity_nikki fate_(series) fate/grand_order bleach bishoujo_senshi_sailor_moon
