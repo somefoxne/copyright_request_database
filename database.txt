@@ -2849,3 +2849,4 @@
 ?diabellstar_the_black_witch -> yu-gi-oh! yu-gi-oh!_master_duel yu-gi-oh!_rush_duel fate_(series) fate/grand_order the_legend_of_zelda yu-gi-oh!_card_game_the_chronicles original
 ?diabellstar_the_black_witch_(alternate_art) -> yu-gi-oh! yu-gi-oh!_master_duel hololive hololive_english yu-gi-oh!_rush_duel
 ?diabellze_heiress_of_the_winter_raven's_forest -> yu-gi-oh!
+?diabellze_the_original_sinkeeper -> yu-gi-oh! yu-gi-oh!_master_duel gundam gundam_gquuuuuux comiket_107 yu-gi-oh!_rush_duel original hololive hololive_english
