@@ -3439,3 +3439,4 @@
 ?ishmael_(project_moon) -> project_moon limbus_company arknights lobotomy_corporation library_of_ruina mili_(band) original compass_(mili) karaoke_manekineko vocaloid
 ?thing_(the_addams_family) -> the_addams_family wednesday_(netflix) pokemon spy_x_family gundam one_piece netflix league_of_legends dragon_ball naruto_(series)
 ?wednesday_addams -> the_addams_family wednesday_(netflix) original spy_x_family pokemon dc_comics teen_titans touhou one_piece league_of_legends
+?yuri_(gnosia) -> gnosia newtype comiket_107
