@@ -1178,3 +1178,4 @@
 ?march_7th_(march_bunny)_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail genshin_impact zenless_zone_zero honkai_impact_3rd mihoyo honkai:_nexus_anima tears_of_themis
 ?stephan_(chao) -> chao_(movie)
 ?cammy_white -> street_fighter street_fighter_6 street_fighter_zero_(series) street_fighter_v street_fighter_ii_(series) street_fighter_iv_(series) capcom darkstalkers the_king_of_fighters fatal_fury
+?altair_(re:creators) -> re:creators fate_(series) original fate/grand_order honkai_(series) granblue_fantasy persona persona_5 nier_(series) nier:automata
