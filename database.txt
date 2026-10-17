@@ -1161,3 +1161,4 @@
 ?plutomon -> digimon digimon_survive digimon_story:_time_stranger original digimon_card_game
 ?kaname_madoka -> mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) mahou_shoujo_madoka_magica:_hangyaku_no_monogatari magia_record:_mahou_shoujo_madoka_magica_gaiden mahou_shoujo_madoka_magica:_walpurgis_no_kaiten mahou_shoujo_madoka_magica_magia_exedra mahou_shoujo_madoka_magica_movie_1_&_2 gundam touhou original
 ?edward_teach_(fate) -> fate_(series) fate/grand_order fate/extra fate/apocrypha fate/stay_night original fate/extra_ccc koha-ace fate/samurai_remnant
+?edward_teach_(third_ascension)_(fate) -> fate_(series) fate/grand_order fate/extra fate/apocrypha fate/stay_night science_adventure chaos;head pixiv_fate/grand_order_contest_2 space_adventure_cobra pixiv_fate/grand_order_contest_1
