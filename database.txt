@@ -3924,3 +3924,4 @@
 ?miss_piggy -> muppets dungeon_meshi pokemon umamusume star_wars bayonetta_(series) south_park bayonetta_3
 ?emma_verde -> love_live! love_live!_nijigasaki_high_school_idol_club love_live!_school_idol_festival_all_stars love_live!_nijigasaki_high_school_idol_club_the_movie_-_finale love_live!_school_idol_project love_live!_sunshine!! love_live!_school_idol_festival la_bella_patria_(love_live!) evergreen_(love_live!) cara_tesoro
 ?caroline_(persona_5) -> persona persona_5 persona_4 persona_5_the_royal persona_3 persona_3_portable persona_4_the_golden persona_dancing persona_1 blue_archive
+?justine_(persona_5) -> persona persona_5 persona_4 persona_3 persona_5_the_royal persona_3_portable persona_4_the_golden persona_dancing persona_1 blue_archive
