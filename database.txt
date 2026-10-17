@@ -3039,3 +3039,4 @@
 ?shizuki_soujuurou -> mahou_tsukai_no_yoru fate_(series) fate/grand_order tsukihime fate/stay_night kara_no_kyoukai type-moon melty_blood tsukihime_(remake) fate/extra
 ?kurumi_(hanakaji) -> original hollow_knight hollow_knight:_silksong
 ?magical_mirai_rin_(2026) -> vocaloid magical_mirai_(vocaloid) synthesizer_v
+?jinja_eru -> gochuumon_wa_usagi_desu_ka? manga_time_kirara clockwork_rabbit
