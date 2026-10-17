@@ -3794,3 +3794,4 @@
 ?batgirl -> dc_comics batman_(series) superman_(series) dc:_dark_legion batgirls marvel dc_animated_universe teen_titans batman:_the_animated_series birds_of_prey
 ?lady_shiva -> dc_comics batman_(series) birds_of_prey batman_returns parahumans reply_of_the_zaporozhian_cossacks
 ?cure_mystique -> precure meitantei_precure! kamen_rider toei_company kimi_to_idol_precure wonderful_precure! pokemon smile_precure! meitantei_conan dokidoki!_precure
+?kobayashi_mikuru -> precure meitantei_precure! kamen_rider toei_company wonderful_precure! kimi_to_idol_precure meitantei_conan comiket_108 pokemon kamen_rider_w
