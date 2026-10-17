@@ -2765,3 +2765,4 @@
 ?alsace_(azur_lane) -> azur_lane azur_lane:_slow_ahead blue_archive dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru_darou_ka to_love-ru to_love-ru_darkness world_of_warships mona_lisa honkai_(series) honkai_impact_3rd
 ?gascogne_(azur_lane) -> azur_lane azur_lane:_slow_ahead kono_subarashii_sekai_ni_shukufuku_wo! world_of_warships pokemon fate_(series) hololive fate/grand_order re:zero_kara_hajimeru_isekai_seikatsu senran_kagura
 ?almond_eye_(the_changer)_(umamusume) -> umamusume oshi_no_ko original nijisanji real_life umamusume:_cinderella_gray princess_connect! cygames pakatube umamusume:_star_blossom
+?karin_(princess_connect!) -> princess_connect! umamusume idolmaster idolmaster_cinderella_girls cygames granblue_fantasy original naruto_(series) kono_subarashii_sekai_ni_shukufuku_wo! shadowverse
