@@ -1956,3 +1956,4 @@
 ?miyako_asahi -> guilty_library
 ?devilboo_(zenless_zone_zero) -> zenless_zone_zero original honkai_(series) honkai:_star_rail nijisanji dragon_ball sousou_no_frieren dragon_ball_z mihoyo
 ?jacinthe_(pokemon) -> pokemon pokemon_legends:_z-a pokemon_scarlet_and_violet pokemon_sword_and_shield pokemon_x_and_y pokemon_black_and_white pokemon_(anime) persona pokemon_sun_and_moon pokemon_diamond/pearl/platinum
+?lebanne_(pokemon) -> pokemon pokemon_legends:_z-a pokemon_scarlet_and_violet pokemon_sword_and_shield pokemon_sun_and_moon pokemon_x_and_y pokemon_heartgold_and_soulsilver pokemon_omega_ruby_and_alpha_sapphire pokemon_(anime) pokemon_black_and_white
