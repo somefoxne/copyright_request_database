@@ -1995,3 +1995,4 @@
 ?fortuna_(fire_emblem) -> fire_emblem kfc
 ?ouse_furachi -> night_dreamin
 ?norma_hollowell -> zenless_zone_zero spy_x_family blue_archive honkai_(series) honkai:_star_rail fate_(series) genshin_impact sonic_(series) trickcal
+?hoshino_ichika_(project_sekai) -> project_sekai vocaloid zozotown kowareta_sekai_to_utaenai_miku mozaik_role_(vocaloid) batsubyou_(vocaloid) sanrio sekai_symphony pokemon bang_dream!
