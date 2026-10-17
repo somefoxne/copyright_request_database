@@ -3244,3 +3244,4 @@
 ?minamizaki_minato -> shine_post
 ?yakushiin_asuka -> shine_post
 ?nihilux_(blurry_qr_colt)_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail genshin_impact jojo_no_kimyou_na_bouken mihoyo never_gonna_give_you_up zenless_zone_zero gundam jujutsu_kaisen gundam_narrative
+?suimori_atori -> haconect
