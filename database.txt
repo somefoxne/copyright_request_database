@@ -1432,3 +1432,4 @@
 ?shiun_sumika -> idolmaster gakuen_idolmaster kimi_to_semi_blue_(idolmaster) hajime_(idolmaster) tame-lie-one-step_(idolmaster) love_&_joy_(idolmaster) idolmaster_cinderella_girls idolmaster_shiny_colors tokimeki_emotion_(idolmaster) idolmaster_million_live!
 ?daiichi_ruby_(brilliant_red_gemstone)_(umamusume) -> umamusume umamusume:_cinderella_gray cygames original fate_(series) indie_virtual_youtuber fate/stay_night tengen_toppa_gurren_lagann umamusume:_road_to_the_top umayuru
 ?daiichi_ruby_(casual)_(umamusume) -> umamusume pokemon
+?daiichi_ruby_(umamusume) -> umamusume pokemon cygames comiket_106 touhou nijisanji bishoujo_senshi_sailor_moon umamusume:_cinderella_gray sengoku_basara original
