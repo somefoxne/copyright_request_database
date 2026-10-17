@@ -3782,3 +3782,4 @@
 ?tanigawa_yuzu -> devil_survivor_(series) devil_survivor_1 shin_megami_tensei devil_survivor_2 persona azur_lane persona_3 megami_tensei persona_4 fire_emblem
 ?howl_(howl_no_ugoku_shiro) -> howl_no_ugoku_shiro studio_ghibli mononoke_hime sen_to_chihiro_no_kamikakushi majo_no_takkyuubin tonari_no_totoro tenkuu_no_shiro_laputa kaze_no_tani_no_nausicaa gake_no_ue_no_ponyo kurenai_no_buta
 ?sunny_(omori) -> omori emori utdr_(toby_fox) deltarune yume_nikki omariposa pokemon undertale off_(game) mother_(series)
+?takarai_hiyori -> hypnosis_mic hypnosis_mic:_rule_the_stage
