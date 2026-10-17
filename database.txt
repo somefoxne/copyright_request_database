@@ -2020,3 +2020,4 @@
 ?hilda_valentine_goneril_(timeskip) -> fire_emblem fire_emblem:_three_houses fire_emblem_heroes fire_emblem_warriors:_three_hopes fire_emblem_fates pokemon final_fantasy pokemon_black_and_white azur_lane goddess_of_victory:_nikke
 ?centi_(nikke) -> goddess_of_victory:_nikke fullmetal_alchemist vocaloid fate_(series) fate/grand_order warhammer_40k
 ?ether_(nikke) -> goddess_of_victory:_nikke fullmetal_alchemist kantai_collection blue_archive umamusume powerpuff_girls a-1_pictures
+?liter_(nikke) -> goddess_of_victory:_nikke comiket_108 comiket_107 fullmetal_alchemist blue_archive vocaloid genshin_impact arknights neon_genesis_evangelion mega_man_(series)
