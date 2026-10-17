@@ -1261,3 +1261,4 @@
 ?kotohira_nagi -> bang_dream! bang_dream!_our_notes umamusume princess_connect! alice_gear_aegis pokemon bang_dream!_girls_band_party! magnet_(vocaloid) sweets_paradise
 ?nekomata_okayu_(gyaru) -> hololive hololive_dev_is hololive_english hololive_indonesia comiket_108 mario_(series) kamen_rider kamen_rider_kabuto_(series)
 ?kamishiro_rui -> project_sekai vocaloid zozotown sanrio netsu_ijou_(utau) ensemble_stars! king_(vocaloid) tensei_ringo_(vocaloid) telecaster_b-boy_(vocaloid) akuma_no_odorikata_(vocaloid)
+?kusanagi_nene -> project_sekai vocaloid zozotown sanrio kowareta_sekai_to_utaenai_miku netsu_ijou_(utau) yi_er_fan_club_(vocaloid) tensei_ringo_(vocaloid) ego_rock_(vocaloid) pokemon
