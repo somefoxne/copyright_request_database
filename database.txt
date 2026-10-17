@@ -2829,3 +2829,4 @@
 ?takaya_noriko -> top_wo_nerae!_(series) top_wo_nerae! top_wo_nerae_2! neon_genesis_evangelion gainax tengen_toppa_gurren_lagann fushigi_no_umi_no_nadia gundam flcl super_robot_wars
 ?yukihana_lamy_(1st_costume) -> hololive hololive_english hololive_alternative hololive_indonesia hololive_dev_is hololive_official_card_game the_legend_of_zelda nijisanji jojo_no_kimyou_na_bouken dragon_quest
 ?puyo_(puyopuyo) -> puyopuyo puyopuyo_20th_anniversary madou_monogatari puyopuyo_quest puyopuyo_sun puyopuyo_fever_2 puyopuyo~n sonic_(series) puyopuyo_7 puyopuyo_tetris
+?koto_satsuki -> watashi_ga_koibito_ni_nareru_wake_naijan_murimuri! kamen_rider mahou_shoujo_no_majo_saiban vocaloid bang_dream! bocchi_the_rock! bishoujo_senshi_sailor_moon megami_magazine snow_white_(fairy_tale)
