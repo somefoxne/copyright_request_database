@@ -4154,3 +4154,4 @@
 ?jia_qiu_(project_moon) -> project_moon limbus_company lobotomy_corporation arknights kekkai_sensen original blue_archive pokemon one_piece goddess_of_victory:_nikke
 ?setsu_(gnosia) -> gnosia newtype original touhou vocaloid fire_emblem persona splatoon_(series) utau xenoblade_chronicles_(series)
 ?masaki_gaillard -> amairo_islenauts yuzusoft sanoba_witch riddle_joker tenshinranman cafe_stella_to_shinigami_no_chou senren_banka dracu-riot! original tenshi_souzou_re-boot!
+?varesa_(genshin_impact) -> genshin_impact zenless_zone_zero mihoyo honkai_(series) honkai:_star_rail granblue_fantasy umamusume wuthering_waves honkai_impact_3rd sonic_(series)
