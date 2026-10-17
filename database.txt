@@ -2182,3 +2182,4 @@
 ?graf_zeppelin_(kancolle) -> kantai_collection line_(naver) azur_lane jojo_no_kimyou_na_bouken fate_(series) world_cup fate/grand_order lawson 2018_fifa_world_cup girls_und_panzer
 ?vargo_(arknights) -> arknights
 ?caesar_(arknights) -> arknights bang_dream!
+?tachibana_hinano -> vspo! indie_virtual_youtuber nijisanji vcr_gta madtown_gta hololive apex_legends crazy_raccoon xross_stars real_life
