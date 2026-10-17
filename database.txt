@@ -2741,3 +2741,4 @@
 ?inukai_yuto -> paradox_live honkai_(series) honkai:_star_rail danganronpa_(series) danganronpa_v3:_killing_harmony mahoutsukai_no_yakusoku iii_(hololive)
 ?kashiwagi_genrou -> taima_senki_ayane_~chijoku_saimin_no_wana~
 ?nina_eribert -> taima_senki_ayane_~chijoku_saimin_no_wana~
+?nozomi_(mom's_touch)_(blue_archive) -> blue_archive
