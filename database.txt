@@ -3704,3 +3704,4 @@
 ?hayanami_(halloween)_(kancolle) -> kantai_collection
 ?hayanami_(kancolle) -> kantai_collection fate_(series) fate/grand_order real_life wacky_races lawson arknights gundam neon_genesis_evangelion gochuumon_wa_usagi_desu_ka?
 ?makinami_(halloween)_(kancolle) -> kantai_collection
+?makinami_(kancolle) -> kantai_collection neon_genesis_evangelion rebuild_of_evangelion suzumiya_haruhi_no_yuuutsu real_life evangelion:_2.0_you_can_(not)_advance wacky_races gekkou_kamen_(series) umamusume dragon_ball
