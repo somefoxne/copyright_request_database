@@ -2301,3 +2301,4 @@
 ?kaga_nazuna_(8th_costume) -> vspo! sanrio zeta_division
 ?tsumugi_kokage -> vspo! league_of_legends vcr_gta street_fighter xross_stars pokemon hololive nijisanji precure real_life
 ?tsumugi_kokage_(1st_costume) -> vspo! pokemon hololive nijisanji precure holostars hirogaru_sky!_precure starbucks neo-porte getting_over_it
+?himekawa_nene -> mayonaka_heart_tune muv-luv muv-luv_alternative kanan-sama_wa_akumade_choroi calbee_(potato_chips)
