@@ -2057,3 +2057,4 @@
 ?bay_(nikke) -> goddess_of_victory:_nikke blue_archive hololive hololive_english zozotown fate_(series) genshin_impact fate/grand_order umamusume project_moon
 ?bay_(radiant_rabbit)_(nikke) -> goddess_of_victory:_nikke fate_(series) hololive fate/grand_order hololive_english umamusume blue_archive va-11_hall-a
 ?doro_(nikke) -> goddess_of_victory:_nikke blue_archive stellar_blade original hololive shift_up hololive_english zenless_zone_zero trickcal fate_(series)
+?exia_(hacker_rabbit)_(nikke) -> goddess_of_victory:_nikke
