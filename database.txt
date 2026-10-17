@@ -1373,3 +1373,4 @@
 ?sekibanki -> touhou double_dealing_character akatsuki_records touhou_(pc-98) touhou_lostword pokemon legacy_of_lunatic_kingdom ten_desires touhou_bougetsushou
 ?tatara_kogasa -> touhou undefined_fantastic_object touhou_(pc-98) mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) ten_desires touhou_lostword di_gi_charat original reitaisai
 ?yorumi_rena -> nijisanji nijisanji_kr hololive nijisanji_en nijisanji_koshien nijisanji_id pokemon indie_virtual_youtuber apex_legends minecraft
+?yorumi_rena_(16th_costume) -> nijisanji
