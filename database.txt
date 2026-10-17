@@ -1593,3 +1593,4 @@
 ?kearsarge_(azur_lane) -> azur_lane bocchi_the_rock! azur_lane:_slow_ahead original world_of_warships comiket_104 comiket_108 mona_lisa aviot blue_archive
 ?kearsarge_(code:_oath)_(azur_lane) -> azur_lane
 ?angry_sun -> mario_(series) super_mario_bros._3 donkey_kong_(series) the_legend_of_zelda mario_kart super_mario_bros._2 kirby_(series) castlevania_(series) super_mario_galaxy mario_kart_world
+?goomba -> mario_(series) new_super_mario_bros._u_deluxe super_mario_bros._1 paper_mario_(series) kirby_(series) the_legend_of_zelda pokemon super_mario_bros._wonder super_mario_odyssey touhou
