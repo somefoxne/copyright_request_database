@@ -1185,3 +1185,4 @@
 ?herta_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail genshin_impact mihoyo honkai_impact_3rd comiket_107 original fate_(series) comiket_106 hololive
 ?the_herta_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail genshin_impact mihoyo comiket_107 honkai_impact_3rd fate_(series) original fate/stay_night spongebob_squarepants_(series)
 ?hau_(sygna_suit)_(pokemon) -> pokemon pokemon_masters_ex pokemon_sun_and_moon pokemon_legends:_z-a
+?viridi -> kid_icarus kid_icarus_uprising super_smash_bros. fire_emblem kirby_(series) fire_emblem:_three_houses pokemon mario_(series) the_legend_of_zelda metroid
