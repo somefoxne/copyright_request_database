@@ -2552,3 +2552,4 @@
 ?matikanetannhauser_(clippety-tippety-clop)_(umamusume) -> umamusume make_heroine_ga_oo_sugiru! real_life akari_ga_yatte_kitazo_(vocaloid) original pokemon mario_(series) dragon_ball dragon_ball_z umamusume:_cinderella_gray
 ?xuanqing_(wuthering_waves) -> wuthering_waves
 ?still_in_love_(scarlet_vow_raiment)_(umamusume) -> umamusume umamusume:_party_dash real_life original zuutto_issho_(kitani_tatsuya) kamen_rider doki_doki_literature_club comiket_105 aishite_aishite_aishite_(vocaloid) touhou
+?orfevre_(gold-triumph)_(umamusume) -> umamusume all_night_nippon
