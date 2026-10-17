@@ -3647,3 +3647,4 @@
 ?gell_(hunter_x_hunter) -> hunter_x_hunter haou_airen
 ?piyon_(hunter_x_hunter) -> hunter_x_hunter kantai_collection haou_airen
 ?gilgamesh_(fate) -> fate_(series) fate/grand_order fate/stay_night fate/zero fate/strange_fake fate/hollow_ataraxia fate/extra fate/extra_ccc fate/prototype fate/kaleid_liner_prisma_illya
+?kirishima_eijiro -> boku_no_hero_academia boku_no_hero_academia:_more original jujutsu_kaisen pokemon kirby_(series) mario_(series) touken_ranbu one-punch_man silent_hill_(series)
