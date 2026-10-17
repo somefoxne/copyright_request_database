@@ -2942,3 +2942,4 @@
 ?ichika_(swimsuit)_(blue_archive) -> blue_archive comiket_107 original pokemon arknights kantai_collection idolmaster umamusume nijisanji idolmaster_shiny_colors
 ?bernoullia_(nikke) -> goddess_of_victory:_nikke
 ?le_noir_handbags_hall_designer -> project_moon limbus_company
+?cramorant -> pokemon pokemon_sword_and_shield pokemon_(anime) pokemon_scarlet_and_violet pokemon_tcg pokemon_the_movie:_secrets_of_the_jungle pokemon_unite original pokemon_black_and_white hololive
