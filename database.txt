@@ -2052,3 +2052,4 @@
 ?remielle_dan_(moonlight_whispers) -> zenless_zone_zero mihoyo honkai_(series) honkai_impact_3rd genshin_impact honkai:_star_rail original chainsaw_man yu-gi-oh! breaking_bad
 ?ade_(agent_bunny)_(nikke) -> goddess_of_victory:_nikke blue_archive kantai_collection zenless_zone_zero original macross macross_delta comiket_108 hololive fire_emblem
 ?ade_(nikke) -> goddess_of_victory:_nikke re:zero_kara_hajimeru_isekai_seikatsu blue_archive kantai_collection zenless_zone_zero comiket_108 original hololive hololive_english macross
+?alice_(nikke) -> goddess_of_victory:_nikke touhou blue_archive original stellar_blade pokemon chainsaw_man fate_(series) zenless_zone_zero nijisanji
