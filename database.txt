@@ -3211,3 +3211,4 @@
 ?floette_(red_flower) -> pokemon pokemon_x_and_y pokemon_legends:_z-a vocaloid pokemon_scarlet_and_violet pokemon_(anime) project_voltage pokemon_tcg pokemon_unite pokemon_(classic_anime)
 ?froakie -> pokemon pokemon_x_and_y pokemon_black_and_white pokemon_diamond/pearl/platinum pokemon_black_2_and_white_2 pokemon_sun_and_moon pokemon_ruby/sapphire/emerald pokemon_heartgold_and_soulsilver pokemon_sword_and_shield pokemon_red/green/blue/yellow
 ?furfrou -> pokemon pokemon_x_and_y pokemon_(anime) pokemon_the_series:_xy pokemon_legends:_z-a pokemon_sun_and_moon original pokemon_black_and_white pokemon_firered_and_leafgreen pokemon_the_series:_sun_&_moon
+?furfrou_(natural) -> pokemon pokemon_x_and_y pokemon_(anime) pokemon_the_series:_xy original pokemon_black_and_white pokemon_sun_and_moon pokemon_red/green/blue/yellow pokemon_ultra_sun_and_ultra_moon pokemon_diamond/pearl/platinum
