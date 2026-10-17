@@ -2106,3 +2106,4 @@
 ?volume_(nikke) -> goddess_of_victory:_nikke gundam grand_theft_auto grand_theft_auto_vi gundam_narrative umamusume vocaloid bocchi_the_rock! darkstalkers vshojo
 ?white_ice_dragon_(nikke) -> goddess_of_victory:_nikke berserk
 ?beliora_vike -> zenless_zone_zero honkai_(series) mihoyo honkai:_star_rail honkai_impact_3rd genshin_impact touhou embodiment_of_scarlet_devil fate_(series) nijisanji
+?caitlin_(fall_2021)_(pokemon) -> pokemon pokemon_masters_ex pokemon_black_and_white pokemon_sword_and_shield pokemon_scarlet_and_violet pokemon_firered_and_leafgreen pokemon_sun_and_moon pokemon_diamond/pearl/platinum pokemon_heartgold_and_soulsilver pokemon_platinum
