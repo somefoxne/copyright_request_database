@@ -3460,3 +3460,4 @@
 ?ashuu_shizuku -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_unmarked mahou_shoujo_ikusei_keikaku_f2p
 ?sakamoto_sue -> cave_story pokemon katamari_damacy coppertone ikachan_(game) touhou vocaloid final_fantasy the_legend_of_zelda street_fighter
 ?alexia_midgar -> kage_no_jitsuryokusha_ni_naritakute! kage_no_jitsuryokusha_ni_naritakute!_master_of_garden fate_(series) fate/kaleid_liner_prisma_illya megami_magazine dolphin_wave newtype comp_ace
+?rose_oriana -> kage_no_jitsuryokusha_ni_naritakute! kage_no_jitsuryokusha_ni_naritakute!_master_of_garden hololive megami_magazine
