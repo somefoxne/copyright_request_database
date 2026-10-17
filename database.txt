@@ -4232,3 +4232,4 @@
 ?aikawa_kizuna -> prunus_girl 7-eleven
 ?evanescia_(lunar_blossoming)_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail
 ?derpy_(kpop_demon_hunters) -> kpop_demon_hunters original hololive hololive_english real_life arknights final_fantasy final_fantasy_vii marvel bishoujo_senshi_sailor_moon
+?rumi_(kpop_demon_hunters) -> kpop_demon_hunters league_of_legends real_life arcane:_league_of_legends fortnite pokemon hololive hololive_english mario_(series) marvel
