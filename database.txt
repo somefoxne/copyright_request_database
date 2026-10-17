@@ -2445,3 +2445,4 @@
 ?aemeath_(wuthering_waves) -> wuthering_waves honkai_(series) honkai:_star_rail cyberpunk_(series) honkai_impact_3rd punishing:_gray_raven blue_archive cyberpunk:_edgerunners cyberpunk:_edgerunners_1 comiket_108
 ?chisa_(wuthering_waves) -> wuthering_waves samsung blue_archive comiket_107 kill_la_kill lawson gs25 redmagic arknights zenless_zone_zero
 ?sawa_azusa -> girls_und_panzer girls_und_panzer_motto_love_love_sakusen_desu! girls_und_panzer_senshadou_daisakusen! gekitotsu!_joshikousei_oiroke_sensha_gundan megami_magazine urusei_yatsura girls_und_panzer_saishuushou girls_und_panzer_little_army tetsuwan_birdy_decode tetsuwan_birdy
+?aranara_(genshin_impact) -> genshin_impact original mihoyo honkai_(series) snow_white_and_the_seven_dwarfs_(disney) honkai:_star_rail gigo kfc zenless_zone_zero
