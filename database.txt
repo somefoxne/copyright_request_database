@@ -2365,3 +2365,4 @@
 ?7-tan -> os-tan microsoft_windows windows_7 original gegege_no_kitarou futaba_channel microsoft nijiura_maids suigetsu uchuu_senshi_baldios
 ?dejiko -> di_gi_charat di_gi_charat_(1999) reiwa_no_di_gi_charat love_live! lucky_star love_live!_hasu_no_sora_jogakuin_school_idol_club di_gi_charat_nyo! vocaloid suzumiya_haruhi_no_yuuutsu winter_garden
 ?bianca_castafiore -> tintin
+?dupond_(tintin) -> tintin
