@@ -3291,3 +3291,4 @@
 ?roger_(guilty_gear) -> guilty_gear guilty_gear_strive guilty_gear_xx tower_records guilty_gear_xrd arc_system_works blazblue umamusume kunio-kun_series guilty_gear_vastedge_xt
 ?aoba_(kujibikido)_(blue_archive) -> blue_archive
 ?hikari_(kujibikido)_(blue_archive) -> blue_archive one_piece poptepipic spongebob_squarepants_(series) kengan_(series) kengan_ashura tropicana
+?nozomi_(kujibikido)_(blue_archive) -> blue_archive fate_(series) fate/grand_order indie_virtual_youtuber shingeki_no_kyojin inazuma_eleven_(series) inazuma_eleven_go fullmetal_alchemist poptepipic spongebob_squarepants_(series)
