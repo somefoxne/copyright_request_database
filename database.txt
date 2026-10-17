@@ -985,3 +985,4 @@
 ?blanc_(nikke) -> goddess_of_victory:_nikke blue_archive original zenless_zone_zero zozotown genshin_impact wuthering_waves marvel
 ?narita_brian_(ravenous_wolf)_(umamusume) -> umamusume original pokemon bleach
 ?narita_brian_(umamusume) -> umamusume umamusume:_cinderella_gray umamusume:_star_blossom original pokemon pikmin_(series) cygames pakatube real_life pikmin_bloom
+?sakura_laurel_(saisir_le_reve)_(umamusume) -> umamusume umamusume:_star_blossom umamusume:_cinderella_gray umamusume:_road_to_the_top umamusume:_peace_peace_cepea_cepea_golshi-chan original pokemon fate_(series) indie_virtual_youtuber chainsaw_man
