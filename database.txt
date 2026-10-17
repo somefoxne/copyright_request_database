@@ -2709,3 +2709,4 @@
 ?anne_faulkner -> paradox_live sanrio my_melody_(series) hello_kitty
 ?reines_el-melloi_archisorte -> fate_(series) lord_el-melloi_ii_case_files fate/grand_order fate/zero fate/apocrypha pokemon fate/stay_night fate/kaleid_liner_prisma_illya apple_inc. kono_subarashii_sekai_ni_shukufuku_wo!
 ?kuzuryu_chisei -> paradox_live
+?shingu_haruomi -> paradox_live original
