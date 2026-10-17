@@ -3815,3 +3815,4 @@
 ?omori_(omori) -> omori utdr_(toby_fox) yume_nikki undertale deltarune oneshot_(game) ib_(kouri) off_(game) pokemon satsuriku_no_tenshi
 ?fukumaru_koito -> idolmaster idolmaster_shiny_colors idolmaster_shiny_colors_song_for_prism idolmaster_poplinks mahjong_soul idolmaster_cinderella_girls idolmaster_million_live! pokemon gakuen_idolmaster chainsaw_man
 ?naganohara_mio -> nichijou mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) lucky_star vocaloid kyoto_animation k-on! city_(arawi_keiichi) touhou suzumiya_haruhi_no_yuuutsu
+?estelle_bright -> eiyuu_densetsu sora_no_kiseki sora_no_kiseki_fc sora_no_kiseki_sc sen_no_kiseki_(series) sen_no_kiseki_iv hajimari_no_kiseki zero_no_kiseki sen_no_kiseki_i falcom
