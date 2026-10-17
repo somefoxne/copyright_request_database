@@ -3559,3 +3559,4 @@
 ?hatty_hattington -> battleblock_theater castle_crashers a_hat_in_time the_binding_of_isaac super_meat_boy alien_hominid utdr_(toby_fox) kirby_(series) undertale among_us
 ?ha-chan_(ado) -> ado_(utaite) sanrio vocaloid usseewa gira_gira atashi_wa_mondaisaku himawari_(ado) one_piece one_piece_film:_red readymade_(ado)
 ?pusheen_the_cat -> pusheen_the_cat_(series) original sanrio ado_(utaite) hello_kitty pokemon chiikawa vocaloid bishoujo_senshi_sailor_moon kirby_(series)
+?l_(death_note) -> death_note touhou yukkuri_youmu_to_hontou_wa_kowai_cthulhu_shinwa call_of_cthulhu kodoku_no_gourmet death_note:_another_note one_piece naruto_(series) jojo_no_kimyou_na_bouken fate_(series)
