@@ -1579,3 +1579,4 @@
 ?andrea_(knights_of_guinevere) -> knights_of_guinevere disco_elysium the_legend_of_zelda the_legend_of_zelda:_tears_of_the_kingdom panty_&_stocking_with_garterbelt the_amazing_digital_circus the_owl_house blade_runner_(series) blade_runner_2049
 ?francesca_(knights_of_guinevere) -> knights_of_guinevere disco_elysium panty_&_stocking_with_garterbelt the_owl_house blade_runner_(series) blade_runner_2049
 ?olivia_park -> knights_of_guinevere pieta
+?princess_guinevere -> knights_of_guinevere vocaloid the_amazing_digital_circus danganronpa_(series) bishoujo_senshi_sailor_moon monitoring_(vocaloid) murder_drones perfect_blue slay_the_princess pieta
