@@ -997,3 +997,4 @@
 ?halo_sweety -> indie_virtual_youtuber gamer_supps chainsaw_man touken_ranbu vinesauce
 ?ayase_seiko -> dandadan naruto_(series) sousou_no_frieren mob_psycho_100 bayonetta_(series) shounen_jump original gokurakugai one_piece chainsaw_man
 ?oguri_cap_(starlight_beat)_(umamusume) -> umamusume umamusume:_cinderella_gray kantai_collection real_life umamusume:_road_to_the_top pokemon fate_(series) jujutsu_kaisen kirby_(series) dragon_ball
+?oguri_cap_(umamusume) -> umamusume umamusume:_cinderella_gray pokemon umamusume:_road_to_the_top kantai_collection cygames kfc real_life godzilla_(series) gundam
