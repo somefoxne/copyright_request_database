@@ -3730,3 +3730,4 @@
 ?aeon_flux -> aeon_flux_(series) ergo_proxy
 ?aerith_gainsborough_(ruddy_pink_dress) -> final_fantasy final_fantasy_vii final_fantasy_vii_remake final_fantasy_vii:_advent_children kingdom_hearts crisis_core:_final_fantasy_vii kingdom_hearts_ii final_fantasy_vii_rebirth square_enix before_crisis:_final_fantasy_vii
 ?isaac_(the_binding_of_isaac) -> the_binding_of_isaac cave_story super_meat_boy dragon_ball utdr_(toby_fox) minecraft gish_(game) final_fantasy undertale among_us
+?toga_himiko -> boku_no_hero_academia chainsaw_man dc_comics cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 marvel yofukashi_no_uta pokemon sousou_no_frieren
