@@ -3124,3 +3124,4 @@
 ?higashiyama_kobeni -> chainsaw_man the_amazing_digital_circus bocchi_the_rock! bemani dance_dance_revolution real_life breaking_bad original resident_evil
 ?mornye_(wuthering_waves) -> wuthering_waves cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 comiket_107 irasutoya bocchi_the_rock! punishing:_gray_raven kuro_games original
 ?lyrah_(fire_emblem) -> fire_emblem
+?itadori_yuji -> jujutsu_kaisen jujutsu_kaisen_modulo chainsaw_man naruto_(series) boku_no_hero_academia spy_x_family one_piece shounen_jump kimetsu_no_yaiba bleach
