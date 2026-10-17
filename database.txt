@@ -4137,3 +4137,4 @@
 ?ho-oh -> pokemon pokemon_heartgold_and_soulsilver pokemon_gold/silver/crystal pokemon_(anime) pokemon_masters_ex pokemon_(classic_anime) pokemon_diamond/pearl/platinum pokemon_red/green/blue/yellow pokemon_ruby/sapphire/emerald pokemon_firered_and_leafgreen
 ?fushiguro_toji -> jujutsu_kaisen original spy_x_family kfc family_guy umamusume one_piece boku_no_hero_academia dragon_ball shingeki_no_kyojin
 ?noy_(genshin_impact) -> genshin_impact crunchyroll
+?tsaritsa's_son_(genshin_impact) -> genshin_impact honkai_(series) honkai:_star_rail mihoyo tomodachi_life tomodachi_life:_living_the_dream woman_with_a_parasol
