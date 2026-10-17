@@ -1441,3 +1441,4 @@
 ?nomura_miki -> summer_pockets key_(company) little_busters! angel_beats! kanon higurashi_no_naku_koro_ni clannad air_(visual_novel) rewrite charlotte_(anime)
 ?sorakado_ao -> summer_pockets key_(company) angel_beats! comiket_95 little_busters! clannad rewrite comiket_106 comiket_103 comiket_96
 ?elizabeth_rose_bloodflame -> hololive hololive_english enigmatic_recollection hololive_indonesia hololive_dev_is holostars holostars_english umamusume shoujo_kakumei_utena hololive_official_card_game
+?elizabeth_rose_bloodflame_(casual) -> hololive hololive_english enigmatic_recollection
