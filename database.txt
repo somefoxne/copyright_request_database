@@ -1568,3 +1568,4 @@
 ?enna_alouette -> nijisanji nijisanji_en nijisanji_id pokemon kamippoina_(vocaloid) nijisanji_kr hololive resident_evil among_us nijisanji_koshien
 ?millie_parfait -> nijisanji nijisanji_en nijisanji_kr nijisanji_id pokemon hololive hololive_english hololive_indonesia minecraft final_fantasy
 ?mononobe_no_futo -> touhou ten_desires touhou_(pc-98) hopeless_masquerade urban_legend_in_limbo undefined_fantastic_object embodiment_of_scarlet_devil pokemon perfect_cherry_blossom
+?reiuji_utsuho -> touhou subterranean_animism reitaisai reitaisai_8_contest touhou_tag_dream touhou_(pc-98) cookie_(touhou) original touhou_lostword gundam
