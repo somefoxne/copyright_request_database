@@ -4228,3 +4228,4 @@
 ?yagami_iori -> the_king_of_fighters snk fatal_fury ryuuko_no_ken the_king_of_fighters_xv samurai_spirits street_fighter snk_heroines:_tag_team_frenzy tsukihime the_king_of_fighters_all-stars
 ?lucina_(fire_emblem) -> fire_emblem fire_emblem_awakening fire_emblem_heroes super_smash_bros. fire_emblem_fates kid_icarus fire_emblem:_mystery_of_the_emblem fire_emblem_cipher mario_(series) the_legend_of_zelda
 ?jiyan_(wuthering_waves) -> wuthering_waves original genshin_impact honkai_(series) honkai:_star_rail mihoyo punishing:_gray_raven adventure_time kuro_games real_husbands_of_hollywood
+?yoroizuka_mizore -> hibike!_euphonium liz_to_aoi_tori kyoto_animation gekijouban_hibike!_euphonium kobayashi-san_chi_no_maidragon shoujo_kageki_revue_starlight megami_magazine newtype tamako_market violet_evergarden_(series)
