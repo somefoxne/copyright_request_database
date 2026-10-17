@@ -1597,3 +1597,4 @@
 ?huckit_crab -> mario_(series) super_mario_64 super_mario_sunshine hotel_mario
 ?noki_(mario) -> mario_(series) super_mario_sunshine
 ?pianta -> mario_(series) super_mario_sunshine pikmin_(series) paper_mario_(series) super_paper_mario kirby_(series) mario_kart donkey_kong_(series) paper_mario:_the_thousand-year_door
+?super_koopa -> mario_(series) super_mario_world touhou super_mario_rpg super_mario_sunshine super_marisa_world
