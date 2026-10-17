@@ -1152,3 +1152,4 @@
 ?esmeralda_sinza -> fire_emblem vocaloid fire_emblem_heroes dragon_ball dragon_ball_z fire_emblem:_path_of_radiance fire_emblem:_the_sacred_stones hokuto_no_ken
 ?espresso_cookie -> cookie_run cookie_run:_kingdom cookie_run:_ovenbreak genshin_impact honkai_(series) honkai:_star_rail rabbit_hole_(vocaloid) tongari_boushi_no_atelier magnet_(vocaloid)
 ?seaweed_cookie -> cookie_run cookie_run:_kingdom
+?fujimaru_ritsuka_(female) -> fate_(series) fate/grand_order fate/extra fate/stay_night fate/apocrypha learning_with_manga!_fgo fate/extra_ccc fate/zero koha-ace fate/kaleid_liner_prisma_illya
