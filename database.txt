@@ -3738,3 +3738,4 @@
 ?jubilee_(marvel) -> marvel x-men marvel_rivals x-men:_the_animated_series spider-man_(series) the_incredible_hulk_(series) street_fighter darkstalkers deadpool_(series) fantastic_four
 ?venom_(marvel) -> marvel spider-man_(series) marvel_rivals x-men venom_(2018) fantastic_four spider-verse avengers_(series) the_incredible_hulk_(series)
 ?yamakaze_(kancolle) -> kantai_collection azur_lane umamusume dragon_quest lawson bunny_garden choo_choo_train pokemon girls_und_panzer kamen_rider
+?niitsu_kurumi -> assault_lily
