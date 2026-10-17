@@ -1392,3 +1392,4 @@
 ?riza_hawkeye -> fullmetal_alchemist fullmetal_alchemist_mobile fullmetal_alchemist_(2003) fate_(series) fate/stay_night neon_genesis_evangelion fate/zero gintama konjiki_no_gash!! fullmetal_alchemist_the_movie:_conqueror_of_shamballa
 ?juo_sena -> idolmaster gakuen_idolmaster hajime_(idolmaster) happy_mille-feuille_(idolmaster) chiisana_yabou_(idolmaster) cosmetic_(idolmaster) kimi_to_semi_blue_(idolmaster) star-mine_(idolmaster) sekirara_(idolmaster) sekaiichi_kawaii_watashi_(idolmaster)
 ?akeuchi_yuu -> hoshikuzu_telepath manga_time_kirara megami_magazine ultra_series kirara_fantasia discord bocchi_the_rock! k-on! kamen_rider yuyushiki
+?konohoshi_umika -> hoshikuzu_telepath manga_time_kirara megami_magazine original blue_archive bocchi_the_rock! utau girls_band_cry onii-chan_wa_oshimai! machikado_mazoku
