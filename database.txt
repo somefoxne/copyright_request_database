@@ -2861,3 +2861,4 @@
 ?shinonome_ena -> project_sekai vocaloid zozotown sanrio my_melody_(series) salamander_(vocaloid) alien_stage kowareta_sekai_to_utaenai_miku gehenna_(vocaloid) cat_loving_(cevio)
 ?kamado_tanjirou -> kimetsu_no_yaiba kimetsu_gakuen boku_no_hero_academia pokemon one_piece jujutsu_kaisen sekiro:_shadows_die_twice shounen_jump original naruto_(series)
 ?biko_pegasus_(choi_waru_hero_kenzan!)_(umamusume) -> umamusume
+?fenomeno_(violet_flame_of_fortitude)_(umamusume) -> umamusume kindergarten_cop
