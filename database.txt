@@ -1560,3 +1560,4 @@
 ?rachel_purity -> original real_life
 ?backbeako_(torotei) -> original gegege_no_kitarou futaba_channel nijiura_maids os-tan suigetsu rozen_maiden vocaloid idolmaster yoshino_gypsum
 ?backbeard -> gegege_no_kitarou original futaba_channel nijiura_maids os-tan touhou suigetsu rozen_maiden gundam marvel
+?agnes_tachyon_(lunatic_lab)_(umamusume) -> umamusume kantai_collection umamusume:_beginning_of_a_new_era umamusume:_cinderella_gray pokemon idolmaster mahou_shoujo_madoka_magica precure mahou_shoujo_madoka_magica_(anime) dragon_ball
