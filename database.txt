@@ -1445,3 +1445,4 @@
 ?rosarian_(elizabeth_rose_bloodflame) -> hololive hololive_english goddess_of_victory:_nikke hololive_indonesia world_cup 2026_fifa_world_cup enigmatic_recollection meccha_chameleon illit not_cute_anymore_(illit)
 ?lich_of_flowers -> maiden_and_spell
 ?ninomae_ina'nis -> hololive hololive_english hololive_indonesia minecraft monster_hunter_(series) pokemon hololive_dev_is
+?takodachi_(ninomae_ina'nis) -> hololive hololive_english hololive_indonesia pokemon minecraft monster_hunter_(series) vocaloid indie_virtual_youtuber
