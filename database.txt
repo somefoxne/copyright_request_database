@@ -2990,3 +2990,4 @@
 ?epsilon_(kagejitsu) -> kage_no_jitsuryokusha_ni_naritakute! kage_no_jitsuryokusha_ni_naritakute!_master_of_garden vocaloid newtype kadokawa hololive yu-gi-oh! megami_magazine minecraft youkai_watch
 ?trey_clover_(sweet_avatar) -> twisted_wonderland wreck-it_ralph
 ?aloupeep_(enna_alouette) -> nijisanji nijisanji_en kamippoina_(vocaloid) vocaloid persona boku_no_hero_academia jujutsu_kaisen persona_5 sanrio dark_souls_(series)
+?lucie_(millie_parfait) -> nijisanji nijisanji_en pokemon hololive hololive_english pokemon_diamond/pearl/platinum hololive_indonesia minecraft mickey_mouse_&_friends nijisanji_kr
