@@ -1777,3 +1777,4 @@
 ?sakayori_iroha_(tsukuyomi) -> cho_kaguya-hime! zootopia sweets_paradise comiket_108 the_weaker_sex_1_(gibson) jojo_no_kimyou_na_bouken jujutsu_kaisen kill_la_kill ultra_series watashi_ga_koibito_ni_nareru_wake_naijan_murimuri!
 ?mitarashi_anko -> naruto_(series) naruto_(classic) naruto_shippuuden boruto_(series) boruto:_naruto_next_generations hentai_key naruto:_the_last naruto_shippuuden:_ultimate_ninja_blazing monsterhentai mahou_shoujo_madoka_magica
 ?giryn_(gigi_murin) -> hololive hololive_english shattered_legends
+?ban_airi -> devil_survivor_(series) devil_survivor_2 persona persona_5 cardcaptor_sakura megami_magazine haiyore!_nyaruko-san devil_survivor_1
