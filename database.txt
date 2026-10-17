@@ -2525,3 +2525,4 @@
 ?estelle_(black_survival) -> black_survival eternal_return:_black_survival goddess_of_victory:_nikke kill_la_kill darkstalkers daejeon_autoarms
 ?hachiware_(chiikawa) -> chiikawa original sanrio pokemon vocaloid hello_kitty my_melody_(series) 7-eleven boku_no_hero_academia
 ?hati_(dolls_nest) -> dolls_nest armored_core dolls_nest:_orphans armored_core_vi:_fires_of_rubicon gundam gundam_gquuuuuux chiikawa
+?steel_haze_ortus -> armored_core armored_core_vi:_fires_of_rubicon blue_archive chiikawa fromsoftware dolls_nest
