@@ -1741,3 +1741,4 @@
 ?twilight_sparkle_(human) -> my_little_pony my_little_pony:_friendship_is_magic my_little_pony:_equestria_girls equestria_girls_(movie) panty_&_stocking_with_garterbelt kotobukiya_bishoujo equestria_girls:_friendship_games dc_comics teen_titans genshin_impact
 ?pwie_(project_moon) -> project_moon limbus_company jujutsu_kaisen utdr_(toby_fox) mahou_shoujo_no_majo_saiban deltarune fear_&_hunger_(series) youtube doom_(series) fear_&_hunger_1
 ?emma_(drap15) -> original
+?jack_frost_(megami_tensei) -> persona shin_megami_tensei sekaiju_no_meikyuu sekaiju_no_meikyuu_2 persona_3 persona_4 persona_5 persona_3_portable devil_summoner_(series) shin_megami_tensei_v
