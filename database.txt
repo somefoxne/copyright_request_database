@@ -1214,3 +1214,4 @@
 ?kamille_bidan -> gundam zeta_gundam gundam_zz mobile_suit_gundam gundam_wing gundam_unicorn gundam_00 gundam_seed g_gundam
 ?quattro_bajeena -> gundam zeta_gundam mobile_suit_gundam gundam_zz gundam_gquuuuuux gundam_unicorn umamusume kantai_collection super_robot_wars
 ?firenze_(stella_sora) -> stella_sora azur_lane zenless_zone_zero goddess_of_victory:_nikke
+?hijiri_byakuren -> touhou undefined_fantastic_object touhou_(pc-98) urban_legend_in_limbo touhou_tag_dream hopeless_masquerade reitaisai touhou_lostword ten_desires embodiment_of_scarlet_devil
