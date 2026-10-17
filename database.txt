@@ -4014,3 +4014,4 @@
 ?santa_claus_(chainsaw_man) -> chainsaw_man neon_genesis_evangelion marvel rebuild_of_evangelion spider-man_(series) sono_bisque_doll_wa_koi_wo_suru black_lagoon evangelion:_3.0+1.0_thrice_upon_a_time instagram
 ?stella_maiougi -> rose_guns_days higurashi_no_naku_koro_ni umineko_no_naku_koro_ni
 ?oumi_shiori -> watashi_wo_tabetai_hitodenashi vocaloid nijisanji newtype yagate_kimi_ni_naru the_lovers_(studio_heartbreak) kantai_collection hololive indie_virtual_youtuber chainsaw_man
+?yaotose_hinako -> watashi_wo_tabetai_hitodenashi kamen_rider newtype yagate_kimi_ni_naru kamen_rider_zeztz_(series) the_lovers_(studio_heartbreak) genshin_impact bocchi_the_rock! hunter_x_hunter megami_magazine
