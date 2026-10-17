@@ -3548,3 +3548,4 @@
 ?sally_whitemane -> warcraft world_of_warcraft heroes_of_the_storm mega_man_(series) overwatch mega_man_(classic) youjo_senki egyptian_mythology mega_man_2
 ?nimi_nightmare_(goth) -> indie_virtual_youtuber hololive hololive_english densetsu.exe original vinesauce 3am
 ?alice_(black_souls) -> black_souls black_souls_2 touhou blue_archive original trickcal fate_(series) arknights goddess_of_victory:_nikke
+?grimm_(black_souls) -> black_souls black_souls_2 blue_archive project_moon limbus_company jujutsu_kaisen dead_red_hood touhou vocaloid
