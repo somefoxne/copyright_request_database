@@ -1771,3 +1771,4 @@
 ?takemi_tae -> persona persona_5 persona_5_the_royal persona_3 persona_4 fate_(series) fate/grand_order fire_emblem guilty_gear atlus
 ?umezato_chieri -> bang_dream! bang_dream!_our_notes jojo_no_kimyou_na_bouken bang_dream!_girls_band_party! bleach stardust_crusaders steel_ball_run bang_dream!_yumemita sweets_paradise
 ?tanigawa_ruri -> ruri_no_houseki onii-chan_wa_oshimai! studio_bind minecraft houseki_no_kuni blue_archive umamusume yu-gi-oh! dragon_quest kill_la_kill
+?akehoshi_subaru -> ensemble_stars! idolmaster vocaloid love_live! love_live!_school_idol_project idolmaster_side-m uta_no_prince-sama idolish7 ensemble_girls! i-chu
