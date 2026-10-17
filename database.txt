@@ -1691,3 +1691,4 @@
 ?namipon_(wuthering_waves) -> wuthering_waves samsung redmagic gs25 silent_hill_(series) silent_hill_f lawson irasutoya persona persona_5
 ?rover_(wuthering_waves) -> wuthering_waves cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 genshin_impact honkai_(series) honkai:_star_rail mihoyo zenless_zone_zero comiket_105
 ?mathilda_lando -> leon_the_professional idolmaster real_life fate_(series) idolmaster_cinderella_girls neon_genesis_evangelion resident_evil lycoris_recoil kick-ass original
+?gigi_murin_(casual) -> hololive hololive_english
