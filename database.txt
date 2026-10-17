@@ -1181,3 +1181,4 @@
 ?altair_(re:creators) -> re:creators fate_(series) original fate/grand_order honkai_(series) granblue_fantasy persona persona_5 nier_(series) nier:automata
 ?leda_(fire_emblem) -> fire_emblem fire_emblem_heroes fire_emblem:_three_houses fire_emblem_engage fire_emblem_shadows final_fantasy final_fantasy_vii dragon_ball fire_emblem_fates
 ?olympia_iris -> fire_emblem fire_emblem:_three_houses
+?anatolia_(fire_emblem) -> fire_emblem fire_emblem_fates resident_evil resident_evil_4 jojo_no_kimyou_na_bouken fire_emblem:_three_houses real_life vento_aureo fire_emblem:_the_sacred_stones
