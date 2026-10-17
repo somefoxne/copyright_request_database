@@ -2512,3 +2512,4 @@
 ?mafuyu_(vrchat) -> vrchat original pokemon hololive escape_from_tarkov puppet_sunsun
 ?salt_(komado_booth) -> vrchat
 ?sanatia_(vrchat) -> vrchat
+?katsuragi_misato -> neon_genesis_evangelion rebuild_of_evangelion evangelion:_3.0_you_can_(not)_redo evangelion:_2.0_you_can_(not)_advance kantai_collection chainsaw_man bishoujo_senshi_sailor_moon evangelion:_3.0+1.0_thrice_upon_a_time the_end_of_evangelion gainax
