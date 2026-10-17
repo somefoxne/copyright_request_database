@@ -1252,3 +1252,4 @@
 ?spider-man -> marvel spider-man_(series) marvel_rivals x-men spider-verse spider-man:_brand_new_day deadpool_(series) avengers_(series) marvel_vs._capcom darkstalkers
 ?spider-man_(original_suit) -> marvel spider-man_(series) x-men marvel_rivals spider-verse spider-man:_brand_new_day deadpool_(series) marvel_vs._capcom avengers_(series) darkstalkers
 ?the_punisher_(character) -> marvel the_punisher_(series) spider-man_(series) marvel_rivals x-men spider-man:_brand_new_day daredevil_(series) avengers_(series) guardians_of_the_galaxy the_incredible_hulk_(series)
+?araragi_koyomi -> monogatari_(series) bakemonogatari nisemonogatari kizumonogatari nekomonogatari owarimonogatari mahou_shoujo_madoka_magica sayonara_zetsubou_sensei kabukimonogatari zoku_owarimonogatari
