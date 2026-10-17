@@ -1337,3 +1337,4 @@
 ?rainbow_dash -> my_little_pony my_little_pony:_friendship_is_magic my_little_pony:_equestria_girls touhou pokemon sonic_(series) kotobukiya_bishoujo vocaloid equestria_girls:_better_together umamusume
 ?rainbow_dash_(equestria_girls) -> my_little_pony my_little_pony:_friendship_is_magic my_little_pony:_equestria_girls equestria_girls:_better_together equestria_girls:_rainbow_rocks equestria_girls:_forgotten_friendship umamusume sonic_(series) mario_(series) real_life
 ?choco-chan -> original starbucks indie_virtual_youtuber uber_eats
+?ashton_marten_(vtuber) -> indie_virtual_youtuber vinesauce 3am densetsu.exe original idolmaster idolmaster_(classic) vspo! cinderella_(disney_movie) glitch_stars
