@@ -2681,3 +2681,4 @@
 ?nagae_iku -> touhou saturday_night_fever touhou_(pc-98) scarlet_weather_rhapsody pokemon touhou_hisoutensoku original immaterial_and_missing_power embodiment_of_scarlet_devil
 ?aihara_tsubaki -> ongeki love_live! love_live!_hasu_no_sora_jogakuin_school_idol_club world_dai_star re:stage! chunithm monopoly the_game_of_life_(board_game) rilu_rilu_fairilu
 ?porno_(dohna_dohna) -> dohna_dohna_issho_ni_warui_koto_o_shiyou rance_(series) blue_archive muse_dash alicesoft original fate_(series) fate/grand_order disgaea choukou_(alicesoft)
+?maruzensky_(formula_r)_(umamusume) -> umamusume umamusume:_cinderella_gray kamen_rider kamen_rider_drive_(series) akari_ga_yatte_kitazo_(vocaloid) fate_(series) real_life formula_one pokemon fate/stay_night
