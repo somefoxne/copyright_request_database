@@ -3533,3 +3533,4 @@
 ?della_(tate_no_yuusha_no_nariagari_rise) -> tate_no_yuusha_no_nariagari tate_no_yuusha_no_nariagari_rise
 ?linde_kael_(tate_no_yuusha_no_nariagari_rise) -> tate_no_yuusha_no_nariagari tate_no_yuusha_no_nariagari_rise
 ?nameko_(tate_no_yuusha_no_nariagari_rise) -> tate_no_yuusha_no_nariagari tate_no_yuusha_no_nariagari_rise
+?arrow_(tate_no_yuusha_no_nariagari_rise) -> tate_no_yuusha_no_nariagari tate_no_yuusha_no_nariagari_rise
