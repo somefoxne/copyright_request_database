@@ -1310,3 +1310,4 @@
 ?tamayo_(kimetsu_no_yaiba) -> kimetsu_no_yaiba houseki_no_kuni final_fantasy final_fantasy_vii final_fantasy_vii_remake kuroshitsuji ousama_ranking
 ?invisigal_(dispatch) -> dispatch chainsaw_man league_of_legends marvel marvel_rivals arcane:_league_of_legends fantastic_four fate_(series) fate/grand_order overwatch
 ?robert_robertson -> dispatch fate_(series) fate/grand_order hololive hololive_english marvel dc_comics batman_(series) the_wolf_among_us alien_stage
+?kino_(kino_no_tabi) -> kino_no_tabi gakuen_kino shakugan_no_shana touhou umamusume toaru_majutsu_no_index kantai_collection idolmaster dengeki_bunko fate_(series)
