@@ -1623,3 +1623,4 @@
 ?mlp-tan -> original 4chan
 ?s4s-tan -> 4chan original
 ?kaho_eira -> kimi_no_koto_ga_dai_dai_dai_dai_daisuki_na_100-nin_no_kanojo one_piece grand_theft_auto grand_theft_auto_vi cars_(movie) cars_3
+?terui_arisu -> seitokai_ni_mo_ana_wa_aru! original fate_(series) fate/grand_order idolmaster idolmaster_cinderella_girls dragon_quest lucky_star darkstalkers onii-chan_wa_oshimai!
