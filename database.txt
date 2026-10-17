@@ -2147,3 +2147,4 @@
 ?huyan_zhuo_(swimsuit_berserker)_(fate) -> fate_(series) fate/grand_order umamusume indie_virtual_youtuber hololive hololive_english comiket_107
 ?tachibana_arisu -> idolmaster idolmaster_cinderella_girls idolmaster_cinderella_girls_starlight_stage idolmaster_cinderella_girls_u149 cinderella_girls_gekijou seizon_honnou_valkyria_(idolmaster) idolmaster_million_live! blue_archive kantai_collection
 ?nilou_(genshin_impact) -> genshin_impact mihoyo honkai_(series) gigo yu-gi-oh! blue_archive yu-gi-oh!_arc-v honkai_impact_3rd honkai:_star_rail zenless_zone_zero
+?kamogawa_asumi -> futatsu_no_spica uchuu_kyoudai
