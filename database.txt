@@ -2322,3 +2322,4 @@
 ?tachibana_sherry -> mahou_shoujo_no_majo_saiban treasure_cafe astral_party comiket_108 karaoke_manekineko bang_dream! pokemon project_moon limbus_company
 ?sajo_yukimi -> idolmaster idolmaster_cinderella_girls idolmaster_cinderella_girls_starlight_stage cinderella_girls_gekijou idolmaster_cinderella_girls_u149 suzumiya_haruhi_no_yuuutsu comiket_103 idolmaster_(classic) kantai_collection gakuen_idolmaster
 ?archetype_earth_(third_ascension) -> fate_(series) fate/grand_order tsukihime tsukihime_(remake) type-moon melty_blood melty_blood:_type_lumina kagetsu_tooya fate/strange_fake fate/stay_night
+?pecorine_(princess_connect!) -> princess_connect! cygames umamusume idolmaster idolmaster_cinderella_girls granblue_fantasy kantai_collection fate_(series) pokemon fate/grand_order
