@@ -1748,3 +1748,4 @@
 ?ichikawa_kyoutarou -> boku_no_kokoro_no_yabai_yatsu re:zero_kara_hajimeru_isekai_seikatsu rabbit_hole_(vocaloid) mitsudomoe_(manga) otaku-kun_to_gyaru_no_koi splatoon_(series) bocchi_the_rock! sousou_no_frieren kimetsu_no_yaiba kirby_(series)
 ?yamada_anna -> boku_no_kokoro_no_yabai_yatsu megami_magazine make_heroine_ga_oo_sugiru! komi-san_wa_komyushou_desu ijiranaide_nagatoro-san original re:zero_kara_hajimeru_isekai_seikatsu rabbit_hole_(vocaloid) animedia sono_bisque_doll_wa_koi_wo_suru
 ?captain_falcon -> f-zero super_smash_bros. mario_(series) kirby_(series) the_legend_of_zelda pokemon metroid fire_emblem pikmin_(series) star_fox
+?cloud_mario -> mario_(series) super_mario_galaxy_2 super_mario_galaxy super_mario_bros._3 super_mario_64 super_mario_world new_super_mario_bros._wii super_mario_3d_world super_mario_sunshine super_mario_3d_land
