@@ -3491,3 +3491,4 @@
 ?el_condor_pasa_(el_numero_1)_(umamusume) -> umamusume pokemon arknights real_life hololive jojo_no_kimyou_na_bouken hololive_indonesia japan_racing_association umamusume:_cinderella_gray
 ?beryl_bouanich -> reverse:1999 honkai_(series) honkai_impact_3rd project_moon limbus_company real_life axis_powers_hetalia call_of_cthulhu detroit:_become_human b.duck
 ?matilda_bouanich -> reverse:1999 pizza_hut neon_genesis_evangelion olympics 2024_summer_olympics ganbare!_nakamura-kun!! b.duck original fate_(series) genshin_impact
+?astolfo_(fate) -> fate_(series) fate/grand_order fate/apocrypha fate/extra fate/extella fate/extella_link original guilty_gear re:zero_kara_hajimeru_isekai_seikatsu learning_with_manga!_fgo
