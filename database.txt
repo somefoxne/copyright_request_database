@@ -1348,3 +1348,4 @@
 ?luvencia_(ocean_vanguard)_(brown_dust) -> brown_dust_(series) brown_dust_2
 ?leaf_(black_souls) -> black_souls black_souls_2 original touhou blue_archive project_moon chainsaw_man bravely_default_(series) bravely_default:_flying_fairy
 ?raiden_mei_(lightning_empress) -> honkai_(series) honkai_impact_3rd date_a_live honkai_gakuen pokemon marvel helltaker re:creators
+?sophia_valentine -> nijisanji nijisanji_en nijisanji_kr nijisanji_gta pokemon grand_theft_auto nijisanji_id grand_theft_auto_v lycoris_recoil minecraft
