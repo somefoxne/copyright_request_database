@@ -4178,3 +4178,4 @@
 ?astolfo_(rider)_(fate) -> fate_(series) fate/apocrypha fate/grand_order fate/extra learning_with_manga!_fgo original fate/extella fate/extella_link fate/stay_night fate/extra_ccc
 ?astolfo_(saber)_(fate) -> fate_(series) fate/grand_order fate/apocrypha original fate/extra fate/extella fate/extella_link kantai_collection learning_with_manga!_fgo arknights
 ?astolfo_(sailor_paladin)_(fate) -> fate_(series) fate/grand_order fate/apocrypha original guilty_gear kantai_collection guilty_gear_strive blend_s genshin_impact re:zero_kara_hajimeru_isekai_seikatsu
+?usami_sumireko -> touhou urban_legend_in_limbo touhou_(pc-98) violet_detector curiosities_of_lotus_asia touhou_lostword legacy_of_lunatic_kingdom pokemon antinomy_of_common_flowers
