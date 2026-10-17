@@ -2501,3 +2501,4 @@
 ?lilith_(darkstalkers) -> darkstalkers street_fighter capcom touhou original mega_man_(series) street_fighter_zero_(series) kantai_collection marvel mega_man_(classic)
 ?bihyung_(black_survival) -> black_survival eternal_return:_black_survival
 ?qingxiao_(wuthering_waves) -> wuthering_waves zenless_zone_zero original goddess_of_victory:_nikke mato_seihei_no_slave fancy_frontier_47 imax
+?yagami_light -> death_note touhou naruto_(series) one_piece jojo_no_kimyou_na_bouken dragon_ball bleach pokemon naruto_(classic) fullmetal_alchemist
