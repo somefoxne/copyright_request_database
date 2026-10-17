@@ -1696,3 +1696,4 @@
 ?misaka_ibuki -> kagurabachi jujutsu_kaisen aizo_(king_gnu)
 ?misaka_natsuki_(kagurabachi) -> kagurabachi jujutsu_kaisen aizo_(king_gnu)
 ?roselia_(pokemon) -> pokemon pokemon_(anime) pokemon_the_series:_ruby_and_sapphire pokemon_diamond/pearl/platinum pokemon_ruby/sapphire/emerald pokemon_the_series:_diamond_and_pearl pokemon_omega_ruby_and_alpha_sapphire pokemon_emerald pokemon_(classic_anime) pokemon_legends:_arceus
+?vibrava -> pokemon pokemon_ruby/sapphire/emerald pokemon_sword_and_shield vocaloid pokemon_(anime) pokemon_diamond/pearl/platinum pokemon_omega_ruby_and_alpha_sapphire pokemon_firered_and_leafgreen pokemon_(classic_anime) pokemon_tcg
