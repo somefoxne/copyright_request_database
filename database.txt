@@ -1953,3 +1953,4 @@
 ?phoebe_(wuthering_waves) -> wuthering_waves blue_archive arknights lawson gs25 arknights:_endfield cardcaptor_sakura genshin_impact honkai_(series) honkai:_star_rail
 ?nakano_ichika -> go-toubun_no_hanayome megami_magazine comiket_98 pokemon comiket_96 kimetsu_no_yaiba starbucks hataraku_saibou comiket_105 amagami-san_chi_no_enmusubi
 ?fujinokawa_haru -> guilty_library
+?miyako_asahi -> guilty_library
