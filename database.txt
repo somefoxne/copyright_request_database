@@ -1313,3 +1313,4 @@
 ?kino_(kino_no_tabi) -> kino_no_tabi gakuen_kino shakugan_no_shana touhou umamusume toaru_majutsu_no_index kantai_collection idolmaster dengeki_bunko fate_(series)
 ?andou_(girls_und_panzer) -> girls_und_panzer girls_und_panzer_saishuushou girls_und_panzer_senshadou_daisakusen! girls_und_panzer_motto_love_love_sakusen_desu! girls_und_panzer_ribbon_no_musha gekitotsu!_joshikousei_oiroke_sensha_gundan versailles_no_bara megami_magazine yu-gi-oh! dragon_ball
 ?oshida_(girls_und_panzer) -> girls_und_panzer girls_und_panzer_saishuushou girls_und_panzer_senshadou_daisakusen! girls_und_panzer_motto_love_love_sakusen_desu! gekitotsu!_joshikousei_oiroke_sensha_gundan girls_und_panzer_ribbon_no_musha versailles_no_bara megami_magazine yu-gi-oh! pokemon
+?raiden_shogun -> genshin_impact honkai_(series) mihoyo honkai:_star_rail honkai_impact_3rd original zenless_zone_zero fate_(series) pokemon fate/grand_order
