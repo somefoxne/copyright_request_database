@@ -1087,3 +1087,4 @@
 ?tartaglia_(genshin_impact) -> genshin_impact mihoyo honkai_(series) honkai:_star_rail honkai_impact_3rd tears_of_themis original spy_x_family wuthering_waves fate_(series)
 ?roxy_ifrita_pryce -> zenless_zone_zero pokemon neon_genesis_evangelion comiket_108 original gundam jujutsu_kaisen dc_comics mobile_suit_gundam
 ?tokai_teio_(beyond_the_horizon)_(umamusume) -> umamusume hololive hololive_english pokemon original nanashi_inc. kantai_collection blue_archive fate_(series) arknights
+?ace_trappola -> twisted_wonderland original fate_(series) fate/grand_order touken_ranbu disney the_nightmare_before_christmas kimetsu_no_yaiba zootopia youtube
