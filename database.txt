@@ -3178,3 +3178,4 @@
 ?ninomiya_(mahoiku) -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_restart
 ?tatsumaki_chise -> vspo! league_of_legends
 ?luna_(fizintine) -> original little_red_riding_hood_(fairy_tale) squishmallows the_ring
+?malyna_(malberrybush) -> original indie_virtual_youtuber arknights real_life phase_connect dungeons_&_dragons the_little_mermaid_(disney) ts_loli_oji-san_no_boukan the_wild_thornberrys coca-cola
