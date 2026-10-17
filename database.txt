@@ -2192,3 +2192,4 @@
 ?samus_aran -> metroid super_smash_bros. mario_(series) the_legend_of_zelda metroid_dread pokemon fire_emblem kid_icarus kirby_(series) metroid_fusion
 ?selimiye_(azur_lane) -> azur_lane
 ?dick_grayson -> dc_comics batman_(series) teen_titans red_hood_and_the_outlaws original dc:_dark_legion absolute_dc absolute_batman superman_(series) young_justice
+?dick_grayson_(absolute_dc) -> dc_comics absolute_dc absolute_batman batman_(series) cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 tonari_no_totoro gorillaz absolute_wonder_woman
