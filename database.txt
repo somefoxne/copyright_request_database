@@ -1937,3 +1937,4 @@
 ?nakano_nino -> go-toubun_no_hanayome megami_magazine comiket_98 fate_(series) kantai_collection pokemon comiket_96 fate/grand_order fire_emblem original
 ?mayano_top_gun_(rockin'_mewmeow)_(umamusume) -> umamusume pudu_robotics blue_archive darkstalkers sanrio azumanga_daioh my_melody_(series) ghostbusters tokyo_metro tokyo_sports
 ?uzuki_kou -> nijisanji pokemon monitoring_(vocaloid) nijisanji_kr nijisanji_koshien nijisanji_en vspo! sana_channel crazy_raccoon indie_virtual_youtuber
+?uzuki_kou_(3rd_costume) -> nijisanji monitoring_(vocaloid) vspo! crazy_raccoon nijisanji_kr dream_c_club_(series) dream_c_club dream_c_club_zero blue_archive pokemon
