@@ -4272,3 +4272,4 @@
 ?kougetsu_shinzou_(ishiyumi) -> original mechanical_buddy_universe
 ?otsugetsu_(mechanical_buddy_universe) -> mechanical_buddy_universe
 ?rainy_(mechanical_buddy_universe) -> mechanical_buddy_universe original google ma_no_mono-tachi ma_no_mono-tachi_wa_kuwadateru
+?murasame_kai_ni_(kancolle) -> kantai_collection little_red_riding_hood_(fairy_tale) gundam round1 fate_(series) hololive fate/grand_order umamusume taimanin_(series) the_seven-year_itch
