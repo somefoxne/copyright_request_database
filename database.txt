@@ -1920,3 +1920,4 @@
 ?esdeath -> akame_ga_kill! chainsaw_man original kantai_collection high_school_dxd fate_(series) genshin_impact one_piece persona kono_subarashii_sekai_ni_shukufuku_wo!
 ?maria_(umineko) -> umineko_no_naku_koro_ni higurashi_no_naku_koro_ni alliance_of_the_golden_witch higanbana_no_saku_yoru_ni kantai_collection umamusume vocaloid yu-gi-oh! neon_genesis_evangelion suzumiya_haruhi_no_yuuutsu
 ?sakutarou_(umineko) -> umineko_no_naku_koro_ni higurashi_no_naku_koro_ni alliance_of_the_golden_witch touhou suzumiya_haruhi_no_yuuutsu higanbana_no_saku_yoru_ni ougon_musou_kyoku vocaloid pokemon gundam
+?ushiromiya_maria -> umineko_no_naku_koro_ni higurashi_no_naku_koro_ni turn_of_the_golden_witch touhou alliance_of_the_golden_witch vocaloid lucky_star legend_of_the_golden_witch persona k-on!
