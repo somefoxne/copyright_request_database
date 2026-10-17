@@ -3641,3 +3641,4 @@
 ?t-head_admiral -> kantai_collection comiket_95 idolmaster azur_lane warship_girls_r umamusume gundam fate_(series) lawson jojo_no_kimyou_na_bouken
 ?snom -> pokemon pokemon_sword_and_shield pokemon_scarlet_and_violet vshojo original pokemon_(anime) vocaloid pokemon_journeys pokemon_tcg project_voltage
 ?takara_miyuki -> lucky_star suzumiya_haruhi_no_yuuutsu vocaloid k-on! touhou megami_magazine macross macross_frontier kantai_collection lyrical_nanoha
+?unzan -> touhou undefined_fantastic_object touhou_(pc-98) hopeless_masquerade mountain_of_faith embodiment_of_scarlet_devil imperishable_night perfect_cherry_blossom ten_desires subterranean_animism
