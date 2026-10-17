@@ -1338,3 +1338,4 @@
 ?rainbow_dash_(equestria_girls) -> my_little_pony my_little_pony:_friendship_is_magic my_little_pony:_equestria_girls equestria_girls:_better_together equestria_girls:_rainbow_rocks equestria_girls:_forgotten_friendship umamusume sonic_(series) mario_(series) real_life
 ?choco-chan -> original starbucks indie_virtual_youtuber uber_eats
 ?ashton_marten_(vtuber) -> indie_virtual_youtuber vinesauce 3am densetsu.exe original idolmaster idolmaster_(classic) vspo! cinderella_(disney_movie) glitch_stars
+?meta_knight -> kirby_(series) super_smash_bros. fire_emblem pokemon the_legend_of_zelda mario_(series) fire_emblem:_path_of_radiance fire_emblem:_mystery_of_the_emblem kid_icarus mother_(series)
