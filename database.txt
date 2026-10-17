@@ -2437,3 +2437,4 @@
 ?shirayuki_noa -> tenshi_souzou_re-boot! yuzusoft cafe_stella_to_shinigami_no_chou senren_banka riddle_joker sanoba_witch comiket_104 amairo_islenauts coca-cola dracu-riot!
 ?cho-hakkaimon -> digimon digimon_xros_wars digimon_xros_wars:_toki_wo_kakeru_shounen_hunter-tachi digimon_frontier digimon_adventure digimon_adventure_02 digimon_tamers digimon_savers digimon_beatbreak digimon_card_game
 ?clownpiece -> touhou legacy_of_lunatic_kingdom touhou_(pc-98) touhou_lostword touhou_sangetsusei youtube jojo_no_kimyou_na_bouken curiosities_of_lotus_asia touhou_bougetsushou pokemon
+?hecatia_lapislazuli -> touhou legacy_of_lunatic_kingdom touhou_(pc-98) touhou_lostword cookie_(touhou) touhou_sangetsusei dragon_ball akatsuki_records pokemon touhou_bougetsushou
