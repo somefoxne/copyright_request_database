@@ -1983,3 +1983,4 @@
 ?hanazuki_(kancolle) -> kantai_collection
 ?gwen_stacy -> marvel spider-man_(series) spider-verse spider-man:_into_the_spider-verse spider-man:_across_the_spider-verse the_legend_of_zelda original the_legend_of_zelda:_tears_of_the_kingdom x-men avengers_(series)
 ?spider-gwen -> marvel spider-man_(series) spider-verse spider-man:_into_the_spider-verse spider-man:_across_the_spider-verse avengers_(series) spider-verse_(comics) original boku_no_hero_academia the_legend_of_zelda
+?vivian_banshee -> zenless_zone_zero mihoyo honkai_(series) genshin_impact honkai:_star_rail comiket_107 zozotown pokemon blue_archive umamusume
