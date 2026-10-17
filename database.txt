@@ -1950,3 +1950,4 @@
 ?friedrich_der_grosse_(boudoir's_lingering_flame)_(azur_lane) -> azur_lane
 ?eshmel_(pale_raven)_(fire_emblem) -> fire_emblem fire_emblem_heroes fire_emblem:_radiant_dawn angry_birds angry_birds:_dice
 ?nezha_(fire_emblem) -> fire_emblem
+?phoebe_(wuthering_waves) -> wuthering_waves blue_archive arknights lawson gs25 arknights:_endfield cardcaptor_sakura genshin_impact honkai_(series) honkai:_star_rail
