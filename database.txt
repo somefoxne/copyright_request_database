@@ -3746,3 +3746,4 @@
 ?fujisaki_jun -> arakure_ojou-sama_wa_monmon_shiteiru
 ?rien_(project_moon) -> project_moon limbus_company library_of_ruina blue_archive lobotomy_corporation saikai_(mili) jujutsu_kaisen umamusume arknights utau
 ?ouzuka_mai -> watashi_ga_koibito_ni_nareru_wake_naijan_murimuri! mahou_shoujo_no_majo_saiban love_live! resident_evil cho_kaguya-hime! resident_evil_4 shuuniichido_classmate_wo_kau_hanashi bang_dream! love_live!_nijigasaki_high_school_idol_club wizarding_world
+?aris_(armed)_(blue_archive) -> blue_archive gundam gundam_seed armored_core comiket_108 armored_core_vi:_fires_of_rubicon jujutsu_kaisen zenless_zone_zero neon_genesis_evangelion rebuild_of_evangelion
