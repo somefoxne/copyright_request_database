@@ -4017,3 +4017,4 @@
 ?yaotose_hinako -> watashi_wo_tabetai_hitodenashi kamen_rider newtype yagate_kimi_ni_naru kamen_rider_zeztz_(series) the_lovers_(studio_heartbreak) genshin_impact bocchi_the_rock! hunter_x_hunter megami_magazine
 ?yashiro_miko -> watashi_wo_tabetai_hitodenashi genshin_impact bocchi_the_rock! kamen_rider hunter_x_hunter megami_magazine mahou_shoujo_ni_akogarete watashi_ga_koibito_ni_nareru_wake_naijan_murimuri! newtype kamen_rider_w
 ?cecilia_immergreen_(1st_costume) -> hololive hololive_english hololive_indonesia enigmatic_recollection hololive_dev_is hololive_official_card_game minecraft chainsaw_man hololive_grand_theft_auto utdr_(toby_fox)
+?gigi_murin_(1st_costume) -> hololive hololive_english enigmatic_recollection hololive_indonesia minecraft september_(ewf) earth_wind_&_fire_(band) hololive_dev_is umamusume league_of_legends
