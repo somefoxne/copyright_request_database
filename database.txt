@@ -1117,3 +1117,4 @@
 ?sakihata_rimi -> science_adventure chaos;head chaos;child chaos;head_love_chu_chu! steins;gate robotics;notes blood_tune occultic;nine phantom_breaker 5pb.
 ?arimura_hinae -> science_adventure chaos;child chaos;child_love_chu_chu!! steins;gate robotics;notes chaos;head newtype dengeki_online bang_dream!
 ?heero_yuy -> gundam gundam_wing gundam_00 zeta_gundam g_gundam mobile_suit_gundam gundam_seed gundam_tekketsu_no_orphans gundam_suisei_no_majo gundam_seed_destiny
+?minamisawa_senri -> science_adventure chaos;child chaos;child_love_chu_chu!! chaos;head nazo_no_kanojo_x gundam steins;gate gundam_wing phantasm
