@@ -2382,3 +2382,4 @@
 ?snow_white_(nikke) -> goddess_of_victory:_nikke lawson ichiban_kuji jujutsu_kaisen famitsu gs25 touhou umamusume tengen_toppa_gurren_lagann warhammer_40k
 ?rappa_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail mihoyo genshin_impact zenless_zone_zero hololive hololive_english honkai_impact_3rd blue_archive fate_(series)
 ?aragaki_mikan_(bubukka) -> original
+?tachibana_momoka_(bubukka) -> original sofmap loli_bitch_island pokemon fate_(series) fate/grand_order amazon_(company) takopii_no_genzai
