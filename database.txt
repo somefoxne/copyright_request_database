@@ -3315,3 +3315,4 @@
 ?sava_k_zeos -> duel_masters dragon_musume_ni_naritakunai! mahou_shoujo_no_majo_saiban kirby_(series) magic:_the_gathering
 ?inugami_korone_(1st_costume) -> hololive hololive_english hololive_indonesia sonic_(series) doom_(series) mario_(series) pokemon youtube doom_(2016) nijisanji
 ?cael_anselm -> lovebrush_chronicles original pokemon ensemble_stars! devil_may_cry_(series) coca-cola hypnosis_mic tears_of_themis devil_may_cry_5 hua_yi_shanxin_zhiyue
+?cael_anselm_(infinite_empire) -> lovebrush_chronicles
