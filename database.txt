@@ -4230,3 +4230,4 @@
 ?jiyan_(wuthering_waves) -> wuthering_waves original genshin_impact honkai_(series) honkai:_star_rail mihoyo punishing:_gray_raven adventure_time kuro_games real_husbands_of_hollywood
 ?yoroizuka_mizore -> hibike!_euphonium liz_to_aoi_tori kyoto_animation gekijouban_hibike!_euphonium kobayashi-san_chi_no_maidragon shoujo_kageki_revue_starlight megami_magazine newtype tamako_market violet_evergarden_(series)
 ?aikawa_kizuna -> prunus_girl 7-eleven
+?evanescia_(lunar_blossoming)_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail
