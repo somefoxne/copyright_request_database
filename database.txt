@@ -3016,3 +3016,4 @@
 ?soren_(radiant_confidant)_(fire_emblem) -> fire_emblem fire_emblem:_radiant_dawn fire_emblem:_path_of_radiance fire_emblem_heroes fire_emblem:_three_houses fire_emblem_fates fire_emblem_awakening fire_emblem_cipher naruto_(series) fire_emblem_engage
 ?soren_(valentine)_(fire_emblem) -> fire_emblem fire_emblem_heroes fire_emblem:_path_of_radiance fire_emblem:_radiant_dawn charlotte_(anime)
 ?neeko_(aldehyde) -> original neeko_wa_tsurai_yo coca-cola line_(naver) nintendo hinako_note tonari_no_kyuuketsuki-san pokemon indie_virtual_youtuber yu-gi-oh!
+?aozaki_aoko -> mahou_tsukai_no_yoru tsukihime fate_(series) fate/grand_order melty_blood type-moon fate/stay_night kara_no_kyoukai tsukihime_(remake) melty_blood:_type_lumina
