@@ -3270,3 +3270,4 @@
 ?ping_hai_(azur_lane) -> azur_lane neptune_(series) kizuna_ai_inc. getting_over_it coco_ichibanya original hololive idolmaster vocaloid danganronpa_(series)
 ?cassandra_cain -> dc_comics batman_(series) superman_(series) batgirls birds_of_prey marvel dc:_dark_legion street_fighter original jujutsu_kaisen
 ?stephanie_brown -> dc_comics batman_(series) superman_(series) absolute_dc absolute_batman batgirls marvel wonder_woman_(series) red_hood_and_the_outlaws spider-man_(series)
+?ushi_gozen_(avenger)_(fate) -> fate_(series) fate/grand_order fate/samurai_remnant umamusume sanrio my_melody_(series) original umamusume:_cinderella_gray mahou_tsukai_no_yoru fate/grand_order_arcade
