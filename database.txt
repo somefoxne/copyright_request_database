@@ -1370,3 +1370,4 @@
 ?kalla_(fire_emblem) -> fire_emblem
 ?sirocco_(fire_emblem) -> fire_emblem poptepipic
 ?inaba_tewi -> touhou imperishable_night touhou_(pc-98) phantasmagoria_of_flower_view reitaisai embodiment_of_scarlet_devil touhou_lostword cookie_(touhou) immaterial_and_missing_power original
+?sekibanki -> touhou double_dealing_character akatsuki_records touhou_(pc-98) touhou_lostword pokemon legacy_of_lunatic_kingdom ten_desires touhou_bougetsushou
