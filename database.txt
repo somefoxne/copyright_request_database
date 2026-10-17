@@ -2090,3 +2090,4 @@
 ?tamamo_no_mae_(onmyoji) -> onmyoji aotu_world pili_budaixi nishui_han fantasy_westward_journey
 ?shimiko_(magical)_(blue_archive) -> blue_archive densetsu.exe kantai_collection mahou_shoujo_ni_akogarete fate_(series) fate/grand_order honkai_(series) love_live! zenless_zone_zero precure
 ?air_shakur_(unsigned)_(umamusume) -> umamusume real_life original umamusume:_road_to_the_top umamusume:_cinderella_gray help_me_erinnnnnn!! touhou pokemon idolmaster idolmaster_cinderella_girls
+?meisho_doto_(turbulent_blue)_(umamusume) -> umamusume umamusume:_road_to_the_top real_life umamusume:_beginning_of_a_new_era original dc_comics batman_(series) umamusume:_cinderella_gray absolute_dc absolute_batman
