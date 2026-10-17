@@ -3932,3 +3932,4 @@
 ?izutsumi -> dungeon_meshi pokemon dungeons_&_dragons one_piece original tsukihime arknights kimetsu_no_yaiba
 ?kiriko_(overwatch) -> overwatch perfect_night_(le_sserafim) street_fighter one-punch_man street_fighter_6 le_sserafim yoasobi marvel nier_(series) nier:automata
 ?kuramochi_meruto_(casual) -> nijisanji niginigi_nijitown
+?marceline_abadeer -> adventure_time adventure_time:_fionna_and_cake adventure_time:_distant_lands dc_comics avatar_legends teen_titans the_legend_of_korra adventure_time_(comic) league_of_legends the_owl_house
