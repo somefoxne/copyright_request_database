@@ -2553,3 +2553,4 @@
 ?xuanqing_(wuthering_waves) -> wuthering_waves
 ?still_in_love_(scarlet_vow_raiment)_(umamusume) -> umamusume umamusume:_party_dash real_life original zuutto_issho_(kitani_tatsuya) kamen_rider doki_doki_literature_club comiket_105 aishite_aishite_aishite_(vocaloid) touhou
 ?orfevre_(gold-triumph)_(umamusume) -> umamusume all_night_nippon
+?yorigami_jo'on -> touhou sunken_fossil_world antinomy_of_common_flowers touhou_lostword touhou_(pc-98) hidden_star_in_four_seasons touhou_danmaku_kagura curiosities_of_lotus_asia urban_legend_in_limbo hopeless_masquerade
