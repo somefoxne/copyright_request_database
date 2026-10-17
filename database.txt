@@ -2621,3 +2621,4 @@
 ?yidhari_murphy -> zenless_zone_zero hololive hololive_english chainsaw_man honkai_(series) honkai:_star_rail indie_virtual_youtuber splatoon_(series) comiket_107 original
 ?alexandrina_sebastiane -> zenless_zone_zero mihoyo genshin_impact honkai_(series) honkai:_star_rail goddess_of_victory:_nikke blue_archive honkai_impact_3rd touhou dc_comics
 ?ichinose_uruha -> vspo! nijisanji apex_legends neo-porte crazy_raccoon nanashi_inc. madtown_gta hololive xross_stars fatal_fury
+?pharos -> persona persona_3 persona_3_portable persona_4 devil_summoner_(series) shin_megami_tensei persona_3_reload persona_dancing shin_megami_tensei_iii:_nocturne persona_5
