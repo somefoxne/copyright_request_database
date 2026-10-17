@@ -3236,3 +3236,4 @@
 ?tsunomaki_watame_(1st_costume) -> hololive hololive_english hololive_indonesia hololive_dev_is indie_virtual_youtuber minecraft nijisanji hololive_alternative mario_(series) hololive_official_card_game
 ?zuikaku_(kancolle) -> kantai_collection line_(naver) lawson hokkaido_nippon-ham_fighters original azur_lane gundam warship_girls_r kantai_collection_(anime) aoki_hagane_no_arpeggio
 ?riyo_kaede_(mikuneki) -> original minecraft indie_virtual_youtuber real_life snow_white_and_the_seven_dwarfs_(disney) chainsaw_man marvel spider-man_(series) phase_connect cyberpunk_(series)
+?captain_karthik -> avatar_legends avatar:_seven_havens
