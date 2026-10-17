@@ -1140,3 +1140,4 @@
 ?jack_the_ripper_(zombie_nurse_the_ripper)_(fate) -> fate_(series) fate/grand_order fate/strange_fake honkai_(series) honkai:_star_rail fate/apocrypha
 ?sha_lan_(fire_emblem) -> fire_emblem angry_birds angry_birds:_dice
 ?noya_(pajamas)_(stella_sora) -> stella_sora
+?daring_tact_(umamusume) -> umamusume real_life original pakatube japan_racing_association cygames kobeya jojo_no_kimyou_na_bouken monster_hunter_(series)
