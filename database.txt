@@ -1082,3 +1082,4 @@
 ?yhwach -> bleach bleach:_sennen_kessen-hen idolmaster idolmaster_cinderella_girls gakuen_idolmaster oshi_no_ko jujutsu_kaisen bleach:_epilogue idol_(yoasobi) bleach:_brave_souls
 ?guilmon -> digimon digimon_tamers digimon_adventure digimon_frontier digimon_adventure_02 digimon_xros_wars digimon_savers digimon_card_game digimon_universe:_appli_monsters digimon_xros_wars:_toki_wo_kakeru_shounen_hunter-tachi
 ?matsuda_takato -> digimon digimon_tamers digimon_adventure digimon_frontier digimon_adventure_02 digimon_savers digimon_xros_wars digimon_xros_wars:_toki_wo_kakeru_shounen_hunter-tachi digimon_universe:_appli_monsters digimon_ghost_game
+?lilamon -> digimon digimon_beatbreak digimon_xros_wars digimon_card_game digimon_savers pokemon digimon_adventure digimon_adventure_02 digimon_tamers digimon_story:_cyber_sleuth
