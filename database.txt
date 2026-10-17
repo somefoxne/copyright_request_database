@@ -2570,3 +2570,4 @@
 ?still_in_love_(casual)_(umamusume) -> umamusume idolmaster idolmaster_cinderella_girls idolmaster_shiny_colors idolmaster_(classic) idolmaster_million_live! gakuen_idolmaster umamusume:_beginning_of_a_new_era kyu-kurarin_(cevio)
 ?gwynn_(pokemon) -> pokemon pokemon_legends:_z-a pokemon_scarlet_and_violet pokemon_black_and_white pokemon_sword_and_shield pokemon_sun_and_moon hololive pokemon_x_and_y original vocaloid
 ?kaenbyou_rin -> touhou subterranean_animism reitaisai touhou_(pc-98) reitaisai_8_contest touhou_lostword touhou_tag_dream pokemon unfinished_dream_of_all_living_ghost original
+?cana_alberona -> fairy_tail sekirei original one_piece pokemon fire_emblem naruto_(series) bleach rwby rave_(manga)
