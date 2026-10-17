@@ -3082,3 +3082,4 @@
 ?kris_(lightners_live)_(deltarune) -> utdr_(toby_fox) deltarune alien_stage undertale dandadan scott_pilgrim_(series) magnet_(vocaloid)
 ?ralsei -> utdr_(toby_fox) deltarune undertale pokemon omori touhou oneshot_(game) vocaloid sonic_(series) yume_nikki
 ?ralsei_(lightners_live) -> utdr_(toby_fox) deltarune undertale dandadan scott_pilgrim_(series) magnet_(vocaloid) chicken_little brat_(charli_xcx)
+?susie_(lightners_live)_(deltarune) -> utdr_(toby_fox) deltarune alien_stage undertale dandadan scott_pilgrim_(series) magnet_(vocaloid)
