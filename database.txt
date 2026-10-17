@@ -1379,3 +1379,4 @@
 ?metal_sonic -> sonic_(series) sonic_the_hedgehog_(classic) sonic_heroes sonic_cd sonic_frontiers sonic_the_hedgehog_(idw) sonic_adventure vocaloid sonic_unleashed sonic_the_hedgehog_(ova)
 ?sonic_the_hedgehog -> sonic_(series) sonic_the_hedgehog_(classic) mario_(series) pokemon super_smash_bros. kirby_(series) the_legend_of_zelda sonic_unleashed sonic_frontiers mega_man_(series)
 ?sofia_(fire_emblem) -> fire_emblem
+?agent_(girls'_frontline) -> doom_(series) doom_(2016) blue_archive va-11_hall-a team_fortress_2 jashin-chan_dropkick kantai_collection azur_lane
