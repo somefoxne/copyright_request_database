@@ -3429,3 +3429,4 @@
 ?cowpens_(milky_ministrations)_(azur_lane) -> azur_lane azur_lane:_slow_ahead blue_archive yostar
 ?daphne_amour -> indie_virtual_youtuber
 ?yamato_(kancolle) -> kantai_collection kantai_collection_(anime) uchuu_senkan_yamato lawson uchuu_senkan_yamato_2199 touhou umamusume original aoki_hagane_no_arpeggio gundam
+?gomamon -> digimon digimon_adventure digimon_story:_time_stranger digimon_adventure_02 digimon_adventure_tri. digimon_card_game digimon_frontier pokemon digimon_tamers digimon_xros_wars
