@@ -2138,3 +2138,4 @@
 ?nishikigi_chisato -> lycoris_recoil mahou_shoujo_madoka_magica goddess_of_victory:_nikke magia_record:_mahou_shoujo_madoka_magica_gaiden gundam hololive hibike!_euphonium gridman_universe bocchi_the_rock! toaru_majutsu_no_index
 ?arava_(vtuber) -> indie_virtual_youtuber minecraft
 ?koseki_bijou -> hololive hololive_english hololive_indonesia hololive_dev_is monster_hunter_(series) devil_may_cry_(series) enigmatic_recollection monster_hunter_wilds devil_may_cry_5 hololive_grand_theft_auto
+?lilith_(machikado_mazoku) -> machikado_mazoku azur_lane gochuumon_wa_usagi_desu_ka? kirara_fantasia onii-chan_wa_oshimai! lycoris_recoil manga_time_kirara pokemon goddess_of_victory:_nikke tate_no_yuusha_no_nariagari
