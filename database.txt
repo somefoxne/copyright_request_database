@@ -1517,3 +1517,4 @@
 ?murasa_minamitsu -> touhou undefined_fantastic_object cookie_(touhou) sunken_fossil_world touhou_(pc-98) reitaisai manatsu_no_yo_no_inmu embodiment_of_scarlet_devil ten_desires perfect_cherry_blossom
 ?hex_maniac_(pokemon) -> pokemon pokemon_x_and_y pokemon_legends:_z-a pokemon_sword_and_shield pokemon_sun_and_moon pokemon_omega_ruby_and_alpha_sapphire pokemon_black_and_white pokemon_ruby/sapphire/emerald original pokemon_diamond/pearl/platinum
 ?hex_maniac_(pokemon_xy) -> pokemon pokemon_x_and_y pokemon_legends:_z-a pokemon_sword_and_shield pokemon_sun_and_moon pokemon_omega_ruby_and_alpha_sapphire pokemon_black_and_white pokemon_ruby/sapphire/emerald original pokemon_diamond/pearl/platinum
+?chel_(el_dorado) -> the_road_to_el_dorado atlantis:_the_lost_empire original boku_no_hero_academia lilo_&_stitch pokemon league_of_legends bleach shantae_(series)
