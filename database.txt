@@ -3614,3 +3614,4 @@
 ?shisui_michiru_(gluttony) -> phase_connect eve_(musician) inochi_no_tabekata
 ?mugen_mochi -> indie_virtual_youtuber original comic_lo
 ?cerydra_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail genshin_impact mihoyo honkai_impact_3rd zenless_zone_zero bang_dream! original alien_stage
+?warsman -> kinnikuman touhou kemono_friends girls_und_panzer rozen_maiden aibou_(tv_series) mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) jojo_no_kimyou_na_bouken kinnikuman_nisei
