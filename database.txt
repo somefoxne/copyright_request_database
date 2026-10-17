@@ -3126,3 +3126,4 @@
 ?lyrah_(fire_emblem) -> fire_emblem
 ?itadori_yuji -> jujutsu_kaisen jujutsu_kaisen_modulo chainsaw_man naruto_(series) boku_no_hero_academia spy_x_family one_piece shounen_jump kimetsu_no_yaiba bleach
 ?aris_(maid)_(blue_archive) -> blue_archive comiket_103 bocchi_the_rock! mario_(series) needy_girl_overdose comiket_104 comiket_102 internet_yamero pokemon metal_gear_(series)
+?i-168_(kancolle) -> kantai_collection aoki_hagane_no_arpeggio twitter gundam gundam_unicorn bunny_garden pokemon original fate_(series) azur_lane
