@@ -2720,3 +2720,4 @@
 ?kuchiba_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail fate_(series) zenless_zone_zero fate/stay_night fate/strange_fake fate/unlimited_blade_works psycho-pass
 ?rusk_(komado_booth) -> vrchat original pokemon sanrio my_melody_(series) nirvana_(band) nevermind
 ?amakawa_mamushi -> astral_party
+?iwakura_lain -> serial_experiments_lain serial_experiments_lain_(ps1_game) neon_genesis_evangelion microsoft_windows original touhou haibane_renmei lucky_star windows_classic vocaloid
