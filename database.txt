@@ -3260,3 +3260,4 @@
 ?fuwa_minato -> nijisanji nijisanji_en nijisanji_koshien nijisanji_kr nijisanji_gta nijisanji_id apex_legends madtown_gta ready_steady_(vocaloid) hololive
 ?fuwa_minato_(1st_costume) -> nijisanji dream_pool nijisanji_en apex_legends nijisanji_kr crazy_raccoon call_boy_(vocaloid) genshin_impact splatoon_(series) touken_ranbu
 ?gionji_yukine -> shine_post tower_records sakigake!!_cromartie_koukou laugh_diamond
+?nabatame_haru -> shine_post megami_magazine tower_records laugh_diamond dengeki_bunko issun-boushi
