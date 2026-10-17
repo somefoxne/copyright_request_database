@@ -1220,3 +1220,4 @@
 ?fumi_(nijisanji) -> nijisanji yu-gi-oh! nijisanji_kr nijisanji_en nijisanji_id yu-gi-oh!_master_duel gundam nijisanji_koshien zeta_gundam jikkyou_powerful_pro_yakyuu
 ?hoshikawa_sara -> nijisanji hololive nijisanji_en nijisanji_koshien nijisanji_gta nijisanji_kr indie_virtual_youtuber apex_legends pokemon vspo!
 ?yamagami_karuta -> nijisanji nijisanji_kr nijisanji_en nijisanji_id nijisanji_koshien yu-gi-oh! blue_archive virtuareal kamippoina_(vocaloid) pokemon
+?kirigiri_kyoko -> danganronpa_(series) danganronpa:_trigger_happy_havoc danganronpa_2:_goodbye_despair danganronpa_v3:_killing_harmony danganronpa_kirigiri danganronpa_another_episode:_ultra_despair_girls danganronpa/zero
