@@ -2536,3 +2536,4 @@
 ?musashi_(kancolle) -> kantai_collection original azur_lane line_(naver) pokemon aoki_hagane_no_arpeggio fate_(series) fate/grand_order gundam touhou
 ?musashi_kai_ni_(kancolle) -> kantai_collection line_(naver) lawson comiket_102 kobeya fate_(series) fate/grand_order kemono_friends fatal_fury little_red_riding_hood_(fairy_tale)
 ?g11_(girls'_frontline) -> va-11_hall-a jurassic_park blue_archive pokemon metal_gear_(series)
+?mechty_(girls'_frontline_2) -> original blue_archive jojo_no_kimyou_na_bouken stardust_crusaders akira_(manga) jack_stauber choice_(jack_stauber)
