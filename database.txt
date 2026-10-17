@@ -2730,3 +2730,4 @@
 ?yuiman_asama -> touhou fossilized_wonders touhou_danmaku_kagura touhou_(pc-98) artificial_utopia_in_ruins reitaisai pokemon chainsaw_man jujutsu_kaisen mega_man_(series)
 ?freyja_wion -> macross macross_delta macross_delta:_zettai_live!!!!!! macross_frontier macross_7 choujikuu_yousai_macross uta_macross_sumaho_deculture macross:_do_you_remember_love? gundam love_live!
 ?vf-31j -> macross macross_delta variable_fighter_girls macross_frontier choujikuu_yousai_macross macross_7 aoshima_bunka_kyouzai gundam super_robot_wars alice_gear_aegis
+?estelle_(bestelle)_(black_survival) -> black_survival eternal_return:_black_survival original
