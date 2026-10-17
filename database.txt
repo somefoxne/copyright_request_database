@@ -2483,3 +2483,4 @@
 ?bianca_(black_survival) -> black_survival eternal_return:_black_survival touhou blue_archive
 ?sissela_(black_survival) -> black_survival eternal_return:_black_survival touhou original blue_archive powerpuff_girls the_shining id_:_invaded heroes_of_the_storm
 ?wilson_(black_survival) -> black_survival eternal_return:_black_survival original heroes_of_the_storm
+?fujiwara_no_mokou -> touhou imperishable_night night_sparrow_love touhou_tag_dream touhou_(pc-98) pokemon reitaisai urban_legend_in_limbo original
