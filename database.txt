@@ -1368,3 +1368,4 @@
 ?pumpmon -> digimon digimon_adventure digimon_adventure_tri. yu-gi-oh! digimon_card_game digimon_adventure_02 digimon_tamers digimon_frontier digimon_xros_wars digimon_universe:_appli_monsters
 ?queenbeemon -> digimon digimon_card_game digimon_liberator digimon_frontier digimon_adventure digimon_adventure_02 digimon_tamers digimon_ghost_game digimon_xros_wars digimon_universe:_appli_monsters
 ?kalla_(fire_emblem) -> fire_emblem
+?sirocco_(fire_emblem) -> fire_emblem poptepipic
