@@ -3000,3 +3000,4 @@
 ?curren_chan_(casual)_(umamusume) -> umamusume instagram yu-gi-oh! starbucks comiket_103 umamusume:_road_to_the_top humanlike_(tatsuya_kitani) original touhou monster_hunter_(series)
 ?finana_ryugu -> nijisanji nijisanji_en nijisanji_id nijisanji_kr honkai_(series) among_us hololive genshin_impact honkai:_star_rail hololive_english
 ?kagura_(girls_garden) -> muv-luv muv-luv_girls_garden idolmaster love_live! love_live!_school_idol_project gakuen_idolmaster muv-luv_alternative
+?naganami_(kancolle) -> kantai_collection taimanin_(series) fate_(series) fate/grand_order real_life hokkaido_nippon-ham_fighters umamusume gundam urusei_yatsura
