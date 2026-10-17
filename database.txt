@@ -1238,3 +1238,4 @@
 ?matsunaga_hisahide_(fate) -> fate_(series) fate/grand_order fate/strange_fake azur_lane zenless_zone_zero sono_bisque_doll_wa_koi_wo_suru dandadan koha-ace fujimaru_ritsuka_wa_wakaranai
 ?daxter -> jak_and_daxter ratchet_&_clank final_fantasy metal_gear_(series) sly_cooper_(series) psm pokemon persona the_legend_of_zelda mario_(series)
 ?torii_jungo -> devil_survivor_(series) devil_survivor_2
+?cinderella_(disney_character) -> cinderella_(disney_movie) disney snow_white_and_the_seven_dwarfs_(disney) the_little_mermaid_(disney) sleeping_beauty_(disney) beauty_and_the_beast_(disney) disney_princess aladdin_(movie) tangled the_princess_and_the_frog_(disney)
