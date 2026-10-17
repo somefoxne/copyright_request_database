@@ -1855,3 +1855,4 @@
 ?tintin_(character) -> tintin neon_genesis_evangelion touhou marvel dc_comics spider-man_(series) pokemon fate_(series) vocaloid final_fantasy
 ?overezeggs -> indie_virtual_youtuber goddess_of_victory:_nikke
 ?yolk_(overezeggs) -> indie_virtual_youtuber
+?dr._halibut_(calamity_mod) -> terraria calamity_(terraria_mod) helltaker black_souls
