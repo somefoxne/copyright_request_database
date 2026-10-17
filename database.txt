@@ -3243,3 +3243,4 @@
 ?tamamo_aria_(fate) -> fate_(series) fate/samurai_remnant fate/grand_order fate/extra fate/extra_ccc blue_archive original final_fantasy final_fantasy_vii fate/kaleid_liner_prisma_illya
 ?minamizaki_minato -> shine_post
 ?yakushiin_asuka -> shine_post
+?nihilux_(blurry_qr_colt)_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail genshin_impact jojo_no_kimyou_na_bouken mihoyo never_gonna_give_you_up zenless_zone_zero gundam jujutsu_kaisen gundam_narrative
