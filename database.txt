@@ -1443,3 +1443,4 @@
 ?elizabeth_rose_bloodflame -> hololive hololive_english enigmatic_recollection hololive_indonesia hololive_dev_is holostars holostars_english umamusume shoujo_kakumei_utena hololive_official_card_game
 ?elizabeth_rose_bloodflame_(casual) -> hololive hololive_english enigmatic_recollection
 ?rosarian_(elizabeth_rose_bloodflame) -> hololive hololive_english goddess_of_victory:_nikke hololive_indonesia world_cup 2026_fifa_world_cup enigmatic_recollection meccha_chameleon illit not_cute_anymore_(illit)
+?lich_of_flowers -> maiden_and_spell
