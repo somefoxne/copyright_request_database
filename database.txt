@@ -3847,3 +3847,4 @@
 ?yakui_(nijiura_maids) -> futaba_channel nijiura_maids original gegege_no_kitarou os-tan suigetsu ukagaka serial_experiments_lain kfc 2channel
 ?he_tian -> 19_tian wizarding_world harry_potter_(series)
 ?mo_guan_shan -> 19_tian wizarding_world harry_potter_(series)
+?annytf -> indie_virtual_youtuber vedal_ai osu! hollow_knight makeship vshojo original hololive real_life hololive_english
