@@ -3458,3 +3458,4 @@
 ?sq_(gnosia) -> gnosia fire_emblem danganronpa_(series) chainsaw_man fire_emblem_engage mesmerizer_(vocaloid) kyokugen_dasshutsu kyokugen_dasshutsu:_9_jikan_9_nin_9_no_tobira pokemon
 ?yuriko_(gnosia) -> gnosia vocaloid honkai_(series) honkai:_star_rail fire_emblem granblue_fantasy splatoon_(series) jujutsu_kaisen fire_emblem:_path_of_radiance fire_emblem:_the_binding_blade
 ?ashuu_shizuku -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_unmarked mahou_shoujo_ikusei_keikaku_f2p
+?sakamoto_sue -> cave_story pokemon katamari_damacy coppertone ikachan_(game) touhou vocaloid final_fantasy the_legend_of_zelda street_fighter
