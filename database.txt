@@ -3721,3 +3721,4 @@
 ?shirakaze_yua_(amaki_daisuke) -> original
 ?kasumi_(kancolle) -> kantai_collection armored_core armored_core:_for_answer pokemon gundam choo_choo_train aoki_hagane_no_arpeggio line_(naver) jojo_no_kimyou_na_bouken neon_genesis_evangelion
 ?kasumi_kai_ni_(kancolle) -> kantai_collection armored_core armored_core:_for_answer gundam azur_lane neon_genesis_evangelion real_life mobile_suit_gundam twitter comiket_95
+?lord_of_frenzied_flame_(elden_ring) -> elden_ring elden_ring:_shadow_of_the_erdtree original touhou blue_archive project_moon limbus_company armored_core armored_core_vi:_fires_of_rubicon god_of_war_(series)
