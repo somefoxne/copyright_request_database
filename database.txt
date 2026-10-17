@@ -1247,3 +1247,4 @@
 ?haiqing_(jiangshi)_(astral_party) -> astral_party mahou_shoujo_no_majo_saiban original indie_virtual_youtuber
 ?inubashiri_momiji -> touhou mountain_of_faith reitaisai touhou_(pc-98) reitaisai_8_contest touhou_tag_dream original cookie_(touhou) reitaisai_7_contest imperishable_night
 ?pavolia_reine_(1st_costume) -> hololive hololive_indonesia hololive_english hololive_dev_is holostars nijisanji indie_virtual_youtuber nijisanji_en hololive_dreams chainsaw_man
+?frank_castle -> marvel the_punisher_(series) spider-man_(series) marvel_rivals x-men spider-man:_brand_new_day avengers_(series) dc_comics superman_(series) guardians_of_the_galaxy
