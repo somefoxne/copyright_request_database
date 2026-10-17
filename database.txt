@@ -1757,3 +1757,4 @@
 ?hanabatake_chaika -> nijisanji nijisanji_koshien nijisanji_en nijisanji_kr pokemon nijisanji_id jojo_no_kimyou_na_bouken pokemon_scarlet_and_violet bans hololive
 ?joe_rikiichi -> nijisanji nijisanji_en indie_virtual_youtuber nijisanji_kr bans nijisanji_koshien nijisanji_id hololive tengen_toppa_gurren_lagann nanashi_inc.
 ?maimoto_keisuke -> nijisanji nijisanji_koshien indie_virtual_youtuber hololive bans nijisanji_en nijisanji_kr nijisanji_id gamecenter_cx noripro
+?yashiro_kizuku -> nijisanji nijisanji_koshien nijisanji_en nijisanji_kr hololive nijisanji_id indie_virtual_youtuber nanashi_inc. jikkyou_powerful_pro_yakyuu mario_(series)
