@@ -4003,3 +4003,4 @@
 ?orobas_(megami_tensei) -> persona persona_5 persona_3 shin_megami_tensei persona_4 persona_5_the_royal devil_survivor_(series) devil_survivor_1
 ?charlotte_(genshin_impact) -> genshin_impact honkai_(series) mihoyo honkai:_star_rail honkai_impact_3rd zenless_zone_zero olympics duolingo 2024_summer_olympics
 ?aubrey_(neal_d._anderson) -> original coca-cola the_road_to_el_dorado mtv
+?aoi_erika -> heaven_burns_red key_(company) little_busters! angel_beats! yostar clannad summer_pockets air_(visual_novel) umamusume bang_dream!
