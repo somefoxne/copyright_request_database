@@ -4016,3 +4016,4 @@
 ?oumi_shiori -> watashi_wo_tabetai_hitodenashi vocaloid nijisanji newtype yagate_kimi_ni_naru the_lovers_(studio_heartbreak) kantai_collection hololive indie_virtual_youtuber chainsaw_man
 ?yaotose_hinako -> watashi_wo_tabetai_hitodenashi kamen_rider newtype yagate_kimi_ni_naru kamen_rider_zeztz_(series) the_lovers_(studio_heartbreak) genshin_impact bocchi_the_rock! hunter_x_hunter megami_magazine
 ?yashiro_miko -> watashi_wo_tabetai_hitodenashi genshin_impact bocchi_the_rock! kamen_rider hunter_x_hunter megami_magazine mahou_shoujo_ni_akogarete watashi_ga_koibito_ni_nareru_wake_naijan_murimuri! newtype kamen_rider_w
+?cecilia_immergreen_(1st_costume) -> hololive hololive_english hololive_indonesia enigmatic_recollection hololive_dev_is hololive_official_card_game minecraft chainsaw_man hololive_grand_theft_auto utdr_(toby_fox)
