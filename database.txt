@@ -2875,3 +2875,4 @@
 ?leva_(sultry_tempo)_(girls'_frontline_2) -> hololive zenless_zone_zero fate_(series) fate/grand_order umamusume tsukihime
 ?bubble_gum_fellow_(popping!)_(umamusume) -> umamusume nijisanji umamusume:_cinderella_gray comiket_106 cygames oishinbo
 ?anya_melfissa_(steampunk) -> hololive hololive_indonesia hololive_english rust_(game) shingeki_no_kyojin hololive_dev_is akira_(manga) neo-porte hololive_grand_theft_auto reject_(esports)
+?hiiragi_utena -> mahou_shoujo_ni_akogarete mahou_shoujo_madoka_magica precure mahou_shoujo_madoka_magica_(anime) megami_magazine meitantei_precure! wonderful_precure! sousou_no_frieren kono_subarashii_sekai_ni_shukufuku_wo! blue_archive
