@@ -2100,3 +2100,4 @@
 ?guts_(berserk) -> berserk m.u.g.e.n devil_may_cry_(series) mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) final_fantasy dragon_ball neon_genesis_evangelion touhou elden_ring
 ?maiden_(ice_rose)_(nikke) -> goddess_of_victory:_nikke gundam sousou_no_frieren gundam_narrative blue_archive the_legend_of_zelda berserk
 ?maiden_(nikke) -> goddess_of_victory:_nikke blue_archive sousou_no_frieren doom_(series) gundam wuthering_waves the_legend_of_zelda epic_seven gundam_narrative original
+?vesti_(ark_mage)_(nikke) -> goddess_of_victory:_nikke gundam sousou_no_frieren gundam_narrative berserk
