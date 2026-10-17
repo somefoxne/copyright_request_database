@@ -2873,3 +2873,4 @@
 ?mate_rin -> gochuumon_wa_usagi_desu_ka? to_love-ru megami_magazine manga_time_kirara
 ?leva_(girls'_frontline_2) -> arknights gundam original hololive zenless_zone_zero jojo_no_kimyou_na_bouken stardust_crusaders zeta_gundam
 ?leva_(sultry_tempo)_(girls'_frontline_2) -> hololive zenless_zone_zero fate_(series) fate/grand_order umamusume tsukihime
+?bubble_gum_fellow_(popping!)_(umamusume) -> umamusume nijisanji umamusume:_cinderella_gray comiket_106 cygames oishinbo
