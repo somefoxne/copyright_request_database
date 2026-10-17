@@ -1296,3 +1296,4 @@
 ?mitake_ran -> bang_dream! bang_dream!_girls_band_party! persona persona_5 lost_one_no_goukoku_(vocaloid) chainsaw_man bang_dream!_yumemita pokemon comiket_97
 ?hamasaki_mahoro -> bang_dream! bang_dream!_our_notes project_sekai pokemon shoujo_kageki_revue_starlight kyu-kurarin_(cevio) sweets_paradise toriko_(series) koufuku_kei_(vocaloid)
 ?sawami_kanata -> bang_dream! bang_dream!_our_notes shoujo_kageki_revue_starlight idolmaster gakuen_idolmaster jujutsu_kaisen manimani_(vocaloid) koufuku_kei_(vocaloid)
+?nishizumi_maho -> girls_und_panzer girls_und_panzer_senshadou_daisakusen! girls_und_panzer_motto_love_love_sakusen_desu! gundam girls_und_panzer_saishuushou world_witches_series gekitotsu!_joshikousei_oiroke_sensha_gundan girls_und_panzer_little_army pacific_racing_team princess_connect!
