@@ -2067,3 +2067,4 @@
 ?milk_(blooming_bunny)_(nikke) -> goddess_of_victory:_nikke original nijisanji bang_dream! nijisanji_en ryuu_ga_gotoku_(series) james_bond_(series) for_your_eyes_only_(james_bond)
 ?milk_(nikke) -> goddess_of_victory:_nikke lycoris_recoil persona persona_5 original nijisanji bang_dream! nijisanji_en last_origin
 ?mustang_(nikke) -> goddess_of_victory:_nikke oshi_no_ko kfc a-1_pictures
+?oswald_(nikke) -> goddess_of_victory:_nikke dc_comics batman_(series) joker_(2019) idolmaster idolmaster_cinderella_girls neon_genesis_evangelion wake_up_girls! detroit:_become_human fukkireta
