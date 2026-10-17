@@ -4125,3 +4125,4 @@
 ?aura_bella_fiora -> overlord_(maruyama) re:zero_kara_hajimeru_isekai_seikatsu isekai_quartet kono_subarashii_sekai_ni_shukufuku_wo! youjo_senki tate_no_yuusha_no_nariagari nyantype original touhou kantai_collection
 ?zhuge_liang_(wang_chuan_feng_hua_lu) -> wang_chuan_feng_hua_lu
 ?chrchie -> indie_virtual_youtuber vedal_ai vocaloid animal_crossing vrchat ado_(utaite) pepsi osu! muppets
+?haitani_ran -> tokyo_revengers tokyo_revengers_pazuribe! tokyo_revengers_unlimited namco_namja_town chiikawa princess_cafe sanrio my_melody_(series) jojo_no_kimyou_na_bouken naruto_(series)
