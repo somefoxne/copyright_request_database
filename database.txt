@@ -1167,3 +1167,4 @@
 ?chao_(chao) -> chao_(movie)
 ?ashveil_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail genshin_impact anime_expo touhou zenless_zone_zero alien_stage sanrio
 ?smart_falcon_(love_4ever)_(umamusume) -> umamusume pokemon real_life f-zero amazon_(company) tombow_mono akari_ga_yatte_kitazo_(vocaloid) idolmaster kobayashi-san_chi_no_maidragon umamusume:_cinderella_gray
+?theresa_apocalypse -> honkai_(series) honkai_impact_3rd honkai_gakuen mihoyo genshin_impact honkai:_star_rail kantai_collection kfc arknights
