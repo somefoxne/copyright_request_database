@@ -2397,3 +2397,4 @@
 ?pamela_arwig -> rosenkreuzstilette rosenkreuzstilette_freudenstachel touhou bomberman
 ?rapunzel_(nikke) -> goddess_of_victory:_nikke ichiban_kuji original blue_archive fate_(series) fate/grand_order bocchi_the_rock! jujutsu_kaisen nier_(series) nier:automata
 ?scarlet_(nikke) -> goddess_of_victory:_nikke stellar_blade shift_up ichiban_kuji chainsaw_man comiket_104 nier_(series) nier:automata comiket_107 famitsu
+?snow_white_(heavy_arms)_(nikke) -> goddess_of_victory:_nikke gundam chainsaw_man jujutsu_kaisen gundam_unicorn
