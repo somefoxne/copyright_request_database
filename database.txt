@@ -1589,3 +1589,4 @@
 ?bai_zhong_(false_memory) -> false_memory omori chiikawa false_memory_(2020)
 ?protagonist_halo -> false_memory omori re:zero_kara_hajimeru_isekai_seikatsu chiikawa
 ?nenerobo -> project_sekai vocaloid nissin turing_love chururira_chururira_da_da_da!_(vocaloid) tokugawa_cup_noodle_kinshirei_(vocaloid) umamusume project_diva_(series) kowareta_sekai_to_utaenai_miku
+?satono_diamond_(natural_brilliance)_(umamusume) -> umamusume sega original real_life jojo_no_kimyou_na_bouken pokemon comiket_103 idolmaster idolmaster_cinderella_girls yu-gi-oh!
