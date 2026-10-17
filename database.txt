@@ -2348,3 +2348,4 @@
 ?merkuriy_(azur_lane) -> azur_lane
 ?shagaru_magala -> monster_hunter_(series) monster_hunter_4 monster_hunter_rise pokemon fate_(series) fate/grand_order monster_hunter:_world monster_hunter_4_g
 ?elaina_(majo_no_tabitabi) -> majo_no_tabitabi majo_no_tabitabi_gakuen mushoku_tensei hololive genshin_impact blue_archive hololive_english sousou_no_frieren kantai_collection kono_subarashii_sekai_ni_shukufuku_wo!
+?luo_xiaohei_(human) -> the_legend_of_luo_xiaohei arknights lanxi_zhen spy_x_family original genshin_impact indie_virtual_youtuber haikyuu!! all_saints_street ao_la_xing
