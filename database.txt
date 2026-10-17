@@ -1779,3 +1779,4 @@
 ?giryn_(gigi_murin) -> hololive hololive_english shattered_legends
 ?ban_airi -> devil_survivor_(series) devil_survivor_2 persona persona_5 cardcaptor_sakura megami_magazine haiyore!_nyaruko-san devil_survivor_1
 ?dizzy_(guilty_gear) -> guilty_gear guilty_gear_xrd guilty_gear_strive guilty_gear_xx guilty_gear_x guilty_gear_2 blazblue arc_system_works
+?hachimiya_meguru -> idolmaster idolmaster_shiny_colors idolmaster_shiny_colors_song_for_prism idolmaster_cinderella_girls idolmaster_(classic) idolmaster_million_live! gakuen_idolmaster kantai_collection idolmaster_side-m pokemon
