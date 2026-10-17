@@ -2479,3 +2479,4 @@
 ?dan'in-san_(shirogane_noel) -> hololive hololive_dreams hololive_english hololive_official_card_game hololive_indonesia holohoneygaoka_koukou chainsaw_man the_legend_of_zelda dragon_ball dragon_ball_z
 ?natsu_(band)_(blue_archive) -> blue_archive the_beatles whiplash_(2014_movie) bocchi_the_rock! real_life abbey_road please_please_me k-on! black_lagoon 2channel
 ?yoshimi_(band)_(blue_archive) -> blue_archive the_beatles bocchi_the_rock! abbey_road spongebob_squarepants_(series) arknights please_please_me honkai_(series) honkai:_star_rail goddess_of_victory:_nikke
+?cheshire_(azur_lane) -> azur_lane world_of_warships arknights jojo_no_kimyou_na_bouken yu-gi-oh! stardust_crusaders original the_legend_of_zelda atelier_(series) the_legend_of_zelda:_breath_of_the_wild
