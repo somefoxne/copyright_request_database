@@ -3097,3 +3097,4 @@
 ?ruri_yoneda -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_restart
 ?shinobu_hioka -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_restart
 ?lowen_(fire_emblem) -> fire_emblem fire_emblem:_the_blazing_blade fire_emblem_cipher fire_emblem:_the_binding_blade fire_emblem_heroes fire_emblem_awakening fire_emblem:_path_of_radiance fire_emblem_fates fire_emblem_engage fire_emblem:_genealogy_of_the_holy_war
+?freya_(kagejitsu) -> kage_no_jitsuryokusha_ni_naritakute! kage_no_jitsuryokusha_ni_naritakute!_master_of_garden
