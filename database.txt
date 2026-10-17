@@ -2097,3 +2097,4 @@
 ?artoria_pendragon_(lancer)_(fate) -> fate_(series) fate/grand_order fate/stay_night fate/apocrypha fate/extra fate/zero fate/hollow_ataraxia warhammer_40k comiket_97 azur_lane
 ?guillotine_(nikke) -> goddess_of_victory:_nikke irasutoya gundam gundam_narrative chainsaw_man berserk lawson south_park chromashift bucchigiri?!
 ?guillotine_(winter_slayer)_(nikke) -> goddess_of_victory:_nikke gundam gundam_narrative berserk
+?guts_(berserk) -> berserk m.u.g.e.n devil_may_cry_(series) mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) final_fantasy dragon_ball neon_genesis_evangelion touhou elden_ring
