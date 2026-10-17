@@ -3628,3 +3628,4 @@
 ?chandelure -> pokemon pokemon_legends:_z-a pokemon_black_and_white pokemon_sword_and_shield pokemon_masters_ex pokemon_sun_and_moon pokemon_x_and_y pokemon_heartgold_and_soulsilver original pokemon_black_2_and_white_2
 ?pipkin_pippa -> phase_connect indie_virtual_youtuber hololive walmart hololive_english original pokemon real_life pokemon_black_2_and_white_2 azur_lane
 ?mima_(touhou) -> touhou touhou_(pc-98) story_of_eastern_wonderland highly_responsive_to_prayers phantasmagoria_of_dim.dream mystic_square touhou_tag_dream lotus_land_story seihou original
+?kaenbyou_rin_(cat) -> touhou subterranean_animism reitaisai touhou_(pc-98) reitaisai_8_contest touhou_lostword mahou_shoujo_madoka_magica original mahou_shoujo_madoka_magica_(anime) pokemon
