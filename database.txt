@@ -1285,3 +1285,4 @@
 ?shiro_(sewayaki_kitsune_no_senko-san) -> sewayaki_kitsune_no_senko-san blue_archive pokemon idolmaster idolmaster_(classic) mario_(series) pokemon_(anime) cookie_(touhou) onii-chan_wa_oshimai! new_super_mario_bros._u_deluxe
 ?paimon_(genshin_impact) -> genshin_impact mihoyo honkai_(series) honkai_impact_3rd honkai:_star_rail zenless_zone_zero among_us tears_of_themis duolingo fate_(series)
 ?ashley_graves -> the_coffin_of_andy_and_leyley zenless_zone_zero hololive hololive_english original oshi_no_ko tokidoki_bosotto_roshia-go_de_dereru_tonari_no_alya-san helltaker sanrio yosuga_no_sora
+?hinomori_shiho -> project_sekai vocaloid zozotown bang_dream! tamagotchi love_live! batsubyou_(vocaloid) bang_dream!_girls_band_party! kowareta_sekai_to_utaenai_miku sekai_symphony
