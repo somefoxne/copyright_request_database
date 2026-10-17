@@ -2156,3 +2156,4 @@
 ?kawakami_princess_(casual)_(umamusume) -> umamusume touhou
 ?sakihane_huya_(2nd_costume) -> stellive
 ?chitanda_eru -> hyouka kyoto_animation k-on! tamako_market hibike!_euphonium lycoris_recoil chuunibyou_demo_koi_ga_shitai! suzumiya_haruhi_no_yuuutsu idolmaster idolmaster_cinderella_girls
+?terebi-chan -> niconico vocaloid touhou azur_lane utau original voiceroid idolmaster a.i._voice ado_(utaite)
