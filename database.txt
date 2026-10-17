@@ -3292,3 +3292,4 @@
 ?aoba_(kujibikido)_(blue_archive) -> blue_archive
 ?hikari_(kujibikido)_(blue_archive) -> blue_archive one_piece poptepipic spongebob_squarepants_(series) kengan_(series) kengan_ashura tropicana
 ?nozomi_(kujibikido)_(blue_archive) -> blue_archive fate_(series) fate/grand_order indie_virtual_youtuber shingeki_no_kyojin inazuma_eleven_(series) inazuma_eleven_go fullmetal_alchemist poptepipic spongebob_squarepants_(series)
+?peter_parker -> marvel spider-man_(series) spider-man:_brand_new_day x-men marvel_rivals avengers_(series) spider-man:_no_way_home deadpool_(series) spider-verse fantastic_four
