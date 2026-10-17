@@ -1079,3 +1079,4 @@
 ?tenma_asuka -> digimon digimon_beatbreak
 ?tenma_tomoro -> digimon digimon_beatbreak digimon_card_game digimon_adventure digimon_adventure_02 digimon_story:_time_stranger digimon_liberator yomi_no_tsugai digimon_savers digimon_alysion
 ?kurosaki_ichigo -> bleach bleach:_sennen_kessen-hen bleach:_epilogue bleach:_brave_souls naruto_(series) one_piece dragon_ball shounen_jump naruto_shippuuden naruto_(classic)
+?yhwach -> bleach bleach:_sennen_kessen-hen idolmaster idolmaster_cinderella_girls gakuen_idolmaster oshi_no_ko jujutsu_kaisen bleach:_epilogue idol_(yoasobi) bleach:_brave_souls
