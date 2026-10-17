@@ -3072,3 +3072,4 @@
 ?denia_(breakdown)_(wuthering_waves) -> wuthering_waves mirai_nikki school_days chainsaw_man original waktaverse sword_girls isegye_idol backrooms_(creepypasta)
 ?gina_mishina -> muv-luv muv-luv_girls_garden
 ?nina_mishina -> muv-luv muv-luv_girls_garden
+?kujo_jolyne -> jojo_no_kimyou_na_bouken stone_ocean diamond_wa_kudakenai vento_aureo stardust_crusaders battle_tendency phantom_blood steel_ball_run jojolion jolyne_fly_high_with_gucci
