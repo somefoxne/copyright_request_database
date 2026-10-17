@@ -2711,3 +2711,4 @@
 ?kuzuryu_chisei -> paradox_live
 ?shingu_haruomi -> paradox_live original
 ?mystia_lorelei -> touhou imperishable_night night_sparrow_love touhou_(pc-98) phantasmagoria_of_flower_view touhou_tag_dream embodiment_of_scarlet_devil final_fantasy reitaisai
+?okamisty -> touhou night_sparrow_love touhou_(pc-98) imperishable_night reitaisai original puyopuyo pokemon mahou_shoujo_madoka_magica
