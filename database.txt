@@ -1885,3 +1885,4 @@
 ?gubira -> ultra_series ultraman_(1st_series) ultraseven_(series) gundam marvel kamen_rider getter_robo thor_(marvel)_(series) gundam_msv kamen_rider_v3_(series)
 ?ultraman_trigger_(power_type) -> ultra_series ultraman_trigger_(series) ultraman_z_(series) ultraman_tiga_(series) kaijuu_step
 ?ultraman_trigger_(sky_type) -> ultra_series ultraman_trigger_(series) ultraman_tiga_(series) ultraman_z_(series) ultraman_decker_(series)
+?nami_(bokujou_monogatari) -> bokujou_monogatari bokujou_monogatari:_wonderful_life
