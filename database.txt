@@ -3309,3 +3309,4 @@
 ?mallow_(pokemon) -> pokemon pokemon_sun_and_moon pokemon_(anime) pokemon_the_series:_sun_&_moon pokemon_(classic_anime) pokemon_masters_ex pokemon_journeys pokemon_the_series:_xy pokemon_the_series:_ruby_and_sapphire pokemon_the_series:_black_&_white
 ?dantsu_flame_(center_spotlight)_(umamusume) -> umamusume umamusume:_beginning_of_a_new_era uber_eats pokemon real_life umamusume:_road_to_the_top original hololive hololive_english gundam
 ?hoshikawa_sara_(qipao) -> nijisanji
+?soraneko_kurumi -> indie_virtual_youtuber original
