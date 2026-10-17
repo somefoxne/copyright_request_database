@@ -2631,3 +2631,4 @@
 ?lilith_(monster_musume) -> monster_musume_no_iru_nichijou
 ?hennyano_(nachoneko) -> indie_virtual_youtuber hololive hololive_english original asobigokoro prism_project mario_(series) kirby_(series) elden_ring hololive_indonesia
 ?nachoneko -> indie_virtual_youtuber original hololive hololive_english asobigokoro crazy_raccoon mario_(series) mario_kart prism_project lemon_melon_cookie_(vocaloid)
+?kaga_sumire -> vspo! nijisanji apex_legends hololive crazy_raccoon game_game_over indie_virtual_youtuber sanrio monitoring_(vocaloid) comiket_102
