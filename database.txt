@@ -2018,3 +2018,4 @@
 ?arahashi_tabi_(5th_costume) -> stellive pokemon
 ?pungdangi_(arahashi_tabi) -> stellive pokemon boku_no_hero_academia sanrio fuwa_fuwa_cinnamoroll
 ?hilda_valentine_goneril_(timeskip) -> fire_emblem fire_emblem:_three_houses fire_emblem_heroes fire_emblem_warriors:_three_hopes fire_emblem_fates pokemon final_fantasy pokemon_black_and_white azur_lane goddess_of_victory:_nikke
+?centi_(nikke) -> goddess_of_victory:_nikke fullmetal_alchemist vocaloid fate_(series) fate/grand_order warhammer_40k
