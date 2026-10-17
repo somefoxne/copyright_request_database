@@ -1804,3 +1804,4 @@
 ?ange_katrina -> nijisanji page_of_lambda hololive nijisanji_koshien pokemon nijisanji_en nijisanji_kr cherry_pop_(vocaloid) indie_virtual_youtuber vampire_(vocaloid)
 ?ange_katrina_(1st_costume) -> nijisanji vampire_(vocaloid) hololive pokemon minecraft propose_(natori) nijisanji_kr nijisanji_en indie_virtual_youtuber danganronpa_(series)
 ?sherlock_holmes -> the_adventures_of_sherlock_holmes touhou kantai_collection sherlock_(bbc) meitantei_conan hololive hololive_english original fate_(series) fate/grand_order
+?arjun_(street_fighter) -> street_fighter street_fighter_6 final_fantasy final_fantasy_vii final_fantasy_vii_remake street_fighter_v street_fighter_iv_(series) street_fighter_iii_(series) street_fighter_ii_(series) capcom_fighting_jam
