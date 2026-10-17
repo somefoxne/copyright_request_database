@@ -1541,3 +1541,4 @@
 ?elio_(pokemon) -> pokemon pokemon_sun_and_moon pokemon_ultra_sun_and_ultra_moon pokemon_x_and_y pokemon_black_and_white pokemon_black_2_and_white_2 pokemon_heartgold_and_soulsilver pokemon_diamond/pearl/platinum pokemon_sword_and_shield pokemon_omega_ruby_and_alpha_sapphire
 ?lakitu -> mario_(series) mario_kart new_super_mario_bros._u_deluxe super_mario_64 super_mario_bros._1 donkey_kong_(series) the_legend_of_zelda super_mario_bros._2 kirby_(series) nintendo
 ?lakitu's_cloud -> mario_(series) mario_kart new_super_mario_bros._u_deluxe super_mario_bros._1 donkey_kong_(series) super_mario_64 mario_&_luigi_rpg super_mario_galaxy_2 the_legend_of_zelda
+?pokey_(mario) -> mario_(series) paper_mario_(series) super_mario_64 mario_kart mario_kart_world paper_mario:_the_thousand-year_door the_legend_of_zelda kirby_(series) paper_mario_64
