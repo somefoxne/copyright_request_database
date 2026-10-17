@@ -1436,3 +1436,4 @@
 ?daitaku_helios_(fun_fun_party_night)_(umamusume) -> umamusume akari_ga_yatte_kitazo_(vocaloid) umamusume:_road_to_the_top kamen_rider apex_legends umamusume:_cinderella_gray among_us original fate_(series) hololive
 ?daitaku_helios_(umamusume) -> umamusume pokemon umamusume:_cinderella_gray umayuru real_life idolmaster instagram pakatube super_gt cygames
 ?k.s.miracle_(umamusume) -> umamusume pokemon tomodachi_life tomodachi_life:_living_the_dream umamusume:_cinderella_gray yu-gi-oh! pokemon_scarlet_and_violet dragon_ball
+?kanou_tenzen -> summer_pockets higurashi_no_naku_koro_ni key_(company) little_busters! angel_beats! kanon rewrite comiket_106 comiket_95
