@@ -3049,3 +3049,4 @@
 ?rose_woodville -> digimon digimon_beatbreak
 ?bailu_youyun -> honkai_(series) honkai_impact_3rd
 ?kotomori_airi -> shine_post
+?gran_alegria_(smile_my_way!)_(umamusume) -> umamusume pakatube tokyo_sports green_channel dragon_ball dragon_ball_z love_live! chainsaw_man jujutsu_kaisen real_life
