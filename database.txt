@@ -4182,3 +4182,4 @@
 ?zigong_(project_moon) -> project_moon limbus_company lobotomy_corporation kekkai_sensen blue_archive pokemon cardcaptor_sakura fatal_fury library_of_ruina ryuu_ga_gotoku_(series)
 ?zilu_(project_moon) -> project_moon limbus_company blue_archive nier_(series) nier:automata kekkai_sensen pokemon omori dc_comics higurashi_no_naku_koro_ni
 ?cipher_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail mihoyo genshin_impact zenless_zone_zero honkai_impact_3rd fate_(series) fate/stay_night blue_archive twitter
+?abby_(wuthering_waves) -> wuthering_waves cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 pizza_hut punishing:_gray_raven kuro_games honkai_(series) honkai:_star_rail blue_archive
