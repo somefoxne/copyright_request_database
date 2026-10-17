@@ -4052,3 +4052,4 @@
 ?fu_hua -> honkai_(series) honkai_impact_3rd mihoyo genshin_impact honkai_gakuen honkai:_star_rail zenless_zone_zero comiket_106 comiket_107 fate_(series)
 ?herrscher_of_sentience -> honkai_(series) honkai_impact_3rd mihoyo genshin_impact honkai:_star_rail comiket_106 comiket_107 zenless_zone_zero honkai_gakuen tears_of_themis
 ?nico_robin -> one_piece one_piece:_strong_world one_piece_(live_action) one_piece_film:_red one_piece_film:_z one_piece_film:_gold one_piece_card_game one_piece_heroines one_piece:_stampede one_piece_treasure_cruise
+?matsubara_kanon -> bang_dream! bang_dream!_girls_band_party! gochuumon_wa_usagi_desu_ka? bang_dream!_yumemita ojamajo_doremi love_live! ganso!_bang_dream_chan hololive
