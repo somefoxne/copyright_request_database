@@ -3064,3 +3064,4 @@
 ?roy_(fire_emblem) -> fire_emblem fire_emblem:_the_binding_blade fire_emblem_heroes super_smash_bros. fire_emblem:_mystery_of_the_emblem fire_emblem:_path_of_radiance fire_emblem:_the_blazing_blade fire_emblem_awakening fire_emblem_fates the_legend_of_zelda
 ?olga_marie_animusphere -> fate_(series) fate/grand_order learning_with_manga!_fgo lord_el-melloi_ii_case_files fate/stay_night fate/extra fate/zero fate/apocrypha fate/strange_fake koha-ace
 ?kuonji_alice -> mahou_tsukai_no_yoru fate_(series) fate/grand_order type-moon tsukihime fate/stay_night kara_no_kyoukai fate/zero fate/hollow_ataraxia type_moon-ace
+?carmilla_(fate) -> fate_(series) fate/grand_order fate/extra fate/extra_ccc fate/apocrypha koha-ace fate/stay_night fate/grand_order_arcade tsukihime persona
