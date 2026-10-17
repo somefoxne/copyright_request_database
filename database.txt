@@ -2593,3 +2593,4 @@
 ?ujimatsu_chiya -> gochuumon_wa_usagi_desu_ka? gochuumon_wa_usagi_desu_ka??_wonderful_party! manga_time_kirara new_game! kin-iro_mosaic clockwork_rabbit blend_s megami_magazine bang_dream! bang_dream!_girls_band_party!
 ?dottore_(genshin_impact) -> genshin_impact honkai_(series) mihoyo jujutsu_kaisen honkai:_star_rail honkai_impact_3rd original wizarding_world harry_potter_(series)
 ?hroptatyr_(genshin_impact) -> genshin_impact honkai_(series) honkai_impact_3rd mihoyo
+?otto_apocalypse -> honkai_(series) honkai_impact_3rd honkai:_star_rail mihoyo genshin_impact honkai_gakuen honkai:_nexus_anima zenless_zone_zero kantai_collection fate_(series)
