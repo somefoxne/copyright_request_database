@@ -1254,3 +1254,4 @@
 ?the_punisher_(character) -> marvel the_punisher_(series) spider-man_(series) marvel_rivals x-men spider-man:_brand_new_day daredevil_(series) avengers_(series) guardians_of_the_galaxy the_incredible_hulk_(series)
 ?araragi_koyomi -> monogatari_(series) bakemonogatari nisemonogatari kizumonogatari nekomonogatari owarimonogatari mahou_shoujo_madoka_magica sayonara_zetsubou_sensei kabukimonogatari zoku_owarimonogatari
 ?oshino_ougi -> monogatari_(series) owarimonogatari bakemonogatari monogatari_series_puc_puc hanamonogatari kabukimonogatari original umamusume mahou_shoujo_madoka_magica pokemon
+?ootori_emu -> project_sekai vocaloid sanrio zozotown fuwa_fuwa_cinnamoroll kowareta_sekai_to_utaenai_miku netsu_ijou_(utau) yi_er_fan_club_(vocaloid) mr._showtime_(vocaloid) umamusume
