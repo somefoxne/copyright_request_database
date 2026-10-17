@@ -2022,3 +2022,4 @@
 ?ether_(nikke) -> goddess_of_victory:_nikke fullmetal_alchemist kantai_collection blue_archive umamusume powerpuff_girls a-1_pictures
 ?liter_(nikke) -> goddess_of_victory:_nikke comiket_108 comiket_107 fullmetal_alchemist blue_archive vocaloid genshin_impact arknights neon_genesis_evangelion mega_man_(series)
 ?volt_(nikke) -> goddess_of_victory:_nikke comiket_108 comiket_107 fullmetal_alchemist blue_archive genshin_impact arknights neon_genesis_evangelion mega_man_(series) stellar_blade
+?tsunade_(naruto) -> naruto_(series) naruto_(classic) naruto_shippuuden bleach boruto_(series) boruto:_naruto_next_generations one_piece hentai_key monsterhentai bleach:_sennen_kessen-hen
