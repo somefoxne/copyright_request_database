@@ -2211,3 +2211,4 @@
 ?joker_(dc) -> dc_comics batman_(series) joker_(2019) the_dark_knight pokemon suicide_squad touhou original absolute_dc absolute_batman
 ?kaniki_(sameko_saba) -> indie_virtual_youtuber hololive hololive_english kobayashi-san_chi_no_maidragon spongebob_squarepants_(series) kantai_collection vocaloid sousou_no_frieren nier_(series) nier:automata
 ?sameko_saba -> indie_virtual_youtuber hololive hololive_english blue_archive kantai_collection original pokemon kobayashi-san_chi_no_maidragon peak_(game) densetsu.exe
+?sameko_saba_(lighthouse_maid) -> indie_virtual_youtuber ancient_aliens
