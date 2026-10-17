@@ -2251,3 +2251,4 @@
 ?baek_chungsung -> paradox_live genshin_impact nijisanji twisted_wonderland gintama
 ?morrigan_aensland -> darkstalkers street_fighter capcom marvel_vs._capcom marvel spider-man_(series) mega_man_(series) marvel_vs._capcom_3 x-men resident_evil
 ?medusa_(fate) -> fate_(series) fate/stay_night fate/grand_order fate/hollow_ataraxia fate/zero fate/extra tsukihime type-moon fate/kaleid_liner_prisma_illya
+?medusa_(fate/stay_night) -> fate_(series) fate/stay_night fate/grand_order fate/hollow_ataraxia fate/zero fate/extra fate/kaleid_liner_prisma_illya gundam lyrical_nanoha
