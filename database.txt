@@ -4036,3 +4036,4 @@
 ?shun_(swimsuit)_(blue_archive) -> blue_archive bocchi_the_rock! hunter_x_hunter
 ?samenyan -> mofusand original genshin_impact honkai_(series) azur_lane honkai:_star_rail goddess_of_victory:_nikke neon_genesis_evangelion sonic_(series) spy_x_family
 ?nono-chan_(ayanue) -> original
+?captain_beezy -> indie_virtual_youtuber
