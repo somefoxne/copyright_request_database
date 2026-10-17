@@ -3838,3 +3838,4 @@
 ?kaedehara_kazuha -> genshin_impact mihoyo honkai_(series) honkai:_star_rail zenless_zone_zero sekiro:_shadows_die_twice honkai_impact_3rd wizarding_world harry_potter_(series)
 ?megurine_luka -> vocaloid project_sekai project_diva_(series) utau magnet_(vocaloid) toeto_(vocaloid) magical_mirai_(vocaloid) just_be_friends_(vocaloid) miku_symphony_(vocaloid) evillious_nendaiki
 ?yasaka_kanako -> touhou mountain_of_faith touhou_(pc-98) reitaisai touhou_tag_dream reitaisai_8_contest touhou_lostword original saturday_night_fever embodiment_of_scarlet_devil
+?johnny_joestar -> jojo_no_kimyou_na_bouken steel_ball_run jojolion vento_aureo phantom_blood stone_ocean diamond_wa_kudakenai battle_tendency stardust_crusaders the_jojolands
