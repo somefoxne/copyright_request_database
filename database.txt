@@ -2629,3 +2629,4 @@
 ?hecatia_lapislazuli_(earth) -> touhou legacy_of_lunatic_kingdom touhou_sangetsusei touhou_lostword universal_studios original jojo_no_kimyou_na_bouken touhou_(pc-98) vento_aureo houseki_no_kuni
 ?hecatia_lapislazuli_(moon) -> touhou legacy_of_lunatic_kingdom helltaker jojo_no_kimyou_na_bouken touhou_(pc-98) vento_aureo original touhou_lostword the_creation_of_adam pokemon
 ?lilith_(monster_musume) -> monster_musume_no_iru_nichijou
+?hennyano_(nachoneko) -> indie_virtual_youtuber hololive hololive_english original asobigokoro prism_project mario_(series) kirby_(series) elden_ring hololive_indonesia
