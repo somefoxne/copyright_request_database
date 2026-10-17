@@ -3861,3 +3861,4 @@
 ?wayward_passenger -> project_moon limbus_company library_of_ruina mili_(band) ultra_trailer_(synthesizer_v) fly_my_wings
 ?ayatsumugi_roka -> cho_kaguya-hime! darling_(suda_keina) pokemon mahou_shoujo_madoka_magica bang_dream! bocchi_the_rock! project_sekai kaguya-sama_wa_kokurasetai_~tensai-tachi_no_renai_zunousen~ animal_crossing
 ?bowsette -> mario_(series) new_super_mario_bros._u_deluxe super_mario_odyssey super_smash_bros. super_mario_bros._1 super_mario_rpg super_mario_3d_world paper_mario_(series) mario_tennis
+?suigintou -> rozen_maiden gundam suzumiya_haruhi_no_yuuutsu higurashi_no_naku_koro_ni touhou original fate_(series) lyrical_nanoha gundam_seed shakugan_no_shana
