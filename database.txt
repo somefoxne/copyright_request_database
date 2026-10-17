@@ -3938,3 +3938,4 @@
 ?fujiwara_chika -> kaguya-sama_wa_kokurasetai_~tensai-tachi_no_renai_zunousen~ machikado_mazoku original kantai_collection bocchi_the_rock! spy_x_family mairimashita!_iruma-kun fate_(series) hololive jojo_no_kimyou_na_bouken
 ?takaba_fumihiko -> jujutsu_kaisen blue_archive umamusume zenless_zone_zero ace_attorney ben_10 girls_und_panzer jojo_no_kimyou_na_bouken chainsaw_man boku_no_hero_academia
 ?yamai_kaguya -> date_a_live date_a_live:_spirit_pledge azur_lane neptune_(series) gekijouban_date_a_live:_mayuri_judgement shin_jigen_game_neptune_vii fantasia_re:build choujigen_game_neptune_mk2 date_a_live:_arusu_install vivid_army
+?yamai_yuzuru -> date_a_live date_a_live:_spirit_pledge azur_lane gekijouban_date_a_live:_mayuri_judgement fantasia_re:build nichijou date_a_live:_arusu_install neptune_(series) crash_fever divine_gate
