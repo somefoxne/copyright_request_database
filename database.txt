@@ -2979,3 +2979,4 @@
 ?hoshimi_miyabi -> zenless_zone_zero mihoyo genshin_impact honkai_(series) honkai:_star_rail blue_archive wuthering_waves umamusume arknights devil_may_cry_(series)
 ?diluc_(genshin_impact) -> genshin_impact kfc original mihoyo honkai_(series) honkai:_star_rail honkai_impact_3rd olympics pokemon wuthering_waves
 ?jean_(genshin_impact) -> genshin_impact arknights mihoyo honkai_(series) original fate_(series) honkai_impact_3rd zenless_zone_zero neon_genesis_evangelion honkai:_star_rail
+?emperor_of_mankind -> warhammer_40k fate_(series) real_life pacific_(kancolle) original fate/stay_night hololive sousou_no_frieren terminator_(series) the_terminator
