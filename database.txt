@@ -2754,3 +2754,4 @@
 ?tazia_(black_survival) -> black_survival eternal_return:_black_survival
 ?air_groove_(empress_road)_(umamusume) -> umamusume original real_life umamusume:_party_dash umamusume:_cinderella_gray cygames the_last_supper kantai_collection the_weaker_sex_1_(gibson) akari_ga_yatte_kitazo_(vocaloid)
 ?meguru_(cookie) -> cookie_(touhou) touhou manatsu_no_yo_no_inmu pokemon vocaloid p-model real_life niconico algodoo 1984_(novel)
+?yuuhi_(cookie) -> cookie_(touhou) touhou manatsu_no_yo_no_inmu pokemon niconico shinza_bansho_series dies_irae half-life_(series) algodoo jojo_no_kimyou_na_bouken
