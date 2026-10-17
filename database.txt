@@ -3693,3 +3693,4 @@
 ?methode_(sousou_no_frieren) -> sousou_no_frieren pokemon chainsaw_man pokemon_diamond/pearl/platinum comiket_104 halo_(series) hololive umamusume zenless_zone_zero hololive_english
 ?lauma_(genshin_impact) -> genshin_impact mihoyo honkai_(series) honkai:_star_rail zenless_zone_zero wuthering_waves pokemon death_note shikanoko_nokonoko_koshitantan duolingo
 ?alice_(genshin_impact) -> genshin_impact honkai_(series) honkai:_star_rail zenless_zone_zero comiket_108 honkai_impact_3rd mihoyo original pokemon arknights
+?nush_(xter) -> original
