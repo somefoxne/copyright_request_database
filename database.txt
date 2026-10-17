@@ -2394,3 +2394,4 @@
 ?tchang_tchong-jen -> tintin
 ?white_serval_(kemono_friends) -> kemono_friends kemono_friends_3 sanrio hello_kitty kemono_friends_pavilion original oshi_no_ko kemono_friends_v_project journey_to_the_west kemono_friends_2
 ?hyacine_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail genshin_impact mihoyo honkai_impact_3rd zenless_zone_zero pokemon blue_archive arknights fate_(series)
+?pamela_arwig -> rosenkreuzstilette rosenkreuzstilette_freudenstachel touhou bomberman
