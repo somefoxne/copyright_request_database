@@ -4105,3 +4105,4 @@
 ?galga_(tongari_boushi_no_atelier) -> tongari_boushi_no_atelier
 ?rick_astley -> never_gonna_give_you_up real_life hololive hololive_english love_live! original love_live!_school_idol_project honkai_(series) bocchi_the_rock! among_us
 ?ittoki_otoya -> uta_no_prince-sama uta_no_prince-sama:_shining_live idolmaster ensemble_stars! vocaloid mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) idolmaster_(classic) idolmaster_side-m
+?thomas_sankara -> real_life
