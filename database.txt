@@ -1288,3 +1288,4 @@
 ?hinomori_shiho -> project_sekai vocaloid zozotown bang_dream! tamagotchi love_live! batsubyou_(vocaloid) bang_dream!_girls_band_party! kowareta_sekai_to_utaenai_miku sekai_symphony
 ?chang_chin-lan -> kamiina_botan_yoeru_sugata_wa_yuri_no_hana taiwan_beer star_wars original bocchi_the_rock! hibike!_euphonium comiket_108 titanic_(movie) forza_horizon_6 fancy_frontier_47
 ?gujyo_kanade -> kamiina_botan_yoeru_sugata_wa_yuri_no_hana bocchi_the_rock! girls_band_cry hunter_x_hunter hibike!_euphonium star_wars yama_no_susume comiket_108 titanic_(movie) chatgpt
+?hong_lu_(project_moon) -> project_moon limbus_company arknights library_of_ruina lobotomy_corporation original pokemon mili_(band) vocaloid the_distortion_detective
