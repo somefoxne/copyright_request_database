@@ -3970,3 +3970,4 @@
 ?adachi_rei -> utau a.i._voice vocaloid netsu_ijou_(utau) synthesizer_v voiceroid original cevio voicevox tougenkyou_e_ikou_(utau)
 ?adachi_rei_(vocaloid6) -> utau vocaloid a.i._voice synthesizer_v yonsoku_hokou_(vocaloid)
 ?takamachi_yukino -> chu_x_chu_idol chu_x_chu_idol_2
+?luminous_valentine -> tensei_shitara_slime_datta_ken touhou
