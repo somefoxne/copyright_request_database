@@ -1736,3 +1736,4 @@
 ?valbar_(fire_emblem) -> fire_emblem fire_emblem_echoes:_shadows_of_valentia fire_emblem_heroes fire_emblem_fates fire_emblem:_radiant_dawn fire_emblem:_mystery_of_the_emblem fire_emblem_cipher fire_emblem_gaiden fire_emblem:_genealogy_of_the_holy_war fire_emblem:_three_houses
 ?sazanami_hakuri -> kagurabachi pokemon chainsaw_man neon_genesis_evangelion dragon_ball jujutsu_kaisen sanrio fuwa_fuwa_cinnamoroll bucchigiri?! gorillaz
 ?rarity_(equestria_girls) -> my_little_pony my_little_pony:_friendship_is_magic my_little_pony:_equestria_girls equestria_girls:_better_together equestria_girls:_rainbow_rocks original utdr_(toby_fox) deltarune panty_&_stocking_with_garterbelt hasbro
+?rarity_(my_little_pony) -> my_little_pony my_little_pony:_friendship_is_magic my_little_pony:_equestria_girls touhou equestria_girls:_better_together my_little_pony_(idw) pokemon original mahou_shoujo_madoka_magica panty_&_stocking_with_garterbelt
