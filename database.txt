@@ -2912,3 +2912,4 @@
 ?sojourner_mullein -> dc_comics absolute_dc green_lantern_(series) absolute_green_lantern absolute_batman absolute_wonder_woman absolute_superman absolute_flash absolute_martian_manhunter absolute_green_arrow
 ?sojourner_mullein_(absolute_dc) -> dc_comics absolute_dc absolute_green_lantern absolute_batman absolute_wonder_woman absolute_superman absolute_flash absolute_martian_manhunter green_lantern_(series) absolute_green_arrow
 ?kuzunoha_raidou -> devil_summoner_(series) devil_summoner:_raidou_kuzunoha_vs_the_soulless_army shin_megami_tensei shin_megami_tensei_iii:_nocturne persona persona_4 persona_3 megami_tensei persona_2 digital_devil_saga
+?serina_(nurse)_(blue_archive) -> blue_archive comiket_106 comiket_103 hen_na_ie_(uketsu) jojo_no_kimyou_na_bouken stella_sora blue_archive_the_animation
