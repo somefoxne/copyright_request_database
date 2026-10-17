@@ -2626,3 +2626,4 @@
 ?rose_kingdom_(eclat_de_roseraie)_(umamusume) -> umamusume cygames versailles_no_bara the_weaker_sex_1_(gibson)
 ?shito_alisa -> mahou_shoujo_no_majo_saiban karaoke_manekineko aschenputtel_(manosaba) treasure_cafe comiket_108 touhou bang_dream! puyopuyo book_off
 ?acheron_(ambush)_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail
+?hecatia_lapislazuli_(earth) -> touhou legacy_of_lunatic_kingdom touhou_sangetsusei touhou_lostword universal_studios original jojo_no_kimyou_na_bouken touhou_(pc-98) vento_aureo houseki_no_kuni
