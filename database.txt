@@ -4132,3 +4132,4 @@
 ?fujimaru_ritsuka_(female)_(decisive_battle_chaldea_uniform) -> fate_(series) fate/grand_order fate/samurai_remnant fate/extra fate/strange_fake tsukihime tsukihime_(remake) original honkai_(series) honkai:_star_rail
 ?yui_shousetsu_(first_ascension)_(fate) -> fate_(series) fate/grand_order fate/samurai_remnant fate/kaleid_liner_prisma_illya
 ?hen_squad_(henya_the_genius) -> vshojo indie_virtual_youtuber
+?henya_the_genius_(jersey_maid) -> indie_virtual_youtuber chiikawa
