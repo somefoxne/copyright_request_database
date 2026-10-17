@@ -3088,3 +3088,4 @@
 ?puni_(atelier) -> atelier_(series) atelier_ryza atelier_ryza_1 atelier_sophie atelier_resleriana atelier_ryza_2 atelier_yumia atelier_firis atelier_totori atelier_rorona
 ?rorolina_frixell -> atelier_(series) atelier_rorona atelier_totori atelier_meruru atelier_lulua atelier_resleriana atelier_questboard atelier_ryza atelier_sophie atelier_ayesha
 ?angelica_(project_moon) -> project_moon library_of_ruina limbus_company lobotomy_corporation arknights mili_(band) leviathan_(project_moon) fate_(series) neon_genesis_evangelion jujutsu_kaisen
+?agarie_nagi -> shine_post pokemon vocaloid
