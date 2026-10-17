@@ -2330,3 +2330,4 @@
 ?connie_francis -> gundam victory_gundam gundam_suisei_no_majo zombie_land_saga newtype
 ?mahalia_merril -> gundam victory_gundam bishoujo_senshi_sailor_moon gundam_suisei_no_majo zombie_land_saga newtype gundam_perfect_file ip_police_tsuduki-chan
 ?junko_jenko -> gundam victory_gundam newtype bishoujo_senshi_sailor_moon gundam_suisei_no_majo gundam_gquuuuuux mobile_suit_gundam zeta_gundam zombie_land_saga turn_a_gundam
+?miliera_katan -> gundam victory_gundam bishoujo_senshi_sailor_moon gundam_suisei_no_majo
