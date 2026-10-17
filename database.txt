@@ -3448,3 +3448,4 @@
 ?mirko -> boku_no_hero_academia bleach street_fighter mushoku_tensei original pokemon one_piece pokemon_sword_and_shield fire_emblem fate_(series)
 ?cranberry_(mahoiku) -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_unmarked mahou_shoujo_ikusei_keikaku_restart mahou_shoujo_ikusei_keikaku_limited forest_musician_cranberry_gaiden:_magical_girl_raising_project_unripe_duet mahou_shoujo_ikusei_keikaku_jokers mahou_shoujo_ikusei_keikaku_f2p mahou_shoujo_ikusei_keikaku_black mahou_shoujo_ikusei_keikaku_aces mahou_shoujo_ikusei_keikaku_breakdown
 ?sennou_sennoo -> duel_masters dragon_musume_ni_naritakunai!
+?echizen_ryoma -> tennis_no_ouji-sama one_piece yu-gi-oh! slam_dunk_(series) jojo_no_kimyou_na_bouken dragon_ball naruto_(series) naruto_(classic) rurouni_kenshin digimon
