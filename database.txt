@@ -1873,3 +1873,4 @@
 ?leader_(trickcal) -> trickcal bokete arknights warhammer_40k walmart blue_archive pokemon project_moon limbus_company minecraft
 ?ner_(trickcal) -> trickcal blue_archive pokemon bocchi_the_rock! ghost_in_the_shell pokemon_pokopia irasutoya breaking_bad the_shining cult_of_the_lamb
 ?lion_(azur_lane) -> azur_lane azur_lane:_slow_ahead metro-goldwyn-mayer hololive comiket_106 mister_donut
+?hikawa_sayo -> bang_dream! bang_dream!_girls_band_party! chainsaw_man pokemon love_live! shoujo_kageki_revue_starlight fire_bird_(bang_dream!) ganso!_bang_dream_chan re:zero_kara_hajimeru_isekai_seikatsu
