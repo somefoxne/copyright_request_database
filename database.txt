@@ -3849,3 +3849,4 @@
 ?mo_guan_shan -> 19_tian wizarding_world harry_potter_(series)
 ?annytf -> indie_virtual_youtuber vedal_ai osu! hollow_knight makeship vshojo original hololive real_life hololive_english
 ?vedal987 -> vedal_ai indie_virtual_youtuber vrchat osu! muppets minecraft live2d_inc. microsoft_windows pokemon makeship
+?yoimiya_(genshin_impact) -> genshin_impact mihoyo honkai_(series) lawson honkai:_star_rail honkai_impact_3rd fate_(series) zenless_zone_zero line_friends horizon_(game)
