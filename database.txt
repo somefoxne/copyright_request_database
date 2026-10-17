@@ -3482,3 +3482,4 @@
 ?neuro-sama -> vedal_ai indie_virtual_youtuber osu! vrchat microsoft_windows minecraft never_(neuro-sama) live2d_inc. muppets windows_classic
 ?neuro-sama_(1st_costume) -> vedal_ai indie_virtual_youtuber osu! vrchat minecraft microsoft_windows muppets windows_classic windows_95 live2d_inc.
 ?maple_(shining_tears) -> shining_(series) shining_tears
+?mine_(idol)_(blue_archive) -> blue_archive comiket_105 blue_archive_the_animation spongebob_squarepants_(series) original fate_(series) umamusume gundam yu-gi-oh! macross
