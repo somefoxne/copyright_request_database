@@ -1570,3 +1570,4 @@
 ?mononobe_no_futo -> touhou ten_desires touhou_(pc-98) hopeless_masquerade urban_legend_in_limbo undefined_fantastic_object embodiment_of_scarlet_devil pokemon perfect_cherry_blossom
 ?reiuji_utsuho -> touhou subterranean_animism reitaisai reitaisai_8_contest touhou_tag_dream touhou_(pc-98) cookie_(touhou) original touhou_lostword gundam
 ?reiuji_utsuho_(bird) -> touhou subterranean_animism reitaisai reitaisai_8_contest touhou_(pc-98) touhou_lostword original pokemon mario_(series) nichijou
+?starfire -> dc_comics teen_titans batman_(series) teen_titans_go! red_hood_and_the_outlaws star_wars powerpuff_girls marvel new_teen_titans kim_possible_(series)
