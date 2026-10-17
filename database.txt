@@ -3294,3 +3294,4 @@
 ?nozomi_(kujibikido)_(blue_archive) -> blue_archive fate_(series) fate/grand_order indie_virtual_youtuber shingeki_no_kyojin inazuma_eleven_(series) inazuma_eleven_go fullmetal_alchemist poptepipic spongebob_squarepants_(series)
 ?peter_parker -> marvel spider-man_(series) spider-man:_brand_new_day x-men marvel_rivals avengers_(series) spider-man:_no_way_home deadpool_(series) spider-verse fantastic_four
 ?rio_morales -> marvel spider-man_(series) spider-verse spider-man:_into_the_spider-verse spider-man:_across_the_spider-verse pokemon boku_no_hero_academia pokemon_(anime) shingeki_no_kyojin
+?amano_keita -> youkai_watch youkai_watch_2 youkai_watch_3 youkai_watch_4 touhou pokemon youkai_watch_shadowside youkai_watch_world eiga_youkai_watch:_enma_daiou_to_5-tsu_no_monogatari_da_nyan! jojo_no_kimyou_na_bouken
