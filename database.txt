@@ -2039,3 +2039,4 @@
 ?adora_(she-ra) -> she-ra_and_the_princesses_of_power masters_of_the_universe avatar_legends the_legend_of_korra adventure_time the_owl_house league_of_legends dc_comics rwby arcane:_league_of_legends
 ?catra -> she-ra_and_the_princesses_of_power masters_of_the_universe avatar_legends adventure_time the_owl_house the_legend_of_korra dc_comics league_of_legends bishoujo_senshi_sailor_moon hellaverse
 ?koga_nozomi -> seifuku_kanojo seifuku_kanojo_2 seifuku_kanojo_3
+?connie_maheswaran -> steven_universe steven_universe_future pokemon sonic_(series) castlevania_(series) cartoon_network fire_emblem final_fantasy final_fantasy_vii the_legend_of_zelda
