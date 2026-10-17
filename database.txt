@@ -1406,3 +1406,4 @@
 ?phoebe_(vtuber) -> densetsu.exe indie_virtual_youtuber vinesauce 3am beastiez shirayuri_production hololive hololive_english real_life metal_gear_(series)
 ?hina_(dress)_(blue_archive) -> blue_archive comiket_104 spongebob_squarepants_(series) blue_archive_the_animation original comiket_105 bereal steinway_&_sons fate_(series) fate/grand_order
 ?amaya_tsubame -> idolmaster gakuen_idolmaster shoshikantetsu_(idolmaster) rironbusou_shite_(idolmaster) kimi_to_semi_blue_(idolmaster) garakuta_road_(idolmaster) 36c_u.b.u_(idolmaster) bleach hajime_(idolmaster) happy_mille-feuille_(idolmaster)
+?nishizono_chigusa -> nijisanji nijisanji_kr nijisanji_en apex_legends nijisanji_id hololive crazy_raccoon vspo! nijisanji_gta nanashi_inc.
