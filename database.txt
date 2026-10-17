@@ -3075,3 +3075,4 @@
 ?kujo_jolyne -> jojo_no_kimyou_na_bouken stone_ocean diamond_wa_kudakenai vento_aureo stardust_crusaders battle_tendency phantom_blood steel_ball_run jojolion jolyne_fly_high_with_gucci
 ?oh!_lonesome_me_(stand) -> jojo_no_kimyou_na_bouken steel_ball_run stone_ocean stardust_crusaders vento_aureo battle_tendency diamond_wa_kudakenai cookie_run phantom_blood jojolion
 ?stone_free -> jojo_no_kimyou_na_bouken stone_ocean vento_aureo diamond_wa_kudakenai stardust_crusaders steel_ball_run phantom_blood battle_tendency jojolion umamusume
+?natsugumo_(kancolle) -> kantai_collection umamusume choo_choo_train street_fighter gochuumon_wa_usagi_desu_ka? little_red_riding_hood_(fairy_tale) street_fighter_ii_(series)
