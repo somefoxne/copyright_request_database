@@ -3059,3 +3059,4 @@
 ?protagonist_(devil_survivor_2) -> devil_survivor_(series) devil_survivor_2 devil_survivor_1 persona persona_3 megami_tensei shin_megami_tensei persona_4 devil_summoner_(series) persona_5
 ?topaz_(sonic_x) -> sonic_(series) sonic_x
 ?female_dreamseeker_(herrscher_of_time)_(honkai_impact) -> honkai_(series) honkai_impact_3rd
+?female_dreamseeker_(honkai_impact) -> honkai_(series) honkai_impact_3rd honkai:_star_rail mihoyo genshin_impact zenless_zone_zero team_fortress_2 tears_of_themis honkai_gakuen tom_and_jerry
