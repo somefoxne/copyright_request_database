@@ -1672,3 +1672,4 @@
 ?henya_the_genius_(kung-fu_henya) -> vshojo indie_virtual_youtuber
 ?fang_tang_(false_memory) -> false_memory
 ?ame-chan_(needy_girl_overdose) -> needy_girl_overdose sweets_paradise microsoft_windows needy_girl_overdose_(anime) windows_classic ame-chan_waku-waku_date_game original cubism_(needy_girl_overdose) vocaloid sanrio
+?grem_(gigi_murin) -> hololive hololive_english earth_wind_&_fire_(band) september_(ewf) monster_hunter_(series) pokemon minecraft chiikawa monster_hunter_wilds hololive_dreams
