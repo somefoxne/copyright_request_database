@@ -1768,3 +1768,4 @@
 ?matara_kan_(1st_costume) -> vshojo indie_virtual_youtuber original hololive real_life hololive_english jujutsu_kaisen hololive_indonesia minecraft warhammer_40k
 ?sasaki_nene -> sasayaki_sasaru_sasaki-san
 ?amamiya_ren -> persona persona_5 persona_5_the_royal persona_4 persona_3 super_smash_bros. persona_dancing persona_5:_dancing_star_night fire_emblem persona_3_portable
+?takemi_tae -> persona persona_5 persona_5_the_royal persona_3 persona_4 fate_(series) fate/grand_order fire_emblem guilty_gear atlus
