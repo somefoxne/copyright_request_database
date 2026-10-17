@@ -2635,3 +2635,4 @@
 ?marshadow -> pokemon pokemon_masters_ex pokemon_(anime) pokemon_sun_and_moon pokemon_sword_and_shield pokemon_tcg pokemon_the_movie:_i_choose_you! original pokemon_x_and_y pokemon_ultra_sun_and_ultra_moon
 ?miri_(meridian_project) -> meridian_project
 ?sua_(black_survival) -> black_survival eternal_return:_black_survival original starbucks dungeon_and_fighter rabbit_hole_(vocaloid)
+?kaneda_rei -> precure meitantei_precure! kamen_rider toei_company gundam jojo_no_kimyou_na_bouken vento_aureo gundam_00 hirogaru_sky!_precure hugtto!_precure
