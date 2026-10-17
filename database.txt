@@ -2950,3 +2950,4 @@
 ?maria_magdalena_dietrich -> world_witches_series luminous_witches mc_axis newtype kfc strike_witches scho-ka-kola
 ?len_(tsukihime) -> tsukihime melty_blood kagetsu_tooya fate_(series) tsukihime_(remake) type-moon fate/stay_night melty_blood:_twi-lumina m.u.g.e.n touhou
 ?doudanuki_masakuni -> touken_ranbu drifters pokemon kantai_collection touhou touken_ranbu:_hanamaru fate_(series) pokemon_sword_and_shield shinken!! original
+?black_frost -> shin_megami_tensei persona devil_survivor_(series) devil_survivor_1 persona_3 shin_megami_tensei_iii:_nocturne persona_4 persona_5 megami_tensei touhou
