@@ -2042,3 +2042,4 @@
 ?connie_maheswaran -> steven_universe steven_universe_future pokemon sonic_(series) castlevania_(series) cartoon_network fire_emblem final_fantasy final_fantasy_vii the_legend_of_zelda
 ?dolla_(nikke) -> goddess_of_victory:_nikke original final_fantasy chainsaw_man final_fantasy_xiv stellar_blade shift_up hitman_(game)
 ?gardenia_(pokemon) -> pokemon pokemon_diamond/pearl/platinum pokemon_masters_ex pokemon_(anime) pokemon_black_and_white pokemon_heartgold_and_soulsilver pokemon_firered_and_leafgreen pokemon_the_series:_diamond_and_pearl pokemon_ruby/sapphire/emerald pokemon_platinum
+?turtwig -> pokemon pokemon_diamond/pearl/platinum pokemon_platinum pokemon_black_and_white pokemon_ruby/sapphire/emerald pokemon_heartgold_and_soulsilver pokemon_firered_and_leafgreen pokemon_red/green/blue/yellow pokemon_gold/silver/crystal pokemon_x_and_y
