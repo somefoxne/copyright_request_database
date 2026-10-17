@@ -2303,3 +2303,4 @@
 ?tsumugi_kokage_(1st_costume) -> vspo! pokemon hololive nijisanji precure holostars hirogaru_sky!_precure starbucks neo-porte getting_over_it
 ?himekawa_nene -> mayonaka_heart_tune muv-luv muv-luv_alternative kanan-sama_wa_akumade_choroi calbee_(potato_chips)
 ?kirino_iko -> mayonaka_heart_tune megami_magazine comiket_106 calbee_(potato_chips)
+?uzuki_shinobu -> mayonaka_heart_tune megami_magazine calbee_(potato_chips)
