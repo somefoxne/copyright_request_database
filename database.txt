@@ -2199,3 +2199,4 @@
 ?robin_(dc) -> dc_comics batman_(series) teen_titans red_hood_and_the_outlaws super_sons superman_(series) original absolute_dc absolute_batman young_justice
 ?kelda_(akairiot) -> original pokemon bishoujo_senshi_sailor_moon bishoujo_senshi_sailor_moon_s mountain_dew
 ?eclipse_shadow -> precure meitantei_precure! toei_company mahou_shoujo_madoka_magica dragon_ball mahou_shoujo_madoka_magica:_hangyaku_no_monogatari kamen_rider berserk super_sentai yuusha_de_aru
+?isazi_(utaite) -> indie_utaite vocaloid di_gi_charat rhythm_tengoku kuso_miso_technique minna_no_rhythm_tengoku
