@@ -4184,3 +4184,4 @@
 ?cipher_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail mihoyo genshin_impact zenless_zone_zero honkai_impact_3rd fate_(series) fate/stay_night blue_archive twitter
 ?abby_(wuthering_waves) -> wuthering_waves cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 pizza_hut punishing:_gray_raven kuro_games honkai_(series) honkai:_star_rail blue_archive
 ?niiyama_satomi -> hibike!_euphonium liz_to_aoi_tori
+?kicchou_yachie -> touhou wily_beast_and_weakest_creature unfinished_dream_of_all_living_ghost touhou_lostword touhou_(pc-98) sunken_fossil_world ryuu_ga_gotoku_(series) umamusume black_lagoon mario_(series)
