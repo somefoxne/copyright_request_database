@@ -1235,3 +1235,4 @@
 ?tachibana_tomoya_(chacharan) -> original
 ?webley_(girls'_frontline) -> azur_lane metal_gear_(series) street_fighter spy_x_family titanic_(movie) starship_troopers starship_troopers_(movie) street_fighter_(movie) god_save_the_queen
 ?jeanne_(project_moon) -> project_moon limbus_company mili_(band) rendezvous_(mili) library_of_ruina wonder_(vocaloid) xkcd mizan_(vocaloid)
+?matsunaga_hisahide_(fate) -> fate_(series) fate/grand_order fate/strange_fake azur_lane zenless_zone_zero sono_bisque_doll_wa_koi_wo_suru dandadan koha-ace fujimaru_ritsuka_wa_wakaranai
