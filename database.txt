@@ -2676,3 +2676,4 @@
 ?rokuta_(paradox_live) -> paradox_live arknights cardcaptor_sakura sanrio wizarding_world harry_potter_(series)
 ?katsushika_hokusai_(fate) -> fate_(series) fate/grand_order kanagawa_oki_nami_ura fate/extra gaifu_kaisei comiket_95 comiket_96 fate/extra_ccc pixiv_fate/grand_order_contest_2
 ?katsushika_hokusai_(traveling_outfit)_(fate) -> fate_(series) fate/grand_order kanagawa_oki_nami_ura splatoon_(series) comiket_95 hololive hololive_english gundam fate/extra fate/extra_ccc
+?lusamine_(pokemon) -> pokemon pokemon_sun_and_moon pokemon_(anime) pokemon_the_series:_sun_&_moon pokemon_diamond/pearl/platinum pokemon_masters_ex pokemon_x_and_y pokemon_sword_and_shield pokemon_ultra_sun_and_ultra_moon pokemon_black_2_and_white_2
