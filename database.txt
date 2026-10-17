@@ -3974,3 +3974,4 @@
 ?agria_(midsummer_girl)_(tales) -> tales_of_(series) tales_of_xillia tales_of_the_rays tales_of_asteria
 ?agria_(tales) -> tales_of_(series) tales_of_xillia tales_of_asteria tales_of_the_rays tales_of_xillia_2 idolmaster idolmaster_million_live! tales_of_the_abyss bandai_namco tales_of_graces
 ?jude_mathis -> tales_of_(series) tales_of_xillia tales_of_xillia_2 tales_of_asteria tales_of_the_rays tales_of_vesperia tales_of_the_abyss tales_of_symphonia tales_of_graces tales_of_destiny
+?jude_mathis_(swimsuit) -> tales_of_(series) tales_of_xillia tales_of_asteria tales_of_the_rays
