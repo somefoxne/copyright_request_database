@@ -1516,3 +1516,4 @@
 ?reze_(chainsaw_man) -> chainsaw_man boku_no_hero_academia hololive iris_out_(song) hololive_english kimetsu_no_yaiba original jujutsu_kaisen fate_(series) zenless_zone_zero
 ?murasa_minamitsu -> touhou undefined_fantastic_object cookie_(touhou) sunken_fossil_world touhou_(pc-98) reitaisai manatsu_no_yo_no_inmu embodiment_of_scarlet_devil ten_desires perfect_cherry_blossom
 ?hex_maniac_(pokemon) -> pokemon pokemon_x_and_y pokemon_legends:_z-a pokemon_sword_and_shield pokemon_sun_and_moon pokemon_omega_ruby_and_alpha_sapphire pokemon_black_and_white pokemon_ruby/sapphire/emerald original pokemon_diamond/pearl/platinum
+?hex_maniac_(pokemon_xy) -> pokemon pokemon_x_and_y pokemon_legends:_z-a pokemon_sword_and_shield pokemon_sun_and_moon pokemon_omega_ruby_and_alpha_sapphire pokemon_black_and_white pokemon_ruby/sapphire/emerald original pokemon_diamond/pearl/platinum
