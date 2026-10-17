@@ -2926,3 +2926,4 @@
 ?kratos_(god_of_war) -> god_of_war_(series) god_of_war_ragnarok god_of_war_(2018) touhou god_of_war_ii final_fantasy final_fantasy_vii marvel metal_gear_(series) ratchet_&_clank
 ?gokusai_kaibi -> toaru_majutsu_no_index toaru_majutsu_no_index:_old_testament toaru_kagaku_no_railgun toaru_kagaku_no_dark_matter toaru_majutsu_no_index:_new_testament toaru_kagaku_no_railgun_t toaru_majutsu_no_index:_imaginary_fest saint_onii-san toaru_majutsu_no_index:_endymion_no_kiseki durarara!!
 ?momo_ranger -> super_sentai himitsu_sentai_gorenger kyouryuu_sentai_zyuranger ganbare!!_robocon kamen_rider kamen_rider_(1st_series) power_rangers world_masterpiece_theater mighty_morphin_power_rangers alps_no_shoujo_heidi
+?akaza_(kimetsu_no_yaiba) -> kimetsu_no_yaiba jujutsu_kaisen kantai_collection blue_archive shin_megami_tensei shin_megami_tensei_iii:_nocturne final_fantasy kimetsu_gakuen fate_(series) fate/grand_order
