@@ -2113,3 +2113,4 @@
 ?lady_flora_(wuthering_waves) -> wuthering_waves squid_game
 ?castorice_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail fate_(series) mihoyo honkai_impact_3rd genshin_impact fate/stay_night zenless_zone_zero comiket_106 fate/grand_order
 ?sparxie_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail honkai_impact_3rd genshin_impact mihoyo fate_(series) zenless_zone_zero umamusume danganronpa_(series) fate/stay_night
+?tokino_mary -> stellive
