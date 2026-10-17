@@ -2567,3 +2567,4 @@
 ?todoroki_shoto -> boku_no_hero_academia original one_piece pokemon marvel kimetsu_no_yaiba jojo_no_kimyou_na_bouken jujutsu_kaisen dc_comics mario_(series)
 ?kris_(dark_world)_(deltarune) -> utdr_(toby_fox) deltarune undertale omori ace_attorney touhou alien_stage pokemon vocaloid yume_nikki
 ?saori_(dress)_(blue_archive) -> blue_archive jojo_no_kimyou_na_bouken stardust_crusaders hololive hololive_english blue_archive_the_animation idolmaster arknights goddess_of_victory:_nikke kantai_collection
+?still_in_love_(casual)_(umamusume) -> umamusume idolmaster idolmaster_cinderella_girls idolmaster_shiny_colors idolmaster_(classic) idolmaster_million_live! gakuen_idolmaster umamusume:_beginning_of_a_new_era kyu-kurarin_(cevio)
