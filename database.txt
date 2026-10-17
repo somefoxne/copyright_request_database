@@ -2613,3 +2613,4 @@
 ?yumemizuki_mizuki -> genshin_impact honkai_(series) honkai:_star_rail mihoyo yu-gi-oh! yu-gi-oh!_arc-v honkai_impact_3rd original sushiro pokemon
 ?ratkin_(rimworld) -> rimworld original
 ?rhinedottir_(genshin_impact) -> genshin_impact among_us original hololive elden_ring hololive_indonesia elden_ring_nightreign youtube winx_club the_truman_show
+?arven_(pokemon) -> pokemon pokemon_scarlet_and_violet pokemon_masters_ex pokemon_black_and_white pokemon_sword_and_shield original pokemon_legends:_arceus pokemon_heartgold_and_soulsilver pokemon:_paldean_winds pokemon_sun_and_moon
