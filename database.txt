@@ -3843,3 +3843,4 @@
 ?akasaka_koharu_(shousan_bouzu) -> original comiket_100
 ?akasaka_sakura_(shousan_bouzu) -> original
 ?tsukishima_kei -> haikyuu!! original pokemon one_piece love_live! final_fantasy persona final_fantasy_vii love_live!_school_idol_project jujutsu_kaisen
+?yuki_miku_(2026) -> vocaloid magical_mirai_(vocaloid) shiawase_for_you!_(vocaloid) pokemon goodsmile_company goodsmile_racing utdr_(toby_fox) deltarune project_voltage
