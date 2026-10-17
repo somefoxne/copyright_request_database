@@ -1232,3 +1232,4 @@
 ?raiden_mei_(aeterna_purum) -> honkai_(series) honkai_impact_3rd honkai_gakuen mihoyo comiket_95
 ?raiden_mei_(valkyrie_bladestrike) -> honkai_(series) honkai_impact_3rd honkai_gakuen mihoyo genshin_impact original persona neon_genesis_evangelion sword_art_online persona_5
 ?nanase_mio_(chacharan) -> original
+?tachibana_tomoya_(chacharan) -> original
