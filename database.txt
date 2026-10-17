@@ -4135,3 +4135,4 @@
 ?henya_the_genius_(jersey_maid) -> indie_virtual_youtuber chiikawa
 ?seed_(zenless_zone_zero) -> zenless_zone_zero gundam umamusume honkai_(series) honkai:_star_rail goddess_of_victory:_nikke macross macross_delta original
 ?ho-oh -> pokemon pokemon_heartgold_and_soulsilver pokemon_gold/silver/crystal pokemon_(anime) pokemon_masters_ex pokemon_(classic_anime) pokemon_diamond/pearl/platinum pokemon_red/green/blue/yellow pokemon_ruby/sapphire/emerald pokemon_firered_and_leafgreen
+?fushiguro_toji -> jujutsu_kaisen original spy_x_family kfc family_guy umamusume one_piece boku_no_hero_academia dragon_ball shingeki_no_kyojin
