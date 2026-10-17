@@ -1170,3 +1170,4 @@
 ?theresa_apocalypse -> honkai_(series) honkai_impact_3rd honkai_gakuen mihoyo genshin_impact honkai:_star_rail kantai_collection kfc arknights
 ?theresa_apocalypse_(valkyrie_pledge) -> honkai_(series) honkai_impact_3rd genshin_impact mihoyo kantai_collection honkai_gakuen arknights honkai:_star_rail shoujo_kageki_revue_starlight
 ?michigami_nareko -> touhou fossilized_wonders touhou_(pc-98) touhou_lostword yu-gi-oh! mario_(series) among_us sousou_no_frieren utdr_(toby_fox) dragon_quest
+?ushizaki_urumi -> touhou wily_beast_and_weakest_creature touhou_(pc-98) touhou_lostword foul_detective_satori touhou_bougetsushou silent_sinner_in_blue perfect_cherry_blossom legacy_of_lunatic_kingdom hidden_star_in_four_seasons
