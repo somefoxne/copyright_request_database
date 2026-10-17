@@ -4226,3 +4226,4 @@
 ?gabriel_tenma_white -> gabriel_dropout ishuzoku_reviewers nier_(series) nier:automata kobayashi-san_chi_no_maidragon himouto!_umaru-chan dadadada_tenshi_(nanawo_akari) doga_kobo megami_magazine comiket_95
 ?vignette_tsukinose_april -> gabriel_dropout new_game! doga_kobo megami_magazine hololive kono_subarashii_sekai_ni_shukufuku_wo! monogatari_(series) overwatch gochuumon_wa_usagi_desu_ka? kobayashi-san_chi_no_maidragon
 ?yagami_iori -> the_king_of_fighters snk fatal_fury ryuuko_no_ken the_king_of_fighters_xv samurai_spirits street_fighter snk_heroines:_tag_team_frenzy tsukihime the_king_of_fighters_all-stars
+?lucina_(fire_emblem) -> fire_emblem fire_emblem_awakening fire_emblem_heroes super_smash_bros. fire_emblem_fates kid_icarus fire_emblem:_mystery_of_the_emblem fire_emblem_cipher mario_(series) the_legend_of_zelda
