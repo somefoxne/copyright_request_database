@@ -1986,3 +1986,4 @@
 ?vivian_banshee -> zenless_zone_zero mihoyo honkai_(series) genshin_impact honkai:_star_rail comiket_107 zozotown pokemon blue_archive umamusume
 ?konomi_yui -> seifuku_kanojo seifuku_kanojo_2 seifuku_kanojo_3
 ?kita_ikuyo -> bocchi_the_rock! pokemon girls_band_cry bang_dream! k-on! cardcaptor_sakura sousou_no_frieren umamusume chainsaw_man
+?monica_melodia -> varium
