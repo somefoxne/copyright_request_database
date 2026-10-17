@@ -3699,3 +3699,4 @@
 ?nakayama_haruki -> given animate_(company) parco_(retailer) dear+ cheri+
 ?kusunoki_muu -> milgram alien_stage north_american_mythology vocaloid umineko_no_naku_koro_ni sanrio
 ?yoarashi_inasa -> boku_no_hero_academia street_fighter street_fighter_zero_(series)
+?urushibara_luka -> science_adventure steins;gate steins;gate_0 steins;gate:_linear_bounded_phenogram fate_(series) guilty_gear monogatari_(series) guilty_gear_strive divine_gate
