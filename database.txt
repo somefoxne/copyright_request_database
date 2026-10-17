@@ -4130,3 +4130,4 @@
 ?mash_kyrielight_(ortenaus) -> fate_(series) fate/grand_order learning_with_manga!_fgo pixiv_fate/grand_order_contest_2 neon_genesis_evangelion fate/stay_night fate/apocrypha rebuild_of_evangelion marvel fate/extra
 ?sanzu_haruchiyo -> tokyo_revengers namco_namja_town original tokyo_revengers_pazuribe! princess_cafe chiikawa spy_x_family sanrio my_melody_(series) yuri!!!_on_ice
 ?fujimaru_ritsuka_(female)_(decisive_battle_chaldea_uniform) -> fate_(series) fate/grand_order fate/samurai_remnant fate/extra fate/strange_fake tsukihime tsukihime_(remake) original honkai_(series) honkai:_star_rail
+?yui_shousetsu_(first_ascension)_(fate) -> fate_(series) fate/grand_order fate/samurai_remnant fate/kaleid_liner_prisma_illya
