@@ -3894,3 +3894,4 @@
 ?namine_ritsu -> utau vocaloid synthesizer_v pokemon voiceroid voicevox touhou a.i._voice cevio idolmaster
 ?yokune_ruko -> utau vocaloid synthesizer_v fl_studio a.i._voice voiceroid toeto_(vocaloid) pokemon mahou_shoujo_madoka_magica cevio
 ?agott_arklaum_(tongari_boushi_no_atelier) -> tongari_boushi_no_atelier mahou_shoujo_madoka_magica dungeon_meshi jujutsu_kaisen omori love-bullet honkai_(series) honkai:_star_rail bocchi_the_rock! sousou_no_frieren
+?amity_blight -> the_owl_house adventure_time dc_comics avatar_legends league_of_legends steven_universe she-ra_and_the_princesses_of_power bishoujo_senshi_sailor_moon little_witch_academia the_legend_of_korra
