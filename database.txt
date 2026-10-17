@@ -1726,3 +1726,4 @@
 ?nakayama_festa_(desperate_measures)_(umamusume) -> umamusume real_life jojo_no_kimyou_na_bouken original stardust_crusaders vento_aureo umamusume:_cinderella_gray cygames umamusume:_peace_peace_cepea_cepea_golshi-chan blue_archive
 ?nakayama_festa_(umamusume) -> umamusume original real_life umamusume:_cinderella_gray jojo_no_kimyou_na_bouken pakatube gintama pokemon umamusume:_peace_peace_cepea_cepea_golshi-chan coyote_(board_game)
 ?liberalio_(dreaming_lake)_(nikke) -> goddess_of_victory:_nikke indie_virtual_youtuber nivel_arena
+?liberalio_(nikke) -> goddess_of_victory:_nikke lawson ichiban_kuji comiket_108 pokemon indie_virtual_youtuber nivel_arena
