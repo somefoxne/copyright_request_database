@@ -1255,3 +1255,4 @@
 ?araragi_koyomi -> monogatari_(series) bakemonogatari nisemonogatari kizumonogatari nekomonogatari owarimonogatari mahou_shoujo_madoka_magica sayonara_zetsubou_sensei kabukimonogatari zoku_owarimonogatari
 ?oshino_ougi -> monogatari_(series) owarimonogatari bakemonogatari monogatari_series_puc_puc hanamonogatari kabukimonogatari original umamusume mahou_shoujo_madoka_magica pokemon
 ?ootori_emu -> project_sekai vocaloid sanrio zozotown fuwa_fuwa_cinnamoroll kowareta_sekai_to_utaenai_miku netsu_ijou_(utau) yi_er_fan_club_(vocaloid) mr._showtime_(vocaloid) umamusume
+?tenma_tsukasa -> project_sekai vocaloid zozotown ensemble_stars! kowareta_sekai_to_utaenai_miku netsu_ijou_(utau) booo!_(vocaloid) mr._showtime_(vocaloid) yi_er_fan_club_(vocaloid) king_(vocaloid)
