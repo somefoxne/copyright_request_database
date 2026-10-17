@@ -2915,3 +2915,4 @@
 ?serina_(nurse)_(blue_archive) -> blue_archive comiket_106 comiket_103 hen_na_ie_(uketsu) jojo_no_kimyou_na_bouken stella_sora blue_archive_the_animation
 ?sirius_symboli_(feroce)_(umamusume) -> umamusume original jojo_no_kimyou_na_bouken umamusume:_cinderella_gray pokemon fate_(series) fate/stay_night pokemon_scarlet_and_violet shoujo_kageki_revue_starlight ryuu_ga_gotoku_(series)
 ?ferio_(rayearth) -> magic_knight_rayearth rayearth_ova newtype animage tengai_makyou tengai_makyou_daiyon_no_mokushiroku
+?eyjafjalla_(ambience_synesthesia_2022)_(arknights) -> arknights ambience_synesthesia
