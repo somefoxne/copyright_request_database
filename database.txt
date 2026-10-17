@@ -2972,3 +2972,4 @@
 ?edd_(eddsworld) -> eddsworld the_beginning_and_the_friend pokemon sonic_(series) utdr_(toby_fox) original tordsworld deltarune makeship tomsworld
 ?tord_(eddsworld) -> eddsworld the_beginning_and_the_friend pokemon sonic_(series) dear_starboy utdr_(toby_fox) undertale copycat_(vocaloid) tordsworld
 ?nikaidou_tadashi -> devil_survivor_(series) devil_survivor_1 megami_tensei shin_megami_tensei durarara!! atlus
+?deepseek-tan -> deepseek hearts_of_iron the_fire_rises chatgpt communist_party_of_china original ore_no_imouto_ga_konna_ni_kawaii_wake_ga_nai anthropic
