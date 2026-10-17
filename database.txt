@@ -1657,3 +1657,4 @@
 ?archetype_earth -> tsukihime fate_(series) fate/grand_order tsukihime_(remake) melty_blood type-moon fate/stay_night kagetsu_tooya melty_blood:_type_lumina kara_no_kyoukai
 ?cyrene_(demiurge)_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail honkai_impact_3rd mihoyo zenless_zone_zero genshin_impact wuthering_waves comiket_107 fate_(series) samsung
 ?cyrene_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail honkai_impact_3rd mihoyo zenless_zone_zero genshin_impact wuthering_waves fate_(series) blue_archive fate/grand_order
+?limealicious -> vinesauce indie_virtual_youtuber 3am densetsu.exe monster_hunter_(series) metal_gear_(series) metal_gear_solid original mario_(series) animal_crossing
