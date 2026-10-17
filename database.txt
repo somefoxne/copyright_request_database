@@ -2935,3 +2935,4 @@
 ?morty_smith -> rick_and_morty pocket_mortys neon_genesis_evangelion dc_comics adult_swim jojo_no_kimyou_na_bouken utdr_(toby_fox) undertale futaba_channel looney_tunes
 ?space_beth -> rick_and_morty adult_swim
 ?shinazugawa_sanemi -> kimetsu_no_yaiba kimetsu_gakuen pokemon jujutsu_kaisen boku_no_hero_academia shounen_jump original fate_(series) precure one_piece
+?fuiba_fuyu -> gochuumon_wa_usagi_desu_ka? umamusume manga_time_kirara clockwork_rabbit comiket_104 comiket_102 comiket_100 lol_comics
