@@ -3296,3 +3296,4 @@
 ?rio_morales -> marvel spider-man_(series) spider-verse spider-man:_into_the_spider-verse spider-man:_across_the_spider-verse pokemon boku_no_hero_academia pokemon_(anime) shingeki_no_kyojin
 ?amano_keita -> youkai_watch youkai_watch_2 youkai_watch_3 youkai_watch_4 touhou pokemon youkai_watch_shadowside youkai_watch_world eiga_youkai_watch:_enma_daiou_to_5-tsu_no_monogatari_da_nyan! jojo_no_kimyou_na_bouken
 ?crazy_diamond -> jojo_no_kimyou_na_bouken diamond_wa_kudakenai vento_aureo stone_ocean stardust_crusaders steel_ball_run jojolion battle_tendency phantom_blood touhou
+?higashikata_josuke -> jojo_no_kimyou_na_bouken diamond_wa_kudakenai stone_ocean vento_aureo stardust_crusaders battle_tendency phantom_blood steel_ball_run jojolion pokemon
