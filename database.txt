@@ -2996,3 +2996,4 @@
 ?harley_quinn_(absolute_dc) -> dc_comics absolute_dc absolute_batman batman_(series)
 ?moriya_suwako -> touhou mountain_of_faith touhou_(pc-98) reitaisai reitaisai_8_contest touhou_tag_dream yotsubato! pokemon touhou_lostword cookie_(touhou)
 ?nekota_tsuna_(loungewear) -> vspo!
+?rat_king_(deadlock) -> deadlock_(game) jojo_no_kimyou_na_bouken yu-gi-oh! overwatch kamen_rider diamond_wa_kudakenai mickey_mouse_&_friends teenage_mutant_ninja_turtles ratatouille kamen_rider_my-th_(series)
