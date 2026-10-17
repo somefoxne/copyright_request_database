@@ -3284,3 +3284,4 @@
 ?neptune_(neptunia) -> neptune_(series) choujigen_game_neptune kami_jigen_game_neptune_v shin_jigen_game_neptune_vii four_goddesses_online:_cyber_dimension_neptune choujigen_game_neptune_mk2 azur_lane choushinjiku_game_neptune_unlimited gekijigen_tag:_blanc_+_neptune_vs_zombie_gundan honkai_(series)
 ?amy_rose -> sonic_(series) sonic_the_hedgehog_(classic) sonic_the_hedgehog_(idw) the_murder_of_sonic_the_hedgehog sonic_boom_(series) sonic_adventure sonic_forces:_speed_battle sonic_frontiers sonic_riders_(series) vocaloid
 ?mira_ormana_(anparu) -> original
+?lars_rorschach -> lovebrush_chronicles original the_lantern_bearers_(painting) pokemon coca-cola eulogy_(patricia_piccinini) air_france
