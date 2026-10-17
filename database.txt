@@ -2492,3 +2492,4 @@
 ?aino_(genshin_impact) -> genshin_impact zenless_zone_zero honkai_(series) honkai:_star_rail mihoyo nichijou duolingo the_birth_of_venus pokemon wuthering_waves
 ?ineffa_(genshin_impact) -> genshin_impact honkai_(series) honkai:_star_rail zenless_zone_zero hololive hololive_english mihoyo duolingo the_birth_of_venus pokemon
 ?cha_cha_(vtuber) -> indie_virtual_youtuber gamer_supps vedal_ai grand_theft_auto grand_theft_auto_vi final_fantasy chainsaw_man final_fantasy_vii mario_(series) nier_(series)
+?katsuragi_izumi_(swimsuit) -> love_live! love_live!_hasu_no_sora_jogakuin_school_idol_club comiket_108 hachiban_ramen
