@@ -3048,3 +3048,4 @@
 ?alpha_(kagejitsu) -> kage_no_jitsuryokusha_ni_naritakute! kage_no_jitsuryokusha_ni_naritakute!_master_of_garden kono_subarashii_sekai_ni_shukufuku_wo! konosuba!_fantastic_days dolphin_wave tensei_shitara_slime_datta_ken megami_magazine kadokawa chainsaw_man re:zero_kara_hajimeru_isekai_seikatsu
 ?rose_woodville -> digimon digimon_beatbreak
 ?bailu_youyun -> honkai_(series) honkai_impact_3rd
+?kotomori_airi -> shine_post
