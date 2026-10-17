@@ -3765,3 +3765,4 @@
 ?admire_vega_(casual)_(umamusume) -> umamusume yogibo pokemon tousouchuu yu-gi-oh! real_life comiket_103 tsukiji_uogashi_sandaime kinchan_and_katori_shingo_no_zen_nihon_kasou_taishou touhou
 ?mejiro_ramonu_(onyx_line)_(umamusume) -> umamusume comiket_104 original pokemon precure meitantei_precure! umamusume:_cinderella_gray the_weaker_sex_1_(gibson) issei_fuubi_sepia blue_archive
 ?hoshigasaki_runa_(haishiki) -> original
+?jigglypuff -> pokemon super_smash_bros. vocaloid project_voltage kirby_(series) mario_(series) the_legend_of_zelda fire_emblem metroid mother_(series)
