@@ -1386,3 +1386,4 @@
 ?isekaijoucho -> kamitsubaki_studio cevio kamitsubaki_city_under_construction needy_girl_overdose ima_sugu_rinne_(vocaloid) idolmaster gakuen_idolmaster mahou_shoujo_no_majo_saiban microsoft_windows windows_xp
 ?mai_natsume -> blazblue blazblue:_central_fiction blazblue_variable_heart blazblue_remix_heart blazblue:_cross_tag_battle blazblue_alternative:_dark_war xblaze blazblue:_chronophantasma persona idolmaster
 ?otonari_(yang_nari) -> nijisanji nijisanji_kr nijisanji_en apex_legends minecraft coca-cola animate_(company) animate_cafe
+?yang_nari -> nijisanji nijisanji_kr nijisanji_en nijisanji_koshien nijisanji_id jikkyou_powerful_pro_yakyuu vspo! virtuareal nijisanji_gta pokemon
