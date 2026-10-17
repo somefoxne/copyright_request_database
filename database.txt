@@ -2571,3 +2571,4 @@
 ?gwynn_(pokemon) -> pokemon pokemon_legends:_z-a pokemon_scarlet_and_violet pokemon_black_and_white pokemon_sword_and_shield pokemon_sun_and_moon hololive pokemon_x_and_y original vocaloid
 ?kaenbyou_rin -> touhou subterranean_animism reitaisai touhou_(pc-98) reitaisai_8_contest touhou_lostword touhou_tag_dream pokemon unfinished_dream_of_all_living_ghost original
 ?cana_alberona -> fairy_tail sekirei original one_piece pokemon fire_emblem naruto_(series) bleach rwby rave_(manga)
+?fairy_(zenless_zone_zero) -> zenless_zone_zero honkai_(series) honkai:_star_rail mihoyo armored_core armored_core_vi:_fires_of_rubicon blue_archive genshin_impact final_fantasy honkai_impact_3rd
