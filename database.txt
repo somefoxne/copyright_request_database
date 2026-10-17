@@ -2514,3 +2514,4 @@
 ?sanatia_(vrchat) -> vrchat
 ?katsuragi_misato -> neon_genesis_evangelion rebuild_of_evangelion evangelion:_3.0_you_can_(not)_redo evangelion:_2.0_you_can_(not)_advance kantai_collection chainsaw_man bishoujo_senshi_sailor_moon evangelion:_3.0+1.0_thrice_upon_a_time the_end_of_evangelion gainax
 ?tenkajin_chiyari -> touhou unfinished_dream_of_all_living_ghost touhou_(pc-98) touhou_lostword reitaisai sunken_fossil_world mario_(series) dragon_ball kirby_(series) super_smash_bros.
+?aston_machan_(flare)_(umamusume) -> umamusume kamen_rider original umamusume:_cinderella_gray kamen_rider_geats_(series) fate_(series) umamusume:_road_to_the_top kamen_rider_blade_(series) umamusume:_party_dash idolmaster
