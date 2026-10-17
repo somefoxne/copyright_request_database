@@ -2358,3 +2358,4 @@
 ?kaku_seiga -> touhou ten_desires touhou_(pc-98) touhou_lostword undefined_fantastic_object embodiment_of_scarlet_devil perfect_cherry_blossom imperishable_night phantasmagoria_of_flower_view original
 ?atago_(kancolle) -> kantai_collection azur_lane aoki_hagane_no_arpeggio touhou original lawson kantai_collection_(anime) dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru_darou_ka pokemon idolmaster
 ?himeno_kotori -> yowamushi_pedal indie_utaite touhou osomatsu_(series) osomatsu-san niconico kuso_miso_technique hentai_kamen
+?kumamon -> yuru-chara kantai_collection original touhou girls_und_panzer idolmaster idolmaster_cinderella_girls kemono_friends pokemon
