@@ -3476,3 +3476,4 @@
 ?joule_(gunvolt) -> azure_striker_gunvolt azure_striker_gunvolt_1 azure_striker_gunvolt_2 azure_striker_gunvolt_3 love_live! love_live!_sunshine!! gal_gun_(series) inti_creates mighty_no._9 mighty_gunvolt
 ?hakos_baelz_(1st_costume) -> hololive hololive_english hololive_indonesia minecraft hololive_dev_is holostars enigmatic_recollection original mario_(series) holostars_english
 ?yukoku_roberu -> holostars hololive hololive_english hololive_indonesia holostars_english nijisanji madtown_gta vspo! noripro indie_virtual_youtuber
+?yukoku_roberu_(1st_costume) -> holostars hololive nijisanji hololive_english jojo_no_kimyou_na_bouken hololive_indonesia holostars_english noripro voms stardust_crusaders
