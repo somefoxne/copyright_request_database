@@ -2145,3 +2145,4 @@
 ?cerys_(nekojira) -> original
 ?huyan_zhuo_(fate) -> fate_(series) fate/grand_order umamusume indie_virtual_youtuber blue_archive hololive vocaloid hololive_english fate/stay_night comiket_107
 ?huyan_zhuo_(swimsuit_berserker)_(fate) -> fate_(series) fate/grand_order umamusume indie_virtual_youtuber hololive hololive_english comiket_107
+?tachibana_arisu -> idolmaster idolmaster_cinderella_girls idolmaster_cinderella_girls_starlight_stage idolmaster_cinderella_girls_u149 cinderella_girls_gekijou seizon_honnou_valkyria_(idolmaster) idolmaster_million_live! blue_archive kantai_collection
