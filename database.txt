@@ -3852,3 +3852,4 @@
 ?yoimiya_(genshin_impact) -> genshin_impact mihoyo honkai_(series) lawson honkai:_star_rail honkai_impact_3rd fate_(series) zenless_zone_zero line_friends horizon_(game)
 ?female_morgan_(fire_emblem) -> fire_emblem fire_emblem_awakening fire_emblem_heroes fire_emblem_cipher fire_emblem_fates fire_emblem:_three_houses fire_emblem:_mystery_of_the_emblem fire_emblem:_the_binding_blade fire_emblem:_the_blazing_blade fire_emblem:_genealogy_of_the_holy_war
 ?severa_(fire_emblem) -> fire_emblem fire_emblem_awakening fire_emblem_heroes fire_emblem_fates fire_emblem_cipher fire_emblem:_three_houses fire_emblem:_mystery_of_the_emblem xenoblade_chronicles_(series) xenoblade_chronicles_3 fate_(series)
+?kira_(project_moon) -> project_moon limbus_company umamusume library_of_ruina re:zero_kara_hajimeru_isekai_seikatsu touhou blue_archive fate_(series) arknights zenless_zone_zero
