@@ -2811,3 +2811,4 @@
 ?goldmary_(fire_emblem) -> fire_emblem fire_emblem_engage fire_emblem_heroes fire_emblem:_three_houses fire_emblem_fates shantae_(series) aladdin_(movie) fire_emblem_awakening pokemon love_live!
 ?cherry_bomb_(plants_vs._zombies) -> plants_vs._zombies hollow_knight plants_vs._zombies_2 hollow_knight:_silksong touhou
 ?prinz_eugen_(kancolle) -> kantai_collection azur_lane gekkan_shoujo_nozaki-kun fate_(series) fate/grand_order real_life world_witches_series pokemon original strike_witches
+?red_(neptunia) -> neptune_(series) choujigen_game_neptune choujigen_game_neptune_mk2 di_gi_charat fate_(series) fate/grand_order vocaloid the_legend_of_zelda dc_comics batman_(series)
