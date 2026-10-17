@@ -2723,3 +2723,4 @@
 ?iwakura_lain -> serial_experiments_lain serial_experiments_lain_(ps1_game) neon_genesis_evangelion microsoft_windows original touhou haibane_renmei lucky_star windows_classic vocaloid
 ?susie_(dark_world)_(deltarune) -> utdr_(toby_fox) deltarune undertale touhou omori sonic_(series) pokemon cutie_mew_mew_magic_(deltarune) vocaloid ace_attorney
 ?susie_(deltarune) -> utdr_(toby_fox) deltarune undertale touhou pokemon omori vocaloid sonic_(series) ace_attorney cutie_mew_mew_magic_(deltarune)
+?zapper_(deltarune) -> utdr_(toby_fox) deltarune undertale defernull touhou chainsaw_man jujutsu_kaisen kirby_(series) the_amazing_digital_circus yume_nikki
