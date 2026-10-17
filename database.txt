@@ -4083,3 +4083,4 @@
 ?spider-woman -> marvel avengers_(series) spider-man_(series) spider-verse spider-verse_(comics) spider-man:_across_the_spider-verse spider-man:_into_the_spider-verse spider-man_(toei) the_incredible_hulk_(series)
 ?tom_holland -> marvel spider-man_(series) spider-man:_no_way_home spider-man:_brand_new_day x-men spider-man_1_(2002) the_amazing_spider-man greek_mythology the_odyssey_(2026_movie) indie_virtual_youtuber
 ?zendaya -> real_life marvel spider-man_(series) final_fantasy final_fantasy_vii fire_emblem jojo_no_kimyou_na_bouken fire_emblem:_three_houses stone_ocean avatar_legends
+?izumi_yuki_(fleur_enchante) -> heaven_burns_red
