@@ -1546,3 +1546,4 @@
 ?purple_toad_(mario) -> mario_(series) paper_mario_(series) paper_mario:_the_origami_king the_super_mario_bros._movie mario_tennis super_mario_galaxy mario_tennis_aces the_legend_of_zelda the_legend_of_zelda:_breath_of_the_wild new_super_mario_bros._u_deluxe
 ?red_toad_(mario) -> mario_(series) super_smash_bros. the_legend_of_zelda kirby_(series) the_super_mario_bros._movie super_mario_bros._1 mario_kart pokemon new_super_mario_bros._u_deluxe metroid
 ?toad_(mario) -> mario_(series) super_smash_bros. kirby_(series) the_legend_of_zelda mario_kart paper_mario_(series) the_super_mario_bros._movie super_mario_bros._1 super_mario_galaxy donkey_kong_(series)
+?maro_(neneko_mashiro) -> stellive pokemon
