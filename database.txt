@@ -1879,3 +1879,4 @@
 ?udagawa_ako -> bang_dream! bang_dream!_girls_band_party! bang_dream!_yumemita love_live! idolmaster umamusume idolmaster_cinderella_girls pokemon kamen_rider
 ?sua_(alien_stage) -> alien_stage zombie_stage ipstar mahou_shoujo_madoka_magica futatsu_no_mokuba_(vocaloid) genshin_impact project_sekai sanrio my_clematis_(alien_stage) mahou_shoujo_madoka_magica_(anime)
 ?till_(alien_stage) -> alien_stage zombie_stage ipstar cure_(alien_stage) genshin_impact blink_gone_(alien_stage) neon_genesis_evangelion unknown_till_the_end rebuild_of_evangelion evangelion:_3.0_you_can_(not)_redo
+?koto_mitsuha -> filter-goshi_no_kanojo
