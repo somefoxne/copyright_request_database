@@ -2686,3 +2686,4 @@
 ?iono_(pokemon) -> pokemon pokemon_scarlet_and_violet pokemon_masters_ex pokemon_legends:_z-a pokemon_(anime) pokemon_horizons pokemon_sword_and_shield pokemon_black_2_and_white_2 pokemon_black_and_white hololive
 ?abigail_(black_survival) -> black_survival eternal_return:_black_survival original stellive blue_archive
 ?abigail_(tropical_dimension)_(black_survival) -> black_survival eternal_return:_black_survival original stellive
+?kurumi_noah -> vspo! nijisanji nijisanji_kr hololive apex_legends crazy_raccoon street_fighter indie_virtual_youtuber nanashi_inc. veemusic
