@@ -3886,3 +3886,4 @@
 ?kotobuki_tsumugi -> k-on! k-on!_movie listen!! no_thank_you!_(k-on!) suzumiya_haruhi_no_yuuutsu singing!_(k-on!) lucky_star fuwafuwa_time vocaloid
 ?riyo_reaper -> gachiakuta chainsaw_man umamusume kill_la_kill hololive arknights honkai_(series) honkai:_star_rail zenless_zone_zero one_piece
 ?leah_(airisubaka) -> original final_fantasy umamusume final_fantasy_xiv pokemon godzilla_(series) blue_archive vocaloid zenless_zone_zero indie_virtual_youtuber
+?lucia_(scott_malin) -> original indie_virtual_youtuber pokemon dragon_ball star_wars yu-gi-oh! sousou_no_frieren nier_(series) kill_la_kill nier:automata
