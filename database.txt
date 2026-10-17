@@ -2650,3 +2650,4 @@
 ?henrietta_(gunslinger_girl) -> gunslinger_girl fate_(series) suzumiya_haruhi_no_yuuutsu tsukihime ichigo_mashimaro idolmaster fate/stay_night toaru_majutsu_no_index toaru_kagaku_no_railgun
 ?howa_kurea -> precure meitantei_precure! toei_company kamen_rider wonderful_precure! hirogaru_sky!_precure kimi_to_idol_precure comiket_108 delicious_party_precure gundam
 ?howa_kurea_(civilian) -> precure meitantei_precure! comiket_108 kamen_rider toei_company gundam jojo_no_kimyou_na_bouken bocchi_the_rock! vento_aureo meitantei_conan
+?kirali_(meridian_project) -> meridian_project
