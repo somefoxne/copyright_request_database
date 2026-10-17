@@ -3262,3 +3262,4 @@
 ?gionji_yukine -> shine_post tower_records sakigake!!_cromartie_koukou laugh_diamond
 ?nabatame_haru -> shine_post megami_magazine tower_records laugh_diamond dengeki_bunko issun-boushi
 ?seibu_rio -> shine_post umamusume cho_kaguya-hime! sanrio tower_records dengeki_bunko
+?tamaki_kyouka -> shine_post shigoto_neko tower_records t.m.revolution dengeki_bunko
