@@ -1797,3 +1797,4 @@
 ?nagasaki_soyo -> bang_dream! bang_dream!_girls_band_party! girls_band_cry ganso!_bang_dream_chan arknights bocchi_the_rock! comiket_105 love_live! umamusume
 ?katsuragi_izumi -> love_live! love_live!_hasu_no_sora_jogakuin_school_idol_club edelied love_live!_hasu_no_sora_jogakuin_school_idol_club_bloom_garden_party theater_ikizama dream_believers retrofuture_(love_live!) edelinien reijou_mob!_(love_live!) a_deru_note
 ?ram_(re:zero) -> re:zero_kara_hajimeru_isekai_seikatsu re:zero_kara_hajimeru_isekai_seikatsu:_lost_in_memories kono_subarashii_sekai_ni_shukufuku_wo! goddess_of_victory:_nikke re:zero_kara_oboreru_isekai_seikatsu fate_(series) gochuumon_wa_usagi_desu_ka? pokemon isekai_quartet overlord_(maruyama)
+?roy_alphard -> re:zero_kara_hajimeru_isekai_seikatsu fate_(series) fate/grand_order mario_(series) super_mario_bros._wonder re:zero_kara_hajimeru_isekai_seikatsu:_lost_in_memories
