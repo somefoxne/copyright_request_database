@@ -1542,3 +1542,4 @@
 ?lakitu -> mario_(series) mario_kart new_super_mario_bros._u_deluxe super_mario_64 super_mario_bros._1 donkey_kong_(series) the_legend_of_zelda super_mario_bros._2 kirby_(series) nintendo
 ?lakitu's_cloud -> mario_(series) mario_kart new_super_mario_bros._u_deluxe super_mario_bros._1 donkey_kong_(series) super_mario_64 mario_&_luigi_rpg super_mario_galaxy_2 the_legend_of_zelda
 ?pokey_(mario) -> mario_(series) paper_mario_(series) super_mario_64 mario_kart mario_kart_world paper_mario:_the_thousand-year_door the_legend_of_zelda kirby_(series) paper_mario_64
+?princess_daisy -> mario_(series) mario_kart super_smash_bros. mario_kart_world the_legend_of_zelda super_mario_galaxy metroid pokemon kid_icarus fire_emblem
