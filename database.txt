@@ -2075,3 +2075,4 @@
 ?rupee_(rabbit_deluxe)_(nikke) -> goddess_of_victory:_nikke blue_archive marvel comiket_105 captain_america_(series) captain_america:_civil_war
 ?soda_(nikke) -> goddess_of_victory:_nikke re:zero_kara_hajimeru_isekai_seikatsu nier_(series) nier:automata fate_(series) fate/grand_order zenless_zone_zero resident_evil machikado_mazoku stellar_blade
 ?soda_(twinkling_bunny)_(nikke) -> goddess_of_victory:_nikke fate_(series) fate/grand_order zenless_zone_zero wuthering_waves real_life punishing:_gray_raven
+?velvet_(nikke) -> goddess_of_victory:_nikke zenless_zone_zero hololive hololive_english azur_lane indie_virtual_youtuber original coca-cola comiket_108 james_bond_(series)
