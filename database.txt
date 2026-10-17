@@ -3504,3 +3504,4 @@
 ?jinx_(league) -> league_of_legends arcane:_league_of_legends dc_comics street_fighter marvel batman_(series) league_of_legends:_wild_rift pokemon chainsaw_man cyberpunk_(series)
 ?behemoth_(final_fantasy) -> final_fantasy monster_hunter_(series) final_fantasy_vii monster_hunter:_world final_fantasy_i final_fantasy_xi final_fantasy_xiv final_fantasy_vi dissidia_final_fantasy final_fantasy_xv
 ?oboro_(kancolle) -> kantai_collection original aoki_hagane_no_arpeggio choo_choo_train pokemon girls_und_panzer gundam round1 twitter uchuu_senkan_yamato
+?ange_katrina_(valkyrie_hero) -> nijisanji valkyrie_connect vampire_(vocaloid) moechakkafire cherry_pop_(vocaloid) zuutto_issho_(kitani_tatsuya) overdose_(natori) propose_(natori)
