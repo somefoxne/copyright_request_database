@@ -2584,3 +2584,4 @@
 ?fuwawa_abyssgard_(1st_costume) -> hololive hololive_english hololive_indonesia fuwamoco_adventure hololive_dev_is enigmatic_recollection smiling_friends mister_donut jojo_no_kimyou_na_bouken dragon_ball
 ?mococo_abyssgard_(1st_costume) -> hololive hololive_english hololive_indonesia fuwamoco_adventure hololive_dev_is enigmatic_recollection smiling_friends hololive_grand_theft_auto dragon_ball mister_donut
 ?asuna_(bunny)_(blue_archive) -> blue_archive original azur_lane rabbit_hole_(vocaloid) comiket_103 fate_(series) arknights kantai_collection nijisanji sono_bisque_doll_wa_koi_wo_suru
+?aoyama_blue_mountain -> gochuumon_wa_usagi_desu_ka? kantai_collection gochuumon_wa_usagi_desu_ka??_wonderful_party! daydream_show girls_und_panzer to_love-ru megami_magazine utawarerumono_(series) utawarerumono:_itsuwari_no_kamen manga_time_kirara
