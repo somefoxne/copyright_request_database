@@ -1229,3 +1229,4 @@
 ?shiramine_nokia -> digimon digimon_story:_cyber_sleuth digimon_card_game digimon_world_re:digitize yu-gi-oh! digimon_story:_time_stranger bandai one_piece digimon_adventure_02
 ?yuuki_kanan -> digimon digimon_story:_time_stranger digimon_adventure digimon_card_game digimon_story:_cyber_sleuth pokemon super_sentai mirai_sentai_timeranger original persona
 ?raiden_mei -> honkai_(series) honkai_impact_3rd honkai_gakuen mihoyo honkai:_star_rail genshin_impact zenless_zone_zero original alien_stage
+?raiden_mei_(aeterna_purum) -> honkai_(series) honkai_impact_3rd honkai_gakuen mihoyo comiket_95
