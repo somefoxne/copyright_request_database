@@ -4239,3 +4239,4 @@
 ?lily_(princess_connect!) -> princess_connect! cygames umamusume
 ?takao_(azur_lane) -> azur_lane kantai_collection godzilla_(series) godzilla_minus_one aoki_hagane_no_arpeggio comiket_93 dolphin_wave fate_(series) azur_lane:_slow_ahead comiket_94
 ?takao_(school_romanza)_(azur_lane) -> azur_lane comiket_94 world_cup 2018_fifa_world_cup
+?kaiboukan_no._4_(kancolle) -> kantai_collection wacky_races k-on! dungeon_meshi animal_crossing twitter animal_crossing:_new_horizons hate_shinaku_aoi_kono_sora_no_shita_de.... original fate_(series)
