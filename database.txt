@@ -2939,3 +2939,4 @@
 ?batman_(absolute_dc) -> dc_comics absolute_dc absolute_batman batman_(series) absolute_wonder_woman absolute_superman wonder_woman_(series) superman_(series) marvel original
 ?tokiai_misao -> indie_virtual_youtuber fate_(series) fate/grand_order
 ?izuna_(swimsuit)_(blue_archive) -> blue_archive kantai_collection umamusume azur_lane world_cup comiket_103 comiket_102 2022_fifa_world_cup phase_connect comiket_105
+?ichika_(swimsuit)_(blue_archive) -> blue_archive comiket_107 original pokemon arknights kantai_collection idolmaster umamusume nijisanji idolmaster_shiny_colors
