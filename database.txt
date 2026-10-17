@@ -3645,3 +3645,4 @@
 ?cheadle_yorkshire -> hunter_x_hunter haou_airen
 ?clook_(hunter_x_hunter) -> hunter_x_hunter haou_airen
 ?gell_(hunter_x_hunter) -> hunter_x_hunter haou_airen
+?piyon_(hunter_x_hunter) -> hunter_x_hunter kantai_collection haou_airen
