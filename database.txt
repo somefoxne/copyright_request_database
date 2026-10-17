@@ -3758,3 +3758,4 @@
 ?mari_(faraway)_(omori) -> omori emori pokemon doki_doki_literature_club omariposa chainsaw_man vocaloid danganronpa_(series) utdr_(toby_fox) the_ring
 ?modernia_(second_affection)_(nikke) -> goddess_of_victory:_nikke to_love-ru shift_up stellar_blade greek_mythology ichiban_kuji a-1_pictures
 ?talos_(nikke) -> goddess_of_victory:_nikke fullmetal_alchemist super_robot_wars armored_core stellar_blade armored_core_vi:_fires_of_rubicon zoids akira_(manga) bandai the_lego_group
+?cofagrigus -> pokemon pokemon_black_and_white original pokemon_black_2_and_white_2 pokemon_heartgold_and_soulsilver pokemon_diamond/pearl/platinum pokemon_masters_ex pokemon_sun_and_moon pokemon_ruby/sapphire/emerald pokemon_x_and_y
