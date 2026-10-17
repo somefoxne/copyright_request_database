@@ -3980,3 +3980,4 @@
 ?flowey_(undertale) -> utdr_(toby_fox) undertale deltarune touhou omori pokemon kirby_(series) original hololive yume_nikki
 ?makihatayama_hana -> ojamajo_doremi precure cardcaptor_sakura bishoujo_senshi_sailor_moon toei_company pokemon heartcatch_precure! mahou_tsukai_sally mahou_no_tenshi_creamy_mami kaitou_saint_tail
 ?izayoi_miku -> date_a_live date_a_live:_spirit_pledge gekijouban_date_a_live:_mayuri_judgement fantasia_re:build crash_fever neptune_(series) choujigen_game_neptune_mk2 vivid_army nichijou
+?kyouno_natsumi -> date_a_live date_a_live:_spirit_pledge azur_lane crash_fever fantasia_re:build original pokemon honkai_(series) honkai_gakuen little_red_riding_hood_(fairy_tale)
