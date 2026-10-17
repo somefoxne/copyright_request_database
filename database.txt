@@ -1700,3 +1700,4 @@
 ?elu_(7th_costume)_(nijisanji) -> nijisanji mahjong_soul
 ?elu_(nijisanji) -> nijisanji nijisanji_kr nijisanji_en apex_legends nijisanji_id nijisanji_koshien pokemon indie_virtual_youtuber anpanman koko_wa_shinrin_kaitaku_honbu!_~yousei_no_genkai_shuuraku~
 ?dandelion_(girls'_frontline) -> arknights jashin-chan_dropkick blue_archive minecraft working!! the_ring
+?might_guy -> naruto_(series) naruto_shippuuden naruto_(classic) boruto_(series) boruto:_naruto_next_generations naruto_shippuuden:_ultimate_ninja_blazing naruto:_the_last umamusume naruto_sd_rock_lee_no_seishun danganronpa_(series)
