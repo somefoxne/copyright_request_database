@@ -2756,3 +2756,4 @@
 ?meguru_(cookie) -> cookie_(touhou) touhou manatsu_no_yo_no_inmu pokemon vocaloid p-model real_life niconico algodoo 1984_(novel)
 ?yuuhi_(cookie) -> cookie_(touhou) touhou manatsu_no_yo_no_inmu pokemon niconico shinza_bansho_series dies_irae half-life_(series) algodoo jojo_no_kimyou_na_bouken
 ?burnice_white -> zenless_zone_zero pizza-la mihoyo genshin_impact honkai_(series) original honkai:_star_rail team_fortress_2 umamusume tsukihime
+?komurasaki_momoka -> shine_post laugh_diamond youtube voisona
