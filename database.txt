@@ -3879,3 +3879,4 @@
 ?zira_(kiana_mai) -> cardcaptor_sakura mahou_shoujo_madoka_magica danganronpa_(series) mahou_shoujo_madoka_magica_(anime) bishoujo_senshi_sailor_moon original utdr_(toby_fox) deltarune danganronpa_another_episode:_ultra_despair_girls
 ?cater_diamond -> twisted_wonderland the_nightmare_before_christmas mickey_mouse_&_friends disney the_little_mermaid_(disney) aladdin_(movie) snow_white_and_the_seven_dwarfs_(disney) sleeping_beauty_(disney) disney_tsum-tsum original
 ?momose_hiyori -> vedal_ai live2d_inc. indie_virtual_youtuber minecraft muppets hololive hololive_english lost_kitten_(metric) blue_archive nijisanji
+?darkness_(konosuba) -> kono_subarashii_sekai_ni_shukufuku_wo! konosuba!_fantastic_days kono_subarashii_sekai_ni_shukufuku_wo!_kono_yokubukai_game_ni_shinpan_o! the_legend_of_zelda re:zero_kara_hajimeru_isekai_seikatsu sousou_no_frieren fate_(series) overlord_(maruyama) original the_legend_of_zelda:_breath_of_the_wild
