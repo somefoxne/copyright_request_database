@@ -2909,3 +2909,4 @@
 ?usami_taiga -> original pokemon pokemon_sun_and_moon the_legend_of_zelda super_smash_bros.
 ?green_lantern -> dc_comics green_lantern_(series) batman_(series) the_flash_(series) superman_(series) justice_league wonder_woman_(series) marvel superman_(2025) lanterns_(hbo_max)
 ?green_lantern_(absolute_dc) -> dc_comics absolute_dc absolute_green_lantern absolute_batman absolute_wonder_woman absolute_superman absolute_flash absolute_martian_manhunter absolute_green_arrow wonder_woman_(series)
+?sojourner_mullein -> dc_comics absolute_dc green_lantern_(series) absolute_green_lantern absolute_batman absolute_wonder_woman absolute_superman absolute_flash absolute_martian_manhunter absolute_green_arrow
