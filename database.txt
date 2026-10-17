@@ -2869,3 +2869,4 @@
 ?tanaka_rie -> rozen_maiden real_life gundam gundam_seed honkai_(series) girls_und_panzer neptune_(series) honkai:_star_rail honkai_impact_3rd genshin_impact
 ?touma_yumi -> girls_und_panzer darkstalkers girls_und_panzer_senshadou_daisakusen! record_of_lodoss_war girls_und_panzer_saishuushou
 ?uva_(girls_und_panzer) -> girls_und_panzer girls_und_panzer_saishuushou
+?kafuu_saki -> gochuumon_wa_usagi_desu_ka? megami_magazine manga_time_kirara
