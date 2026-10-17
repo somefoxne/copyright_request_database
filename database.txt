@@ -1077,3 +1077,4 @@
 ?kuonji_makoto -> digimon digimon_beatbreak honkai_(series) honkai:_star_rail digimon_tamers round1
 ?sawashiro_kyo -> digimon digimon_beatbreak honkai_(series) honkai:_star_rail round1
 ?tenma_asuka -> digimon digimon_beatbreak
+?tenma_tomoro -> digimon digimon_beatbreak digimon_card_game digimon_adventure digimon_adventure_02 digimon_story:_time_stranger digimon_liberator yomi_no_tsugai digimon_savers digimon_alysion
