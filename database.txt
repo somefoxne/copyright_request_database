@@ -1844,3 +1844,4 @@
 ?recoleta_(reverse:1999) -> reverse:1999 poptepipic umamusume zombie_high_school original bang_dream! mahou_shoujo_no_majo_saiban pretty_series lycoris_recoil
 ?mari_(track)_(blue_archive) -> blue_archive real_life ultra_series comiket_104 chiikawa blue_archive_the_animation olympics god_of_war_(series) 2024_summer_olympics original
 ?uruha_youji -> kagurabachi jujutsu_kaisen aizo_(king_gnu)
+?jeanne_amakawa -> rose_guns_days
