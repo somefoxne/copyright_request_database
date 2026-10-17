@@ -2900,3 +2900,4 @@
 ?sengoku_yuno_(real) -> bang_dream! bang_dream!_yumemita bang_dream!_our_notes chatgpt bang_dream!_girls_band_party! kimi_no_koto_ga_dai_dai_dai_dai_daisuki_na_100-nin_no_kanojo watashi_ga_koibito_ni_nareru_wake_naijan_murimuri! nokabe
 ?segawa_onpu -> ojamajo_doremi precure toei_company bishoujo_senshi_sailor_moon cardcaptor_sakura mahou_shoujo_madoka_magica magic_knight_rayearth tokyo_mew_mew mahou_tsukai_sally meitantei_precure!
 ?senoo_aiko -> ojamajo_doremi precure toei_company bishoujo_senshi_sailor_moon cardcaptor_sakura heartcatch_precure! mahou_shoujo_madoka_magica magic_knight_rayearth mermaid_melody_pichi_pichi_pitch tokyo_mew_mew
+?mayu_(vocaloid) -> vocaloid voiceroid utau cevio exit_tunes itto_na_kataomoi_minoraseta_chiisa_na_shiawase_(vocaloid) evillious_nendaiki chimidoro_switch_(vocaloid) vsinger_(vocaloid) kashokusei:_idol_shoukougun_(vocaloid)
