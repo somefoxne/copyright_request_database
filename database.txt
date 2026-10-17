@@ -4150,3 +4150,4 @@
 ?ashur_(trickcal) -> trickcal blue_archive utdr_(toby_fox) undertale psycho-pass aoa_(group)
 ?mint_fantome_(summer) -> densetsu.exe indie_virtual_youtuber vinesauce nijisanji nijisanji_en 3am
 ?celine_(fire_emblem) -> fire_emblem fire_emblem_engage fire_emblem_heroes fire_emblem:_three_houses fire_emblem_echoes:_shadows_of_valentia fire_emblem_fates pokemon fire_emblem:_thracia_776 fire_emblem:_the_binding_blade fire_emblem:_the_sacred_stones
+?gubo_(project_moon) -> project_moon limbus_company leviathan_(project_moon) library_of_ruina lobotomy_corporation kekkai_sensen the_distortion_detective mili_(band) fly_my_wings shingeki_no_kyojin
