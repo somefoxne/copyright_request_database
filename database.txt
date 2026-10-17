@@ -1211,3 +1211,4 @@
 ?ncr_trooper -> fallout fallout:_new_vegas original touhou cookie_(touhou) shoujo_shuumatsu_ryokou invincible_(series) liberty_leading_the_people
 ?char_aznable -> gundam mobile_suit_gundam zeta_gundam gundam_gquuuuuux mobile_suit_gundam_the_origin gundam_zz gundam_unicorn gundam_seed
 ?haman_karn -> gundam zeta_gundam gundam_zz mobile_suit_gundam arasa_ol_haman-sama gundam_seed gundam_seed_destiny precure
+?kamille_bidan -> gundam zeta_gundam gundam_zz mobile_suit_gundam gundam_wing gundam_unicorn gundam_00 gundam_seed g_gundam
