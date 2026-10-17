@@ -2640,3 +2640,4 @@
 ?camus_(dq11) -> dragon_quest dragon_quest_xi dragon_quest_treasures final_fantasy dragon_quest_viii final_fantasy_vii dragon_quest_iii dragon_quest_iv pokemon dragon_quest_v
 ?dracky -> dragon_quest dragon_quest_v dragon_quest_i dragon_quest_ii dragon_quest_x dragon_quest_iii dragon_quest_iv dragon_quest_viii dragon_quest_xi dragon_quest_vi
 ?healslime -> dragon_quest dragon_quest_iv dragon_quest_v dragon_quest_iii dragon_quest_x dragon_quest_ii dragon_quest_xi dragon_quest_vi dragon_quest_builders_2 dragon_quest_viii
+?hero_(dq11) -> dragon_quest dragon_quest_xi super_smash_bros. dragon_quest_iii dragon_quest_viii dragon_quest_iv banjo-kazooie persona persona_5 fire_emblem
