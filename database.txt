@@ -1355,3 +1355,4 @@
 ?kei_(student)_(blue_archive) -> blue_archive comiket_108 jujutsu_kaisen minecraft meccha_chameleon kantai_collection protocol_supernova trickcal neon_genesis_evangelion fancy_frontier_47
 ?togawa_nonoha -> nijisanji yi_er_fan_club_(vocaloid) nijisanji_en duel_masters nijisanji_kr nijisanji_id migikata_no_chou_(vocaloid)
 ?togawa_nonoha_(1st_costume) -> nijisanji nijisanji_en duel_masters nijisanji_kr nijisanji_id
+?shinosawa_hiro -> idolmaster gakuen_idolmaster koukei_(idolmaster) sunfaded_(idolmaster) kimi_to_semi_blue_(idolmaster) contrast_(idolmaster) me_(idolmaster) happy_mille-feuille_(idolmaster) hajime_(idolmaster) miracle_na_now!_(idolmaster)
