@@ -4160,3 +4160,4 @@
 ?frieza -> dragon_ball dragon_ball_z dragon_ball_super dragon_ball_(classic) dragon_ball_z_fukkatsu_no_f dragon_ball_super_broly touhou pokemon one_piece dragon_ball_gt
 ?kid_buu -> dragon_ball dragon_ball_z dragon_ball_(classic) touhou dragon_ball_gt dragon_ball_super dragon_ball_fighterz dragon_ball_daima dr._slump dragon_ball_super_broly
 ?kuririn -> dragon_ball dragon_ball_z dragon_ball_(classic) dragon_ball_super dragon_ball_fighterz dragon_ball_super_super_hero dragon_ball_gt one_piece dr._slump one-punch_man
+?majin_buu -> dragon_ball dragon_ball_z dragon_ball_super dragon_ball_(classic) touhou dragon_ball_fighterz dragon_ball_gt pokemon real_life kirby_(series)
