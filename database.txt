@@ -1948,3 +1948,4 @@
 ?kappougi_yukari -> voiceroid vocaloid a.i._voice cevio mahoujin_guruguru
 ?friedrich_der_grosse_(azur_lane) -> azur_lane azur_lane:_slow_ahead world_of_warships fire_emblem fire_emblem:_the_blazing_blade kantai_collection original blue_archive zozotown tatakau_ni_atai_suru
 ?friedrich_der_grosse_(boudoir's_lingering_flame)_(azur_lane) -> azur_lane
+?eshmel_(pale_raven)_(fire_emblem) -> fire_emblem fire_emblem_heroes fire_emblem:_radiant_dawn angry_birds angry_birds:_dice
