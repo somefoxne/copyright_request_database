@@ -2956,3 +2956,4 @@
 ?naoya_(devil_survivor) -> devil_survivor_(series) devil_survivor_1 megami_tensei persona shin_megami_tensei durarara!! umamusume persona_3 persona_4 persona_3_portable
 ?protagonist_(devil_survivor) -> devil_survivor_(series) devil_survivor_1 devil_survivor_2 megami_tensei persona persona_3 shin_megami_tensei persona_4 devil_summoner_(series) shin_megami_tensei_iii:_nocturne
 ?aleister_(yu-gi-oh!) -> yu-gi-oh! turing_love yu-gi-oh!_rush_duel yu-gi-oh!_master_duel umamusume dc_comics sanrio batman_(series) fuwa_fuwa_cinnamoroll kero_kero_keroppi
+?virakam_the_divine_spirit_of_artifice -> yu-gi-oh!
