@@ -1425,3 +1425,4 @@
 ?pikl_(elira_pendora) -> nijisanji nijisanji_en nijisanji_kr nijisanji_id among_us apex_legends virtuareal hololive genshin_impact hololive_english
 ?orchel_(fire_emblem) -> fire_emblem
 ?yu_phas_(fire_emblem) -> fire_emblem
+?cassie_(tobias_wheller) -> original
