@@ -3656,3 +3656,4 @@
 ?kit_bodega -> gameoverse the_amazing_digital_circus sonic_(series) darkstalkers god_of_war_(series) glitch_productions shantae_(series) metroid metal_slug street_fighter
 ?miyako_yoshika -> touhou ten_desires touhou_(pc-98) undefined_fantastic_object touhou_lostword reitaisai embodiment_of_scarlet_devil imperishable_night perfect_cherry_blossom phantasmagoria_of_flower_view
 ?matsuura_kanan -> love_live! love_live!_sunshine!! love_live!_school_idol_project genjitsu_no_yohane love_live!_school_idol_festival love_live!_nijigasaki_high_school_idol_club love_live!_school_idol_festival_all_stars happy_party_train kimi_no_kokoro_wa_kagayaiteru_kai? love_live!_sunshine!!_the_school_idol_movie_over_the_rainbow
+?jun_the_swan -> gatchaman casshern_(series) tatsunoko_vs._capcom robot_hunter_casshern darkstalkers uchuu_no_kishi_tekkaman hariken_polymar street_fighter mega_man_(series) mega_man_(classic)
