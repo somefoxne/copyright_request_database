@@ -1869,3 +1869,4 @@
 ?amagi_happiness_(umamusume) -> umamusume umamusume:_star_blossom
 ?yoshino_prevail_(umamusume) -> umamusume umamusume:_star_blossom umamusume:_cinderella_gray midori_no_makibaoo
 ?ivan_(alien_stage) -> alien_stage zombie_stage ipstar genshin_impact cure_(alien_stage) neon_genesis_evangelion blink_gone_(alien_stage) rebuild_of_evangelion wiege_(alien_stage)
+?mizi_(alien_stage) -> alien_stage zombie_stage ipstar futatsu_no_mokuba_(vocaloid) mahou_shoujo_madoka_magica project_sekai sanrio genshin_impact my_clematis_(alien_stage) honkai_(series)
