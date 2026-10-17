@@ -1856,3 +1856,4 @@
 ?overezeggs -> indie_virtual_youtuber goddess_of_victory:_nikke
 ?yolk_(overezeggs) -> indie_virtual_youtuber
 ?dr._halibut_(calamity_mod) -> terraria calamity_(terraria_mod) helltaker black_souls
+?guilty_(mighty_bunny)_(nikke) -> goddess_of_victory:_nikke indie_virtual_youtuber fullmetal_alchemist waktaverse isegye_idol socks_agency
