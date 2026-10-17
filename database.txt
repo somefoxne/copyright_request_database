@@ -2883,3 +2883,4 @@
 ?kiyomiya_hikari_(kuromiya) -> original
 ?torafuji_nagi_(kuromiya) -> original
 ?fnc_(girls'_frontline) -> cave_story original kantai_collection shoujo_shuumatsu_ryokou pokemon metal_gear_(series) doom_(series)
+?jahoda_(genshin_impact) -> genshin_impact mihoyo honkai_(series) honkai:_star_rail duolingo original zenless_zone_zero pokemon hololive umamusume
