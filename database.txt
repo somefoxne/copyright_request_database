@@ -1025,3 +1025,4 @@
 ?sakura_bakushin_o_(umamusume) -> umamusume real_life umamusume:_cinderella_gray original umamusume:_star_blossom cygames kantai_collection pokemon midori_no_makibaoo gundam
 ?seiun_sky_(reeling_in_the_big_one)_(umamusume) -> umamusume pokemon akari_ga_yatte_kitazo_(vocaloid) fate_(series) jojo_no_kimyou_na_bouken umamusume:_party_dash original kantai_collection love_live! indie_virtual_youtuber
 ?seiun_sky_(umamusume) -> umamusume umayuru pokemon tamagotchi real_life kantai_collection pakatube original umamusume:_cinderella_gray kimetsu_no_yaiba
+?gold_ship_(red_strife)_(umamusume) -> umamusume real_life original jojo_no_kimyou_na_bouken gundam dragon_ball jujutsu_kaisen umamusume:_cinderella_gray hololive vocaloid
