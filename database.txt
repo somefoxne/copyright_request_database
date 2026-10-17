@@ -4224,3 +4224,4 @@
 ?ming_(strinova) -> strinova genshin_impact azur_lane
 ?magical_mirai_miku_(2017) -> vocaloid magical_mirai_(vocaloid) suna_no_wakusei_(vocaloid) hatsune_miku_happy_16th_birthday_-dear_creators- melt_(vocaloid) odds_&_ends_(vocaloid) miku_symphony_(vocaloid) piapro_studio tell_your_world_(vocaloid) project_diva_(series)
 ?gabriel_tenma_white -> gabriel_dropout ishuzoku_reviewers nier_(series) nier:automata kobayashi-san_chi_no_maidragon himouto!_umaru-chan dadadada_tenshi_(nanawo_akari) doga_kobo megami_magazine comiket_95
+?vignette_tsukinose_april -> gabriel_dropout new_game! doga_kobo megami_magazine hololive kono_subarashii_sekai_ni_shukufuku_wo! monogatari_(series) overwatch gochuumon_wa_usagi_desu_ka? kobayashi-san_chi_no_maidragon
