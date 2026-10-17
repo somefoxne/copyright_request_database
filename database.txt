@@ -3581,3 +3581,4 @@
 ?cheyanne_(girls'_frontline_2) -> blue_archive codename:_bakery_girl reverse_collapse_(series) wikipedia touhou arknights
 ?cheyanne_(maiden_debut)_(girls'_frontline_2) -> blue_archive mountain_dew
 ?m200_(girls'_frontline) -> blue_archive hololive hololive_english call_of_duty call_of_duty:_modern_warfare_2 original arknights
+?vanya_(fymrie) -> original
