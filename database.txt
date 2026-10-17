@@ -1482,3 +1482,4 @@
 ?senketsu -> kill_la_kill trigger_(company) tengen_toppa_gurren_lagann touhou little_witch_academia original pokemon neon_genesis_evangelion kantai_collection panty_&_stocking_with_garterbelt
 ?kotobuki_hisako -> seitokai_ni_mo_ana_wa_aru! onii-chan_wa_oshimai! mushoku_tensei flcl fate_(series) fate/grand_order idolmaster umamusume idolmaster_cinderella_girls gundam
 ?azuki_(nekopara) -> nekopara nekopara_sekai_connect pokemon vocaloid goodsmile_company touhou kantai_collection blue_archive fate_(series) hololive
+?han_juri -> street_fighter street_fighter_6 street_fighter_iv_(series) street_fighter_v fatal_fury capcom darkstalkers the_king_of_fighters street_fighter_zero_(series) final_fight
