@@ -1180,3 +1180,4 @@
 ?cammy_white -> street_fighter street_fighter_6 street_fighter_zero_(series) street_fighter_v street_fighter_ii_(series) street_fighter_iv_(series) capcom darkstalkers the_king_of_fighters fatal_fury
 ?altair_(re:creators) -> re:creators fate_(series) original fate/grand_order honkai_(series) granblue_fantasy persona persona_5 nier_(series) nier:automata
 ?leda_(fire_emblem) -> fire_emblem fire_emblem_heroes fire_emblem:_three_houses fire_emblem_engage fire_emblem_shadows final_fantasy final_fantasy_vii dragon_ball fire_emblem_fates
+?olympia_iris -> fire_emblem fire_emblem:_three_houses
