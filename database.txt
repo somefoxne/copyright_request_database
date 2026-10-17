@@ -1456,3 +1456,4 @@
 ?fabio_gil_toro_alvarez -> fire_emblem pokemon fire_emblem:_three_houses dragon_ball dragon_ball_z fire_emblem_warriors:_three_hopes hokuto_no_ken
 ?mikaela_ogosto -> fire_emblem
 ?yang_jie_(fire_emblem) -> fire_emblem
+?sheik -> the_legend_of_zelda the_legend_of_zelda:_ocarina_of_time super_smash_bros. the_legend_of_zelda:_twilight_princess mario_(series) metroid pokemon fire_emblem kid_icarus kirby_(series)
