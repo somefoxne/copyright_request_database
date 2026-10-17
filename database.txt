@@ -3707,3 +3707,4 @@
 ?makinami_(kancolle) -> kantai_collection neon_genesis_evangelion rebuild_of_evangelion suzumiya_haruhi_no_yuuutsu real_life evangelion:_2.0_you_can_(not)_advance wacky_races gekkou_kamen_(series) umamusume dragon_ball
 ?kokona_(strinova) -> strinova
 ?eve_(elsword) -> elsword vocaloid project_moon limbus_company mega_man_(series) dc_comics batman_(series) mega_man_zero_(series) mega_man_zx original
+?moby_(elsword) -> elsword closers
