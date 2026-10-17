@@ -1359,3 +1359,4 @@
 ?natsuki_(doki_doki_literature_club) -> doki_doki_literature_club one-punch_man sousou_no_frieren original omori pokemon vocaloid mahou_shoujo_madoka_magica sonic_(series) sanrio
 ?aurora_(fire_emblem) -> fire_emblem
 ?solel_(fire_emblem) -> fire_emblem fire_emblem:_three_houses
+?koyanagi_rou -> nijisanji nijisanji_en nijisanji_gta nijisanji_kr nijisanji_koshien s.c.r.e.a.m grand_theft_auto grand_theft_auto_v genshin_impact zenless_zone_zero
