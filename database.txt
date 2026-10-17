@@ -4062,3 +4062,4 @@
 ?aida_taketo -> kobayashi-san_chi_no_maidragon chainsaw_man xenoblade_chronicles_(series) jujutsu_kaisen xenoblade_chronicles_2 jahy-sama_wa_kujikenai! thomas_the_tank_engine_(series)
 ?maaa -> made_in_abyss gundam gundam_suisei_no_majo idolmaster idolmaster_cinderella_girls splatoon_(series) real_life idolmaster_cinderella_girls_starlight_stage splatoon_3 pokemon
 ?iyo_(denjin_makai) -> denjin_makai denjin_makai_(series)
+?protagonist_(harry_potter:_magic_awakened) -> wizarding_world harry_potter_(series) harry_potter:_magic_awakened harry_potter:_magic_awakened_design_award original
