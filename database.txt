@@ -3228,3 +3228,4 @@
 ?vivillon -> pokemon pokemon_x_and_y pokemon_scarlet_and_violet pokemon_masters_ex pokemon_legends:_z-a pokemon_(anime) original pokemon_tcg pokemon_black_and_white pokemon_sun_and_moon
 ?vivillon_(meadow) -> pokemon pokemon_x_and_y pokemon_legends:_z-a original pokemon_black_and_white pokemon_(anime) pokemon_diamond/pearl/platinum pokemon_sun_and_moon pokemon_sword_and_shield pokemon_black_2_and_white_2
 ?xerneas -> pokemon pokemon_x_and_y pokemon_diamond/pearl/platinum pokemon_(anime) pokemon_black_and_white pokemon_masters_ex pokemon_the_series:_xy pokemon_sun_and_moon pokemon_ruby/sapphire/emerald pokemon_the_series:_ruby_and_sapphire
+?yveltal -> pokemon pokemon_x_and_y pokemon_(anime) pokemon_black_and_white pokemon_masters_ex pokemon_the_series:_xy pokemon_diamond/pearl/platinum pokemon_ruby/sapphire/emerald pokemon_the_movie:_diancie_and_the_cocoon_of_destruction pokemon_(classic_anime)
