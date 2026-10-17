@@ -3274,3 +3274,4 @@
 ?ushi_gozen_(fate) -> fate_(series) fate/grand_order fate/samurai_remnant umamusume sanrio my_melody_(series) original pokemon pokemon_sun_and_moon pokemon_x_and_y
 ?yamato_takeru_(fate) -> fate_(series) fate/samurai_remnant fate/grand_order fate/stay_night tsukihime tsukihime_(remake) fate/dream_striker fate/extra fate/grand_order_arcade fate/zero
 ?elizabeth_bathory_(fate) -> fate_(series) fate/grand_order fate/extra fate/extra_ccc fate/extella fate/apocrypha learning_with_manga!_fgo fate/stay_night fate/zero rojiura_satsuki:_chapter_heroine_sanctuary
+?elizabeth_bathory_(perfect)_(first_ascension)_(fate) -> fate_(series) fate/grand_order tsukihime learning_with_manga!_fgo marvel fate/extra spider-man_(series) fate/strange_fake jurassic_world himuro_no_tenchi
