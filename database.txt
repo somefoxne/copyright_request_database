@@ -4219,3 +4219,4 @@
 ?timick_(isa-415810) -> the_legend_of_zelda original the_legend_of_zelda:_twilight_princess the_legend_of_zelda:_breath_of_the_wild the_legend_of_zelda:_tears_of_the_kingdom the_legend_of_zelda:_ocarina_of_time twitter yotsubato! tomodachi_life tomodachi_life:_living_the_dream
 ?ikaruga_(senran_kagura) -> senran_kagura senran_kagura_new_wave senran_kagura_new_link senran_kagura_estival_versus azur_lane senran_kagura_burst senran_kagura_shinovi_versus senran_kagura_burst_re:newal dolphin_wave
 ?lenalee_lee -> d.gray-man j-girl_fight gintama katekyo_hitman_reborn! one_piece naruto_(series) bleach vocaloid final_fantasy bishoujo_senshi_sailor_moon
+?lucia_crabs -> indie_virtual_youtuber
