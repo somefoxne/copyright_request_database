@@ -3779,3 +3779,4 @@
 ?yammy_llargo -> bleach bleach:_sennen_kessen-hen touhou original idolmaster idolmaster_cinderella_girls bleach:_epilogue bleach:_brave_souls bleach:_zanpakutou_ibun_hen bleach:_memories_of_nobody
 ?zommari_rureaux -> bleach bleach:_sennen_kessen-hen idolmaster idolmaster_cinderella_girls bleach:_brave_souls bleach:_epilogue bleach:_zanpakutou_ibun_hen bleach:_memories_of_nobody bleach:_fade_to_black
 ?evil_neuro-sama_(1st_costume) -> vedal_ai indie_virtual_youtuber osu! makeship vrchat muppets original microsoft_windows pokemon jujutsu_kaisen
+?tanigawa_yuzu -> devil_survivor_(series) devil_survivor_1 shin_megami_tensei devil_survivor_2 persona azur_lane persona_3 megami_tensei persona_4 fire_emblem
