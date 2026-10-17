@@ -191,6 +191,7 @@ eudrick -> nijisanji
 kasahara_ao -> nijisanji
 sailusuto -> nijisanji
 umihoshi_stella -> nijisanji
+
 #nijisanji_id
 zea_cornelia -> nijisanji_id
 hana_macchia -> nijisanji_id
@@ -211,6 +212,7 @@ reza_avanluna -> nijisanji_id
 hyona_elatiora -> nijisanji_id
 xia_ekavira -> nijisanji_id
 mika_melatika -> nijisanji_id
+
 #nijisanji_in
 aadya_(nijisanji) -> nijisanji_in
 vihaan -> nijisanji_in
@@ -238,6 +240,7 @@ ha_yun -> nijisanji_kr
 na_sera -> nijisanji_kr
 ko_yami -> nijisanji_kr
 lee_on -> nijisanji_kr
+
 #nijisanji_en
 elira_pendora -> nijisanji_en
 pomu_rainpuff -> nijisanji_en
@@ -284,6 +287,7 @@ zeal_ginjoka -> nijisanji_en
 freodore(nijisanji) -> nijisanji_en
 seible_(nijisanji) -> nijisanji_en
 kaelix_debonair -> nijisanji_en
+
 #virtuareal
 eine_(virtuareal) -> virtuareal
 ruki_(virtuareal) -> virtuareal
