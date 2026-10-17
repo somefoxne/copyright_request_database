@@ -1945,3 +1945,4 @@
 ?kasuga_ichiban -> ryuu_ga_gotoku_(series) ryuu_ga_gotoku_7 ryuu_ga_gotoku_8 sonic_(series) hololive persona persona_5 sonic_racing:_crossworlds vocaloid sega
 ?neuvillette_(genshin_impact) -> genshin_impact honkai_(series) mihoyo honkai:_star_rail zenless_zone_zero honkai_impact_3rd olympics 2024_summer_olympics original among_us
 ?goetz_von_berlichingen_(azur_lane) -> azur_lane azur_lane:_slow_ahead comiket_108
+?kappougi_yukari -> voiceroid vocaloid a.i._voice cevio mahoujin_guruguru
