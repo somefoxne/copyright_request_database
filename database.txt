@@ -3757,3 +3757,4 @@
 ?revenant_(elden_ring) -> elden_ring elden_ring_nightreign dark_souls_(series) bloodborne fromsoftware elden_ring:_shadow_of_the_erdtree dark_souls_i dark_souls_iii dark_souls_ii jujutsu_kaisen
 ?mari_(faraway)_(omori) -> omori emori pokemon doki_doki_literature_club omariposa chainsaw_man vocaloid danganronpa_(series) utdr_(toby_fox) the_ring
 ?modernia_(second_affection)_(nikke) -> goddess_of_victory:_nikke to_love-ru shift_up stellar_blade greek_mythology ichiban_kuji a-1_pictures
+?talos_(nikke) -> goddess_of_victory:_nikke fullmetal_alchemist super_robot_wars armored_core stellar_blade armored_core_vi:_fires_of_rubicon zoids akira_(manga) bandai the_lego_group
