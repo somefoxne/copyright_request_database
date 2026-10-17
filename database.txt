@@ -1715,3 +1715,4 @@
 ?eevee -> pokemon pokemon_(anime) pokemon_scarlet_and_violet pokemon_sword_and_shield pokemon_red/green/blue/yellow pokemon_firered_and_leafgreen original pokemon_journeys pokemon_mystery_dungeon
 ?harmony_(pokemon) -> pokemon pokemon_legends:_z-a pokemon_x_and_y pokemon_scarlet_and_violet pokemon_legends:_arceus pokemon_black_and_white pokemon_sword_and_shield pokemon_sun_and_moon pokemon_heartgold_and_soulsilver pokemon_diamond/pearl/platinum
 ?sylveon -> pokemon pokemon_scarlet_and_violet pokemon_(anime) pokemon_x_and_y original pokemon_the_series:_xy pokemon_sword_and_shield pokemon_unite pokemon_journeys pokemon_sun_and_moon
+?urbain_(pokemon) -> pokemon pokemon_legends:_z-a pokemon_x_and_y original pokemon_scarlet_and_violet pokemon_sword_and_shield pokemon_masters_ex pokemon_heartgold_and_soulsilver pokemon_sun_and_moon pokemon_diamond/pearl/platinum
