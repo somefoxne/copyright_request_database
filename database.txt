@@ -1506,3 +1506,4 @@
 ?halvin_(fire_emblem) -> fire_emblem fire_emblem:_three_houses real_life
 ?a_(naruto) -> naruto_(series) naruto_shippuuden boruto_(series) boruto:_naruto_next_generations naruto_(classic) dragon_ball marvel bleach pokemon final_fantasy
 ?haruno_sakura -> naruto_(series) naruto_(classic) naruto_shippuuden boruto_(series) boruto:_naruto_next_generations naruto:_the_last one_piece boruto:_naruto_the_movie bleach hentai_key
+?juggernaut_(dragia3743) -> original gosick
