@@ -3123,3 +3123,4 @@
 ?male_esper_zero_(nte) -> neverness_to_everness tokyo_game_show
 ?higashiyama_kobeni -> chainsaw_man the_amazing_digital_circus bocchi_the_rock! bemani dance_dance_revolution real_life breaking_bad original resident_evil
 ?mornye_(wuthering_waves) -> wuthering_waves cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 comiket_107 irasutoya bocchi_the_rock! punishing:_gray_raven kuro_games original
+?lyrah_(fire_emblem) -> fire_emblem
