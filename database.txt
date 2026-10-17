@@ -1112,3 +1112,4 @@
 ?fine_motion's_bodyguard_captain -> umamusume umamusume:_cinderella_gray sousou_no_frieren bishoujo_senshi_sailor_moon death_note comiket_102 umamusume:_road_to_the_top umayuru gag_manga_biyori umamusume:_star_blossom
 ?black_cat_(coastal_cat)_(marvel) -> marvel marvel_rivals spider-man_(series) x-men avengers_(series) fantastic_four guardians_of_the_galaxy tiger_division
 ?felicia_hardy -> marvel spider-man_(series) marvel_rivals dc_comics batman_(series) x-men tiger_division spider-verse fantastic_four
+?hisuian_decidueye -> pokemon pokemon_legends:_arceus original pokemon_scarlet_and_violet pokemon_(anime) pokemon_sun_and_moon pokemon_diamond/pearl/platinum pokemon_black_and_white pokemon_horizons pokemon_sword_and_shield
