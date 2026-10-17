@@ -3799,3 +3799,4 @@
 ?yamashiro_takane -> touhou unconnected_marketeers touhou_(pc-98) touhou_lostword 100th_black_market mountain_of_faith pokemon arknights perfect_cherry_blossom legacy_of_lunatic_kingdom
 ?shindo_yo -> boku_no_hero_academia
 ?alphys -> utdr_(toby_fox) undertale deltarune pokemon mario_(series) animal_crossing sonic_(series) adventure_time among_us mahou_shoujo_madoka_magica
+?undyne -> utdr_(toby_fox) undertale deltarune touhou pokemon xtale mario_(series) splatoon_(series) animal_crossing hololive
