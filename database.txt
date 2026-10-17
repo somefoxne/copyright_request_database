@@ -1829,3 +1829,4 @@
 ?yudias_velgear -> yu-gi-oh! yu-gi-oh!_go_rush!! neon_genesis_evangelion yu-gi-oh!_duel_monsters evangelion:_30th_anniversary_special_performance bishoujo_senshi_sailor_moon rebuild_of_evangelion evangelion:_3.0_you_can_(not)_redo idolish7 megido72
 ?zuwijo_zir_velgear -> yu-gi-oh! yu-gi-oh!_go_rush!!
 ?nihilux_(aeon_aha)_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail honkai_impact_3rd genshin_impact blade_runner_(series) blade_runner_2049 zenless_zone_zero mihoyo
+?nihilux_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail genshin_impact honkai_impact_3rd mihoyo zenless_zone_zero jojo_no_kimyou_na_bouken blade_runner_(series) blade_runner_2049 never_gonna_give_you_up
