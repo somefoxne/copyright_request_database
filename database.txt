@@ -3575,3 +3575,4 @@
 ?fubuki_kai_san_(kancolle) -> kantai_collection famitsu fuan_no_tane
 ?fubuki_kai_san_go_(type_6)_(kancolle) -> kantai_collection famitsu fuan_no_tane
 ?komazoi_eden -> alice_gear_aegis sousou_no_frieren dolphin_wave frame_arms_girl
+?zani_(wuthering_waves) -> wuthering_waves pizza-la genshin_impact umamusume zenless_zone_zero lawson honkai_(series) honkai:_star_rail goddess_of_victory:_nikke
