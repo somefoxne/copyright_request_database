@@ -2452,3 +2452,4 @@
 ?sin_(nikke) -> goddess_of_victory:_nikke blue_archive original indie_virtual_youtuber last_origin helltaker
 ?sin_(swift_bunny)_(nikke) -> goddess_of_victory:_nikke
 ?edward_dewey -> resident_evil resident_evil_1 resident_evil_0
+?enrico_marini -> resident_evil resident_evil_1 resident_evil_0
