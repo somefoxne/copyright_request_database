@@ -3565,3 +3565,4 @@
 ?sakanagi_ayana -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_unmarked megami_magazine mahou_shoujo_ikusei_keikaku_restart
 ?g36c_(girls'_frontline) -> azur_lane fate_(series) metal_gear_(series) kantai_collection hololive fate/grand_order mahou_shoujo_madoka_magica gundam
 ?yorozu_minami -> kamen_rider kamen_rider_zeztz_(series) precure meitantei_precure! kamen_rider_my-th_(series)
+?bajiru_(vtuber) -> indie_virtual_youtuber
