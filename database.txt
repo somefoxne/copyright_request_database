@@ -1463,3 +1463,4 @@
 ?lu_dongbin_(all_wishes_come_true!) -> all_wishes_come_true! pokemon ore_no_imouto_ga_konna_ni_kawaii_wake_ga_nai new_gods:_yang_jian where_winds_meet mr._and_mrs._smith
 ?zhongli_quan_(all_wishes_come_true!) -> all_wishes_come_true! pokemon resident_evil ore_no_imouto_ga_konna_ni_kawaii_wake_ga_nai resident_evil:_vendetta new_gods:_yang_jian mob_psycho_100 resident_evil_2 spongebob_squarepants_(series) where_winds_meet
 ?etsushimaru_yakuko -> yani_neko umamusume marvel spider-man_(series) kimi_no_koto_ga_dai_dai_dai_dai_daisuki_na_100-nin_no_kanojo breaking_bad spider-man_3 the_orville original touhou
+?rokuhira_chihiro -> kagurabachi jujutsu_kaisen shounen_jump pokemon one_piece chainsaw_man sakamoto_days boku_no_hero_academia dragon_ball nige_jouzu_no_wakagimi
