@@ -1758,3 +1758,4 @@
 ?joe_rikiichi -> nijisanji nijisanji_en indie_virtual_youtuber nijisanji_kr bans nijisanji_koshien nijisanji_id hololive tengen_toppa_gurren_lagann nanashi_inc.
 ?maimoto_keisuke -> nijisanji nijisanji_koshien indie_virtual_youtuber hololive bans nijisanji_en nijisanji_kr nijisanji_id gamecenter_cx noripro
 ?yashiro_kizuku -> nijisanji nijisanji_koshien nijisanji_en nijisanji_kr hololive nijisanji_id indie_virtual_youtuber nanashi_inc. jikkyou_powerful_pro_yakyuu mario_(series)
+?schnee_weissberg -> dolphin_wave marvelous senran_kagura kantai_collection highspeed_etoile azur_lane senki_zesshou_symphogear senran_kagura_new_link fate_(series) fate/extra
