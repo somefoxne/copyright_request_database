@@ -4155,3 +4155,4 @@
 ?setsu_(gnosia) -> gnosia newtype original touhou vocaloid fire_emblem persona splatoon_(series) utau xenoblade_chronicles_(series)
 ?masaki_gaillard -> amairo_islenauts yuzusoft sanoba_witch riddle_joker tenshinranman cafe_stella_to_shinigami_no_chou senren_banka dracu-riot! original tenshi_souzou_re-boot!
 ?varesa_(genshin_impact) -> genshin_impact zenless_zone_zero mihoyo honkai_(series) honkai:_star_rail granblue_fantasy umamusume wuthering_waves honkai_impact_3rd sonic_(series)
+?bulma -> dragon_ball dragon_ball_(classic) dragon_ball_z dragon_ball_super dragon_ball_gt dragon_ball_super_super_hero dragon_ball_super_broly dragon_ball_daima one_piece dragon_ball_fighterz
