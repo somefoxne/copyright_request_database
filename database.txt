@@ -3427,3 +3427,4 @@
 ?clarence_clayden -> lovebrush_chronicles original arknights pokemon touqi_guaitan coca-cola merc_storia 18trip si_land
 ?cowpens_(azur_lane) -> azur_lane azur_lane:_slow_ahead blue_archive yostar comiket_108
 ?cowpens_(milky_ministrations)_(azur_lane) -> azur_lane azur_lane:_slow_ahead blue_archive yostar
+?daphne_amour -> indie_virtual_youtuber
