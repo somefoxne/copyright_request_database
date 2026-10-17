@@ -4054,3 +4054,4 @@
 ?nico_robin -> one_piece one_piece:_strong_world one_piece_(live_action) one_piece_film:_red one_piece_film:_z one_piece_film:_gold one_piece_card_game one_piece_heroines one_piece:_stampede one_piece_treasure_cruise
 ?matsubara_kanon -> bang_dream! bang_dream!_girls_band_party! gochuumon_wa_usagi_desu_ka? bang_dream!_yumemita ojamajo_doremi love_live! ganso!_bang_dream_chan hololive
 ?okusawa_misaki -> bang_dream! bang_dream!_girls_band_party! bang_dream!_yumemita original love_live! ojamajo_doremi love_live!_hasu_no_sora_jogakuin_school_idol_club alien_alien_(vocaloid) genshin_impact
+?mikasa_ackerman -> shingeki_no_kyojin shingeki_no_school_castes toaru_majutsu_no_index toaru_kagaku_no_railgun nier_(series) nier:automata neon_genesis_evangelion naruto_(series) mahou_shoujo_madoka_magica jujutsu_kaisen
