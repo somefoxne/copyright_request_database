@@ -3421,3 +3421,4 @@
 ?female_corrin_(fire_emblem) -> fire_emblem fire_emblem_fates fire_emblem_heroes fire_emblem_awakening super_smash_bros. fire_emblem:_three_houses fire_emblem_engage fire_emblem_cipher pokemon fire_emblem:_mystery_of_the_emblem
 ?kazami_yuuka -> touhou touhou_(pc-98) touhou_tag_dream lotus_land_story phantasmagoria_of_flower_view seihou cookie_(touhou) original kioh_gyoku pokemon
 ?mityl_(girls'_frontline_2) -> monitoring_(vocaloid) leon_the_professional titanic_(movie) rambo the_shawshank_redemption
+?p90_(girls'_frontline) -> arena_breakout counter-strike_(series) counter-strike_2 arknights rainbow_six_siege ace_attorney azur_lane sword_art_online
