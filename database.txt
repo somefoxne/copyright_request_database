@@ -3386,3 +3386,4 @@
 ?kotomiya_ayane -> taima_senki_ayane_~chijoku_saimin_no_wana~
 ?scaramouche_(cat)_(genshin_impact) -> genshin_impact original mihoyo honkai_(series) honkai:_star_rail zenless_zone_zero got_talent pokemon sanrio death_note
 ?enigma_(reverse:1999) -> reverse:1999 world_cup 2026_fifa_world_cup atomic_heart wizarding_world harry_potter_(series) lipu_friends
+?ulrich_(reverse:1999) -> reverse:1999 original pokemon world_cup 2026_fifa_world_cup atomic_heart
