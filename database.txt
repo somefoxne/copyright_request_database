@@ -1189,3 +1189,4 @@
 ?ashelin_praxis -> jak_and_daxter
 ?vodyanitsa_(bard)_(genshin_impact) -> genshin_impact
 ?vodyanitsa_(genshin_impact) -> genshin_impact honkai_(series) mihoyo honkai:_star_rail chiikawa arknights vocaloid zenless_zone_zero sanrio frozen_(disney)
+?nikaidou_shinku -> irotoridori_no_sekai irotoridori_no_hikari hoshizora_no_memoria favorite_(company) astralair_no_shiroki_towa blue_archive sakura_moyu akai_hitomi_ni_utsuru_sekai comiket_108 study_steady
