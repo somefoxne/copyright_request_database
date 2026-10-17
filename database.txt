@@ -3493,3 +3493,4 @@
 ?matilda_bouanich -> reverse:1999 pizza_hut neon_genesis_evangelion olympics 2024_summer_olympics ganbare!_nakamura-kun!! b.duck original fate_(series) genshin_impact
 ?astolfo_(fate) -> fate_(series) fate/grand_order fate/apocrypha fate/extra fate/extella fate/extella_link original guilty_gear re:zero_kara_hajimeru_isekai_seikatsu learning_with_manga!_fgo
 ?lily_(wuthering_waves) -> wuthering_waves
+?postarie -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_limited mahou_shoujo_ikusei_keikaku_restart mahou_shoujo_ikusei_keikaku_unmarked mahou_shoujo_ikusei_keikaku_jokers mahou_shoujo_ikusei_keikaku_aces mahou_shoujo_ikusei_keikaku_f2p
