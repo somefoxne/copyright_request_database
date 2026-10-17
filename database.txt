@@ -1794,3 +1794,4 @@
 ?hanayagi_kaoruko -> shoujo_kageki_revue_starlight shoujo_kageki_revue_starlight_-re_live- love_live! bang_dream! bang_dream!_girls_band_party! umamusume love_live!_nijigasaki_high_school_idol_club assault_lily bushiroad real_life
 ?tendo_maya -> shoujo_kageki_revue_starlight shoujo_kageki_revue_starlight_-re_live- bang_dream! love_live! bang_dream!_girls_band_party! umamusume real_life fire_emblem love_live!_nijigasaki_high_school_idol_club toji_no_miko
 ?chihaya_anon -> bang_dream! bang_dream!_girls_band_party! bocchi_the_rock! girls_band_cry sanrio my_melody_(series) arknights bang_dream!_our_notes egakumirai_(bang_dream!)
+?nagasaki_soyo -> bang_dream! bang_dream!_girls_band_party! girls_band_cry ganso!_bang_dream_chan arknights bocchi_the_rock! comiket_105 love_live! umamusume
