@@ -2805,3 +2805,4 @@
 ?toramaru_shou -> touhou undefined_fantastic_object touhou_(pc-98) touhou_tag_dream reitaisai embodiment_of_scarlet_devil ten_desires mountain_of_faith imperishable_night perfect_cherry_blossom
 ?katou_juri -> digimon digimon_tamers digimon_adventure digimon_frontier digimon_adventure_02 digimon_xros_wars digimon_savers digimon_xros_wars:_toki_wo_kakeru_shounen_hunter-tachi digimon_card_game digimon_universe:_appli_monsters
 ?mizuki_alice -> serial_experiments_lain apple_inc. serial_experiments_lain_(ps1_game)
+?yamamoto_reika -> serial_experiments_lain serial_experiments_lain_(ps1_game)
