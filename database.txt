@@ -2337,3 +2337,4 @@
 ?svinorezka -> original grazhdanskaya_oborona
 ?michishita_masaki -> kuso_miso_technique touhou vocaloid original kantai_collection final_fantasy gundam precure jojo_no_kimyou_na_bouken final_fantasy_vii
 ?monster_hunter_(character) -> monster_hunter_(series) monster_hunter:_world monster_hunter_portable_3rd monster_hunter_rise monster_hunter_wilds monster_hunter_frontier monster_hunter_3 original monster_hunter_4 monster_hunter_x
+?hakos_baelz -> hololive hololive_english hololive_indonesia hololive_dev_is holostars minecraft snake_eyes_(hakos_baelz) holostars_english pokemon umamusume
