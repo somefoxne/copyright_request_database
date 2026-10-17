@@ -1315,3 +1315,4 @@
 ?oshida_(girls_und_panzer) -> girls_und_panzer girls_und_panzer_saishuushou girls_und_panzer_senshadou_daisakusen! girls_und_panzer_motto_love_love_sakusen_desu! gekitotsu!_joshikousei_oiroke_sensha_gundan girls_und_panzer_ribbon_no_musha versailles_no_bara megami_magazine yu-gi-oh! pokemon
 ?raiden_shogun -> genshin_impact honkai_(series) mihoyo honkai:_star_rail honkai_impact_3rd original zenless_zone_zero fate_(series) pokemon fate/grand_order
 ?yae_miko -> genshin_impact mihoyo honkai_(series) honkai_impact_3rd honkai:_star_rail zenless_zone_zero original fate_(series) pokemon fate/grand_order
+?hyness -> kirby_(series) kirby_star_allies kirby:_planet_robobot kirby_64 kirby_and_the_forgotten_land kirby:_triple_deluxe kirby:_squeak_squad
