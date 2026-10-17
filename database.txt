@@ -2528,3 +2528,4 @@
 ?steel_haze_ortus -> armored_core armored_core_vi:_fires_of_rubicon blue_archive chiikawa fromsoftware dolls_nest
 ?nanakusa_hazuki -> idolmaster idolmaster_shiny_colors idolmaster_cinderella_girls pokemon idolmaster_(classic) idolmaster_million_live! idolmaster_million_live!_theater_days pokemon_sword_and_shield gakuen_idolmaster idolmaster_side-m
 ?nanakusa_nichika -> idolmaster idolmaster_shiny_colors idolmaster_shiny_colors_song_for_prism pokemon idolmaster_cinderella_girls gundam idolmaster_(classic) dars love_live! idolmaster_million_live!
+?grave_(nikke) -> goddess_of_victory:_nikke zozotown oshi_no_ko shoujo_kageki_revue_starlight a-1_pictures blue_archive fate_(series) fate/grand_order zenless_zone_zero final_fantasy
