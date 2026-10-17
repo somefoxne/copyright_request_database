@@ -1662,3 +1662,4 @@
 ?mint_fantome_(minto_2.0) -> indie_virtual_youtuber densetsu.exe vshojo 3am hololive metal_gear_(series) hololive_english vinesauce north_american_mythology metal_gear_solid
 ?snuffy_(vtuber) -> indie_virtual_youtuber 3am vinesauce densetsu.exe vshojo monster_hunter_(series) metal_gear_(series) metal_gear_solid north_american_mythology pokemon
 ?hinao_(kagurabachi) -> kagurabachi jujutsu_kaisen nue_no_onmyouji jinzou_ningen_100 gundam boku_no_hero_academia dragon_ball mobile_suit_gundam aizo_(king_gnu)
+?kyonagi_char -> kagurabachi gundam dragon_ball mobile_suit_gundam
