@@ -2998,3 +2998,4 @@
 ?nekota_tsuna_(loungewear) -> vspo!
 ?rat_king_(deadlock) -> deadlock_(game) jojo_no_kimyou_na_bouken yu-gi-oh! overwatch kamen_rider diamond_wa_kudakenai mickey_mouse_&_friends teenage_mutant_ninja_turtles ratatouille kamen_rider_my-th_(series)
 ?curren_chan_(casual)_(umamusume) -> umamusume instagram yu-gi-oh! starbucks comiket_103 umamusume:_road_to_the_top humanlike_(tatsuya_kitani) original touhou monster_hunter_(series)
+?finana_ryugu -> nijisanji nijisanji_en nijisanji_id nijisanji_kr honkai_(series) among_us hololive genshin_impact honkai:_star_rail hololive_english
