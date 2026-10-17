@@ -1100,3 +1100,4 @@
 ?laura_kelyrie -> iris_mysteria! original yoake_mae_yori_ruri_iro_na august_soft
 ?elizamon -> digimon digimon_liberator digimon_card_game digimon_beatbreak digimon_adventure digimon_ghost_game digimon_xros_wars digimon_adventure_02 digimon_tamers digimon_frontier
 ?tsuwabuki_kanon -> digimon digimon_beatbreak kanon
+?curren_chan_(umamusume) -> umamusume umamusume:_road_to_the_top original pacific_racing_team real_life pokemon umamusume:_beginning_of_a_new_era kantai_collection umamusume:_cinderella_gray instagram
