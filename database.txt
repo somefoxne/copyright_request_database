@@ -2226,3 +2226,4 @@
 ?raiden_mei_(apho) -> honkai_(series) honkai_impact_3rd honkai:_star_rail mihoyo genshin_impact zenless_zone_zero original wuthering_waves granblue_fantasy goddess_of_victory:_nikke
 ?bronya_zaychik -> honkai_(series) honkai_impact_3rd honkai_gakuen honkai:_star_rail mihoyo genshin_impact neon_genesis_evangelion original zenless_zone_zero
 ?bronya_zaychik_(silverwing:_n-ex) -> honkai_(series) honkai_impact_3rd honkai:_star_rail mihoyo genshin_impact honkai_gakuen original kantai_collection zenless_zone_zero honkai:_nexus_anima
+?chat_noir -> miraculous_ladybug genshin_impact vocaloid honkai_(series) honkai:_star_rail danganronpa_(series) marvel original love_live! one_piece
