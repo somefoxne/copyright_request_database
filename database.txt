@@ -4242,3 +4242,4 @@
 ?kaiboukan_no._4_(kancolle) -> kantai_collection wacky_races k-on! dungeon_meshi animal_crossing twitter animal_crossing:_new_horizons hate_shinaku_aoi_kono_sora_no_shita_de.... original fate_(series)
 ?ultand_serowain -> fire_emblem fire_emblem:_three_houses mario_(series) super_mario_64
 ?poison_ivy -> dc_comics batman_(series) harley_quinn_(cartoon) absolute_dc absolute_batman batman:_arkham_(series) marvel superman_(series) fortnite avatar_legends
+?hrist_valkyrie -> valkyrie_profile_(series) valkyrie_anatomia valkyrie_profile_2:_silmeria valkyrie_profile_1 project_tokyo_dolls final_fantasy gundam precure guilty_gear real_life
