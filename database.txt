@@ -3967,3 +3967,4 @@
 ?amakusa_shion -> uta_no_prince-sama
 ?sumeragi_kira -> uta_no_prince-sama uta_no_prince-sama_maji_love_2000% final_fantasy gundam jojo_no_kimyou_na_bouken suzumiya_haruhi_no_yuuutsu real_life shingeki_no_kyojin lucky_star umineko_no_naku_koro_ni
 ?hado_nejire -> boku_no_hero_academia marvel comiket_98 spider-man_(series) pokemon dc_comics vigilante_-boku_no_hero_academia:_illegals- chainsaw_man street_fighter naruto_(series)
+?adachi_rei -> utau a.i._voice vocaloid netsu_ijou_(utau) synthesizer_v voiceroid original cevio voicevox tougenkyou_e_ikou_(utau)
