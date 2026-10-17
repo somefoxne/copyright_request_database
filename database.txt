@@ -3166,3 +3166,4 @@
 ?anemone_(princess_connect!) -> princess_connect! cygames
 ?anemone_(summer)_(princess_connect!) -> princess_connect! cygames
 ?clear_(princess_connect!) -> princess_connect! cygames umamusume
+?clear_(summer)_(princess_connect!) -> princess_connect! cygames umamusume
