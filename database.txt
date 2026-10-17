@@ -3416,3 +3416,4 @@
 ?matara_okina -> touhou hidden_star_in_four_seasons touhou_lostword touhou_(pc-98) sunken_fossil_world taboo_japan_disentanglement manatsu_no_yo_no_inmu embodiment_of_scarlet_devil legacy_of_lunatic_kingdom mountain_of_faith
 ?arkose_(ff14) -> final_fantasy final_fantasy_xiv original
 ?ars_almal_(1st_costume) -> nijisanji minecraft hololive mario_(series) nijisanji_kr mario_kart nijisanji_en nijisanji_id pokemon genshin_impact
+?hanazono_shuka -> pretty_series pripara idol_time_pripara pretty_rhythm king_of_prism precure delicious_party_precure idol_land_pripara
