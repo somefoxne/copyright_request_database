@@ -3172,3 +3172,4 @@
 ?drake_(nikke) -> goddess_of_victory:_nikke umamusume azur_lane jojo_no_kimyou_na_bouken boku_no_hero_academia jurassic_park blue_archive precure re:zero_kara_hajimeru_isekai_seikatsu
 ?mast_(nikke) -> goddess_of_victory:_nikke dave_the_diver hololive cast_away phase_connect comiket_108 spongebob_squarepants_(series) original blue_archive nier_(series)
 ?mast_(romantic_maid)_(nikke) -> goddess_of_victory:_nikke hololive phase_connect spongebob_squarepants_(series) original comiket_108 glitch_stars vivaria_virtual
+?privaty_(unkind_maid)_(nikke) -> goddess_of_victory:_nikke blue_archive vocaloid comiket_104 re:zero_kara_hajimeru_isekai_seikatsu minecraft among_us spongebob_squarepants_(series) ashita_no_joe lemon_melon_cookie_(vocaloid)
