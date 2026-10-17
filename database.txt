@@ -1852,3 +1852,4 @@
 ?koneko_(nyanko_daisensou) -> nyanko_daisensou
 ?cai_castor_(timeskip) -> fire_emblem
 ?milou_(tintin) -> tintin neon_genesis_evangelion touhou pokemon mario_(series) dragon_ball mega_man_(series) mega_man_(classic) adventure_time the_simpsons
+?tintin_(character) -> tintin neon_genesis_evangelion touhou marvel dc_comics spider-man_(series) pokemon fate_(series) vocaloid final_fantasy
