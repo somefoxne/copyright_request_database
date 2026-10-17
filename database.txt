@@ -2257,3 +2257,4 @@
 ?hsien-ko -> darkstalkers street_fighter capcom mega_man_(series) street_fighter_zero_(series) resident_evil marvel_vs._capcom marvel_vs._capcom_3 final_fight warzard
 ?fujimaru_ritsuka_(male)_(summer_street) -> fate_(series) fate/grand_order fate/extra tsukihime jujutsu_kaisen fate/extra_ccc tsukihime_(remake) tokyo_ghoul coca-cola comiket_108
 ?mysterious_executor_c.i.e.l_(fate) -> fate_(series) fate/grand_order tsukihime tsukihime_(remake) melty_blood type-moon bishoujo_senshi_sailor_moon melty_blood:_type_lumina
+?ito_satsuki -> paradox_live genshin_impact
