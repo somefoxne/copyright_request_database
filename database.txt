@@ -4041,3 +4041,4 @@
 ?hello_kitty_(character) -> sanrio hello_kitty original my_melody_(series) vocaloid fuwa_fuwa_cinnamoroll pokemon arknights kero_kero_keroppi marvel
 ?shiraishi_kuranosuke -> tennis_no_ouji-sama sanrio hello_kitty tonari_no_totoro
 ?che_guevara -> real_life original sayonara_zetsubou_sensei touhou vocaloid final_fantasy persona guilty_gear code_geass tengen_toppa_gurren_lagann
+?fidel_castro -> real_life original mc_axis nihon-chan
