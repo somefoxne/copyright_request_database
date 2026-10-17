@@ -3158,3 +3158,4 @@
 ?akebono_(halloween)_(kancolle) -> kantai_collection
 ?akebono_(kancolle) -> kantai_collection fate_(series) fate/grand_order aoki_hagane_no_arpeggio original choo_choo_train bonobono pokemon girls_und_panzer gundam
 ?yuki_aine -> aikatsu!_(series) aikatsu_friends! aikatsu! aikatsu_on_parade! aikatsu_stars! blue_archive pretty_series animedia kiratto_pri_chan miffy
+?trigger_(zenless_zone_zero) -> zenless_zone_zero honkai_(series) honkai:_star_rail genshin_impact mihoyo blue_archive hololive persona kono_subarashii_sekai_ni_shukufuku_wo! persona_5
