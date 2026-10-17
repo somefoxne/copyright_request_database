@@ -1398,3 +1398,4 @@
 ?wendy_(modern_mogal) -> modern_mogal pokemon egyptian_mythology cast_away polybius
 ?sakuyamon -> digimon digimon_tamers digimon_card_game digimon_frontier digimon_adventure digimon_story:_cyber_sleuth touhou digimon_savers digimon_survive pokemon
 ?amamiya_kokoro -> nijisanji pokemon indie_virtual_youtuber nijisanji_kr nijisanji_koshien nijisanji_en nijisanji_id fate_(series) hololive fate/grand_order
+?amamiya_kokoro_(1st_costume) -> nijisanji nijisanji_kr nijisanji_en nijisanji_id vspo! pokemon hololive indie_virtual_youtuber kyoufuu_all_back_(vocaloid) idolmaster
