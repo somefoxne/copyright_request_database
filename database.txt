@@ -3121,3 +3121,4 @@
 ?kishinami_(kancolle) -> kantai_collection fate_(series) real_life comiket_100 fate/grand_order girls_und_panzer bocchi_the_rock! taimanin_(series) lawson original
 ?blackbird_(unfazed_denim)_(nte) -> neverness_to_everness
 ?male_esper_zero_(nte) -> neverness_to_everness tokyo_game_show
+?higashiyama_kobeni -> chainsaw_man the_amazing_digital_circus bocchi_the_rock! bemani dance_dance_revolution real_life breaking_bad original resident_evil
