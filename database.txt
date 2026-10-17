@@ -2795,3 +2795,4 @@
 ?termichan_(not-a-bot) -> original indie_virtual_youtuber monster_hunter_(series) team_fortress_2 monster_hunter_wilds discord arknights real_life phase_connect
 ?kasuga_ayumu -> azumanga_daioh yotsubato! touhou lucky_star suzumiya_haruhi_no_yuuutsu nichijou gundam vocaloid neon_genesis_evangelion real_life
 ?gigolo_(devil_survivor) -> devil_survivor_(series) devil_survivor_1 shin_megami_tensei durarara!! devil_summoner_(series) devil_summoner:_soul_hackers megami_tensei
+?eris_greyrat_(adult) -> mushoku_tensei re:zero_kara_hajimeru_isekai_seikatsu original elden_ring overlord_(maruyama) kage_no_jitsuryokusha_ni_naritakute! fate_(series) fate/grand_order fire_emblem kono_subarashii_sekai_ni_shukufuku_wo!
