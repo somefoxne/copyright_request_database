@@ -4005,3 +4005,4 @@
 ?aubrey_(neal_d._anderson) -> original coca-cola the_road_to_el_dorado mtv
 ?aoi_erika -> heaven_burns_red key_(company) little_busters! angel_beats! yostar clannad summer_pockets air_(visual_novel) umamusume bang_dream!
 ?albis_(tensura) -> tensei_shitara_slime_datta_ken pokemon one_piece fate_(series) arknights fate/stay_night naruto_(series) monogatari_(series) kimetsu_no_yaiba arknights:_endfield
+?hinomori_shizuku -> project_sekai vocaloid romeo_to_cinderella_(vocaloid) zozotown pokemon shoujo_rei_(vocaloid) love_live! kowareta_sekai_to_utaenai_miku idolmaster bang_dream!
