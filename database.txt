@@ -2558,3 +2558,4 @@
 ?jade_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail mihoyo fate_(series) genshin_impact fate/stay_night fate/unlimited_blade_works fire_emblem zenless_zone_zero honkai_impact_3rd
 ?ichijou_ayaka -> alice_gear_aegis gundam kantai_collection comiket_94 blue_archive idolmaster idolmaster_cinderella_girls gundam_suisei_no_majo gundam_wing frame_arms_girl
 ?yakumo_beni -> vspo! hololive apex_legends nijisanji neo-porte indie_virtual_youtuber valorant crazy_raccoon pacific_racing_team comiket_102
+?mela_(pokemon) -> pokemon pokemon_scarlet_and_violet pokemon_sun_and_moon pokemon_tcg pokemon_sword_and_shield pokemon_masters_ex pokemon_omega_ruby_and_alpha_sapphire original pokemon_(anime) pokemon_black_and_white
