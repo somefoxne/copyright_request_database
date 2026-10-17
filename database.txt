@@ -3264,3 +3264,4 @@
 ?seibu_rio -> shine_post umamusume cho_kaguya-hime! sanrio tower_records dengeki_bunko
 ?tamaki_kyouka -> shine_post shigoto_neko tower_records t.m.revolution dengeki_bunko
 ?helga_sinclair -> atlantis:_the_lost_empire kingdom_hearts pokemon chainsaw_man pokemon_sun_and_moon monogatari_(series) fullmetal_alchemist soul_eater kizumonogatari kakegurui
+?hanasaki_miyabi -> holostars holostars_english hololive hololive_indonesia hololive_english nijisanji indie_virtual_youtuber pokemon fate_(series) fate/grand_order
