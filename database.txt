@@ -3299,3 +3299,4 @@
 ?higashikata_josuke -> jojo_no_kimyou_na_bouken diamond_wa_kudakenai stone_ocean vento_aureo stardust_crusaders battle_tendency phantom_blood steel_ball_run jojolion pokemon
 ?warunyan -> youkai_watch youkai_watch_2 youkai_watch_3 jojo_no_kimyou_na_bouken diamond_wa_kudakenai youkai_sangokushi youkai_watch_busters
 ?tribios_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail honkai_impact_3rd genshin_impact mihoyo pokemon
+?blade_(honkai:_nexus_anima) -> honkai_(series) honkai:_nexus_anima
