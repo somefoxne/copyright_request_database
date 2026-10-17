@@ -3863,3 +3863,4 @@
 ?bowsette -> mario_(series) new_super_mario_bros._u_deluxe super_mario_odyssey super_smash_bros. super_mario_bros._1 super_mario_rpg super_mario_3d_world paper_mario_(series) mario_tennis
 ?suigintou -> rozen_maiden gundam suzumiya_haruhi_no_yuuutsu higurashi_no_naku_koro_ni touhou original fate_(series) lyrical_nanoha gundam_seed shakugan_no_shana
 ?he_cheng -> 19_tian original
+?qiu_(19_tian) -> 19_tian original
