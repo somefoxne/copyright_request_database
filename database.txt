@@ -1099,3 +1099,4 @@
 ?uraraka_ochaco -> boku_no_hero_academia boku_no_hero_academia:_more marvel original pokemon chainsaw_man kimetsu_no_yaiba one_piece jujutsu_kaisen dc_comics
 ?laura_kelyrie -> iris_mysteria! original yoake_mae_yori_ruri_iro_na august_soft
 ?elizamon -> digimon digimon_liberator digimon_card_game digimon_beatbreak digimon_adventure digimon_ghost_game digimon_xros_wars digimon_adventure_02 digimon_tamers digimon_frontier
+?tsuwabuki_kanon -> digimon digimon_beatbreak kanon
