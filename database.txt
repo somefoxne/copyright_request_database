@@ -3249,3 +3249,4 @@
 ?madeline_(cslucaris) -> original warhammer_40k helldivers_(series)
 ?estelle_(vtuber) -> indie_virtual_youtuber world_cup 2026_fifa_world_cup real_life vocaloid hololive hololive_english original neon_genesis_evangelion jujutsu_kaisen
 ?marche_lorraine's_puppet -> umamusume pakatube among_us okaasan_to_issho pokemon jojo_no_kimyou_na_bouken real_life stardust_crusaders ryuu_ga_gotoku_(series) original
+?akizuki_ryo -> idolmaster idolmaster_dearly_stars idolmaster_(classic) idolmaster_side-m idolmaster_cinderella_girls idolmaster_2 idolmaster_million_live! idolmaster_side-m_growing_stars idolmaster_1 idolmaster_va-liv
