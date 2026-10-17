@@ -2117,3 +2117,4 @@
 ?kou_reirin -> futsutsuka_na_akujo_de_wa_gozaimasu_ga gundam animal_crossing megami_magazine kusuriya_no_hitorigoto victory_gundam animage
 ?realisath_(reverseblue) -> reverseblue_x_re-birthend
 ?bakugou_katsuki -> boku_no_hero_academia chainsaw_man pokemon shounen_jump boku_no_hero_academia:_more kimetsu_no_yaiba mario_(series) one_piece jujutsu_kaisen original
+?kumano_kai_ni_(kancolle) -> kantai_collection geinoujin_kakuzuke_check line_(naver) original umamusume sesame_street blue_archive fate_(series) fate/grand_order azur_lane
