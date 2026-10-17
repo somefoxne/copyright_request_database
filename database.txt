@@ -3033,3 +3033,4 @@
 ?suzumi_(magical)_(blue_archive) -> blue_archive mahou_shoujo_madoka_magica ima_sugu_rinne_(vocaloid) powerpuff_girls blue_archive_the_animation original fate_(series) mahou_shoujo_madoka_magica_(anime) real_life bishoujo_senshi_sailor_moon
 ?lamia_(epakim) -> original escape_from_tarkov indie_virtual_youtuber call_of_duty heinz call_of_duty:_warzone helldivers_(series) battlefield_(series)
 ?barst_(fire_emblem) -> fire_emblem fire_emblem:_mystery_of_the_emblem fire_emblem_heroes fire_emblem:_the_sacred_stones fire_emblem_fates fire_emblem:_the_blazing_blade fire_emblem:_the_binding_blade fire_emblem:_radiant_dawn fire_emblem_echoes:_shadows_of_valentia fire_emblem_awakening
+?haar_(fire_emblem) -> fire_emblem fire_emblem:_radiant_dawn fire_emblem:_path_of_radiance fire_emblem_heroes fire_emblem:_the_sacred_stones fire_emblem:_the_blazing_blade fire_emblem:_mystery_of_the_emblem fire_emblem:_the_binding_blade fire_emblem_fates fire_emblem_awakening
