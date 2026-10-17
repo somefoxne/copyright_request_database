@@ -1258,3 +1258,4 @@
 ?tenma_tsukasa -> project_sekai vocaloid zozotown ensemble_stars! kowareta_sekai_to_utaenai_miku netsu_ijou_(utau) booo!_(vocaloid) mr._showtime_(vocaloid) yi_er_fan_club_(vocaloid) king_(vocaloid)
 ?tweedle_dee_(black_souls) -> black_souls black_souls_2
 ?tweedle_dum_(black_souls) -> black_souls black_souls_2 touhou
+?kotohira_nagi -> bang_dream! bang_dream!_our_notes umamusume princess_connect! alice_gear_aegis pokemon bang_dream!_girls_band_party! magnet_(vocaloid) sweets_paradise
