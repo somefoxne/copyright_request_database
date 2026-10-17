@@ -2135,3 +2135,4 @@
 ?okazaki_ushio -> clannad dango_daikazoku key_(company) air_(visual_novel) kanon little_busters! angel_beats! rewrite summer_pockets planetarian
 ?suzunami_(kancolle) -> kantai_collection alice_gear_aegis real_life wacky_races umamusume dragon_ball dragon_ball_z sekaiju_no_meikyuu comiket_100
 ?inoue_takina -> lycoris_recoil mahou_shoujo_madoka_magica goddess_of_victory:_nikke hibike!_euphonium magia_record:_mahou_shoujo_madoka_magica_gaiden hyouka hololive k-on! idolmaster bang_dream!
+?nishikigi_chisato -> lycoris_recoil mahou_shoujo_madoka_magica goddess_of_victory:_nikke magia_record:_mahou_shoujo_madoka_magica_gaiden gundam hololive hibike!_euphonium gridman_universe bocchi_the_rock! toaru_majutsu_no_index
