@@ -1226,3 +1226,4 @@
 ?kuremi_kyouko -> digimon digimon_story:_cyber_sleuth digimon_story:_time_stranger digimon_card_game digimon_world_-next_0rder- re:zero_kara_hajimeru_isekai_seikatsu bandai digimon_world_re:digitize yotsubato!
 ?mikagura_mirei -> digimon digimon_world_re:digitize digimon_story:_cyber_sleuth digimon_story:_time_stranger digimon_card_game digimon_world_-next_0rder- precure danganronpa_(series) jojo_no_kimyou_na_bouken
 ?shinomiya_rina -> digimon digimon_world_re:digitize digimon_story:_cyber_sleuth digimon_card_game digimon_world_re:digitize_decode digimon_adventure digimon_story:_sunburst_and_moonlight digimon_world_-next_0rder- digimon_adventure_02
+?shiramine_nokia -> digimon digimon_story:_cyber_sleuth digimon_card_game digimon_world_re:digitize yu-gi-oh! digimon_story:_time_stranger bandai one_piece digimon_adventure_02
