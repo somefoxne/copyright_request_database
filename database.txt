@@ -2326,3 +2326,4 @@
 ?acheron_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail honkai_impact_3rd mihoyo genshin_impact zenless_zone_zero original fate_(series) wuthering_waves arknights
 ?acheron_(slashed_dream)_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail mihoyo honkai_impact_3rd genshin_impact zenless_zone_zero wuthering_waves jujutsu_kaisen original fate_(series)
 ?boros_(ouro_kronii) -> hololive hololive_english hololive_indonesia naruto_(series) minecraft pokemon fate_(series) fate/grand_order nier_(series) nier:automata
+?kronie_(ouro_kronii) -> hololive hololive_english hololive_indonesia holocure holostars minecraft holostars_english mafia_(vocaloid) way_2_u_(ouro_kronii) youtube
