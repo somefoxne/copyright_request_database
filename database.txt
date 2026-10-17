@@ -3103,3 +3103,4 @@
 ?zen'in_maki -> jujutsu_kaisen chainsaw_man jujutsu_kaisen_modulo hololive umamusume bleach shingeki_no_kyojin bobobo-bo_bo-bobo hololive_english one_piece
 ?zen'in_maki_(post-shibuya) -> jujutsu_kaisen chainsaw_man hololive umamusume hololive_english jujutsu_kaisen_modulo naruto_(series) shingeki_no_kyojin vocaloid one_piece
 ?implacable_(azur_lane) -> azur_lane azur_lane:_slow_ahead original honkai_(series) honkai_impact_3rd atomic_heart senran_kagura comiket_108 blue_archive yostar
+?richard_p._leary_(halloween)_(kancolle) -> kantai_collection blue_archive azumanga_daioh hokkaido_nippon-ham_fighters
