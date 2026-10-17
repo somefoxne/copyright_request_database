@@ -1859,3 +1859,4 @@
 ?guilty_(mighty_bunny)_(nikke) -> goddess_of_victory:_nikke indie_virtual_youtuber fullmetal_alchemist waktaverse isegye_idol socks_agency
 ?guilty_(nikke) -> goddess_of_victory:_nikke fire_emblem fire_emblem:_three_houses fate_(series) fate/grand_order indie_virtual_youtuber fullmetal_alchemist twitter waktaverse isegye_idol
 ?ultraman_trigger -> ultra_series ultraman_trigger_(series) ultraman_decker_(series) ultraman_tiga_(series) ultraman_z_(series) ultraman_dyna_(series) ultraman_orb_(series) ultra_galaxy_(series) ultraman_gaia_(series) ultraman_geed_(series)
+?ultraman_trigger_(multi_type) -> ultra_series ultraman_trigger_(series) ultraman_decker_(series) ultraman_tiga_(series) ultraman_orb_(series) ultraman_gaia_(series) ultraman_z_(series) ultraman_geed_(series) ultraman_dyna_(series) ultraman_(1st_series)
