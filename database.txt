@@ -1245,3 +1245,4 @@
 ?millia_rage -> guilty_gear guilty_gear_xrd guilty_gear_strive guilty_gear_xx guilty_gear_x blazblue arc_system_works street_fighter evolution_championship_series touhou
 ?haiqing_(astral_party) -> astral_party mahou_shoujo_no_majo_saiban original indie_virtual_youtuber
 ?haiqing_(jiangshi)_(astral_party) -> astral_party mahou_shoujo_no_majo_saiban original indie_virtual_youtuber
+?inubashiri_momiji -> touhou mountain_of_faith reitaisai touhou_(pc-98) reitaisai_8_contest touhou_tag_dream original cookie_(touhou) reitaisai_7_contest imperishable_night
