@@ -3045,3 +3045,4 @@
 ?piper_wheel -> zenless_zone_zero blue_archive original genshin_impact guilty_gear real_life transformers mihoyo death_stranding pokemon
 ?tenma_maemi -> phase_connect hollow_knight metal_gear_(series) original indie_virtual_youtuber blue_archive tenga hololive marvel dragon_quest
 ?gabriel_(summon_night) -> summon_night summon_night:_swordcraft_story_2 summon_night:_swordcraft_story
+?alpha_(kagejitsu) -> kage_no_jitsuryokusha_ni_naritakute! kage_no_jitsuryokusha_ni_naritakute!_master_of_garden kono_subarashii_sekai_ni_shukufuku_wo! konosuba!_fantastic_days dolphin_wave tensei_shitara_slime_datta_ken megami_magazine kadokawa chainsaw_man re:zero_kara_hajimeru_isekai_seikatsu
