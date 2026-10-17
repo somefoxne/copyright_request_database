@@ -1433,3 +1433,4 @@
 ?daiichi_ruby_(brilliant_red_gemstone)_(umamusume) -> umamusume umamusume:_cinderella_gray cygames original fate_(series) indie_virtual_youtuber fate/stay_night tengen_toppa_gurren_lagann umamusume:_road_to_the_top umayuru
 ?daiichi_ruby_(casual)_(umamusume) -> umamusume pokemon
 ?daiichi_ruby_(umamusume) -> umamusume pokemon cygames comiket_106 touhou nijisanji bishoujo_senshi_sailor_moon umamusume:_cinderella_gray sengoku_basara original
+?daitaku_helios_(fun_fun_party_night)_(umamusume) -> umamusume akari_ga_yatte_kitazo_(vocaloid) umamusume:_road_to_the_top kamen_rider apex_legends umamusume:_cinderella_gray among_us original fate_(series) hololive
