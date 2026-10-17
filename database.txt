@@ -3762,3 +3762,4 @@
 ?dabi_(boku_no_hero_academia) -> boku_no_hero_academia pokemon jojo_no_kimyou_na_bouken sanrio original one_piece fate_(series) chainsaw_man league_of_legends jujutsu_kaisen
 ?camila_inpu -> indie_virtual_youtuber vedal_ai vrchat vshojo gamer_supps muppets socks_agency peak_(game) makeship mario_(series)
 ?sakura_miku -> vocaloid magical_mirai_(vocaloid) project_diva_(series) sanrio hirohako shinkai_shoujo_(vocaloid) senbonzakura_(vocaloid) world_is_mine_(vocaloid) piapro_studio original
+?admire_vega_(casual)_(umamusume) -> umamusume yogibo pokemon tousouchuu yu-gi-oh! real_life comiket_103 tsukiji_uogashi_sandaime kinchan_and_katori_shingo_no_zen_nihon_kasou_taishou touhou
