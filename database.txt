@@ -3646,3 +3646,4 @@
 ?clook_(hunter_x_hunter) -> hunter_x_hunter haou_airen
 ?gell_(hunter_x_hunter) -> hunter_x_hunter haou_airen
 ?piyon_(hunter_x_hunter) -> hunter_x_hunter kantai_collection haou_airen
+?gilgamesh_(fate) -> fate_(series) fate/grand_order fate/stay_night fate/zero fate/strange_fake fate/hollow_ataraxia fate/extra fate/extra_ccc fate/prototype fate/kaleid_liner_prisma_illya
