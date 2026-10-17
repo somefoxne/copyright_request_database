@@ -2851,3 +2851,4 @@
 ?diabellze_heiress_of_the_winter_raven's_forest -> yu-gi-oh!
 ?diabellze_the_original_sinkeeper -> yu-gi-oh! yu-gi-oh!_master_duel gundam gundam_gquuuuuux comiket_107 yu-gi-oh!_rush_duel original hololive hololive_english
 ?kusanagi_kyou -> the_king_of_fighters fatal_fury snk street_fighter ryuuko_no_ken the_king_of_fighters_xv samurai_spirits the_king_of_fighters_xiv garou:_mark_of_the_wolves the_king_of_fighters_all-stars
+?urd_(fate) -> fate_(series) fate/grand_order hololive hololive_indonesia indie_virtual_youtuber bishoujo_senshi_sailor_moon fate/hollow_ataraxia comiket_108 type-moon
