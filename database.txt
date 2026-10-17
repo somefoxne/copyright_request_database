@@ -2489,3 +2489,4 @@
 ?kazusa_(band)_(blue_archive) -> blue_archive the_beatles comiket_105 bocchi_the_rock! blue_archive_the_animation abbey_road arknights spongebob_squarepants_(series) k-on! comiket_108
 ?quirinus_quirrell -> wizarding_world harry_potter_(series)
 ?adina_savic -> black_survival eternal_return:_black_survival hololive hololive_english daejeon_autoarms original
+?aino_(genshin_impact) -> genshin_impact zenless_zone_zero honkai_(series) honkai:_star_rail mihoyo nichijou duolingo the_birth_of_venus pokemon wuthering_waves
