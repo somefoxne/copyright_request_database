@@ -2954,3 +2954,4 @@
 ?honda_yasuyuki -> devil_survivor_(series) devil_survivor_1 durarara!!
 ?metatron_(megami_tensei) -> shin_megami_tensei persona persona_3 shin_megami_tensei_ii persona_4 devil_summoner_(series) shin_megami_tensei_iii:_nocturne shin_megami_tensei_i touhou kamen_rider
 ?naoya_(devil_survivor) -> devil_survivor_(series) devil_survivor_1 megami_tensei persona shin_megami_tensei durarara!! umamusume persona_3 persona_4 persona_3_portable
+?protagonist_(devil_survivor) -> devil_survivor_(series) devil_survivor_1 devil_survivor_2 megami_tensei persona persona_3 shin_megami_tensei persona_4 devil_summoner_(series) shin_megami_tensei_iii:_nocturne
