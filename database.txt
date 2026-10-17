@@ -2048,3 +2048,4 @@
 ?lyra_(pokemon) -> pokemon pokemon_heartgold_and_soulsilver pokemon_firered_and_leafgreen pokemon_diamond/pearl/platinum pokemon_black_and_white pokemon_gold/silver/crystal pokemon_ruby/sapphire/emerald pokemon_black_2_and_white_2 pokemon_x_and_y pokemon_red/green/blue/yellow
 ?ranni_the_witch -> elden_ring bloodborne elden_ring:_shadow_of_the_erdtree fromsoftware hololive hololive_english elden_ring_nightreign dark_souls_(series) indie_virtual_youtuber utdr_(toby_fox)
 ?hat_kid -> a_hat_in_time original i_want_my_hat_back mario_(series) pokemon oneshot_(game) sonic_(series) kirby_(series) celeste_(game) here_comes_niko!
+?misty_(pokemon) -> pokemon pokemon_(anime) pokemon_(classic_anime) pokemon_heartgold_and_soulsilver pokemon_firered_and_leafgreen pokemon_red/green/blue/yellow pokemon:_the_electric_tale_of_pikachu pokemon_the_series:_ruby_and_sapphire pokemon_the_series:_diamond_and_pearl
