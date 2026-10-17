@@ -4212,3 +4212,4 @@
 ?neuras_(metaphor:_refantazio) -> metaphor:_refantazio
 ?super_aoko -> mahou_tsukai_no_yoru fate_(series) fate/grand_order tsukihime kara_no_kyoukai type-moon fate/stay_night tsukihime_(remake) melty_blood xenoblade_chronicles_(series)
 ?birgitta_(genshin_impact) -> genshin_impact chainsaw_man instagram
+?joji_(theater_company_prince) -> theater_company_prince
