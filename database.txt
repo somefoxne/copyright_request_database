@@ -2819,3 +2819,4 @@
 ?cynthia_(summer_2025)_(pokemon) -> pokemon pokemon_masters_ex pokemon_diamond/pearl/platinum pokemon_scarlet_and_violet pokemon_heartgold_and_soulsilver pokemon_(anime) pokemon_ruby/sapphire/emerald pokemon_sun_and_moon pokemon_black_and_white pokemon_legends:_z-a
 ?blue-eyes_chaos_max_dragon -> yu-gi-oh! yu-gi-oh!_the_dark_side_of_dimensions yu-gi-oh!_duel_monsters yu-gi-oh!_gx comiket_90
 ?kaiba_seto -> yu-gi-oh! yu-gi-oh!_duel_monsters yu-gi-oh!_the_dark_side_of_dimensions yu-gi-oh!_gx yu-gi-oh!_(toei) touhou niconico_rpg sanrio fuwa_fuwa_cinnamoroll
+?himuro_kuru_(kyutai_x) -> original
