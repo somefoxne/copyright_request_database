@@ -2749,3 +2749,4 @@
 ?ako_(dress)_(blue_archive) -> blue_archive spongebob_squarepants_(series) original hololive hololive_english shingeki_no_kyojin phase_connect comiket_104 shuumatsu_no_valkyrie discord
 ?daring_tact_(racing)_(umamusume) -> umamusume original bang_dream! princess_connect! real_life goldilocks_and_the_three_bears kantai_collection blue_archive pokemon
 ?hanamori_moa -> astrae_oratio idolmaster gakuen_idolmaster blue_archive wuthering_waves
+?dynam_heroine_(umamusume) -> umamusume umamusume:_cinderella_gray
