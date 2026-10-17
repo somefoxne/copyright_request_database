@@ -3688,3 +3688,4 @@
 ?akane_iwawwa -> original
 ?akemi_homura_(black_dress) -> mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica:_hangyaku_no_monogatari mahou_shoujo_madoka_magica_(anime) world_cup 2014_fifa_world_cup magia_record:_mahou_shoujo_madoka_magica_gaiden newtype original touhou pokemon
 ?yamazaki_sousuke -> free! high_speed! pokemon coca-cola kuroko_no_basuke kyoto_animation pash_(magazine) urusei_yatsura newtype hataraku_saibou
+?ula_usterka -> awaria the_hundred_line_-last_defense_academy- one_piece mario_(series) utdr_(toby_fox) undertale helltaker cookie_run minecraft youkai_watch
