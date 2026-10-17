@@ -2037,3 +2037,4 @@
 ?fou_(fate) -> fate_(series) fate/grand_order fate/extra fate/stay_night fate/apocrypha fate/extra_ccc fate/prototype fate/grand_order_arcade fate/zero fate/kaleid_liner_prisma_illya
 ?beatrice_(re:zero) -> re:zero_kara_hajimeru_isekai_seikatsu re:zero_kara_hajimeru_isekai_seikatsu:_lost_in_memories kono_subarashii_sekai_ni_shukufuku_wo! re:zero_kara_tsugihagu_isekai_seikatsu re:zero_kara_kasaneru_isekai_seikatsu overlord_(maruyama) pokemon youjo_senki isekai_quartet toaru_majutsu_no_index
 ?adora_(she-ra) -> she-ra_and_the_princesses_of_power masters_of_the_universe avatar_legends the_legend_of_korra adventure_time the_owl_house league_of_legends dc_comics rwby arcane:_league_of_legends
+?catra -> she-ra_and_the_princesses_of_power masters_of_the_universe avatar_legends adventure_time the_owl_house the_legend_of_korra dc_comics league_of_legends bishoujo_senshi_sailor_moon hellaverse
