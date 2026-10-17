@@ -3277,3 +3277,4 @@
 ?elizabeth_bathory_(perfect)_(first_ascension)_(fate) -> fate_(series) fate/grand_order tsukihime learning_with_manga!_fgo marvel fate/extra spider-man_(series) fate/strange_fake jurassic_world himuro_no_tenchi
 ?sirin -> honkai_(series) honkai_impact_3rd honkai_gakuen genshin_impact cardcaptor_sakura mihoyo fate_(series) honkai:_star_rail mahou_shoujo_madoka_magica neptune_(series)
 ?sirin_(miracle_magical_girl) -> honkai_(series) honkai_impact_3rd promare genshin_impact honkai:_star_rail mahou_shoujo_madoka_magica mihoyo comiket_108 tom_and_jerry
+?nagumo_(sakamoto_days) -> sakamoto_days chainsaw_man hunter_x_hunter hikaru_ga_shinda_natsu chiikawa howl_no_ugoku_shiro pokemon fate_(series) fate/zero alien_stage
