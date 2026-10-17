@@ -3267,3 +3267,4 @@
 ?hanasaki_miyabi -> holostars holostars_english hololive hololive_indonesia hololive_english nijisanji indie_virtual_youtuber pokemon fate_(series) fate/grand_order
 ?hanasaki_miyabi_(1st_costume) -> holostars holostars_english hololive nijisanji kirby_(series) hololive_indonesia star_animals hololive_english indie_virtual_youtuber danganronpa_(series)
 ?mikoshiba_kenta -> paradox_live pokemon danganronpa_(series) danganronpa_v3:_killing_harmony mahoutsukai_no_yakusoku
+?ping_hai_(azur_lane) -> azur_lane neptune_(series) kizuna_ai_inc. getting_over_it coco_ichibanya original hololive idolmaster vocaloid danganronpa_(series)
