@@ -2938,3 +2938,4 @@
 ?fuiba_fuyu -> gochuumon_wa_usagi_desu_ka? umamusume manga_time_kirara clockwork_rabbit comiket_104 comiket_102 comiket_100 lol_comics
 ?batman_(absolute_dc) -> dc_comics absolute_dc absolute_batman batman_(series) absolute_wonder_woman absolute_superman wonder_woman_(series) superman_(series) marvel original
 ?tokiai_misao -> indie_virtual_youtuber fate_(series) fate/grand_order
+?izuna_(swimsuit)_(blue_archive) -> blue_archive kantai_collection umamusume azur_lane world_cup comiket_103 comiket_102 2022_fifa_world_cup phase_connect comiket_105
