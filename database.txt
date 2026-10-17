@@ -4012,3 +4012,4 @@
 ?orange_piccolo -> dragon_ball dragon_ball_super dragon_ball_super_super_hero dragon_ball_z dragon_ball_super_broly dragon_ball_(classic) sonic_(series) dragon_ball_gt sonic_the_hedgehog_(classic) dragon_ball_xenoverse
 ?piccolo -> dragon_ball dragon_ball_z dragon_ball_super dragon_ball_super_super_hero dragon_ball_(classic) touhou dragon_ball_daima dragon_ball_gt dragon_ball_super_broly dragon_quest
 ?santa_claus_(chainsaw_man) -> chainsaw_man neon_genesis_evangelion marvel rebuild_of_evangelion spider-man_(series) sono_bisque_doll_wa_koi_wo_suru black_lagoon evangelion:_3.0+1.0_thrice_upon_a_time instagram
+?stella_maiougi -> rose_guns_days higurashi_no_naku_koro_ni umineko_no_naku_koro_ni
