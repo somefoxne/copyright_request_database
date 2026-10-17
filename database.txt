@@ -3114,3 +3114,4 @@
 ?murasame_(kancolle) -> kantai_collection little_red_riding_hood_(fairy_tale) gundam choo_choo_train fate_(series) fate/grand_order k-on! aoki_hagane_no_arpeggio original umamusume
 ?green_knight_(castle_crashers) -> castle_crashers super_meat_boy pokemon final_fantasy final_fantasy_vii the_legend_of_zelda street_fighter mario_(series) marvel mega_man_(series)
 ?the_evil_wizard_(castle_crashers) -> castle_crashers
+?takitsubo_rikou -> toaru_majutsu_no_index toaru_kagaku_no_railgun toaru_majutsu_no_index:_old_testament toaru_majutsu_no_index:_new_testament toaru_kagaku_no_railgun_s toaru_anbu_no_item toaru_majutsu_no_index:_imaginary_fest k-on! toaru_majutsu_no_index:_endymion_no_kiseki fate_(series)
