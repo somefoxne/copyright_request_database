@@ -1815,3 +1815,4 @@
 ?silverwing_eagle -> reverse:1999
 ?ishikawa_anna_(gwan-e) -> original
 ?tsukasa_erin_(gwan-e) -> original
+?oozora_subaru_(suspenders) -> hololive indie_virtual_youtuber hololive_english minecraft sausage_legend hololive_indonesia hololive_dev_is nijisanji pokemon jojo_no_kimyou_na_bouken
