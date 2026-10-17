@@ -3607,3 +3607,4 @@
 ?beyond_birthday -> death_note death_note:_another_note original touhou the_coffin_of_andy_and_leyley call_of_cthulhu yukkuri_youmu_to_hontou_wa_kowai_cthulhu_shinwa
 ?sakurai_momoka -> idolmaster idolmaster_cinderella_girls idolmaster_cinderella_girls_starlight_stage idolmaster_cinderella_girls_u149 cinderella_girls_gekijou idolmaster_million_live! comiket_92 comiket_90 umamusume gundam
 ?manjuu_(azur_lane) -> azur_lane dead_or_alive atelier_(series) azur_lane:_slow_ahead atelier_ryza dead_or_alive_xtreme atelier_yumia dead_or_alive_5 gridman_universe ssss.gridman
+?noshiro_(azur_lane) -> azur_lane goddess_of_victory:_nikke senran_kagura original azur_lane:_slow_ahead zozotown kantai_collection atelier_(series) dead_or_alive atelier_ryza
