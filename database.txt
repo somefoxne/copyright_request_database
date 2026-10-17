@@ -1172,3 +1172,4 @@
 ?michigami_nareko -> touhou fossilized_wonders touhou_(pc-98) touhou_lostword yu-gi-oh! mario_(series) among_us sousou_no_frieren utdr_(toby_fox) dragon_quest
 ?ushizaki_urumi -> touhou wily_beast_and_weakest_creature touhou_(pc-98) touhou_lostword foul_detective_satori touhou_bougetsushou silent_sinner_in_blue perfect_cherry_blossom legacy_of_lunatic_kingdom hidden_star_in_four_seasons
 ?ushizaki_urumi_(ushi_oni) -> touhou
+?aoyagi_touya -> project_sekai vocaloid sanrio zozotown booo!_(vocaloid) beat_eater_(vocaloid) ensemble_stars! shanti_(vocaloid) akuma_no_odorikata_(vocaloid) traffic_jam_(vocaloid)
