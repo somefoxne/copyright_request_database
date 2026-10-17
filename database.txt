@@ -2014,3 +2014,4 @@
 ?francisca_(kirby) -> kirby_(series) kirby_star_allies kirby:_planet_robobot kirby_64 kirby_and_the_forgotten_land kirby:_triple_deluxe kirby:_squeak_squad
 ?void_soul -> kirby_(series) kirby_star_allies kirby:_planet_robobot kirby:_triple_deluxe kirby_and_the_forgotten_land kirby:_canvas_curse kirby_64 kirby_&_the_amazing_mirror
 ?void_termina -> kirby_(series) kirby_star_allies kirby:_planet_robobot kirby:_triple_deluxe kirby_64 kirby_and_the_forgotten_land kirby:_squeak_squad
+?arahashi_tabi -> stellive pokemon vocaloid boku_no_hero_academia sanrio indie_virtual_youtuber goddess_of_victory:_nikke vspo! minecraft
