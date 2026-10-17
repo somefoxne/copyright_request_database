@@ -3875,3 +3875,4 @@
 ?nyarlathotep_(nyaruko-san) -> haiyore!_nyaruko-san kamen_rider cthulhu_mythos nyantype mahou_shoujo_madoka_magica touhou mahou_shoujo_madoka_magica_(anime) lucky_star megami_magazine working!!
 ?ivan_(decora)_(alien_stage) -> alien_stage sono_bisque_doll_wa_koi_wo_suru ipstar kawaii_kaiwai wonder_girls mi_vida_loca_(alien_stage)
 ?till_(decora)_(alien_stage) -> alien_stage ipstar kawaii_kaiwai sono_bisque_doll_wa_koi_wo_suru zombie_stage tamagotchi tamagotchi_(classic) wonder_girls mi_vida_loca_(alien_stage)
+?kino_makoto -> bishoujo_senshi_sailor_moon bishoujo_senshi_sailor_moon_(first_season) bishoujo_senshi_sailor_moon_s bishoujo_senshi_sailor_moon_r bishoujo_senshi_sailor_moon_stars bishoujo_senshi_sailor_moon_supers bishoujo_senshi_sailor_moon_crystal precure taimanin_(series) pokemon
