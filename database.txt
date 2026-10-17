@@ -2466,3 +2466,4 @@
 ?kenjaku -> jujutsu_kaisen blue_archive chainsaw_man one_piece marvel bleach jojo_no_kimyou_na_bouken boku_no_hero_academia the_legend_of_zelda neon_genesis_evangelion
 ?hitachiin_hikaru -> ouran_high_school_host_club comiket_70 pokemon wizarding_world harry_potter_(series) naruto_(series) fullmetal_alchemist idolmaster vocaloid yu-gi-oh!
 ?hitachiin_kaoru -> ouran_high_school_host_club comiket_70 wizarding_world harry_potter_(series) pokemon idolmaster yu-gi-oh! naruto_(series) fullmetal_alchemist death_note
+?viper_(nikke) -> goddess_of_victory:_nikke comiket_105 blue_archive comiket_108 original fate_(series) fate/grand_order comiket_107 zozotown razer
