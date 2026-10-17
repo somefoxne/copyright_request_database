@@ -3681,3 +3681,4 @@
 ?carmilla_(castlevania) -> castlevania_(series) castlevania_(netflix) castlevania:_circle_of_the_moon castlevania:_symphony_of_the_night castlevania_judgment overwatch spy_x_family helltaker ace_attorney
 ?colette_(haishiki) -> original inemuri_hitsuji
 ?kaji_ryouji -> neon_genesis_evangelion rebuild_of_evangelion evangelion:_2.0_you_can_(not)_advance kantai_collection evangelion:_3.0+1.0_thrice_upon_a_time evangelion:_3.0_you_can_(not)_redo the_end_of_evangelion touhou gundam
+?hong_hua_(fire_emblem) -> fire_emblem fire_emblem:_three_houses fire_emblem_awakening shingeki_no_kyojin
