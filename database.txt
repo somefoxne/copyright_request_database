@@ -999,3 +999,4 @@
 ?oguri_cap_(starlight_beat)_(umamusume) -> umamusume umamusume:_cinderella_gray kantai_collection real_life umamusume:_road_to_the_top pokemon fate_(series) jujutsu_kaisen kirby_(series) dragon_ball
 ?oguri_cap_(umamusume) -> umamusume umamusume:_cinderella_gray pokemon umamusume:_road_to_the_top kantai_collection cygames kfc real_life godzilla_(series) gundam
 ?king_halo_(king_of_emeralds)_(umamusume) -> umamusume original umamusume:_cinderella_gray pokemon yu-gi-oh! real_life umamusume:_party_dash akari_ga_yatte_kitazo_(vocaloid) precure
+?king_halo_(umamusume) -> umamusume original real_life pakatube gang_beasts pokemon umayuru umamusume:_cinderella_gray yu-gi-oh! gundam
