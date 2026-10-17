@@ -3821,3 +3821,4 @@
 ?endeavor_(boku_no_hero_academia) -> boku_no_hero_academia vigilante_-boku_no_hero_academia:_illegals- kimetsu_no_yaiba pokemon one_piece tiktok bleach sanrio tenga dragon_ball
 ?freddie_(alien_stage) -> alien_stage unknown_till_the_end project_sekai the_amazing_digital_circus honkai_(series) honkai_impact_3rd marvel reverse:1999 spider-man_(series) spider-verse
 ?king_(deltarune) -> utdr_(toby_fox) deltarune undertale pokemon vocaloid jojo_no_kimyou_na_bouken chainsaw_man pokemon_sword_and_shield jujutsu_kaisen vento_aureo
+?kuzuryuu_amane -> devil_survivor_(series) devil_survivor_1 megami_tensei persona persona_3 shin_megami_tensei persona_3_portable yozakura_quartet atlus final_fantasy
