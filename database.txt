@@ -3009,3 +3009,4 @@
 ?nice_nature_(run_&_win)_(umamusume) -> umamusume kantai_collection umamusume:_cinderella_gray original blue_archive fate_(series) hololive honkai_(series) honkai:_star_rail indie_virtual_youtuber
 ?hatsune_miku_(vocaloid4) -> vocaloid piapro_studio tokumei_m_(vocaloid) hatsune_miku_happy_16th_birthday_-dear_creators- ai_kotoba_iv_(vocaloid) magical_mirai_(vocaloid) utau chimera_(vocaloid) synthesizer_v vampire_(vocaloid)
 ?johnston_(halloween)_(kancolle) -> kantai_collection machikado_mazoku
+?johnston_(kancolle) -> kantai_collection lawson coca-cola marvel i_want_you the_lone_ranger comiket_100 original the_legend_of_zelda neon_genesis_evangelion
