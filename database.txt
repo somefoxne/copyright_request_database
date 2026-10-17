@@ -3767,3 +3767,4 @@
 ?hoshigasaki_runa_(haishiki) -> original
 ?jigglypuff -> pokemon super_smash_bros. vocaloid project_voltage kirby_(series) mario_(series) the_legend_of_zelda fire_emblem metroid mother_(series)
 ?kuradoberi_jam -> guilty_gear guilty_gear_xrd guilty_gear_strive guilty_gear_xx guilty_gear_x blazblue street_fighter darkstalkers pokemon the_king_of_fighters
+?mishy -> eiyuu_densetsu zero_no_kiseki sen_no_kiseki_(series) kuro_no_kiseki_(series) ao_no_kiseki sen_no_kiseki_i hajimari_no_kiseki sen_no_kiseki_iii kuro_no_kiseki_i kuro_no_kiseki_ii
