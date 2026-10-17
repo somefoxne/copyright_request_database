@@ -3442,3 +3442,4 @@
 ?yuri_(gnosia) -> gnosia newtype comiket_107
 ?bijou_(hamtaro) -> hamtaro_(series) pokemon vocaloid fire_emblem the_legend_of_zelda pokemon_sword_and_shield fire_emblem:_three_houses naruto_(series) utdr_(toby_fox) kimetsu_no_yaiba
 ?weiss_winterprison -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_unmarked mahou_shoujo_ikusei_keikaku_restart mahou_shoujo_ikusei_keikaku_limited mahou_shoujo_ikusei_keikaku_jokers mahou_shoujo_ikusei_keikaku_f2p
+?wriggle_nightbug -> touhou imperishable_night touhou_(pc-98) embodiment_of_scarlet_devil night_sparrow_love pokemon touhou_tag_dream perfect_cherry_blossom saturday_night_fever touhou_cannonball
