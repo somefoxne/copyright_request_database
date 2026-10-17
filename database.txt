@@ -4193,3 +4193,4 @@
 ?protagonist_(metaphor:_refantazio) -> metaphor:_refantazio persona persona_3 atlus persona_5 shin_megami_tensei persona_4 persona_3_reload shin_megami_tensei_v sonic_(series)
 ?strohl_(metaphor:_refantazio) -> metaphor:_refantazio persona persona_3 persona_4 atlus splatoon_(series) persona_5 pokemon hololive fire_emblem
 ?aleida_guevara -> real_life
+?aria_(human)_(cuteness_loading)_(zenless_zone_zero) -> zenless_zone_zero honkai_(series) honkai:_star_rail jojo_no_kimyou_na_bouken stardust_crusaders mihoyo
