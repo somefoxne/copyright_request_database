@@ -1305,3 +1305,4 @@
 ?type-lahire -> armored_core armored_core:_for_answer touhou gundam jujutsu_kaisen gundam_gquuuuuux fromsoftware suibotsu_ouji_ga_gensou_iri
 ?doloris_(bang_dream!) -> bang_dream! yumenokessho sweets_paradise arknights killkiss_(bang_dream!) bang_dream!_our_notes sophie_(bang_dream!) real_life bang_dream!_girls_band_party!
 ?oblivionis_(bang_dream!) -> bang_dream! arknights killkiss_(bang_dream!) bang_dream!_our_notes yumenokessho real_life bang_dream!_girls_band_party! sophie_(bang_dream!) girls_band_cry
+?natsume_an-an -> mahou_shoujo_no_majo_saiban minna_de_zutto_shiawase_ni_kazoku_de_issho_ni_tanoshii_party_wo karaoke_manekineko book_off treasure_cafe kamitsubaki_studio comiket_108 original bang_dream! mahou_shoujo_no_inshuu_mura
