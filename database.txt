@@ -2248,3 +2248,4 @@
 ?orihime_(girls_revolution_project) -> kamitsubaki_studio girls_revolution_project sinsekai_record original mimukauwa_nice_try_(vocaloid) valis_(sinsekai)
 ?chichino_kaori -> motto!_haramase!_(series) motto!_haramase!_honoo_no_oppai_isekai_oppai_bunny_gakuen!
 ?morgan_le_fay_(fate) -> fate_(series) fate/grand_order fate/apocrypha fate/stay_night original blue_archive comiket_100 genshin_impact goddess_of_victory:_nikke honkai_(series)
+?baek_chungsung -> paradox_live genshin_impact nijisanji twisted_wonderland gintama
