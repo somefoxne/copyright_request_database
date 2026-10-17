@@ -3480,3 +3480,4 @@
 ?fubuki_(kancolle) -> kantai_collection kantai_collection_(anime) girls_und_panzer azur_lane original gundam aoki_hagane_no_arpeggio real_life marvel pokemon
 ?fubuki_(spring)_(kancolle) -> kantai_collection starbucks disneyland yuru-chara fate_(series) hololive fate/grand_order back_to_the_future calpis
 ?neuro-sama -> vedal_ai indie_virtual_youtuber osu! vrchat microsoft_windows minecraft never_(neuro-sama) live2d_inc. muppets windows_classic
+?neuro-sama_(1st_costume) -> vedal_ai indie_virtual_youtuber osu! vrchat minecraft microsoft_windows muppets windows_classic windows_95 live2d_inc.
