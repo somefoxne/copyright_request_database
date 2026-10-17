@@ -2688,3 +2688,4 @@
 ?abigail_(tropical_dimension)_(black_survival) -> black_survival eternal_return:_black_survival original stellive
 ?kurumi_noah -> vspo! nijisanji nijisanji_kr hololive apex_legends crazy_raccoon street_fighter indie_virtual_youtuber nanashi_inc. veemusic
 ?morishima_haruka -> amagami megami_magazine kantai_collection pokemon real_life kamen_rider ore_no_imouto_ga_konna_ni_kawaii_wake_ga_nai nyantype kimi_kiss kamen_rider_555
+?nanasaki_ai -> amagami kamen_rider persona suzumiya_haruhi_no_yuuutsu megami_magazine neon_genesis_evangelion monogatari_(series) persona_4 code_geass ore_no_imouto_ga_konna_ni_kawaii_wake_ga_nai
