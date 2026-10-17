@@ -3927,3 +3927,4 @@
 ?justine_(persona_5) -> persona persona_5 persona_4 persona_3 persona_5_the_royal persona_3_portable persona_4_the_golden persona_dancing persona_1 blue_archive
 ?ogata_chieri -> idolmaster idolmaster_cinderella_girls idolmaster_cinderella_girls_starlight_stage cinderella_girls_gekijou star!!_(idolmaster) idolmaster_(classic) umamusume idolmaster_million_live! love_destiny_(idolmaster) idolmaster_shiny_colors
 ?samura_seiichi -> kagurabachi project_moon limbus_company jujutsu_kaisen undead_unluck aizo_(king_gnu)
+?leon_cromwell -> tensei_shitara_slime_datta_ken fate_(series) fate/grand_order idolmaster honkai_(series) fire_emblem one_piece honkai_impact_3rd granblue_fantasy dragon_quest
