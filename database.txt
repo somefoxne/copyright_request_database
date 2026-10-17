@@ -3984,3 +3984,4 @@
 ?kaai_yuki -> vocaloid kyoufuu_all_back_(vocaloid) utau zako_(vocaloid) voiceroid shogi_ichiban!_(vocaloid) a.i._voice cevio kamitsubaki_studio synthesizer_v
 ?w.d._gaster -> utdr_(toby_fox) undertale deltarune xtale yume_nikki jujutsu_kaisen downtown_no_gaki_no_tsukai_ya_arahende!! omori epictale project_moon
 ?arcanine -> pokemon pokemon_firered_and_leafgreen pokemon_red/green/blue/yellow pokemon_heartgold_and_soulsilver pokemon_diamond/pearl/platinum pokemon_sword_and_shield pokemon_(anime) pokemon_gold/silver/crystal pokemon_sun_and_moon pokemon_(classic_anime)
+?sigilyph -> pokemon pokemon_black_and_white pokemon_sword_and_shield pokemon_(anime) pokemon_black_2_and_white_2 pokemon_the_series:_black_&_white pokemon_diamond/pearl/platinum pokemon_tcg pokemon_the_movie:_black/white_-_victini_and_reshiram/zekrom original
