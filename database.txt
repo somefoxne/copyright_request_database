@@ -2815,3 +2815,4 @@
 ?phalaenopsis_(racing)_(umamusume) -> umamusume instagram japan_racing_association twitter youtube ninja_slayer facebook whatsapp
 ?shijou_takane -> idolmaster idolmaster_(classic) idolmaster_million_live! idolmaster_million_live!_theater_days idolmaster_sp idolmaster_2 idolmaster_cinderella_girls idolmaster_1 idolmaster_dearly_stars idolmaster_one_for_all
 ?fusou_(kancolle) -> kantai_collection kantai_collection_(anime) aoki_hagane_no_arpeggio original gundam pokemon jojo_no_kimyou_na_bouken lawson azur_lane twitter
+?izuna_misaki -> devil_survivor_(series) devil_survivor_1 fire_emblem fire_emblem_fates shin_megami_tensei durarara!!
