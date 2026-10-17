@@ -3698,3 +3698,4 @@
 ?kaji_akihiko -> given one_piece boku_no_hero_academia shingeki_no_kyojin instagram animate_(company) parco_(retailer) dear+ cheri+
 ?nakayama_haruki -> given animate_(company) parco_(retailer) dear+ cheri+
 ?kusunoki_muu -> milgram alien_stage north_american_mythology vocaloid umineko_no_naku_koro_ni sanrio
+?yoarashi_inasa -> boku_no_hero_academia street_fighter street_fighter_zero_(series)
