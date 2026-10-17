@@ -3870,3 +3870,4 @@
 ?sugawara_chie -> heaven_burns_red key_(company) yostar gundam persona persona_5 kanon turn_a_gundam fate_(series) fate/grand_order
 ?iroha_(swimsuit)_(blue_archive) -> blue_archive grand_theft_auto grand_theft_auto:_vice_city cast_away arknights jojo_no_kimyou_na_bouken jujutsu_kaisen vento_aureo hunter_x_hunter manatsu_no_yo_no_inmu
 ?biddy_blas -> star_wars star_wars:_galactic_racer
+?hoshi_(kiana_mai) -> bishoujo_senshi_sailor_moon cardcaptor_sakura mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) tongari_boushi_no_atelier tokyo_mew_mew the_simpsons tokyo_mew_mew_new
