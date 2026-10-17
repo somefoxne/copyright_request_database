@@ -2095,3 +2095,4 @@
 ?flonne -> disgaea makai_senki_disgaea makai_senki_disgaea_2 disgaea_d2 nippon_ichi disgaea_rpg makai_senki_disgaea_4 makai_senki_disgaea_3 gundam precure
 ?flonne_(archangel) -> disgaea makai_senki_disgaea makai_senki_disgaea_4 nippon_ichi disgaea_rpg makai_senki_disgaea_2 makai_senki_disgaea_3 makai_senki_disgaea_5 makai_senki_disgaea_7 makai_wars
 ?artoria_pendragon_(lancer)_(fate) -> fate_(series) fate/grand_order fate/stay_night fate/apocrypha fate/extra fate/zero fate/hollow_ataraxia warhammer_40k comiket_97 azur_lane
+?guillotine_(nikke) -> goddess_of_victory:_nikke irasutoya gundam gundam_narrative chainsaw_man berserk lawson south_park chromashift bucchigiri?!
