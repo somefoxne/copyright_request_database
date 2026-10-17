@@ -2580,3 +2580,4 @@
 ?cyrene_(demiurge)_(cyrup)_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail honkai_impact_3rd
 ?morisawa_chiaki -> ensemble_stars! project_sekai sanrio hello_kitty vocaloid pokemon fate_(series) fate/grand_order idolmaster idolmaster_side-m
 ?otogari_adonis -> ensemble_stars! pokemon fate_(series) fate/grand_order umamusume granblue_fantasy persona pokemon_scarlet_and_violet dragon_ball kimetsu_no_yaiba
+?yuuki_makoto_(ensemble_stars!) -> ensemble_stars! ensemble_girls! idolmaster sanrio fuwa_fuwa_cinnamoroll kantai_collection pokemon genshin_impact idolmaster_cinderella_girls persona
