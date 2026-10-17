@@ -1637,3 +1637,4 @@
 ?amada_ken -> persona persona_3 persona_3_portable persona_4 persona_3_reload persona_4:_the_ultimate_in_mayonaka_arena persona_4:_the_ultimax_ultra_suplex_hold persona_5 persona_q_(series) persona_2
 ?shiomi_kotone -> persona persona_3 persona_3_portable persona_4 persona_5 persona_2 persona_1 persona_2_tsumi persona_2_batsu persona_3_reload
 ?yamagishi_fuuka -> persona persona_3 persona_3_portable persona_3_reload persona_4 persona_4:_the_ultimate_in_mayonaka_arena persona_5 persona_q_(series) persona_2 persona_1
+?ethan_(pokemon) -> pokemon pokemon_heartgold_and_soulsilver pokemon_gold/silver/crystal pokemon_adventures pokemon_diamond/pearl/platinum pokemon_firered_and_leafgreen pokemon_black_and_white pokemon_red/green/blue/yellow pokemon_ruby/sapphire/emerald pokemon_x_and_y
