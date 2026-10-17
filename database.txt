@@ -3798,3 +3798,4 @@
 ?angela_(project_moon) -> project_moon library_of_ruina lobotomy_corporation limbus_company blue_archive hamhampangpang mili_(band) the_distortion_detective pokemon fate_(series)
 ?yamashiro_takane -> touhou unconnected_marketeers touhou_(pc-98) touhou_lostword 100th_black_market mountain_of_faith pokemon arknights perfect_cherry_blossom legacy_of_lunatic_kingdom
 ?shindo_yo -> boku_no_hero_academia
+?alphys -> utdr_(toby_fox) undertale deltarune pokemon mario_(series) animal_crossing sonic_(series) adventure_time among_us mahou_shoujo_madoka_magica
