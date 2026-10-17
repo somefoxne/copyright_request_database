@@ -1931,3 +1931,4 @@
 ?hyuna_(alien_stage) -> alien_stage zombie_stage ipstar danganronpa_(series) chiikawa wiege_(alien_stage) sanrio grand_theft_auto grand_theft_auto_vi ruler_of_my_heart_(alien_stage)
 ?hyuna_(zombie_stage) -> alien_stage zombie_stage danganronpa_(series) instagram futatsu_no_mokuba_(vocaloid) paparazzi_(lady_gaga)
 ?luka_(alien_stage) -> alien_stage zombie_stage ipstar blink_gone_(alien_stage) ruler_of_my_heart_(alien_stage) sanrio wiege_(alien_stage) houseki_no_kuni the_amazing_digital_circus danganronpa_(series)
+?luka_(zombie_stage) -> alien_stage zombie_stage suki_suki_daisuki_(song) paparazzi_(lady_gaga)
