@@ -1668,3 +1668,4 @@
 ?shiori_novella -> hololive hololive_english hololive_indonesia enigmatic_recollection hololive_dev_is holostars holostars_english hololive_dreams umamusume nier_(series)
 ?iruma_jyuto -> hypnosis_mic hypnosis_mic:_rule_the_stage hypnosis_mic:_alternative_rap_battle original fate_(series) hololive fate/grand_order final_fantasy kemono_friends project_sekai
 ?focalors_(genshin_impact) -> genshin_impact honkai_(series) honkai:_star_rail mihoyo wuthering_waves kono_subarashii_sekai_ni_shukufuku_wo! synthesizer_v liar_dancer_(synthesizer_v) +-0_(vocaloid) arknights
+?henya_the_genius -> vshojo indie_virtual_youtuber hololive hololive_english nijisanji voms original nijisanji_en densetsu.exe pokemon
