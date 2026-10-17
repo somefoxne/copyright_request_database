@@ -1663,3 +1663,4 @@
 ?snuffy_(vtuber) -> indie_virtual_youtuber 3am vinesauce densetsu.exe vshojo monster_hunter_(series) metal_gear_(series) metal_gear_solid north_american_mythology pokemon
 ?hinao_(kagurabachi) -> kagurabachi jujutsu_kaisen nue_no_onmyouji jinzou_ningen_100 gundam boku_no_hero_academia dragon_ball mobile_suit_gundam aizo_(king_gnu)
 ?kyonagi_char -> kagurabachi gundam dragon_ball mobile_suit_gundam
+?mysterious_heroine_x_alter_(fate) -> fate_(series) fate/grand_order fate/stay_night star_wars pixiv_fate/grand_order_contest_1 koha-ace fate/extra comiket_107 comiket_108 pixiv_fate/grand_order_contest_2
