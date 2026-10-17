@@ -1434,3 +1434,4 @@
 ?daiichi_ruby_(casual)_(umamusume) -> umamusume pokemon
 ?daiichi_ruby_(umamusume) -> umamusume pokemon cygames comiket_106 touhou nijisanji bishoujo_senshi_sailor_moon umamusume:_cinderella_gray sengoku_basara original
 ?daitaku_helios_(fun_fun_party_night)_(umamusume) -> umamusume akari_ga_yatte_kitazo_(vocaloid) umamusume:_road_to_the_top kamen_rider apex_legends umamusume:_cinderella_gray among_us original fate_(series) hololive
+?daitaku_helios_(umamusume) -> umamusume pokemon umamusume:_cinderella_gray umayuru real_life idolmaster instagram pakatube super_gt cygames
