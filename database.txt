@@ -2933,3 +2933,4 @@
 ?duskull -> pokemon pokemon_ruby/sapphire/emerald pokemon_x_and_y pokemon_diamond/pearl/platinum pokemon_sun_and_moon pokemon_omega_ruby_and_alpha_sapphire pokemon_heartgold_and_soulsilver pokemon_sword_and_shield pokemon_(anime) vocaloid
 ?beth_smith -> rick_and_morty family_guy space_ghost_(series) adult_swim one_piece jojo_no_kimyou_na_bouken street_fighter dragon_ball real_life
 ?morty_smith -> rick_and_morty pocket_mortys neon_genesis_evangelion dc_comics adult_swim jojo_no_kimyou_na_bouken utdr_(toby_fox) undertale futaba_channel looney_tunes
+?space_beth -> rick_and_morty adult_swim
