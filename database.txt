@@ -2848,3 +2848,4 @@
 ?mejiro_dober_(sapphire_sojourn)_(umamusume) -> umamusume comiket_100 kantai_collection jojo_no_kimyou_na_bouken stardust_crusaders coca-cola
 ?diabellstar_the_black_witch -> yu-gi-oh! yu-gi-oh!_master_duel yu-gi-oh!_rush_duel fate_(series) fate/grand_order the_legend_of_zelda yu-gi-oh!_card_game_the_chronicles original
 ?diabellstar_the_black_witch_(alternate_art) -> yu-gi-oh! yu-gi-oh!_master_duel hololive hololive_english yu-gi-oh!_rush_duel
+?diabellze_heiress_of_the_winter_raven's_forest -> yu-gi-oh!
