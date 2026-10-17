@@ -3061,3 +3061,4 @@
 ?female_dreamseeker_(herrscher_of_time)_(honkai_impact) -> honkai_(series) honkai_impact_3rd
 ?female_dreamseeker_(honkai_impact) -> honkai_(series) honkai_impact_3rd honkai:_star_rail mihoyo genshin_impact zenless_zone_zero team_fortress_2 tears_of_themis honkai_gakuen tom_and_jerry
 ?leylah_(honkai_impact) -> honkai_(series) honkai_impact_3rd honkai:_star_rail mihoyo genshin_impact zenless_zone_zero team_fortress_2 tears_of_themis honkai_gakuen alien_stage
+?roy_(fire_emblem) -> fire_emblem fire_emblem:_the_binding_blade fire_emblem_heroes super_smash_bros. fire_emblem:_mystery_of_the_emblem fire_emblem:_path_of_radiance fire_emblem:_the_blazing_blade fire_emblem_awakening fire_emblem_fates the_legend_of_zelda
