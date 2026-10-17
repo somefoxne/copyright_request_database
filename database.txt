@@ -2666,3 +2666,4 @@
 ?kunimitsu_ii -> tekken tekken_7 tekken_8 grappler_baki tekken_tag_tournament_2 street_fighter soulcalibur bandai_namco fatal_fury dead_or_alive
 ?mishima_heihachi -> tekken tekken_8 street_fighter tekken_7 tekken_tag_tournament_2 super_smash_bros. final_fantasy fatal_fury namco tekken_4
 ?mishima_kazuya -> tekken super_smash_bros. tekken_8 kirby_(series) street_fighter mario_(series) fire_emblem fatal_fury final_fantasy final_fantasy_vii
+?reina_(tekken) -> tekken tekken_8 street_fighter street_fighter_6 bandai_namco evolution_championship_series the_king_of_fighters guilty_gear original pokemon
