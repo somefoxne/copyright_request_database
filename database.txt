@@ -1504,3 +1504,4 @@
 ?hiiragi_kagami -> lucky_star vocaloid suzumiya_haruhi_no_yuuutsu k-on! kyoto_animation kantai_collection touhou clannad kagamin_bocchi mahou_shoujo_madoka_magica
 ?hiiragi_kagami_(succubus_cheer) -> lucky_star mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) paffendorf gundam advance_of_zeta
 ?halvin_(fire_emblem) -> fire_emblem fire_emblem:_three_houses real_life
+?a_(naruto) -> naruto_(series) naruto_shippuuden boruto_(series) boruto:_naruto_next_generations naruto_(classic) dragon_ball marvel bleach pokemon final_fantasy
