@@ -2121,3 +2121,4 @@
 ?yuudachi_(halloween)_(kancolle) -> kantai_collection little_red_riding_hood_(fairy_tale) digimon azur_lane gundam machikado_mazoku kancolle_arcade
 ?yuudachi_(kancolle) -> kantai_collection azur_lane kantai_collection_(anime) pokemon gundam fate_(series) dragon_ball fate/grand_order little_red_riding_hood_(fairy_tale) dragon_ball_z
 ?yuudachi_kai_ni_(kancolle) -> kantai_collection dragon_ball azur_lane dragon_ball_z pokemon gundam fate_(series) little_red_riding_hood_(fairy_tale) kantai_collection_(anime) fate/grand_order
+?motohashi_iori -> charisma_house sanrio my_melody_(series) vocaloid omori twitter bungou_stray_dogs itazuraguma_no_gloomy
