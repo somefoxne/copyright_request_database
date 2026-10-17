@@ -3514,3 +3514,4 @@
 ?gojo_satoru -> jujutsu_kaisen chainsaw_man original naruto_(series) blue_archive jujutsu_kaisen_modulo kimetsu_no_yaiba boku_no_hero_academia sanrio dragon_ball
 ?iori_utahime -> jujutsu_kaisen honkai_(series) honkai_impact_3rd studio_mappa resident_evil honkai:_star_rail zenless_zone_zero wuthering_waves one_piece neon_genesis_evangelion
 ?akigumo_(kancolle) -> kantai_collection original space_adventure_cobra fate_(series) choo_choo_train jojo_no_kimyou_na_bouken twitter aoki_hagane_no_arpeggio comiket_100 fate/grand_order
+?akishimo_(kancolle) -> kantai_collection real_life fate_(series) fate/grand_order arknights helltaker azumanga_daioh wacky_races world_witches_series strike_witches
