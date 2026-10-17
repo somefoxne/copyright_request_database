@@ -1871,3 +1871,4 @@
 ?ivan_(alien_stage) -> alien_stage zombie_stage ipstar genshin_impact cure_(alien_stage) neon_genesis_evangelion blink_gone_(alien_stage) rebuild_of_evangelion wiege_(alien_stage)
 ?mizi_(alien_stage) -> alien_stage zombie_stage ipstar futatsu_no_mokuba_(vocaloid) mahou_shoujo_madoka_magica project_sekai sanrio genshin_impact my_clematis_(alien_stage) honkai_(series)
 ?leader_(trickcal) -> trickcal bokete arknights warhammer_40k walmart blue_archive pokemon project_moon limbus_company minecraft
+?ner_(trickcal) -> trickcal blue_archive pokemon bocchi_the_rock! ghost_in_the_shell pokemon_pokopia irasutoya breaking_bad the_shining cult_of_the_lamb
