@@ -2175,3 +2175,4 @@
 ?captain_(honkai_impact) -> honkai_(series) honkai_impact_3rd honkai:_star_rail mihoyo genshin_impact comiket_96 honkai_gakuen original zenless_zone_zero fate_(series)
 ?durandal_(honkai_impact) -> honkai_(series) honkai_impact_3rd mihoyo genshin_impact honkai:_star_rail zenless_zone_zero umamusume arknights blue_archive bishoujo_senshi_sailor_moon
 ?rita_rossweisse -> honkai_(series) honkai_impact_3rd honkai_gakuen mihoyo genshin_impact honkai:_star_rail zenless_zone_zero arknights blue_archive neon_genesis_evangelion
+?rita_rossweisse_(umbral_rose) -> honkai_(series) honkai_impact_3rd mihoyo genshin_impact arknights honkai_gakuen original idolmaster azur_lane zenless_zone_zero
