@@ -4090,3 +4090,4 @@
 ?kamen_rider_zero-one -> kamen_rider kamen_rider_01_(series) battle_spirits kamen_rider_saber_(series) kamen_rider_kuuga_(series) kamen_rider_zi-o_(series) kamen_rider_ex-aid_(series) kamen_rider_(1st_series) kamen_rider_zero-one:_real_time kamen_rider_revice_(series)
 ?kamen_rider_zero-one_(biting_shark) -> kamen_rider kamen_rider_01_(series) super_robot_wars hotel_transylvania kamen_rider:_reiwa_the_first_generation kamen_rider_zero-one:_real_time
 ?kamen_rider_zero-one_(breaking_mammoth) -> kamen_rider kamen_rider_01_(series) super_robot_wars kamen_rider:_reiwa_the_first_generation kamen_rider_zero-one:_real_time
+?kamen_rider_zero-one_(flaming_tiger) -> kamen_rider kamen_rider_01_(series) super_robot_wars kamen_rider_ooo_(series) kamen_rider_ryuki_(series) kamen_rider_build_(series) kamen_rider_hibiki_(series) kamen_rider:_reiwa_the_first_generation kamen_rider_zero-one:_real_time
