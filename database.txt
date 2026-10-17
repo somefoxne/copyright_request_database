@@ -1346,3 +1346,4 @@
 ?fairimon -> digimon digimon_frontier digimon_adventure digimon_card_game digimon_tamers digimon_adventure_02 digimon_story:_time_stranger digimon_xros_wars digimon_savers digihentai
 ?luvencia_(brown_dust) -> brown_dust_(series) brown_dust_2 neowiz
 ?luvencia_(ocean_vanguard)_(brown_dust) -> brown_dust_(series) brown_dust_2
+?leaf_(black_souls) -> black_souls black_souls_2 original touhou blue_archive project_moon chainsaw_man bravely_default_(series) bravely_default:_flying_fairy
