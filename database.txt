@@ -4004,3 +4004,4 @@
 ?charlotte_(genshin_impact) -> genshin_impact honkai_(series) mihoyo honkai:_star_rail honkai_impact_3rd zenless_zone_zero olympics duolingo 2024_summer_olympics
 ?aubrey_(neal_d._anderson) -> original coca-cola the_road_to_el_dorado mtv
 ?aoi_erika -> heaven_burns_red key_(company) little_busters! angel_beats! yostar clannad summer_pockets air_(visual_novel) umamusume bang_dream!
+?albis_(tensura) -> tensei_shitara_slime_datta_ken pokemon one_piece fate_(series) arknights fate/stay_night naruto_(series) monogatari_(series) kimetsu_no_yaiba arknights:_endfield
