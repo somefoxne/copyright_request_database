@@ -2714,3 +2714,4 @@
 ?okamisty -> touhou night_sparrow_love touhou_(pc-98) imperishable_night reitaisai original puyopuyo pokemon mahou_shoujo_madoka_magica
 ?hatsune_miku_(dark_angel) -> vocaloid himitsu_keisatsu_(vocaloid) project_diva_(series) project_diva_f utau shinkai_shoujo_(vocaloid) senbonzakura_(vocaloid) suna_no_wakusei_(vocaloid) poppippoo_(vocaloid) unknown_mother_goose_(vocaloid)
 ?luo_tianyi -> vocaloid vsinger_(vocaloid) voiceroid utau ace_studio san_yue_yu_(vocaloid) medium5 original genshin_impact cevio
+?emma_(yakusoku_no_neverland) -> yakusoku_no_neverland identity_v one_piece kimetsu_no_yaiba boku_no_hero_academia haikyuu!! black_clover shounen_jump original naruto_(series)
