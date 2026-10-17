@@ -2183,3 +2183,4 @@
 ?vargo_(arknights) -> arknights
 ?caesar_(arknights) -> arknights bang_dream!
 ?tachibana_hinano -> vspo! indie_virtual_youtuber nijisanji vcr_gta madtown_gta hololive apex_legends crazy_raccoon xross_stars real_life
+?abdullah_(tintin) -> real_life tintin
