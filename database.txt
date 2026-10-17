@@ -3109,3 +3109,4 @@
 ?kusakari_runa -> cinderella_series hachigatsu_no_cinderella_nine tamayomi street_fighter suzumiya_haruhi_no_yuuutsu yurucamp kizuna_ai_inc.
 ?sako_makoto -> devil_survivor_(series) devil_survivor_2 persona persona_3 durarara!! pokemon fire_emblem precure danganronpa_(series) jojo_no_kimyou_na_bouken
 ?agnes_digital_(full-color_fangirling)_(umamusume) -> umamusume original fate_(series) jojo_no_kimyou_na_bouken umamusume:_beginning_of_a_new_era real_life comiket_100 bucchigiri?! dexter_(tv_series)
+?tap_dance_city_(glitter!)_(umamusume) -> umamusume jojo_no_kimyou_na_bouken comiket_102 umamusume:_cinderella_gray idolmaster idolmaster_cinderella_girls real_life monster_hunter_(series) diamond_wa_kudakenai stone_ocean
