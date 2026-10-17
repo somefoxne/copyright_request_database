@@ -1136,3 +1136,4 @@
 ?emilia_(re:zero) -> re:zero_kara_hajimeru_isekai_seikatsu kono_subarashii_sekai_ni_shukufuku_wo! re:zero_kara_kasaneru_isekai_seikatsu re:zero_kara_hajimeru_isekai_seikatsu:_lost_in_memories goddess_of_victory:_nikke isekai_quartet overlord_(maruyama) sousou_no_frieren mushoku_tensei youjo_senki
 ?el_condor_pasa_(umamusume) -> umamusume real_life pokemon among_us pakatube umamusume:_cinderella_gray jojo_no_kimyou_na_bouken kfc original gundam
 ?grass_wonder_(umamusume) -> umamusume real_life original umayuru pakatube pokemon umamusume:_cinderella_gray among_us cygames hololive
+?jack_the_ripper_(fate/apocrypha) -> fate_(series) fate/apocrypha fate/grand_order fate/extra fate/stay_night fate/extra_ccc learning_with_manga!_fgo fate/strange_fake koha-ace fate/kaleid_liner_prisma_illya
