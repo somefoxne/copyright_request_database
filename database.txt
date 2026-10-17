@@ -2373,3 +2373,4 @@
 ?jarnbardinn_(azur_lane) -> azur_lane
 ?helen_jackson -> gundam victory_gundam gundam_suisei_no_majo zombie_land_saga newtype
 ?matsuzaka_satou -> happy_sugar_life mirai_nikki original danganronpa_(series) bocchi_the_rock! higurashi_no_naku_koro_ni megami_magazine the_coffin_of_andy_and_leyley school_days vocaloid
+?captain_america -> marvel avengers_(series) captain_america_(series) the_incredible_hulk_(series) x-men spider-man_(series) captain_america:_the_winter_soldier marvel_vs._capcom street_fighter fantastic_four
