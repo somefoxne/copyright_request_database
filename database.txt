@@ -1584,3 +1584,4 @@
 ?ikuta_haruki -> idolmaster idolmaster_shiny_colors idolmaster_shiny_colors_song_for_prism pokemon gundam bandai_namco idolmaster_(classic) zozotown mister_donut idolmaster_cinderella_girls
 ?yumizuka_satsuki -> tsukihime melty_blood tsukihime_(remake) fate_(series) type-moon fate/stay_night m.u.g.e.n kagetsu_tooya carnival_phantasm kara_no_kyoukai
 ?ootori_shousuke -> project_sekai vocaloid ego_rock_(vocaloid)
+?ootori_keisuke_(project_sekai) -> project_sekai vocaloid
