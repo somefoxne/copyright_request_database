@@ -993,3 +993,4 @@
 ?sakuya_reina -> digimon digimon_beatbreak digimon_savers digimon_tamers digimon_world_re:digitize round1
 ?narita_brian_(maverick)_(umamusume) -> umamusume umamusume:_star_blossom akari_ga_yatte_kitazo_(vocaloid) japan_racing_association umamusume:_cinderella_gray original real_life kantai_collection fate_(series) idolmaster
 ?mihono_bourbon_(mb-19890425)_(umamusume) -> umamusume gundam original girls_und_panzer bang_dream! gundam_seed vocaloid princess_connect! real_life umamusume:_cinderella_gray
+?mihono_bourbon_(umamusume) -> umamusume gundam bocchi_the_rock! kantai_collection gundam_tekketsu_no_orphans original pokemon ryuu_ga_gotoku_(series) umamusume:_cinderella_gray pikmin_(series)
