@@ -2881,3 +2881,4 @@
 ?minakami_sayo -> mahou_shoujo_ni_akogarete bang_dream! bang_dream!_girls_band_party! megami_magazine shikanoko_nokonoko_koshitantan shokunin_to_hitozuma mahou_shoujo_madoka_magica precure mahou_shoujo_madoka_magica_(anime) sousou_no_frieren
 ?fukunomiya_koko_(kuromiya) -> original
 ?kiyomiya_hikari_(kuromiya) -> original
+?torafuji_nagi_(kuromiya) -> original
