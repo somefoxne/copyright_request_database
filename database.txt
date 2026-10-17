@@ -1191,3 +1191,4 @@
 ?vodyanitsa_(genshin_impact) -> genshin_impact honkai_(series) mihoyo honkai:_star_rail chiikawa arknights vocaloid zenless_zone_zero sanrio frozen_(disney)
 ?nikaidou_shinku -> irotoridori_no_sekai irotoridori_no_hikari hoshizora_no_memoria favorite_(company) astralair_no_shiroki_towa blue_archive sakura_moyu akai_hitomi_ni_utsuru_sekai comiket_108 study_steady
 ?kiritani_haruka -> project_sekai vocaloid zozotown akuma_no_odorikata_(vocaloid) kowareta_sekai_to_utaenai_miku shoujo_rei_(vocaloid) sanrio darling_dance_(vocaloid) superhero_(vocaloid) sekai_no_housekibako
+?epona -> the_legend_of_zelda the_legend_of_zelda:_ocarina_of_time the_legend_of_zelda:_twilight_princess the_legend_of_zelda:_breath_of_the_wild the_legend_of_zelda:_tears_of_the_kingdom the_legend_of_zelda:_the_wind_waker the_legend_of_zelda:_skyward_sword the_legend_of_zelda:_a_link_to_the_past
