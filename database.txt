@@ -3251,3 +3251,4 @@
 ?marche_lorraine's_puppet -> umamusume pakatube among_us okaasan_to_issho pokemon jojo_no_kimyou_na_bouken real_life stardust_crusaders ryuu_ga_gotoku_(series) original
 ?akizuki_ryo -> idolmaster idolmaster_dearly_stars idolmaster_(classic) idolmaster_side-m idolmaster_cinderella_girls idolmaster_2 idolmaster_million_live! idolmaster_side-m_growing_stars idolmaster_1 idolmaster_va-liv
 ?hidaka_ai -> idolmaster idolmaster_dearly_stars idolmaster_(classic) idolmaster_cinderella_girls idolmaster_million_live! idolmaster_side-m idolmaster_va-liv idolmaster_1 idolmaster_2 idolmaster_shiny_colors
+?mizutani_eri -> idolmaster idolmaster_dearly_stars idolmaster_(classic) idolmaster_cinderella_girls idolmaster_side-m idolmaster_va-liv idolmaster_million_live! idolmaster_1 idolmaster_2 idolmaster_live_for_you!
