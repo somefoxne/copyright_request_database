@@ -4205,3 +4205,4 @@
 ?wolf_link -> the_legend_of_zelda the_legend_of_zelda:_twilight_princess the_legend_of_zelda:_breath_of_the_wild the_legend_of_zelda:_ocarina_of_time the_legend_of_zelda:_the_wind_waker the_legend_of_zelda:_skyward_sword the_legend_of_zelda:_tears_of_the_kingdom the_legend_of_zelda:_a_link_to_the_past the_legend_of_zelda:_a_link_between_worlds
 ?dragalge -> pokemon pokemon_legends:_z-a pokemon_x_and_y pokemon_scarlet_and_violet original pokemon_sword_and_shield pokemon_omega_ruby_and_alpha_sapphire pokemon_(anime) pokemon_sun_and_moon pokemon_black_and_white
 ?mega_dragalge -> pokemon pokemon_legends:_z-a original pokemon_scarlet_and_violet pokemon_x_and_y pokemon_tcg pokemon_champions
+?noivern -> pokemon pokemon_(anime) pokemon_x_and_y pokemon_the_series:_xy pokemon_legends:_z-a pokemon_sword_and_shield pokemon_scarlet_and_violet pokemon_journeys pokemon_(classic_anime) pokemon_the_series:_sun_&_moon
