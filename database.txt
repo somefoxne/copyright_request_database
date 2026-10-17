@@ -4215,3 +4215,4 @@
 ?joji_(theater_company_prince) -> theater_company_prince
 ?kajiyama_fuuta -> milgram north_american_mythology precure danganronpa_(series) utau danganronpa_2:_goodbye_despair danganronpa_v3:_killing_harmony alien_stage the_hundred_line_-last_defense_academy- futari_wa_precure
 ?fennec_(kemono_friends) -> kemono_friends kemono_friends_3 arai-san_mansion kemono_friends_pavilion kemono_friends_festival original kemono_friends_2 kemono_friends_kingdom kantai_collection dragon_ball
+?flavia_(strinova) -> strinova
