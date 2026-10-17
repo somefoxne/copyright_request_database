@@ -2194,3 +2194,4 @@
 ?dick_grayson -> dc_comics batman_(series) teen_titans red_hood_and_the_outlaws original dc:_dark_legion absolute_dc absolute_batman superman_(series) young_justice
 ?dick_grayson_(absolute_dc) -> dc_comics absolute_dc absolute_batman batman_(series) cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 tonari_no_totoro gorillaz absolute_wonder_woman
 ?jason_todd -> dc_comics batman_(series) red_hood_and_the_outlaws knightfight dc:_dark_legion superman_(series) absolute_dc absolute_batman original wonder_woman_(series)
+?jason_todd_(absolute_dc) -> dc_comics absolute_dc absolute_batman batman_(series) cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 gorillaz absolute_wonder_woman demon_days_(gorillaz)
