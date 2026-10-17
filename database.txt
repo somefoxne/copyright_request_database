@@ -3655,3 +3655,4 @@
 ?ankha_(animal_crossing) -> animal_crossing animal_crossing:_new_horizons pokemon original sonic_(series) mario_(series) utdr_(toby_fox) undertale sanrio palworld
 ?kit_bodega -> gameoverse the_amazing_digital_circus sonic_(series) darkstalkers god_of_war_(series) glitch_productions shantae_(series) metroid metal_slug street_fighter
 ?miyako_yoshika -> touhou ten_desires touhou_(pc-98) undefined_fantastic_object touhou_lostword reitaisai embodiment_of_scarlet_devil imperishable_night perfect_cherry_blossom phantasmagoria_of_flower_view
+?matsuura_kanan -> love_live! love_live!_sunshine!! love_live!_school_idol_project genjitsu_no_yohane love_live!_school_idol_festival love_live!_nijigasaki_high_school_idol_club love_live!_school_idol_festival_all_stars happy_party_train kimi_no_kokoro_wa_kagayaiteru_kai? love_live!_sunshine!!_the_school_idol_movie_over_the_rainbow
