@@ -3527,3 +3527,4 @@
 ?softtie_(tate_no_yuusha_no_nariagari_rise) -> tate_no_yuusha_no_nariagari tate_no_yuusha_no_nariagari_rise
 ?ume_(tate_no_yuusha_no_nariagari_rise) -> tate_no_yuusha_no_nariagari tate_no_yuusha_no_nariagari_rise
 ?moonlight_(tate_no_yuusha_no_nariagari_rise) -> tate_no_yuusha_no_nariagari tate_no_yuusha_no_nariagari_rise
+?merak_(tate_no_yuusha_no_nariagari_rise) -> tate_no_yuusha_no_nariagari tate_no_yuusha_no_nariagari_rise
