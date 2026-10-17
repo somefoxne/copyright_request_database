@@ -1350,3 +1350,4 @@
 ?raiden_mei_(lightning_empress) -> honkai_(series) honkai_impact_3rd date_a_live honkai_gakuen pokemon marvel helltaker re:creators
 ?sophia_valentine -> nijisanji nijisanji_en nijisanji_kr nijisanji_gta pokemon grand_theft_auto nijisanji_id grand_theft_auto_v lycoris_recoil minecraft
 ?sophia_valentine_(1st_costume) -> nijisanji nijisanji_en nijisanji_kr nijisanji_id yu-gi-oh! street_fighter minecraft mona_lisa the_creation_of_adam girl_with_a_pearl_earring
+?raksha_(fire_emblem) -> fire_emblem
