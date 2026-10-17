@@ -1978,3 +1978,4 @@
 ?cweamcat -> indie_virtual_youtuber peanuts_(comic) vedal_ai umamusume mario_(series) cyberpunk_(series) minecraft super_mario_galaxy mario_kart cyberpunk_2077
 ?nurse_harrow_(deadlock) -> deadlock_(game)
 ?suzuki_hana -> idolmaster idolmaster_shiny_colors idolmaster_shiny_colors_song_for_prism jujutsu_kaisen pokemon gakuen_idolmaster idolmaster_cinderella_girls idolmaster_(classic) love_live! yu-gi-oh!
+?tamayori_himari -> seifuku_kanojo seifuku_kanojo_2 seifuku_kanojo_3
