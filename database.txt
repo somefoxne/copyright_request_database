@@ -3194,3 +3194,4 @@
 ?makaino_ririmu -> nijisanji monitoring_(vocaloid) pokemon crazy_raccoon vspo! madtown_gta nijisanji_kr indie_virtual_youtuber nijisanji_koshien nijisanji_gta
 ?colobbit -> nijisanji nijisanji_en pokemon nijisanji_kr nijisanji_id bunny_garden nijisanji_koshien cherry_pop_(vocaloid) nijisanji_gta niginigi_nijitown
 ?sophia_valentine_(3rd_costume) -> nijisanji
+?acheron_(izumo)_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail honkai_impact_3rd original genshin_impact mihoyo fate_(series) fate/grand_order counter:side squid_game
