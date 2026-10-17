@@ -3590,3 +3590,4 @@
 ?robin_mask -> kinnikuman touhou girls_und_panzer gundam mobile_suit_gundam os-tan keroro_gunsou kiteretsu_daihyakka pokemon fate_(series)
 ?junketsu -> kill_la_kill trigger_(company) panty_&_stocking_with_garterbelt little_witch_academia touhou fate_(series) tengen_toppa_gurren_lagann pokemon idolmaster mahou_shoujo_madoka_magica
 ?kiryuuin_satsuki -> kill_la_kill trigger_(company) panty_&_stocking_with_garterbelt tengen_toppa_gurren_lagann pokemon little_witch_academia fate_(series) idolmaster neon_genesis_evangelion precure
+?dancer_(final_fantasy) -> final_fantasy final_fantasy_xiv final_fantasy_v final_fantasy_xi final_fantasy_tactics original indie_virtual_youtuber hololive dissidia_final_fantasy dragon_quest
