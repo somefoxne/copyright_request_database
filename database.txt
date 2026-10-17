@@ -4167,3 +4167,4 @@
 ?jia_xichun_(project_moon) -> project_moon limbus_company library_of_ruina lobotomy_corporation pokemon arknights blue_archive the_distortion_detective mili_(band) tian_tian_(mili)
 ?wei_(project_moon) -> project_moon limbus_company library_of_ruina princess_maker_(series) blue_archive lobotomy_corporation princess_maker_2
 ?canari_(pokemon) -> pokemon pokemon_legends:_z-a pokemon_scarlet_and_violet pokemon_sword_and_shield pokemon_black_2_and_white_2 pokemon_black_and_white pokemon_diamond/pearl/platinum pokemon_(anime) pokemon_x_and_y original
+?jia_huan_(project_moon) -> project_moon limbus_company library_of_ruina lobotomy_corporation kekkai_sensen original pokemon fate_(series) fate/grand_order arknights
