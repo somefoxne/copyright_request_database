@@ -2025,3 +2025,4 @@
 ?tsunade_(naruto) -> naruto_(series) naruto_(classic) naruto_shippuuden bleach boruto_(series) boruto:_naruto_next_generations one_piece hentai_key monsterhentai bleach:_sennen_kessen-hen
 ?shou_tucker's_chimera -> fullmetal_alchemist pokemon jojo_no_kimyou_na_bouken stardust_crusaders chainsaw_man pokemon_(anime) spy_x_family animal_crossing gintama pokemon_the_series:_xy
 ?kilo_(nikke) -> goddess_of_victory:_nikke blue_archive fullmetal_alchemist armored_core armored_core_vi:_fires_of_rubicon gundam super_robot_wars zeta_gundam stellar_blade
+?clear_(djmax) -> djmax djmax_respect blue_archive original pokemon muse_dash touhou arknights vocaloid
