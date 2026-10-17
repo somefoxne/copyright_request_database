@@ -3740,3 +3740,4 @@
 ?yamakaze_(kancolle) -> kantai_collection azur_lane umamusume dragon_quest lawson bunny_garden choo_choo_train pokemon girls_und_panzer kamen_rider
 ?niitsu_kurumi -> assault_lily
 ?sadamori_himeka -> assault_lily jojo_no_kimyou_na_bouken vento_aureo yuusha_de_aru yuuki_yuuna_wa_yuusha_de_aru momotarou
+?tamba_akari -> assault_lily pokemon genshin_impact jojo_no_kimyou_na_bouken splatoon_(series) real_life vento_aureo shoujo_kageki_revue_starlight super_robot_wars yuusha_de_aru
