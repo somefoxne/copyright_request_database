@@ -4181,3 +4181,4 @@
 ?usami_sumireko -> touhou urban_legend_in_limbo touhou_(pc-98) violet_detector curiosities_of_lotus_asia touhou_lostword legacy_of_lunatic_kingdom pokemon antinomy_of_common_flowers
 ?zigong_(project_moon) -> project_moon limbus_company lobotomy_corporation kekkai_sensen blue_archive pokemon cardcaptor_sakura fatal_fury library_of_ruina ryuu_ga_gotoku_(series)
 ?zilu_(project_moon) -> project_moon limbus_company blue_archive nier_(series) nier:automata kekkai_sensen pokemon omori dc_comics higurashi_no_naku_koro_ni
+?cipher_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail mihoyo genshin_impact zenless_zone_zero honkai_impact_3rd fate_(series) fate/stay_night blue_archive twitter
