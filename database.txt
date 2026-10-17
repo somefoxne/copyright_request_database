@@ -4280,3 +4280,4 @@
 ?flayn_(fire_emblem) -> fire_emblem fire_emblem:_three_houses fire_emblem_heroes fire_emblem_fates fire_emblem_warriors:_three_hopes fire_emblem_awakening fire_emblem_engage fire_emblem:_path_of_radiance fire_emblem:_mystery_of_the_emblem fire_emblem:_the_binding_blade
 ?kouzuki_yuuko -> muv-luv muv-luv_alternative muv-luv_alternative_(anime) dmm muv-luv_alternative_strike_frontier kimi_ga_ita_kisetsu muv-luv_altered_fable darkstalkers megami_magazine super_robot_wars
 ?yashiro_kasumi -> muv-luv muv-luv_alternative muv-luv_alternative_(anime) muv-luv_altered_fable muv-luv_total_eclipse muv-luv:_dimensions fate_(series) fate/stay_night tsukihime muv-luv_alternative_strike_frontier
+?naegi_makoto -> danganronpa_(series) danganronpa:_trigger_happy_havoc danganronpa_2:_goodbye_despair danganronpa_v3:_killing_harmony danganronpa_another_episode:_ultra_despair_girls danganronpa/zero sanrio
