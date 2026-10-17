@@ -1524,3 +1524,4 @@
 ?fubuki_(one-punch_man) -> one-punch_man darkstalkers chainsaw_man one_piece sousou_no_frieren dragon_ball mob_psycho_100 fate_(series) jujutsu_kaisen bleach
 ?hop_(pokemon) -> pokemon pokemon_sword_and_shield pokemon_sun_and_moon pokemon_masters_ex pokemon_diamond/pearl/platinum original pokemon_black_and_white pokemon_x_and_y pokemon_heartgold_and_soulsilver pokemon_scarlet_and_violet
 ?pol-kun -> original
+?hoshimachi_suisei_(14th_costume) -> hololive hololive_dev_is greatest_(otonose_kanade)
