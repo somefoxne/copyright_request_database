@@ -2488,3 +2488,4 @@
 ?marimari_(vtuber) -> phase_connect indie_virtual_youtuber pokemon original real_life arknights vocaloid mario_(series) grand_theft_auto the_little_mermaid_(disney)
 ?kazusa_(band)_(blue_archive) -> blue_archive the_beatles comiket_105 bocchi_the_rock! blue_archive_the_animation abbey_road arknights spongebob_squarepants_(series) k-on! comiket_108
 ?quirinus_quirrell -> wizarding_world harry_potter_(series)
+?adina_savic -> black_survival eternal_return:_black_survival hololive hololive_english daejeon_autoarms original
