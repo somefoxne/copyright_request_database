@@ -4140,3 +4140,4 @@
 ?tsaritsa's_son_(genshin_impact) -> genshin_impact honkai_(series) honkai:_star_rail mihoyo tomodachi_life tomodachi_life:_living_the_dream woman_with_a_parasol
 ?yenko_(vtuber) -> indie_virtual_youtuber vyugen vinesauce original animal_crossing stella_sora squid_game twitch.tv
 ?imaushi_wakasa -> tokyo_revengers pepsi
+?michi_mochievee -> vshojo indie_virtual_youtuber hololive hololive_indonesia hololive_english real_life dungeons_&_dragons indie_utaite gamer_supps cho_kaguya-hime!
