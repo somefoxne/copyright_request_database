@@ -4256,3 +4256,4 @@
 ?cait_(fallout_4) -> fallout fallout_4 fallout_shelter_online
 ?curie_(fallout_4) -> fallout fallout_4
 ?piper_wright -> fallout fallout_4 original touhou kantai_collection dc_comics batman_(series) coca-cola fallout_shelter_online the_killing_joke
+?sole_survivor_(female) -> fallout fallout_4 original coca-cola red_dead_redemption_(series) red_dead_redemption_2 pokemon fate_(series) fate/grand_order idolmaster
