@@ -2981,3 +2981,4 @@
 ?jean_(genshin_impact) -> genshin_impact arknights mihoyo honkai_(series) original fate_(series) honkai_impact_3rd zenless_zone_zero neon_genesis_evangelion honkai:_star_rail
 ?emperor_of_mankind -> warhammer_40k fate_(series) real_life pacific_(kancolle) original fate/stay_night hololive sousou_no_frieren terminator_(series) the_terminator
 ?malcador_the_sigillite -> warhammer_40k hololive umamusume komi-san_wa_komyushou_desu mona_lisa the_coronation_of_napoleon
+?roll_(mega_man) -> mega_man_(series) mega_man_(classic) marvel_vs._capcom mega_man_x_(series) mega_man_11 mega_man_legends_(series) marvel_vs._capcom_2 mega_man_x_dive mega_man_battle_network_(series) mega_man_8
