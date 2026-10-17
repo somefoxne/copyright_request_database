@@ -2206,3 +2206,4 @@
 ?biker_(hotline_miami) -> hotline_miami hotline_miami_2:_wrong_number touhou kantai_collection warship_girls_r powerpuff_girls d4dj akira_(manga) pacific_(kancolle) metallica
 ?shilka_levinia -> phantasy_star phantasy_star_ii phantasy_star_online
 ?lady_noir -> miraculous_ladybug sanrio my_melody_(series) the_addams_family wednesday_(netflix)
+?mister_bug_(miraculous_ladybug) -> miraculous_ladybug
