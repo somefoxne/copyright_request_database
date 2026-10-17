@@ -2985,3 +2985,4 @@
 ?top_man -> mega_man_(series) mega_man_(classic) mega_man_3 mega_man_2 mega_man_1 mega_man_4 mega_man_6 mega_man_5 mega_man_8 mega_man_7
 ?kamizuru_cosmo -> idolmaster idolmaster_va-liv idolmaster_dearly_stars idolmaster_(classic) idolmaster_million_live! gakuen_idolmaster idolmaster_shiny_colors idolmaster_cinderella_girls idolmaster_million_live!_theater_days idolmaster_side-m
 ?letora_(idolmaster) -> idolmaster idolmaster_va-liv idolmaster_dearly_stars idolmaster_(classic) idolmaster_million_live! idolmaster_shiny_colors gakuen_idolmaster idolmaster_cinderella_girls idolmaster_side-m idolmaster_million_live!_theater_days
+?tomori_manaka -> idolmaster idolmaster_va-liv idolmaster_dearly_stars idolmaster_(classic) idolmaster_million_live! idolmaster_shiny_colors gakuen_idolmaster idolmaster_side-m idolmaster_cinderella_girls idolmaster_million_live!_theater_days
