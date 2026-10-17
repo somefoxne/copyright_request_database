@@ -3657,3 +3657,4 @@
 ?miyako_yoshika -> touhou ten_desires touhou_(pc-98) undefined_fantastic_object touhou_lostword reitaisai embodiment_of_scarlet_devil imperishable_night perfect_cherry_blossom phantasmagoria_of_flower_view
 ?matsuura_kanan -> love_live! love_live!_sunshine!! love_live!_school_idol_project genjitsu_no_yohane love_live!_school_idol_festival love_live!_nijigasaki_high_school_idol_club love_live!_school_idol_festival_all_stars happy_party_train kimi_no_kokoro_wa_kagayaiteru_kai? love_live!_sunshine!!_the_school_idol_movie_over_the_rainbow
 ?jun_the_swan -> gatchaman casshern_(series) tatsunoko_vs._capcom robot_hunter_casshern darkstalkers uchuu_no_kishi_tekkaman hariken_polymar street_fighter mega_man_(series) mega_man_(classic)
+?rim_(kamitsubaki_studio) -> kamitsubaki_studio cevio kamitsubaki_city_under_construction hololive kamitsubaki_city_ensemble mandarin_(cevio) nijisanji comiket_100 re:act himehina_channel
