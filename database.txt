@@ -1218,3 +1218,4 @@
 ?oogaki_hinata -> otome_domain comiket_103
 ?kufufu_kekerakera -> shy_(series) gundam bang_dream! bishoujo_senshi_sailor_moon mahou_shoujo_no_majo_saiban shingeki_no_kyojin lucky_star girls_band_cry gundam_suisei_no_majo
 ?fumi_(nijisanji) -> nijisanji yu-gi-oh! nijisanji_kr nijisanji_en nijisanji_id yu-gi-oh!_master_duel gundam nijisanji_koshien zeta_gundam jikkyou_powerful_pro_yakyuu
+?hoshikawa_sara -> nijisanji hololive nijisanji_en nijisanji_koshien nijisanji_gta nijisanji_kr indie_virtual_youtuber apex_legends pokemon vspo!
