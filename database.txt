@@ -1369,3 +1369,4 @@
 ?queenbeemon -> digimon digimon_card_game digimon_liberator digimon_frontier digimon_adventure digimon_adventure_02 digimon_tamers digimon_ghost_game digimon_xros_wars digimon_universe:_appli_monsters
 ?kalla_(fire_emblem) -> fire_emblem
 ?sirocco_(fire_emblem) -> fire_emblem poptepipic
+?inaba_tewi -> touhou imperishable_night touhou_(pc-98) phantasmagoria_of_flower_view reitaisai embodiment_of_scarlet_devil touhou_lostword cookie_(touhou) immaterial_and_missing_power original
