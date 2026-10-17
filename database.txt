@@ -1611,3 +1611,4 @@
 ?mega_man_(character) -> mega_man_(series) mega_man_(classic) super_smash_bros. mario_(series) street_fighter mega_man_x_(series) pokemon kirby_(series) metroid the_legend_of_zelda
 ?pac-man -> pac-man_(game) mario_(series) super_smash_bros. pokemon kirby_(series) sonic_(series) mega_man_(series) the_legend_of_zelda mega_man_(classic) donkey_kong_(series)
 ?aru_graves -> the_coffin_of_andy_and_leyley original toy_story
+?higuchi_madoka -> idolmaster idolmaster_shiny_colors idolmaster_shiny_colors_song_for_prism mahjong_soul comiket_99 idolmaster_cinderella_girls elden_ring gakuen_idolmaster blue_archive comiket_100
