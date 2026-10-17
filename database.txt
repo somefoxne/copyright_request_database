@@ -1818,3 +1818,4 @@
 ?oozora_subaru_(suspenders) -> hololive indie_virtual_youtuber hololive_english minecraft sausage_legend hololive_indonesia hololive_dev_is nijisanji pokemon jojo_no_kimyou_na_bouken
 ?yuzuki_choco_(1st_costume) -> hololive hololive_english hololive_indonesia nijisanji indie_virtual_youtuber nanashi_inc. hololive_dev_is holostars minecraft vocaloid
 ?fusaichi_pandora_(snatchin'_hearts)_(umamusume) -> umamusume coca-cola
+?sumita_mana -> bang_dream! bang_dream!_yumemita arknights ganso!_bang_dream_chan bocchi_the_rock! kimetsu_no_yaiba bang_dream!_girls_band_party! original real_life
