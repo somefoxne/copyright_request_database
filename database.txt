@@ -1627,3 +1627,4 @@
 ?arcueid_brunestud -> tsukihime tsukihime_(remake) fate_(series) fate/grand_order melty_blood type-moon fate/stay_night kara_no_kyoukai melty_blood:_type_lumina carnival_phantasm
 ?eco-arc -> tsukihime tsukihime_(remake) fate_(series) melty_blood fate/grand_order type-moon fate/stay_night melty_blood:_type_lumina suzumiya_haruhi_no_yuuutsu monogatari_(series)
 ?mejiro_palmer_(umamusume) -> umamusume pakatube sanrio original real_life umamusume:_cinderella_gray pokemon cygames akari_ga_yatte_kitazo_(vocaloid) idolmaster
+?win_variation_(dramatic_tutu)_(umamusume) -> umamusume fate_(series) fate/stay_night umamusume:_cinderella_gray king_kong_(series) pokemon vocaloid gundam bleach real_life
