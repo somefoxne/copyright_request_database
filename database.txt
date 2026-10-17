@@ -3669,3 +3669,4 @@
 ?kevin_graham -> eiyuu_densetsu sora_no_kiseki kuro_no_kiseki_(series) kai_no_kiseki ao_no_kiseki zero_no_kiseki sora_no_kiseki_sc sen_no_kiseki_(series) sora_no_kiseki_tc sen_no_kiseki_i
 ?ries_argent -> eiyuu_densetsu sora_no_kiseki sora_no_kiseki_tc ao_no_kiseki zero_no_kiseki kuro_no_kiseki_(series) falcom sen_no_kiseki_(series) sen_no_kiseki_i kai_no_kiseki
 ?kaku_yomuko -> yani_neko marvel spider-man_(series) the_addams_family wednesday_(netflix) spider-man_3 flashdance
+?nishi_shunran -> yani_neko kantai_collection nyanyanyanyanyanyanya!_(vocaloid) comiket_109
