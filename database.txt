@@ -4103,3 +4103,4 @@
 ?simon_henriksson_(book) -> cry_of_fear afraid_of_monsters my_little_pony my_little_pony:_friendship_is_magic pyromaniac bocchi_the_rock! sanrio microsoft_windows silent_hill_(series) hello_kitty
 ?atuarto_(tongari_boushi_no_atelier) -> tongari_boushi_no_atelier
 ?galga_(tongari_boushi_no_atelier) -> tongari_boushi_no_atelier
+?rick_astley -> never_gonna_give_you_up real_life hololive hololive_english love_live! original love_live!_school_idol_project honkai_(series) bocchi_the_rock! among_us
