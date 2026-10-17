@@ -3818,3 +3818,4 @@
 ?estelle_bright -> eiyuu_densetsu sora_no_kiseki sora_no_kiseki_fc sora_no_kiseki_sc sen_no_kiseki_(series) sen_no_kiseki_iv hajimari_no_kiseki zero_no_kiseki sen_no_kiseki_i falcom
 ?nagumo_midori -> city_(arawi_keiichi) nichijou amemiya-san_(arawi_keiichi) touhou umamusume chainsaw_man boku_no_hero_academia ranma_1/2 cookie_(touhou) lycoris_recoil
 ?kirara_(genshin_impact) -> genshin_impact mihoyo honkai_(series) zenless_zone_zero honkai:_star_rail honkai_impact_3rd bocchi_the_rock! olympics 2024_summer_olympics original
+?endeavor_(boku_no_hero_academia) -> boku_no_hero_academia vigilante_-boku_no_hero_academia:_illegals- kimetsu_no_yaiba pokemon one_piece tiktok bleach sanrio tenga dragon_ball
