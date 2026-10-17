@@ -2664,3 +2664,4 @@
 ?kazama_asuka -> tekken tekken_8 tekken_5 tekken_7 street_fighter tekken_6 tekken_tag_tournament_2 street_fighter_x_tekken original namco
 ?kazama_jin -> tekken tekken_8 tekken_7 soulcalibur street_fighter tekken_4 tekken_tag_tournament_2 tekken_6 tekken_3 the_king_of_fighters
 ?kunimitsu_ii -> tekken tekken_7 tekken_8 grappler_baki tekken_tag_tournament_2 street_fighter soulcalibur bandai_namco fatal_fury dead_or_alive
+?mishima_heihachi -> tekken tekken_8 street_fighter tekken_7 tekken_tag_tournament_2 super_smash_bros. final_fantasy fatal_fury namco tekken_4
