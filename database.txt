@@ -2315,3 +2315,4 @@
 ?yi_sang_(project_moon) -> project_moon limbus_company lobotomy_corporation library_of_ruina fly_my_wings mili_(band) arknights original lunatic_moonnight_fantasy hamhampangpang
 ?bomi_(vtuber) -> indie_virtual_youtuber
 ?malos_(xenoblade) -> xenoblade_chronicles_(series) xenoblade_chronicles_2 xenoblade_chronicles_1 xenoblade_chronicles_2:_torna_-_the_golden_country mario_(series) super_smash_bros. xenoblade_chronicles_3 fire_emblem the_legend_of_zelda metroid
+?kohinata_miku -> senki_zesshou_symphogear senki_zesshou_symphogear_xd_unlimited original megami_magazine mahou_shoujo_madoka_magica newtype umamusume mahou_shoujo_madoka_magica_(anime) kamen_rider wild_arms
