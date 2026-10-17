@@ -3737,3 +3737,4 @@
 ?moogle -> final_fantasy final_fantasy_vii final_fantasy_vi final_fantasy_xiv final_fantasy_ix final_fantasy_vii_remake final_fantasy_x dissidia_final_fantasy final_fantasy_vii_rebirth final_fantasy_v
 ?jubilee_(marvel) -> marvel x-men marvel_rivals x-men:_the_animated_series spider-man_(series) the_incredible_hulk_(series) street_fighter darkstalkers deadpool_(series) fantastic_four
 ?venom_(marvel) -> marvel spider-man_(series) marvel_rivals x-men venom_(2018) fantastic_four spider-verse avengers_(series) the_incredible_hulk_(series)
+?yamakaze_(kancolle) -> kantai_collection azur_lane umamusume dragon_quest lawson bunny_garden choo_choo_train pokemon girls_und_panzer kamen_rider
