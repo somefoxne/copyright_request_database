@@ -1745,3 +1745,4 @@
 ?protagonist_(aogami_nahobino)_(smtv) -> shin_megami_tensei shin_megami_tensei_v shin_megami_tensei_v:_vengeance shin_megami_tensei_iii:_nocturne persona persona_5 shin_megami_tensei_iv_final shin_megami_tensei_iv atlus metroid
 ?protagonist_(smtv) -> shin_megami_tensei shin_megami_tensei_v shin_megami_tensei_v:_vengeance shin_megami_tensei_iii:_nocturne persona devil_summoner_(series) shin_megami_tensei_iv atlus shin_megami_tensei_iv_final persona_5
 ?nano_(nanoless) -> indie_virtual_youtuber gamer_supps original vyugen
+?ichikawa_kyoutarou -> boku_no_kokoro_no_yabai_yatsu re:zero_kara_hajimeru_isekai_seikatsu rabbit_hole_(vocaloid) mitsudomoe_(manga) otaku-kun_to_gyaru_no_koi splatoon_(series) bocchi_the_rock! sousou_no_frieren kimetsu_no_yaiba kirby_(series)
