@@ -3977,3 +3977,4 @@
 ?jude_mathis_(swimsuit) -> tales_of_(series) tales_of_xillia tales_of_asteria tales_of_the_rays
 ?sans_(undertale) -> utdr_(toby_fox) undertale deltarune xtale touhou hololive pokemon dusttale mario_(series) super_smash_bros.
 ?testarossa_(tensura) -> tensei_shitara_slime_datta_ken
+?flowey_(undertale) -> utdr_(toby_fox) undertale deltarune touhou omori pokemon kirby_(series) original hololive yume_nikki
