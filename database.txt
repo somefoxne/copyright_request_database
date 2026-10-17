@@ -3777,3 +3777,4 @@
 ?szayelaporro_granz -> bleach bleach:_sennen_kessen-hen bleach:_epilogue bleach:_brave_souls bleach:_the_high_school_warfare peppa_pig_(series) vocaloid jojo_no_kimyou_na_bouken vento_aureo macross
 ?ulquiorra_cifer -> bleach bleach:_the_high_school_warfare bleach:_sennen_kessen-hen idolmaster idolmaster_cinderella_girls bleach:_brave_souls bleach:_epilogue comiket_95 touhou naruto_(series)
 ?yammy_llargo -> bleach bleach:_sennen_kessen-hen touhou original idolmaster idolmaster_cinderella_girls bleach:_epilogue bleach:_brave_souls bleach:_zanpakutou_ibun_hen bleach:_memories_of_nobody
+?zommari_rureaux -> bleach bleach:_sennen_kessen-hen idolmaster idolmaster_cinderella_girls bleach:_brave_souls bleach:_epilogue bleach:_zanpakutou_ibun_hen bleach:_memories_of_nobody bleach:_fade_to_black
