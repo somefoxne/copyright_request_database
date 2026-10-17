@@ -1810,3 +1810,4 @@
 ?rottytops -> shantae_(series) shantae:_half-genie_hero shantae_and_the_seven_sirens pokemon dc_comics shantae_advance:_risky_revolution wayforward original
 ?godzilla -> godzilla_(series) shin_godzilla monsterverse kemono_friends king_kong_(series) godzilla:_king_of_the_monsters godzilla_(2014) godzilla_minus_one original godzilla_x_kong:_the_new_empire
 ?lindverne_sunbringer -> zenless_zone_zero umamusume honkai_(series) honkai_impact_3rd jujutsu_kaisen
+?dynamo_(deadlock) -> deadlock_(game)
