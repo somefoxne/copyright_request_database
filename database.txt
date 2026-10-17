@@ -1361,3 +1361,4 @@
 ?solel_(fire_emblem) -> fire_emblem fire_emblem:_three_houses
 ?koyanagi_rou -> nijisanji nijisanji_en nijisanji_gta nijisanji_kr nijisanji_koshien s.c.r.e.a.m grand_theft_auto grand_theft_auto_v genshin_impact zenless_zone_zero
 ?koyanagi_rou_(2nd_costume) -> nijisanji genshin_impact zenless_zone_zero boku_no_hero_academia splatoon_(series) nijisanji_en holostars daiya_no_ace neo-porte r.e.p.o.
+?otomo_(koyanagi_rou) -> nijisanji nijisanji_en minecraft nijisanji_koshien sweets_paradise nijisanji_gta s.c.r.e.a.m
