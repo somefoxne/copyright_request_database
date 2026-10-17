@@ -3189,3 +3189,4 @@
 ?licorice_(justadrian) -> original the_ring go!_go!_gris!
 ?hyakumantenbara_salome_(school_uniform) -> nijisanji
 ?black_knife_tiche -> elden_ring helltaker elden_ring:_shadow_of_the_erdtree
+?tarnished_(elden_ring) -> elden_ring elden_ring:_shadow_of_the_erdtree original dark_souls_(series) fromsoftware dark_souls_i bloodborne hololive dark_souls_iii hololive_english
