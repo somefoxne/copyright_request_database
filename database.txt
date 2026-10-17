@@ -3091,3 +3091,4 @@
 ?agarie_nagi -> shine_post pokemon vocaloid
 ?suzuka_gozen_(fate) -> fate_(series) fate/grand_order fate/extra fate/extra_ccc fate/extra_ccc_fox_tail fate/grand_order_arcade kantai_collection comiket_96 idolmaster idolmaster_cinderella_girls
 ?suzuka_gozen_(swimsuit_rider)_(fate) -> fate_(series) fate/grand_order fate/grand_order_arcade original dragon_ball dragon_ball_z fate/kaleid_liner_prisma_illya akira_(manga) fate/dream_striker
+?suzuka_gozen_(swimsuit_rider)_(second_ascension)_(fate) -> fate_(series) fate/grand_order fate/grand_order_arcade original dragon_ball dragon_ball_z fate/kaleid_liner_prisma_illya
