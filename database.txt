@@ -4073,3 +4073,4 @@
 ?matsumoto_rangiku -> bleach bleach:_sennen_kessen-hen naruto_(series) naruto_(classic) one_piece bleach:_brave_souls bleach:_epilogue bleach:_the_high_school_warfare gundam gundam_00
 ?kirifuji_nozomi -> the_hundred_line_-last_defense_academy- danganronpa_(series) pokemon tower_records danganronpa_2:_goodbye_despair pokemon_pokopia pieta the_truman_show final_fantasy final_fantasy_xiv
 ?arisugawa_dice -> hypnosis_mic tobaku_mokushiroku_kaiji nijisanji danganronpa_(series) boku_no_hero_academia danganronpa:_trigger_happy_havoc sanrio hello_kitty kakegurui bang_dream!
+?yumeno_gentaro -> hypnosis_mic sanrio genshin_impact honkai_(series) honkai:_star_rail honkai_impact_3rd boku_no_hero_academia holostars gintama hellaverse
