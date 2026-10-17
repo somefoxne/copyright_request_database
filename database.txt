@@ -3037,3 +3037,4 @@
 ?saber_(fire_emblem) -> fire_emblem fire_emblem_echoes:_shadows_of_valentia fire_emblem_heroes fire_emblem_fates fire_emblem_gaiden fire_emblem:_mystery_of_the_emblem fire_emblem:_the_sacred_stones fire_emblem:_the_blazing_blade fire_emblem:_the_binding_blade fire_emblem:_three_houses
 ?zeta_(kagejitsu) -> kage_no_jitsuryokusha_ni_naritakute! kage_no_jitsuryokusha_ni_naritakute!_master_of_garden dolphin_wave precure original megami_magazine minecraft youkai_watch overlord_(maruyama) wonderful_precure!
 ?shizuki_soujuurou -> mahou_tsukai_no_yoru fate_(series) fate/grand_order tsukihime fate/stay_night kara_no_kyoukai type-moon melty_blood tsukihime_(remake) fate/extra
+?kurumi_(hanakaji) -> original hollow_knight hollow_knight:_silksong
