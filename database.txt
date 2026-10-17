@@ -3176,3 +3176,4 @@
 ?trony_(nikke) -> goddess_of_victory:_nikke comiket_108 comiket_107 doom_(series) breaking_bad blue_archive neon_genesis_evangelion metal_gear_(series) zoids ace_combat
 ?trony_(sweet_step)_(nikke) -> goddess_of_victory:_nikke
 ?ninomiya_(mahoiku) -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_restart
+?tatsumaki_chise -> vspo! league_of_legends
