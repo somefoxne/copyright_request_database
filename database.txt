@@ -3541,3 +3541,4 @@
 ?kazagiri_hayaka_(kitasshi) -> original
 ?artoria_caster_(swimsuit_berserker)_(third_ascension)_(fate) -> fate_(series) fate/grand_order fate/kaleid_liner_prisma_illya original fate/stay_night dragon_ball marvel spider-man_(series) fate/grail_league fate/dream_striker
 ?prisma_illya -> fate_(series) fate/kaleid_liner_prisma_illya fate/grand_order fate/stay_night fate/zero kantai_collection fate/apocrypha fate/extra mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime)
+?maris_excelsior -> soukyuu_no_fafner gundam gundam_seed gundam_seed_destiny scryed kurogane_no_linebarrel majestic_prince heroic_age mugen_no_ryvius giniro_no_olynssis
