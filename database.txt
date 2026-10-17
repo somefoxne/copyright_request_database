@@ -1535,3 +1535,4 @@
 ?rem_(re:zero) -> re:zero_kara_hajimeru_isekai_seikatsu kono_subarashii_sekai_ni_shukufuku_wo! fate_(series) pokemon gochuumon_wa_usagi_desu_ka? goddess_of_victory:_nikke kantai_collection re:zero_kara_hajimeru_isekai_seikatsu:_lost_in_memories fate/grand_order original
 ?priestess_(goblin_slayer!) -> goblin_slayer! brown_dust_(series) brown_dust_2 goblin_slayer:_the_endless_revenge fate_(series) dungeon_meshi kimetsu_no_yaiba fate/apocrypha onii-chan_wa_oshimai!
 ?kurusu_natsume -> nijisanji nijisanji_en nijisanji_kr nijisanji_id nijisanji_koshien blue_archive jikkyou_powerful_pro_yakyuu vocaloid mario_(series) dc_comics
+?kurusu_natsume_(1st_costume) -> nijisanji nijisanji_kr nijisanji_en nijisanji_id pineapple_on_pizza_(game)
