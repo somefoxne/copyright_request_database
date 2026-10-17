@@ -2280,3 +2280,4 @@
 ?yanami_anna -> make_heroine_ga_oo_sugiru! umamusume pokemon boku_no_kokoro_no_yabai_yatsu cuddly_octopus kantai_collection chainsaw_man pokemon_black_and_white cho_kaguya-hime! lycoris_recoil
 ?mustache_girl -> a_hat_in_time gravity_falls barbie_(franchise) oneshot_(game) barbie_(live_action) i_want_my_hat_back wordgirl_(series) oppenheimer_(movie) castle_crashers 1-2-switch
 ?damian_wayne -> dc_comics batman_(series) super_sons superman_(series) red_hood_and_the_outlaws dc:_dark_legion teen_titans young_justice pokemon marvel
+?talia_al_ghul -> dc_comics batman_(series) superman_(series) wonder_woman_(series) batman:_arkham_(series) dc:_dark_legion batman:_arkham_city neon_genesis_evangelion red_hood_and_the_outlaws my_adventures_with_superman
