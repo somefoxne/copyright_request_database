@@ -3329,3 +3329,4 @@
 ?altena_(fire_emblem) -> fire_emblem fire_emblem:_genealogy_of_the_holy_war fire_emblem:_thracia_776 fire_emblem_cipher fire_emblem_heroes fire_emblem:_mystery_of_the_emblem fire_emblem:_the_sacred_stones fire_emblem:_three_houses fire_emblem_fates fire_emblem_awakening
 ?arion_(fire_emblem) -> fire_emblem fire_emblem:_genealogy_of_the_holy_war fire_emblem_heroes fire_emblem:_thracia_776
 ?miyako_(swimsuit)_(blue_archive) -> blue_archive kantai_collection comiket_104 comiket_106 comiket_103 umamusume wuthering_waves rabbit_hole_(vocaloid) comiket_102 blue_archive_the_animation
+?honey_(breath_of_fire) -> breath_of_fire breath_of_fire_iii breath_of_fire_iv breath_of_fire_ii breath_of_fire_v breath_of_fire_i breath_of_fire_6
