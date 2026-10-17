@@ -2253,3 +2253,4 @@
 ?medusa_(fate) -> fate_(series) fate/stay_night fate/grand_order fate/hollow_ataraxia fate/zero fate/extra tsukihime type-moon fate/kaleid_liner_prisma_illya
 ?medusa_(fate/stay_night) -> fate_(series) fate/stay_night fate/grand_order fate/hollow_ataraxia fate/zero fate/extra fate/kaleid_liner_prisma_illya gundam lyrical_nanoha
 ?medusa_(rider)_(fate) -> fate_(series) fate/stay_night fate/grand_order fate/hollow_ataraxia fate/zero tsukihime fate/extra type-moon koha-ace
+?saber_alter_(third_ascension) -> fate_(series) fate/grand_order fate/stay_night fate/extra pixiv_fate/grand_order_contest_1 fate/unlimited_codes fate/unlimited_blade_works pixiv_fate/grand_order_contest_2 girls_und_panzer
