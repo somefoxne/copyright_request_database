@@ -3813,3 +3813,4 @@
 ?tiki_(adult)_(fire_emblem) -> fire_emblem fire_emblem_awakening fire_emblem_heroes fire_emblem:_mystery_of_the_emblem fire_emblem_fates fire_emblem:_the_blazing_blade fire_emblem:_three_houses fire_emblem_engage fire_emblem:_shadow_dragon_and_the_blade_of_light fire_emblem:_the_sacred_stones
 ?tiki_(fire_emblem) -> fire_emblem fire_emblem_awakening fire_emblem:_mystery_of_the_emblem fire_emblem_heroes fire_emblem:_the_binding_blade fire_emblem:_shadow_dragon_and_the_blade_of_light fire_emblem_fates fire_emblem:_the_sacred_stones fire_emblem:_the_blazing_blade fire_emblem:_shadow_dragon
 ?omori_(omori) -> omori utdr_(toby_fox) yume_nikki undertale deltarune oneshot_(game) ib_(kouri) off_(game) pokemon satsuriku_no_tenshi
+?fukumaru_koito -> idolmaster idolmaster_shiny_colors idolmaster_shiny_colors_song_for_prism idolmaster_poplinks mahjong_soul idolmaster_cinderella_girls idolmaster_million_live! pokemon gakuen_idolmaster chainsaw_man
