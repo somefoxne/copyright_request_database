@@ -3775,3 +3775,4 @@
 ?grimmjow_jaegerjaquez -> bleach bleach:_sennen_kessen-hen bleach:_epilogue bleach:_brave_souls bleach:_the_high_school_warfare jujutsu_kaisen fate_(series) touhou fate/grand_order one_piece
 ?nnoitra_gilga -> bleach bleach:_sennen_kessen-hen jujutsu_kaisen bleach:_the_high_school_warfare original idolmaster idolmaster_cinderella_girls one_piece dragon_ball naruto_(series)
 ?szayelaporro_granz -> bleach bleach:_sennen_kessen-hen bleach:_epilogue bleach:_brave_souls bleach:_the_high_school_warfare peppa_pig_(series) vocaloid jojo_no_kimyou_na_bouken vento_aureo macross
+?ulquiorra_cifer -> bleach bleach:_the_high_school_warfare bleach:_sennen_kessen-hen idolmaster idolmaster_cinderella_girls bleach:_brave_souls bleach:_epilogue comiket_95 touhou naruto_(series)
