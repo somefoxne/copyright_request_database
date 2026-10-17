@@ -2454,3 +2454,4 @@
 ?edward_dewey -> resident_evil resident_evil_1 resident_evil_0
 ?enrico_marini -> resident_evil resident_evil_1 resident_evil_0
 ?forest_speyer -> resident_evil resident_evil_1 resident_evil_0
+?joseph_frost -> resident_evil resident_evil_1 resident_evil_0
