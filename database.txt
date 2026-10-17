@@ -3953,3 +3953,4 @@
 ?tanigaki_genjirou -> golden_kamuy darkstalkers sanrio gintama hello_kitty snow_white_and_the_seven_dwarfs_(disney) tiktok pokemon fate_(series) zenless_zone_zero
 ?cater_diamond_(sweet_avatar) -> twisted_wonderland wreck-it_ralph
 ?lynette_(octopath_traveler) -> octopath_traveler octopath_traveler:_champions_of_the_continent octopath_traveler_i octopath_traveler_ii
+?koko_(kamitsubaki_studio) -> kamitsubaki_studio kamitsubaki_city_under_construction cevio kamitsubaki_city_ensemble kmnz vesperbell unravel_(song) original hololive hololive_english
