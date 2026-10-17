@@ -2894,3 +2894,4 @@
 ?agatsuma_zenitsu -> kimetsu_no_yaiba kimetsu_gakuen pokemon boku_no_hero_academia chainsaw_man one_piece jujutsu_kaisen sanrio sekiro:_shadows_die_twice spy_x_family
 ?kamado_nezuko -> kimetsu_no_yaiba kimetsu_gakuen pokemon boku_no_hero_academia chainsaw_man sanrio one_piece original fate_(series) vocaloid
 ?kathy_(nue_no_onmyouji) -> nue_no_onmyouji
+?miyanaga_nonoka -> bang_dream! bang_dream!_yumemita bang_dream!_our_notes bang_dream!_girls_band_party! sakanaction chatgpt wasurerarenaino arknights mahou_shoujo_no_majo_saiban
