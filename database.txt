@@ -2392,3 +2392,4 @@
 ?mitsuhirato_(tintin) -> tintin
 ?snowy_(final_gear) -> final_gear the_wizard_of_oz tintin
 ?tchang_tchong-jen -> tintin
+?white_serval_(kemono_friends) -> kemono_friends kemono_friends_3 sanrio hello_kitty kemono_friends_pavilion original oshi_no_ko kemono_friends_v_project journey_to_the_west kemono_friends_2
