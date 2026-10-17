@@ -1173,3 +1173,4 @@
 ?ushizaki_urumi -> touhou wily_beast_and_weakest_creature touhou_(pc-98) touhou_lostword foul_detective_satori touhou_bougetsushou silent_sinner_in_blue perfect_cherry_blossom legacy_of_lunatic_kingdom hidden_star_in_four_seasons
 ?ushizaki_urumi_(ushi_oni) -> touhou
 ?aoyagi_touya -> project_sekai vocaloid sanrio zozotown booo!_(vocaloid) beat_eater_(vocaloid) ensemble_stars! shanti_(vocaloid) akuma_no_odorikata_(vocaloid) traffic_jam_(vocaloid)
+?sakuraba_ema -> mahou_shoujo_no_majo_saiban book_off karaoke_manekineko treasure_cafe poker_chase comiket_108 mahou_shoujo_no_inshuu_mura aquarium_wa_odoranai mahou_shoujo_madoka_magica danganronpa_(series)
