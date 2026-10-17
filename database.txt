@@ -2443,3 +2443,4 @@
 ?ringo_(touhou) -> touhou legacy_of_lunatic_kingdom touhou_(pc-98) touhou_lostword touhou_cannonball ten_desires double_dealing_character imperishable_night japanese_urban_legends touhou_bougetsushou
 ?seiran_(touhou) -> touhou legacy_of_lunatic_kingdom touhou_(pc-98) unfinished_dream_of_all_living_ghost touhou_lostword touhou_cannonball japanese_urban_legends double_dealing_character touhou_bougetsushou imperishable_night
 ?aemeath_(wuthering_waves) -> wuthering_waves honkai_(series) honkai:_star_rail cyberpunk_(series) honkai_impact_3rd punishing:_gray_raven blue_archive cyberpunk:_edgerunners cyberpunk:_edgerunners_1 comiket_108
+?chisa_(wuthering_waves) -> wuthering_waves samsung blue_archive comiket_107 kill_la_kill lawson gs25 redmagic arknights zenless_zone_zero
