@@ -2049,3 +2049,4 @@
 ?ranni_the_witch -> elden_ring bloodborne elden_ring:_shadow_of_the_erdtree fromsoftware hololive hololive_english elden_ring_nightreign dark_souls_(series) indie_virtual_youtuber utdr_(toby_fox)
 ?hat_kid -> a_hat_in_time original i_want_my_hat_back mario_(series) pokemon oneshot_(game) sonic_(series) kirby_(series) celeste_(game) here_comes_niko!
 ?misty_(pokemon) -> pokemon pokemon_(anime) pokemon_(classic_anime) pokemon_heartgold_and_soulsilver pokemon_firered_and_leafgreen pokemon_red/green/blue/yellow pokemon:_the_electric_tale_of_pikachu pokemon_the_series:_ruby_and_sapphire pokemon_the_series:_diamond_and_pearl
+?remielle_dan_(moonlight_whispers) -> zenless_zone_zero mihoyo honkai_(series) honkai_impact_3rd genshin_impact honkai:_star_rail original chainsaw_man yu-gi-oh! breaking_bad
