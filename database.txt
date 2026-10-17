@@ -1992,3 +1992,4 @@
 ?aino_minako -> bishoujo_senshi_sailor_moon bishoujo_senshi_sailor_moon_(first_season) bishoujo_senshi_sailor_moon_s bishoujo_senshi_sailor_moon_stars codename_wa_sailor_v bishoujo_senshi_sailor_moon_r bishoujo_senshi_sailor_moon_supers bishoujo_senshi_sailor_moon_crystal precure taimanin_(series)
 ?anna_(fire_emblem) -> fire_emblem fire_emblem_heroes fire_emblem_engage fire_emblem_awakening fire_emblem_fates fire_emblem:_three_houses fire_emblem_warriors fire_emblem:_mystery_of_the_emblem fire_emblem:_the_binding_blade fire_emblem_echoes:_shadows_of_valentia
 ?anna_(fire_emblem:_fortune's_weave) -> fire_emblem
+?fortuna_(fire_emblem) -> fire_emblem kfc
