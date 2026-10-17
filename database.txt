@@ -3025,3 +3025,4 @@
 ?beta_(kagejitsu) -> kage_no_jitsuryokusha_ni_naritakute! kage_no_jitsuryokusha_ni_naritakute!_master_of_garden dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru_darou_ka kono_subarashii_sekai_ni_shukufuku_wo! konosuba!_fantastic_days re:zero_kara_hajimeru_isekai_seikatsu dolphin_wave megami_magazine mushoku_tensei kadokawa
 ?himari_(armed)_(blue_archive) -> blue_archive akira_(manga) gundam neon_genesis_evangelion rebuild_of_evangelion evangelion:_3.0+1.0_thrice_upon_a_time honkai_(series) honkai:_star_rail yu-gi-oh! sono_bisque_doll_wa_koi_wo_suru
 ?rio_(armed)_(blue_archive) -> blue_archive comiket_107 fate_(series) wuthering_waves neon_genesis_evangelion umamusume gundam goddess_of_victory:_nikke rebuild_of_evangelion metal_gear_(series)
+?kasane_teto_(sv) -> utau synthesizer_v vocaloid a.i._voice tetoris_(synthesizer_v) igaku_(utau) mesmerizer_(vocaloid) voicepeak liar_dancer_(synthesizer_v) musekinin_shuugoutai_(synthesizer_v)
