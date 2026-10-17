@@ -3952,3 +3952,4 @@
 ?isolde_(zenless_zone_zero) -> zenless_zone_zero honkai_(series) honkai:_star_rail mihoyo umamusume golden_kamuy doom_(series) doom_eternal gigo id_software
 ?tanigaki_genjirou -> golden_kamuy darkstalkers sanrio gintama hello_kitty snow_white_and_the_seven_dwarfs_(disney) tiktok pokemon fate_(series) zenless_zone_zero
 ?cater_diamond_(sweet_avatar) -> twisted_wonderland wreck-it_ralph
+?lynette_(octopath_traveler) -> octopath_traveler octopath_traveler:_champions_of_the_continent octopath_traveler_i octopath_traveler_ii
