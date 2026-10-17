@@ -1111,3 +1111,4 @@
 ?otori_tan -> seitokai_ni_mo_ana_wa_aru! onii-chan_wa_oshimai! fate_(series) fate/grand_order gundam jojo_no_kimyou_na_bouken re:zero_kara_hajimeru_isekai_seikatsu gundam_gquuuuuux little_busters! nige_jouzu_no_wakagimi
 ?fine_motion's_bodyguard_captain -> umamusume umamusume:_cinderella_gray sousou_no_frieren bishoujo_senshi_sailor_moon death_note comiket_102 umamusume:_road_to_the_top umayuru gag_manga_biyori umamusume:_star_blossom
 ?black_cat_(coastal_cat)_(marvel) -> marvel marvel_rivals spider-man_(series) x-men avengers_(series) fantastic_four guardians_of_the_galaxy tiger_division
+?felicia_hardy -> marvel spider-man_(series) marvel_rivals dc_comics batman_(series) x-men tiger_division spider-verse fantastic_four
