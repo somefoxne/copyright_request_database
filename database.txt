@@ -3549,3 +3549,4 @@
 ?nimi_nightmare_(goth) -> indie_virtual_youtuber hololive hololive_english densetsu.exe original vinesauce 3am
 ?alice_(black_souls) -> black_souls black_souls_2 touhou blue_archive original trickcal fate_(series) arknights goddess_of_victory:_nikke
 ?grimm_(black_souls) -> black_souls black_souls_2 blue_archive project_moon limbus_company jujutsu_kaisen dead_red_hood touhou vocaloid
+?node_(black_souls) -> black_souls black_souls_2 touhou helltaker arknights project_moon yu-gi-oh! limbus_company toaru_majutsu_no_index arknights:_endfield
