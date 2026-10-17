@@ -3558,3 +3558,4 @@
 ?reisa_(magical)_(blue_archive) -> blue_archive mahou_shoujo_madoka_magica original indie_virtual_youtuber mahou_shoujo_madoka_magica_(anime) project_moon kamen_rider lobotomy_corporation powerpuff_girls blue_archive_the_animation
 ?hatty_hattington -> battleblock_theater castle_crashers a_hat_in_time the_binding_of_isaac super_meat_boy alien_hominid utdr_(toby_fox) kirby_(series) undertale among_us
 ?ha-chan_(ado) -> ado_(utaite) sanrio vocaloid usseewa gira_gira atashi_wa_mondaisaku himawari_(ado) one_piece one_piece_film:_red readymade_(ado)
+?pusheen_the_cat -> pusheen_the_cat_(series) original sanrio ado_(utaite) hello_kitty pokemon chiikawa vocaloid bishoujo_senshi_sailor_moon kirby_(series)
