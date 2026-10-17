@@ -3290,3 +3290,4 @@
 ?luma_(mario) -> mario_(series) super_mario_galaxy super_smash_bros. pokemon the_legend_of_zelda metroid kid_icarus fire_emblem kirby_(series) animal_crossing
 ?roger_(guilty_gear) -> guilty_gear guilty_gear_strive guilty_gear_xx tower_records guilty_gear_xrd arc_system_works blazblue umamusume kunio-kun_series guilty_gear_vastedge_xt
 ?aoba_(kujibikido)_(blue_archive) -> blue_archive
+?hikari_(kujibikido)_(blue_archive) -> blue_archive one_piece poptepipic spongebob_squarepants_(series) kengan_(series) kengan_ashura tropicana
