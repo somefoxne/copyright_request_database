@@ -3076,3 +3076,4 @@
 ?oh!_lonesome_me_(stand) -> jojo_no_kimyou_na_bouken steel_ball_run stone_ocean stardust_crusaders vento_aureo battle_tendency diamond_wa_kudakenai cookie_run phantom_blood jojolion
 ?stone_free -> jojo_no_kimyou_na_bouken stone_ocean vento_aureo diamond_wa_kudakenai stardust_crusaders steel_ball_run phantom_blood battle_tendency jojolion umamusume
 ?natsugumo_(kancolle) -> kantai_collection umamusume choo_choo_train street_fighter gochuumon_wa_usagi_desu_ka? little_red_riding_hood_(fairy_tale) street_fighter_ii_(series)
+?sugitani_zenjubou_(fate) -> fate_(series) fate/grand_order fate/grand_order_arcade fate/zero fate/kaleid_liner_prisma_illya fate/samurai_remnant lord_el-melloi_ii_case_files the_adventures_of_lord_el-melloi_ii star_wars golden_kamuy
