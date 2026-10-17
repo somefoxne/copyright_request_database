@@ -3950,3 +3950,4 @@
 ?zack_fair_(holiday_suit) -> final_fantasy final_fantasy_vii final_fantasy_vii:_ever_crisis final_fantasy_vii_remake crisis_core:_final_fantasy_vii nier_(series) final_fantasy_ix nier
 ?guy_crimson -> tensei_shitara_slime_datta_ken
 ?isolde_(zenless_zone_zero) -> zenless_zone_zero honkai_(series) honkai:_star_rail mihoyo umamusume golden_kamuy doom_(series) doom_eternal gigo id_software
+?tanigaki_genjirou -> golden_kamuy darkstalkers sanrio gintama hello_kitty snow_white_and_the_seven_dwarfs_(disney) tiktok pokemon fate_(series) zenless_zone_zero
