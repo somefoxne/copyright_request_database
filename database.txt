@@ -2947,3 +2947,4 @@
 ?shouji_(devil_survivor) -> devil_survivor_(series) devil_survivor_1
 ?le_noir_brand_manager -> project_moon limbus_company
 ?le_rouge_brand_director -> project_moon limbus_company
+?maria_magdalena_dietrich -> world_witches_series luminous_witches mc_axis newtype kfc strike_witches scho-ka-kola
