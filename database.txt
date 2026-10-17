@@ -3556,3 +3556,4 @@
 ?nodoka_(hot_spring)_(blue_archive) -> blue_archive yu-gi-oh! vspo! king_(vocaloid) ashita_no_joe game_game_over candy_purple_(cevio)
 ?shigure_(hot_spring)_(blue_archive) -> blue_archive comiket_104 comiket_105 idolmaster yu-gi-oh! gakuen_idolmaster comiket_103 king_(vocaloid) sekaiichi_kawaii_watashi_(idolmaster) yellow_big_bang!_(idolmaster)
 ?reisa_(magical)_(blue_archive) -> blue_archive mahou_shoujo_madoka_magica original indie_virtual_youtuber mahou_shoujo_madoka_magica_(anime) project_moon kamen_rider lobotomy_corporation powerpuff_girls blue_archive_the_animation
+?hatty_hattington -> battleblock_theater castle_crashers a_hat_in_time the_binding_of_isaac super_meat_boy alien_hominid utdr_(toby_fox) kirby_(series) undertale among_us
