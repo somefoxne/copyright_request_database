@@ -3312,3 +3312,4 @@
 ?soraneko_kurumi -> indie_virtual_youtuber original
 ?cid_kagenou_(shadow) -> kage_no_jitsuryokusha_ni_naritakute! kage_no_jitsuryokusha_ni_naritakute!_master_of_garden dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru_darou_ka tensei_shitara_slime_datta_ken kono_subarashii_sekai_ni_shukufuku_wo! hololive konosuba!_fantastic_days re:zero_kara_hajimeru_isekai_seikatsu overlord_(maruyama) isekai_quartet
 ?female_sensei_(blue_archive) -> blue_archive original project_kv blue_archive_the_animation comiket_108 love_live! love_live!_nijigasaki_high_school_idol_club pokemon arknights kamen_rider
+?sava_k_zeos -> duel_masters dragon_musume_ni_naritakunai! mahou_shoujo_no_majo_saiban kirby_(series) magic:_the_gathering
