@@ -3920,3 +3920,4 @@
 ?mojo_jojo -> powerpuff_girls powerpuff_girls_z samurai_jack courage_the_cowardly_dog the_grim_adventures_of_billy_&_mandy cartoon_network cow_&_chicken dragon_ball
 ?namine_ritsu_(vox_factory) -> vox_factory utau
 ?kanna_(swimsuit)_(blue_archive) -> blue_archive blue_archive_the_animation arknights xenoblade_chronicles_(series) xenoblade_chronicles_2 comiket_104 original metroid pokemon hololive
+?kermit_the_frog -> muppets vedal_ai vrchat boku_no_hero_academia touhou pokemon mario_(series) dc_comics dragon_ball indie_virtual_youtuber
