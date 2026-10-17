@@ -4153,3 +4153,4 @@
 ?gubo_(project_moon) -> project_moon limbus_company leviathan_(project_moon) library_of_ruina lobotomy_corporation kekkai_sensen the_distortion_detective mili_(band) fly_my_wings shingeki_no_kyojin
 ?jia_qiu_(project_moon) -> project_moon limbus_company lobotomy_corporation arknights kekkai_sensen original blue_archive pokemon one_piece goddess_of_victory:_nikke
 ?setsu_(gnosia) -> gnosia newtype original touhou vocaloid fire_emblem persona splatoon_(series) utau xenoblade_chronicles_(series)
+?masaki_gaillard -> amairo_islenauts yuzusoft sanoba_witch riddle_joker tenshinranman cafe_stella_to_shinigami_no_chou senren_banka dracu-riot! original tenshi_souzou_re-boot!
