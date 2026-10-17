@@ -2271,3 +2271,4 @@
 ?esperanza_(shadowverse) -> shadowverse shadowverse:_worlds_beyond kantai_collection original granblue_fantasy granblue_fantasy:_relink
 ?belle_(zenless_zone_zero) -> zenless_zone_zero mihoyo honkai_(series) genshin_impact honkai:_star_rail honkai_impact_3rd blue_archive wuthering_waves umamusume tokidoki_bosotto_roshia-go_de_dereru_tonari_no_alya-san
 ?galbrena_(wuthering_waves) -> wuthering_waves lawson goddess_of_victory:_nikke devil_may_cry_(series) bayonetta_(series) devil_may_cry_5 fate_(series) fate/grand_order the_last_supper kuro_games
+?jeanne_d'arc_alter_(swimsuit_berserker)_(fate) -> fate_(series) fate/grand_order fate/extra cowboy_bebop original coca-cola fate/apocrypha fate/extra_ccc koha-ace comiket_95
