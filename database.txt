@@ -4261,3 +4261,4 @@
 ?komachi_panko -> phase_connect pokemon indie_virtual_youtuber kono_subarashii_sekai_ni_shukufuku_wo! wizarding_world hogwarts_legacy original hololive danganronpa_(series) one_piece
 ?komachi_panko_(4th_costume) -> phase_connect
 ?lucy_(elfen_lied) -> elfen_lied aerisdies fate_(series) higurashi_no_naku_koro_ni touhou fate/stay_night mario_(series) pokemon fate/grand_order dragon_ball
+?natalia_knight -> dc_comics batman_(series)
