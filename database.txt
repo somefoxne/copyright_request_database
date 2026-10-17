@@ -1770,3 +1770,4 @@
 ?amamiya_ren -> persona persona_5 persona_5_the_royal persona_4 persona_3 super_smash_bros. persona_dancing persona_5:_dancing_star_night fire_emblem persona_3_portable
 ?takemi_tae -> persona persona_5 persona_5_the_royal persona_3 persona_4 fate_(series) fate/grand_order fire_emblem guilty_gear atlus
 ?umezato_chieri -> bang_dream! bang_dream!_our_notes jojo_no_kimyou_na_bouken bang_dream!_girls_band_party! bleach stardust_crusaders steel_ball_run bang_dream!_yumemita sweets_paradise
+?tanigawa_ruri -> ruri_no_houseki onii-chan_wa_oshimai! studio_bind minecraft houseki_no_kuni blue_archive umamusume yu-gi-oh! dragon_quest kill_la_kill
