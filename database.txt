@@ -2068,3 +2068,4 @@
 ?milk_(nikke) -> goddess_of_victory:_nikke lycoris_recoil persona persona_5 original nijisanji bang_dream! nijisanji_en last_origin
 ?mustang_(nikke) -> goddess_of_victory:_nikke oshi_no_ko kfc a-1_pictures
 ?oswald_(nikke) -> goddess_of_victory:_nikke dc_comics batman_(series) joker_(2019) idolmaster idolmaster_cinderella_girls neon_genesis_evangelion wake_up_girls! detroit:_become_human fukkireta
+?red_shoes_(nikke) -> goddess_of_victory:_nikke shoujo_kageki_revue_starlight zenless_zone_zero danganronpa_(series) project_moon chainsaw_man limbus_company dragon_ball danganronpa_2:_goodbye_despair jujutsu_kaisen
