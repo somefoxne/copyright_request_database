@@ -1489,3 +1489,4 @@
 ?raava_(avatar) -> avatar_legends the_legend_of_korra avatar:_the_last_airbender chronicles_of_the_avatar the_reckoning_of_roku avatar_aang:_the_last_airbender nickelodeon the_rise_of_kyoshi avatar:_seven_havens
 ?guzma_(pokemon) -> pokemon pokemon_sun_and_moon pokemon_diamond/pearl/platinum pokemon_masters_ex pokemon_x_and_y pokemon_omega_ruby_and_alpha_sapphire pokemon_black_and_white pokemon_sword_and_shield pokemon_(anime) pokemon_the_series:_sun_&_moon
 ?guillotine_devil_(chainsaw_man) -> chainsaw_man
+?nonna_(girls_und_panzer) -> girls_und_panzer girls_und_panzer_motto_love_love_sakusen_desu! girls_und_panzer_senshadou_daisakusen! gekitotsu!_joshikousei_oiroke_sensha_gundan kantai_collection girls_und_panzer:_atsumare!_minna_no_senshadou!! touhou megami_magazine urusei_yatsura world_of_tanks
