@@ -1702,3 +1702,4 @@
 ?dandelion_(girls'_frontline) -> arknights jashin-chan_dropkick blue_archive minecraft working!! the_ring
 ?might_guy -> naruto_(series) naruto_shippuuden naruto_(classic) boruto_(series) boruto:_naruto_next_generations naruto_shippuuden:_ultimate_ninja_blazing naruto:_the_last umamusume naruto_sd_rock_lee_no_seishun danganronpa_(series)
 ?ishtar_(fate) -> fate_(series) fate/grand_order fate/stay_night fate/strange_fake original fate/extra wuthering_waves fate/zero fate/kaleid_liner_prisma_illya pixiv_fate/grand_order_contest_1
+?kaz_oogod_(mori_calliope) -> hololive hololive_english shattered_legends
