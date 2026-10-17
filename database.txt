@@ -2471,3 +2471,4 @@
 ?scaramouche_(kabukimono)_(genshin_impact) -> genshin_impact original nige_jouzu_no_wakagimi honkai_(series) honkai:_star_rail mihoyo yoasobi vocaloid monogatari_(series) houseki_no_kuni
 ?endou_ifrina -> figu@mate vocaloid niconico touhou idolmaster final_fantasy jojo_no_kimyou_na_bouken yu-gi-oh! idolmaster_(classic) final_fantasy_vii
 ?kodai_susumu -> uchuu_senkan_yamato uchuu_senkan_yamato_2199 uchuu_senkan_yamato_2202:_ai_no_senshi-tachi original super_robot_wars record_of_lodoss_war uchuu_senkan_yamato_2205:_arata_naru_tabidachi vocaloid gundam precure
+?son_goku -> dragon_ball dragon_ball_z dragon_ball_super dragon_ball_gt dragon_ball_(classic) dragon_ball_daima dragon_ball_super_broly dragon_ball_heroes one_piece naruto_(series)
