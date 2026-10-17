@@ -2184,3 +2184,4 @@
 ?caesar_(arknights) -> arknights bang_dream!
 ?tachibana_hinano -> vspo! indie_virtual_youtuber nijisanji vcr_gta madtown_gta hololive apex_legends crazy_raccoon xross_stars real_life
 ?abdullah_(tintin) -> real_life tintin
+?captain_archibald_haddock -> tintin real_life the_simpsons touhou azur_lane neon_genesis_evangelion league_of_legends mario_(series) lyrical_nanoha bleach
