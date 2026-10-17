@@ -3944,3 +3944,4 @@
 ?seika_(terasu_mc) -> original
 ?teit_talon -> original one-punch_man facebook
 ?diablo_(tensura) -> tensei_shitara_slime_datta_ken grand_summoners precure sousou_no_frieren jujutsu_kaisen kimetsu_no_yaiba twisted_wonderland hugtto!_precure ojamajo_doremi magic_knight_rayearth
+?james_potter -> wizarding_world harry_potter_(series) harry_potter_and_the_prisoner_of_azkaban harry_potter_and_the_deathly_hallows harry_potter_and_the_cursed_child
