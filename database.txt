@@ -2435,3 +2435,4 @@
 ?kayoko_(dress)_(blue_archive) -> blue_archive rance_(series) comiket_104 rance_x james_bond_(series) blue_archive_the_animation idolmaster original pokemon hololive
 ?blanchet_(trickcal) -> trickcal kamen_rider kamen_rider_kabuto_(series) bokete kamen_rider_kabuto:_god_speed_love
 ?shirayuki_noa -> tenshi_souzou_re-boot! yuzusoft cafe_stella_to_shinigami_no_chou senren_banka riddle_joker sanoba_witch comiket_104 amairo_islenauts coca-cola dracu-riot!
+?cho-hakkaimon -> digimon digimon_xros_wars digimon_xros_wars:_toki_wo_kakeru_shounen_hunter-tachi digimon_frontier digimon_adventure digimon_adventure_02 digimon_tamers digimon_savers digimon_beatbreak digimon_card_game
