@@ -2007,3 +2007,4 @@
 ?mary_(nikke) -> goddess_of_victory:_nikke hololive project_moon limbus_company original azur_lane persona persona_5 trickcal uzaki-chan_wa_asobitai!
 ?neon_(blue_ocean)_(nikke) -> goddess_of_victory:_nikke nier_(series) nier:automata blue_archive to_love-ru
 ?neon_(nikke) -> goddess_of_victory:_nikke nier_(series) nier:automata neon_genesis_evangelion lawson rebuild_of_evangelion re:zero_kara_hajimeru_isekai_seikatsu blue_archive original honkai_(series)
+?mu_ogosto -> fire_emblem
