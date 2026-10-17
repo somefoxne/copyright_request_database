@@ -1976,3 +1976,4 @@
 ?cerberus_(srw) -> super_robot_wars super_robot_wars_mx
 ?marbled_cat_(kemono_friends) -> kemono_friends original ghost_in_the_shell keroro_gunsou crunchyroll
 ?cweamcat -> indie_virtual_youtuber peanuts_(comic) vedal_ai umamusume mario_(series) cyberpunk_(series) minecraft super_mario_galaxy mario_kart cyberpunk_2077
+?nurse_harrow_(deadlock) -> deadlock_(game)
