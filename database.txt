@@ -3898,3 +3898,4 @@
 ?coco_(tongari_boushi_no_atelier) -> tongari_boushi_no_atelier dungeon_meshi sousou_no_frieren mahou_shoujo_madoka_magica love-bullet starry_night_(van_gogh) omori the_owl_house honkai_(series) honkai:_star_rail
 ?falin_touden -> dungeon_meshi sousou_no_frieren the_legend_of_zelda pokemon dungeons_&_dragons the_legend_of_zelda:_tears_of_the_kingdom wizarding_world harry_potter_(series)
 ?luz_noceda -> the_owl_house amphibia dc_comics adventure_time little_witch_academia avatar_legends she-ra_and_the_princesses_of_power disney hellaverse superman_(series)
+?koga_mitsuki -> kininatteru_hito_ga_otoko_ja_nakatta nirvana_(band) alien_stage gorillaz mahou_shoujo_madoka_magica sanrio pink_floyd radiohead_(band) in_utero_(album) hololive
