@@ -3899,3 +3899,4 @@
 ?falin_touden -> dungeon_meshi sousou_no_frieren the_legend_of_zelda pokemon dungeons_&_dragons the_legend_of_zelda:_tears_of_the_kingdom wizarding_world harry_potter_(series)
 ?luz_noceda -> the_owl_house amphibia dc_comics adventure_time little_witch_academia avatar_legends she-ra_and_the_princesses_of_power disney hellaverse superman_(series)
 ?koga_mitsuki -> kininatteru_hito_ga_otoko_ja_nakatta nirvana_(band) alien_stage gorillaz mahou_shoujo_madoka_magica sanrio pink_floyd radiohead_(band) in_utero_(album) hololive
+?sabrina_(pokemon) -> pokemon pokemon_firered_and_leafgreen pokemon_heartgold_and_soulsilver pokemon_red/green/blue/yellow pokemon_black_2_and_white_2 pokemon_adventures pokemon_(anime) pokemon_masters_ex pokemon_(classic_anime)
