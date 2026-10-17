@@ -3467,3 +3467,4 @@
 ?ryoutsu_kankichi -> kochikame shounen_jump gintama naruto_(series) one_piece jojo_no_kimyou_na_bouken bleach dragon_ball rurouni_kenshin dr._slump
 ?miss_monochrome_(character) -> miss_monochrome girlfriend_(kari) wooser_no_sono_higurashi ultra_super_anime_time wakaba_girl pokemon idolmaster vocaloid mahou_shoujo_madoka_magica danganronpa_(series)
 ?nia_liston -> kyouran_reijou_nia_liston
+?lynae_(peppermint)_(wuthering_waves) -> wuthering_waves grand_theft_auto grand_theft_auto_vi honkai_(series) honkai:_star_rail the_weaker_sex_1_(gibson)
