@@ -2699,3 +2699,4 @@
 ?akita_neru -> vocaloid utau zako_(vocaloid) synthesizer_v triple_baka_(vocaloid) mesmerizer_(vocaloid) a.i._voice black_rock_shooter project_diva_(series) voiceroid
 ?boude_miu -> original
 ?midorikawa_sakura -> original
+?furude_rika -> higurashi_no_naku_koro_ni higurashi_no_naku_koro_ni_gou umineko_no_naku_koro_ni higurashi_no_naku_koro_ni_mei suzumiya_haruhi_no_yuuutsu fate_(series) lyrical_nanoha fate/stay_night rozen_maiden shakugan_no_shana
