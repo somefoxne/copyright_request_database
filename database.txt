@@ -1500,3 +1500,4 @@
 ?takanashi_kiara -> hololive hololive_english hololive_indonesia perfume_(takanashi_kiara) minecraft mirage_(takanashi_kiara) nijisanji hololive_dev_is ego_(takanashi_kiara) indie_virtual_youtuber
 ?matilda_(stella_sora) -> stella_sora
 ?chun-li -> street_fighter street_fighter_6 street_fighter_zero_(series) street_fighter_ii_(series) street_fighter_v fatal_fury darkstalkers capcom street_fighter_iv_(series) the_king_of_fighters
+?shaula_(re:zero) -> re:zero_kara_hajimeru_isekai_seikatsu re:zero_kara_tsugihagu_isekai_seikatsu vocaloid tengen_toppa_gurren_lagann kantai_collection project_moon chainsaw_man library_of_ruina overlord_(maruyama) youkoso_jitsuryoku_shijou_shugi_no_kyoushitsu_e
