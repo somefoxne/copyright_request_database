@@ -3755,3 +3755,4 @@
 ?rick_(kirby) -> kirby_(series) kirby_star_allies kirby_64 kirby_air_ride kirby:_squeak_squad kirby:_planet_robobot
 ?chloe_northerncroft -> elden_ring elden_ring_nightreign
 ?revenant_(elden_ring) -> elden_ring elden_ring_nightreign dark_souls_(series) bloodborne fromsoftware elden_ring:_shadow_of_the_erdtree dark_souls_i dark_souls_iii dark_souls_ii jujutsu_kaisen
+?mari_(faraway)_(omori) -> omori emori pokemon doki_doki_literature_club omariposa chainsaw_man vocaloid danganronpa_(series) utdr_(toby_fox) the_ring
