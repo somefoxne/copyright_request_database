@@ -3960,3 +3960,4 @@
 ?nogiri_minori -> original
 ?vil_schoenheit -> twisted_wonderland pokemon disney snow_white_and_the_seven_dwarfs_(disney) the_little_mermaid_(disney) aladdin_(movie) hercules_(1997_movie) sleeping_beauty_(disney) original the_nightmare_before_christmas
 ?vil_schoenheit_(sweet_avatar) -> twisted_wonderland wreck-it_ralph
+?sephiroth_(infiltration_style) -> final_fantasy final_fantasy_vii final_fantasy_vii:_ever_crisis nier_(series) nier:automata
