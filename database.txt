@@ -2071,3 +2071,4 @@
 ?red_shoes_(nikke) -> goddess_of_victory:_nikke shoujo_kageki_revue_starlight zenless_zone_zero danganronpa_(series) project_moon chainsaw_man limbus_company dragon_ball danganronpa_2:_goodbye_despair jujutsu_kaisen
 ?rouge_(nikke) -> goddess_of_victory:_nikke zenless_zone_zero indie_virtual_youtuber yu-gi-oh! original blue_archive hololive azur_lane hololive_english lycoris_recoil
 ?rouge_(unlucky_rabbit)_(nikke) -> goddess_of_victory:_nikke zenless_zone_zero original blue_archive hololive azur_lane hololive_english indie_virtual_youtuber yu-gi-oh! lycoris_recoil
+?rupee_(nikke) -> goddess_of_victory:_nikke sono_bisque_doll_wa_koi_wo_suru comiket_105 blue_archive last_origin original azur_lane pokemon umamusume fire_emblem
