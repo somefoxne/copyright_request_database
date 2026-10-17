@@ -1828,3 +1828,4 @@
 ?fletcher_(kancolle) -> kantai_collection gundam lawson zeta_gundam pokemon gundam_gquuuuuux i_want_you umamusume marvel original
 ?yudias_velgear -> yu-gi-oh! yu-gi-oh!_go_rush!! neon_genesis_evangelion yu-gi-oh!_duel_monsters evangelion:_30th_anniversary_special_performance bishoujo_senshi_sailor_moon rebuild_of_evangelion evangelion:_3.0_you_can_(not)_redo idolish7 megido72
 ?zuwijo_zir_velgear -> yu-gi-oh! yu-gi-oh!_go_rush!!
+?nihilux_(aeon_aha)_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail honkai_impact_3rd genshin_impact blade_runner_(series) blade_runner_2049 zenless_zone_zero mihoyo
