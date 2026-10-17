@@ -1502,3 +1502,4 @@
 ?chun-li -> street_fighter street_fighter_6 street_fighter_zero_(series) street_fighter_ii_(series) street_fighter_v fatal_fury darkstalkers capcom street_fighter_iv_(series) the_king_of_fighters
 ?shaula_(re:zero) -> re:zero_kara_hajimeru_isekai_seikatsu re:zero_kara_tsugihagu_isekai_seikatsu vocaloid tengen_toppa_gurren_lagann kantai_collection project_moon chainsaw_man library_of_ruina overlord_(maruyama) youkoso_jitsuryoku_shijou_shugi_no_kyoushitsu_e
 ?hiiragi_kagami -> lucky_star vocaloid suzumiya_haruhi_no_yuuutsu k-on! kyoto_animation kantai_collection touhou clannad kagamin_bocchi mahou_shoujo_madoka_magica
+?hiiragi_kagami_(succubus_cheer) -> lucky_star mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) paffendorf gundam advance_of_zeta
