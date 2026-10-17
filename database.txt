@@ -4265,3 +4265,4 @@
 ?nocturna_(dc) -> dc_comics batman_(series)
 ?kate_evans -> ace_combat ace_combat_8
 ?tama_(halloween)_(kancolle) -> kantai_collection little_red_riding_hood_(fairy_tale)
+?tama_(kancolle) -> kantai_collection aoki_hagane_no_arpeggio line_(naver) pokemon jojo_no_kimyou_na_bouken moomin touhou fate_(series) original love_live!
