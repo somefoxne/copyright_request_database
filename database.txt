@@ -4007,3 +4007,4 @@
 ?albis_(tensura) -> tensei_shitara_slime_datta_ken pokemon one_piece fate_(series) arknights fate/stay_night naruto_(series) monogatari_(series) kimetsu_no_yaiba arknights:_endfield
 ?hinomori_shizuku -> project_sekai vocaloid romeo_to_cinderella_(vocaloid) zozotown pokemon shoujo_rei_(vocaloid) love_live! kowareta_sekai_to_utaenai_miku idolmaster bang_dream!
 ?momoi_airi -> project_sekai vocaloid zozotown sanrio my_melody_(series) romeo_to_cinderella_(vocaloid) kowareta_sekai_to_utaenai_miku pokemon momoiro_no_kagi_(vocaloid) sekai_no_housekibako
+?bondrewd -> made_in_abyss umamusume touhou bleach hololive arknights one_piece fullmetal_alchemist fate_(series) fate/grand_order
