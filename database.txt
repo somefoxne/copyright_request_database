@@ -3068,3 +3068,4 @@
 ?gamma_(kagejitsu) -> kage_no_jitsuryokusha_ni_naritakute! kage_no_jitsuryokusha_ni_naritakute!_master_of_garden kadokawa megami_magazine minecraft youkai_watch overlord_(maruyama) newtype comiket_103 isekai_quartet
 ?beatrix_(granblue_fantasy) -> granblue_fantasy granblue_fantasy_versus:_rising granblue_fantasy:_relink shingeki_no_bahamut fate_(series) fate/grand_order granblue_fantasy_versus world_flipper touhou umamusume
 ?cid_kagenou -> kage_no_jitsuryokusha_ni_naritakute! kage_no_jitsuryokusha_ni_naritakute!_master_of_garden dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru_darou_ka tensei_shitara_slime_datta_ken kono_subarashii_sekai_ni_shukufuku_wo! hololive konosuba!_fantastic_days re:zero_kara_hajimeru_isekai_seikatsu overlord_(maruyama) isekai_quartet
+?sukone_tei -> utau vocaloid synthesizer_v a.i._voice mahou_shoujo_madoka_magica original mahou_shoujo_madoka_magica_(anime) voiceroid pokemon idolmaster
