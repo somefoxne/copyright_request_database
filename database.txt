@@ -1942,3 +1942,4 @@
 ?narita_taishin_(nevertheless)_(umamusume) -> umamusume original akari_ga_yatte_kitazo_(vocaloid) pokemon umamusume:_cinderella_gray kantai_collection blue_archive fate_(series) indie_virtual_youtuber gundam
 ?gunshi_minoru -> real_life fire_emblem touhou mahou_shoujo_no_majo_saiban inazuma_eleven_(series) inazuma_eleven inazuma_eleven_victory_road pokemon danganronpa_(series)
 ?maria_(fire_emblem:_fortune's_weave) -> fire_emblem
+?kasuga_ichiban -> ryuu_ga_gotoku_(series) ryuu_ga_gotoku_7 ryuu_ga_gotoku_8 sonic_(series) hololive persona persona_5 sonic_racing:_crossworlds vocaloid sega
