@@ -1785,3 +1785,4 @@
 ?krumroll -> indie_virtual_youtuber original one-punch_man miside vinesauce stellarversepro
 ?sleepiebug -> indie_virtual_youtuber pokemon
 ?ijichi_nijika -> bocchi_the_rock! pokemon bang_dream! k-on! blue_archive chainsaw_man real_life vocaloid sousou_no_frieren
+?yamada_ryo -> bocchi_the_rock! pokemon bang_dream! k-on! real_life girls_band_cry blue_archive original gundam
