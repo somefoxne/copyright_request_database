@@ -3929,3 +3929,4 @@
 ?samura_seiichi -> kagurabachi project_moon limbus_company jujutsu_kaisen undead_unluck aizo_(king_gnu)
 ?leon_cromwell -> tensei_shitara_slime_datta_ken fate_(series) fate/grand_order idolmaster honkai_(series) fire_emblem one_piece honkai_impact_3rd granblue_fantasy dragon_quest
 ?falin_touden_(tallman) -> dungeon_meshi sousou_no_frieren wizarding_world harry_potter_(series) the_legend_of_zelda dungeons_&_dragons pokemon blue_archive
+?izutsumi -> dungeon_meshi pokemon dungeons_&_dragons one_piece original tsukihime arknights kimetsu_no_yaiba
