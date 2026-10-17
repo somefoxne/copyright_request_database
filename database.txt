@@ -3805,3 +3805,4 @@
 ?highlander_(sekaiju) -> sekaiju_no_meikyuu shin_sekaiju_no_meikyuu shin_sekaiju_no_meikyuu_2 sekaiju_no_meikyuu_4
 ?raquna_sheldon -> sekaiju_no_meikyuu shin_sekaiju_no_meikyuu shin_sekaiju_no_meikyuu_2 sekaiju_no_meikyuu_3 sekaiju_no_meikyuu_4 sekaiju_no_meikyuu_1 sekaiju_no_meikyuu_2
 ?shinrin_kaeru_(sekaiju) -> sekaiju_no_meikyuu sekaiju_no_meikyuu_3 sekaiju_no_meikyuu_4 sekaiju_no_meikyuu_1 sekaiju_no_meikyuu_2 shin_sekaiju_no_meikyuu
+?simon_yorke -> sekaiju_no_meikyuu shin_sekaiju_no_meikyuu shin_sekaiju_no_meikyuu_2
