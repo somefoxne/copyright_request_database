@@ -2871,3 +2871,4 @@
 ?uva_(girls_und_panzer) -> girls_und_panzer girls_und_panzer_saishuushou
 ?kafuu_saki -> gochuumon_wa_usagi_desu_ka? megami_magazine manga_time_kirara
 ?mate_rin -> gochuumon_wa_usagi_desu_ka? to_love-ru megami_magazine manga_time_kirara
+?leva_(girls'_frontline_2) -> arknights gundam original hololive zenless_zone_zero jojo_no_kimyou_na_bouken stardust_crusaders zeta_gundam
