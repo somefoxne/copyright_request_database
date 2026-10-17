@@ -2142,3 +2142,4 @@
 ?lilith_(statue)_(machikado_mazoku) -> machikado_mazoku azur_lane gochuumon_wa_usagi_desu_ka? goddess_of_victory:_nikke onii-chan_wa_oshimai! lycoris_recoil dorohedoro manga_time_kirara original touhou
 ?yoshida_yuuko -> machikado_mazoku kirara_fantasia bocchi_the_rock! gochuumon_wa_usagi_desu_ka? kaguya-sama_wa_kokurasetai_~tensai-tachi_no_renai_zunousen~ azur_lane megami_magazine manga_time_kirara watashi_ni_tenshi_ga_maiorita! princess_connect!
 ?berys_(nekojira) -> original
+?cerys_(nekojira) -> original
