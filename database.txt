@@ -2735,3 +2735,4 @@
 ?tina_(kmnz) -> kmnz splatoon_(series) splatoon_3 lavie_(vocaloid) nanashi_inc. starbucks plants_vs._zombies igaku_(utau) the_beatles abbey_road
 ?sirius_(azur_lane) -> azur_lane original fate_(series) fate/grand_order kantai_collection arknights blue_archive hololive genshin_impact
 ?amane_konata -> hololive persona persona_5 comiket_106 persona_5_scramble:_the_phantom_strikers daimajin_(series)
+?female_rover_(wuthering_waves) -> wuthering_waves cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 honkai_(series) honkai:_star_rail genshin_impact comiket_105 mihoyo zenless_zone_zero
