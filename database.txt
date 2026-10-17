@@ -3801,3 +3801,4 @@
 ?alphys -> utdr_(toby_fox) undertale deltarune pokemon mario_(series) animal_crossing sonic_(series) adventure_time among_us mahou_shoujo_madoka_magica
 ?undyne -> utdr_(toby_fox) undertale deltarune touhou pokemon xtale mario_(series) splatoon_(series) animal_crossing hololive
 ?arthur_charles -> sekaiju_no_meikyuu shin_sekaiju_no_meikyuu shin_sekaiju_no_meikyuu_2
+?frederica_irving_(sekaiju) -> sekaiju_no_meikyuu shin_sekaiju_no_meikyuu shin_sekaiju_no_meikyuu_2 sekaiju_no_meikyuu_4 sekaiju_no_meikyuu_3 sekaiju_no_meikyuu_2 sekaiju_no_meikyuu_1 pokemon pokemon_x_and_y shin_megami_tensei
