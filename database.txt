@@ -2438,3 +2438,4 @@
 ?cho-hakkaimon -> digimon digimon_xros_wars digimon_xros_wars:_toki_wo_kakeru_shounen_hunter-tachi digimon_frontier digimon_adventure digimon_adventure_02 digimon_tamers digimon_savers digimon_beatbreak digimon_card_game
 ?clownpiece -> touhou legacy_of_lunatic_kingdom touhou_(pc-98) touhou_lostword touhou_sangetsusei youtube jojo_no_kimyou_na_bouken curiosities_of_lotus_asia touhou_bougetsushou pokemon
 ?hecatia_lapislazuli -> touhou legacy_of_lunatic_kingdom touhou_(pc-98) touhou_lostword cookie_(touhou) touhou_sangetsusei dragon_ball akatsuki_records pokemon touhou_bougetsushou
+?junko_(touhou) -> touhou legacy_of_lunatic_kingdom touhou_(pc-98) touhou_lostword pokemon ten_desires undefined_fantastic_object hidden_star_in_four_seasons perfect_cherry_blossom mountain_of_faith
