@@ -1646,3 +1646,4 @@
 ?iori_junpei -> persona persona_3 persona_3_portable persona_3_reload persona_4 persona_4:_the_ultimate_in_mayonaka_arena persona_5 persona_4:_the_ultimax_ultra_suplex_hold persona_q_(series) persona_2
 ?sanada_akihiko -> persona persona_3 persona_3_portable persona_3_reload persona_4 persona_4:_the_ultimate_in_mayonaka_arena persona_5 persona_2 persona_q_(series) persona_4:_the_ultimax_ultra_suplex_hold
 ?kirijou_mitsuru -> persona persona_3 persona_3_reload persona_3_portable persona_4:_the_ultimate_in_mayonaka_arena persona_4 persona_5 persona_4:_the_ultimax_ultra_suplex_hold persona_dancing fire_emblem
+?lady_black_(shy) -> shy_(series) umamusume
