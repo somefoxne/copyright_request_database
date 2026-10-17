@@ -1612,3 +1612,4 @@
 ?pac-man -> pac-man_(game) mario_(series) super_smash_bros. pokemon kirby_(series) sonic_(series) mega_man_(series) the_legend_of_zelda mega_man_(classic) donkey_kong_(series)
 ?aru_graves -> the_coffin_of_andy_and_leyley original toy_story
 ?higuchi_madoka -> idolmaster idolmaster_shiny_colors idolmaster_shiny_colors_song_for_prism mahjong_soul comiket_99 idolmaster_cinderella_girls elden_ring gakuen_idolmaster blue_archive comiket_100
+?ao-chan_(ninomae_ina'nis) -> hololive hololive_english hololive_indonesia minecraft among_us enigmatic_recollection touhou nier_(series)
