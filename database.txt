@@ -1722,3 +1722,4 @@
 ?dream_journey_(gold-triumph)_(umamusume) -> umamusume
 ?dream_journey_(umamusume) -> umamusume original real_life pakatube jojo_no_kimyou_na_bouken coyote_(board_game) japan_racing_association comiket_105 pokemon gundam
 ?protagonist_5_(housamo) -> tokyo_afterschool_summoners original jujutsu_kaisen animal_crossing animal_crossing:_new_horizons shoukan_yuusha_to_f-kei_kareshi
+?blaze_the_igniting_spark_(homecoming_night)_(arknights) -> arknights
