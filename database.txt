@@ -1184,3 +1184,4 @@
 ?anatolia_(fire_emblem) -> fire_emblem fire_emblem_fates resident_evil resident_evil_4 jojo_no_kimyou_na_bouken fire_emblem:_three_houses real_life vento_aureo fire_emblem:_the_sacred_stones
 ?herta_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail genshin_impact mihoyo honkai_impact_3rd comiket_107 original fate_(series) comiket_106 hololive
 ?the_herta_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail genshin_impact mihoyo comiket_107 honkai_impact_3rd fate_(series) original fate/stay_night spongebob_squarepants_(series)
+?hau_(sygna_suit)_(pokemon) -> pokemon pokemon_masters_ex pokemon_sun_and_moon pokemon_legends:_z-a
