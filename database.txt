@@ -2093,3 +2093,4 @@
 ?meisho_doto_(turbulent_blue)_(umamusume) -> umamusume umamusume:_road_to_the_top real_life umamusume:_beginning_of_a_new_era original dc_comics batman_(series) umamusume:_cinderella_gray absolute_dc absolute_batman
 ?stay_gold_(sunlit_outsider)_(umamusume) -> umamusume original real_life jojo_no_kimyou_na_bouken kino_no_tabi gundam stardust_crusaders vento_aureo umamusume:_cinderella_gray pokemon
 ?flonne -> disgaea makai_senki_disgaea makai_senki_disgaea_2 disgaea_d2 nippon_ichi disgaea_rpg makai_senki_disgaea_4 makai_senki_disgaea_3 gundam precure
+?flonne_(archangel) -> disgaea makai_senki_disgaea makai_senki_disgaea_4 nippon_ichi disgaea_rpg makai_senki_disgaea_2 makai_senki_disgaea_3 makai_senki_disgaea_5 makai_senki_disgaea_7 makai_wars
