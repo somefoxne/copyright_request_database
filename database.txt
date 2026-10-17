@@ -1951,3 +1951,4 @@
 ?eshmel_(pale_raven)_(fire_emblem) -> fire_emblem fire_emblem_heroes fire_emblem:_radiant_dawn angry_birds angry_birds:_dice
 ?nezha_(fire_emblem) -> fire_emblem
 ?phoebe_(wuthering_waves) -> wuthering_waves blue_archive arknights lawson gs25 arknights:_endfield cardcaptor_sakura genshin_impact honkai_(series) honkai:_star_rail
+?nakano_ichika -> go-toubun_no_hanayome megami_magazine comiket_98 pokemon comiket_96 kimetsu_no_yaiba starbucks hataraku_saibou comiket_105 amagami-san_chi_no_enmusubi
