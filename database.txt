@@ -3301,3 +3301,4 @@
 ?tribios_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail honkai_impact_3rd genshin_impact mihoyo pokemon
 ?blade_(honkai:_nexus_anima) -> honkai_(series) honkai:_nexus_anima
 ?cublade_(honkai:_nexus_anima) -> honkai_(series) honkai:_nexus_anima honkai:_star_rail pokemon
+?nijigaoka_mashiro -> precure hirogaru_sky!_precure tropical-rouge!_precure futari_wa_precure delicious_party_precure wonderful_precure! kirakira_precure_a_la_mode mahou_tsukai_precure! hugtto!_precure
