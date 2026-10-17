@@ -3131,3 +3131,4 @@
 ?chika_tatehara -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_restart
 ?james_gordon_(absolute_dc) -> dc_comics absolute_dc absolute_batman batman_(series)
 ?hyakumantenbara_salome -> nijisanji resident_evil nijisanji_en yu-gi-oh! nijisanji_koshien resident_evil_7:_biohazard hololive danganronpa_(series) nijisanji_kr pokemon
+?hyakumantenbara_salome_(casual) -> nijisanji umamusume lawson kyu-kurarin_(cevio)
