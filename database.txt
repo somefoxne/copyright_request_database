@@ -1478,3 +1478,4 @@
 ?nurse_joy -> pokemon pokemon_(anime) pokemon_(classic_anime) pokemon_legends:_z-a pokemon_the_series:_sun_&_moon pokemon_sword_and_shield pokemon_scarlet_and_violet pokemon_the_series:_xy pokemon_sun_and_moon pokemon_the_series:_black_&_white
 ?chocola_(nekopara) -> nekopara original nekopara_sekai_connect touhou pokemon cat_fantasy azur_lane dengeki_moeoh kantai_collection blue_archive
 ?panty_(psg) -> panty_&_stocking_with_garterbelt kill_la_kill tengen_toppa_gurren_lagann trigger_(company) pokemon neon_genesis_evangelion gainax touhou mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime)
+?matoi_ryuuko -> kill_la_kill trigger_(company) tengen_toppa_gurren_lagann little_witch_academia original pokemon fate_(series) panty_&_stocking_with_garterbelt touhou chainsaw_man
