@@ -3029,3 +3029,4 @@
 ?makinami_mari_illustrious -> neon_genesis_evangelion rebuild_of_evangelion evangelion:_2.0_you_can_(not)_advance evangelion:_3.0_you_can_(not)_redo evangelion:_3.0+1.0_thrice_upon_a_time goddess_of_victory:_nikke pokemon original fate_(series) bishoujo_senshi_sailor_moon
 ?buccar_(fire_emblem) -> fire_emblem
 ?dio_brando -> jojo_no_kimyou_na_bouken stardust_crusaders phantom_blood vento_aureo stone_ocean battle_tendency diamond_wa_kudakenai steel_ball_run touhou jojolion
+?artoria_pendragon_(lancer_alter)_(fate) -> fate_(series) fate/grand_order fate/apocrypha fate/stay_night fate/extra original sword_art_online kantai_collection hololive azur_lane
