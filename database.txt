@@ -1165,3 +1165,4 @@
 ?lillie_(pokemon) -> pokemon pokemon_sun_and_moon pokemon_(anime) pokemon_the_series:_sun_&_moon pokemon_masters_ex pokemon_ultra_sun_and_ultra_moon pokemon_journeys pokemon_sword_and_shield pokemon_the_series:_xy pokemon_(classic_anime)
 ?selene_(pokemon) -> pokemon pokemon_sun_and_moon pokemon_ultra_sun_and_ultra_moon pokemon_black_and_white pokemon_black_2_and_white_2 pokemon_diamond/pearl/platinum pokemon_x_and_y pokemon_sword_and_shield pokemon_heartgold_and_soulsilver pokemon_firered_and_leafgreen
 ?chao_(chao) -> chao_(movie)
+?ashveil_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail genshin_impact anime_expo touhou zenless_zone_zero alien_stage sanrio
