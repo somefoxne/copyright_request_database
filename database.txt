@@ -3167,3 +3167,4 @@
 ?anemone_(summer)_(princess_connect!) -> princess_connect! cygames
 ?clear_(princess_connect!) -> princess_connect! cygames umamusume
 ?clear_(summer)_(princess_connect!) -> princess_connect! cygames umamusume
+?yanagiya_otome -> devil_survivor_(series) devil_survivor_2 fire_emblem persona persona_5 fire_emblem_awakening
