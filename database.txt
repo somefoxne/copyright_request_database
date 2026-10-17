@@ -3338,3 +3338,4 @@
 ?riliane_lucifen_d'autriche -> vocaloid evillious_nendaiki aku_no_musume_(vocaloid) aku_no_meshitsukai_(vocaloid) miku_symphony_(vocaloid) aku_no_musume_(series) regret_message_(vocaloid) akujiki_musume_conchita_(vocaloid) enbizaka_no_shitateya_(vocaloid) project_sekai
 ?eureka_de_soleil -> galleria_no_chika_meikyuu_to_majo_no_ryodan kyu-kurarin_(cevio)
 ?deidara_(naruto) -> naruto_(series) naruto_shippuuden naruto_(classic) naruto_shippuuden:_ultimate_ninja_blazing boruto_(series) one_piece boruto:_naruto_next_generations sanrio hunter_x_hunter pokemon
+?sasori_(naruto) -> naruto_(series) naruto_shippuuden naruto_(classic) naruto_shippuuden:_ultimate_ninja_blazing boruto_(series) boruto:_naruto_next_generations pokemon sanrio neon_genesis_evangelion tales_of_(series)
