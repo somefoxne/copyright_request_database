@@ -2530,3 +2530,4 @@
 ?nanakusa_nichika -> idolmaster idolmaster_shiny_colors idolmaster_shiny_colors_song_for_prism pokemon idolmaster_cinderella_girls gundam idolmaster_(classic) dars love_live! idolmaster_million_live!
 ?grave_(nikke) -> goddess_of_victory:_nikke zozotown oshi_no_ko shoujo_kageki_revue_starlight a-1_pictures blue_archive fate_(series) fate/grand_order zenless_zone_zero final_fantasy
 ?rhein_kraft_(dream_successor)_(umamusume) -> umamusume minecraft blue_archive nijisanji real_life gintama comiket_104 meiji_(brand) umamusume:_peace_peace_cepea_cepea_golshi-chan manga_nippon_mukashi_banashi
+?himeko_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail honkai_impact_3rd mihoyo genshin_impact zenless_zone_zero fate_(series) honkai_gakuen original pokemon
