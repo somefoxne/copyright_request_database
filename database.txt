@@ -1223,3 +1223,4 @@
 ?kirigiri_kyoko -> danganronpa_(series) danganronpa:_trigger_happy_havoc danganronpa_2:_goodbye_despair danganronpa_v3:_killing_harmony danganronpa_kirigiri danganronpa_another_episode:_ultra_despair_girls danganronpa/zero
 ?aiba_ami -> digimon digimon_story:_cyber_sleuth digimon_card_game digimon_world_re:digitize digimon_story:_time_stranger digimon_story:_sunburst_and_moonlight digimon_world_-next_0rder- digimon_adventure digimon_adventure_02
 ?kamishiro_yuuko -> digimon digimon_story:_cyber_sleuth digimon_card_game bandai bocchi_the_rock! digimon_adventure digimon_story:_time_stranger digimon_world_re:digitize digimon_adventure:_bokura_no_war_game
+?kuremi_kyouko -> digimon digimon_story:_cyber_sleuth digimon_story:_time_stranger digimon_card_game digimon_world_-next_0rder- re:zero_kara_hajimeru_isekai_seikatsu bandai digimon_world_re:digitize yotsubato!
