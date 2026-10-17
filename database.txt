@@ -3436,3 +3436,4 @@
 ?pyramid_head -> silent_hill_(series) silent_hill_2 silent_hill_(movie) silent_hill_3 dead_by_daylight touhou resident_evil final_fantasy silent_hill_4:_the_room silent_hill_1
 ?aisaka_koko -> cinderella_series hachigatsu_no_cinderella_nine hokkaido_nippon-ham_fighters chiba_lotte_marines suzumiya_haruhi_no_yuuutsu orix_buffaloes saitama_seibu_lions fukuoka_softbank_hawks touhoku_rakuten_golden_eagles the_game_of_life_(board_game)
 ?hanayama_emi -> cinderella_series hachigatsu_no_cinderella_nine orix_buffaloes touhoku_rakuten_golden_eagles tokyo_yakult_swallows hokkaido_nippon-ham_fighters saitama_seibu_lions fukuoka_softbank_hawks the_game_of_life_(board_game) chiba_lotte_marines
+?ishmael_(project_moon) -> project_moon limbus_company arknights lobotomy_corporation library_of_ruina mili_(band) original compass_(mili) karaoke_manekineko vocaloid
