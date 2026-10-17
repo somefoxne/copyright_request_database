@@ -1130,3 +1130,4 @@
 ?phinx_(robotics;notes) -> science_adventure robotics;notes steins;gate chaos;head chaos;child occultic;nine kidou_battle_gunvarrel 5pb. robotics;notes_dash anonymous;code
 ?senomiya_akiho -> science_adventure robotics;notes robotics;notes_dash steins;gate chaos;head chaos;child kidou_battle_gunvarrel occultic;nine skal 5pb.
 ?upa_(steins;gate) -> science_adventure steins;gate steins;gate_0 robotics;notes chaos;head chaos;child occultic;nine steins;gate:_linear_bounded_phenogram kidou_battle_gunvarrel
+?igla_(girls'_frontline_2) -> ghost_in_the_shell
