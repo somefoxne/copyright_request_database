@@ -3357,3 +3357,4 @@
 ?runami_yachiyo_(ex-otogibanashi) -> cho_kaguya-hime! world_is_mine_(vocaloid) the_first_take pokemon bocchi_the_rock! instagram fukkireta
 ?sakayori_iroha_(ex-otogibanashi) -> cho_kaguya-hime! world_is_mine_(vocaloid) pokemon bocchi_the_rock! magnet_(vocaloid) fukkireta the_first_take
 ?sukuna_shinmyoumaru -> touhou double_dealing_character touhou_(pc-98) urban_legend_in_limbo touhou_lostword impossible_spell_card shingeki_no_kyojin pokemon forbidden_scrollery legacy_of_lunatic_kingdom
+?sirius_(starly_girls) -> starly_girls
