@@ -1108,3 +1108,4 @@
 ?hataya_misuzu -> idolmaster gakuen_idolmaster kimi_to_semi_blue_(idolmaster) star-mine_(idolmaster) comiket_107 veil_(idolmaster) tsuki_no_kame_(idolmaster) comiket_106 nee_icchau_yo_(idolmaster) taisetsu_na_mono_(idolmaster)
 ?aston_machan_(umamusume) -> umamusume umamusume:_cinderella_gray original pokemon real_life jojo_no_kimyou_na_bouken kamen_rider idolmaster umamusume:_road_to_the_top shigatsu_wa_kimi_no_uso
 ?yin_(krass) -> original
+?otori_tan -> seitokai_ni_mo_ana_wa_aru! onii-chan_wa_oshimai! fate_(series) fate/grand_order gundam jojo_no_kimyou_na_bouken re:zero_kara_hajimeru_isekai_seikatsu gundam_gquuuuuux little_busters! nige_jouzu_no_wakagimi
