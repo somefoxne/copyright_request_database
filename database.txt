@@ -3404,3 +3404,4 @@
 ?collei_(genshin_impact) -> genshin_impact duolingo pokemon monogatari_(series) mihoyo yoasobi honkai_(series) honkai_impact_3rd little_red_riding_hood_(fairy_tale)
 ?noire_(neptunia) -> neptune_(series) choujigen_game_neptune kami_jigen_game_neptune_v four_goddesses_online:_cyber_dimension_neptune shin_jigen_game_neptune_vii chou_megami_shinkou_noire_gekishin_black_heart choujigen_game_neptune_mk2 gekijigen_tag:_blanc_+_neptune_vs_zombie_gundan mainichi_compile_heart brave_neptune
 ?saotome_shino_(shino_to_ren) -> shino_to_ren comiket_105 little_red_riding_hood_(fairy_tale) snow_white_(fairy_tale) bang_dream! mahou_shoujo_no_majo_saiban comiket_102 amazon_(company)
+?shirayuki_ren -> shino_to_ren comiket_105 little_red_riding_hood_(fairy_tale) snow_white_(fairy_tale) bang_dream! mahou_shoujo_no_majo_saiban comiket_102 amazon_(company)
