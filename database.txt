@@ -1988,3 +1988,4 @@
 ?kita_ikuyo -> bocchi_the_rock! pokemon girls_band_cry bang_dream! k-on! cardcaptor_sakura sousou_no_frieren umamusume chainsaw_man
 ?monica_melodia -> varium
 ?soukaku_(zenless_zone_zero) -> zenless_zone_zero genshin_impact mihoyo umamusume marvel original pokemon wuthering_waves kemono_friends guilty_gear
+?seraphina_(disgaea) -> disgaea makai_senki_disgaea_5 disgaea_rpg makai_senki_disgaea_2 makai_senki_disgaea makai_senki_disgaea_4 makai_senki_disgaea_3 makai_senki_disgaea_6 disgaea_d2 makai_senki_disgaea_7
