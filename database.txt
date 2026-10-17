@@ -1455,3 +1455,4 @@
 ?watari_nina -> touhou fossilized_wonders the_birth_of_venus real_life reitaisai touhou_(pc-98) the_matrix voicevox trickcal
 ?fabio_gil_toro_alvarez -> fire_emblem pokemon fire_emblem:_three_houses dragon_ball dragon_ball_z fire_emblem_warriors:_three_hopes hokuto_no_ken
 ?mikaela_ogosto -> fire_emblem
+?yang_jie_(fire_emblem) -> fire_emblem
