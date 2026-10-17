@@ -3663,3 +3663,4 @@
 ?niwatari_kutaka -> touhou wily_beast_and_weakest_creature touhou_lostword touhou_(pc-98) kfc sunken_fossil_world pokemon hakurei_frontier_spell_strive team_fortress_2 touhou_bougetsushou
 ?yuna_(haishiki) -> original inemuri_hitsuji
 ?miyadeguchi_mizuchi -> touhou foul_detective_satori touhou_(pc-98) forbidden_scrollery dolls_in_pseudo_paradise lotus_eaters story_of_eastern_wonderland wild_and_horned_hermit touhou_sangetsusei touhou_lostword
+?brazilian_miku -> vocaloid world_cup 2026_fifa_world_cup hololive utau hololive_english the_ring original sonic_(series) indie_virtual_youtuber
