@@ -2600,3 +2600,4 @@
 ?haunter -> pokemon pokemon_x_and_y pokemon_heartgold_and_soulsilver pokemon_firered_and_leafgreen pokemon_red/green/blue/yellow pokemon_(anime) pokemon_sun_and_moon pokemon_legends:_z-a pokemon_sword_and_shield pokemon_diamond/pearl/platinum
 ?phantump -> pokemon pokemon_x_and_y pokemon_sun_and_moon pokemon_sword_and_shield pokemon_(anime) pokemon_legends:_z-a vocaloid pokemon_diamond/pearl/platinum project_voltage pokemon_black_and_white
 ?pokemon_tower_ghost -> pokemon pokemon_red/green/blue/yellow pokemon_x_and_y pokemon_firered_and_leafgreen pokemon_(anime) pokemon_legends:_z-a siivagunner original touhou
+?pumpkaboo -> pokemon pokemon_x_and_y pokemon_sword_and_shield pokemon_sun_and_moon pokemon_(anime) pokemon_legends:_z-a pokemon_masters_ex pokemon_diamond/pearl/platinum pokemon_black_and_white vocaloid
