@@ -2833,3 +2833,4 @@
 ?enmu_(kimetsu_no_yaiba) -> kimetsu_no_yaiba villain_(vocaloid) sekiro:_shadows_die_twice pokemon pokemon_masters_ex wizarding_world harry_potter_(series) puyopuyo houseki_no_kuni azumanga_daioh
 ?anko_(gochiusa) -> gochuumon_wa_usagi_desu_ka? manga_time_kirara kin-iro_mosaic clockwork_rabbit chimame_chronicle sanrio genshin_impact new_game! lawson
 ?wild_geese -> gochuumon_wa_usagi_desu_ka? clockwork_rabbit chimame_chronicle manga_time_kirara genshin_impact bocchi_the_rock! sanrio new_game! lawson
+?yukihana_lamy_(cyber) -> hololive comiket_107 pokemon touhou cupid_(amane_kanata)
