@@ -2401,3 +2401,4 @@
 ?komeiji_satori -> touhou subterranean_animism reitaisai reitaisai_8_contest touhou_(pc-98) touhou_lostword touhou_tag_dream tobaku_mokushiroku_kaiji foul_detective_satori pokemon
 ?hiiragi_mizuha_(eruu) -> original
 ?alice_thymefield_(sea_of_thyme) -> zenless_zone_zero genshin_impact mihoyo blue_archive ruri_no_houseki honkai_(series) honkai:_star_rail carnival_phantasm
+?ibuki_suika -> touhou cookie_(touhou) touhou_(pc-98) touhou_tag_dream original immaterial_and_missing_power scarlet_weather_rhapsody touhou_lostword manatsu_no_yo_no_inmu pokemon
