@@ -2032,3 +2032,4 @@
 ?izayoi_aki -> yu-gi-oh! yu-gi-oh!_gx yu-gi-oh!_duel_monsters yu-gi-oh!_zexal yu-gi-oh!_vrains yu-gi-oh!_arc-v yu-gi-oh!_sevens yu-gi-oh!_go_rush!! code_geass
 ?sen_no_rikyu_(fate) -> fate_(series) fate/grand_order learning_with_manga!_fgo fate/grand_order_arcade pokemon fate/zero fate/kaleid_liner_prisma_illya fate/samurai_remnant lord_el-melloi_ii_case_files comiket_105
 ?sen_no_rikyu_(second_ascension)_(fate) -> fate_(series) fate/grand_order learning_with_manga!_fgo pokemon shingeki_no_kyojin comiket_102 fate/grand_order_arcade tokyo_osamurai_land
+?florence_nightingale_(fate) -> fate_(series) fate/grand_order fate/apocrypha fate/extra fate/extra_ccc original fate/stay_night umamusume kantai_collection blue_archive
