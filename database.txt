@@ -2673,3 +2673,4 @@
 ?marnie_(pokemon) -> pokemon pokemon_sword_and_shield pokemon_masters_ex pokemon_sun_and_moon pokemon_scarlet_and_violet pokemon_black_2_and_white_2 pokemon_diamond/pearl/platinum pokemon_black_and_white pokemon_(anime) pokemon_omega_ruby_and_alpha_sapphire
 ?morpeko -> pokemon pokemon_sword_and_shield pokemon_scarlet_and_violet pokemon_(anime) pokemon_masters_ex pokemon_journeys pokemon_sun_and_moon pokemon_black_and_white pokemon_tcg pokemon_(classic_anime)
 ?morpeko_(full) -> pokemon pokemon_sword_and_shield pokemon_scarlet_and_violet pokemon_(anime) pokemon_masters_ex pokemon_journeys pokemon_sun_and_moon pokemon_black_and_white pokemon_diamond/pearl/platinum pokemon_black_2_and_white_2
+?rokuta_(paradox_live) -> paradox_live arknights cardcaptor_sakura sanrio wizarding_world harry_potter_(series)
