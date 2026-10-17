@@ -3359,3 +3359,4 @@
 ?sukuna_shinmyoumaru -> touhou double_dealing_character touhou_(pc-98) urban_legend_in_limbo touhou_lostword impossible_spell_card shingeki_no_kyojin pokemon forbidden_scrollery legacy_of_lunatic_kingdom
 ?sirius_(starly_girls) -> starly_girls
 ?arlecchino_(genshin_impact) -> genshin_impact mihoyo honkai_(series) honkai:_star_rail original honkai_impact_3rd zenless_zone_zero wuthering_waves among_us blue_archive
+?komaeda_nagito -> danganronpa_(series) danganronpa_2:_goodbye_despair danganronpa_another_episode:_ultra_despair_girls danganronpa:_trigger_happy_havoc danganronpa_v3:_killing_harmony danganronpa_s:_ultimate_summer_camp pokemon
