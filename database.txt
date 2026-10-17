@@ -2390,3 +2390,4 @@
 ?peggy_lee -> gundam victory_gundam gundam_suisei_no_majo zombie_land_saga newtype
 ?francesca_o'hara -> gundam victory_gundam gundam_suisei_no_majo
 ?mitsuhirato_(tintin) -> tintin
+?snowy_(final_gear) -> final_gear the_wizard_of_oz tintin
