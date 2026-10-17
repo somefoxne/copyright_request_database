@@ -3639,3 +3639,4 @@
 ?tails_(sonic) -> sonic_(series) sonic_the_hedgehog_(classic) the_murder_of_sonic_the_hedgehog sonic_the_hedgehog_(idw) sonic_(live_action) sega sonic_adventure sonic_adventure_2 sonic_boom_(series) mario_(series)
 ?ryuujou_(kancolle) -> kantai_collection line_(naver) aoki_hagane_no_arpeggio mario_(series) azumanga_daioh gundam jojo_no_kimyou_na_bouken neon_genesis_evangelion super_mario-kun original
 ?t-head_admiral -> kantai_collection comiket_95 idolmaster azur_lane warship_girls_r umamusume gundam fate_(series) lawson jojo_no_kimyou_na_bouken
+?snom -> pokemon pokemon_sword_and_shield pokemon_scarlet_and_violet vshojo original pokemon_(anime) vocaloid pokemon_journeys pokemon_tcg project_voltage
