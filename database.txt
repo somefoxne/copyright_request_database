@@ -1452,3 +1452,4 @@
 ?senri_ayumu -> nijisanji pokemon nijisanji_en nijisanji_kr nijisanji_id
 ?fallenshadow -> indie_virtual_youtuber original phase_connect real_life blue_archive vedal_ai vershion touhou arknights sonic_(series)
 ?ashido_mina -> boku_no_hero_academia boku_no_hero_academia:_more dragon_ball dragon_ball_fighterz pokemon street_fighter jujutsu_kaisen chainsaw_man dc_comics one_piece
+?watari_nina -> touhou fossilized_wonders the_birth_of_venus real_life reitaisai touhou_(pc-98) the_matrix voicevox trickcal
