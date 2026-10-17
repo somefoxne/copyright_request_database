@@ -3044,3 +3044,4 @@
 ?karede_yura -> gochuumon_wa_usagi_desu_ka? pudu_robotics
 ?piper_wheel -> zenless_zone_zero blue_archive original genshin_impact guilty_gear real_life transformers mihoyo death_stranding pokemon
 ?tenma_maemi -> phase_connect hollow_knight metal_gear_(series) original indie_virtual_youtuber blue_archive tenga hololive marvel dragon_quest
+?gabriel_(summon_night) -> summon_night summon_night:_swordcraft_story_2 summon_night:_swordcraft_story
