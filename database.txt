@@ -2459,3 +2459,4 @@
 ?richard_aiken -> resident_evil resident_evil_1 resident_evil_0
 ?asaga_(i3if3b) -> original genshin_impact
 ?durin_(genshin_impact) -> genshin_impact zenless_zone_zero mihoyo honkai_(series) honkai:_star_rail original duolingo eve_(musician) vocaloid final_fantasy
+?mini_durin_(genshin_impact) -> genshin_impact zenless_zone_zero mihoyo eve_(musician) original honkai_(series) honkai:_star_rail chainsaw_man wizarding_world harry_potter_(series)
