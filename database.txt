@@ -4013,3 +4013,4 @@
 ?piccolo -> dragon_ball dragon_ball_z dragon_ball_super dragon_ball_super_super_hero dragon_ball_(classic) touhou dragon_ball_daima dragon_ball_gt dragon_ball_super_broly dragon_quest
 ?santa_claus_(chainsaw_man) -> chainsaw_man neon_genesis_evangelion marvel rebuild_of_evangelion spider-man_(series) sono_bisque_doll_wa_koi_wo_suru black_lagoon evangelion:_3.0+1.0_thrice_upon_a_time instagram
 ?stella_maiougi -> rose_guns_days higurashi_no_naku_koro_ni umineko_no_naku_koro_ni
+?oumi_shiori -> watashi_wo_tabetai_hitodenashi vocaloid nijisanji newtype yagate_kimi_ni_naru the_lovers_(studio_heartbreak) kantai_collection hololive indie_virtual_youtuber chainsaw_man
