@@ -1789,3 +1789,4 @@
 ?mortis_(bang_dream!) -> bang_dream! killkiss_(bang_dream!) arknights bang_dream!_our_notes bang_dream!_girls_band_party! girls_band_cry the_shining hachibousei_dance_(bang_dream!) ganso!_bang_dream_chan
 ?mortis_(costume)_(bang_dream!) -> bang_dream! killkiss_(bang_dream!) arknights girls_band_cry bang_dream!_our_notes bang_dream!_girls_band_party! umineko_no_naku_koro_ni ganso!_bang_dream_chan kao_(bang_dream!)
 ?wakaba_mutsumi -> bang_dream! arknights killkiss_(bang_dream!) bang_dream!_girls_band_party! bang_dream!_our_notes girls_band_cry bocchi_the_rock! ganso!_bang_dream_chan umineko_no_naku_koro_ni
+?clara_bow -> wings_(1927_movie)
