@@ -1003,3 +1003,4 @@
 ?tokai_teio_(peak_joy)_(umamusume) -> umamusume umamusume:_cinderella_gray real_life fate_(series) kantai_collection pokemon fate/grand_order nichijou cygames umamusume:_party_dash
 ?tokai_teio_(umamusume) -> umamusume umamusume:_cinderella_gray original real_life umayuru cygames pakatube kantai_collection pokemon hololive
 ?cheval_grand_(grand_itineraire)_(umamusume) -> umamusume pokemon real_life yokohama_dena_baystars original blue_archive fate_(series) idolmaster jojo_no_kimyou_na_bouken kamen_rider
+?cheval_grand_(umamusume) -> umamusume sanrio original yokohama_dena_baystars real_life pokemon blue_archive bocchi_the_rock! yu-gi-oh! umamusume:_cinderella_gray
