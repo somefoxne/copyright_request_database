@@ -3339,3 +3339,4 @@
 ?eureka_de_soleil -> galleria_no_chika_meikyuu_to_majo_no_ryodan kyu-kurarin_(cevio)
 ?deidara_(naruto) -> naruto_(series) naruto_shippuuden naruto_(classic) naruto_shippuuden:_ultimate_ninja_blazing boruto_(series) one_piece boruto:_naruto_next_generations sanrio hunter_x_hunter pokemon
 ?sasori_(naruto) -> naruto_(series) naruto_shippuuden naruto_(classic) naruto_shippuuden:_ultimate_ninja_blazing boruto_(series) boruto:_naruto_next_generations pokemon sanrio neon_genesis_evangelion tales_of_(series)
+?wakaba_mutsumi_(doll) -> bang_dream! arknights ganso!_bang_dream_chan the_legend_of_zelda bang_dream!_girls_band_party! killkiss_(bang_dream!) original mahou_shoujo_madoka_magica marvel
