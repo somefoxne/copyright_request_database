@@ -1068,3 +1068,4 @@
 ?terriermon -> digimon digimon_tamers digimon_story:_cyber_sleuth digimon_adventure_02 digimon_card_game digimon_story:_time_stranger digimon_adventure digimon_frontier digimon_savers digimon_xros_wars
 ?flins_(genshin_impact) -> genshin_impact honkai_(series) honkai:_star_rail mihoyo pokemon baskin-robbins original duolingo zenless_zone_zero honkai_impact_3rd
 ?monodramon -> digimon digimon_beatbreak digimon_tamers digimon_card_game digimon_adventure digimon_adventure_02 digimon_frontier digimon_story:_time_stranger digimon_universe:_appli_monsters digimon_savers
+?souda_raito -> digimon digimon_beatbreak iii_(hololive)
