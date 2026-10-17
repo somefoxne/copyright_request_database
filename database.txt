@@ -3935,3 +3935,4 @@
 ?marceline_abadeer -> adventure_time adventure_time:_fionna_and_cake adventure_time:_distant_lands dc_comics avatar_legends teen_titans the_legend_of_korra adventure_time_(comic) league_of_legends the_owl_house
 ?female_trainer_(umamusume) -> umamusume original umamusume:_beginning_of_a_new_era kantai_collection umamusume:_cinderella_gray real_life pokemon comiket_105 nhk_(broadcaster) nijisanji
 ?white_gundam -> gundam gundam_gquuuuuux mobile_suit_gundam sd_gundam bandai gundam_arsenal_base mobile_suit_gundam_the_origin gundam_card_game original zeta_gundam
+?fujiwara_chika -> kaguya-sama_wa_kokurasetai_~tensai-tachi_no_renai_zunousen~ machikado_mazoku original kantai_collection bocchi_the_rock! spy_x_family mairimashita!_iruma-kun fate_(series) hololive jojo_no_kimyou_na_bouken
