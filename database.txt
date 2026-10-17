@@ -2307,3 +2307,4 @@
 ?xion_(trickcal) -> trickcal blue_archive naruto_(series) yani_neko akira_(manga) greek_mythology helldivers_(series) the_creation_of_adam hibana_(vocaloid) bokete
 ?tsubakihara_mira -> comic_exe 3piece original comic_g-es
 ?kei_(decagrammaton)_(blue_archive) -> blue_archive jujutsu_kaisen the_ring gundam comiket_108 persona the_legend_of_zelda dragon_ball persona_5 kirby_(series)
+?ump45_(girls'_frontline) -> kantai_collection arknights original metal_gear_(series) alien_(series) alien_(1979) azur_lane fate_(series)
