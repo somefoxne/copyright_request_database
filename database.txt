@@ -4176,3 +4176,4 @@
 ?serval_(kemono_friends) -> kemono_friends kemono_friends_3 kemono_friends_2 kantai_collection touhou jojo_no_kimyou_na_bouken dragon_ball japan_racing_association original survival_friends
 ?astolfo_(memories_at_trifas)_(fate) -> fate_(series) fate/apocrypha fate/grand_order original fate/extra fate/extella fate/extella_link comiket_93 guilty_gear guilty_gear_strive
 ?astolfo_(rider)_(fate) -> fate_(series) fate/apocrypha fate/grand_order fate/extra learning_with_manga!_fgo original fate/extella fate/extella_link fate/stay_night fate/extra_ccc
+?astolfo_(saber)_(fate) -> fate_(series) fate/grand_order fate/apocrypha original fate/extra fate/extella fate/extella_link kantai_collection learning_with_manga!_fgo arknights
