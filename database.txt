@@ -3135,3 +3135,4 @@
 ?higuchi_kaede -> nijisanji mito_and_kaede pokemon nijisanji_koshien nijisanji_en hololive indie_virtual_youtuber nijisanji_kr nijisanji_gta vspo!
 ?higuchi_kaede_(1st_costume) -> nijisanji mito_and_kaede pokemon hololive nijisanji_en vspo! sanrio youtube nijisanji_kr the_human_centipede
 ?grima_(dragon)_(fire_emblem) -> fire_emblem fire_emblem_awakening fire_emblem_heroes fire_emblem_cipher fire_emblem_fates fire_emblem_engage fire_emblem:_three_houses super_smash_bros. fire_emblem:_mystery_of_the_emblem
+?cyrene_(philia093)_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail honkai_impact_3rd mihoyo zenless_zone_zero genshin_impact comiket_107 fate_(series) wuthering_waves fate/grand_order
