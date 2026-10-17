@@ -2780,3 +2780,4 @@
 ?takagi_keisuke -> devil_survivor_(series) devil_survivor_1 megami_tensei touhou shin_megami_tensei durarara!! atlus
 ?hieda_no_akyuu -> touhou touhou_(pc-98) forbidden_scrollery touhou_tag_dream touhou_lostword embodiment_of_scarlet_devil imperishable_night perfect_cherry_blossom undefined_fantastic_object mountain_of_faith
 ?mavuika_(genshin_impact) -> genshin_impact mihoyo zenless_zone_zero honkai_(series) honkai:_star_rail original wuthering_waves honkai_impact_3rd pokemon
+?venti_(genshin_impact) -> genshin_impact mihoyo honkai_(series) fate_(series) honkai:_star_rail honkai_impact_3rd pokemon the_legend_of_zelda fate/grand_order fate/apocrypha
