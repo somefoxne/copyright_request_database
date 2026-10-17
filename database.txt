@@ -2164,3 +2164,4 @@
 ?verity_(artofthejackyl) -> original marvel the_sensational_she-hulk
 ?bridget_(guilty_gear) -> guilty_gear guilty_gear_strive guilty_gear_xx fate_(series) tower_records fate/grand_order guilty_gear_xrd guilty_gear_strive:_dual_rulers re:zero_kara_hajimeru_isekai_seikatsu blazblue
 ?hoshino_(armed)_(blue_archive) -> blue_archive jujutsu_kaisen blue_archive_the_animation monster_hunter_(series) gundam jojo_no_kimyou_na_bouken project_moon stardust_crusaders comiket_105 spongebob_squarepants_(series)
+?nanaya_shiki -> tsukihime melty_blood tsukihime_(remake) kagetsu_tooya touhou m.u.g.e.n type-moon fate_(series) kara_no_kyoukai melty_blood:_type_lumina
