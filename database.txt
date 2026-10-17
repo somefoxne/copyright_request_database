@@ -3742,3 +3742,4 @@
 ?sadamori_himeka -> assault_lily jojo_no_kimyou_na_bouken vento_aureo yuusha_de_aru yuuki_yuuna_wa_yuusha_de_aru momotarou
 ?tamba_akari -> assault_lily pokemon genshin_impact jojo_no_kimyou_na_bouken splatoon_(series) real_life vento_aureo shoujo_kageki_revue_starlight super_robot_wars yuusha_de_aru
 ?toki_kureha -> assault_lily yuusha_de_aru yuuki_yuuna_wa_yuusha_de_aru blue_archive real_life papico_(ice_cream) momotarou ametalk!
+?yokota_haruna -> assault_lily yuusha_de_aru yuuki_yuuna_wa_yuusha_de_aru line_(naver)
