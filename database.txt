@@ -4243,3 +4243,4 @@
 ?ultand_serowain -> fire_emblem fire_emblem:_three_houses mario_(series) super_mario_64
 ?poison_ivy -> dc_comics batman_(series) harley_quinn_(cartoon) absolute_dc absolute_batman batman:_arkham_(series) marvel superman_(series) fortnite avatar_legends
 ?hrist_valkyrie -> valkyrie_profile_(series) valkyrie_anatomia valkyrie_profile_2:_silmeria valkyrie_profile_1 project_tokyo_dolls final_fantasy gundam precure guilty_gear real_life
+?lenneth_valkyrie -> valkyrie_profile_(series) valkyrie_profile_1 valkyrie_anatomia star_ocean star_ocean:_till_the_end_of_time star_ocean:_the_second_story odin_sphere project_tokyo_dolls star_ocean:_anamnesis valkyrie_profile_2:_silmeria
