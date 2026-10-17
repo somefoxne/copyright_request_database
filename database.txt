@@ -2360,3 +2360,4 @@
 ?himeno_kotori -> yowamushi_pedal indie_utaite touhou osomatsu_(series) osomatsu-san niconico kuso_miso_technique hentai_kamen
 ?kumamon -> yuru-chara kantai_collection original touhou girls_und_panzer idolmaster idolmaster_cinderella_girls kemono_friends pokemon
 ?shikijou_kyousuke -> hentai_kamen gundam tenkuu_no_shiro_laputa kuso_miso_technique touhou pokemon mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) chainsaw_man
+?hayasui_(kancolle) -> kantai_collection gundam real_life lawson aoki_hagane_no_arpeggio wacky_races original genshin_impact vocaloid kamen_rider
