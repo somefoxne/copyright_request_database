@@ -1851,3 +1851,4 @@
 ?cat_(nyanko_daisensou) -> nyanko_daisensou original mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) ranma_1/2 pokemon umamusume vocaloid jojo_no_kimyou_na_bouken neon_genesis_evangelion
 ?koneko_(nyanko_daisensou) -> nyanko_daisensou
 ?cai_castor_(timeskip) -> fire_emblem
+?milou_(tintin) -> tintin neon_genesis_evangelion touhou pokemon mario_(series) dragon_ball mega_man_(series) mega_man_(classic) adventure_time the_simpsons
