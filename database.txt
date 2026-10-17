@@ -2190,3 +2190,4 @@
 ?nikaido_hiro -> mahou_shoujo_no_majo_saiban mahou_shoujo_no_inshuu_mura haishin_shoujo_no_uraaka_meikyuu karaoke_manekineko treasure_cafe book_off comiket_108 project_moon bang_dream!
 ?aleph_(reverse:1999) -> reverse:1999 poptepipic ace_attorney zombie_high_school original neon_genesis_evangelion
 ?samus_aran -> metroid super_smash_bros. mario_(series) the_legend_of_zelda metroid_dread pokemon fire_emblem kid_icarus kirby_(series) metroid_fusion
+?selimiye_(azur_lane) -> azur_lane
