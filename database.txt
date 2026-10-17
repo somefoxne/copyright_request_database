@@ -3380,3 +3380,4 @@
 ?vivi_(trickcal) -> trickcal precure jujutsu_kaisen meitantei_precure! yani_neko the_kiss the_creation_of_adam
 ?rika_(pokemon) -> pokemon pokemon_scarlet_and_violet pokemon_masters_ex pokemon_heartgold_and_soulsilver pokemon_sword_and_shield pokemon_(anime) pokemon_legends:_z-a pokemon_black_and_white pokemon_diamond/pearl/platinum pokemon_omega_ruby_and_alpha_sapphire
 ?seele_vollerei_(starchasm_nyx) -> honkai_(series) honkai_impact_3rd honkai:_star_rail mihoyo genshin_impact original honkai_gakuen arknights fate_(series) fate/grand_order
+?kururugi_suzaku -> code_geass code_geass:_lost_stories pizza_hut gundam newtype code_geass:_boukoku_no_akito code_geachu_lelouch_of_the_calamity touhou code_geass:_genesic_re;code fate_(series)
