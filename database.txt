@@ -2468,3 +2468,4 @@
 ?hitachiin_kaoru -> ouran_high_school_host_club comiket_70 wizarding_world harry_potter_(series) pokemon idolmaster yu-gi-oh! naruto_(series) fullmetal_alchemist death_note
 ?viper_(nikke) -> goddess_of_victory:_nikke comiket_105 blue_archive comiket_108 original fate_(series) fate/grand_order comiket_107 zozotown razer
 ?escoffier_(genshin_impact) -> genshin_impact mihoyo honkai_(series) honkai:_star_rail zenless_zone_zero original ratatouille shokugeki_no_souma wuthering_waves
+?scaramouche_(kabukimono)_(genshin_impact) -> genshin_impact original nige_jouzu_no_wakagimi honkai_(series) honkai:_star_rail mihoyo yoasobi vocaloid monogatari_(series) houseki_no_kuni
