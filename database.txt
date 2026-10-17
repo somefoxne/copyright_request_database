@@ -2945,3 +2945,4 @@
 ?cramorant -> pokemon pokemon_sword_and_shield pokemon_(anime) pokemon_scarlet_and_violet pokemon_tcg pokemon_the_movie:_secrets_of_the_jungle pokemon_unite original pokemon_black_and_white hololive
 ?atakigiri_(touken_ranbu) -> touken_ranbu nitroplus
 ?shouji_(devil_survivor) -> devil_survivor_(series) devil_survivor_1
+?le_noir_brand_manager -> project_moon limbus_company
