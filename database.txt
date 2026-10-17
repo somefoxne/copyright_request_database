@@ -3066,3 +3066,4 @@
 ?kuonji_alice -> mahou_tsukai_no_yoru fate_(series) fate/grand_order type-moon tsukihime fate/stay_night kara_no_kyoukai fate/zero fate/hollow_ataraxia type_moon-ace
 ?carmilla_(fate) -> fate_(series) fate/grand_order fate/extra fate/extra_ccc fate/apocrypha koha-ace fate/stay_night fate/grand_order_arcade tsukihime persona
 ?gamma_(kagejitsu) -> kage_no_jitsuryokusha_ni_naritakute! kage_no_jitsuryokusha_ni_naritakute!_master_of_garden kadokawa megami_magazine minecraft youkai_watch overlord_(maruyama) newtype comiket_103 isekai_quartet
+?beatrix_(granblue_fantasy) -> granblue_fantasy granblue_fantasy_versus:_rising granblue_fantasy:_relink shingeki_no_bahamut fate_(series) fate/grand_order granblue_fantasy_versus world_flipper touhou umamusume
