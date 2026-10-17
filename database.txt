@@ -3117,3 +3117,4 @@
 ?takitsubo_rikou -> toaru_majutsu_no_index toaru_kagaku_no_railgun toaru_majutsu_no_index:_old_testament toaru_majutsu_no_index:_new_testament toaru_kagaku_no_railgun_s toaru_anbu_no_item toaru_majutsu_no_index:_imaginary_fest k-on! toaru_majutsu_no_index:_endymion_no_kiseki fate_(series)
 ?nitta_io -> devil_survivor_(series) devil_survivor_2 devil_survivor_1 persona fire_emblem persona_3 persona_4 tokyo_mirage_sessions_fe megami_tensei love_live!
 ?mydei_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail fate_(series) fate/stay_night mihoyo genshin_impact honkai_impact_3rd fate/unlimited_blade_works zenless_zone_zero fate/grand_order
+?meursault_(project_moon) -> project_moon limbus_company lobotomy_corporation library_of_ruina the_stranger_(camus) arknights the_distortion_detective pokemon mili_(band) karaoke_manekineko
