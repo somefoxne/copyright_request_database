@@ -2524,3 +2524,4 @@
 ?alyosha_(genshin_impact) -> genshin_impact honkai_(series) honkai:_star_rail sanrio mihoyo bang_dream! marvel kono_subarashii_sekai_ni_shukufuku_wo! spider-man_(series)
 ?estelle_(black_survival) -> black_survival eternal_return:_black_survival goddess_of_victory:_nikke kill_la_kill darkstalkers daejeon_autoarms
 ?hachiware_(chiikawa) -> chiikawa original sanrio pokemon vocaloid hello_kitty my_melody_(series) 7-eleven boku_no_hero_academia
+?hati_(dolls_nest) -> dolls_nest armored_core dolls_nest:_orphans armored_core_vi:_fires_of_rubicon gundam gundam_gquuuuuux chiikawa
