@@ -1046,3 +1046,4 @@
 ?lida_(pokemon) -> pokemon pokemon_legends:_z-a pokemon_x_and_y pokemon_scarlet_and_violet original pokemon_legends:_arceus pokemon_omega_ruby_and_alpha_sapphire pokemon_ruby/sapphire/emerald pokemon_sword_and_shield
 ?naveen_(pokemon) -> pokemon pokemon_legends:_z-a pokemon_scarlet_and_violet pokemon_sword_and_shield pokemon_legends:_arceus pokemon_x_and_y original pokemon_ruby/sapphire/emerald pokemon_(anime) pokemon_sun_and_moon
 ?paxton_(pokemon) -> pokemon pokemon_legends:_z-a pokemon_x_and_y pokemon_scarlet_and_violet pokemon_sun_and_moon pokemon_black_and_white pokemon_sword_and_shield pokemon_heartgold_and_soulsilver pokemon_legends:_arceus pokemon_black_2_and_white_2
+?taunie_(pokemon) -> pokemon pokemon_legends:_z-a pokemon_x_and_y pokemon_sun_and_moon pokemon_scarlet_and_violet pokemon_legends:_arceus pokemon_sword_and_shield pokemon_black_and_white pokemon_diamond/pearl/platinum pokemon_black_2_and_white_2
