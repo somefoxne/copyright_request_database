@@ -3788,3 +3788,4 @@
 ?basil_(faraway)_(omori) -> omori omariposa emori pokemon original utdr_(toby_fox) vocaloid deltarune undertale persona
 ?kel_(faraway)_(omori) -> omori emori omariposa utdr_(toby_fox) undertale monitoring_(vocaloid) poppy_playtime vocaloid pokemon
 ?kel_(omori) -> omori emori omariposa utdr_(toby_fox) undertale pokemon mario_(series) vocaloid monitoring_(vocaloid) original
+?vinca_words -> touhou original white_names_spoiled_past touhou_(pc-98) m.u.g.e.n embodiment_of_scarlet_devil imperishable_night subterranean_animism perfect_cherry_blossom
