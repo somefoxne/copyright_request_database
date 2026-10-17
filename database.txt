@@ -3989,3 +3989,4 @@
 ?wimpod -> pokemon pokemon_sun_and_moon pokemon_(anime) pokemon_tcg pokemon_the_series:_sun_&_moon pokemon_sword_and_shield pokemon_journeys pokemon_ultra_sun_and_ultra_moon pokemon_heartgold_and_soulsilver pokemon_(classic_anime)
 ?zarcone_(fire_emblem) -> fire_emblem pokemon
 ?ride_mass -> gundam gundam_tekketsu_no_orphans tengen_toppa_gurren_lagann gundam_seed turn_a_gundam kodoku_no_gourmet kemono_friends super_robot_wars zeta_gundam gundam_build_fighters
+?percy_(platinum_wind) -> platinum_wind
