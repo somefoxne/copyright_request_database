@@ -1566,3 +1566,4 @@
 ?neneko_mashiro_(1st_costume) -> stellive minecraft coca-cola
 ?gwenyvere_(malberrybush) -> original dungeons_&_dragons pathfinder
 ?enna_alouette -> nijisanji nijisanji_en nijisanji_id pokemon kamippoina_(vocaloid) nijisanji_kr hololive resident_evil among_us nijisanji_koshien
+?millie_parfait -> nijisanji nijisanji_en nijisanji_kr nijisanji_id pokemon hololive hololive_english hololive_indonesia minecraft final_fantasy
