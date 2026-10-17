@@ -2785,3 +2785,4 @@
 ?furen_e_lustario -> nijisanji nijisanji_en nijisanji_koshien bleach nijisanji_gta nijisanji_kr pornhub pokemon hololive wizarding_world
 ?wedding_(duel_masters) -> duel_masters kura_sushi ane_dvd
 ?yura-chan_(yura_tukishiro) -> original
+?mari_(idol)_(blue_archive) -> blue_archive comiket_105 oshi_no_ko blue_archive_the_animation wuthering_waves comiket_106 idolmaster comiket_107 spongebob_squarepants_(series) original
