@@ -2744,3 +2744,4 @@
 ?nozomi_(mom's_touch)_(blue_archive) -> blue_archive
 ?itsumi_erika -> girls_und_panzer girls_und_panzer_senshadou_daisakusen! girls_und_panzer_phase_erika girls_und_panzer_saishuushou girls_und_panzer_motto_love_love_sakusen_desu! girls_und_panzer_little_army rozen_maiden gekitotsu!_joshikousei_oiroke_sensha_gundan kantai_collection umamusume
 ?nishizumi_miho -> girls_und_panzer girls_und_panzer_senshadou_daisakusen! girls_und_panzer_motto_love_love_sakusen_desu! kantai_collection gekitotsu!_joshikousei_oiroke_sensha_gundan megami_magazine girls_und_panzer_saishuushou world_witches_series girls_und_panzer_little_army gundam
+?hikari_(dora_garyeong) -> original
