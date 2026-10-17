@@ -1050,3 +1050,4 @@
 ?risette_twinings -> eiyuu_densetsu kuro_no_kiseki_(series) kuro_no_kiseki_i kai_no_kiseki kuro_no_kiseki_ii sen_no_kiseki_(series) genshin_impact pokemon honkai_(series) honkai:_star_rail
 ?manhattan_cafe_(casual)_(umamusume) -> umamusume original fate_(series) fate/grand_order idolmaster idolmaster_cinderella_girls precure jojo_no_kimyou_na_bouken project_sekai gakuen_idolmaster
 ?spongebob_squarepants -> spongebob_squarepants_(series) vocaloid original sonic_(series) pokemon nickelodeon jimmy_neutron_(series) danny_phantom mario_(series) the_fairly_oddparents
+?squidward_tentacles -> spongebob_squarepants_(series) original pokemon hololive hololive_english sonic_(series) touhou one_piece splatoon_(series) mario_(series)
