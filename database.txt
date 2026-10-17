@@ -2770,3 +2770,4 @@
 ?mars_(fire_emblem) -> fire_emblem
 ?ol-chan_(udon) -> original comiket_107 comiket_106 starbucks comiket_103
 ?sua_(1st_anniversary)_(black_survival) -> black_survival eternal_return:_black_survival original
+?horikawa_raiko -> touhou double_dealing_character touhou_(pc-98) touhou_lostword taiko_no_tatsujin touhou_cannonball ten_desires perfect_cherry_blossom legacy_of_lunatic_kingdom imperishable_night
