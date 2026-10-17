@@ -3694,3 +3694,4 @@
 ?lauma_(genshin_impact) -> genshin_impact mihoyo honkai_(series) honkai:_star_rail zenless_zone_zero wuthering_waves pokemon death_note shikanoko_nokonoko_koshitantan duolingo
 ?alice_(genshin_impact) -> genshin_impact honkai_(series) honkai:_star_rail zenless_zone_zero comiket_108 honkai_impact_3rd mihoyo original pokemon arknights
 ?nush_(xter) -> original
+?azuma_fubuki -> mato_seihei_no_slave shokugeki_no_souma fate_(series) fate/grand_order one_piece bleach dragon_quest code_geass higurashi_no_naku_koro_ni one-punch_man
