@@ -2005,3 +2005,4 @@
 ?male_byleth_(fire_emblem) -> fire_emblem fire_emblem:_three_houses fire_emblem_heroes fire_emblem_warriors:_three_hopes fire_emblem_fates fire_emblem_awakening super_smash_bros. fire_emblem_engage persona persona_5
 ?mary_(bay_goddess)_(nikke) -> goddess_of_victory:_nikke nier_(series) nier:automata lawson
 ?mary_(nikke) -> goddess_of_victory:_nikke hololive project_moon limbus_company original azur_lane persona persona_5 trickcal uzaki-chan_wa_asobitai!
+?neon_(blue_ocean)_(nikke) -> goddess_of_victory:_nikke nier_(series) nier:automata blue_archive to_love-ru
