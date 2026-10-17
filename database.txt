@@ -3700,3 +3700,4 @@
 ?kusunoki_muu -> milgram alien_stage north_american_mythology vocaloid umineko_no_naku_koro_ni sanrio
 ?yoarashi_inasa -> boku_no_hero_academia street_fighter street_fighter_zero_(series)
 ?urushibara_luka -> science_adventure steins;gate steins;gate_0 steins;gate:_linear_bounded_phenogram fate_(series) guilty_gear monogatari_(series) guilty_gear_strive divine_gate
+?ogawa_sumireko -> kaii_to_otome_to_kamikakushi original ruri_no_houseki hololive hololive_english neon_genesis_evangelion rebuild_of_evangelion hellaverse make_heroine_ga_oo_sugiru! helluva_boss
