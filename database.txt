@@ -1395,3 +1395,4 @@
 ?konohoshi_umika -> hoshikuzu_telepath manga_time_kirara megami_magazine original blue_archive bocchi_the_rock! utau girls_band_cry onii-chan_wa_oshimai! machikado_mazoku
 ?tsukimura_temari -> idolmaster gakuen_idolmaster kimi_to_semi_blue_(idolmaster) luna_say_maybe_(idolmaster) hajime_(idolmaster) idolmaster_cinderella_girls idolmaster_(classic) ittai_itsukara_(idolmaster) idolmaster_shiny_colors campus_mode!!_(idolmaster)
 ?carmilla_(modern_mogal) -> modern_mogal pokemon castlevania_(series) egyptian_mythology cast_away polybius
+?wendy_(modern_mogal) -> modern_mogal pokemon egyptian_mythology cast_away polybius
