@@ -1979,3 +1979,4 @@
 ?nurse_harrow_(deadlock) -> deadlock_(game)
 ?suzuki_hana -> idolmaster idolmaster_shiny_colors idolmaster_shiny_colors_song_for_prism jujutsu_kaisen pokemon gakuen_idolmaster idolmaster_cinderella_girls idolmaster_(classic) love_live! yu-gi-oh!
 ?tamayori_himari -> seifuku_kanojo seifuku_kanojo_2 seifuku_kanojo_3
+?monika_(doki_doki_literature_club) -> doki_doki_literature_club miside vocaloid utdr_(toby_fox) omori undertale touhou hololive pokemon danganronpa_(series)
