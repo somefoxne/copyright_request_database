@@ -1401,3 +1401,4 @@
 ?amamiya_kokoro_(1st_costume) -> nijisanji nijisanji_kr nijisanji_en nijisanji_id vspo! pokemon hololive indie_virtual_youtuber kyoufuu_all_back_(vocaloid) idolmaster
 ?hatoda_ako -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_unmarked mahou_shoujo_madoka_magica mahou_shoujo_ni_akogarete mahou_shoujo_ikusei_keikaku_jokers
 ?dietrich_gregor_lamine -> fire_emblem fire_emblem_heroes fire_emblem:_three_houses fire_emblem_warriors:_three_hopes fire_emblem_shadows pokemon final_fantasy final_fantasy_xiv dragon_ball
+?christ-chan -> original 4chan serbia_strong reddit hololive suzumiya_haruhi_no_yuuutsu kono_subarashii_sekai_ni_shukufuku_wo! real_life tsukihime cardcaptor_sakura
