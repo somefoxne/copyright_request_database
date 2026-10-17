@@ -3078,3 +3078,4 @@
 ?natsugumo_(kancolle) -> kantai_collection umamusume choo_choo_train street_fighter gochuumon_wa_usagi_desu_ka? little_red_riding_hood_(fairy_tale) street_fighter_ii_(series)
 ?sugitani_zenjubou_(fate) -> fate_(series) fate/grand_order fate/grand_order_arcade fate/zero fate/kaleid_liner_prisma_illya fate/samurai_remnant lord_el-melloi_ii_case_files the_adventures_of_lord_el-melloi_ii star_wars golden_kamuy
 ?sugitani_zenjubou_(third_ascension)_(fate) -> fate_(series) fate/grand_order
+?ant_tenna -> utdr_(toby_fox) deltarune undertale defernull the_amazing_digital_circus vocaloid cuphead_(game) original hellaverse
