@@ -2381,3 +2381,4 @@
 ?snow_white_(innocent_days)_(nikke) -> goddess_of_victory:_nikke gs25 ichiban_kuji tengen_toppa_gurren_lagann comiket_104 blue_archive honkai_(series) honkai_impact_3rd dragon_ball jujutsu_kaisen
 ?snow_white_(nikke) -> goddess_of_victory:_nikke lawson ichiban_kuji jujutsu_kaisen famitsu gs25 touhou umamusume tengen_toppa_gurren_lagann warhammer_40k
 ?rappa_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail mihoyo genshin_impact zenless_zone_zero hololive hololive_english honkai_impact_3rd blue_archive fate_(series)
+?aragaki_mikan_(bubukka) -> original
