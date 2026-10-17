@@ -3855,3 +3855,4 @@
 ?kira_(project_moon) -> project_moon limbus_company umamusume library_of_ruina re:zero_kara_hajimeru_isekai_seikatsu touhou blue_archive fate_(series) arknights zenless_zone_zero
 ?jade_leech -> twisted_wonderland disney_tsum-tsum the_nightmare_before_christmas the_little_mermaid_(disney) pokemon disney mickey_mouse_&_friends original love_live! love_live!_school_idol_project
 ?jade_leech_(la_bonbonniere) -> twisted_wonderland
+?yuu_(twisted_wonderland) -> twisted_wonderland original disney_tsum-tsum the_nightmare_before_christmas mickey_mouse_&_friends pokemon the_lion_king final_fantasy final_fantasy_xiv wizarding_world
