@@ -1609,3 +1609,4 @@
 ?geoffrey_(fire_emblem) -> fire_emblem fire_emblem:_radiant_dawn fire_emblem:_path_of_radiance fire_emblem_heroes fire_emblem_cipher fire_emblem:_genealogy_of_the_holy_war fire_emblem:_the_sacred_stones fire_emblem_fates fire_emblem_awakening fire_emblem:_the_blazing_blade
 ?mario -> mario_(series) super_smash_bros. new_super_mario_bros._u_deluxe the_legend_of_zelda kirby_(series) pokemon super_mario_bros._1 mario_&_luigi_rpg paper_mario_(series) donkey_kong_(series)
 ?mega_man_(character) -> mega_man_(series) mega_man_(classic) super_smash_bros. mario_(series) street_fighter mega_man_x_(series) pokemon kirby_(series) metroid the_legend_of_zelda
+?pac-man -> pac-man_(game) mario_(series) super_smash_bros. pokemon kirby_(series) sonic_(series) mega_man_(series) the_legend_of_zelda mega_man_(classic) donkey_kong_(series)
