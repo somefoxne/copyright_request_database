@@ -2806,3 +2806,4 @@
 ?katou_juri -> digimon digimon_tamers digimon_adventure digimon_frontier digimon_adventure_02 digimon_xros_wars digimon_savers digimon_xros_wars:_toki_wo_kakeru_shounen_hunter-tachi digimon_card_game digimon_universe:_appli_monsters
 ?mizuki_alice -> serial_experiments_lain apple_inc. serial_experiments_lain_(ps1_game)
 ?yamamoto_reika -> serial_experiments_lain serial_experiments_lain_(ps1_game)
+?kemomimi-chan_(naga_u) -> original pokemon vocaloid project_voltage kirby_(series) mario_(series) kirby_64 godzilla_(series) monster_hunter_(series) monsterverse
