@@ -1473,3 +1473,4 @@
 ?gerik_(fire_emblem) -> fire_emblem fire_emblem:_the_sacred_stones fire_emblem_heroes fire_emblem:_the_binding_blade fire_emblem:_mystery_of_the_emblem fire_emblem_fates fire_emblem:_the_blazing_blade fire_emblem:_path_of_radiance fire_emblem_echoes:_shadows_of_valentia fire_emblem_cipher
 ?zhongli_quan_(young)_(all_wishes_come_true!) -> all_wishes_come_true!
 ?natsu_(nekota_tsuna) -> vspo! comiket_108
+?nekota_tsuna -> vspo! hololive apex_legends nijisanji xross_stars crazy_raccoon indie_virtual_youtuber comiket_102 street_fighter street_fighter_6
