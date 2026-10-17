@@ -1308,3 +1308,4 @@
 ?natsume_an-an -> mahou_shoujo_no_majo_saiban minna_de_zutto_shiawase_ni_kazoku_de_issho_ni_tanoshii_party_wo karaoke_manekineko book_off treasure_cafe kamitsubaki_studio comiket_108 original bang_dream! mahou_shoujo_no_inshuu_mura
 ?kochou_shinobu -> kimetsu_no_yaiba kimetsu_gakuen pokemon fate_(series) spy_x_family original fate/grand_order one_piece darling_in_the_franxx pokemon_sword_and_shield
 ?tamayo_(kimetsu_no_yaiba) -> kimetsu_no_yaiba houseki_no_kuni final_fantasy final_fantasy_vii final_fantasy_vii_remake kuroshitsuji ousama_ranking
+?invisigal_(dispatch) -> dispatch chainsaw_man league_of_legends marvel marvel_rivals arcane:_league_of_legends fantastic_four fate_(series) fate/grand_order overwatch
