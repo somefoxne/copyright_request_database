@@ -3469,3 +3469,4 @@
 ?nia_liston -> kyouran_reijou_nia_liston
 ?lynae_(peppermint)_(wuthering_waves) -> wuthering_waves grand_theft_auto grand_theft_auto_vi honkai_(series) honkai:_star_rail the_weaker_sex_1_(gibson)
 ?fav_(mahoiku) -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_unmarked mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) bokurano danganronpa_(series) mahou_shoujo_no_majo_saiban ojamajo_doremi forest_musician_cranberry_gaiden:_magical_girl_raising_project_unripe_duet
+?morichika_rinnosuke -> touhou touhou_(pc-98) curiosities_of_lotus_asia original m.u.g.e.n imperishable_night pokemon embodiment_of_scarlet_devil perfect_cherry_blossom jojo_no_kimyou_na_bouken
