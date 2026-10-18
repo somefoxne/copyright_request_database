@@ -5349,3 +5349,4 @@
 ?minase_iori -> idolmaster idolmaster_(classic) idolmaster_1 idolmaster_2 idolmaster_million_live! idolmaster_million_live!_theater_days idolmaster_live_for_you! idolmaster_sp idolmaster_dearly_stars idolmaster_xenoglossia
 ?fumi_(1st_costume)_(nijisanji) -> nijisanji nijisanji_en nijisanji_kr nijisanji_id yu-gi-oh! hololive indie_virtual_youtuber gundam zeta_gundam yu-gi-oh!_master_duel
 ?hoshikawa_sara_(1st_costume) -> nijisanji hololive nijisanji_en nijisanji_id hololive_dev_is nijisanji_kr pokemon hololive_english oshi_no_ko twitter
+?yamagami_karuta_(1st_costume) -> nijisanji nijisanji_en nijisanji_kr nijisanji_id blue_archive pokemon hololive yu-gi-oh! sousou_no_frieren voiceroid
