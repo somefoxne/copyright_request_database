@@ -6218,3 +6218,4 @@
 ?ema_skye -> ace_attorney apollo_justice:_ace_attorney phoenix_wright:_ace_attorney ace_attorney_investigations phoenix_wright:_ace_attorney_-_spirit_of_justice phoenix_wright:_ace_attorney_-_dual_destinies phoenix_wright:_ace_attorney_-_trials_and_tribulations phoenix_wright:_ace_attorney_-_justice_for_all ace_attorney_investigations:_miles_edgeworth
 ?joshua_(fire_emblem) -> fire_emblem fire_emblem:_the_sacred_stones fire_emblem_heroes fire_emblem_fates fire_emblem_awakening fire_emblem:_path_of_radiance fire_emblem:_the_blazing_blade fire_emblem:_mystery_of_the_emblem fire_emblem:_genealogy_of_the_holy_war fire_emblem_echoes:_shadows_of_valentia
 ?pozyomka_(beside_dreams)_(arknights) -> arknights
+?i-no -> guilty_gear guilty_gear_strive guilty_gear_xrd guilty_gear_xx blazblue arc_system_works touhou darkstalkers tower_records street_fighter
