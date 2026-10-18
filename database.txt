@@ -6244,3 +6244,4 @@
 ?castorice_(gossamer_flutter)_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail
 ?minato_(doa) -> dead_or_alive dead_or_alive_6
 ?atlanta_(kancolle) -> kantai_collection kirby_(series) comiket_100 jojo_no_kimyou_na_bouken among_us comiket_105 coca-cola azur_lane gundam
+?storyteller_boy_(ace_combat) -> ace_combat ace_combat_04 ace_combat_zero ace_combat_5
