@@ -5996,3 +5996,4 @@
 ?celestia_(triple_blossom)_(strinova) -> strinova
 ?shimura_tae -> gintama pokemon naruto_(series) spy_x_family ranma_1/2 sannen_z-gumi_ginpachi_sensei kantai_collection genshin_impact love_live! gundam
 ?honma_kuroe -> seitokai_ni_mo_ana_wa_aru! original
+?anguished_one -> devil_survivor_(series) devil_survivor_2 persona megami_tensei persona_3 pixiv touhou fate_(series) vocaloid mahou_shoujo_madoka_magica
