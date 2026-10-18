@@ -4938,3 +4938,4 @@
 ?simon_clairmont -> fire_emblem
 ?arthur_(fire_emblem_fates) -> fire_emblem fire_emblem_fates fire_emblem_heroes fire_emblem_awakening fire_emblem:_the_binding_blade fire_emblem_cipher fate_(series) fire_emblem:_the_blazing_blade fire_emblem:_genealogy_of_the_holy_war fire_emblem:_mystery_of_the_emblem
 ?fire_kirby -> kirby_(series) kirby_and_the_forgotten_land kirby_&_the_amazing_mirror kirby_star_allies kirby:_planet_robobot kirby_mass_attack kirby_super_star kirby:_triple_deluxe
+?magical_mirai_miku_(2016) -> vocaloid magical_mirai_(vocaloid) 39_music_(vocaloid) suna_no_wakusei_(vocaloid) goodsmile_company goodsmile_racing senbonzakura_(vocaloid) hatsune_miku_happy_16th_birthday_-dear_creators- project_diva_(series) piapro_studio
