@@ -5253,3 +5253,4 @@
 ?tozaki_moka -> assault_lily
 ?nekomiya_mana -> zenless_zone_zero honkai_(series) mihoyo honkai:_star_rail genshin_impact blue_archive honkai_impact_3rd gameoverse princess_connect!
 ?marvelous_sunday_(kira_doki_waku_mabe)_(umamusume) -> umamusume umamusume:_star_blossom real_life umamusume:_cinderella_gray manga_nippon_mukashi_banashi
+?kotonoha_aoi -> voiceroid vocaloid a.i._voice cevio voicevox utau synthesizer_v talkex kurashi_gas_meter_(voiceroid) pokemon
