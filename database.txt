@@ -5145,3 +5145,4 @@
 ?gaia_(girls'_frontline) -> metal_gear_(series) cowboy_bebop tank!_(song) gyuunyuu_no_himitsu_(arc)
 ?helena_(girls'_frontline_2) -> blue_archive chainsaw_man fullmetal_alchemist pragmata leon_the_professional the_cat_alchemist
 ?ibuki_(swimsuit)_(blue_archive) -> blue_archive hololive hololive_english jujutsu_kaisen hunter_x_hunter tententengokujigokugoku_(aiobahn)
+?symboli_rudolf_(adamant_sovereign)_(umamusume) -> umamusume
