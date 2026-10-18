@@ -6135,3 +6135,4 @@
 ?fujido_oriko -> giant_ojou-sama original mount_celeb_kaneda-san chainsaw_man armored_core armored_core_vi:_fires_of_rubicon breaking_bad better_call_saul toratsugumi
 ?dr._sebastian -> giant_ojou-sama mount_celeb_kaneda-san original breaking_bad better_call_saul
 ?inui_toko_(1st_costume) -> nijisanji hololive phony_(cevio) minecraft wixoss pokemon helltaker twitter nijisanji_kr nijisanji_en
+?lize_helesta_(1st_costume) -> nijisanji pokemon hololive minecraft sana_channel nijisanji_koshien nijisanji_en page_of_lambda helltaker nanashi_inc.
