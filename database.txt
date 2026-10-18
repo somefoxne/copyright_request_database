@@ -6126,3 +6126,4 @@
 ?ribbon_(kirby) -> kirby_(series) kirby_64 kirby_star_allies kirby:_planet_robobot kirby:_squeak_squad kirby_super_star
 ?ripple_star_queen -> kirby_(series) kirby_64 kirby_star_allies kirby:_planet_robobot kirby:_squeak_squad kirby_air_ride kirby_&_the_amazing_mirror kirby:_triple_deluxe
 ?zero_two_(kirby) -> kirby_(series) kirby_64 kirby:_squeak_squad kirby_star_allies kirby_&_the_amazing_mirror kirby:_planet_robobot kirby_air_ride
+?valentine_(skullgirls) -> skullgirls guilty_gear overwatch original idolmaster love_live! love_live!_school_idol_project street_fighter mario_(series) the_king_of_fighters
