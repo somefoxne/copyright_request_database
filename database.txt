@@ -4644,3 +4644,4 @@
 ?franz_liszt_(classicaloid) -> classicaloid wizarding_world little_miss_sunshine
 ?franz_schubert_(classicaloid) -> classicaloid wizarding_world bloodborne little_red_riding_hood_(fairy_tale) ib_(kouri) watchmen fantastic_beasts_and_where_to_find_them daft_punk little_miss_sunshine musica_piccolyno
 ?frederic_chopin_(classicaloid) -> classicaloid wizarding_world daft_punk little_miss_sunshine
+?ludwig_van_beethoven_(classicaloid) -> classicaloid wizarding_world fate_(series) fate/grand_order gintama little_red_riding_hood_(fairy_tale) serial_experiments_lain peanuts_(comic) hello_charlotte napoleon_crossing_the_alps
