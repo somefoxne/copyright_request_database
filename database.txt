@@ -4291,3 +4291,4 @@
 ?anis_(star)_(t.t._star)_(nikke) -> goddess_of_victory:_nikke indie_virtual_youtuber azur_lane panty_&_stocking_with_garterbelt comiket_108 destiny_child shift_up kokoro_yohou_(eve) eve_(musician)
 ?klara_(pokemon) -> pokemon pokemon_sword_and_shield pokemon_scarlet_and_violet pokemon_masters_ex pokemon_black_2_and_white_2 pokemon_sun_and_moon pokemon_heartgold_and_soulsilver pokemon_diamond/pearl/platinum pokemon_ruby/sapphire/emerald pokemon_black_and_white
 ?eric_cartman -> south_park south_park:_the_stick_of_truth sanrio original pokemon south_park:_post_covid south_park:_the_fractured_but_whole neon_genesis_evangelion dragon_ball sonic_(series)
+?ike_broflovski -> south_park backrooms_(creepypasta) backrooms_(2026_movie) south_park:_the_stick_of_truth south_park:_post_covid sephora yo_gabba_gabba! fire_emblem chainsaw_man dragon_ball
