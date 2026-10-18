@@ -5246,3 +5246,4 @@
 ?ichikawa_hinana -> idolmaster idolmaster_shiny_colors idolmaster_shiny_colors_song_for_prism mahjong_soul dars pokemon idolmaster_cinderella_girls chainsaw_man idolmaster_(classic) wizarding_world
 ?orfevre_(control)_(umamusume) -> umamusume real_life original jojo_no_kimyou_na_bouken umamusume:_cinderella_gray japan_racing_association fate_(series) pokemon fate/stay_night vento_aureo
 ?orfevre_(racehorse) -> real_life umamusume original japan_racing_association netkeibatv midori_no_makibaoo project_moon persona limbus_company marvel
+?ryekie_(live_a_hero) -> live_a_hero tokyo_afterschool_summoners arknights world_flipper touhou apex_legends youkai_watch silent_hill_(series) gyee silent_hill_2
