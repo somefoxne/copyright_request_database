@@ -5205,3 +5205,4 @@
 ?wigglytuff -> pokemon pokemon_unite pokemon_mystery_dungeon pokemon_(anime) pokemon_mystery_dungeon:_explorers_of_time/darkness/sky pokemon_(classic_anime) pokemon_firered_and_leafgreen pokemon_red/green/blue/yellow pokemon_scarlet_and_violet pokemon_heartgold_and_soulsilver
 ?baizhu_(genshin_impact) -> genshin_impact mihoyo honkai_(series) honkai:_star_rail honkai_impact_3rd tears_of_themis olympics 2024_summer_olympics vocaloid zenless_zone_zero
 ?changsheng_(genshin_impact) -> genshin_impact mihoyo honkai_(series) honkai:_star_rail honkai_impact_3rd tears_of_themis idolmaster vocaloid idolmaster_(classic) gochuumon_wa_usagi_desu_ka?
+?ifa_(genshin_impact) -> genshin_impact phineas_and_ferb honkai_(series) honkai:_star_rail nijisanji gundam mihoyo after_war_gundam_x the_amazing_world_of_gumball danshi_koukousei_no_nichijou
