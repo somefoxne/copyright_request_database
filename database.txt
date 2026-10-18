@@ -6071,3 +6071,4 @@
 ?v_(cyberpunk) -> cyberpunk_(series) cyberpunk_2077 cyberpunk:_edgerunners cyberpunk:_edgerunners_1 cyberpunk_trading_card_game wuthering_waves brand_new_animal indie_virtual_youtuber persona persona_5
 ?valerie_(cyberpunk) -> cyberpunk_(series) cyberpunk_2077 cyberpunk:_edgerunners cyberpunk:_edgerunners_1 brand_new_animal cyberpunk_trading_card_game indie_virtual_youtuber wuthering_waves persona persona_5
 ?hachikuji_mayoi -> monogatari_(series) bakemonogatari nisemonogatari nekomonogatari kabukimonogatari mahou_shoujo_madoka_magica onimonogatari zoku_owarimonogatari mahou_shoujo_madoka_magica_(anime) kizumonogatari
+?cagliostro_(granblue_fantasy) -> granblue_fantasy shingeki_no_bahamut cardcaptor_sakura fate_(series) idolmaster idolmaster_cinderella_girls fate/grand_order granblue_fantasy_versus kantai_collection original
