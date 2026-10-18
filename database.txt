@@ -4894,3 +4894,4 @@
 ?amanomiya_amano -> minarai_taimashi_maji_de_ikimasu
 ?mizi_(akuma)_(zombie_stage) -> alien_stage zombie_stage itazuraguma_no_gloomy
 ?sua_(tenshi)_(zombie_stage) -> alien_stage zombie_stage itazuraguma_no_gloomy
+?saika_suiren_(vtuber) -> .live indie_virtual_youtuber
