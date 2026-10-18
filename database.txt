@@ -5520,3 +5520,4 @@
 ?saren_(gunner)_(princess_connect!) -> princess_connect!
 ?suzume_(princess_connect!) -> princess_connect! cygames granblue_fantasy megami_magazine comiket_105
 ?heidi_(young)_(arknights) -> arknights
+?kal'tsit_(formal)_(arknights) -> arknights ambience_synesthesia cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 ima_sugu_rinne_(vocaloid)
