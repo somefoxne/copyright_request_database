@@ -5696,3 +5696,4 @@
 ?daya_(dignified_student_council_president)_(trickcal) -> trickcal
 ?toki_(school_uniform)_(blue_archive) -> blue_archive comiket_106 kamen_rider kamen_rider_den-o_(series) comiket_102 honkai_(series) honkai:_star_rail gundam sanrio gundam_gquuuuuux
 ?eliwood_(fire_emblem) -> fire_emblem fire_emblem:_the_blazing_blade fire_emblem_heroes fire_emblem:_the_binding_blade fire_emblem_awakening fire_emblem:_path_of_radiance fire_emblem:_the_sacred_stones fire_emblem_fates fire_emblem:_mystery_of_the_emblem fire_emblem:_genealogy_of_the_holy_war
+?hector_(fire_emblem) -> fire_emblem fire_emblem:_the_blazing_blade fire_emblem_heroes fire_emblem:_the_binding_blade fire_emblem:_the_sacred_stones fire_emblem_awakening fire_emblem:_path_of_radiance fire_emblem_fates fire_emblem:_radiant_dawn fire_emblem:_mystery_of_the_emblem
