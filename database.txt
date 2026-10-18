@@ -5614,3 +5614,4 @@
 ?mizuho_(kancolle) -> kantai_collection dota_(series) dota_2 line_(naver) original code_geass aoki_hagane_no_arpeggio fate_(series) sousou_no_frieren kamen_rider
 ?maeda_yuki -> danganronpa_another danganronpa_(series) super_danganronpa_another_2 danganronpa_another:_another_despair_academy fate_(series) fate/grand_order persona marvel danganronpa_v3:_killing_harmony omori
 ?lin_lihua -> cinderella_series hachigatsu_no_cinderella_nine saitama_seibu_lions hokkaido_nippon-ham_fighters orix_buffaloes fukuoka_softbank_hawks touhoku_rakuten_golden_eagles chiba_lotte_marines
+?shinonome_ryo -> cinderella_series hachigatsu_no_cinderella_nine hanshin_tigers chunichi_dragons saitama_seibu_lions gundam tribe_nine kochikame gundam_narrative tamayomi
