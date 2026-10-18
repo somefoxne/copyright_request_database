@@ -4943,3 +4943,4 @@
 ?ryougi_shiki_(swimsuit_mooncancer)_(first_ascension) -> fate_(series) fate/grand_order kara_no_kyoukai fate/hollow_ataraxia fate/stay_night original tsukihime type-moon
 ?kidian_(trickcal) -> trickcal minecraft team_fortress_2
 ?zena_(project_moon) -> project_moon library_of_ruina lobotomy_corporation limbus_company arknights 4chan madness_combat arknights:_endfield blue_archive pokemon
+?domestic_dog_(kemono_friends) -> kemono_friends kemono_friends_3 original helltaker ghost_in_the_shell keroro_gunsou kemono_friends_2 kemono_friends_festival dragon_quest nichijou
