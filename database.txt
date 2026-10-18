@@ -4980,3 +4980,4 @@
 ?tonia_(genshin_impact) -> genshin_impact honkai_(series) honkai:_star_rail mihoyo
 ?cranberry_(girls_und_panzer) -> girls_und_panzer girls_und_panzer_saishuushou girls_und_panzer_motto_love_love_sakusen_desu! original real_life ranma_1/2 megami_magazine girls_und_panzer_senshadou_daisakusen! gekitotsu!_joshikousei_oiroke_sensha_gundan the_crusaders
 ?lemongrass_(girls_und_panzer) -> girls_und_panzer girls_und_panzer_saishuushou
+?peach_(girls_und_panzer) -> girls_und_panzer girls_und_panzer_saishuushou girls_und_panzer_motto_love_love_sakusen_desu! megami_magazine starbucks girls_und_panzer_senshadou_daisakusen! gekitotsu!_joshikousei_oiroke_sensha_gundan the_crusaders
