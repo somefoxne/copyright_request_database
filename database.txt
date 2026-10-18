@@ -4397,3 +4397,4 @@
 ?gaara_(naruto) -> naruto_(series) naruto_shippuuden naruto_(classic) boruto_(series) boruto:_naruto_next_generations naruto_shippuuden:_ultimate_ninja_blazing naruto:_the_last pokemon dragon_ball hentai_key
 ?wicke_(pokemon) -> pokemon pokemon_sun_and_moon pokemon_(anime) pokemon_the_series:_sun_&_moon pokemon_sword_and_shield pokemon_ultra_sun_and_ultra_moon pokemon_diamond/pearl/platinum pokemon_scarlet_and_violet pokemon_black_and_white pokemon_legends:_z-a
 ?kindred_(league) -> league_of_legends original genshin_impact the_legend_of_zelda teamfight_tactics the_legend_of_zelda:_twilight_princess cult_of_the_lamb hololive mario_(series) kill_la_kill
+?lamb_(league) -> league_of_legends original genshin_impact the_legend_of_zelda the_legend_of_zelda:_twilight_princess cult_of_the_lamb hololive mario_(series) kill_la_kill houseki_no_kuni
