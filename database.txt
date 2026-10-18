@@ -4615,3 +4615,4 @@
 ?ayumi_(erkaz) -> original gundam zeta_gundam gundam_0080
 ?verxina_(le_beau_sommet)_(umamusume) -> umamusume original comiket_107 yokohama_dena_baystars vocaloid nijisanji gundam jojo_no_kimyou_na_bouken jujutsu_kaisen real_life
 ?donna_bright -> original sony street_fighter mario_(series) mega_man_(series) urusei_yatsura mega_man_legends_(series) pokemon kirby_(series) macross
+?lana's_mother_(pokemon) -> pokemon pokemon_(anime) pokemon_the_series:_sun_&_moon pokemon_sun_and_moon pokemon_sword_and_shield pokemon_(classic_anime) pokemon_diamond/pearl/platinum uzaki-chan_wa_asobitai! girls_und_panzer pokemon_scarlet_and_violet
