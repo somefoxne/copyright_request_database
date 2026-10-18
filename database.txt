@@ -5944,3 +5944,4 @@
 ?dipper_pines -> gravity_falls reverse_falls_(gravity_falls) transcendence_au_(gravity_falls) monster_falls_(gravity_falls) book_of_bill adventure_time star_vs_the_forces_of_evil over_the_garden_wall touhou vocaloid
 ?akane_(school_uniform)_(blue_archive) -> blue_archive kamen_rider kamen_rider_den-o_(series) jujutsu_kaisen comiket_108 blue_archive_the_animation kamen_rider_hibiki_(series) kamen_rider_ghost_(series)
 ?mofu_mollis -> indie_virtual_youtuber original
+?kikuchi_ryou -> sekai_metsubou_kyouyuu_gensou_mamiya google_search
