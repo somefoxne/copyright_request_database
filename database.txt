@@ -5463,3 +5463,4 @@
 ?ralsei_(hat) -> utdr_(toby_fox) deltarune undertale oneshot_(game) omori pokemon night_in_the_woods hollow_knight yume_nikki touhou
 ?female_shez_(fire_emblem) -> fire_emblem fire_emblem:_three_houses fire_emblem_warriors:_three_hopes fire_emblem_heroes fire_emblem_engage fire_emblem_fates fire_emblem_awakening fire_emblem:_new_mystery_of_the_emblem fire_emblem:_the_sacred_stones fire_emblem:_the_blazing_blade
 ?yuri_leclerc -> fire_emblem fire_emblem:_three_houses fire_emblem_heroes fire_emblem_warriors:_three_hopes fire_emblem_fates fire_emblem_echoes:_shadows_of_valentia fire_emblem_awakening animal_crossing fire_emblem:_path_of_radiance fire_emblem:_the_sacred_stones
+?gawr_gura -> hololive hololive_english reflect_(gawr_gura) hololive_indonesia indie_virtual_youtuber minecraft among_us original zenless_zone_zero pokemon
