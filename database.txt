@@ -5122,3 +5122,4 @@
 ?gangle_(the_amazing_digital_circus) -> the_amazing_digital_circus glitch_productions alien_stage microsoft_windows fortnite looping_the_rooms_(vocaloid) corocoro_comic pokemon neon_genesis_evangelion utdr_(toby_fox)
 ?isuzu_yuri -> girls_und_panzer girls_und_panzer_motto_love_love_sakusen_desu! gekitotsu!_joshikousei_oiroke_sensha_gundan hikou_shoujo_yo-ko dragon_ball dragon_ball_z megami_magazine pacific_racing_team kindaichi_shounen_no_jikenbo
 ?shu_(summer_festival)_(arknights) -> arknights
+?ushiromiya_ange -> umineko_no_naku_koro_ni higurashi_no_naku_koro_ni alliance_of_the_golden_witch twilight_of_the_golden_witch touhou banquet_of_the_golden_witch ougon_musou_kyoku vocaloid durarara!! toaru_majutsu_no_index
