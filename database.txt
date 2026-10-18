@@ -4393,3 +4393,4 @@
 ?pulchra_fellini -> zenless_zone_zero genshin_impact mihoyo honkai_(series) honkai:_star_rail hellaverse helluva_boss pokemon kemono_friends utdr_(toby_fox)
 ?nono_(ayanepuna) -> original
 ?shio_(ayanepuna) -> original final_fantasy gochuumon_wa_usagi_desu_ka? final_fantasy_iv
+?felix_argyle -> re:zero_kara_hajimeru_isekai_seikatsu fate_(series) fate/grand_order guilty_gear fate/apocrypha guilty_gear_strive blend_s genshin_impact re:zero_kara_hajimeru_isekai_seikatsu:_lost_in_memories original
