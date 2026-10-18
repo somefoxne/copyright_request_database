@@ -5389,3 +5389,4 @@
 ?tendou_nabiki -> ranma_1/2 ranma_1/2_kessen_tougenkyou!_hanayome_wo_torimodose! pokemon naruto_(series) majo_no_takkyuubin fushigi_no_umi_no_nadia one_piece neon_genesis_evangelion street_fighter mario_(series)
 ?tendou_souun -> ranma_1/2 urusei_yatsura animedia maison_ikkoku inuyasha newtype animage kyoukai_no_rinne netflix ranma_1/2_kessen_tougenkyou!_hanayome_wo_torimodose!
 ?baan_gaan -> yuusha_seisen_baan_gaan yuusha_series yuusha_ou_gaogaigar yuusha_keisatsu_j-decker yuusha_tokkyuu_might_gaine taiyou_no_yuusha_fighbird ougon_yuusha_goldran densetsu_no_yuusha_da-garn yuusha_exkaiser yuusha_shirei_dagwon
+?garnet_(black_survival) -> black_survival eternal_return:_black_survival dummy_romance_(vocaloid) kamippoina_(vocaloid)
