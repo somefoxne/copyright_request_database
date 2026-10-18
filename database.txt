@@ -5008,3 +5008,4 @@
 ?leyn_(alchemy_stars) -> alchemy_stars ace_attorney starry_night_(van_gogh)
 ?tighnari_(genshin_impact) -> genshin_impact duolingo mihoyo pokemon m&g_stationery honkai_(series) olympics 2024_summer_olympics original
 ?ellen_joe_(on_campus) -> zenless_zone_zero blue_archive genshin_impact honkai_(series) honkai:_star_rail mihoyo hololive hololive_english goddess_of_victory:_nikke lycoris_recoil
+?emet-selch -> final_fantasy final_fantasy_xiv original magic:_the_gathering pokemon fate_(series) final_fantasy_xiv:_eorzea_gakuen fate/grand_order vocaloid league_of_legends
