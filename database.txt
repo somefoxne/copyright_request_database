@@ -4606,3 +4606,4 @@
 ?fine_motion_(noble_seamair)_(umamusume) -> umamusume original umamusume:_cinderella_gray pokemon fate_(series) nichijou kobayashi-san_chi_no_maidragon twitter michelin world_rally_championship
 ?vivlos_(voyage_etincelant)_(umamusume) -> umamusume pokemon jojo_no_kimyou_na_bouken original hololive idolmaster nijisanji dragon_ball gakuen_idolmaster real_life
 ?rook_hunt -> twisted_wonderland pokemon the_nightmare_before_christmas final_fantasy nijisanji final_fantasy_xiv mickey_mouse_&_friends snow_white_and_the_seven_dwarfs_(disney) tales_of_(series) gintama
+?1st_form_frieza -> dragon_ball dragon_ball_z dragon_ball_super dragon_ball_(classic) dragon_ball_super_broly dragon_ball_z_fukkatsu_no_f dr._slump umamusume touhou pokemon
