@@ -5433,3 +5433,4 @@
 ?ouro_kronii_(4th_costume) -> hololive hololive_english hololive_indonesia minecraft chainsaw_man hololive_official_card_game the_fallen_angel_(painting) buckshot_roulette mafia_(vocaloid) pokemon
 ?ouro_kronii_(party_dress) -> hololive hololive_english
 ?dietfried_bougainvillea -> violet_evergarden_(series)
+?shiroko_(swimsuit)_(blue_archive) -> blue_archive hololive arknights comiket_106 grand_theft_auto blue_archive_the_animation umamusume neon_genesis_evangelion sousou_no_frieren re:zero_kara_hajimeru_isekai_seikatsu
