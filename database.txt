@@ -5836,3 +5836,4 @@
 ?squall_leonhart -> final_fantasy final_fantasy_viii final_fantasy_vii dissidia_final_fantasy final_fantasy_ix final_fantasy_v final_fantasy_x kingdom_hearts final_fantasy_i final_fantasy_vi
 ?chougei_(halloween)_(kancolle) -> kantai_collection little_red_riding_hood_(fairy_tale)
 ?minato_mio -> aikatsu!_(series) aikatsu_friends! aikatsu! aikatsu_on_parade! aikatsu_stars! precure star_twinkle_precure animedia kantai_collection love_live!
+?penne_(aikatsu_friends!) -> aikatsu!_(series) aikatsu_friends! aikatsu! aikatsu_stars! aikatsu_on_parade! aikatsu_planet!
