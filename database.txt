@@ -4796,3 +4796,4 @@
 ?isayama_mami_(tsukuyomi) -> cho_kaguya-hime! kaguya-sama_wa_kokurasetai_~tensai-tachi_no_renai_zunousen~ animal_crossing invincible_(series) crayon_shin-chan sennen_joyuu nep_league murai_no_koi henshin!_(strawberry_prince)
 ?ayatsumugi_roka_(tsukuyomi) -> cho_kaguya-hime! pokemon kaguya-sama_wa_kokurasetai_~tensai-tachi_no_renai_zunousen~ animal_crossing invincible_(series) shikanoko_nokonoko_koshitantan crayon_shin-chan pluto_(manga) sennen_joyuu nep_league
 ?kaguya_(ray)_(cho_kaguya-hime!) -> cho_kaguya-hime! lycoris_recoil an_an
+?runami_yachiyo_(kassen) -> cho_kaguya-hime! jujutsu_kaisen bobobo-bo_bo-bobo
