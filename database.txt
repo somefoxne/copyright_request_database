@@ -4839,3 +4839,4 @@
 ?sawatari_coco -> mahou_shoujo_no_majo_saiban comiket_108 karaoke_manekineko treasure_cafe puyopuyo poker_chase touhou bang_dream! girls_band_cry
 ?juno_(overwatch) -> overwatch street_fighter sanrio hello_kitty boku_no_hero_academia le_sserafim bishoujo_senshi_sailor_moon kamen_rider kamen_rider_geats_(series) street_fighter_6
 ?inari_(tenko_shibuki) -> stellive sanrio my_melody_(series) pokemon pokemon_(anime) pokemon_(classic_anime) the_wizard_of_oz
+?kankurou_(naruto) -> naruto_(series) naruto_shippuuden naruto_(classic) boruto_(series) boruto:_naruto_next_generations durarara!! naruto:_the_last the_legend_of_zelda dragon_ball super_smash_bros.
