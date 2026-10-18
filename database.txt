@@ -4636,3 +4636,4 @@
 ?zz_gundam -> gundam gundam_zz zeta_gundam mobile_suit_gundam gundam_f91 sd_gundam victory_gundam original turn_a_gundam
 ?mejiro_ardan_(crystalline)_(umamusume) -> umamusume umamusume:_cinderella_gray umamusume:_road_to_the_top akari_ga_yatte_kitazo_(vocaloid) kantai_collection yu-gi-oh! issei_fuubi_sepia original fate_(series) idolmaster
 ?female_sword_bearer_(kagurabachi) -> kagurabachi mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) jujutsu_kaisen hunter_x_hunter aizo_(king_gnu)
+?amemiya_darumi -> the_hundred_line_-last_defense_academy- danganronpa_(series) danganronpa:_trigger_happy_havoc danganronpa_2:_goodbye_despair pokemon danganronpa_v3:_killing_harmony tower_records vocaloid precure futari_wa_precure
