@@ -5040,3 +5040,4 @@
 ?satone_(chill_with_you) -> chill_with_you:_lo-fi_story cardcaptor_sakura magical_princess_(game)
 ?tomoe_shiruko -> amaizo!_dango
 ?yuuki_(sao) -> sword_art_online sword_art_online:_code_register sword_art_online:_alicization sword_art_online:_memory_defrag sword_art_online_the_movie:_ordinal_scale sword_art_online:_alicization_-_war_of_underworld sword_art_online:_unleashed_blading sword_art_online:_fatal_bullet sword_art_online_last_recollection fate_(series)
+?hojo_sophy -> pretty_series pripara aikatsu!_(series) aikatsu! idol_time_pripara pretty_rhythm pretty_rhythm_rainbow_live aikatsu!_x_pripara_the_movie_-deai_no_kiseki!- touhou idol_land_pripara
