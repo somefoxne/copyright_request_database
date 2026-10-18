@@ -5882,3 +5882,4 @@
 ?feh_(fire_emblem_heroes) -> fire_emblem fire_emblem_heroes fire_emblem_fates fire_emblem_awakening fire_emblem:_path_of_radiance fire_emblem:_three_houses fire_emblem:_mystery_of_the_emblem fire_emblem:_the_sacred_stones fire_emblem:_the_blazing_blade fire_emblem:_radiant_dawn
 ?fomortiis_(fire_emblem) -> fire_emblem fire_emblem:_the_sacred_stones fire_emblem_heroes fire_emblem_engage fire_emblem_fates fire_emblem_awakening fire_emblem:_the_binding_blade fire_emblem_cipher fire_emblem:_path_of_radiance fire_emblem:_mystery_of_the_emblem
 ?fomortiis_(winter)_(fire_emblem) -> fire_emblem fire_emblem_heroes fire_emblem:_the_sacred_stones fire_emblem_engage fire_emblem_awakening fire_emblem:_the_binding_blade
+?caineghis_(fire_emblem) -> fire_emblem fire_emblem:_path_of_radiance fire_emblem:_radiant_dawn fire_emblem_heroes fate_(series) fate/zero granblue_fantasy heaven_and_earth_tribulation the_legend_of_zelda fire_emblem:_three_houses
