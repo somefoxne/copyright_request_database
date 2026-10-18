@@ -6066,3 +6066,4 @@
 ?carleen_(sea_breeze)_(alchemy_stars) -> alchemy_stars punishing:_gray_raven
 ?boyfriend_(friday_night_funkin') -> utdr_(toby_fox) undertale vocaloid pico_(newgrounds_series) deltarune the_amazing_digital_circus omori cuphead_(game) original
 ?girlfriend_(friday_night_funkin') -> pico_(newgrounds_series) sonic_(series) utdr_(toby_fox) original pokemon undertale cuphead_(game) mario_(series)
+?klee_(blossoming_starlight)_(genshin_impact) -> genshin_impact honkai_(series) honkai:_star_rail cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 mihoyo sekiro:_shadows_die_twice maou-jou_de_oyasumi m&g_stationery
