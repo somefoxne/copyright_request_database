@@ -5641,3 +5641,4 @@
 ?nishikino_maki -> love_live! love_live!_school_idol_project love_live!_school_idol_festival bokura_wa_ima_no_naka_de love_live!_sunshine!! natsuiro_egao_de_1_2_jump! love_live!_the_school_idol_movie sore_wa_bokutachi_no_kiseki cutie_panther mogyutto_"love"_de_sekkin_chuu!
 ?sonoda_umi -> love_live! love_live!_school_idol_project love_live!_school_idol_festival love_live!_the_school_idol_movie natsuiro_egao_de_1_2_jump! bokura_wa_ima_no_naka_de love_live!_sunshine!! snow_halation sore_wa_bokutachi_no_kiseki mogyutto_"love"_de_sekkin_chuu!
 ?shiraki_hime -> watashi_no_yuri_wa_oshigoto_desu! yu-gi-oh! umamusume gundam bang_dream! bishoujo_senshi_sailor_moon mahou_shoujo_no_majo_saiban shingeki_no_kyojin lucky_star
+?migi_(yomi_no_tsugai) -> yomi_no_tsugai honkai_(series) honkai:_star_rail lyrical_nanoha mahou_shoujo_lyrical_nanoha fullmetal_alchemist square_enix bones_(company) yarofes:2026
