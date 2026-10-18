@@ -5025,3 +5025,4 @@
 ?ophelia_phamrsolone -> fate_(series) fate/grand_order learning_with_manga!_fgo fate/grail_league fate/stay_night kara_no_kyoukai fate/grand_order_arcade ophelia_(painting) type-moon_gakuen_chibichuki! project_moon
 ?kim_soleum -> gwechul zuutto_issho_(kitani_tatsuya) illusion_hunter_from_another_world
 ?daya_(trickcal) -> trickcal minecraft yu-gi-oh! instagram the_creation_of_adam
+?fujino_shiroha -> nue_no_onmyouji blue_archive precure meitantei_precure!
