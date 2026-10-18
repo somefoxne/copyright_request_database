@@ -5281,3 +5281,4 @@
 ?hackmon_(digimon) -> digimon digimon_card_game digimon_universe:_appli_monsters digimon_adventure digimon_adventure_02 digimon_tamers digimon_liberator digimon_frontier digimon_story:_cyber_sleuth digimon_xros_wars
 ?impmon -> digimon digimon_tamers digimon_card_game digimon_liberator digimon_adventure_02 digimon_frontier digimon_adventure digimon_xros_wars digimon_savers original
 ?yuuki_(digimon) -> digimon digimon_liberator digimon_card_game digimon_beatbreak digimon_story:_cyber_sleuth digimon_story:_time_stranger indie_virtual_youtuber precure meitantei_precure! super_sentai
+?dream_journey_(reminder_of_dreamland)_(umamusume) -> umamusume jojo_no_kimyou_na_bouken original real_life japan_racing_association vento_aureo soul_eater umamusume:_cinderella_gray dragon_ball dragon_ball_z
