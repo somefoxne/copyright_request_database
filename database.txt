@@ -4822,3 +4822,4 @@
 ?izuna_(dress)_(blue_archive) -> blue_archive
 ?michiru_(dress)_(blue_archive) -> blue_archive ramen_hakkenden the_long_kiss_goodnight the_purge:_anarchy
 ?tsukuyo_(dress)_(blue_archive) -> blue_archive
+?gerie_(stella_sora) -> stella_sora
