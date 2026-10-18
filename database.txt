@@ -5539,3 +5539,4 @@
 ?axel_syrios -> holostars holostars_english hololive hololive_indonesia hololive_english nijisanji nijisanji_en indie_virtual_youtuber pokemon scarz
 ?axelotl_(axel_syrios) -> holostars holostars_english hololive hololive_english pokemon nijisanji nijisanji_en chiikawa sonic_(series) monster_hunter_(series)
 ?banzoin_hakka -> holostars holostars_english hololive hololive_english indie_virtual_youtuber hololive_indonesia indie_utaite first_stage_production protostar_twilight nijisanji
+?crimzon_ruze -> holostars holostars_english hololive pokemon hololive_english hololive_indonesia nijisanji nijisanji_en sanrio indie_virtual_youtuber
