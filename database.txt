@@ -5183,3 +5183,4 @@
 ?philippe_(pokemon) -> pokemon pokemon_legends:_z-a pokemon_x_and_y original pokemon_scarlet_and_violet pokemon_sun_and_moon pokemon_sword_and_shield pokemon_(anime) pokemon_diamond/pearl/platinum pokemon_masters_ex
 ?add-on_(off) -> off_(game) omori utdr_(toby_fox) yume_nikki deltarune undertale ib_(kouri) oneshot_(game) mother_(series) mother_2
 ?the_batter_(off) -> off_(game) yume_nikki utdr_(toby_fox) omori undertale ib_(kouri) deltarune oneshot_(game) hylics lisa_(series)
+?the_queen_(off) -> off_(game) yume_nikki ib_(kouri) kaii_shoukougun kirisame_ga_furu_mori haiki_gas_circle satsuriku_no_tenshi chloe_no_requiem shirohako_no_mahoutsukai lilereho
