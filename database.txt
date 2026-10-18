@@ -4789,3 +4789,4 @@
 ?komazawa_rai_(tsukuyomi) -> cho_kaguya-hime! an_an dragon_ball dragon_ball_z animal_crossing minecraft invincible_(series) crayon_shin-chan netflix sennen_joyuu
 ?utsunomiya_maika -> shuuniichido_classmate_wo_kau_hanashi
 ?mikado_akira_(cho_kaguya-hime!) -> cho_kaguya-hime! an_an chainsaw_man dragon_ball jujutsu_kaisen dragon_ball_z kill_la_kill minecraft danganronpa_(series) animal_crossing
+?mikado_akira_(ray)_(cho_kaguya-hime!) -> cho_kaguya-hime!
