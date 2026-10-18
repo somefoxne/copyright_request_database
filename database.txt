@@ -5568,3 +5568,4 @@
 ?shikinagi_akira_(voltaction_anniversary) -> nijisanji
 ?watarai_hibari_(voltaction_anniversary) -> nijisanji
 ?zipstep -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_double_shadow mahou_shoujo_ikusei_keikaku_restart mahou_shoujo_ikusei_keikaku_breakdown
+?mago_(trickcal) -> trickcal
