@@ -5905,3 +5905,4 @@
 ?amakusa_shirou_(fate) -> fate_(series) fate/grand_order fate/apocrypha fate/extra fate/stay_night fate/hollow_ataraxia fate/kaleid_liner_prisma_illya fate/zero koha-ace fate/prototype
 ?anastasia_(fate) -> fate_(series) fate/grand_order learning_with_manga!_fgo original fate/extra world_cup pixiv_fate/grand_order_contest_2 2018_fifa_world_cup fate/grand_order_arcade idolmaster
 ?anastasia_(third_ascension)_(fate) -> fate_(series) fate/grand_order fire_emblem fire_emblem:_the_binding_blade pixiv_fate/grand_order_contest_2
+?jeanne_d'arc_(fate) -> fate_(series) fate/grand_order fate/apocrypha fate/zero fate/stay_night fate/extra learning_with_manga!_fgo fate/extella fate/extra_ccc capsule_servant
