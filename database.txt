@@ -5651,3 +5651,4 @@
 ?oshawott -> pokemon pokemon_black_and_white pokemon_black_2_and_white_2 pokemon_legends:_arceus pokemon_diamond/pearl/platinum pokemon_(anime) pokemon_heartgold_and_soulsilver pokemon_ruby/sapphire/emerald pokemon_firered_and_leafgreen pokemon_red/green/blue/yellow
 ?snivy -> pokemon pokemon_black_and_white pokemon_black_2_and_white_2 pokemon_diamond/pearl/platinum pokemon_heartgold_and_soulsilver pokemon_ruby/sapphire/emerald pokemon_firered_and_leafgreen pokemon_x_and_y pokemon_gold/silver/crystal pokemon_(anime)
 ?tepig -> pokemon pokemon_black_and_white pokemon_black_2_and_white_2 pokemon_legends:_z-a pokemon_diamond/pearl/platinum pokemon_heartgold_and_soulsilver pokemon_ruby/sapphire/emerald pokemon_firered_and_leafgreen pokemon_x_and_y pokemon_gold/silver/crystal
+?kagawa_makina -> assault_lily suika_game
