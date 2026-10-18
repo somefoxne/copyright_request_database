@@ -5988,3 +5988,4 @@
 ?han_jumin -> susanghan_messenger original danshi_koukousei_no_nichijou the_miraculous_journey_of_edward_tulane
 ?alhaitham_(genshin_impact) -> genshin_impact mihoyo honkai_(series) honkai:_star_rail duolingo honkai_impact_3rd alien_stage kfc vocaloid gigo
 ?lumine_(night_hunt_in_snow)_(genshin_impact) -> genshin_impact honkai_(series) honkai:_star_rail mihoyo zenless_zone_zero honkai_impact_3rd
+?carla_radames -> resident_evil resident_evil_6 resident_evil_village resident_evil:_revelations resident_evil_2 resident_evil_3:_nemesis resident_evil_5 resident_evil:_revelations_2
