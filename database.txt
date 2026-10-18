@@ -5801,3 +5801,4 @@
 ?sengoku_yuno_(1st_anniversary) -> bang_dream! bang_dream!_yumemita cardfight!!_vanguard bushiroad
 ?alcina_dimitrescu -> resident_evil resident_evil_village resident_evil_4 resident_evil_4_(remake) capcom resident_evil_requiem street_fighter resident_evil_3:_nemesis original pokemon
 ?hatsume_mei -> boku_no_hero_academia comiket_98 jujutsu_kaisen monster_hunter_(series) monster_hunter_wilds zenless_zone_zero danganronpa_(series) street_fighter street_fighter_iv_(series) amazon_(company)
+?simone_(reverse:1999) -> reverse:1999
