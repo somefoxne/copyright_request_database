@@ -4652,3 +4652,4 @@
 ?meltryllis_(fate) -> fate_(series) fate/grand_order fate/extra fate/extra_ccc fate/stay_night fate/extra_ccc_fox_tail kantai_collection fate/apocrypha fate/kaleid_liner_prisma_illya hololive
 ?meltryllis_(swimsuit_lancer)_(fate) -> fate_(series) fate/grand_order fate/extra fate/extra_ccc original kantai_collection pokemon fate/stay_night hololive blue_archive
 ?meltryllis_(swimsuit_lancer)_(second_ascension)_(fate) -> fate_(series) fate/grand_order fate/extra fate/extra_ccc original eiyuu_densetsu sen_no_kiseki_(series) sen_no_kiseki_iii kantai_collection hololive
+?mother_gothel -> tangled disney snow_white_and_the_seven_dwarfs_(disney) aladdin_(movie) shrek_(series) big_hero_6 beauty_and_the_beast_(disney) rapunzel_(fairy_tale) the_princess_and_the_frog_(disney)
