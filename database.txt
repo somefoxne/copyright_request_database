@@ -4555,3 +4555,4 @@
 ?ninomae_ina'nis_(holonatsu_paradise) -> hololive hololive_english hololive_indonesia hololive_dev_is
 ?ain_(phantasy_star) -> phantasy_star phantasy_star_iii
 ?mieu_(phantasy_star) -> phantasy_star phantasy_star_iii phantasy_star_online phantasy_star_ii phantasy_star_iv sonic_(series) puyopuyo ryuu_ga_gotoku_(series) sonic_the_hedgehog_(classic) virtua_fighter
+?shiin_(phantasy_star) -> phantasy_star phantasy_star_iii
