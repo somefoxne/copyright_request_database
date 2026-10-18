@@ -4318,3 +4318,4 @@
 ?kiso_kai_ni_(kancolle) -> kantai_collection line_(naver) gundam pokemon crossbone_gundam granblue_fantasy splatoon_(series) dragon_ball splatoon_1 .hack//
 ?knight_(yu-gi-oh!) -> yu-gi-oh! mega_man_(series) mega_man_battle_network_(series) mario_(series) mario_kart mega_man_battle_network_3 kirby_(series) mario_kart_world kirby_air_ride
 ?lovely_labrynth_of_the_silver_castle -> yu-gi-oh! yu-gi-oh!_master_duel guilty_crown goddess_of_victory:_nikke mario_(series) mega_man_(series) mega_man_battle_network_(series) original yu-gi-oh!_duel_monsters mario_kart
+?balloon_party -> reverse:1999 fate_(series) fate/grand_order
