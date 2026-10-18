@@ -4659,3 +4659,4 @@
 ?sakura_(fire_emblem) -> fire_emblem fire_emblem_fates fire_emblem_heroes fire_emblem_awakening fire_emblem:_three_houses fire_emblem:_the_blazing_blade fire_emblem:_path_of_radiance fire_emblem_cipher fire_emblem:_mystery_of_the_emblem fire_emblem:_the_sacred_stones
 ?sakura_(gentle_nekomata)_(fire_emblem) -> fire_emblem fire_emblem_fates fire_emblem_heroes fire_emblem_awakening fire_emblem:_the_sacred_stones fire_emblem:_the_blazing_blade fire_emblem:_path_of_radiance fire_emblem_echoes:_shadows_of_valentia fire_emblem_cipher original
 ?tekla_badarzewska-baranowska_(classicaloid) -> classicaloid wizarding_world nandemo_iu_koto_wo_kiite_kureru_akane-chan_(voiceroid)
+?kanna_kamui -> kobayashi-san_chi_no_maidragon spy_x_family fate_(series) kantai_collection blue_archive eromanga_sensei gochuumon_wa_usagi_desu_ka? kyoto_animation pokemon re:zero_kara_hajimeru_isekai_seikatsu
