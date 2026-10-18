@@ -6028,3 +6028,4 @@
 ?rahu_(path_to_nowhere) -> path_to_nowhere original final_fantasy league_of_legends final_fantasy_xiv twitter pokemon umamusume pokemon_scarlet_and_violet reverse:1999
 ?shalom_(path_to_nowhere) -> path_to_nowhere honkai_(series) honkai:_star_rail final_fantasy final_fantasy_xiv league_of_legends bang_dream! twitter pokemon
 ?gallica_(metaphor:_refantazio) -> metaphor:_refantazio persona persona_3 atlus shin_megami_tensei persona_5 sonic_(series) persona_4 ryuu_ga_gotoku_(series) sega
+?tristana_(league) -> league_of_legends original mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) kuso_miso_technique genshin_impact gundam splatoon_(series) mario_(series) dragon_ball
