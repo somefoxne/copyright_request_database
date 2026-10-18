@@ -4799,3 +4799,4 @@
 ?runami_yachiyo_(kassen) -> cho_kaguya-hime! jujutsu_kaisen bobobo-bo_bo-bobo
 ?lili_(tekken) -> tekken tekken_8 tekken_7 tekken_6 tekken_5 street_fighter the_king_of_fighters street_fighter_x_tekken
 ?kabru -> dungeon_meshi the_legend_of_zelda sousou_no_frieren shingeki_no_kyojin twitter the_weaker_sex_1_(gibson) original fate_(series) fate/grand_order suzumiya_haruhi_no_yuuutsu
+?kagari_mimi -> kimi_ga_shinu_made_koi_wo_shitai little_red_riding_hood_(fairy_tale) vocaloid newtype hololive nijisanji indie_virtual_youtuber precure voiceroid hololive_dev_is
