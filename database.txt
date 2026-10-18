@@ -6230,3 +6230,4 @@
 ?red_sniper_(tf2) -> team_fortress_2 hololive zenless_zone_zero hololive_english original touhou mario_(series) pokemon vocaloid marvel
 ?clefable -> pokemon pokemon_legends:_z-a pokemon_sun_and_moon pokemon_firered_and_leafgreen pokemon_(anime) pokemon_red/green/blue/yellow pokemon_(classic_anime) pokemon_the_series:_sun_&_moon pokemon_adventures pokemon_diamond/pearl/platinum
 ?mega_clefable -> pokemon pokemon_legends:_z-a fate_(series) fate/grand_order pokemon_scarlet_and_violet pokemon_tcg
+?arden_(fire_emblem) -> fire_emblem fire_emblem:_genealogy_of_the_holy_war fire_emblem_heroes fire_emblem_fates fire_emblem:_three_houses fire_emblem:_the_blazing_blade fire_emblem_cipher fire_emblem_awakening fire_emblem:_the_binding_blade fire_emblem_engage
