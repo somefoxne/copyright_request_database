@@ -6172,3 +6172,4 @@
 ?cid_nan_garlond -> final_fantasy final_fantasy_xiv final_fantasy_vii final_fantasy_vi final_fantasy_xi final_fantasy_ix final_fantasy_viii final_fantasy_x final_fantasy_iv final_fantasy_v
 ?nero_tol_scaeva -> final_fantasy final_fantasy_xiv fate_(series) fate/grand_order playboy
 ?shower_curtain_man_(undertale) -> utdr_(toby_fox) undertale
+?mademoiselle_crabaletta -> genshin_impact mihoyo honkai_(series) honkai:_star_rail jojo_no_kimyou_na_bouken comiket_104 zenless_zone_zero gundam jujutsu_kaisen oshi_no_ko
