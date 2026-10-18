@@ -6025,3 +6025,4 @@
 ?nakamachi_arale_(1st_anniversary) -> bang_dream! bang_dream!_yumemita
 ?nakamachi_arale_(virtual) -> bang_dream! bang_dream!_yumemita bang_dream!_our_notes bang_dream!_girls_band_party! ganso!_bang_dream_chan sakanaction wasurerarenaino kamen_rider megami_magazine
 ?lulu_(league) -> league_of_legends legends_of_runeterra original pokemon vspo! teamfight_tactics mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) spy_x_family shingeki_no_kyojin
+?rahu_(path_to_nowhere) -> path_to_nowhere original final_fantasy league_of_legends final_fantasy_xiv twitter pokemon umamusume pokemon_scarlet_and_violet reverse:1999
