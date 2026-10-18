@@ -5465,3 +5465,4 @@
 ?yuri_leclerc -> fire_emblem fire_emblem:_three_houses fire_emblem_heroes fire_emblem_warriors:_three_hopes fire_emblem_fates fire_emblem_echoes:_shadows_of_valentia fire_emblem_awakening animal_crossing fire_emblem:_path_of_radiance fire_emblem:_the_sacred_stones
 ?gawr_gura -> hololive hololive_english reflect_(gawr_gura) hololive_indonesia indie_virtual_youtuber minecraft among_us original zenless_zone_zero pokemon
 ?spewpa -> pokemon pokemon_x_and_y pokemon_(anime) pokemon_legends:_z-a pokemon_the_series:_xy pokemon_ruby/sapphire/emerald pokemon_(classic_anime) pokemon_tcg pokemon_the_series:_sun_&_moon pokemon_journeys
+?swirlix -> pokemon pokemon_x_and_y pokemon_legends:_z-a pokemon_sword_and_shield original pokemon_(anime) pokemon_scarlet_and_violet pokemon_mystery_dungeon pokemon_sun_and_moon pokemon_black_2_and_white_2
