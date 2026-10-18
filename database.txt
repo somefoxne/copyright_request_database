@@ -6308,3 +6308,4 @@
 ?abyss_mage_(genshin_impact) -> genshin_impact original among_us touhou honkai_(series) honkai_impact_3rd mario_(series) star_wars mihoyo nichijou
 ?lumine_(zhangjiajie)_(genshin_impact) -> genshin_impact honkai_(series) mihoyo honkai:_star_rail honkai_impact_3rd 2channel
 ?akaba_reiji -> yu-gi-oh! yu-gi-oh!_arc-v yu-gi-oh!_duel_monsters yu-gi-oh!_gx yu-gi-oh!_zexal yu-gi-oh!_vrains jojo_no_kimyou_na_bouken touken_ranbu bemani
+?cait_sith_(megami_tensei) -> shin_megami_tensei devil_survivor_(series) devil_survivor_2 persona shin_megami_tensei_v devil_survivor_1 megami_tensei shin_megami_tensei_ii precure persona_5
