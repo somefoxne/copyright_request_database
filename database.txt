@@ -5424,3 +5424,4 @@
 ?sakuragi_mano -> idolmaster idolmaster_shiny_colors idolmaster_cinderella_girls idolmaster_shiny_colors_song_for_prism idolmaster_(classic) idolmaster_million_live! idolmaster_side-m gakuen_idolmaster idolmaster_dearly_stars idolmaster_million_live!_theater_days
 ?dsr-50_(girls'_frontline) -> azur_lane original fate_(series) fate/grand_order granblue_fantasy metal_gear_(series) bundesliga fc_bayern_munchen
 ?loreley_(girls'_frontline_2) -> hololive hololive_english call_of_duty call_of_duty:_black_ops_2 mission:_impossible_-_rogue_nation
+?shigure_ui_(young)_(vtuber) -> indie_virtual_youtuber shukusei!!_loli-kami_requiem hololive nijisanji onii-chan_wa_oshimai! hololive_dev_is ui-mama_saga blue_archive voisona original
