@@ -5519,3 +5519,4 @@
 ?jeanne_d'arc_alter_(lancer)_(fate) -> fate_(series) fate/samurai_remnant fate/grand_order pokemon pieta
 ?saren_(gunner)_(princess_connect!) -> princess_connect!
 ?suzume_(princess_connect!) -> princess_connect! cygames granblue_fantasy megami_magazine comiket_105
+?heidi_(young)_(arknights) -> arknights
