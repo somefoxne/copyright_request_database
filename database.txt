@@ -4382,3 +4382,4 @@
 ?ushiromiya_battler -> umineko_no_naku_koro_ni higurashi_no_naku_koro_ni dawn_of_the_golden_witch ougon_musou_kyoku touhou twilight_of_the_golden_witch end_of_the_golden_witch turn_of_the_golden_witch vocaloid higurashi_no_naku_koro_ni_mei
 ?captain_vul -> kirby_(series) kirby_super_star kirby_64 kirby_&_the_amazing_mirror kirby:_squeak_squad kirby:_planet_robobot kirby_and_the_forgotten_land kirby_star_allies
 ?heavy_lobster -> kirby_(series) kirby_super_star kirby_air_ride kirby:_right_back_at_ya! kirby:_squeak_squad kirby_64 kirby_and_the_forgotten_land kirby_star_allies
+?paint_kirby -> kirby_(series) kirby_64 kirby_super_star kirby:_planet_robobot kirby_star_allies kirby:_squeak_squad
