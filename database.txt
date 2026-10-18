@@ -5498,3 +5498,4 @@
 ?carrion_crow_(kemono_friends) -> kemono_friends kemono_friends_3
 ?clover_(deltarune) -> utdr_(toby_fox) deltarune naruto_(series) naruto_shippuuden undertale pokemon umamusume dragon_ball little_red_riding_hood_(fairy_tale) roblox
 ?rouxls_kaard -> utdr_(toby_fox) deltarune undertale pokemon vocaloid the_amazing_digital_circus yume_nikki naruto_(series) naruto_shippuuden panty_&_stocking_with_garterbelt
+?inugami_korone_(9th_costume) -> hololive chainsaw_man comiket_107 doom_(series) friday_the_13th
