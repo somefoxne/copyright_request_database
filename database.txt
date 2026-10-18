@@ -5717,3 +5717,4 @@
 ?sonoda_chiyoko -> idolmaster idolmaster_shiny_colors idolmaster_shiny_colors_song_for_prism idolmaster_cinderella_girls pokemon dars idolmaster_million_live! idolmaster_poplinks gakuen_idolmaster idolmaster_side-m
 ?kaneshiya_sitara -> alice_gear_aegis project_tokyo_dolls dead_or_alive gundam world_witches_series frame_arms_girl megami_device strike_witches macross mobile_suit_gundam
 ?hiiragi_asuka_(twinbox) -> twinbox_school original dengeki_moeoh comiket_106 comiket_108
+?medicine_melancholy -> touhou phantasmagoria_of_flower_view touhou_(pc-98) touhou_lostword embodiment_of_scarlet_devil perfect_cherry_blossom imperishable_night mountain_of_faith undefined_fantastic_object reitaisai
