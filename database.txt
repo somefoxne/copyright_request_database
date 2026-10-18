@@ -6081,3 +6081,4 @@
 ?angeal_hewley -> final_fantasy final_fantasy_vii crisis_core:_final_fantasy_vii final_fantasy_vii:_ever_crisis final_fantasy_vii_remake final_fantasy_vi square_enix final_fantasy_vii_rebirth final_fantasy_vii:_advent_children dirge_of_cerberus:_final_fantasy_vii
 ?mina_(mamiya) -> sekai_metsubou_kyouyuu_gensou_mamiya omori shoujo_kakumei_utena
 ?toujou_minato -> sekai_metsubou_kyouyuu_gensou_mamiya omori shoujo_kakumei_utena
+?jeanne_d'arc_(girl_from_orleans)_(fate) -> fate_(series) fate/apocrypha fate/grand_order fate/stay_night fate/extra tsukihime fate/hollow_ataraxia touhou type-moon learning_with_manga!_fgo
