@@ -4648,3 +4648,4 @@
 ?otowa_kanae -> classicaloid tengen_toppa_gurren_lagann bloodborne little_miss_sunshine
 ?pad-kun_(classicaloid) -> classicaloid
 ?wolfgang_amadeus_mozart_(classicaloid) -> classicaloid wizarding_world fate_(series) fate/grand_order kemono_friends splatoon_(series) little_red_riding_hood_(fairy_tale) ib_(kouri) cherry_pop_(vocaloid) ntt_docomo
+?sakuba_yuki -> astrae_oratio
