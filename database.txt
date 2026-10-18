@@ -5860,3 +5860,4 @@
 ?rafululu_love_(duel_masters) -> duel_masters dragon_musume_ni_naritakunai! duel_masters_(classic) umamusume magic:_the_gathering
 ?sora_(ninjago) -> ninjago ninjago:_dragons_rising precure futari_wa_precure lego_monkie_kid
 ?kinugasa_(christmas)_(kancolle) -> kantai_collection
+?kinugasa_(kancolle) -> kantai_collection pokemon street_fighter original street_fighter_zero_(series) macross macross_frontier lawson aoki_hagane_no_arpeggio ghost_sweeper_mikami
