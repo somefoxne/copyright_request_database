@@ -5224,3 +5224,4 @@
 ?nyanners_(mongil:_star_dive) -> mongil:_star_dive
 ?watanabe_you -> love_live! love_live!_sunshine!! love_live!_school_idol_festival love_live!_school_idol_project koi_ni_naritai_aquarium love_live!_school_idol_festival_all_stars genjitsu_no_yohane love_live!_nijigasaki_high_school_idol_club kimi_no_kokoro_wa_kagayaiteru_kai? real_life
 ?agumon_(digimon_savers) -> digimon digimon_savers digimon_adventure digimon_adventure_02 digimon_tamers digimon_frontier digimon_xros_wars digimon_xros_wars:_toki_wo_kakeru_shounen_hunter-tachi digimon_universe:_appli_monsters digimon_card_game
+?daimon_masaru_(digimon_savers) -> digimon digimon_savers digimon_adventure digimon_adventure_02 digimon_tamers digimon_frontier digimon_xros_wars digimon_xros_wars:_toki_wo_kakeru_shounen_hunter-tachi digimon_universe:_appli_monsters digimon_ghost_game
