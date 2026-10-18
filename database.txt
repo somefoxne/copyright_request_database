@@ -6183,3 +6183,4 @@
 ?varka_(genshin_impact) -> genshin_impact gintama honkai_(series) honkai:_star_rail zenless_zone_zero mihoyo original among_us toy_daddy_(manhwa) pokemon
 ?ayase_momo -> dandadan chainsaw_man sono_bisque_doll_wa_koi_wo_suru persona mob_psycho_100 pokemon sousou_no_frieren persona_3 science_saru umamusume
 ?takakura_ken_(dandadan) -> dandadan chainsaw_man mob_psycho_100 pokemon sono_bisque_doll_wa_koi_wo_suru science_saru boku_no_hero_academia dragon_ball tokyo_ghoul shounen_jump
+?firis_mistlud -> atelier_(series) atelier_firis atelier_lydie_&_suelle atelier_sophie atelier_resleriana atelier_ayesha atelier_marie atelier_totori nelke_to_densetsu_no_renkinjutsushi_tachi atelier_rorona
