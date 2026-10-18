@@ -5799,3 +5799,4 @@
 ?cinnamoroll -> sanrio fuwa_fuwa_cinnamoroll vocaloid my_melody_(series) original hello_kitty genshin_impact project_sekai kero_kero_keroppi pokemon
 ?gwosti-chan_(gwosti) -> original sanrio
 ?sengoku_yuno_(1st_anniversary) -> bang_dream! bang_dream!_yumemita cardfight!!_vanguard bushiroad
+?alcina_dimitrescu -> resident_evil resident_evil_village resident_evil_4 resident_evil_4_(remake) capcom resident_evil_requiem street_fighter resident_evil_3:_nemesis original pokemon
