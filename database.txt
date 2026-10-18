@@ -4689,3 +4689,4 @@
 ?yamada_ichiro -> hypnosis_mic hypnosis_mic:_alternative_rap_battle hypnosis_mic:_rule_the_stage sanrio hello_kitty hypnosis_mic:_dream_rap_battle pokemon original idolmaster blue_archive
 ?ishikawa_kanami -> cardfight!!_vanguard cardfight!!_vanguard_divinez
 ?ishikawa_kurumi -> cardfight!!_vanguard cardfight!!_vanguard_divinez
+?circe_(fate) -> fate_(series) fate/grand_order fate/stay_night fate/samurai_remnant fate/extra original fate/apocrypha pixiv_fate/grand_order_contest_2 gundam fate/kaleid_liner_prisma_illya
