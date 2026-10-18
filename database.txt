@@ -5618,3 +5618,4 @@
 ?speaki_(pure_pumpkin)_(trickcal) -> trickcal
 ?crobat -> pokemon pokemon_heartgold_and_soulsilver pokemon_gold/silver/crystal pokemon_diamond/pearl/platinum pokemon_sun_and_moon pokemon_x_and_y pokemon_red/green/blue/yellow pokemon_black_and_white pokemon_firered_and_leafgreen pokemon_ruby/sapphire/emerald
 ?amatsukaze_(kancolle) -> kantai_collection idolmaster aoki_hagane_no_arpeggio original tenga fate_(series) idolmaster_cinderella_girls lawson neon_genesis_evangelion lucky_star
+?amatsukaze_kai_ni_(kancolle) -> kantai_collection azur_lane gundam gundam_gquuuuuux puyopuyo comiket_103
