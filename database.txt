@@ -6179,3 +6179,4 @@
 ?nakahara_chuuya_(bungou_stray_dogs) -> bungou_stray_dogs original pokemon genshin_impact boku_no_hero_academia wizarding_world harry_potter_(series) peanuts_(comic) touhou fate_(series)
 ?primadonna_(echo) -> echo_(vocaloid) vocaloid chou_eshi_ten_~if_no_gakkyoku_sekai_ten~ original dragon_ball utau dragon_ball_super hellaverse hazbin_hotel project_diva_(series)
 ?hebi_nyoubou_(fate) -> fate_(series) fate/grand_order comiket_106 fate/kaleid_liner_prisma_illya fate/stay_night blue_archive fate/apocrypha fire_emblem fire_emblem_fates comiket_107
+?vindicta_(deadlock) -> deadlock_(game) jujutsu_kaisen sanrio fuwa_fuwa_cinnamoroll fallen_angels_(movie)
