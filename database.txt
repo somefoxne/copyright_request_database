@@ -5457,3 +5457,4 @@
 ?onionsan -> utdr_(toby_fox) undertale deltarune original mob_psycho_100 spongebob_squarepants_(series) glitchtale roki_(vocaloid) the_big_bang_theory young_sheldon
 ?sakurako_(idol)_(blue_archive) -> blue_archive blue_archive_the_animation comiket_105 guilty_crown oshi_no_ko spongebob_squarepants_(series) never_gonna_give_you_up original fate_(series) idolmaster
 ?b.b._muamua -> izigenia
+?qc_(utdr) -> utdr_(toby_fox) undertale deltarune original
