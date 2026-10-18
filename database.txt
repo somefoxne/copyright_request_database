@@ -4437,3 +4437,4 @@
 ?garbodor -> pokemon pokemon_black_and_white pokemon_sword_and_shield pokemon_black_2_and_white_2 pokemon_legends:_z-a pokemon_x_and_y pokemon_tcg pokemon_(anime) pokemon_the_series:_sun_&_moon original
 ?shikibe_mayu -> riddle_joker yuzusoft sanoba_witch cafe_stella_to_shinigami_no_chou senren_banka dracu-riot! amairo_islenauts tenshi_souzou_re-boot! comiket_101 comiket_94
 ?grookey -> pokemon pokemon_sword_and_shield pokemon_(anime) pokemon_journeys pokemon_sun_and_moon pokemon_x_and_y pokemon_diamond/pearl/platinum pokemon_black_and_white pokemon_red/green/blue/yellow pokemon_black_2_and_white_2
+?hoshino_yumemi -> planetarian key_(company) little_busters! angel_beats! kanon rewrite clannad air_(visual_novel) charlotte_(anime) dango_daikazoku
