@@ -4602,3 +4602,4 @@
 ?rina_atherina -> original ombok_diving_and_delivery_services watashi_no_inchou_desu!! azur_lane final_fantasy gundam final_fantasy_vii k-on! final_fantasy_vii_remake goddess_of_victory:_nikke
 ?nina_(breath_of_fire_iii) -> breath_of_fire breath_of_fire_iii breath_of_fire_ii breath_of_fire_iv breath_of_fire_v breath_of_fire_i capcom street_fighter mega_man_(series) mega_man_(classic)
 ?ryu_(breath_of_fire_iii) -> breath_of_fire breath_of_fire_iii breath_of_fire_ii breath_of_fire_v breath_of_fire_iv breath_of_fire_i street_fighter capcom mega_man_(series) darkstalkers
+?curren_chan_(fille_eclair)_(umamusume) -> umamusume original real_life umamusume:_cinderella_gray umamusume:_beginning_of_a_new_era umamusume:_road_to_the_top akari_ga_yatte_kitazo_(vocaloid) pokemon nichijou youtube
