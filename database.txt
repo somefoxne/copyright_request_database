@@ -5338,3 +5338,4 @@
 ?barbara_(genshin_impact) -> genshin_impact honkai_(series) mihoyo honkai:_star_rail honkai_impact_3rd original comiket_100 pokemon horizon_(game) blue_archive
 ?prism_shine -> soukou_senki_prism_reica soukou_senki_prism_shine
 ?shindou_hikari -> soukou_senki_prism_reica soukou_senki_prism_shine
+?female_sensei_(blue_archive)_(xipa) -> blue_archive project_kv original twitter trickcal little_red_riding_hood_(fairy_tale) vitruvian_man
