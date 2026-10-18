@@ -5187,3 +5187,4 @@
 ?tropius -> pokemon pokemon_ruby/sapphire/emerald pokemon_omega_ruby_and_alpha_sapphire pokemon_adventures pokemon_emerald pokemon_scarlet_and_violet pokemon_diamond/pearl/platinum pokemon_firered_and_leafgreen pokemon_sun_and_moon pokemon_(anime)
 ?meisho_tabaru_(racehorse) -> umamusume real_life original bishoujo_senshi_sailor_moon gintama sakura_taisen sakura_taisen_iii japan_racing_association the_royal_family_(tv_series)
 ?ichinose_uruha_(8th_costume) -> vspo! pokemon crazy_raccoon jigoku_sensei_nube honogurashi_no_niwa riddle_order
+?tyrunt -> pokemon pokemon_x_and_y pokemon_(anime) pokemon_the_series:_xy pokemon_sword_and_shield pokemon_sun_and_moon pokemon_diamond/pearl/platinum pokemon_(classic_anime) pokemon_the_series:_sun_&_moon pokemon_red/green/blue/yellow
