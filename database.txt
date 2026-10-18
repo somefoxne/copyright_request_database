@@ -5628,3 +5628,4 @@
 ?picora_(trickcal) -> trickcal
 ?brockenman -> kinnikuman
 ?kindaichi_yuutarou -> haikyuu!! disney tetris
+?kunimi_akira -> haikyuu!! disney tetris
