@@ -4901,3 +4901,4 @@
 ?cure_answer -> precure meitantei_precure! meitantei_conan kamen_rider kimi_to_idol_precure toei_company wonderful_precure! tropical-rouge!_precure hirogaru_sky!_precure pokemon
 ?cure_eclair -> precure meitantei_precure! kamen_rider wonderful_precure! toei_company hirogaru_sky!_precure umamusume kimi_to_idol_precure blue_archive mahou_shoujo_madoka_magica
 ?ieiri_shoko -> jujutsu_kaisen studio_mappa one_piece chainsaw_man dungeon_meshi monster_strike sousou_no_frieren kimetsu_no_yaiba pokemon umamusume
+?kikyou_(swimsuit)_(blue_archive) -> blue_archive comiket_106 blue_archive_the_animation pokemon zenless_zone_zero elden_ring elden_ring_nightreign original kantai_collection idolmaster
