@@ -5085,3 +5085,4 @@
 ?toyama_kasumi -> bang_dream! bang_dream!_girls_band_party! yumenokessho bang_dream!_yumemita shoujo_kageki_revue_starlight ganso!_bang_dream_chan vocaloid love_live! synthesizer_v
 ?poted's_character -> original pokemon
 ?hornet_(hollow_knight) -> hollow_knight hollow_knight:_silksong hololive hololive_english original spy_x_family marvel spider-man_(series) indie_virtual_youtuber blue_archive
+?knight_(hollow_knight) -> hollow_knight hollow_knight:_silksong pokemon hololive nier_(series) hololive_english nier:automata cuphead_(game) mario_(series) utdr_(toby_fox)
