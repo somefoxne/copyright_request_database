@@ -5932,3 +5932,4 @@
 ?sugahara_touka -> kouyoku_senki_exs-tia_concert
 ?bb_dubai_(fate) -> fate_(series) fate/grand_order fate/extra fate/extra_ccc indie_virtual_youtuber hololive hololive_english otome_gee_sekai_wa_mob_ni_kibishii_sekai_desu tsukihime toaru_majutsu_no_index
 ?kishinami_hakuno_(female) -> fate_(series) fate/extra fate/extra_ccc fate/grand_order fate/extella fate/stay_night fate/extella_link fate/zero fate/extra_record fate/hollow_ataraxia
+?mystical_elf -> yu-gi-oh! yu-gi-oh!_duel_monsters original to_heart_(series) ultra_series to_heart yu-gi-oh!_the_dark_side_of_dimensions yu-gi-oh!_(toei) hudson hellraiser
