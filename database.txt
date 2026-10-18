@@ -5175,3 +5175,4 @@
 ?perseus_(azur_lane) -> azur_lane azur_lane:_slow_ahead comiket_107 microsoft_windows mona_lisa windows_10 atelier_(series) atelier_ryza comiket_105
 ?asumi_sena -> vspo! holostars nijisanji hololive madtown_gta apex_legends neo-porte xross_stars comiket_102 original
 ?vergilius_(project_moon) -> project_moon limbus_company library_of_ruina leviathan_(project_moon) lobotomy_corporation arknights blue_archive the_distortion_detective shukusei!!_loli-kami_requiem umamusume
+?amayoi_yurari -> indie_virtual_youtuber
