@@ -6151,3 +6151,4 @@
 ?trickywi -> indie_virtual_youtuber gamer_supps monster_hunter_(series) vshojo socks_agency vchiban pokemon hololive hololive_english nijisanji
 ?kanno_fumi -> devil_survivor_(series) devil_survivor_2 megami_tensei original soul_eater devil_survivor_1 yozakura_quartet
 ?kagamine_len_(nt) -> vocaloid piapro_studio utau synthesizer_v cevio midi_master_(vocaloid)
+?kagamine_rin_(nt) -> vocaloid piapro_studio pokemon synthesizer_v cevio midi_master_(vocaloid)
