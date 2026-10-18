@@ -5987,3 +5987,4 @@
 ?dimo_(roco_kingdom:_world) -> roco_kingdom roco_kingdom:_world tencent_qq
 ?han_jumin -> susanghan_messenger original danshi_koukousei_no_nichijou the_miraculous_journey_of_edward_tulane
 ?alhaitham_(genshin_impact) -> genshin_impact mihoyo honkai_(series) honkai:_star_rail duolingo honkai_impact_3rd alien_stage kfc vocaloid gigo
+?lumine_(night_hunt_in_snow)_(genshin_impact) -> genshin_impact honkai_(series) honkai:_star_rail mihoyo zenless_zone_zero honkai_impact_3rd
