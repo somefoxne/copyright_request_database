@@ -6180,3 +6180,4 @@
 ?primadonna_(echo) -> echo_(vocaloid) vocaloid chou_eshi_ten_~if_no_gakkyoku_sekai_ten~ original dragon_ball utau dragon_ball_super hellaverse hazbin_hotel project_diva_(series)
 ?hebi_nyoubou_(fate) -> fate_(series) fate/grand_order comiket_106 fate/kaleid_liner_prisma_illya fate/stay_night blue_archive fate/apocrypha fire_emblem fire_emblem_fates comiket_107
 ?vindicta_(deadlock) -> deadlock_(game) jujutsu_kaisen sanrio fuwa_fuwa_cinnamoroll fallen_angels_(movie)
+?varka_(genshin_impact) -> genshin_impact gintama honkai_(series) honkai:_star_rail zenless_zone_zero mihoyo original among_us toy_daddy_(manhwa) pokemon
