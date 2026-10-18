@@ -5031,3 +5031,4 @@
 ?ranka_lee -> macross macross_frontier macross_frontier:_sayonara_no_tsubasa macross_frontier:_itsuwari_no_utahime uta_macross_sumaho_deculture macross_delta vocaloid macross_7 choujikuu_yousai_macross touhou
 ?sheryl_nome -> macross macross_frontier macross_frontier:_itsuwari_no_utahime macross_frontier:_sayonara_no_tsubasa macross_7 macross_delta uta_macross_sumaho_deculture lucky_star choujikuu_yousai_macross vocaloid
 ?bella_(honkai_impact) -> honkai_(series) honkai_impact_3rd genshin_impact sonic_(series) mihoyo sonic_adventure_2 sonic_adventure_2:_battle
+?benares_(honkai_impact) -> honkai_(series) honkai_impact_3rd mihoyo genshin_impact honkai:_star_rail zenless_zone_zero sonic_(series) honkai_gakuen carnival_phantasm sonic_adventure_2
