@@ -6237,3 +6237,4 @@
 ?ogami_tamaki -> idolmaster idolmaster_million_live! idolmaster_million_live!_theater_days idolmaster_(classic) idolmaster_cinderella_girls idolmaster_shiny_colors idolmaster_dearly_stars idolmaster_side-m idolmaster_poplinks taiko_no_tatsujin
 ?himura_kenshin -> rurouni_kenshin one_piece dragon_ball naruto_(series) bleach yu_yu_hakusho gintama naruto_(classic) jojo_no_kimyou_na_bouken yu-gi-oh!
 ?kamiya_kaoru -> rurouni_kenshin idolmaster idolmaster_cinderella_girls gintama hakuouki_shinsengumi_kitan fate_(series) yu-gi-oh! fate/stay_night bishoujo_senshi_sailor_moon spy_x_family
+?kokonoe_rin -> kodomo_no_jikan megami_magazine clannad lucky_star vocaloid zero_no_tsukaima shakugan_no_shana idolmaster lyrical_nanoha da_capo
