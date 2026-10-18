@@ -5688,3 +5688,4 @@
 ?xander_(fire_emblem) -> fire_emblem fire_emblem_fates fire_emblem_heroes fire_emblem_awakening pokemon fire_emblem:_mystery_of_the_emblem fire_emblem_cipher fire_emblem:_path_of_radiance fire_emblem:_the_blazing_blade fire_emblem:_three_houses
 ?ayase_yuka -> persona persona_1 persona_4 persona_5 persona_2 persona_2_tsumi persona_3 persona_2_batsu persona_3_portable shin_megami_tensei
 ?inaba_masao -> persona persona_1 persona_2 persona_2_tsumi persona_3 persona_2_batsu persona_4 persona_3_portable devil_summoner_(series) persona_5
+?uesugi_hidehiko -> persona persona_1 persona_2 persona_3 persona_4 persona_2_batsu persona_2_tsumi persona_5 shin_megami_tensei persona_3_portable
