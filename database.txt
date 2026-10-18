@@ -5193,3 +5193,4 @@
 ?sakaki_(azumanga_daioh) -> azumanga_daioh yotsubato! lucky_star vocaloid megami_magazine k-on! suzumiya_haruhi_no_yuuutsu azumanga_daioh_hoshuu-hen touhou pokemon
 ?shinguuji_sakura -> sakura_taisen sakura_taisen_iii sakura_taisen_ii sega sakura_taisen_v shin_sakura_taisen sonic_(series) street_fighter cardcaptor_sakura space_channel_5
 ?souseiseki -> rozen_maiden suzumiya_haruhi_no_yuuutsu higurashi_no_naku_koro_ni gundam lyrical_nanoha shakugan_no_shana aria_(manga) fushigiboshi_no_futago_hime ichigo_mashimaro precure
+?takano_miyo -> higurashi_no_naku_koro_ni umineko_no_naku_koro_ni matsuribayashi-hen higurashi_no_naku_koro_ni_mei higurashi_umineko_card_battle_jin suzumiya_haruhi_no_yuuutsu rozen_maiden vocaloid lucky_star neon_genesis_evangelion
