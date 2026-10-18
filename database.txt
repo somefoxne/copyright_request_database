@@ -5772,3 +5772,4 @@
 ?kanaya_neri -> alice_gear_aegis wuthering_waves world_witches_series strike_witches
 ?hakui_koyori_(1st_costume) -> hololive hololive_english hololive_dev_is hololive_indonesia pokemon hololive_official_card_game nijisanji mario_(series) tengen_toppa_gurren_lagann getting_over_it
 ?himemushi_momoyo -> touhou unconnected_marketeers touhou_(pc-98) minecraft touhou_lostword shinra-bansho_(circle) reitaisai sunken_fossil_world pokemon embodiment_of_scarlet_devil
+?mordred_(memories_at_trifas)_(fate) -> fate_(series) fate/apocrypha fate/grand_order fate/stay_night fate/extra learning_with_manga!_fgo arknights fate/hollow_ataraxia sono_bisque_doll_wa_koi_wo_suru fate/tiger_colosseum
