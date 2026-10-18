@@ -6088,3 +6088,4 @@
 ?eula_(genshin_impact) -> genshin_impact pizza_hut mihoyo honkai_(series) honkai:_star_rail arknights zenless_zone_zero comiket_100 honkai_impact_3rd fire_emblem
 ?kirakishou -> rozen_maiden suzumiya_haruhi_no_yuuutsu gundam higurashi_no_naku_koro_ni shakugan_no_shana lyrical_nanoha ichigo_mashimaro precure aria_(manga) keroro_gunsou
 ?irisu_makina -> grisaia_(series) grisaia_no_kajitsu grisaia_no_rakuen grisaia_no_meikyuu grisaia_battlefield_barcarolle megami_magazine little_busters! nyantype indie_virtual_youtuber da_capo
+?perona -> one_piece one_piece_card_game one_piece_treasure_cruise one_piece_film:_red pokemon original mario_(series) naruto_(series) dc_comics sanrio
