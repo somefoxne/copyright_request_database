@@ -5360,3 +5360,4 @@
 ?clorinde_(genshin_impact) -> genshin_impact honkai_(series) honkai:_star_rail mihoyo olympics 2024_summer_olympics shingeki_no_kyojin blue_archive zenless_zone_zero
 ?wriothesley_(genshin_impact) -> genshin_impact mihoyo zenless_zone_zero honkai_(series) honkai:_star_rail original among_us jojo_no_kimyou_na_bouken honkai_impact_3rd
 ?commander_(girls_garden) -> muv-luv muv-luv_girls_garden muv-luv_alternative muv-luv_total_eclipse schwarzesmarken muv-luv_tactics
+?ichijo_shirona -> muv-luv muv-luv_girls_garden muv-luv_alternative
