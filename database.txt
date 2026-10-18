@@ -4444,3 +4444,4 @@
 ?cosmo_(chainsaw_man) -> chainsaw_man umamusume it_(stephen_king) frankenstein ao_oni original genshin_impact final_fantasy mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime)
 ?pingtsi_(chainsaw_man) -> chainsaw_man genshin_impact umamusume final_fantasy mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) final_fantasy_vii neon_genesis_evangelion naruto_(series) jujutsu_kaisen
 ?tsugihagi_(chainsaw_man) -> chainsaw_man genshin_impact umamusume final_fantasy mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) final_fantasy_vii naruto_(series) jujutsu_kaisen bleach
+?cq_tenshi_hamuel -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_aces mahou_shoujo_ikusei_keikaku_queens
