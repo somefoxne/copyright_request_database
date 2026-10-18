@@ -4447,3 +4447,4 @@
 ?cq_tenshi_hamuel -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_aces mahou_shoujo_ikusei_keikaku_queens
 ?shenhe_(genshin_impact) -> genshin_impact mihoyo honkai_(series) honkai:_star_rail honkai_impact_3rd zenless_zone_zero original fate_(series) fate/grand_order azur_lane
 ?taiga_torayami -> indie_virtual_youtuber
+?otogi_(c108_swimsuit)_(blue_archive) -> blue_archive comiket_108
