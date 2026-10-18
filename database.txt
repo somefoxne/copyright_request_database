@@ -4854,3 +4854,4 @@
 ?miyokata_no_nako -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_restart mahou_shoujo_ikusei_keikaku_limited mahou_shoujo_ikusei_keikaku_jokers
 ?rigmor -> sayonara_lara
 ?sand_cat_(kemono_friends) -> kemono_friends kemono_friends_3 godzilla_(series) shin_godzilla keroro_gunsou kemono_friends_2 kemono_friends_kingdom original jojo_no_kimyou_na_bouken twitter
+?cherna_mouse -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_restart mahou_shoujo_ikusei_keikaku_limited mahou_shoujo_ikusei_keikaku_f2p
