@@ -5074,3 +5074,4 @@
 ?ooze_(resident_evil) -> resident_evil resident_evil:_revelations capcom
 ?lily_killer -> demons_roots_(series) demons_roots
 ?somunia -> indie_virtual_youtuber indie_utaite kmnz nanashi_inc. microsoft_windows ficty original cevio windows_classic windows_xp
+?arihara_nanami -> riddle_joker yuzusoft tenshi_souzou_re-boot! sanoba_witch cafe_stella_to_shinigami_no_chou tenshinranman senren_banka dracu-riot! amairo_islenauts hamidashi_creative
