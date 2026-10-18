@@ -4693,3 +4693,4 @@
 ?girl_with_icy_skin -> kagurabachi
 ?hiruhiko_(kagurabachi) -> kagurabachi jujutsu_kaisen gorillaz demon_days_(gorillaz) aizo_(king_gnu)
 ?kagari_hiyuki -> kagurabachi jujutsu_kaisen rabbit_hole_(vocaloid) big_hero_6 madan_no_ichi aizo_(king_gnu)
+?samura_iori -> kagurabachi jujutsu_kaisen gorillaz demon_days_(gorillaz) aizo_(king_gnu)
