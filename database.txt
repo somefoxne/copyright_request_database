@@ -4423,3 +4423,4 @@
 ?majikina_mina -> samurai_spirits snk the_king_of_fighters guilty_gear tekken street_fighter fatal_fury
 ?sonia_strumm_(mega_man) -> mega_man_(series) mega_man_star_force_(series) mega_man_star_force_3 mega_man_battle_network_(series) mega_man_(classic) mega_man_legends_(series) mega_man_x_(series) mega_man_zx mega_man_zero_(series) mega_man_star_force_2
 ?puck_(re:zero) -> re:zero_kara_hajimeru_isekai_seikatsu re:zero_kara_hajimeru_isekai_seikatsu:_lost_in_memories kono_subarashii_sekai_ni_shukufuku_wo! isekai_quartet overlord_(maruyama) youjo_senki gochuumon_wa_usagi_desu_ka? megami_magazine crash_fever last_cloudia
+?prairie_(mega_man) -> mega_man_(series) mega_man_zx mega_man_zero_(series) mega_man_zx_advent mega_man_x_(series) mega_man_battle_network_(series) mega_man_(classic) mega_man_legends_(series) mega_man_star_force_(series) original
