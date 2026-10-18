@@ -4848,3 +4848,4 @@
 ?grace_(sayonara_lara) -> sayonara_lara chainsaw_man newtype the_little_mermaid_(disney) ganbare!_nakamura-kun!! grizzly_ni_osowaretara kinema_citrus
 ?toki_ayano -> yurucamp gundam akiba_maid_sensou gundam_gquuuuuux manga_time_kirara hibike!_euphonium precure lycoris_recoil tropical-rouge!_precure super_cub
 ?m004_(natsukaze_shigure) -> original monster_hunter_(series)
+?@nyannyan -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_restart mahou_shoujo_ikusei_keikaku_unmarked mahou_shoujo_ikusei_keikaku_limited mahou_shoujo_ikusei_keikaku_jokers mahou_shoujo_ikusei_keikaku_aces
