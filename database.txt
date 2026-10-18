@@ -6186,3 +6186,4 @@
 ?firis_mistlud -> atelier_(series) atelier_firis atelier_lydie_&_suelle atelier_sophie atelier_resleriana atelier_ayesha atelier_marie atelier_totori nelke_to_densetsu_no_renkinjutsushi_tachi atelier_rorona
 ?berdly_(dark_world)_(deltarune) -> utdr_(toby_fox) deltarune undertale touhou naruto_(series) jujutsu_kaisen naruto_shippuuden the_amazing_digital_circus pokemon vocaloid
 ?blue_addison_(deltarune) -> utdr_(toby_fox) deltarune
+?hacker_(deltarune) -> utdr_(toby_fox) deltarune little_tikes
