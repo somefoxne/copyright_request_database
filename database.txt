@@ -4739,3 +4739,4 @@
 ?washington_(azur_lane) -> azur_lane azur_lane:_slow_ahead kantai_collection gundam gundam_seed gundam_seed_destiny zozotown national_basketball_association real_life megami_magazine
 ?lapla -> nandome_ka_no_hajimemashite
 ?loretta_(fire_emblem) -> fire_emblem
+?mordred_(fate) -> fate_(series) fate/apocrypha fate/grand_order fate/stay_night fate/extra fate/zero fate/extra_ccc fate/prototype learning_with_manga!_fgo helltaker
