@@ -4826,3 +4826,4 @@
 ?kaname_raana -> bang_dream! bang_dream!_girls_band_party! real_life girls_band_cry bang_dream!_our_notes bocchi_the_rock! egakumirai_(bang_dream!) love_live! ganso!_bang_dream_chan
 ?karia_(atelier) -> atelier_(series) atelier_karia atelier_ryza
 ?kim_pine -> scott_pilgrim_(series) scott_pilgrim_takes_off scott_pilgrim_(comics) persona persona_4 original pokemon dc_comics scott_pilgrim_vs_the_world_(game) neon_genesis_evangelion
+?miyanaga_nonoka_(virtual) -> bang_dream! bang_dream!_yumemita bang_dream!_our_notes bang_dream!_girls_band_party! kimi_no_koto_ga_dai_dai_dai_dai_daisuki_na_100-nin_no_kanojo ganso!_bang_dream_chan chatgpt
