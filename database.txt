@@ -4535,3 +4535,4 @@
 ?naka_(kancolle) -> kantai_collection idolmaster moomin idolmaster_cinderella_girls love_live! kantai_collection_(anime) love_live!_school_idol_project aoki_hagane_no_arpeggio gundam touhou
 ?sendai_(kancolle) -> kantai_collection ninja_slayer original pokemon lawson kantai_collection_(anime) naruto_(series) taimanin_(series) final_fantasy
 ?sayo_(project_moon) -> project_moon library_of_ruina limbus_company monster_girl_encyclopedia original blue_archive made_in_abyss mili_(band) iron_lotus
+?aru_(dress)_(blue_archive) -> blue_archive the_great_gatsby original chainsaw_man shingeki_no_kyojin mahjong_soul microsoft_windows discord the_weaker_sex_1_(gibson) james_bond_(series)
