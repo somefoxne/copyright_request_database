@@ -5443,3 +5443,4 @@
 ?sweet_(deltarune) -> utdr_(toby_fox) deltarune naruto_(series) naruto_shippuuden undertale original touhou pokemon idolmaster boku_no_hero_academia
 ?kageyama_shigeo -> mob_psycho_100 one-punch_man chainsaw_man dandadan pokemon spy_x_family jujutsu_kaisen saiki_kusuo_no_psi_nan gintama kimetsu_no_yaiba
 ?reigen_arataka -> mob_psycho_100 utdr_(toby_fox) undertale one-punch_man chainsaw_man jujutsu_kaisen gintama dandadan boku_no_hero_academia spy_x_family
+?veilvet_whitmore -> izigenia
