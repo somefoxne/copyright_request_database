@@ -4482,3 +4482,4 @@
 ?dr._ratio_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail mihoyo genshin_impact honkai_impact_3rd fate_(series) zenless_zone_zero fate/stay_night fate/unlimited_blade_works the_amazing_world_of_gumball
 ?sigrika_(wuthering_waves) -> wuthering_waves cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 blue_archive dragon_ball oshi_no_ko tonari_no_totoro koukaku_no_regios pizza-la
 ?yangyang_(wuthering_waves) -> wuthering_waves anime_expo punishing:_gray_raven blue_archive kuro_games original honkai_(series) honkai:_star_rail blank_room_soup
+?yangyang_(xuanling)_(wuthering_waves) -> wuthering_waves anime_expo punishing:_gray_raven the_elder_scrolls the_elder_scrolls_v:_skyrim fate_(series) fate/kaleid_liner_prisma_illya hibike!_euphonium liz_to_aoi_tori invincible_(series)
