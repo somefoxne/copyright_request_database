@@ -4699,3 +4699,4 @@
 ?nikaido_chizuru -> idolmaster idolmaster_million_live! idolmaster_million_live!_theater_days idolmaster_(classic) idolmaster_cinderella_girls idolmaster_side-m bandai_namco idolmaster_poplinks idolmaster_shiny_colors
 ?cubone -> pokemon pokemon_red/green/blue/yellow pokemon_(anime) pokemon_firered_and_leafgreen pokemon_mystery_dungeon pokemon_(classic_anime) original vocaloid pokemon_heartgold_and_soulsilver
 ?snorlax -> pokemon pokemon_sleep pokemon_red/green/blue/yellow pokemon_firered_and_leafgreen pokemon_(anime) pokemon_pokopia pokemon_heartgold_and_soulsilver pokemon_sun_and_moon original pokemon_(classic_anime)
+?mash_kyrielight_(paladin) -> fate_(series) fate/grand_order fate/stay_night original idolmaster idolmaster_million_live! marvel fate/extra tsukihime spider-man_(series)
