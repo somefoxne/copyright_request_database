@@ -6134,3 +6134,4 @@
 ?rue_(oneshot) -> oneshot_(game) pokemon vocaloid bocchi_the_rock! omori utdr_(toby_fox) tsukihime kirby_(series) deltarune one-punch_man
 ?fujido_oriko -> giant_ojou-sama original mount_celeb_kaneda-san chainsaw_man armored_core armored_core_vi:_fires_of_rubicon breaking_bad better_call_saul toratsugumi
 ?dr._sebastian -> giant_ojou-sama mount_celeb_kaneda-san original breaking_bad better_call_saul
+?inui_toko_(1st_costume) -> nijisanji hololive phony_(cevio) minecraft wixoss pokemon helltaker twitter nijisanji_kr nijisanji_en
