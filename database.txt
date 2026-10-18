@@ -5291,3 +5291,4 @@
 ?endogeny -> utdr_(toby_fox) undertale marvel deltarune spider-man_(series) spider-verse spider-man:_across_the_spider-verse omori hollow_knight yume_nikki
 ?froggit -> utdr_(toby_fox) undertale original deltarune muppets touhou pokemon boku_no_hero_academia cookie_(touhou) keroro_gunsou
 ?gerson_boom -> utdr_(toby_fox) deltarune undertale original chainsaw_man jujutsu_kaisen shingeki_no_kyojin touhou one_piece mario_(series)
+?grillby -> utdr_(toby_fox) undertale deltarune mario_(series) animal_crossing my_little_pony my_little_pony:_friendship_is_magic adventure_time steven_universe
