@@ -5523,3 +5523,4 @@
 ?kal'tsit_(formal)_(arknights) -> arknights ambience_synesthesia cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 ima_sugu_rinne_(vocaloid)
 ?lapis_lazuline -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_restart mahou_shoujo_ikusei_keikaku_unmarked mahou_shoujo_ikusei_keikaku_limited mahou_shoujo_ikusei_keikaku_aces mahou_shoujo_ikusei_keikaku_jokers mahou_shoujo_ikusei_keikaku_f2p mahou_shoujo_ikusei_keikaku_breakdown idolmaster mahou_shoujo_madoka_magica
 ?xianyun_(genshin_impact) -> genshin_impact mihoyo honkai_(series) honkai:_star_rail kung_fu_hustle original honkai_impact_3rd olympics bayonetta_(series) 2024_summer_olympics
+?photoshop_flowey -> utdr_(toby_fox) undertale deltarune mario_(series) suishitai_wa_koi_shitai_(vocaloid) original pokemon fate_(series) fate/grand_order vocaloid
