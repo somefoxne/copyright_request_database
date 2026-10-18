@@ -5264,3 +5264,4 @@
 ?yuki_miku_(2013) -> vocaloid magical_mirai_(vocaloid) suki!_yuki!_maji_magic_(vocaloid) project_diva_(series) goodsmile_company goodsmile_racing hatsune_miku_graphy_collection akari_ga_yatte_kitazo_(vocaloid) utau million_arthur_(series)
 ?eri_(succubus)_(blue_archive) -> blue_archive youtube comiket_108
 ?f71_g-cannon -> gundam gundam_f91 gundam_perfect_file gundam_battle_operation_2 original sunrise_(company) gundam_silhouette_formula_91
+?kamen_rider_zeztz -> kamen_rider kamen_rider_zeztz_(series) precure meitantei_precure! kamen_rider_01_(series) kamen_rider_geats_(series) kamen_rider_gotchard_(series) toei_company chou_uchuu_keiji_gavan_infinity pokemon
