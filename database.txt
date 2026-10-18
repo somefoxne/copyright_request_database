@@ -6196,3 +6196,4 @@
 ?adrian_andrews -> ace_attorney phoenix_wright:_ace_attorney_-_justice_for_all phoenix_wright:_ace_attorney_-_trials_and_tribulations apollo_justice:_ace_attorney phoenix_wright:_ace_attorney phoenix_wright:_ace_attorney_-_dual_destinies phoenix_wright:_ace_attorney_-_spirit_of_justice the_great_ace_attorney ace_attorney_investigations
 ?celeste_inpax -> ace_attorney phoenix_wright:_ace_attorney_-_justice_for_all
 ?celebi -> pokemon pokemon_heartgold_and_soulsilver pokemon_gold/silver/crystal pokemon_(anime) pokemon_mystery_dungeon pokemon_mystery_dungeon:_explorers_of_time/darkness/sky pokemon_(classic_anime) pokemon_4ever_-_celebi:_the_voice_of_the_forest pokemon_masters_ex pokemon_firered_and_leafgreen
+?minior -> pokemon pokemon_sun_and_moon pokemon_scarlet_and_violet pokemon_(anime) pokemon_the_series:_sun_&_moon pokemon_ultra_sun_and_ultra_moon pokemon_black_and_white pokemon_(classic_anime) original vocaloid
