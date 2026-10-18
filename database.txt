@@ -4457,3 +4457,4 @@
 ?one-leg_(project_moon) -> project_moon limbus_company
 ?dover_demon -> original
 ?hoshimachi_suisei_(1st_costume) -> hololive hololive_english nijisanji hololive_indonesia tetris hololive_dev_is fortnite gundam pokemon hololive_official_card_game
+?kazama_iroha_(1st_costume) -> hololive hololive_english hololive_dev_is hololive_indonesia ring_fit_adventure hololive_official_card_game minecraft uber_eats fate_(series) tengen_toppa_gurren_lagann
