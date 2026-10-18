@@ -4572,3 +4572,4 @@
 ?eria_the_water_channeler -> yu-gi-oh!
 ?freezing_beast_(yu-gi-oh!) -> yu-gi-oh!
 ?lyna_(yu-gi-oh!) -> yu-gi-oh! yu-gi-oh!_duel_monsters touhou lucky_star yu-gi-oh!_master_duel yu-gi-oh!_rush_duel
+?lyna_the_light_charmer -> yu-gi-oh! yu-gi-oh!_duel_monsters touhou lucky_star yu-gi-oh!_master_duel yu-gi-oh!_rush_duel
