@@ -5963,3 +5963,4 @@
 ?miran_(epicary_radz) -> original
 ?taruho_(epicary_radz) -> original
 ?elly_(touhou) -> touhou touhou_(pc-98) lotus_land_story story_of_eastern_wonderland phantasmagoria_of_dim.dream mystic_square highly_responsive_to_prayers bad_apple!! embodiment_of_scarlet_devil seihou
+?shinigami_(rain_code) -> master_detective_archives:_rain_code danganronpa_(series) danganronpa_v3:_killing_harmony danganronpa:_trigger_happy_havoc pokemon danganronpa_2:_goodbye_despair the_hundred_line_-last_defense_academy- danganronpa_kirigiri original fate_(series)
