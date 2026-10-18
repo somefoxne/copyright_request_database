@@ -5972,3 +5972,4 @@
 ?eunha_(closers) -> closers blue_archive
 ?usedcvnt_(character) -> original
 ?bowen_(omori) -> omori the_coffin_of_andy_and_leyley
+?daphne_(omori) -> omori the_coffin_of_andy_and_leyley
