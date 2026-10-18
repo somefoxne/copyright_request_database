@@ -4749,3 +4749,4 @@
 ?kurata_mashiro -> bang_dream! bang_dream!_girls_band_party! bang_dream!_yumemita ganso!_bang_dream_chan hololive original pokemon twitter shinkai_shoujo_(vocaloid)
 ?ichijou_ririka_(1st_costume) -> hololive hololive_dev_is hololive_english hololive_indonesia hololive_official_card_game nijisanji indie_virtual_youtuber vcr_gta original blue_archive
 ?tamamo_no_mae_(vacances_d'ete)_(fate) -> fate_(series) fate/extra fate/grand_order fate/extella fate/extra_ccc
+?nero_claudius_(rose_vacances)_(fate) -> fate_(series) fate/extra fate/grand_order fate/stay_night koha-ace fate/extella
