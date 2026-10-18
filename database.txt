@@ -4920,3 +4920,4 @@
 ?billy_(deadlock) -> deadlock_(game) frankenstein
 ?durga_(fate) -> fate_(series) fate/grand_order fate/stay_night fate/extra fate/kaleid_liner_prisma_illya fate/strange_fake tsukihime fate/zero shingeki_no_kyojin dc_comics
 ?durga_(first_ascension)_(fate) -> fate_(series) fate/grand_order fate/stay_night tsukihime tsukihime_(remake) fate/grand_order_arcade
+?souma_ria -> kin-iro_loveriche senren_banka rewrite 9-nine- comiket_105 comiket_102 dracu-riot! tenshinranman sakura_no_uta hamidashi_creative
