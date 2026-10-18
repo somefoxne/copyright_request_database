@@ -6125,3 +6125,4 @@
 ?yuuka_(track)_(blue_archive) -> blue_archive comiket_103 blue_archive_the_animation comiket_107 hololive idolmaster hololive_english gakuen_idolmaster toaru_majutsu_no_index toaru_kagaku_no_railgun
 ?ribbon_(kirby) -> kirby_(series) kirby_64 kirby_star_allies kirby:_planet_robobot kirby:_squeak_squad kirby_super_star
 ?ripple_star_queen -> kirby_(series) kirby_64 kirby_star_allies kirby:_planet_robobot kirby:_squeak_squad kirby_air_ride kirby_&_the_amazing_mirror kirby:_triple_deluxe
+?zero_two_(kirby) -> kirby_(series) kirby_64 kirby:_squeak_squad kirby_star_allies kirby_&_the_amazing_mirror kirby:_planet_robobot kirby_air_ride
