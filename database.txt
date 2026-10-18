@@ -5278,3 +5278,4 @@
 ?osaka_shizuku -> love_live! love_live!_nijigasaki_high_school_idol_club love_live!_nijigasaki_high_school_idol_club_the_movie_-_finale rise_up_high!_(love_live!) love_live!_school_idol_festival_all_stars solitude_rain_(love_live!) love_live!_sunshine!! love_live!_school_idol_festival love_live!_school_idol_project nijiyon
 ?chalky_(zenless_zone_zero) -> zenless_zone_zero genshin_impact original chainsaw_man mihoyo project_moon limbus_company moechakkafire blue_archive arknights
 ?pursena_adoldia -> mushoku_tensei hololive hololive_english jujutsu_kaisen megami_magazine trickcal inuyasha utawarerumono_(series) utawarerumono:_chiriyuku_mono_e_no_komoriuta shikanoko_nokonoko_koshitantan
+?hackmon_(digimon) -> digimon digimon_card_game digimon_universe:_appli_monsters digimon_adventure digimon_adventure_02 digimon_tamers digimon_liberator digimon_frontier digimon_story:_cyber_sleuth digimon_xros_wars
