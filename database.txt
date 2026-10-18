@@ -5776,3 +5776,4 @@
 ?mari_(amazu_(kurozu)) -> original
 ?cyclops_(x-men) -> marvel x-men marvel_vs._capcom marvel_rivals street_fighter spider-man_(series) x-men_vs._street_fighter avengers_(series) the_incredible_hulk_(series) x-men:_the_animated_series
 ?storm_(x-men) -> marvel x-men marvel_rivals spider-man_(series) marvel_tokon:_fighting_souls fantastic_four avengers_(series) marvel_vs._capcom the_incredible_hulk_(series) street_fighter
+?wolverine_(x-men) -> marvel x-men deadpool_(series) deadpool_&_wolverine x-men_movie_series x-men_origins:_wolverine spider-man_(series) the_incredible_hulk_(series) marvel_vs._capcom street_fighter
