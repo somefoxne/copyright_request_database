@@ -5279,3 +5279,4 @@
 ?chalky_(zenless_zone_zero) -> zenless_zone_zero genshin_impact original chainsaw_man mihoyo project_moon limbus_company moechakkafire blue_archive arknights
 ?pursena_adoldia -> mushoku_tensei hololive hololive_english jujutsu_kaisen megami_magazine trickcal inuyasha utawarerumono_(series) utawarerumono:_chiriyuku_mono_e_no_komoriuta shikanoko_nokonoko_koshitantan
 ?hackmon_(digimon) -> digimon digimon_card_game digimon_universe:_appli_monsters digimon_adventure digimon_adventure_02 digimon_tamers digimon_liberator digimon_frontier digimon_story:_cyber_sleuth digimon_xros_wars
+?impmon -> digimon digimon_tamers digimon_card_game digimon_liberator digimon_adventure_02 digimon_frontier digimon_adventure digimon_xros_wars digimon_savers original
