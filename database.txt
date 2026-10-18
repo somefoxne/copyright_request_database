@@ -5387,3 +5387,4 @@
 ?saotome_ranma_(male) -> ranma_1/2 inuyasha urusei_yatsura kyoukai_no_rinne ranma_1/2_kessen_tougenkyou!_hanayome_wo_torimodose! maison_ikkoku mao_(takahashi_rumiko) dragon_ball meitantei_conan pokemon
 ?tendou_kasumi -> ranma_1/2 urusei_yatsura ranma_1/2_kessen_tougenkyou!_hanayome_wo_torimodose! sakura_taisen aa_megami-sama fushigi_no_umi_no_nadia animedia teenage_mutant_ninja_turtles sakura_taisen_iii animage
 ?tendou_nabiki -> ranma_1/2 ranma_1/2_kessen_tougenkyou!_hanayome_wo_torimodose! pokemon naruto_(series) majo_no_takkyuubin fushigi_no_umi_no_nadia one_piece neon_genesis_evangelion street_fighter mario_(series)
+?tendou_souun -> ranma_1/2 urusei_yatsura animedia maison_ikkoku inuyasha newtype animage kyoukai_no_rinne netflix ranma_1/2_kessen_tougenkyou!_hanayome_wo_torimodose!
