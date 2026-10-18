@@ -6113,3 +6113,4 @@
 ?aubrey_(headspace)_(omori) -> omori omariposa mario_(series) pokemon mother_(series) mother_2 rainy_mari original super_mario_64 indie_virtual_youtuber
 ?aubrey_(omori) -> omori omariposa emori mario_(series) pokemon utdr_(toby_fox) vocaloid deltarune original mother_(series)
 ?hero_(headspace)_(omori) -> omori omariposa utdr_(toby_fox) original pokemon mario_(series) hellaverse hazbin_hotel indie_virtual_youtuber persona
+?hero_(omori) -> omori emori omariposa pokemon utdr_(toby_fox) original the_amazing_digital_circus the_ring vocaloid persona
