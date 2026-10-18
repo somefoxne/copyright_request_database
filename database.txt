@@ -6297,3 +6297,4 @@
 ?youko_(girls_und_panzer) -> girls_und_panzer girls_und_panzer_senshadou_daisakusen! girls_und_panzer_motto_love_love_sakusen_desu! lycoris_recoil girls_und_panzer_saishuushou megami_magazine gundam moomin gundam_suisei_no_majo tengen_toppa_gurren_lagann
 ?shirayuki_(utawarerumono) -> utawarerumono_(series) utawarerumono:_lost_flag
 ?miyamai_moca -> voicepeak voiceroid synthesizer_v utau cevio a.i._voice vocaloid voicevox shinchoku_dame_dame_desu_(synthesizer_v) monitoring_(vocaloid)
+?walnut_cookie -> cookie_run cookie_run:_ovenbreak cookie_run:_kingdom a_hat_in_time
