@@ -4295,3 +4295,4 @@
 ?kyle_broflovski -> south_park south_park:_the_stick_of_truth sanrio south_park:_post_covid wizarding_world harry_potter_(series) hello_kitty south_park:_the_fractured_but_whole terrance_&_philip pokemon
 ?stan_marsh -> south_park south_park:_the_fractured_but_whole south_park:_the_stick_of_truth sanrio south_park:_post_covid pokemon hello_kitty terrance_&_philip original kirby_(series)
 ?gold_city_(casual)_(umamusume) -> umamusume umamusume:_road_to_the_top umayuru
+?riddle_rosehearts -> twisted_wonderland disney kimetsu_no_yaiba touken_ranbu ensemble_stars! nier_(series) nier:automata the_little_mermaid_(disney) aladdin_(movie) snow_white_and_the_seven_dwarfs_(disney)
