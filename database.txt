@@ -4421,3 +4421,4 @@
 ?blissey -> pokemon pokemon_(anime) pokemon_diamond/pearl/platinum pokemon_the_series:_sun_&_moon pokemon_gold/silver/crystal pokemon_unite pokemon_heartgold_and_soulsilver pokemon_(classic_anime) pokemon_sun_and_moon pokemon_tcg
 ?cherubi -> pokemon pokemon_diamond/pearl/platinum pokemon_sword_and_shield pokemon_(anime) pokemon_heartgold_and_soulsilver pokemon_legends:_arceus pokemon_black_and_white pokemon_firered_and_leafgreen pokemon_platinum pokemon_masters_ex
 ?majikina_mina -> samurai_spirits snk the_king_of_fighters guilty_gear tekken street_fighter fatal_fury
+?sonia_strumm_(mega_man) -> mega_man_(series) mega_man_star_force_(series) mega_man_star_force_3 mega_man_battle_network_(series) mega_man_(classic) mega_man_legends_(series) mega_man_x_(series) mega_man_zx mega_man_zero_(series) mega_man_star_force_2
