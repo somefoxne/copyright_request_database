@@ -4750,3 +4750,4 @@
 ?ichijou_ririka_(1st_costume) -> hololive hololive_dev_is hololive_english hololive_indonesia hololive_official_card_game nijisanji indie_virtual_youtuber vcr_gta original blue_archive
 ?tamamo_no_mae_(vacances_d'ete)_(fate) -> fate_(series) fate/extra fate/grand_order fate/extella fate/extra_ccc
 ?nero_claudius_(rose_vacances)_(fate) -> fate_(series) fate/extra fate/grand_order fate/stay_night koha-ace fate/extella
+?agnes_claudel -> eiyuu_densetsu kuro_no_kiseki_(series) kuro_no_kiseki_i kai_no_kiseki kuro_no_kiseki_ii falcom sen_no_kiseki_(series) sora_no_kiseki little_red_riding_hood_(fairy_tale) sen_no_kiseki_i
