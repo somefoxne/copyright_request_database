@@ -5738,3 +5738,4 @@
 ?kiriko_(duel_masters) -> duel_masters
 ?type_97_shotgun_(girls'_frontline) -> metal_gear_(series) blue_archive command_&_conquer tank_man casino_(1995) command_&_conquer:_generals
 ?lady_(devil_may_cry) -> devil_may_cry_(series) devil_may_cry_3 devil_may_cry_5 devil_may_cry_4 devil_may_cry_(netflix) capcom devil_may_cry:_peak_of_combat resident_evil street_fighter bleach
+?nikotama_mai -> alice_gear_aegis frame_arms_girl
