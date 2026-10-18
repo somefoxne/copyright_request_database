@@ -5714,3 +5714,4 @@
 ?sophie_twilight -> tonari_no_kyuuketsuki-san gochuumon_wa_usagi_desu_ka? kin-iro_mosaic apple_inc. uchi_no_maid_ga_uzasugiru! kantai_collection gundam yu-gi-oh! kobayashi-san_chi_no_maidragon to_heart_(series)
 ?tokoyami_towa_(shady_hammock_days) -> hololive hololive_dreams
 ?ikaruga_luca -> idolmaster idolmaster_shiny_colors idolmaster_shiny_colors_song_for_prism pokemon idolmaster_cinderella_girls love_live! idolmaster_(classic) love_live!_hasu_no_sora_jogakuin_school_idol_club gakuen_idolmaster real_life
+?sonoda_chiyoko -> idolmaster idolmaster_shiny_colors idolmaster_shiny_colors_song_for_prism idolmaster_cinderella_girls pokemon dars idolmaster_million_live! idolmaster_poplinks gakuen_idolmaster idolmaster_side-m
