@@ -5021,3 +5021,4 @@
 ?shinano_(vow_of_blossoms_and_dreams)_(azur_lane) -> azur_lane
 ?penelope_(mythology) -> greek_mythology epic:_the_musical the_odyssey_(2026_movie) hololive hololive_english project_moon limbus_company spy_x_family zootopia
 ?ange_katrina_(casual) -> nijisanji pokemon pokemon_legends:_arceus nijisanji_en vspo! minecraft pico_park blue_archive chainsaw_man splatoon_(series)
+?yuki_miku_(2018) -> vocaloid magical_mirai_(vocaloid) shikakui_chikyuu_wo_maruku_suru_(vocaloid) kemono_friends odds_&_ends_(vocaloid) unknown_mother_goose_(vocaloid) akari_ga_yatte_kitazo_(vocaloid) world_is_mine_(vocaloid) vampire_(vocaloid) senbonzakura_(vocaloid)
