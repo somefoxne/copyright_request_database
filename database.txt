@@ -5888,3 +5888,4 @@
 ?indiana_(kancolle) -> kantai_collection bang_dream! bang_dream!_yumemita indiana_jones_(series) indiana_jones_and_the_raiders_of_the_lost_ark
 ?crow_(la+_darknesss) -> hololive hololive_english hololive_indonesia pokemon twitter coca-cola marvel kirby_(series) tengen_toppa_gurren_lagann hololive_dev_is
 ?a.c._eos_(mega_man) -> mega_man_(series) mega_man_star_force_(series) mega_man_star_force_3 capcom mega_man_battle_network_(series) mega_man_(classic) mega_man_x_(series) mega_man_zero_(series) mega_man_zx voltron_(series)
+?acid_(mega_man) -> mega_man_(series) mega_man_star_force_(series) mega_man_star_force_3
