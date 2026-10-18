@@ -5393,3 +5393,4 @@
 ?calamaramon -> digimon digimon_frontier digimon_card_game digimon_story:_time_stranger original pokemon nijisanji splatoon_(series)
 ?hyakkihime -> youkai_watch youkai_watch_jam:_youkai_gakuen_y youkai_watch_3 youkai_watch_world touhou sanrio hello_kitty youkai_watch_2 youkai_watch_shadowside youkai_watch:_punipuni
 ?kasukabe_tsumugi -> voicevox voiceroid vocaloid utau cevio indie_virtual_youtuber synthesizer_v a.i._voice coefont onikko_hunter_tsuina-chan
+?gaismagorm -> monster_hunter_(series) monster_hunter_rise capcom
