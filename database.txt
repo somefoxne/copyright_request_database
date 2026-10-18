@@ -5092,3 +5092,4 @@
 ?arx-10d_azur_raven -> full_metal_panic! full_metal_panic!_family kadokawa
 ?as-1_blaze_raven -> full_metal_panic! full_metal_panic!_another full_metal_panic!_family kadokawa
 ?inari_(summer_pockets) -> summer_pockets key_(company) clannad little_busters! angel_beats! kanon rewrite dango_daikazoku air_(visual_novel) planetarian
+?yamashiro_(kancolle) -> kantai_collection kantai_collection_(anime) gundam fate_(series) azur_lane pokemon umamusume fate/grand_order yokohama_dena_baystars lawson
