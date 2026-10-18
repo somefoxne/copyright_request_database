@@ -4674,3 +4674,4 @@
 ?monokuma -> danganronpa_(series) danganronpa:_trigger_happy_havoc danganronpa_2:_goodbye_despair danganronpa_v3:_killing_harmony danganronpa_another_episode:_ultra_despair_girls danganronpa/zero pokemon
 ?monokuma_kid -> danganronpa_(series) danganronpa_another_episode:_ultra_despair_girls danganronpa_2:_goodbye_despair danganronpa:_trigger_happy_havoc
 ?naegi_komaru -> danganronpa_(series) danganronpa_another_episode:_ultra_despair_girls danganronpa:_trigger_happy_havoc danganronpa_2:_goodbye_despair danganronpa_v3:_killing_harmony danganronpa/zero danganronpa_s:_ultimate_summer_camp
+?neru_(school_uniform)_(blue_archive) -> blue_archive project_moon limbus_company comiket_106 kamen_rider kamen_rider_den-o_(series) goddess_of_victory:_nikke kantai_collection idolmaster gundam
