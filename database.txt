@@ -5993,3 +5993,4 @@
 ?atsushi_ren -> the_boy_who_fell siren_and_scientist
 ?ibias -> the_boy_who_fell
 ?ramia_(the_boy_who_fell) -> the_boy_who_fell
+?celestia_(triple_blossom)_(strinova) -> strinova
