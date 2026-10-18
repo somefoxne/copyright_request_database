@@ -4967,3 +4967,4 @@
 ?live_twin_ki-sikil -> yu-gi-oh! yu-gi-oh!_master_duel youtube panty_&_stocking_with_garterbelt hololive umamusume hololive_english don_quijote_(store) iwara.tv pokemon
 ?live_twin_lil-la -> yu-gi-oh! yu-gi-oh!_master_duel panty_&_stocking_with_garterbelt youtube hololive hololive_english pokemon umamusume zenless_zone_zero
 ?ezra_(project_moon) -> project_moon limbus_company the_distortion_detective library_of_ruina lobotomy_corporation blue_archive touhou fate_(series) bang_dream! chainsaw_man
+?sailor_jupiter -> bishoujo_senshi_sailor_moon bishoujo_senshi_sailor_moon_(first_season) bishoujo_senshi_sailor_moon_s bishoujo_senshi_sailor_moon_supers bishoujo_senshi_sailor_moon_stars bishoujo_senshi_sailor_moon_r bishoujo_senshi_sailor_moon_crystal precure taimanin_(series) gundam
