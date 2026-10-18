@@ -6101,3 +6101,4 @@
 ?tamamo_no_mae_(spring_casual)_(fate) -> fate_(series) fate/extra fate/extra_ccc fate/grand_order fate/extella pornhub original indie_virtual_youtuber granblue_fantasy fate/kaleid_liner_prisma_illya
 ?tony_tony_chopper -> one_piece one_piece_card_game one_piece:_strong_world dragon_ball pokemon one_piece_film:_red dragon_ball_z mario_(series) naruto_(series) one_piece_fan_letter
 ?nero_claudius_(modern_costume_of_crimson)_(fate) -> fate_(series) fate/extra fate/grand_order fate/extra_ccc fate/extella fate/stay_night fate/apocrypha tsukihime tsukihime_(remake) rojiura_satsuki:_chapter_heroine_sanctuary
+?shyrei_faolan -> indie_virtual_youtuber vyugen original vinesauce gamer_supps zenless_zone_zero splatoon_(series) silent_hill_(series) subnautica final_fantasy
