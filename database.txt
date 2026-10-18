@@ -4545,3 +4545,4 @@
 ?elizabeth_rose_bloodflame_(new_year) -> hololive hololive_english hololive_indonesia hololive_dev_is
 ?piper_pace -> original star_wars fortnite star_wars:_ahsoka
 ?k_(blade_runner_2049) -> blade_runner_(series) blade_runner_2049 vrchat watashi_ga_motenai_no_wa_dou_kangaetemo_omaera_ga_warui! hololive chainsaw_man bocchi_the_rock! barbie_(franchise) barbie_(live_action) original
+?parin -> gurumin falcom final_fantasy final_fantasy_vii kirby_(series) monster_hunter_(series) super_smash_bros. tengen_toppa_gurren_lagann metal_gear_(series) final_fantasy_ix
