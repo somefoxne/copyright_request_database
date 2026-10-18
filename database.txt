@@ -5215,3 +5215,4 @@
 ?kachimachi_kosuzu -> love_live! love_live!_hasu_no_sora_jogakuin_school_idol_club ladybug_(love_live!) dream_believers ampere_(love_live!) proof_(love_live!) taiyou_de_are! sparkly_spot_(love_live!) cho_toutoi_love aurora_flower_(love_live!)
 ?zygarde -> pokemon pokemon_legends:_z-a pokemon_(anime) pokemon_the_series:_xy pokemon_masters_ex pokemon_x_and_y pokemon_horizons pokemon_sun_and_moon pokemon_the_series:_diamond_and_pearl pokemon_the_series:_sun_&_moon
 ?zygarde_(10%) -> pokemon pokemon_legends:_z-a pokemon_(anime) pokemon_horizons pokemon_x_and_y pokemon_the_series:_xy original pokemon_masters_ex pokemon_tcg pokemon_sun_and_moon
+?hanako_(jibaku_shounen_hanako-kun) -> jibaku_shounen_hanako-kun genshin_impact touhou omori kimetsu_no_yaiba boku_no_hero_academia wizarding_world animal_crossing harry_potter_(series) promare
