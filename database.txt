@@ -6132,3 +6132,4 @@
 ?pekomama_(1st_costume) -> hololive hololive_english pokemon hololive_indonesia hololive_dev_is minecraft romance_of_the_three_kingdoms
 ?suiseiseki -> rozen_maiden suzumiya_haruhi_no_yuuutsu lyrical_nanoha higurashi_no_naku_koro_ni shakugan_no_shana mahou_shoujo_lyrical_nanoha saimoe fate_(series) strawberry_panic! gundam
 ?rue_(oneshot) -> oneshot_(game) pokemon vocaloid bocchi_the_rock! omori utdr_(toby_fox) tsukihime kirby_(series) deltarune one-punch_man
+?fujido_oriko -> giant_ojou-sama original mount_celeb_kaneda-san chainsaw_man armored_core armored_core_vi:_fires_of_rubicon breaking_bad better_call_saul toratsugumi
