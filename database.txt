@@ -4957,3 +4957,4 @@
 ?luozhu_(the_legend_of_luo_xiaohei) -> the_legend_of_luo_xiaohei lanxi_zhen cardcaptor_sakura
 ?tianhu_(the_legend_of_luo_xiaohei) -> the_legend_of_luo_xiaohei lanxi_zhen one_piece gintama gake_no_ue_no_ponyo
 ?xuhuai_(the_legend_of_luo_xiaohei) -> the_legend_of_luo_xiaohei lanxi_zhen pokemon cardcaptor_sakura
+?okumura_haru -> persona persona_5 persona_5_the_royal persona_dancing persona_5:_dancing_star_night persona_5_scramble:_the_phantom_strikers persona_3 persona_4 fire_emblem pokemon
