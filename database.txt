@@ -5935,3 +5935,4 @@
 ?mystical_elf -> yu-gi-oh! yu-gi-oh!_duel_monsters original to_heart_(series) ultra_series to_heart yu-gi-oh!_the_dark_side_of_dimensions yu-gi-oh!_(toei) hudson hellraiser
 ?shirasaka_koume -> idolmaster idolmaster_cinderella_girls idolmaster_cinderella_girls_starlight_stage cinderella_girls_gekijou granblue_fantasy kantai_collection pokemon friday_the_13th idolmaster_(classic) little_riddle_(idolmaster)
 ?hisakawa_hayate -> idolmaster idolmaster_cinderella_girls idolmaster_cinderella_girls_starlight_stage cinderella_girls_gekijou voy@ger_(idolmaster) idolmaster_shiny_colors umamusume idolmaster_(classic) idolmaster_million_live! blue_archive
+?yidmetra -> shadowverse shadowverse:_worlds_beyond
