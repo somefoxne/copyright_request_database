@@ -5011,3 +5011,4 @@
 ?emet-selch -> final_fantasy final_fantasy_xiv original magic:_the_gathering pokemon fate_(series) final_fantasy_xiv:_eorzea_gakuen fate/grand_order vocaloid league_of_legends
 ?hermes_(ff14) -> final_fantasy final_fantasy_xiv original real_life sanrio wizarding_world harry_potter_(series) pikmin_(series) my_melody_(series) fuwa_fuwa_cinnamoroll
 ?thais_(smuggestsage) -> final_fantasy final_fantasy_xiv original
+?kabane_yoshichi -> nue_no_onmyouji
