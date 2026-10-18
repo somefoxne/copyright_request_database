@@ -4935,3 +4935,4 @@
 ?gogoat -> pokemon pokemon_x_and_y pokemon_scarlet_and_violet pokemon_(anime) pokemon_black_and_white pokemon_black_2_and_white_2 pokemon_sun_and_moon pokemon_diamond/pearl/platinum pokemon_masters_ex pokemon_heartgold_and_soulsilver
 ?binah_(project_moon) -> project_moon library_of_ruina lobotomy_corporation limbus_company arknights made_in_abyss blue_archive reverse:1999 pokemon indie_virtual_youtuber
 ?kitou_akari -> love_live! love_live!_nijigasaki_high_school_idol_club real_life kimetsu_no_yaiba umamusume watashi_ni_tenshi_ga_maiorita! blend_s resident_evil resident_evil_4 resident_evil_4_(remake)
+?simon_clairmont -> fire_emblem
