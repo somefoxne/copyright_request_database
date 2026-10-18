@@ -5708,3 +5708,4 @@
 ?anya_(spy_x_family) -> spy_x_family chainsaw_man pokemon genshin_impact sousou_no_frieren jujutsu_kaisen hololive original kimetsu_no_yaiba kobayashi-san_chi_no_maidragon
 ?delia_(trickcal) -> trickcal
 ?kuroeda_(elf-san_wa_yaserarenai.) -> elf-san_wa_yaserarenai. original the_legend_of_zelda dungeon_meshi super_smash_bros. megami_magazine dungeons_&_dragons taimanin_(series) nitroplus
+?katori_youko -> world_trigger pokemon fate_(series) fate/grand_order umamusume fire_emblem neon_genesis_evangelion pokemon_sword_and_shield pokemon_scarlet_and_violet fire_emblem:_three_houses
