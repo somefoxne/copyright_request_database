@@ -5363,3 +5363,4 @@
 ?ichijo_shirona -> muv-luv muv-luv_girls_garden muv-luv_alternative
 ?kuchiba_rami -> muv-luv muv-luv_girls_garden
 ?momozono_meru -> muv-luv muv-luv_girls_garden muv-luv_alternative muv-luv_total_eclipse schwarzesmarken muv-luv_tactics
+?narutaki_nanairo -> muv-luv muv-luv_girls_garden
