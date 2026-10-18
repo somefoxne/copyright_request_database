@@ -5583,3 +5583,4 @@
 ?inuyasha_(character) -> inuyasha ranma_1/2 urusei_yatsura kyoukai_no_rinne meitantei_conan shounen_sunday naruto_(series) pokemon one_piece
 ?hayashimo_kai_ni_(kancolle) -> kantai_collection
 ?sagiri_(kancolle) -> kantai_collection eromanga_sensei original choo_choo_train fate_(series) umamusume gochuumon_wa_usagi_desu_ka? azur_lane fate/stay_night comiket_101
+?dreamy_chelsea -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_breakdown mahou_shoujo_ikusei_keikaku_restart mahou_shoujo_ikusei_keikaku_f2p mahou_shoujo_ikusei_keikaku_unmarked mahou_shoujo_ikusei_keikaku_limited mahou_shoujo_ikusei_keikaku_black precure star_twinkle_precure mahou_shoujo_ikusei_keikaku_jokers
