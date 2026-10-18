@@ -5629,3 +5629,4 @@
 ?brockenman -> kinnikuman
 ?kindaichi_yuutarou -> haikyuu!! disney tetris
 ?kunimi_akira -> haikyuu!! disney tetris
+?beni-enma -> fate_(series) fate/grand_order fate/extra fate/apocrypha fate/kaleid_liner_prisma_illya fate/grand_order_arcade fate/stay_night kantai_collection fate/extra_ccc
