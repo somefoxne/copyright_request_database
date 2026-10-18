@@ -6208,3 +6208,4 @@
 ?zdrada_(helltaker) -> helltaker original fate_(series) team_fortress_2 doom_(series) chainsaw_man real_life fate/apocrypha cowboy_bebop apple_inc.
 ?nagatoro_hayase -> ijiranaide_nagatoro-san uzaki-chan_wa_asobitai! komi-san_wa_komyushou_desu sono_bisque_doll_wa_koi_wo_suru spy_x_family karakai_jouzu_no_takagi-san original pokemon kono_subarashii_sekai_ni_shukufuku_wo! chainsaw_man
 ?lauren_iroas_(1st_costume) -> nijisanji vspo! apex_legends nijisanji_kr hololive genshin_impact nijisanji_en sanrio fuwa_fuwa_cinnamoroll valorant
+?jiraiya_(naruto) -> naruto_(series) naruto_(classic) naruto_shippuuden boruto_(series) boruto:_naruto_next_generations naruto_shippuuden:_ultimate_ninja_blazing naruto:_the_last one_piece bleach touhou
