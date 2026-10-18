@@ -5886,3 +5886,4 @@
 ?bongy_(project_moon) -> project_moon limbus_company lobotomy_corporation library_of_ruina original blue_archive final_fantasy final_fantasy_xiv sono_bisque_doll_wa_koi_wo_suru dungeons_&_dragons
 ?indiana_(halloween)_(kancolle) -> kantai_collection
 ?indiana_(kancolle) -> kantai_collection bang_dream! bang_dream!_yumemita indiana_jones_(series) indiana_jones_and_the_raiders_of_the_lost_ark
+?crow_(la+_darknesss) -> hololive hololive_english hololive_indonesia pokemon twitter coca-cola marvel kirby_(series) tengen_toppa_gurren_lagann hololive_dev_is
