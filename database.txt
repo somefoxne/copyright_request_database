@@ -5182,3 +5182,4 @@
 ?corbeau_(pokemon) -> pokemon pokemon_legends:_z-a pokemon_scarlet_and_violet pokemon_sun_and_moon pokemon_sword_and_shield pokemon_x_and_y original pokemon_diamond/pearl/platinum pokemon_masters_ex pokemon_heartgold_and_soulsilver
 ?philippe_(pokemon) -> pokemon pokemon_legends:_z-a pokemon_x_and_y original pokemon_scarlet_and_violet pokemon_sun_and_moon pokemon_sword_and_shield pokemon_(anime) pokemon_diamond/pearl/platinum pokemon_masters_ex
 ?add-on_(off) -> off_(game) omori utdr_(toby_fox) yume_nikki deltarune undertale ib_(kouri) oneshot_(game) mother_(series) mother_2
+?the_batter_(off) -> off_(game) yume_nikki utdr_(toby_fox) omori undertale ib_(kouri) deltarune oneshot_(game) hylics lisa_(series)
