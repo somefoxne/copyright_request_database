@@ -5611,3 +5611,4 @@
 ?shishiro_botan_(slurping_frenzy) -> hololive hololive_dreams
 ?ssrb_(shishiro_botan) -> hololive hololive_english hololive_indonesia street_fighter monster_hunter_(series) street_fighter_6 minecraft monster_hunter_wilds pokemon gundam
 ?melun_(trickcal) -> trickcal
+?mizuho_(kancolle) -> kantai_collection dota_(series) dota_2 line_(naver) original code_geass aoki_hagane_no_arpeggio fate_(series) sousou_no_frieren kamen_rider
