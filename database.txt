@@ -5329,3 +5329,4 @@
 ?ararycan_(genshin_impact) -> genshin_impact original nier_(series) nier:automata zenless_zone_zero mihoyo snow_white_and_the_seven_dwarfs_(disney) kamisama_hajimemashita
 ?kuronushi_(genshin_impact) -> genshin_impact pokemon vocaloid person_of_interest konton_boogie_(vocaloid) slow_downer_(vocaloid)
 ?haibara_nono -> astrae_oratio
+?crystalfly_(genshin_impact) -> genshin_impact original chiikawa lofi_girl_(youtube) blue_archive pokemon hololive arknights vocaloid hololive_english
