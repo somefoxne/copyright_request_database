@@ -4626,3 +4626,4 @@
 ?mai_(kapatarou) -> original
 ?rhea_(fire_emblem) -> fire_emblem fire_emblem:_three_houses fire_emblem_heroes fire_emblem_fates fire_emblem_awakening fire_emblem_warriors:_three_hopes fire_emblem_engage fire_emblem:_the_blazing_blade xenoblade_chronicles_(series)
 ?omokage_yugamu -> the_hundred_line_-last_defense_academy- tower_records pokemon danganronpa_(series) danganronpa_v3:_killing_harmony precure mahou_shoujo_no_majo_saiban futari_wa_precure genshin_impact umamusume
+?takao_hijiri -> hazurewaku_no_joutai_ijou_skill_de_saikyou_ni_natta_ore_ga_subete_wo_juurin_suru_made
