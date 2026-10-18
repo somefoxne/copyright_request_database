@@ -5704,3 +5704,4 @@
 ?lei_heng_(project_moon) -> project_moon limbus_company library_of_ruina honkai_(series) honkai:_star_rail lobotomy_corporation kekkai_sensen touhou blue_archive
 ?kaela_kovalskia_(shady_shiny_memory) -> hololive hololive_indonesia hololive_dreams
 ?arbitro -> togainu_no_chi nitro+_chiral lamento sweet_pool
+?kau_(togainu_no_chi) -> togainu_no_chi
