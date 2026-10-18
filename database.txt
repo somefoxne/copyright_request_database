@@ -6161,3 +6161,4 @@
 ?edge_colthearts -> summon_night summon_night:_swordcraft_story_2 summon_night:_swordcraft_story summon_night_craft_sword_monogatari_hajimari_no_ishi summon_night_collection
 ?seiryuu_tenmu -> shouryuu_senki_tenmu
 ?sacred_claire -> genseishinki_sacred_virth
+?tierna_aeride_throne -> genseishinki_sacred_virth
