@@ -5655,3 +5655,4 @@
 ?morimoto_yuni -> assault_lily it_(stephen_king) suika_game
 ?kawabata_hotaru -> assault_lily
 ?kozue_west -> assault_lily ametalk!
+?shikigi_lyla -> girls_frantic_clan
