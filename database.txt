@@ -5288,3 +5288,4 @@
 ?aogiri_shinobu -> duel_masters dragon_musume_ni_naritakunai! pixiv
 ?shinomiya_uka -> indie_virtual_youtuber
 ?sameko_saba_(1st_costume) -> indie_virtual_youtuber hololive hololive_english pokemon zenless_zone_zero kobayashi-san_chi_no_maidragon phase_connect spongebob_squarepants_(series) densetsu.exe
+?endogeny -> utdr_(toby_fox) undertale marvel deltarune spider-man_(series) spider-verse spider-man:_across_the_spider-verse omori hollow_knight yume_nikki
