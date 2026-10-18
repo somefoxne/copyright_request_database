@@ -6184,3 +6184,4 @@
 ?ayase_momo -> dandadan chainsaw_man sono_bisque_doll_wa_koi_wo_suru persona mob_psycho_100 pokemon sousou_no_frieren persona_3 science_saru umamusume
 ?takakura_ken_(dandadan) -> dandadan chainsaw_man mob_psycho_100 pokemon sono_bisque_doll_wa_koi_wo_suru science_saru boku_no_hero_academia dragon_ball tokyo_ghoul shounen_jump
 ?firis_mistlud -> atelier_(series) atelier_firis atelier_lydie_&_suelle atelier_sophie atelier_resleriana atelier_ayesha atelier_marie atelier_totori nelke_to_densetsu_no_renkinjutsushi_tachi atelier_rorona
+?berdly_(dark_world)_(deltarune) -> utdr_(toby_fox) deltarune undertale touhou naruto_(series) jujutsu_kaisen naruto_shippuuden the_amazing_digital_circus pokemon vocaloid
