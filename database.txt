@@ -6068,3 +6068,4 @@
 ?girlfriend_(friday_night_funkin') -> pico_(newgrounds_series) sonic_(series) utdr_(toby_fox) original pokemon undertale cuphead_(game) mario_(series)
 ?klee_(blossoming_starlight)_(genshin_impact) -> genshin_impact honkai_(series) honkai:_star_rail cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 mihoyo sekiro:_shadows_die_twice maou-jou_de_oyasumi m&g_stationery
 ?adam_smasher -> cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 cyberpunk_2077 wuthering_waves one_piece jojo_no_kimyou_na_bouken marvel tengen_toppa_gurren_lagann robocop
+?v_(cyberpunk) -> cyberpunk_(series) cyberpunk_2077 cyberpunk:_edgerunners cyberpunk:_edgerunners_1 cyberpunk_trading_card_game wuthering_waves brand_new_animal indie_virtual_youtuber persona persona_5
