@@ -5397,3 +5397,4 @@
 ?drifloon -> pokemon pokemon_diamond/pearl/platinum pokemon_sun_and_moon pokemon_platinum pokemon_pokopia pokemon_heartgold_and_soulsilver pokemon_(anime) pokemon_black_and_white pokemon_x_and_y pokemon_sword_and_shield
 ?toedscool -> pokemon pokemon_scarlet_and_violet pokemon_tcg pokemon_(anime) original pokemon_horizons pokemon_world_championships pokemon_sun_and_moon pokemon_world_championships_2025 pokemon_sword_and_shield
 ?jingran_(wuthering_waves) -> wuthering_waves nijisanji pash_(magazine)
+?hina_(pajamas)_(blue_archive) -> blue_archive blue_archive_the_animation comiket_105 kyu-kurarin_(cevio) kirby_(series) baby_(vocaloid) original project_moon limbus_company doki_doki_literature_club
