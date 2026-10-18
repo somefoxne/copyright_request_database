@@ -5862,3 +5862,4 @@
 ?kinugasa_(christmas)_(kancolle) -> kantai_collection
 ?kinugasa_(kancolle) -> kantai_collection pokemon street_fighter original street_fighter_zero_(series) macross macross_frontier lawson aoki_hagane_no_arpeggio ghost_sweeper_mikami
 ?kinugasa_kai_ni_(kancolle) -> kantai_collection pokemon lawson macross macross_frontier ghost_sweeper_mikami fate_(series) gundam fate/stay_night neon_genesis_evangelion
+?c.c. -> code_geass pizza_hut code_geass:_lost_stories fate_(series) kantai_collection fate/grand_order code_geass:_fukkatsu_no_lelouch gundam granblue_fantasy sunrise_(company)
