@@ -5177,3 +5177,4 @@
 ?vergilius_(project_moon) -> project_moon limbus_company library_of_ruina leviathan_(project_moon) lobotomy_corporation arknights blue_archive the_distortion_detective shukusei!!_loli-kami_requiem umamusume
 ?amayoi_yurari -> indie_virtual_youtuber
 ?carmen_(project_moon) -> project_moon lobotomy_corporation library_of_ruina limbus_company arknights the_distortion_detective leviathan_(project_moon) goddess_of_victory:_nikke chainsaw_man utdr_(toby_fox)
+?tasha_(ace_combat) -> ace_combat ace_combat_8 top_gun top_gun:_maverick umamusume armored_core grand_theft_auto armored_core_vi:_fires_of_rubicon ace_combat_7 grand_theft_auto:_san_andreas
