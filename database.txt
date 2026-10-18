@@ -4866,3 +4866,4 @@
 ?quiet_(metal_gear) -> metal_gear_(series) metal_gear_solid_v:_the_phantom_pain metal_gear_solid metal_gear_solid_3:_snake_eater kantai_collection original overwatch yandere_simulator fire_emblem
 ?arashi_daisuke -> inazuma_eleven_(series) ultra_series ultraman_(1st_series) inazuma_eleven_victory_road
 ?fuji_akiko -> ultra_series ultraman_(1st_series) to_love-ru ultraseven_(series) ultraman_mebius_(series) ultraman_tarou_(series)
+?hayata_shin -> ultra_series ultraman_(1st_series) love_live! gundam marvel love_live!_sunshine!! kamen_rider spider-man_(series) mobile_suit_gundam kamen_rider_(1st_series)
