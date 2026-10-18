@@ -4746,3 +4746,4 @@
 ?san_jacinto_(azur_lane) -> azur_lane to_love-ru
 ?san_jacinto_(flavor_of_the_day)_(azur_lane) -> azur_lane
 ?higashi_sakutaro -> danganronpa_(series) danganronpa_2:_goodbye_despair danganronpa_2x2 umineko_no_naku_koro_ni the_elder_scrolls the_elder_scrolls_v:_skyrim game_theory
+?kurata_mashiro -> bang_dream! bang_dream!_girls_band_party! bang_dream!_yumemita ganso!_bang_dream_chan hololive original pokemon twitter shinkai_shoujo_(vocaloid)
