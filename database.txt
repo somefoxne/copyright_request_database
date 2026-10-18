@@ -5435,3 +5435,4 @@
 ?dietfried_bougainvillea -> violet_evergarden_(series)
 ?shiroko_(swimsuit)_(blue_archive) -> blue_archive hololive arknights comiket_106 grand_theft_auto blue_archive_the_animation umamusume neon_genesis_evangelion sousou_no_frieren re:zero_kara_hajimeru_isekai_seikatsu
 ?sun_(miclipse) -> original
+?kuromi -> sanrio my_melody_(series) original fuwa_fuwa_cinnamoroll hello_kitty onegai_my_melody vocaloid danganronpa_(series) project_sekai genshin_impact
