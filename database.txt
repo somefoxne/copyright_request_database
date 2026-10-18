@@ -4971,3 +4971,4 @@
 ?sion_eltnam_(type-moon) -> tsukihime melty_blood fate_(series) fate/grand_order under_night_in-birth type-moon fate/stay_night carnival_phantasm tsukihime_(remake) kara_no_kyoukai
 ?sion_eltnam_atlasia -> tsukihime melty_blood fate_(series) type-moon fate/stay_night carnival_phantasm kara_no_kyoukai fate/grand_order fate/hollow_ataraxia kagetsu_tooya
 ?silver_fox_(kemono_friends) -> kemono_friends kemono_friends_3 kemono_friends_pavilion kemono_friends_kingdom original keroro_gunsou street_fighter nissin nintendo jojo_no_kimyou_na_bouken
+?medea_(caster)_(fate) -> fate_(series) fate/stay_night fate/grand_order fate/hollow_ataraxia fate/zero tsukihime type-moon fate/extra fate/kaleid_liner_prisma_illya fate/unlimited_blade_works
