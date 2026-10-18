@@ -5769,3 +5769,4 @@
 ?ninth_seal_(wuthering_waves) -> wuthering_waves
 ?marui_mitsuba -> mitsudomoe_(manga) shinryaku!_ikamusume k-on! panty_&_stocking_with_garterbelt yotsubato! kodomo_no_jikan hanamaru_youchien megami_magazine ichigo_mashimaro shounen_champion
 ?hakuhou_(floral_ninja_roleplay)_(azur_lane) -> azur_lane azur_lane:_slow_ahead
+?kanaya_neri -> alice_gear_aegis wuthering_waves world_witches_series strike_witches
