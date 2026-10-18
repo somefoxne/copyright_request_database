@@ -4738,3 +4738,4 @@
 ?asai_shou_(baileys) -> class_no_gal_ni_kuuki_atsukai_sareteimasu
 ?washington_(azur_lane) -> azur_lane azur_lane:_slow_ahead kantai_collection gundam gundam_seed gundam_seed_destiny zozotown national_basketball_association real_life megami_magazine
 ?lapla -> nandome_ka_no_hajimemashite
+?loretta_(fire_emblem) -> fire_emblem
