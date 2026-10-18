@@ -4900,3 +4900,4 @@
 ?comoli_harcourt -> gundam gundam_gquuuuuux mobile_suit_gundam g_gundam i_can_friday_by_day! zeta_gundam gundam_seed armored_core gundam_seed_freedom turn_a_gundam
 ?cure_answer -> precure meitantei_precure! meitantei_conan kamen_rider kimi_to_idol_precure toei_company wonderful_precure! tropical-rouge!_precure hirogaru_sky!_precure pokemon
 ?cure_eclair -> precure meitantei_precure! kamen_rider wonderful_precure! toei_company hirogaru_sky!_precure umamusume kimi_to_idol_precure blue_archive mahou_shoujo_madoka_magica
+?ieiri_shoko -> jujutsu_kaisen studio_mappa one_piece chainsaw_man dungeon_meshi monster_strike sousou_no_frieren kimetsu_no_yaiba pokemon umamusume
