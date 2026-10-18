@@ -5941,3 +5941,4 @@
 ?renko_(renkonv) -> original final_fantasy final_fantasy_xiv grand_theft_auto grand_theft_auto_vi lovense
 ?vena_(sait0moriyama) -> original
 ?miyamoto_usagi -> usagi_yojimbo teenage_mutant_ninja_turtles teenage_mutant_ninja_turtles_(2003) pokemon one_piece boku_no_hero_academia mario_(series) marvel digimon sonic_(series)
+?dipper_pines -> gravity_falls reverse_falls_(gravity_falls) transcendence_au_(gravity_falls) monster_falls_(gravity_falls) book_of_bill adventure_time star_vs_the_forces_of_evil over_the_garden_wall touhou vocaloid
