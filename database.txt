@@ -5514,3 +5514,4 @@
 ?tamon_kotarou -> phantom_busters neon_genesis_evangelion mario_(series) shingeki_no_kyojin rebuild_of_evangelion dandadan shiguang_dailiren bungou_stray_dogs my_s-class_hunters
 ?kawaragi_momoka -> girls_band_cry girls_band_cry_rpg bang_dream! bocchi_the_rock! real_life yoru_no_kurage_wa_oyogenai arknights chainsaw_man japan_railways
 ?hibiki_(cheer_squad)_(blue_archive) -> blue_archive arknights umamusume comiket_102 hololive genshin_impact original kantai_collection hololive_english tenga
+?male_shez_(fire_emblem) -> fire_emblem fire_emblem:_three_houses fire_emblem_warriors:_three_hopes fire_emblem_heroes fire_emblem_engage fire_emblem_fates fire_emblem_awakening fire_emblem:_the_sacred_stones fire_emblem:_new_mystery_of_the_emblem kawaii_dake_ja_nai_shikimori-san
