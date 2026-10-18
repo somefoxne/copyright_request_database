@@ -5318,3 +5318,4 @@
 ?asaba_harumasa -> zenless_zone_zero genshin_impact mihoyo moechakkafire honkai_(series) honkai:_star_rail nier_(series) nier:automata zozotown death_note
 ?lennon_(little_busters!) -> little_busters! key_(company) air_(visual_novel) kanon angel_beats! clannad dango_daikazoku rewrite charlotte_(anime) kud_wafter
 ?firefly_(jepella_rebellion)_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail honkai_impact_3rd chainsaw_man zenless_zone_zero mihoyo
+?eldreda_sunbringer -> zenless_zone_zero blue_archive genshin_impact jojo_no_kimyou_na_bouken persona goddess_of_victory:_nikke bleach persona_5 spy_x_family stardust_crusaders
