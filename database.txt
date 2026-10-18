@@ -5527,3 +5527,4 @@
 ?sugar_(summon_night) -> summon_night summon_night:_swordcraft_story summon_night_collection summon_night:_swordcraft_story_2 summon_night_craft_sword_monogatari_hajimari_no_ishi jojo_no_kimyou_na_bouken phantom_blood
 ?kozume_kenma -> haikyuu!! pokemon original sanrio wind_breaker_(nii_satoru) chainsaw_man boku_no_hero_academia kimetsu_no_yaiba kirby_(series) coca-cola
 ?chougei_(kancolle) -> kantai_collection little_red_riding_hood_(fairy_tale) comiket_101 shigoto_neko perfume_(band) capcom_vs._snk_2 c2_kikan touhou pokemon
+?esila_shephield -> nexas_(vtuber) indie_virtual_youtuber
