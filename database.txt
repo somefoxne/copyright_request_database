@@ -4475,3 +4475,4 @@
 ?hyoudou_issei -> high_school_dxd high_school_dxd_hero koutetsu_no_majo_annerose taimanin_(series) high_school_dxd_new digimon overlord_(maruyama) seikon_no_qwaser taimanin_murasaki high_school_dxd_operation_paradise_infinity
 ?usagi_(guilty_gear) -> guilty_gear guilty_gear_strive kirby_(series) guilty_gear_xrd gakkou_no_kaidan_(anime) ratatouille
 ?bartz_klauser -> final_fantasy final_fantasy_v dissidia_final_fantasy final_fantasy_ix final_fantasy_viii final_fantasy_vi final_fantasy_vii final_fantasy_iv final_fantasy_i final_fantasy_ii
+?boko_(ff5) -> final_fantasy final_fantasy_v final_fantasy_iv dissidia_final_fantasy final_fantasy_vii final_fantasy_vi final_fantasy_viii final_fantasy_ix final_fantasy_ii final_fantasy_iii
