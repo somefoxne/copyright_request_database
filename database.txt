@@ -4399,3 +4399,4 @@
 ?kindred_(league) -> league_of_legends original genshin_impact the_legend_of_zelda teamfight_tactics the_legend_of_zelda:_twilight_princess cult_of_the_lamb hololive mario_(series) kill_la_kill
 ?lamb_(league) -> league_of_legends original genshin_impact the_legend_of_zelda the_legend_of_zelda:_twilight_princess cult_of_the_lamb hololive mario_(series) kill_la_kill houseki_no_kuni
 ?chitose_(osawari_tantei) -> osawari_tantei osawari_tantei_2_1/2 osawari_tantei_1
+?daisy_(osawari_tantei) -> osawari_tantei osawari_tantei_1
