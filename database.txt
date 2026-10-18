@@ -5558,3 +5558,4 @@
 ?hirota_sora -> high_school_fleet
 ?rika_(palentine's_2026)_(pokemon) -> pokemon pokemon_masters_ex pokemon_scarlet_and_violet pokemon_sun_and_moon pokemon_diamond/pearl/platinum pokemon_legends:_z-a comiket_108
 ?hitachi_mako -> senren_banka yuzusoft sanoba_witch cafe_stella_to_shinigami_no_chou otogi_frontier riddle_joker limelight_lemonade_jam comiket_97 dracu-riot! comiket_96
+?tomotake_yoshino -> senren_banka yuzusoft sanoba_witch riddle_joker dracu-riot! cafe_stella_to_shinigami_no_chou amairo_islenauts tenshi_souzou_re-boot! tenshinranman noble_works
