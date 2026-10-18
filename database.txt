@@ -4790,3 +4790,4 @@
 ?utsunomiya_maika -> shuuniichido_classmate_wo_kau_hanashi
 ?mikado_akira_(cho_kaguya-hime!) -> cho_kaguya-hime! an_an chainsaw_man dragon_ball jujutsu_kaisen dragon_ball_z kill_la_kill minecraft danganronpa_(series) animal_crossing
 ?mikado_akira_(ray)_(cho_kaguya-hime!) -> cho_kaguya-hime!
+?mikado_akira_(tsukuyomi)_(cho_kaguya-hime!) -> cho_kaguya-hime! an_an chainsaw_man dragon_ball dragon_ball_z jujutsu_kaisen kill_la_kill minecraft danganronpa_(series) animal_crossing
