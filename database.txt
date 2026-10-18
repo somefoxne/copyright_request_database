@@ -5077,3 +5077,4 @@
 ?arihara_nanami -> riddle_joker yuzusoft tenshi_souzou_re-boot! sanoba_witch cafe_stella_to_shinigami_no_chou tenshinranman senren_banka dracu-riot! amairo_islenauts hamidashi_creative
 ?arihara_satoru -> riddle_joker yuzusoft cafe_stella_to_shinigami_no_chou kantai_collection granblue_fantasy spy_x_family school_days comiket_96 joshi_kousei
 ?makino_ikumi -> mahou_shoujo_madoka_magica magia_record:_mahou_shoujo_madoka_magica_gaiden mahou_shoujo_madoka_magica:_hangyaku_no_monogatari mahou_shoujo_oriko_magica mahou_shoujo_suzune_magica mahou_shoujo_kazumi_magica lyrical_nanoha monogatari_(series) mahou_shoujo_tart_magica idolmaster
+?momonga_(chiikawa) -> chiikawa original sanrio vocaloid fuwa_fuwa_cinnamoroll pokemon my_melody_(series) tokyo_revengers genshin_impact mahou_shoujo_madoka_magica
