@@ -6263,3 +6263,4 @@
 ?paladin_(final_fantasy) -> final_fantasy final_fantasy_xiv final_fantasy_iv final_fantasy_xi dissidia_final_fantasy final_fantasy_vii final_fantasy_ii final_fantasy_vi touhou final_fantasy_x
 ?dream_journey_(snow-white_dreamland)_(umamusume) -> umamusume wonder_girls
 ?knightfight_red_hood -> dc_comics batman_(series) knightfight dc:_dark_legion red_hood_and_the_outlaws original resident_evil
+?toki_(bunny)_(blue_archive) -> blue_archive comiket_102 blue_archive_the_animation fate_(series) fate/grand_order comiket_104 original rabbit_hole_(vocaloid) comiket_103 goddess_of_victory:_nikke
