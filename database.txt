@@ -6053,3 +6053,4 @@
 ?iron_man -> marvel avengers_(series) iron_man_(series) the_incredible_hulk_(series) spider-man_(series) x-men captain_america_(series) marvel_rivals fantastic_four marvel_vs._capcom
 ?spy_(tf2) -> team_fortress_2 touhou hololive hololive_english original blue_archive pokemon tears_of_themis fate_(series) mario_(series)
 ?thor_(marvel) -> marvel avengers_(series) thor_(marvel)_(series) the_incredible_hulk_(series) marvel_rivals x-men spider-man_(series) guardians_of_the_galaxy fantastic_four captain_america_(series)
+?keqing_(genshin_impact) -> genshin_impact honkai_(series) mihoyo honkai_impact_3rd original honkai:_star_rail fate_(series) fate/grand_order horizon_(game) arknights
