@@ -5394,3 +5394,4 @@
 ?hyakkihime -> youkai_watch youkai_watch_jam:_youkai_gakuen_y youkai_watch_3 youkai_watch_world touhou sanrio hello_kitty youkai_watch_2 youkai_watch_shadowside youkai_watch:_punipuni
 ?kasukabe_tsumugi -> voicevox voiceroid vocaloid utau cevio indie_virtual_youtuber synthesizer_v a.i._voice coefont onikko_hunter_tsuina-chan
 ?gaismagorm -> monster_hunter_(series) monster_hunter_rise capcom
+?drifloon -> pokemon pokemon_diamond/pearl/platinum pokemon_sun_and_moon pokemon_platinum pokemon_pokopia pokemon_heartgold_and_soulsilver pokemon_(anime) pokemon_black_and_white pokemon_x_and_y pokemon_sword_and_shield
