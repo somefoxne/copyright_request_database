@@ -6016,3 +6016,4 @@
 ?miyamoto_musashi_(swimsuit_berserker)_(fate) -> fate_(series) fate/grand_order kantai_collection azur_lane fate/samurai_remnant pokemon shokugeki_no_souma one_piece bleach dragon_quest
 ?miyamoto_musashi_(swimsuit_berserker)_(third_ascension)_(fate) -> fate_(series) fate/grand_order fire_emblem fire_emblem_fates eiyuu_densetsu fate/samurai_remnant zero_no_kiseki comiket_102 ao_no_kiseki wonder_festival
 ?vex_(league) -> league_of_legends teamfight_tactics original pokemon vspo! one-punch_man sanrio my_melody_(series) hololive hololive_english
+?ootoribashi_roujuurou -> bleach bleach:_sennen_kessen-hen bleach:_epilogue touhou bleach:_brave_souls bleach:_turn_back_the_pendulum bleach:_zanpakutou_ibun_hen bleach:_memories_of_nobody bleach:_fade_to_black bleach:_jigoku-hen
