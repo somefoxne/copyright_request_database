@@ -6082,3 +6082,4 @@
 ?mina_(mamiya) -> sekai_metsubou_kyouyuu_gensou_mamiya omori shoujo_kakumei_utena
 ?toujou_minato -> sekai_metsubou_kyouyuu_gensou_mamiya omori shoujo_kakumei_utena
 ?jeanne_d'arc_(girl_from_orleans)_(fate) -> fate_(series) fate/apocrypha fate/grand_order fate/stay_night fate/extra tsukihime fate/hollow_ataraxia touhou type-moon learning_with_manga!_fgo
+?ueno_(ueno-san_wa_bukiyou) -> ueno-san_wa_bukiyou final_fantasy kemono_friends final_fantasy_xiv kamen_rider megami_magazine kamen_rider_black_(series) akitaland_gothic yuusha_mushoku
