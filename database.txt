@@ -4675,3 +4675,4 @@
 ?monokuma_kid -> danganronpa_(series) danganronpa_another_episode:_ultra_despair_girls danganronpa_2:_goodbye_despair danganronpa:_trigger_happy_havoc
 ?naegi_komaru -> danganronpa_(series) danganronpa_another_episode:_ultra_despair_girls danganronpa:_trigger_happy_havoc danganronpa_2:_goodbye_despair danganronpa_v3:_killing_harmony danganronpa/zero danganronpa_s:_ultimate_summer_camp
 ?neru_(school_uniform)_(blue_archive) -> blue_archive project_moon limbus_company comiket_106 kamen_rider kamen_rider_den-o_(series) goddess_of_victory:_nikke kantai_collection idolmaster gundam
+?kitakami_reika -> idolmaster idolmaster_million_live! idolmaster_million_live!_theater_days idolmaster_(classic) idolmaster_cinderella_girls pokemon idolmaster_cinderella_girls_starlight_stage idolmaster_shiny_colors kantai_collection granblue_fantasy
