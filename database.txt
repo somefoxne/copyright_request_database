@@ -4755,3 +4755,4 @@
 ?seiun_sky_(whimsical_orange_on_the_shore)_(umamusume) -> umamusume zenless_zone_zero comiket_108
 ?neru_(bunny)_(blue_archive) -> blue_archive comiket_102 comiket_103 comiket_104 zenless_zone_zero nijisanji rabbit_hole_(vocaloid) comiket_107 blue_archive_the_animation angry_video_game_nerd
 ?cornerstone_(reverse:1999) -> reverse:1999 original
+?grundriss_(reverse:1999) -> reverse:1999
