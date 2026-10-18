@@ -4586,3 +4586,4 @@
 ?misty_(super_doll_licca-chan) -> super_doll_licca-chan licca-chan_(franchise)
 ?jelly_hoshiumi -> phase_connect original pokemon indie_virtual_youtuber neon_genesis_evangelion mahjong_soul chiikawa vershion honkai_(series) honkai:_star_rail
 ?nekomi_mashiro -> indie_virtual_youtuber etra-chan_wa_mita!
+?lann_(phantasy_star) -> phantasy_star phantasy_star_iii
