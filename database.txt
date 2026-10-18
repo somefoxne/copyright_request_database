@@ -4349,3 +4349,4 @@
 ?panette_(fire_emblem) -> fire_emblem fire_emblem_engage fire_emblem_heroes fire_emblem_awakening fire_emblem:_three_houses hooters pokemon fire_emblem_fates fire_emblem:_path_of_radiance fire_emblem:_the_blazing_blade
 ?yuubari_(kancolle) -> kantai_collection gundam original aoki_hagane_no_arpeggio kamen_rider lawson moomin pokemon azur_lane line_(naver)
 ?fellow_honest -> twisted_wonderland zootopia disney the_little_mermaid_(disney) aladdin_(movie) snow_white_and_the_seven_dwarfs_(disney) sleeping_beauty_(disney) pinocchio_(disney_movie)
+?gidel_(twisted_wonderland) -> twisted_wonderland pinocchio_(disney_movie) disney the_little_mermaid_(disney) aladdin_(movie) snow_white_and_the_seven_dwarfs_(disney) sleeping_beauty_(disney)
