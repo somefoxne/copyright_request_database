@@ -4481,3 +4481,4 @@
 ?male_kiran_(fire_emblem) -> fire_emblem fire_emblem_heroes fire_emblem_fates fire_emblem_engage fire_emblem_awakening fire_emblem:_the_blazing_blade fire_emblem:_three_houses fire_emblem_echoes:_shadows_of_valentia fire_emblem:_mystery_of_the_emblem fire_emblem:_the_binding_blade
 ?dr._ratio_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail mihoyo genshin_impact honkai_impact_3rd fate_(series) zenless_zone_zero fate/stay_night fate/unlimited_blade_works the_amazing_world_of_gumball
 ?sigrika_(wuthering_waves) -> wuthering_waves cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 blue_archive dragon_ball oshi_no_ko tonari_no_totoro koukaku_no_regios pizza-la
+?yangyang_(wuthering_waves) -> wuthering_waves anime_expo punishing:_gray_raven blue_archive kuro_games original honkai_(series) honkai:_star_rail blank_room_soup
