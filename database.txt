@@ -4411,3 +4411,4 @@
 ?erza_scarlet -> fairy_tail twitter fate_(series) bleach one_piece fire_emblem yu-gi-oh! naruto_(series) dc_comics rwby
 ?saotome_noa -> noa-senpai_wa_tomodachi. kimi_ni_koisuru_satsujinki cardcaptor_sakura rabbit_hole_(vocaloid) make_heroine_ga_oo_sugiru! mahou_shoujo_ni_akogarete coca-cola line_(naver) cinderella_(fairy_tale) bereal
 ?sakawa_(kancolle) -> kantai_collection pokemon line_(naver) gundam warship_girls_r aoki_hagane_no_arpeggio original genshin_impact vocaloid love_live!
+?slow_dancer_(jojo) -> jojo_no_kimyou_na_bouken steel_ball_run umamusume stone_ocean vento_aureo phantom_blood jojolion stardust_crusaders battle_tendency diamond_wa_kudakenai
