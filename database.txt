@@ -4646,3 +4646,4 @@
 ?frederic_chopin_(classicaloid) -> classicaloid wizarding_world daft_punk little_miss_sunshine
 ?ludwig_van_beethoven_(classicaloid) -> classicaloid wizarding_world fate_(series) fate/grand_order gintama little_red_riding_hood_(fairy_tale) serial_experiments_lain peanuts_(comic) hello_charlotte napoleon_crossing_the_alps
 ?otowa_kanae -> classicaloid tengen_toppa_gurren_lagann bloodborne little_miss_sunshine
+?pad-kun_(classicaloid) -> classicaloid
