@@ -5267,3 +5267,4 @@
 ?kamen_rider_zeztz -> kamen_rider kamen_rider_zeztz_(series) precure meitantei_precure! kamen_rider_01_(series) kamen_rider_geats_(series) kamen_rider_gotchard_(series) toei_company chou_uchuu_keiji_gavan_infinity pokemon
 ?kamen_rider_zeztz_(physicam_impact) -> kamen_rider kamen_rider_zeztz_(series) precure kamen_rider_revice_(series) kamen_rider_01_(series) kamen_rider_geats_(series) kamen_rider_gavv_(series) kamen_rider_gotchard_(series) kamen_rider_battle kamen_rider_battle:_ganba_legends
 ?guizhong_(genshin_impact) -> genshin_impact honkai_(series) mihoyo honkai:_star_rail honkai_impact_3rd twitter comiket_104 emergence_(shindol)
+?hastur_(cthulhu_mythos) -> cthulhu_mythos original lovecraft_girls fate_(series) fate/grand_order helltaker el_viento the_king_in_yellow touhou fate/zero
