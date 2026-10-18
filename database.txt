@@ -5212,3 +5212,4 @@
 ?whimsicott -> pokemon pokemon_black_and_white pokemon_masters_ex original pokemon_scarlet_and_violet pokemon_black_2_and_white_2 pokemon_x_and_y pokemon_sword_and_shield pokemon_(anime) pokemon_sun_and_moon
 ?asaka_(singer) -> umamusume real_life
 ?diamond_knot_(racehorse) -> real_life
+?kachimachi_kosuzu -> love_live! love_live!_hasu_no_sora_jogakuin_school_idol_club ladybug_(love_live!) dream_believers ampere_(love_live!) proof_(love_live!) taiyou_de_are! sparkly_spot_(love_live!) cho_toutoi_love aurora_flower_(love_live!)
