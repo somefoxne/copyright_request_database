@@ -4726,3 +4726,4 @@
 ?fritz_rumey_(azur_lane) -> azur_lane azur_lane:_slow_ahead kantai_collection comiket_108 formula_one
 ?fritz_rumey_(schwarzes_kaninchen)_(azur_lane) -> azur_lane azur_lane:_slow_ahead
 ?defiled_anthem_kiriko -> overwatch
+?mary_jane_watson -> marvel spider-man_(series) spider-verse x-men spider-man:_into_the_spider-verse spider-man:_brand_new_day darkstalkers marvel_vs._capcom marvel_rivals
