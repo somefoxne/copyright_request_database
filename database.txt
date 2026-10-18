@@ -4688,3 +4688,4 @@
 ?amayado_rei -> hypnosis_mic hypnosis_mic:_rule_the_stage venom_(vocaloid) hypnosis_mic:_alternative_rap_battle holostars pokemon nijisanji splatoon_(series) utdr_(toby_fox) touken_ranbu
 ?yamada_ichiro -> hypnosis_mic hypnosis_mic:_alternative_rap_battle hypnosis_mic:_rule_the_stage sanrio hello_kitty hypnosis_mic:_dream_rap_battle pokemon original idolmaster blue_archive
 ?ishikawa_kanami -> cardfight!!_vanguard cardfight!!_vanguard_divinez
+?ishikawa_kurumi -> cardfight!!_vanguard cardfight!!_vanguard_divinez
