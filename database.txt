@@ -5001,3 +5001,4 @@
 ?yomi_(trickcal) -> trickcal onii-chan_wa_oshimai! irasutoya shigoto_neko
 ?youngchun_(trickcal) -> trickcal blue_archive idolmaster the_legend_of_zelda gakuen_idolmaster jujutsu_kaisen shigoto_neko the_creation_of_adam
 ?akitsu_maru_(kancolle) -> kantai_collection t.m.revolution girls_und_panzer bleach aoki_hagane_no_arpeggio gundam hokuto_no_ken golgo_13 teito_monogatari pokemon
+?zuihou_(kancolle) -> kantai_collection lawson line_(naver) original aoki_hagane_no_arpeggio pokemon gundam touhou fate_(series) neon_genesis_evangelion
