@@ -6104,3 +6104,4 @@
 ?shyrei_faolan -> indie_virtual_youtuber vyugen original vinesauce gamer_supps zenless_zone_zero splatoon_(series) silent_hill_(series) subnautica final_fantasy
 ?wakamo_(swimsuit)_(blue_archive) -> blue_archive comiket_105 fate_(series) fate/grand_order umamusume comiket_106 original azur_lane onii-chan_wa_oshimai! yuyushiki
 ?grevy's_zebra_(kemono_friends) -> kemono_friends kemono_friends_3 ghost_in_the_shell keroro_gunsou crunchyroll
+?sugawara_koushi -> haikyuu!! original love_live! nijisanji boku_no_hero_academia love_live!_school_idol_project puyopuyo osomatsu_(series) osomatsu-san puyopuyo_quest
