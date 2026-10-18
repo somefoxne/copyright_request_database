@@ -5033,3 +5033,4 @@
 ?bella_(honkai_impact) -> honkai_(series) honkai_impact_3rd genshin_impact sonic_(series) mihoyo sonic_adventure_2 sonic_adventure_2:_battle
 ?benares_(honkai_impact) -> honkai_(series) honkai_impact_3rd mihoyo genshin_impact honkai:_star_rail zenless_zone_zero sonic_(series) honkai_gakuen carnival_phantasm sonic_adventure_2
 ?matikanetannhauser_(casual)_(umamusume) -> umamusume
+?nice_nature_(casual)_(umamusume) -> umamusume love_live! pikmin_(series) yani_neko pikmin_bloom love_live!_nijigasaki_high_school_idol_club real_life kfc sony ai_scream!_(love_live!)
