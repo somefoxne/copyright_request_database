@@ -5731,3 +5731,4 @@
 ?kumbhira_(summer)_(granblue_fantasy) -> granblue_fantasy
 ?koseki_bijou_(beaming_sandcastle) -> hololive hololive_english hololive_dreams
 ?pyra_(pro_swimmer)_(xenoblade) -> xenoblade_chronicles_(series) xenoblade_chronicles_2 xenoblade_chronicles_3 super_smash_bros. xenoblade_chronicles_3:_future_redeemed comiket_96 comiket_106 mario_(series) fire_emblem the_legend_of_zelda
+?final_third_(umamusume) -> umamusume umamusume:_star_blossom
