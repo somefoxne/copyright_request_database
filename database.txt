@@ -4917,3 +4917,4 @@
 ?gebura_(project_moon) -> project_moon library_of_ruina lobotomy_corporation limbus_company touhou blue_archive pokemon indie_virtual_youtuber hamhampangpang original
 ?daniel_(project_moon) -> project_moon lobotomy_corporation library_of_ruina limbus_company the_distortion_detective leviathan_(project_moon) fate_(series) umamusume fate/stay_night lord_of_the_mysteries
 ?kali_(project_moon) -> project_moon library_of_ruina lobotomy_corporation limbus_company leviathan_(project_moon) fate_(series) blue_archive genshin_impact fate/grand_order umamusume
+?billy_(deadlock) -> deadlock_(game) frankenstein
