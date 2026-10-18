@@ -5825,3 +5825,4 @@
 ?takanashi_rikka -> chuunibyou_demo_koi_ga_shitai! kyoto_animation k-on! tamako_market touhou mahou_shoujo_madoka_magica hyouka kyoukai_no_kanata mahou_shoujo_madoka_magica_(anime) newtype
 ?yamaguchi_tadashi -> haikyuu!! love_live! love_live!_school_idol_project real_life hunter_x_hunter call_of_cthulhu bokura_wa_ima_no_naka_de future_card_buddyfight
 ?hatsutori_hajime -> saibou_shinkyoku project_moon sanrio mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) lobotomy_corporation my_melody_(series) pokemon danganronpa_(series) limbus_company
+?utsugi_noriyuki -> saibou_shinkyoku project_moon sanrio mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) my_melody_(series) limbus_company lobotomy_corporation rin-chan_now!_(vocaloid) pokemon
