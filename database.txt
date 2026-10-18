@@ -6091,3 +6091,4 @@
 ?perona -> one_piece one_piece_card_game one_piece_treasure_cruise one_piece_film:_red pokemon original mario_(series) naruto_(series) dc_comics sanrio
 ?morichika_haruki -> sekai_metsubou_kyouyuu_gensou_mamiya omori sanrio kero_kero_keroppi
 ?iwaizumi_hajime -> haikyuu!! fate_(series) genshin_impact touken_ranbu fate/zero higurashi_no_naku_koro_ni tokyo_afterschool_summoners ace_attorney godzilla_(series) gekkan_shoujo_nozaki-kun
+?chitabi_aki -> marcescence
