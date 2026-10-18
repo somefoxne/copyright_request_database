@@ -4888,3 +4888,4 @@
 ?takasaki_yu -> love_live! love_live!_nijigasaki_high_school_idol_club love_live!_school_idol_festival_all_stars love_live!_superstar!! nijiyon love_live!_sunshine!! love_live!_nijigasaki_high_school_idol_club_the_movie_-_finale love_live!_school_idol_project love_live!_hasu_no_sora_jogakuin_school_idol_club hangyaku_no_nijigasaki
 ?doraemon_(character) -> doraemon touhou pokemon original kantai_collection vocaloid jojo_no_kimyou_na_bouken dragon_ball gundam sanrio
 ?uzaki_tsuki -> uzaki-chan_wa_asobitai! girls_und_panzer yahari_ore_no_seishun_lovecome_wa_machigatteiru. gundam gundam_build_fighters pokemon pokemon_(anime) pokemon_the_series:_sun_&_moon precure smile_precure!
+?symbareangoramon -> digimon digimon_ghost_game original pokemon sanrio digimon_card_game fuwa_fuwa_cinnamoroll digimon_story:_sunburst_and_moonlight
