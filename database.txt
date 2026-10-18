@@ -4965,3 +4965,4 @@
 ?ki-sikil_(yu-gi-oh!) -> yu-gi-oh! yu-gi-oh!_master_duel hololive youtube hololive_english panty_&_stocking_with_garterbelt original touhou pokemon umamusume
 ?lil-la_(yu-gi-oh!) -> yu-gi-oh! yu-gi-oh!_master_duel hololive hololive_english youtube panty_&_stocking_with_garterbelt touhou original pokemon umamusume
 ?live_twin_ki-sikil -> yu-gi-oh! yu-gi-oh!_master_duel youtube panty_&_stocking_with_garterbelt hololive umamusume hololive_english don_quijote_(store) iwara.tv pokemon
+?live_twin_lil-la -> yu-gi-oh! yu-gi-oh!_master_duel panty_&_stocking_with_garterbelt youtube hololive hololive_english pokemon umamusume zenless_zone_zero
