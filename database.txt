@@ -4631,3 +4631,4 @@
 ?bar-gm -> gundam under_the_gundam:_double_fake original zeta_gundam gundam_f90 gundam_zz
 ?barzam -> gundam zeta_gundam original gundam_sentinel advance_of_zeta advance_of_zeta_re-boot zeta_gundam_define sd_gundam gundam_perfect_file gundam_zz
 ?jegan -> gundam gundam_unicorn original gundam_f91 gundam_perfect_file sunrise_(company) gundam_battle_operation_2 zeta_gundam sd_gundam
+?fushimi_yuzuru -> ensemble_stars! pokemon sanrio my_melody_(series) pokemon_sun_and_moon pokemon_heartgold_and_soulsilver puzzle_&_dragons pokemon_adventures
