@@ -4595,3 +4595,4 @@
 ?hijoushiki_roc -> funamusea oounabara_to_wadanohara haiiro_teien taiyou_no_jubaku sunahama_tsuushin
 ?lobco_(funamusea) -> funamusea oounabara_to_wadanohara original haiiro_teien ice_scream sutare_yume taiyou_no_jubaku sunahama_tsuushin touhou kantai_collection
 ?atago_(azur_lane) -> azur_lane kantai_collection original fate_(series) fate/grand_order blue_archive hololive dolphin_wave comiket_94
+?atago_(stunning_speedster)_(azur_lane) -> azur_lane kantai_collection blue_archive dolphin_wave original fate_(series) fate/grand_order hololive umamusume hololive_english
