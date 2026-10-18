@@ -4509,3 +4509,4 @@
 ?dobrynya_nikitich_(second_ascension)_(fate) -> fate_(series) fate/grand_order fate/apocrypha hololive fate/stay_night fate/kaleid_liner_prisma_illya the_exit_8
 ?felicia_castro -> tatakau_ni_atai_suru azur_lane original fate_(series) fate/grand_order
 ?muffet -> utdr_(toby_fox) undertale xtale deltarune pokemon mario_(series) sonic_(series) elden_ring original kirby_(series)
+?eri_(boku_no_hero_academia) -> boku_no_hero_academia spy_x_family boku_no_hero_academia:_more kimetsu_no_yaiba original pokemon dragon_ball emergence_(shindol) sleeping_beauty_(fairy_tale)
