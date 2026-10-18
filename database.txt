@@ -5005,3 +5005,4 @@
 ?mito_anji -> guilty_gear guilty_gear_strive guilty_gear_xrd guilty_gear_xx guilty_gear_x touhou pokemon persona street_fighter the_king_of_fighters
 ?fandaniel -> final_fantasy final_fantasy_xiv original shoujo_kakumei_utena home_alone
 ?magical_mirai_miku_(2020_summer) -> vocaloid magical_mirai_(vocaloid) piapro_studio hatsune_miku_graphy_collection odds_&_ends_(vocaloid) aisarenakute_mo_kimi_ga_iru_(vocaloid) project_sekai goodsmile_company goodsmile_racing senbonzakura_(vocaloid)
+?leyn_(alchemy_stars) -> alchemy_stars ace_attorney starry_night_(van_gogh)
