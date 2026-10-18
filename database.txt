@@ -5874,3 +5874,4 @@
 ?paul_pfitzner_(knight_college) -> knights_college indie_virtual_youtuber tokyo_afterschool_summoners live_a_hero trivia_about_you
 ?nyopu -> original monster_girl_encyclopedia cuddly_octopus darkstalkers kobayashi-san_chi_no_maidragon
 ?zornia_(shenqi_xiaohuang) -> original fate_(series) fate/grand_order
+?palette_(project_moon) -> project_moon limbus_company
