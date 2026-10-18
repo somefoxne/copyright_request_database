@@ -4356,3 +4356,4 @@
 ?tsukumo_yuma -> yu-gi-oh! yu-gi-oh!_zexal yu-gi-oh!_gx yu-gi-oh!_duel_monsters yu-gi-oh!_arc-v yu-gi-oh!_vrains yu-gi-oh!_sevens pokemon danganronpa_(series)
 ?gara'ha_ironbane -> warcraft world_of_warcraft original final_fantasy final_fantasy_xiv
 ?violet_evergarden -> violet_evergarden_(series) kyoto_animation darling_in_the_franxx girls_und_panzer fate_(series) kobayashi-san_chi_no_maidragon nier_(series) nier:automata shingeki_no_kyojin hibike!_euphonium
+?great_saiyaman -> dragon_ball dragon_ball_z dragon_ball_super dragon_ball_super_super_hero dragon_ball_(classic) dc_comics dragon_ball_gt dragon_ball_fighterz dr._slump touhou
