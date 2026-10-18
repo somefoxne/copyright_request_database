@@ -5971,3 +5971,4 @@
 ?mirae_(closers) -> closers original me!me!me! azur_lane
 ?eunha_(closers) -> closers blue_archive
 ?usedcvnt_(character) -> original
+?bowen_(omori) -> omori the_coffin_of_andy_and_leyley
