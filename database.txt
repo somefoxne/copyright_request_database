@@ -6086,3 +6086,4 @@
 ?lyza_(made_in_abyss) -> made_in_abyss original youjo_senki moomin pokemon nijisanji transformers godzilla_(series) monsterverse godzilla:_king_of_the_monsters
 ?ozen -> made_in_abyss project_moon original pokemon lobotomy_corporation library_of_ruina fate_(series) fate/grand_order umamusume one_piece
 ?eula_(genshin_impact) -> genshin_impact pizza_hut mihoyo honkai_(series) honkai:_star_rail arknights zenless_zone_zero comiket_100 honkai_impact_3rd fire_emblem
+?kirakishou -> rozen_maiden suzumiya_haruhi_no_yuuutsu gundam higurashi_no_naku_koro_ni shakugan_no_shana lyrical_nanoha ichigo_mashimaro precure aria_(manga) keroro_gunsou
