@@ -6033,3 +6033,4 @@
 ?shioriha_ruri_(2nd_costume) -> nijisanji
 ?elster_(signalis) -> signalis isle_of_the_dead_(painting) shores_of_oblivion vocaloid blame! the_king_in_yellow doom_(series) persona silent_hill_(series) dead_space_(series)
 ?kaburaki_roco_(2nd_costume) -> nijisanji monitoring_(vocaloid) nijisanji_gta
+?mutn_(kamen_rider_my-th) -> kamen_rider kamen_rider_my-th_(series)
