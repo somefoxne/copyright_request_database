@@ -5326,3 +5326,4 @@
 ?aladdin_(disney) -> aladdin_(movie) disney beauty_and_the_beast_(disney) hercules_(1997_movie) tarzan_(disney_movie) the_little_mermaid_(disney) tangled sleeping_beauty_(disney) cinderella_(disney_movie)
 ?jasmine_(disney) -> aladdin_(movie) disney the_little_mermaid_(disney) beauty_and_the_beast_(disney) disney_princess sleeping_beauty_(disney) tangled cinderella_(disney_movie) snow_white_and_the_seven_dwarfs_(disney) hercules_(1997_movie)
 ?nukumizu_kazuhiko -> make_heroine_ga_oo_sugiru! pokemon pokemon_black_and_white ore_no_imouto_ga_konna_ni_kawaii_wake_ga_nai blue_archive umamusume final_fantasy bocchi_the_rock! k-on! suzumiya_haruhi_no_yuuutsu
+?ararycan_(genshin_impact) -> genshin_impact original nier_(series) nier:automata zenless_zone_zero mihoyo snow_white_and_the_seven_dwarfs_(disney) kamisama_hajimemashita
