@@ -6219,3 +6219,4 @@
 ?joshua_(fire_emblem) -> fire_emblem fire_emblem:_the_sacred_stones fire_emblem_heroes fire_emblem_fates fire_emblem_awakening fire_emblem:_path_of_radiance fire_emblem:_the_blazing_blade fire_emblem:_mystery_of_the_emblem fire_emblem:_genealogy_of_the_holy_war fire_emblem_echoes:_shadows_of_valentia
 ?pozyomka_(beside_dreams)_(arknights) -> arknights
 ?i-no -> guilty_gear guilty_gear_strive guilty_gear_xrd guilty_gear_xx blazblue arc_system_works touhou darkstalkers tower_records street_fighter
+?minazuki_(kancolle) -> kantai_collection choo_choo_train gundam original zeta_gundam galaxy_angel hokuto_no_ken comiket_100 wacky_races kunihiko_moriguchi
