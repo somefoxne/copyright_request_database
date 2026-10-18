@@ -6160,3 +6160,4 @@
 ?santa_(kyokugen_dasshutsu) -> kyokugen_dasshutsu kyokugen_dasshutsu:_9_jikan_9_nin_9_no_tobira kyokugen_dasshutsu_adv:_zennin_shibou_desu zero_escape:_toki_no_dilemma the_hundred_line_-last_defense_academy- shizumeru_machi_(song)
 ?edge_colthearts -> summon_night summon_night:_swordcraft_story_2 summon_night:_swordcraft_story summon_night_craft_sword_monogatari_hajimari_no_ishi summon_night_collection
 ?seiryuu_tenmu -> shouryuu_senki_tenmu
+?sacred_claire -> genseishinki_sacred_virth
