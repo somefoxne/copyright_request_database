@@ -5820,3 +5820,4 @@
 ?zatanna_zatara_(absolute_dc) -> dc_comics absolute_dc absolute_wonder_woman wonder_woman_(series)
 ?toothless -> how_to_train_your_dragon_(series) how_to_train_your_dragon_1 how_to_train_your_dragon_2 how_to_train_your_dragon:_the_hidden_world pokemon marvel dragon_ball rise_of_the_guardians sen_to_chihiro_no_kamikakushi original
 ?lillipup -> pokemon pokemon_black_and_white pokemon_black_2_and_white_2 pokemon_(anime) pokemon_sun_and_moon pokemon_x_and_y pokemon_the_series:_sun_&_moon pokemon_diamond/pearl/platinum pokemon_heartgold_and_soulsilver pokemon_ruby/sapphire/emerald
+?karasu_tengu_(onmyoji) -> onmyoji onmyoji:_the_card_game kantai_collection
