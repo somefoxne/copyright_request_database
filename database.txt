@@ -5974,3 +5974,4 @@
 ?bowen_(omori) -> omori the_coffin_of_andy_and_leyley
 ?daphne_(omori) -> omori the_coffin_of_andy_and_leyley
 ?mikhael_(omori) -> omori the_coffin_of_andy_and_leyley okusuri_nonde_neyou_(vocaloid)
+?triss_(closers) -> closers
