@@ -4384,3 +4384,4 @@
 ?heavy_lobster -> kirby_(series) kirby_super_star kirby_air_ride kirby:_right_back_at_ya! kirby:_squeak_squad kirby_64 kirby_and_the_forgotten_land kirby_star_allies
 ?paint_kirby -> kirby_(series) kirby_64 kirby_super_star kirby:_planet_robobot kirby_star_allies kirby:_squeak_squad
 ?beelzebub_(umineko) -> umineko_no_naku_koro_ni higurashi_no_naku_koro_ni ougon_musou_kyoku alliance_of_the_golden_witch k-on! death_note banquet_of_the_golden_witch touhou persona persona_3
+?wendy_marvell -> fairy_tail pokemon kouyoku_senki_exs-tia original blue_archive chainsaw_man dragon_ball suzumiya_haruhi_no_yuuutsu dragon_ball_z ranma_1/2
