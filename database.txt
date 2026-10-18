@@ -4513,3 +4513,4 @@
 ?dream_journey_(casual)_(umamusume) -> umamusume wonder_girls original project_sekai eiyuu_densetsu kuro_no_kiseki_(series) comiket_106 kuro_no_kiseki_ii pink_bitch_club otomeroid_(pink_bitch_club)
 ?stay_gold_(casual)_(umamusume) -> umamusume original real_life backrooms_(creepypasta) dc_comics doraemon wonder_girls sukisugite_metsu!_(m!lk)
 ?shikinami_(kancolle) -> kantai_collection neon_genesis_evangelion rebuild_of_evangelion choo_choo_train mario_(series) super_mario_bros._1 lawson gundam evangelion:_2.0_you_can_(not)_advance aoki_hagane_no_arpeggio
+?shikinami_(yokosuka)_(kancolle) -> kantai_collection
