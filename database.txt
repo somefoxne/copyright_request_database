@@ -5785,3 +5785,4 @@
 ?hex_maniac_(pokemon_legends:_z-a) -> pokemon pokemon_legends:_z-a pokemon_x_and_y darkstalkers pokemon_sword_and_shield pokemon_ruby/sapphire/emerald pokemon_firered_and_leafgreen pokemon_x_and_y_(prototype) pokemon_scarlet_and_violet pokemon_diamond/pearl/platinum
 ?saya_(saya_no_uta) -> saya_no_uta nitroplus kusari_hime:_euthanasia futaba_channel guro_cure os-tan vocaloid touhou tsukihime fate_(series)
 ?akane_rin_(full_metal_rock)_(nte) -> neverness_to_everness
+?saori_(swimsuit)_(blue_archive) -> blue_archive arknights comiket_106 comiket_104 spongebob_squarepants_(series) zozotown hololive idolmaster vocaloid honkai_(series)
