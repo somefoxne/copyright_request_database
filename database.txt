@@ -5572,3 +5572,4 @@
 ?teruzuki_(kancolle) -> kantai_collection pokemon line_(naver) lawson aoki_hagane_no_arpeggio pokemon_sword_and_shield pokemon_go starbucks original kemono_friends
 ?nekoma_karin -> kemomimi_refle! indie_virtual_youtuber aogiri_high_school tenga
 ?hinata_shouyou -> haikyuu!! boku_no_hero_academia one_piece naruto_(series) shounen_jump kimetsu_no_yaiba gintama jujutsu_kaisen hunter_x_hunter sanrio
+?kageyama_tobio -> haikyuu!! jujutsu_kaisen original kirby_(series) sanrio slam_dunk_(series) love_live! jojo_no_kimyou_na_bouken chainsaw_man love_live!_school_idol_project
