@@ -5892,3 +5892,4 @@
 ?kitakami_(kancolle) -> kantai_collection kantai_collection_(anime) fate_(series) lawson umamusume gundam real_life aoki_hagane_no_arpeggio pokemon fate/grand_order
 ?kitakami_kai_san_(kancolle) -> kantai_collection famitsu
 ?ooi_(kancolle) -> kantai_collection kantai_collection_(anime) lawson aoki_hagane_no_arpeggio line_(naver) pokemon original fate_(series) dragon_ball
+?ooi_kai_ni_(kancolle) -> kantai_collection pokemon aoki_hagane_no_arpeggio pokemon_sword_and_shield lawson lupin_iii gundam world_of_warships gundam_narrative street_fighter
