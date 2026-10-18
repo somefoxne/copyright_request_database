@@ -5112,3 +5112,4 @@
 ?rulership_(monochrome_gm)_(umamusume) -> umamusume yu-gi-oh! jojo_no_kimyou_na_bouken real_life digimon sonic_(series) trickcal world_cup kimi_no_na_wa. crayon_shin-chan
 ?nikka_edvardine_katajainen -> world_witches_series brave_witches strike_witches strike_witches:_aurora_no_majo strike_witches:_suomus_misfits_squadron witches_of_africa strike_witches:_katayoku_no_majo-tachi strike_witches:_kurenai_no_majo-tachi noble_witches strike_witches_zero
 ?serena_cadenzavna_eve -> senki_zesshou_symphogear senki_zesshou_symphogear_xd_unlimited darkstalkers wild_arms final_fantasy marvel super_sentai avengers_(series) wild_arms_2
+?bellibolt -> pokemon pokemon_scarlet_and_violet pokemon_(anime) pokemon_horizons vocaloid pokemon_black_2_and_white_2 project_voltage pokemon_tcg denki_yohou_(vocaloid) pokemon_black_and_white
