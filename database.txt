@@ -5507,3 +5507,4 @@
 ?amulet_dia -> shugo_chara! idolmaster idolmaster_cinderella_girls precure bishoujo_senshi_sailor_moon cardcaptor_sakura yes!_precure_5 ojamajo_doremi mermaid_melody_pichi_pichi_pitch tokyo_mew_mew
 ?dia_(shugo_chara!) -> shugo_chara! original precure sanrio tamagotchi san-x hamtaro_(series) tamagotchi_plus kirarin_revolution q-lia
 ?hinamori_amu -> shugo_chara! bishoujo_senshi_sailor_moon cardcaptor_sakura precure mahou_shoujo_madoka_magica tokyo_mew_mew ojamajo_doremi mermaid_melody_pichi_pichi_pitch mahou_shoujo_madoka_magica_(anime) futari_wa_precure
+?black_groza_(girls'_frontline_2) -> honkai_(series) honkai:_star_rail honkai_impact_3rd goddess_of_victory:_nikke honest_axe
