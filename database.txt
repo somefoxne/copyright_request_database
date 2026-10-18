@@ -5916,3 +5916,4 @@
 ?poochyena -> pokemon pokemon_ruby/sapphire/emerald pokemon_scarlet_and_violet pokemon_omega_ruby_and_alpha_sapphire pokemon_adventures pokemon_black_and_white pokemon_diamond/pearl/platinum pokemon_x_and_y pokemon_emerald pokemon_gold/silver/crystal
 ?theoreol_(live_a_hero) -> live_a_hero jojo_no_kimyou_na_bouken
 ?juuichi_mikazuki -> morenatsu original knights_college bakemono_no_ko pokemon tokyo_afterschool_summoners live_a_hero kekkai_sensen winnie_the_pooh
+?ten_kodori -> morenatsu
