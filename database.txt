@@ -5774,3 +5774,4 @@
 ?himemushi_momoyo -> touhou unconnected_marketeers touhou_(pc-98) minecraft touhou_lostword shinra-bansho_(circle) reitaisai sunken_fossil_world pokemon embodiment_of_scarlet_devil
 ?mordred_(memories_at_trifas)_(fate) -> fate_(series) fate/apocrypha fate/grand_order fate/stay_night fate/extra learning_with_manga!_fgo arknights fate/hollow_ataraxia sono_bisque_doll_wa_koi_wo_suru fate/tiger_colosseum
 ?mari_(amazu_(kurozu)) -> original
+?cyclops_(x-men) -> marvel x-men marvel_vs._capcom marvel_rivals street_fighter spider-man_(series) x-men_vs._street_fighter avengers_(series) the_incredible_hulk_(series) x-men:_the_animated_series
