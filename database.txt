@@ -5496,3 +5496,4 @@
 ?satou_shizue_(yanineko) -> yani_neko blue_archive fate_(series) fate/grand_order
 ?ninomae_ina'nis_(ina_the_hero) -> hololive hololive_english abyssal_hymn umamusume
 ?carrion_crow_(kemono_friends) -> kemono_friends kemono_friends_3
+?clover_(deltarune) -> utdr_(toby_fox) deltarune naruto_(series) naruto_shippuuden undertale pokemon umamusume dragon_ball little_red_riding_hood_(fairy_tale) roblox
