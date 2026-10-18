@@ -6200,3 +6200,4 @@
 ?minior_(core) -> pokemon pokemon_sun_and_moon pokemon_scarlet_and_violet pokemon_(anime) pokemon_the_series:_sun_&_moon pokemon_black_and_white original pokemon_diamond/pearl/platinum pokemon_omega_ruby_and_alpha_sapphire pokemon_(classic_anime)
 ?minior_(red_core) -> pokemon pokemon_sun_and_moon pokemon_scarlet_and_violet pokemon_(anime) pokemon_black_and_white pokemon_diamond/pearl/platinum pokemon_masters_ex pokemon_(classic_anime) pokemon_tcg pokemon_the_series:_sun_&_moon
 ?arcane_vi -> league_of_legends arcane:_league_of_legends rwby avatar_legends adventure_time 2xko dc_comics the_legend_of_korra the_owl_house she-ra_and_the_princesses_of_power
+?vi_(league) -> league_of_legends arcane:_league_of_legends 2xko rwby avatar_legends adventure_time original dc_comics the_legend_of_korra the_owl_house
