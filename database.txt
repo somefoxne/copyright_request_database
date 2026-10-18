@@ -5413,3 +5413,4 @@
 ?kaga_sumire_(6th_costume) -> vspo! game_game_over nijisanji
 ?evernight_(impression)_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail
 ?march_7th_(impression)_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail
+?saki_(swimsuit)_(blue_archive) -> blue_archive comiket_104 comiket_106 fate_(series) fate/grand_order umamusume comiket_103 blue_archive_the_animation vocaloid call_of_duty
