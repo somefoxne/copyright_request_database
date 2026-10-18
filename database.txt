@@ -5677,3 +5677,4 @@
 ?yukoku_kiriko -> idolmaster idolmaster_shiny_colors idolmaster_shiny_colors_song_for_prism idolmaster_cinderella_girls karma_(idolmaster) idolmaster_million_live! idolmaster_(classic) idolmaster_million_live!_theater_days idolmaster_side-m bloodborne
 ?linaris_the_obsidian -> ishura newtype
 ?magik_(x-men) -> marvel x-men marvel_rivals marvel_tokon:_fighting_souls new_mutants spider-man_(series) fantastic_four avengers_(series) marvel_2099 deadpool_(series)
+?player_character_(male)_(degrees_of_lewdity) -> degrees_of_lewdity original real_life animal_crossing the_coffin_of_andy_and_leyley animal_crossing:_new_horizons romeo_to_cinderella_(vocaloid) me!me!me!
