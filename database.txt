@@ -4588,3 +4588,4 @@
 ?nekomi_mashiro -> indie_virtual_youtuber etra-chan_wa_mita!
 ?lann_(phantasy_star) -> phantasy_star phantasy_star_iii
 ?lynn_(phantasy_star) -> phantasy_star phantasy_star_iii
+?aizawa_tomo -> tomo-chan_wa_onna_no_ko original phase_connect hitomi-chan_wa_hitomishiri pokemon fate_(series) hololive genshin_impact fate/grand_order hololive_english
