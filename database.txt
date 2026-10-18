@@ -5427,3 +5427,4 @@
 ?shigure_ui_(young)_(vtuber) -> indie_virtual_youtuber shukusei!!_loli-kami_requiem hololive nijisanji onii-chan_wa_oshimai! hololive_dev_is ui-mama_saga blue_archive voisona original
 ?kanzaki_kaori -> toaru_majutsu_no_index toaru_majutsu_no_index:_old_testament toaru_kagaku_no_railgun toaru_majutsu_no_index:_new_testament toaru_majutsu_no_index:_endymion_no_kiseki megami_magazine magical_powered_kanamin godzilla_(series) virtual_on toaru_majutsu_no_index:_imaginary_fest
 ?goodra -> pokemon pokemon_sword_and_shield pokemon_x_and_y pokemon_(anime) pokemon_scarlet_and_violet pokemon_the_series:_xy pokemon_legends:_z-a pokemon_journeys original pokemon_(classic_anime)
+?saint-germain_(symphogear) -> senki_zesshou_symphogear senki_zesshou_symphogear_xd_unlimited fate_(series) genshin_impact persona fate/stay_night persona_5 kill_la_kill bungou_stray_dogs symphogear_live
