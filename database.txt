@@ -5913,3 +5913,4 @@
 ?hiellya_(gg_nong) -> original
 ?akihiro_altland -> gundam gundam_tekketsu_no_orphans mobile_suit_gundam gundam_00 zeta_gundam gundam_suisei_no_majo gundam_seed gundam_seed_destiny gundam_unicorn
 ?lafter_frankland -> gundam gundam_tekketsu_no_orphans gundam_build_fighters mobile_suit_gundam gundam_card_game sakigake!!_cromartie_koukou gundam_seed gundam_00 super_robot_wars gundam_seed_destiny
+?poochyena -> pokemon pokemon_ruby/sapphire/emerald pokemon_scarlet_and_violet pokemon_omega_ruby_and_alpha_sapphire pokemon_adventures pokemon_black_and_white pokemon_diamond/pearl/platinum pokemon_x_and_y pokemon_emerald pokemon_gold/silver/crystal
