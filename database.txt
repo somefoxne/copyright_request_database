@@ -5272,3 +5272,4 @@
 ?sword_maiden -> goblin_slayer! nier_(series) nier:automata brown_dust_(series) brown_dust_2 fire_emblem goblin_slayer_gaiden_2_tsubanari_no_tachi_(daikatana) blind_men_and_an_elephant fire_emblem:_three_houses xenoblade_chronicles_(series)
 ?delibird -> pokemon pokemon_masters_ex pokemon_sun_and_moon pokemon_scarlet_and_violet pokemon_gold/silver/crystal pokemon_heartgold_and_soulsilver pokemon_(anime) pokemon_sword_and_shield pokemon_tcg pokemon_black_and_white
 ?lidia_sobieska -> tekken tekken_7 tekken_8 original street_fighter street_fighter_iii_(series) the_witcher_(series) bandai_namco
+?aile_(mega_man_zx) -> mega_man_(series) mega_man_zx mega_man_zx_advent mega_man_x_(series) mega_man_zero_(series) mega_man_x_dive mega_man_legends_(series) mega_man_(classic) mega_man_battle_network_(series) mega_man_star_force_(series)
