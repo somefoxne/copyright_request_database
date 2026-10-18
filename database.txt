@@ -4521,3 +4521,4 @@
 ?vivian_banshee_(iris_of_the_shore) -> zenless_zone_zero sekaiju_no_meikyuu mihoyo comiket_107 shin_sekaiju_no_meikyuu_2 honkai_(series) honkai:_star_rail chainsaw_man invincible_(series)
 ?cantarella_(wuthering_waves) -> wuthering_waves original genshin_impact honkai_(series) honkai:_star_rail zenless_zone_zero chainsaw_man epic_seven comiket_107 the_last_supper
 ?rosemary_(wuthering_waves) -> wuthering_waves
+?fumizuki_(kancolle) -> kantai_collection choo_choo_train bishoujo_senshi_sailor_moon kamen_rider fate_(series) fate/grand_order umamusume aoki_hagane_no_arpeggio dragon_ball dragon_ball_z
