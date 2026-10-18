@@ -6243,3 +6243,4 @@
 ?meisho_doto_(dot-o'-lantern)_(umamusume) -> umamusume original pokemon fate_(series) indie_virtual_youtuber fate/stay_night real_life gegege_no_kitarou umamusume:_cinderella_gray magic:_the_gathering
 ?castorice_(gossamer_flutter)_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail
 ?minato_(doa) -> dead_or_alive dead_or_alive_6
+?atlanta_(kancolle) -> kantai_collection kirby_(series) comiket_100 jojo_no_kimyou_na_bouken among_us comiket_105 coca-cola azur_lane gundam
