@@ -5566,3 +5566,4 @@
 ?fura_kanato_(voltaction_anniversary) -> nijisanji
 ?seraph_dazzlegarden_(voltaction_anniversary) -> nijisanji
 ?shikinagi_akira_(voltaction_anniversary) -> nijisanji
+?watarai_hibari_(voltaction_anniversary) -> nijisanji
