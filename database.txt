@@ -4401,3 +4401,4 @@
 ?chitose_(osawari_tantei) -> osawari_tantei osawari_tantei_2_1/2 osawari_tantei_1
 ?daisy_(osawari_tantei) -> osawari_tantei osawari_tantei_1
 ?jii_(osawari_tantei) -> osawari_tantei osawari_tantei_1
+?magi_(osawari_tantei) -> osawari_tantei osawari_tantei_1
