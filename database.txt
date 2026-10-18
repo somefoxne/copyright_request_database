@@ -5718,3 +5718,4 @@
 ?kaneshiya_sitara -> alice_gear_aegis project_tokyo_dolls dead_or_alive gundam world_witches_series frame_arms_girl megami_device strike_witches macross mobile_suit_gundam
 ?hiiragi_asuka_(twinbox) -> twinbox_school original dengeki_moeoh comiket_106 comiket_108
 ?medicine_melancholy -> touhou phantasmagoria_of_flower_view touhou_(pc-98) touhou_lostword embodiment_of_scarlet_devil perfect_cherry_blossom imperishable_night mountain_of_faith undefined_fantastic_object reitaisai
+?florida-chan_(ryusei_hashida) -> original arknights indie_virtual_youtuber real_life dc_comics phase_connect batman_(series) dungeons_&_dragons metal_gear_(series) akira_(manga)
