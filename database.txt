@@ -4449,3 +4449,4 @@
 ?taiga_torayami -> indie_virtual_youtuber
 ?otogi_(c108_swimsuit)_(blue_archive) -> blue_archive comiket_108
 ?seele_vollerei_(herrscher_of_rebirth) -> honkai_(series) honkai_impact_3rd honkai:_star_rail mihoyo original genshin_impact splatoon_(series) neptune_(series) rwby oshi_no_ko
+?marchen_rosemyne_(shiori_novella) -> hololive hololive_english shattered_legends
