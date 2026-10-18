@@ -5570,3 +5570,4 @@
 ?zipstep -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_double_shadow mahou_shoujo_ikusei_keikaku_restart mahou_shoujo_ikusei_keikaku_breakdown
 ?mago_(trickcal) -> trickcal
 ?teruzuki_(kancolle) -> kantai_collection pokemon line_(naver) lawson aoki_hagane_no_arpeggio pokemon_sword_and_shield pokemon_go starbucks original kemono_friends
+?nekoma_karin -> kemomimi_refle! indie_virtual_youtuber aogiri_high_school tenga
