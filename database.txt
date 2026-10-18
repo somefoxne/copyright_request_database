@@ -4446,3 +4446,4 @@
 ?tsugihagi_(chainsaw_man) -> chainsaw_man genshin_impact umamusume final_fantasy mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) final_fantasy_vii naruto_(series) jujutsu_kaisen bleach
 ?cq_tenshi_hamuel -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_aces mahou_shoujo_ikusei_keikaku_queens
 ?shenhe_(genshin_impact) -> genshin_impact mihoyo honkai_(series) honkai:_star_rail honkai_impact_3rd zenless_zone_zero original fate_(series) fate/grand_order azur_lane
+?taiga_torayami -> indie_virtual_youtuber
