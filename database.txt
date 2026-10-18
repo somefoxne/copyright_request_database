@@ -6057,3 +6057,4 @@
 ?divine_beast_of_harvest_mayreel -> guardian_tales jikkyou_powerful_pro_yakyuu
 ?yura_(kagurabachi) -> kagurabachi jujutsu_kaisen aizo_(king_gnu)
 ?patricia_martin -> lucky_star suzumiya_haruhi_no_yuuutsu vocaloid k-on! touhou neon_genesis_evangelion idolmaster lyrical_nanoha spice_and_wolf kannagi
+?shioriha_ruri_(1st_costume) -> nijisanji niginigi_nijitown minecraft monitoring_(vocaloid) blue_archive nijisanji_en jikkyou_powerful_pro_yakyuu comiket_107 comiket_108 nijisanji_kr
