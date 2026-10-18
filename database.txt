@@ -5826,3 +5826,4 @@
 ?yamaguchi_tadashi -> haikyuu!! love_live! love_live!_school_idol_project real_life hunter_x_hunter call_of_cthulhu bokura_wa_ima_no_naka_de future_card_buddyfight
 ?hatsutori_hajime -> saibou_shinkyoku project_moon sanrio mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) lobotomy_corporation my_melody_(series) pokemon danganronpa_(series) limbus_company
 ?utsugi_noriyuki -> saibou_shinkyoku project_moon sanrio mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) my_melody_(series) limbus_company lobotomy_corporation rin-chan_now!_(vocaloid) pokemon
+?chucky_(child's_play) -> friday_the_13th a_nightmare_on_elm_street kotobukiya_bishoujo it_(stephen_king) halloween_(movie) scream_(movie) saw_(movie) bishoujo_terror the_ring
