@@ -4585,3 +4585,4 @@
 ?laura_matsuda -> street_fighter street_fighter_v street_fighter_iii_(series) street_fighter_zero_(series) street_fighter_iv_(series) final_fight capcom street_fighter_ii_(series) justice_gakuen overwatch
 ?misty_(super_doll_licca-chan) -> super_doll_licca-chan licca-chan_(franchise)
 ?jelly_hoshiumi -> phase_connect original pokemon indie_virtual_youtuber neon_genesis_evangelion mahjong_soul chiikawa vershion honkai_(series) honkai:_star_rail
+?nekomi_mashiro -> indie_virtual_youtuber etra-chan_wa_mita!
