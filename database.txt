@@ -5445,3 +5445,4 @@
 ?reigen_arataka -> mob_psycho_100 utdr_(toby_fox) undertale one-punch_man chainsaw_man jujutsu_kaisen gintama dandadan boku_no_hero_academia spy_x_family
 ?veilvet_whitmore -> izigenia
 ?ekubo_(mob_psycho_100) -> mob_psycho_100 dandadan one-punch_man gintama jujutsu_kaisen chainsaw_man one_piece pokemon spy_x_family original
+?lilith_(fate) -> fate_(series) fate/grand_order original learning_with_manga!_fgo chainsaw_man blue_archive fate/strange_fake comiket_107 idolmaster final_fantasy
