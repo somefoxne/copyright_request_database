@@ -4942,3 +4942,4 @@
 ?ryougi_shiki -> kara_no_kyoukai fate_(series) fate/grand_order tsukihime fate/stay_night type-moon mahou_tsukai_no_yoru melty_blood tsukihime_(remake) fate/hollow_ataraxia
 ?ryougi_shiki_(swimsuit_mooncancer)_(first_ascension) -> fate_(series) fate/grand_order kara_no_kyoukai fate/hollow_ataraxia fate/stay_night original tsukihime type-moon
 ?kidian_(trickcal) -> trickcal minecraft team_fortress_2
+?zena_(project_moon) -> project_moon library_of_ruina lobotomy_corporation limbus_company arknights 4chan madness_combat arknights:_endfield blue_archive pokemon
