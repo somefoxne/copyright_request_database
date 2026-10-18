@@ -5410,3 +5410,4 @@
 ?jeanne_d'arc_alter_(avenger)_(fate) -> fate_(series) fate/grand_order fate/apocrypha fate/stay_night fate/extra fate/zero pixiv_fate/grand_order_contest_1 pixiv_fate/grand_order_contest_2 granblue_fantasy koha-ace
 ?miki_(asken) -> asken touhou pokemon bocchi_the_rock! pokemon_sleep pikmin_(series) tamagotchi wii_fit suntory pikmin_bloom
 ?toki_(abi-eshuh)_(blue_archive) -> blue_archive fate_(series) fate/grand_order gundam doraemon indie_virtual_youtuber project_moon neon_genesis_evangelion kamen_rider library_of_ruina
+?kaga_sumire_(6th_costume) -> vspo! game_game_over nijisanji
