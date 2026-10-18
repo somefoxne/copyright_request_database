@@ -5729,3 +5729,4 @@
 ?anila_(summer)_(granblue_fantasy) -> granblue_fantasy
 ?kumbhira_(granblue_fantasy) -> granblue_fantasy shingeki_no_bahamut fate_(series) fate/grand_order cygames tenga monogatari_(series) neptune_(series) darkstalkers kanon
 ?kumbhira_(summer)_(granblue_fantasy) -> granblue_fantasy
+?koseki_bijou_(beaming_sandcastle) -> hololive hololive_english hololive_dreams
