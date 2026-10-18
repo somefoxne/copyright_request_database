@@ -6037,3 +6037,4 @@
 ?vanken_(kamen_rider_my-th) -> kamen_rider kamen_rider_my-th_(series)
 ?nakamori_akina -> real_life umamusume original ranma_1/2 macross sanrio hello_kitty choujikuu_yousai_macross
 ?sandrone_(genshin_cafe_in_paris)_(genshin_impact) -> genshin_impact
+?ookami_mio_(8th_costume) -> hololive hololive_official_card_game monster_hunter_(series) hololive_grand_theft_auto katamari_damacy dorfromantik
