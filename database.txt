@@ -5847,3 +5847,4 @@
 ?nonna_(tefuda_ga_oome_no_victoria) -> tefuda_ga_oome_no_victoria
 ?suzuhara_lulu_(1st_costume) -> nijisanji bloodborne hololive indie_virtual_youtuber mario_(series) makaimura hololive_english pokemon the_legend_of_zelda kirby_(series)
 ?teireida_mai -> touhou hidden_star_in_four_seasons touhou_(pc-98) touhou_lostword taboo_japan_disentanglement perfect_cherry_blossom embodiment_of_scarlet_devil legacy_of_lunatic_kingdom ten_desires double_dealing_character
+?satsuki_kai_ni_(kancolle) -> kantai_collection gundam comiket_100 original fate_(series) fate/grand_order fullmetal_alchemist star_wars gekkou_kamen_(series) street_fighter
