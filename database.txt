@@ -4504,3 +4504,4 @@
 ?nerine -> shuffle! lyrical_nanoha suzumiya_haruhi_no_yuuutsu fate_(series) fate/stay_night mahou_shoujo_lyrical_nanoha to_heart_(series) megami_magazine shakugan_no_shana rozen_maiden
 ?akigumo_(starward) -> starward
 ?mabel_pines -> gravity_falls reverse_falls_(gravity_falls) transcendence_au_(gravity_falls) monster_falls_(gravity_falls) vocaloid sanrio disney book_of_bill pokemon jujutsu_kaisen
+?konan_(naruto) -> naruto_(series) naruto_shippuuden naruto_(classic) boruto_(series) boruto:_naruto_next_generations naruto_shippuuden:_ultimate_ninja_blazing neon_genesis_evangelion suzumiya_haruhi_no_yuuutsu bleach boruto:_two_blue_vortex
