@@ -4875,3 +4875,4 @@
 ?raiden_mei_(danzai_spectramancer) -> honkai_(series) honkai_impact_3rd honkai:_star_rail genshin_impact mihoyo zenless_zone_zero original blue_archive
 ?raiden_mei_(orochi_cuirass) -> honkai_(series) honkai_impact_3rd honkai:_star_rail genshin_impact mihoyo zenless_zone_zero original promare d.e.b.s.
 ?madri_parnepoli -> sex_open_world_e_youkoso!
+?super_sonico -> nitroplus vocaloid soniani itazuraguma_no_gloomy mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) kantai_collection original touhou fate_(series)
