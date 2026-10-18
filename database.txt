@@ -5099,3 +5099,4 @@
 ?kloe_rinz -> eiyuu_densetsu sora_no_kiseki sen_no_kiseki_(series) sora_no_kiseki_sc sen_no_kiseki_iv akatsuki_no_kiseki sora_no_kiseki_fc sen_no_kiseki_i ao_no_kiseki tales_of_(series)
 ?sieg_(eiyuu_densetsu) -> eiyuu_densetsu sora_no_kiseki sora_no_kiseki_sc sora_no_kiseki_fc sen_no_kiseki_(series) akatsuki_no_kiseki ys sen_no_kiseki_iv ys_x:_nordics falcom
 ?akamatsu_kaede -> danganronpa_(series) danganronpa_v3:_killing_harmony danganronpa_2:_goodbye_despair danganronpa:_trigger_happy_havoc danganronpa_another_episode:_ultra_despair_girls danganronpa_s:_ultimate_summer_camp danganronpa/zero
+?saihara_shuichi -> danganronpa_(series) danganronpa_v3:_killing_harmony danganronpa:_trigger_happy_havoc danganronpa_2:_goodbye_despair danganronpa_another_episode:_ultra_despair_girls pokemon danganronpa_s:_ultimate_summer_camp sanrio my_melody_(series)
