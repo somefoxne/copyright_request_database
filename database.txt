@@ -5822,3 +5822,4 @@
 ?lillipup -> pokemon pokemon_black_and_white pokemon_black_2_and_white_2 pokemon_(anime) pokemon_sun_and_moon pokemon_x_and_y pokemon_the_series:_sun_&_moon pokemon_diamond/pearl/platinum pokemon_heartgold_and_soulsilver pokemon_ruby/sapphire/emerald
 ?karasu_tengu_(onmyoji) -> onmyoji onmyoji:_the_card_game kantai_collection
 ?female_seth_(street_fighter) -> street_fighter street_fighter_v street_fighter_iv_(series) street_fighter_6 street_fighter_iii_(series) justice_gakuen street_fighter_zero_(series) capcom street_fighter_ii_(series) doraemon
+?takanashi_rikka -> chuunibyou_demo_koi_ga_shitai! kyoto_animation k-on! tamako_market touhou mahou_shoujo_madoka_magica hyouka kyoukai_no_kanata mahou_shoujo_madoka_magica_(anime) newtype
