@@ -4576,3 +4576,4 @@
 ?princess_of_tsurugi -> yu-gi-oh!
 ?luna_(phantasy_star_iii) -> phantasy_star phantasy_star_iii
 ?abrams_(deadlock) -> deadlock_(game) vocaloid league_of_legends marvel guilty_gear bishoujo_senshi_sailor_moon guilty_gear_strive one-punch_man sanrio marvel_rivals
+?lash_(deadlock) -> deadlock_(game) utau
