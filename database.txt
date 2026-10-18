@@ -4864,3 +4864,4 @@
 ?richter_belmont -> castlevania_(series) castlevania:_rondo_of_blood super_smash_bros. fire_emblem mario_(series) pokemon castlevania:_symphony_of_the_night the_legend_of_zelda kirby_(series) street_fighter
 ?simon_belmont -> castlevania_(series) super_smash_bros. castlevania:_rondo_of_blood mario_(series) pokemon fire_emblem metroid the_legend_of_zelda kirby_(series) donkey_kong_(series)
 ?quiet_(metal_gear) -> metal_gear_(series) metal_gear_solid_v:_the_phantom_pain metal_gear_solid metal_gear_solid_3:_snake_eater kantai_collection original overwatch yandere_simulator fire_emblem
+?arashi_daisuke -> inazuma_eleven_(series) ultra_series ultraman_(1st_series) inazuma_eleven_victory_road
