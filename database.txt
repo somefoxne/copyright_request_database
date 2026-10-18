@@ -5271,3 +5271,4 @@
 ?25-ji_kaito -> vocaloid project_sekai samsa_(vocaloid) zozotown bake_no_hana_(vocaloid) pokemon netsu_ijou_(utau) panty_&_stocking_with_garterbelt microsoft_windows evillious_nendaiki
 ?sword_maiden -> goblin_slayer! nier_(series) nier:automata brown_dust_(series) brown_dust_2 fire_emblem goblin_slayer_gaiden_2_tsubanari_no_tachi_(daikatana) blind_men_and_an_elephant fire_emblem:_three_houses xenoblade_chronicles_(series)
 ?delibird -> pokemon pokemon_masters_ex pokemon_sun_and_moon pokemon_scarlet_and_violet pokemon_gold/silver/crystal pokemon_heartgold_and_soulsilver pokemon_(anime) pokemon_sword_and_shield pokemon_tcg pokemon_black_and_white
+?lidia_sobieska -> tekken tekken_7 tekken_8 original street_fighter street_fighter_iii_(series) the_witcher_(series) bandai_namco
