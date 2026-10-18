@@ -5419,3 +5419,4 @@
 ?cheery_pink -> aigan_tenshi_cheery_pink original the_king_of_fighters fatal_fury
 ?qifrey_(tongari_boushi_no_atelier) -> tongari_boushi_no_atelier jujutsu_kaisen tongari_boushi_no_kitchen honkai_(series) honkai:_star_rail sousou_no_frieren genshin_impact trigun trigun_stampede pokemon
 ?olivert_reise_arnor -> eiyuu_densetsu sora_no_kiseki sen_no_kiseki_(series) sen_no_kiseki_i sora_no_kiseki_sc sen_no_kiseki_iv sora_no_kiseki_fc ao_no_kiseki sen_no_kiseki_iii zero_no_kiseki
+?matoba_risa -> idolmaster idolmaster_cinderella_girls idolmaster_cinderella_girls_u149 idolmaster_cinderella_girls_starlight_stage cinderella_girls_gekijou idolmaster_million_live! umamusume love_live! urusei_yatsura idolmaster_shiny_colors
