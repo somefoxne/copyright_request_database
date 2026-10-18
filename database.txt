@@ -5352,3 +5352,4 @@
 ?yamagami_karuta_(1st_costume) -> nijisanji nijisanji_en nijisanji_kr nijisanji_id blue_archive pokemon hololive yu-gi-oh! sousou_no_frieren voiceroid
 ?saya_(love_live!) -> love_live! love_live!_superstar!! love_live!_school_idol_project love_live!_hasu_no_sora_jogakuin_school_idol_club love_live!_school_idol_festival love_live!_school_idol_festival_2 wish_song_(love_live!) love_live!_sunshine!! love_live!_nijigasaki_high_school_idol_club game_&_watch
 ?louhi_(fate) -> fate_(series) fate/grand_order shikanoko_nokonoko_koshitantan pokemon blue_archive vocaloid pokemon_scarlet_and_violet kimi_no_koto_ga_dai_dai_dai_dai_daisuki_na_100-nin_no_kanojo learning_with_manga!_fgo fate/requiem
+?ann_magnolia -> violet_evergarden_(series) woman_with_a_parasol
