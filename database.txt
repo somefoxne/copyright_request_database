@@ -4720,3 +4720,4 @@
 ?ultraman_fuma -> ultra_series ultraman_taiga_(series) ultraman_r/b ultraman_z_(series) ultraman_ginga_(series) ultraman_ginga_s ultra_galaxy_(series) ultraman_geed_(series) ultraman_orb_(series) ultraman_x_(series)
 ?indomitable_(azur_lane) -> azur_lane azur_lane:_slow_ahead goddess_of_victory:_nikke comiket_100 tower_records yostar
 ?indomitable_(the_laid-back_navigator)_(azur_lane) -> azur_lane goddess_of_victory:_nikke
+?seaf_soldier_(helldivers) -> helldivers_(series) original chainsaw_man halo_(series) helltaker warhammer_40k one-punch_man hollow_knight among_us halo:_reach
