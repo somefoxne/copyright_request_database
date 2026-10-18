@@ -4617,3 +4617,4 @@
 ?donna_bright -> original sony street_fighter mario_(series) mega_man_(series) urusei_yatsura mega_man_legends_(series) pokemon kirby_(series) macross
 ?lana's_mother_(pokemon) -> pokemon pokemon_(anime) pokemon_the_series:_sun_&_moon pokemon_sun_and_moon pokemon_sword_and_shield pokemon_(classic_anime) pokemon_diamond/pearl/platinum uzaki-chan_wa_asobitai! girls_und_panzer pokemon_scarlet_and_violet
 ?lust_(fma) -> fullmetal_alchemist fullmetal_alchemist_(2003) naruto_(series) soul_eater fullmetal_alchemist_the_movie:_conqueror_of_shamballa jojo_no_kimyou_na_bouken chainsaw_man boku_no_hero_academia marvel tengen_toppa_gurren_lagann
+?maia_(lost_ark_video_games) -> lost_ark_video_games gundam bishoujo_senshi_sailor_moon mobile_suit_gundam
