@@ -5019,3 +5019,4 @@
 ?ui_(voisona) -> voisona o_henji_madakana_ojisan_koubun_(voisona) indie_virtual_youtuber vocaloid hayaku_nigenakya_(vocaloid) utau synthesizer_v mokugeki!_teto_31_sei_(synthesizer_v) google_gemini akumabarai_(voisona)
 ?shinano_(azur_lane) -> azur_lane azur_lane:_slow_ahead blue_archive arknights kantai_collection dolphin_wave original genshin_impact world_of_warships umamusume
 ?shinano_(vow_of_blossoms_and_dreams)_(azur_lane) -> azur_lane
+?penelope_(mythology) -> greek_mythology epic:_the_musical the_odyssey_(2026_movie) hololive hololive_english project_moon limbus_company spy_x_family zootopia
