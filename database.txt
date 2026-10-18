@@ -5292,3 +5292,4 @@
 ?froggit -> utdr_(toby_fox) undertale original deltarune muppets touhou pokemon boku_no_hero_academia cookie_(touhou) keroro_gunsou
 ?gerson_boom -> utdr_(toby_fox) deltarune undertale original chainsaw_man jujutsu_kaisen shingeki_no_kyojin touhou one_piece mario_(series)
 ?grillby -> utdr_(toby_fox) undertale deltarune mario_(series) animal_crossing my_little_pony my_little_pony:_friendship_is_magic adventure_time steven_universe
+?mad_mew_mew -> utdr_(toby_fox) deltarune undertale cutie_mew_mew_magic_(deltarune) vocaloid omori touhou honkai_(series) honkai:_star_rail mahou_shoujo_madoka_magica
