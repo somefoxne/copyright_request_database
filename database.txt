@@ -4722,3 +4722,4 @@
 ?indomitable_(the_laid-back_navigator)_(azur_lane) -> azur_lane goddess_of_victory:_nikke
 ?seaf_soldier_(helldivers) -> helldivers_(series) original chainsaw_man halo_(series) helltaker warhammer_40k one-punch_man hollow_knight among_us halo:_reach
 ?fecto_elfilis -> kirby_(series) kirby_and_the_forgotten_land kirby_star_allies kirby:_planet_robobot kirby:_triple_deluxe star-crossed_world kirby:_canvas_curse kirby_64
+?ganyu_(genshin_impact) -> genshin_impact honkai_(series) honkai:_star_rail mihoyo original comiket_101 blue_archive fate_(series) fate/grand_order princess_connect!
