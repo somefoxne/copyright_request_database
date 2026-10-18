@@ -4814,3 +4814,4 @@
 ?fluttershy_(equestria_girls) -> my_little_pony my_little_pony:_friendship_is_magic my_little_pony:_equestria_girls equestria_girls:_better_together equestria_girls:_rainbow_rocks pokemon amagami needy_girl_overdose osomatsu_(series) osomatsu-san
 ?pinkie_pie -> my_little_pony my_little_pony:_friendship_is_magic my_little_pony:_equestria_girls sonic_(series) pokemon original kirby_(series) mario_(series) marvel sanrio
 ?pinkie_pie_(equestria_girls) -> my_little_pony my_little_pony:_friendship_is_magic my_little_pony:_equestria_girls equestria_girls:_better_together equestria_girls:_summertime_shorts equestria_girls:_forgotten_friendship equestria_girls:_rainbow_rocks equestria_girls:_friendship_games amagami osomatsu_(series)
+?illustrious_(azur_lane) -> azur_lane fate_(series) fate/grand_order warship_girls_r original kantai_collection genshin_impact comiket_108 touhou
