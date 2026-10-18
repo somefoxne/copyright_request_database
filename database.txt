@@ -5728,3 +5728,4 @@
 ?anila_(granblue_fantasy) -> granblue_fantasy shingeki_no_bahamut granblue_fantasy_versus:_rising granblue_fantasy_versus fate_(series) fate/grand_order original kantai_collection hololive cygames
 ?anila_(summer)_(granblue_fantasy) -> granblue_fantasy
 ?kumbhira_(granblue_fantasy) -> granblue_fantasy shingeki_no_bahamut fate_(series) fate/grand_order cygames tenga monogatari_(series) neptune_(series) darkstalkers kanon
+?kumbhira_(summer)_(granblue_fantasy) -> granblue_fantasy
