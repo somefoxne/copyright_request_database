@@ -5332,3 +5332,4 @@
 ?crystalfly_(genshin_impact) -> genshin_impact original chiikawa lofi_girl_(youtube) blue_archive pokemon hololive arknights vocaloid hololive_english
 ?riyala_bey_(angelic_idol_in_training)_(azur_lane) -> azur_lane
 ?sunna_(afternoon_tea_break)_(zenless_zone_zero) -> zenless_zone_zero genshin_impact mihoyo hololive hololive_english sanrio fuwa_fuwa_cinnamoroll kpop_demon_hunters original blue_archive
+?viper_(valorant) -> valorant original apex_legends hololive hololive_english indie_virtual_youtuber vspo! pokemon genshin_impact nijisanji
