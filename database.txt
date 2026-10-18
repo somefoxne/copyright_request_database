@@ -4404,3 +4404,4 @@
 ?magi_(osawari_tantei) -> osawari_tantei osawari_tantei_1
 ?manami_(osawari_tantei) -> osawari_tantei touhou osawari_tantei_2_1/2 osawari_tantei_1
 ?mira_(osawari_tantei) -> osawari_tantei osawari_tantei_1
+?nameko_(osawari_tantei) -> osawari_tantei touhou mario_(series) umamusume idolmaster idolmaster_cinderella_girls kantai_collection original pokemon bang_dream!
