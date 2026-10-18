@@ -4336,3 +4336,4 @@
 ?itoshiki_nozomu -> sayonara_zetsubou_sensei shaft_(company) suzumiya_haruhi_no_yuuutsu monogatari_(series) bakemonogatari hidamari_sketch mahou_shoujo_madoka_magica pani_poni_dash! touhou code_geass
 ?itoshiki_rin -> sayonara_zetsubou_sensei code_geass idolmaster vocaloid gundam idolmaster_(classic) suzumiya_haruhi_no_yuuutsu macross macross_frontier minami-ke
 ?kaga_ai -> sayonara_zetsubou_sensei kantai_collection idolmaster vocaloid precure idolmaster_(classic) neon_genesis_evangelion k-on! lyrical_nanoha suzumiya_haruhi_no_yuuutsu
+?kimura_kaere -> sayonara_zetsubou_sensei idolmaster idolmaster_(classic) suzumiya_haruhi_no_yuuutsu vocaloid k-on! monogatari_(series) code_geass higurashi_no_naku_koro_ni macross
