@@ -4542,3 +4542,4 @@
 ?koseki_bijou_(school_uniform) -> hololive hololive_english hololive_indonesia
 ?bastelina_(stella_sora) -> stella_sora breakout
 ?enma_yuuken -> twisted_wonderland mickey_mouse_&_friends the_nightmare_before_christmas
+?elizabeth_rose_bloodflame_(new_year) -> hololive hololive_english hololive_indonesia hololive_dev_is
