@@ -5455,3 +5455,4 @@
 ?nagato_kai_ni_(kancolle) -> kantai_collection comiket_95 azur_lane line_(naver) original ultra_series ultraseven_(series) lupin_iii ultraman_z_(series) gundam
 ?yamato_kai_ni_(kancolle) -> kantai_collection comiket_101 devil_may_cry_(series) kantai_collection_(anime) comiket_100 the_birth_of_venus megami_magazine coca-cola comiket_102 uchuu_senkan_yamato
 ?onionsan -> utdr_(toby_fox) undertale deltarune original mob_psycho_100 spongebob_squarepants_(series) glitchtale roki_(vocaloid) the_big_bang_theory young_sheldon
+?sakurako_(idol)_(blue_archive) -> blue_archive blue_archive_the_animation comiket_105 guilty_crown oshi_no_ko spongebob_squarepants_(series) never_gonna_give_you_up original fate_(series) idolmaster
