@@ -5646,3 +5646,4 @@
 ?nanally_(sunny_surf)_(nte) -> neverness_to_everness
 ?secretariat_(racehorse) -> original umamusume
 ?sham_(racehorse) -> original umamusume
+?sagiri_(swimsuit)_(kancolle) -> kantai_collection original umamusume azur_lane comiket_101 idolmaster idolmaster_shiny_colors bocchi_the_rock! dragon_ball mega_man_(series)
