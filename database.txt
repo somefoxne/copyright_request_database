@@ -5046,3 +5046,4 @@
 ?castor_(fire_emblem:_fortune's_weave) -> fire_emblem
 ?peter_(fire_emblem) -> fire_emblem fire_emblem:_the_binding_blade mother_(series) mother_1
 ?tialla_august -> fire_emblem fire_emblem_awakening fire_emblem_heroes mother_(series) mother_1
+?kairi_(kingdom_hearts) -> kingdom_hearts kingdom_hearts_ii kingdom_hearts_iii kingdom_hearts_i mickey_mouse_&_friends kingdom_hearts_358/2_days kingdom_hearts_birth_by_sleep final_fantasy final_fantasy_vii kingdom_hearts:_chain_of_memories
