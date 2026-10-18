@@ -4428,3 +4428,4 @@
 ?inaba_meguru -> sanoba_witch yuzusoft senren_banka tenshi_souzou_re-boot! riddle_joker cafe_stella_to_shinigami_no_chou dracu-riot! amairo_islenauts pokemon comiket_93
 ?isolated_island_oni -> kantai_collection kamen_rider fate_(series) fate/grand_order dc_comics batman_(series) hellsing joker_(2019) idolmaster idolmaster_cinderella_girls
 ?seaport_princess -> kantai_collection moomin neon_genesis_evangelion original touhou lawson fate_(series) kantai_collection_(anime) non_non_biyori
+?selimiye_(seer_in_a_bind)_(azur_lane) -> azur_lane
