@@ -5091,3 +5091,4 @@
 ?elf_(dragon's_crown) -> the_legend_of_zelda vanillaware odin_sphere hyrule_warriors dungeons_&_dragons the_elder_scrolls the_elder_scrolls_iv:_oblivion dungeons_&_dragons:_chronicles_of_mystara princess_connect!
 ?arx-10d_azur_raven -> full_metal_panic! full_metal_panic!_family kadokawa
 ?as-1_blaze_raven -> full_metal_panic! full_metal_panic!_another full_metal_panic!_family kadokawa
+?inari_(summer_pockets) -> summer_pockets key_(company) clannad little_busters! angel_beats! kanon rewrite dango_daikazoku air_(visual_novel) planetarian
