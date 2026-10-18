@@ -4551,3 +4551,4 @@
 ?laia_i_(phantasy_star) -> phantasy_star phantasy_star_iii
 ?miun_(phantasy_star) -> phantasy_star phantasy_star_iii
 ?orakio_(phantasy_star) -> phantasy_star phantasy_star_iii
+?siren_(phantasy_star) -> phantasy_star phantasy_star_iii
