@@ -6280,3 +6280,4 @@
 ?cunoesse_vittulainen -> disco_elysium street_fighter street_fighter_ii_(series) club_penguin
 ?harry_du_bois -> disco_elysium invincible_(series) true_detective pokemon vocaloid project_moon limbus_company knights_of_guinevere pieta ivan_the_terrible_and_his_son_ivan
 ?kim_kitsuragi -> disco_elysium true_detective sonic_(series) pokemon indie_virtual_youtuber bang_dream! project_moon neon_genesis_evangelion mario_(series) marvel
+?fio_germi -> metal_slug snk metal_slug_3 the_king_of_fighters metal_slug_tactics fatal_fury samurai_spirits metal_slug_attack garou:_mark_of_the_wolves ryuuko_no_ken
