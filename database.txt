@@ -4656,3 +4656,4 @@
 ?rapunzel_(disney) -> tangled disney the_little_mermaid_(disney) aladdin_(movie) beauty_and_the_beast_(disney) sleeping_beauty_(disney) disney_princess frozen_(disney) cinderella_(disney_movie)
 ?isurugi_futaba -> shoujo_kageki_revue_starlight shoujo_kageki_revue_starlight_-re_live- love_live! bushiroad umamusume bang_dream! real_life bang_dream!_girls_band_party! d4dj assault_lily
 ?yukari_(swimsuit)_(blue_archive) -> blue_archive comiket_106 pokemon umamusume twitter
+?sakura_(fire_emblem) -> fire_emblem fire_emblem_fates fire_emblem_heroes fire_emblem_awakening fire_emblem:_three_houses fire_emblem:_the_blazing_blade fire_emblem:_path_of_radiance fire_emblem_cipher fire_emblem:_mystery_of_the_emblem fire_emblem:_the_sacred_stones
