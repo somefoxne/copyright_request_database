@@ -5810,3 +5810,4 @@
 ?sonetto_(reverse:1999) -> reverse:1999 ipstar umamusume original project_moon limbus_company wizarding_world harry_potter_(series)
 ?pet_shop -> jojo_no_kimyou_na_bouken stardust_crusaders vento_aureo battle_tendency phantom_blood stone_ocean diamond_wa_kudakenai steel_ball_run jojo_no_kimyou_na_bouken:_eyes_of_heaven touhou
 ?mamiya_yumehisa -> sekai_metsubou_kyouyuu_gensou_mamiya yuri_kuma_arashi z.a.t.o._//_i_love_the_world_and_everything_in_it
+?celestia_(stellar_tide)_(strinova) -> strinova
