@@ -5395,3 +5395,4 @@
 ?kasukabe_tsumugi -> voicevox voiceroid vocaloid utau cevio indie_virtual_youtuber synthesizer_v a.i._voice coefont onikko_hunter_tsuina-chan
 ?gaismagorm -> monster_hunter_(series) monster_hunter_rise capcom
 ?drifloon -> pokemon pokemon_diamond/pearl/platinum pokemon_sun_and_moon pokemon_platinum pokemon_pokopia pokemon_heartgold_and_soulsilver pokemon_(anime) pokemon_black_and_white pokemon_x_and_y pokemon_sword_and_shield
+?toedscool -> pokemon pokemon_scarlet_and_violet pokemon_tcg pokemon_(anime) original pokemon_horizons pokemon_world_championships pokemon_sun_and_moon pokemon_world_championships_2025 pokemon_sword_and_shield
