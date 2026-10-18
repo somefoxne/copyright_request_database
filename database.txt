@@ -4711,3 +4711,4 @@
 ?abigail_fahrenheit -> original gundam zeta_gundam gundam_0080 big_iron gunfighter_ballads_and_trail_songs
 ?karinka_katyusha_(erkaz) -> original gundam kimetsu_no_yaiba zeta_gundam gundam_0080 kill_bill
 ?yukihana_(erkaz) -> original gundam zeta_gundam gundam_0080
+?golden_hind_(azur_lane) -> azur_lane azur_lane:_slow_ahead goddess_of_victory:_nikke the_ring comiket_105 the_shining
