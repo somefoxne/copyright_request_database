@@ -5116,3 +5116,4 @@
 ?darjeeling_(girls_und_panzer) -> girls_und_panzer girls_und_panzer_senshadou_daisakusen! gekitotsu!_joshikousei_oiroke_sensha_gundan girls_und_panzer_motto_love_love_sakusen_desu! kantai_collection girls_und_panzer_saishuushou fate_(series) gundam world_witches_series coca-cola
 ?toki_(toxxy) -> original venture_seas
 ?deirdre_(fated_saint)_(fire_emblem) -> fire_emblem fire_emblem_heroes fire_emblem:_genealogy_of_the_holy_war fire_emblem_fates fire_emblem:_thracia_776
+?deirdre_(fire_emblem) -> fire_emblem fire_emblem:_genealogy_of_the_holy_war fire_emblem_heroes fire_emblem:_the_sacred_stones fire_emblem:_the_blazing_blade fire_emblem_fates fire_emblem:_path_of_radiance fire_emblem:_mystery_of_the_emblem fire_emblem_awakening fire_emblem:_the_binding_blade
