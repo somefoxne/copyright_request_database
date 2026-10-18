@@ -5186,3 +5186,4 @@
 ?the_queen_(off) -> off_(game) yume_nikki ib_(kouri) kaii_shoukougun kirisame_ga_furu_mori haiki_gas_circle satsuriku_no_tenshi chloe_no_requiem shirohako_no_mahoutsukai lilereho
 ?tropius -> pokemon pokemon_ruby/sapphire/emerald pokemon_omega_ruby_and_alpha_sapphire pokemon_adventures pokemon_emerald pokemon_scarlet_and_violet pokemon_diamond/pearl/platinum pokemon_firered_and_leafgreen pokemon_sun_and_moon pokemon_(anime)
 ?meisho_tabaru_(racehorse) -> umamusume real_life original bishoujo_senshi_sailor_moon gintama sakura_taisen sakura_taisen_iii japan_racing_association the_royal_family_(tv_series)
+?ichinose_uruha_(8th_costume) -> vspo! pokemon crazy_raccoon jigoku_sensei_nube honogurashi_no_niwa riddle_order
