@@ -5834,3 +5834,4 @@
 ?sentinel_(reverse:1999) -> reverse:1999 pokemon arknights world_cup 2026_fifa_world_cup how_to_train_your_dragon_(series) kurenai_no_buta the_creation_of_adam madra_(album)
 ?dark_reica -> soukou_senki_prism_reica
 ?squall_leonhart -> final_fantasy final_fantasy_viii final_fantasy_vii dissidia_final_fantasy final_fantasy_ix final_fantasy_v final_fantasy_x kingdom_hearts final_fantasy_i final_fantasy_vi
+?chougei_(halloween)_(kancolle) -> kantai_collection little_red_riding_hood_(fairy_tale)
