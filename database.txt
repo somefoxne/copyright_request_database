@@ -4757,3 +4757,4 @@
 ?cornerstone_(reverse:1999) -> reverse:1999 original
 ?grundriss_(reverse:1999) -> reverse:1999
 ?adahime_(shadowverse) -> shadowverse shadowverse:_worlds_beyond
+?tobias_(fire_emblem) -> fire_emblem
