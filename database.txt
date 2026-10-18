@@ -6041,3 +6041,4 @@
 ?gerbera_tetra -> gundam gundam_0083 original kantai_collection gundam_build_fighters sd_gundam zeta_gundam gundam_0080 gundam_gihren_no_yabou bandai
 ?gerbera_tetra_kai -> gundam gundam_gihren_no_yabou gundam_battle_operation_2 gundam_0083 sunrise_(company)
 ?suzumiya_haruhi -> suzumiya_haruhi_no_yuuutsu suzumiya_haruhi_no_shoushitsu lucky_star k-on! vocaloid higurashi_no_naku_koro_ni touhou fate_(series) lyrical_nanoha idolmaster
+?hinata_nao_(iwamotochou_geinousha) -> iwamotochou_geinousha enogu marinasu kemono_friends kemono_friends_v_project .live gems_company palette_project hololive nanashi_inc.
