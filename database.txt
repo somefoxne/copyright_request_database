@@ -5900,3 +5900,4 @@
 ?yaoyorozu_momo -> boku_no_hero_academia boku_no_hero_academia:_more umamusume pokemon k-on! kaguya-sama_wa_kokurasetai_~tensai-tachi_no_renai_zunousen~ sword_art_online original street_fighter dc_comics
 ?eikthyrnir_(fire_emblem) -> fire_emblem fire_emblem_heroes fire_emblem:_the_sacred_stones fire_emblem:_three_houses fire_emblem_engage fire_emblem:_path_of_radiance fire_emblem_fates jujutsu_kaisen fire_emblem_awakening fire_emblem:_radiant_dawn
 ?frosch -> fairy_tail
+?minerva_orlando -> fairy_tail divine_gate whentai
