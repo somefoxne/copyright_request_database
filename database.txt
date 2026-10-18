@@ -5797,3 +5797,4 @@
 ?bennington_(azur_lane) -> azur_lane zenless_zone_zero
 ?bennington_(sunshine_chaser)_(azur_lane) -> azur_lane zenless_zone_zero
 ?cinnamoroll -> sanrio fuwa_fuwa_cinnamoroll vocaloid my_melody_(series) original hello_kitty genshin_impact project_sekai kero_kero_keroppi pokemon
+?gwosti-chan_(gwosti) -> original sanrio
