@@ -4808,3 +4808,4 @@
 ?fuyutsuki_(kancolle) -> kantai_collection comiket_104 kantai_collection_(anime) lawson comiket_107 blue_archive super_sentai comiket_105 comiket_106 starbucks
 ?yuutenji_nyamu -> bang_dream! arknights bang_dream!_girls_band_party! real_life killkiss_(bang_dream!) bang_dream!_our_notes girls_band_cry ganso!_bang_dream_chan bocchi_the_rock!
 ?fushi_(cho_kaguya-hime!) -> cho_kaguya-hime! sweets_paradise ai_kotoba_iv_(vocaloid) kaisei_(vocaloid) gundam chainsaw_man dragon_ball utau suzumiya_haruhi_no_yuuutsu bleach
+?houjuu_chimi -> touhou fossilized_wonders touhou_lostword touhou_(pc-98) transformers 2channel livejupiter_(2channel) made_in_abyss azumanga_daioh embodiment_of_scarlet_devil
