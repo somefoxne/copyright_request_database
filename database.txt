@@ -5342,3 +5342,4 @@
 ?karin_(school_uniform)_(blue_archive) -> blue_archive blue_archive_the_animation kamen_rider comiket_106 kamen_rider_den-o_(series) kantai_collection genshin_impact goddess_of_victory:_nikke coca-cola
 ?azki_(1st_costume)_(hololive) -> hololive pokemon hololive_english mario_(series) hololive_dev_is holostars super_mario_bros._1 hololive_grand_theft_auto hololive_china geoguessr
 ?hush_(valorant) -> valorant
+?sherlock_holmes_(monster_strike) -> monster_strike sword_art_online sword_art_online:_alicization
