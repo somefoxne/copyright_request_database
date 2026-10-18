@@ -5719,3 +5719,4 @@
 ?hiiragi_asuka_(twinbox) -> twinbox_school original dengeki_moeoh comiket_106 comiket_108
 ?medicine_melancholy -> touhou phantasmagoria_of_flower_view touhou_(pc-98) touhou_lostword embodiment_of_scarlet_devil perfect_cherry_blossom imperishable_night mountain_of_faith undefined_fantastic_object reitaisai
 ?florida-chan_(ryusei_hashida) -> original arknights indie_virtual_youtuber real_life dc_comics phase_connect batman_(series) dungeons_&_dragons metal_gear_(series) akira_(manga)
+?chiyo_(ane_naru_mono) -> ane_naru_mono tsuujou_kougeki_ga_zentai_kougeki_de_ni-kai_kougeki_no_okaasan_wa_suki_desu_ka? indie_virtual_youtuber hololive hololive_indonesia original hololive_english
