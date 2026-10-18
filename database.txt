@@ -4638,3 +4638,4 @@
 ?female_sword_bearer_(kagurabachi) -> kagurabachi mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) jujutsu_kaisen hunter_x_hunter aizo_(king_gnu)
 ?amemiya_darumi -> the_hundred_line_-last_defense_academy- danganronpa_(series) danganronpa:_trigger_happy_havoc danganronpa_2:_goodbye_despair pokemon danganronpa_v3:_killing_harmony tower_records vocaloid precure futari_wa_precure
 ?eva_(hundred_line) -> the_hundred_line_-last_defense_academy- final_fantasy danganronpa_(series) final_fantasy_xiv danganronpa:_trigger_happy_havoc magnet_(vocaloid) yoka_ni_mitorete_(vocaloid)
+?magadori_kyoshika -> the_hundred_line_-last_defense_academy- danganronpa_(series) danganronpa_v3:_killing_harmony pokemon persona vocaloid jojo_no_kimyou_na_bouken utau lucky_star steel_ball_run
