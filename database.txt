@@ -4440,3 +4440,4 @@
 ?hoshino_yumemi -> planetarian key_(company) little_busters! angel_beats! kanon rewrite clannad air_(visual_novel) charlotte_(anime) dango_daikazoku
 ?tamanoi_nana_(1st_costume) -> nijisanji nijisanji_en nijisanji_kr vspo! animal_crossing minecraft nijisanji_id weather_planet ruridragon
 ?diana_cavendish -> little_witch_academia trigger_(company) kill_la_kill wizarding_world original harry_potter_(series) mahou_shoujo_madoka_magica pokemon mahou_shoujo_madoka_magica_(anime) rwby
+?kagari_atsuko -> little_witch_academia trigger_(company) kill_la_kill brand_new_animal majo_no_takkyuubin uchuu_patrol_luluco mahou_shoujo_madoka_magica kobayashi-san_chi_no_maidragon promare tengen_toppa_gurren_lagann
