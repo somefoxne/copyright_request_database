@@ -5589,3 +5589,4 @@
 ?ice-shroom_(plants_vs._zombies) -> plants_vs._zombies touhou plants_vs._zombies_2 one_piece zombie_land_saga
 ?kommy_(swimsuit)_(trickcal) -> trickcal pink_floyd dark_side_of_the_moon
 ?miya_atsumu -> haikyuu!! original spy_x_family wizarding_world coca-cola powerpuff_girls starbucks peanuts_(comic) tiktok bluesky
+?apollousa_bow_of_the_goddess -> yu-gi-oh! yu-gi-oh!_vrains yu-gi-oh!_master_duel sono_bisque_doll_wa_koi_wo_suru comiket_105
