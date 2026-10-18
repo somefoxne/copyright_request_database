@@ -4304,3 +4304,4 @@
 ?harley_quinn_(classic) -> dc_comics batman_(series) batman:_the_animated_series dc_animated_universe suicide_squad suicide_squad_(2016_movie) superman_(series) teen_titans suicide_squad_isekai the_new_batman_adventures
 ?flareon -> pokemon pokemon_scarlet_and_violet pokemon_diamond/pearl/platinum pokemon_red/green/blue/yellow pokemon_firered_and_leafgreen pokemon_(anime) original pokemon_heartgold_and_soulsilver pokemon_black_and_white pokemon_legends:_arceus
 ?glaceon -> pokemon pokemon_legends:_arceus pokemon_unite pokemon_diamond/pearl/platinum pokemon_(anime) original pokemon_cafe_remix pokemon_scarlet_and_violet pokemon_platinum cookie_(touhou)
+?jolteon -> pokemon pokemon_scarlet_and_violet pokemon_diamond/pearl/platinum pokemon_(anime) pokemon_firered_and_leafgreen pokemon_red/green/blue/yellow pokemon_go pokemon_black_and_white original pokemon_heartgold_and_soulsilver
