@@ -4949,3 +4949,4 @@
 ?shoebill_(kemono_friends) -> kemono_friends kemono_friends_3 keroro_gunsou kemono_friends_pavilion kantai_collection kemono_friends_kingdom girls_und_panzer kemono_friends_2 the_king_of_fighters original
 ?rhiannon_(reverse:1999) -> reverse:1999 pokemon
 ?japanese_crested_ibis_(kemono_friends) -> kemono_friends kemono_friends_3 kemono_friends_kingdom godzilla_(series) kemono_friends_2 shin_godzilla kantai_collection hokuto_no_ken touhou kemono_friends_pavilion
+?renka_(senran_kagura) -> senran_kagura senran_kagura_estival_versus senran_kagura_new_link senran_kagura_new_wave senran_kagura_peach_beach_splash kantai_collection kemono_friends comiket_106 senran_kagura_shinovi_versus
