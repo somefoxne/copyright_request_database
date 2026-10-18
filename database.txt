@@ -4526,3 +4526,4 @@
 ?kikuzuki_(kancolle) -> kantai_collection choo_choo_train original kamen_rider aoki_hagane_no_arpeggio kamen_rider_w gundam super_sentai kill_me_baby among_us
 ?mikazuki_(kancolle) -> kantai_collection gundam gundam_tekketsu_no_orphans touken_ranbu choo_choo_train bishoujo_senshi_sailor_moon kamen_rider original azur_lane aoki_hagane_no_arpeggio
 ?mochizuki_(kancolle) -> kantai_collection choo_choo_train bishoujo_senshi_sailor_moon idolmaster idolmaster_cinderella_girls aoki_hagane_no_arpeggio kamen_rider super_sentai idolmaster_(classic) idolmaster_million_live!
+?nagatsuki_(kancolle) -> kantai_collection kamen_rider choo_choo_train bishoujo_senshi_sailor_moon touhou aoki_hagane_no_arpeggio super_sentai kamen_rider_w original vocaloid
