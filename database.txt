@@ -4923,3 +4923,4 @@
 ?souma_ria -> kin-iro_loveriche senren_banka rewrite 9-nine- comiket_105 comiket_102 dracu-riot! tenshinranman sakura_no_uta hamidashi_creative
 ?azelf -> pokemon pokemon_diamond/pearl/platinum pokemon_platinum pokemon_legends:_arceus pokemon_(anime) pokemon_ruby/sapphire/emerald pokemon_red/green/blue/yellow pokemon_black_and_white pokemon_gold/silver/crystal pokemon_mystery_dungeon
 ?dialga -> pokemon pokemon_diamond/pearl/platinum pokemon_legends:_arceus pokemon_(anime) pokemon_platinum pokemon_black_and_white pokemon_tcg pokemon_ruby/sapphire/emerald pokemon_mystery_dungeon pokemon_mystery_dungeon:_explorers_of_time/darkness/sky
+?empoleon -> pokemon pokemon_diamond/pearl/platinum pokemon_platinum pokemon_ruby/sapphire/emerald pokemon_(anime) pokemon_heartgold_and_soulsilver pokemon_black_and_white pokemon_red/green/blue/yellow pokemon_gold/silver/crystal pokemon_brilliant_diamond_and_shining_pearl
