@@ -5758,3 +5758,4 @@
 ?tsumabuki -> bemani sound_voltex vocaloid beatmania_iidx quiz_magic_academy hinabita jubeat smooooch beatmania_iidx_16_empress gitadora
 ?taichou_(alice_gear_aegis) -> alice_gear_aegis frame_arms_girl
 ?man_o'_war_(racehorse) -> original umamusume 31_minutos
+?star_platinum -> jojo_no_kimyou_na_bouken stardust_crusaders diamond_wa_kudakenai stone_ocean vento_aureo battle_tendency phantom_blood steel_ball_run jojolion touhou
