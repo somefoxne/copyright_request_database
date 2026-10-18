@@ -4633,3 +4633,4 @@
 ?jegan -> gundam gundam_unicorn original gundam_f91 gundam_perfect_file sunrise_(company) gundam_battle_operation_2 zeta_gundam sd_gundam
 ?fushimi_yuzuru -> ensemble_stars! pokemon sanrio my_melody_(series) pokemon_sun_and_moon pokemon_heartgold_and_soulsilver puzzle_&_dragons pokemon_adventures
 ?elysia_(herrscher_of_human:_ego)_(honkai_impact) -> honkai_(series) honkai_impact_3rd honkai:_star_rail mihoyo zenless_zone_zero genshin_impact original arknights comiket_101 blue_archive
+?zz_gundam -> gundam gundam_zz zeta_gundam mobile_suit_gundam gundam_f91 sd_gundam victory_gundam original turn_a_gundam
