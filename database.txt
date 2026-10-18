@@ -6045,3 +6045,4 @@
 ?shirafuji_tamaki -> iwamotochou_geinousha enogu hololive indie_virtual_youtuber .live kizuna_ai_inc. the_moon_studio scp_foundation mirai_akari_project kemomimi_oukoku_kokuei_housou
 ?suzuki_anzu -> iwamotochou_geinousha enogu mirai_akari_project hololive indie_virtual_youtuber .live kizuna_ai_inc. the_moon_studio scp_foundation kemomimi_oukoku_kokuei_housou
 ?black_widow -> marvel avengers_(series) the_incredible_hulk_(series) marvel_rivals spider-man_(series) captain_america_(series) x-men the_avengers_(2012) guardians_of_the_galaxy fantastic_four
+?demoman_(tf2) -> team_fortress_2 touhou pokemon hololive vocaloid higurashi_no_naku_koro_ni blue_archive fate_(series) hololive_english pokemon_sword_and_shield
