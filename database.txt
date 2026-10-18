@@ -5096,3 +5096,4 @@
 ?arezu_(pokemon) -> pokemon pokemon_legends:_arceus pokemon_masters_ex pokemon_diamond/pearl/platinum pokemon_sword_and_shield pokemon_scarlet_and_violet original kimetsu_no_yaiba pokemon_legends:_z-a pokemon_tcg
 ?kei_(amas)_(blue_archive) -> blue_archive gundam slay_the_spire slay_the_spire_2 gundam_seed fallout the_ring comiket_106 doom_(series) fallout:_new_vegas
 ?takoluka -> vocaloid touhou project_diva_(series) utau toeto_(vocaloid) magical_mirai_(vocaloid) voiceroid project_diva_2nd k-on! poppippoo_(vocaloid)
+?kloe_rinz -> eiyuu_densetsu sora_no_kiseki sen_no_kiseki_(series) sora_no_kiseki_sc sen_no_kiseki_iv akatsuki_no_kiseki sora_no_kiseki_fc sen_no_kiseki_i ao_no_kiseki tales_of_(series)
