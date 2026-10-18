@@ -5102,3 +5102,4 @@
 ?saihara_shuichi -> danganronpa_(series) danganronpa_v3:_killing_harmony danganronpa:_trigger_happy_havoc danganronpa_2:_goodbye_despair danganronpa_another_episode:_ultra_despair_girls pokemon danganronpa_s:_ultimate_summer_camp sanrio my_melody_(series)
 ?leiden_(black_souls) -> black_souls black_souls_2 shingeki_no_kyojin rabbit_hole_(vocaloid)
 ?hatsune_miku_(vocaloid6) -> vocaloid utau synthesizer_v piapro_studio magical_mirai_(vocaloid) microsoft_windows world_cup 2026_fifa_world_cup pokemon starbucks
+?baby_globe -> wikipedia os-tan 2channel
