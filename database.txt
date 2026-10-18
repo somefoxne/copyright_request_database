@@ -5903,3 +5903,4 @@
 ?minerva_orlando -> fairy_tail divine_gate whentai
 ?rogue_cheney -> fairy_tail neptune_(series) choujigen_game_neptune fairy_tail:_ultimate_dance_of_magic
 ?amakusa_shirou_(fate) -> fate_(series) fate/grand_order fate/apocrypha fate/extra fate/stay_night fate/hollow_ataraxia fate/kaleid_liner_prisma_illya fate/zero koha-ace fate/prototype
+?anastasia_(fate) -> fate_(series) fate/grand_order learning_with_manga!_fgo original fate/extra world_cup pixiv_fate/grand_order_contest_2 2018_fifa_world_cup fate/grand_order_arcade idolmaster
