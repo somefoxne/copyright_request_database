@@ -6060,3 +6060,4 @@
 ?shioriha_ruri_(1st_costume) -> nijisanji niginigi_nijitown minecraft monitoring_(vocaloid) blue_archive nijisanji_en jikkyou_powerful_pro_yakyuu comiket_107 comiket_108 nijisanji_kr
 ?charlotte_e._yeager -> world_witches_series strike_witches strike_witches:_kurenai_no_majo-tachi strike_witches:_suomus_misfits_squadron witches_of_africa brave_witches noble_witches strike_witches:_katayoku_no_majo-tachi national_football_league dallas_cowboys
 ?gertrud_barkhorn -> world_witches_series strike_witches strike_witches:_suomus_misfits_squadron witches_of_africa brave_witches strike_witches:_kurenai_no_majo-tachi girls_und_panzer strike_witches:_katayoku_no_majo-tachi nyantype strike_witches_zero
+?shaydi_(trickcal) -> trickcal pokemon arknights warhammer_40k stella_sora
