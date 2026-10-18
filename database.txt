@@ -5469,3 +5469,4 @@
 ?a'gen_(the_legend_of_luoxiaohei) -> the_legend_of_luo_xiaohei lanxi_zhen arknights ao_la_xing pokemon pokemon_(anime) pokemon_the_series:_xy monopoly trump_(series)
 ?a'he_(the_legend_of_luoxiaohei) -> the_legend_of_luo_xiaohei lanxi_zhen pokemon
 ?bidiu_(the_legend_of_luo_xiaohei) -> the_legend_of_luo_xiaohei arknights lanxi_zhen
+?da_shuang_(the_legend_of_luoxiaohei) -> the_legend_of_luo_xiaohei lanxi_zhen
