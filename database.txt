@@ -4523,3 +4523,4 @@
 ?rosemary_(wuthering_waves) -> wuthering_waves
 ?fumizuki_(kancolle) -> kantai_collection choo_choo_train bishoujo_senshi_sailor_moon kamen_rider fate_(series) fate/grand_order umamusume aoki_hagane_no_arpeggio dragon_ball dragon_ball_z
 ?i-class_destroyer -> kantai_collection transformers transformers:_generation_1 arknights mario_(series) girls_und_panzer gundam jojo_no_kimyou_na_bouken fallout dota_(series)
+?kikuzuki_(kancolle) -> kantai_collection choo_choo_train original kamen_rider aoki_hagane_no_arpeggio kamen_rider_w gundam super_sentai kill_me_baby among_us
