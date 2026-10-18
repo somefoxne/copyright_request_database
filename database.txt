@@ -4781,3 +4781,4 @@
 ?tom_(eddsworld) -> eddsworld sonic_(series) dear_starboy pokemon utdr_(toby_fox) asdfmovie original vocaloid deltarune undertale
 ?jayjay_(zoophobia) -> zoophobia_(comic)
 ?siliun_fael_(nerissa_ravencroft) -> hololive hololive_english shattered_legends
+?komazawa_noi -> cho_kaguya-hime! an_an wego chainsaw_man project_sekai invincible_(series) netflix original kantai_collection fate_(series)
