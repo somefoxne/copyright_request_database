@@ -6312,3 +6312,4 @@
 ?sydney_(degrees_of_lewdity) -> degrees_of_lewdity original project_moon the_kiss blue_archive pokemon limbus_company bishoujo_senshi_sailor_moon panty_&_stocking_with_garterbelt library_of_ruina
 ?sydney_(female)_(degrees_of_lewdity) -> degrees_of_lewdity original blue_archive doki_doki_literature_club hotel_transylvania
 ?johan_andersen -> yu-gi-oh! yu-gi-oh!_gx yu-gi-oh!_duel_monsters kantai_collection yu-gi-oh!_zexal yu-gi-oh!_3d_bonds_beyond_time pokemon fate_(series) jojo_no_kimyou_na_bouken
+?irina_jelavic -> ansatsu_kyoushitsu gintama shokugeki_no_souma one_piece naruto_(series) naruto_(classic) haikyuu!! world_trigger nisekoi shounen_jump
