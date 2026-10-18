@@ -5723,3 +5723,4 @@
 ?mikoto_(girls_revolution_project) -> kamitsubaki_studio girls_revolution_project sinsekai_record valis_(sinsekai)
 ?iroi_(nte) -> neverness_to_everness
 ?davoth_(doom) -> pokemon doom_(series)
+?doomguy -> doom_(series) doom_eternal doom_(2016) doom:_the_dark_ages animal_crossing metroid original halo_(series) doom_ii hololive
