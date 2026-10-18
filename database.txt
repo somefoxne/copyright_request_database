@@ -6140,3 +6140,4 @@
 ?sherlock_(stella_sora) -> stella_sora shigoto_neko
 ?crystal_beast_sapphire_pegasus -> yu-gi-oh! yu-gi-oh!_gx pokemon jubilee_2025 the_bible new_testament
 ?number_41_bagooska_the_terribly_tired_tapir -> yu-gi-oh! yu-gi-oh!_master_duel pokemon pokemon_sleep vocaloid the_legend_of_zelda death_note kfc yu-gi-oh!_zexal
+?kaela_kovalskia_(indonesian_casual) -> hololive hololive_indonesia hololive_english hololive_official_card_game honkai_(series) honkai:_star_rail hololive_dev_is silent_hill_(series) silent_hill_2 lethal_company
