@@ -5086,3 +5086,4 @@
 ?poted's_character -> original pokemon
 ?hornet_(hollow_knight) -> hollow_knight hollow_knight:_silksong hololive hololive_english original spy_x_family marvel spider-man_(series) indie_virtual_youtuber blue_archive
 ?knight_(hollow_knight) -> hollow_knight hollow_knight:_silksong pokemon hololive nier_(series) hololive_english nier:automata cuphead_(game) mario_(series) utdr_(toby_fox)
+?elaine_auclair -> eiyuu_densetsu kuro_no_kiseki_(series) kuro_no_kiseki_i kuro_no_kiseki_ii kai_no_kiseki sen_no_kiseki_(series) sora_no_kiseki sen_no_kiseki_i falcom zero_no_kiseki
