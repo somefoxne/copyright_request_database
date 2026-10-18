@@ -4792,3 +4792,4 @@
 ?mikado_akira_(ray)_(cho_kaguya-hime!) -> cho_kaguya-hime!
 ?mikado_akira_(tsukuyomi)_(cho_kaguya-hime!) -> cho_kaguya-hime! an_an chainsaw_man dragon_ball dragon_ball_z jujutsu_kaisen kill_la_kill minecraft danganronpa_(series) animal_crossing
 ?daphne_(elden_ring_nightreign) -> elden_ring elden_ring_nightreign
+?isayama_mami -> cho_kaguya-hime! pokemon bocchi_the_rock! kaguya-sama_wa_kokurasetai_~tensai-tachi_no_renai_zunousen~ animal_crossing minecraft death_note youtube invincible_(series) crayon_shin-chan
