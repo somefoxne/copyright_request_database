@@ -5222,3 +5222,4 @@
 ?asanagi_umi -> class_de_2-banme_ni_kawaii_onnanoko_to_tomodachi_ni_natta kadokawa megami_magazine kono_subarashii_sekai_ni_shukufuku_wo! tokidoki_bosotto_roshia-go_de_dereru_tonari_no_alya-san otonari_no_tenshi-sama_ni_itsu_no_mani_ka_dame_ningen_ni_sarete_ita_ken tantei_wa_mou_shindeiru magical_explorer aquarius_(drink)
 ?isabella_(mongil:_star_dive) -> mongil:_star_dive
 ?nyanners_(mongil:_star_dive) -> mongil:_star_dive
+?watanabe_you -> love_live! love_live!_sunshine!! love_live!_school_idol_festival love_live!_school_idol_project koi_ni_naritai_aquarium love_live!_school_idol_festival_all_stars genjitsu_no_yohane love_live!_nijigasaki_high_school_idol_club kimi_no_kokoro_wa_kagayaiteru_kai? real_life
