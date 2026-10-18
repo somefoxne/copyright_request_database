@@ -4655,3 +4655,4 @@
 ?mother_gothel -> tangled disney snow_white_and_the_seven_dwarfs_(disney) aladdin_(movie) shrek_(series) big_hero_6 beauty_and_the_beast_(disney) rapunzel_(fairy_tale) the_princess_and_the_frog_(disney)
 ?rapunzel_(disney) -> tangled disney the_little_mermaid_(disney) aladdin_(movie) beauty_and_the_beast_(disney) sleeping_beauty_(disney) disney_princess frozen_(disney) cinderella_(disney_movie)
 ?isurugi_futaba -> shoujo_kageki_revue_starlight shoujo_kageki_revue_starlight_-re_live- love_live! bushiroad umamusume bang_dream! real_life bang_dream!_girls_band_party! d4dj assault_lily
+?yukari_(swimsuit)_(blue_archive) -> blue_archive comiket_106 pokemon umamusume twitter
