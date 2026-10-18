@@ -5553,3 +5553,4 @@
 ?kal'tsit_(advisor)_(arknights) -> arknights ambience_synesthesia ima_sugu_rinne_(vocaloid) the_truman_show anata_shika_mienai_no_(vocaloid)
 ?valiant_(kancolle) -> kantai_collection dragon_quest dragon_quest_iii fatal_fury lawson comiket_104 garou:_mark_of_the_wolves terminator_(series) the_terminator c2_kikan
 ?kinoshita_hinata -> idolmaster idolmaster_million_live! idolmaster_million_live!_theater_days idolmaster_(classic) little_red_riding_hood_(fairy_tale) idolmaster_cinderella_girls original idolmaster_one_for_all marvel darkstalkers
+?crysta_(duel_masters) -> duel_masters duel_masters_lost j.c._staff downer_onee-san_wa_asobitai magic:_the_gathering
