@@ -4997,3 +4997,4 @@
 ?the_nameless_boy_(fumetsu_no_anata_e) -> fumetsu_no_anata_e honkai_(series) honkai_impact_3rd chainsaw_man golden_kamuy tensei_shitara_slime_datta_ken karakai_jouzu_no_takagi-san metaphor:_refantazio
 ?butter_(trickcal) -> trickcal blue_archive arknights goddess_of_victory:_nikke hololive idolmaster umamusume project_moon limbus_company gakuen_idolmaster
 ?erpin_(trickcal) -> trickcal fate_(series) fate/grand_order jujutsu_kaisen fate/apocrypha crayon_shin-chan nohara_hiroshi_hirumeshi_no_ryuugi blue_archive pokemon utdr_(toby_fox)
+?ui_(trickcal) -> trickcal touhou blue_archive indie_virtual_youtuber boku_no_hero_academia yani_neko instagram the_kiss the_creation_of_adam
