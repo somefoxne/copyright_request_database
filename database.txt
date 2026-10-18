@@ -6007,3 +6007,4 @@
 ?steven_quartz_universe -> steven_universe steven_universe_future adventure_time steven_universe:_the_movie dragon_ball sonic_(series) dc_comics the_amazing_world_of_gumball cartoon_network pokemon
 ?sora_(spring_flight)_(nikke) -> goddess_of_victory:_nikke
 ?yone_(league) -> league_of_legends teamfight_tactics league_of_legends:_wild_rift touhou arknights vocaloid adventure_time t1_(esports) gq_(magazine)
+?poppy_(league) -> league_of_legends pokemon original mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) mario_(series) dragon_ball dragon_ball_z twitter super_mario_bros._1
