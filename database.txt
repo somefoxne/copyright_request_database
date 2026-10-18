@@ -5070,3 +5070,4 @@
 ?wang's_cat_(arknights) -> arknights kekkai_sensen jojo_no_kimyou_na_bouken persona naruto_(series) arknights:_endfield persona_3 shingeki_no_kyojin stardust_crusaders gintama
 ?hyuuga_neji -> naruto_(series) naruto_shippuuden naruto_(classic) boruto_(series) boruto:_naruto_next_generations naruto:_the_last hentai_key naruto_sd_rock_lee_no_seishun naruto_shippuuden:_ultimate_ninja_blazing pokemon
 ?rock_lee -> naruto_(series) naruto_(classic) naruto_shippuuden boruto_(series) boruto:_naruto_next_generations naruto:_the_last gekijou-ban_naruto:_dai_koufun!_mikazuki-jima_no_animaru_panikku_dattebayo! pokemon naruto_sd_rock_lee_no_seishun one_piece
+?tenten_(naruto) -> naruto_(series) naruto_(classic) naruto_shippuuden boruto_(series) boruto:_naruto_next_generations naruto:_the_last hentai_key naruto_shippuuden:_ultimate_ninja_blazing boruto:_naruto_the_movie naruto_sd_rock_lee_no_seishun
