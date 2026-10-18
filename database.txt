@@ -5328,3 +5328,4 @@
 ?nukumizu_kazuhiko -> make_heroine_ga_oo_sugiru! pokemon pokemon_black_and_white ore_no_imouto_ga_konna_ni_kawaii_wake_ga_nai blue_archive umamusume final_fantasy bocchi_the_rock! k-on! suzumiya_haruhi_no_yuuutsu
 ?ararycan_(genshin_impact) -> genshin_impact original nier_(series) nier:automata zenless_zone_zero mihoyo snow_white_and_the_seven_dwarfs_(disney) kamisama_hajimemashita
 ?kuronushi_(genshin_impact) -> genshin_impact pokemon vocaloid person_of_interest konton_boogie_(vocaloid) slow_downer_(vocaloid)
+?haibara_nono -> astrae_oratio
