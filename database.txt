@@ -5065,3 +5065,4 @@
 ?jessica_sherawat -> resident_evil resident_evil:_revelations resident_evil_3:_nemesis resident_evil_3_(remake) resident_evil_6 pokemon resident_evil_4 resident_evil_5 resident_evil:_vendetta resident_evil:_revelations_2
 ?rachael_foley -> resident_evil resident_evil:_revelations touhou kantai_collection cookie_(touhou) resident_evil_2 capcom resident_evil_3:_nemesis resident_evil_village resident_evil_6
 ?matsukai_mao_(4th_costume) -> nijisanji nijisanji_en nijisanji_kr nijisanji_id
+?jake_muller -> resident_evil resident_evil_6 resident_evil_2 resident_evil_4 resident_evil_5 resident_evil_3:_nemesis resident_evil_village resident_evil_1 resident_evil_0 resident_evil_2_(remake)
