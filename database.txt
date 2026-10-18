@@ -4332,3 +4332,4 @@
 ?haga_(szs) -> sayonara_zetsubou_sensei idolmaster idolmaster_(classic) sengoku_basara
 ?itoshiki_enishi -> sayonara_zetsubou_sensei idolmaster idolmaster_(classic)
 ?itoshiki_kei -> sayonara_zetsubou_sensei idolmaster gundam precure idolmaster_(classic) heartcatch_precure! gundam_wing
+?itoshiki_mikoto -> sayonara_zetsubou_sensei touhou idolmaster idolmaster_(classic) kodoku_no_gourmet
