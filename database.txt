@@ -5976,3 +5976,4 @@
 ?mikhael_(omori) -> omori the_coffin_of_andy_and_leyley okusuri_nonde_neyou_(vocaloid)
 ?triss_(closers) -> closers
 ?baobhan_sith_(swimsuit_pretender)_(second_ascension)_(fate) -> fate_(series) fate/grand_order original comiket_103 tsukihime one_piece panty_&_stocking_with_garterbelt rabbit_hole_(vocaloid) fate/grand_order_arcade
+?seele_vollerei_(eternal_night's_embrace) -> honkai_(series) honkai_impact_3rd honkai:_star_rail blue_archive zenless_zone_zero project_moon limbus_company mihoyo maplestory
