@@ -4951,3 +4951,4 @@
 ?japanese_crested_ibis_(kemono_friends) -> kemono_friends kemono_friends_3 kemono_friends_kingdom godzilla_(series) kemono_friends_2 shin_godzilla kantai_collection hokuto_no_ken touhou kemono_friends_pavilion
 ?renka_(senran_kagura) -> senran_kagura senran_kagura_estival_versus senran_kagura_new_link senran_kagura_new_wave senran_kagura_peach_beach_splash kantai_collection kemono_friends comiket_106 senran_kagura_shinovi_versus
 ?r2-d2 -> star_wars star_wars:_a_new_hope star_wars:_revenge_of_the_sith touhou star_wars:_the_clone_wars_(2008_tv_series) star_wars:_the_force_awakens hololive original kantai_collection dragon_ball
+?asahi_sas_brutus -> final_fantasy final_fantasy_xiv original final_fantasy_xiv:_eorzea_gakuen pokemon shoujo_kakumei_utena kfc kamippoina_(vocaloid) mountain_dew
