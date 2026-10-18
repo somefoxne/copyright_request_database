@@ -5446,3 +5446,4 @@
 ?veilvet_whitmore -> izigenia
 ?ekubo_(mob_psycho_100) -> mob_psycho_100 dandadan one-punch_man gintama jujutsu_kaisen chainsaw_man one_piece pokemon spy_x_family original
 ?lilith_(fate) -> fate_(series) fate/grand_order original learning_with_manga!_fgo chainsaw_man blue_archive fate/strange_fake comiket_107 idolmaster final_fantasy
+?lysithea_von_ordelia -> fire_emblem fire_emblem:_three_houses fire_emblem_heroes fire_emblem_warriors:_three_hopes fire_emblem_awakening pokemon fire_emblem_fates fire_emblem:_the_sacred_stones persona persona_5
