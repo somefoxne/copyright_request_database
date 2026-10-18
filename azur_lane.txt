@@ -1,5 +1,3 @@
-Dưới đây là danh sách tag đã được chuẩn hóa theo định dạng `-> azur_lane`:
-
 commander_(azur_lane) -> azur_lane  
 doodle_commander_(azur_lane) -> azur_lane  
 female_commander_(azur_lane) -> azur_lane  
@@ -723,3 +721,15 @@ pearl_(azur_lane) -> azur_lane
 queen_anne's_revenge_(azur_lane) -> azur_lane  
 royal_fortune_(azur_lane) -> azur_lane  
 sao_martinho_(azur_lane) -> azur_lane
+
+universal_bulin_(azur_lane) -> azur_lane  
+prototype_bulin_mkii_(azur_lane) -> azur_lane  
+specialized_bulin_mkiii_(azur_lane) -> azur_lane  
+observer_alpha_(azur_lane) -> azur_lane  
+observer_zero_(azur_lane) -> azur_lane  
+siren_(azur_lane) -> azur_lane  
+tracker_(azur_lane) -> azur_lane  
+arbiter_the_empress_iii_(azur_lane) -> azur_lane  
+purifier_(azur_lane) -> azur_lane  
+explorer_(azur_lane) -> azur_lane  
+tester_(azur_lane) -> azur_lane
