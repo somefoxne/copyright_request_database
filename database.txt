@@ -5509,3 +5509,4 @@
 ?hinamori_amu -> shugo_chara! bishoujo_senshi_sailor_moon cardcaptor_sakura precure mahou_shoujo_madoka_magica tokyo_mew_mew ojamajo_doremi mermaid_melody_pichi_pichi_pitch mahou_shoujo_madoka_magica_(anime) futari_wa_precure
 ?black_groza_(girls'_frontline_2) -> honkai_(series) honkai:_star_rail honkai_impact_3rd goddess_of_victory:_nikke honest_axe
 ?ots-14_(girls'_frontline) -> blue_archive hololive hololive_english cyberpunk_(series) fate_(series) arknights
+?kei_(m_k) -> original arknights vocaloid indie_virtual_youtuber real_life phase_connect the_little_mermaid_(disney) ts_loli_oji-san_no_boukan the_wild_thornberrys dc_comics
