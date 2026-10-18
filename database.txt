@@ -5003,3 +5003,4 @@
 ?akitsu_maru_(kancolle) -> kantai_collection t.m.revolution girls_und_panzer bleach aoki_hagane_no_arpeggio gundam hokuto_no_ken golgo_13 teito_monogatari pokemon
 ?zuihou_(kancolle) -> kantai_collection lawson line_(naver) original aoki_hagane_no_arpeggio pokemon gundam touhou fate_(series) neon_genesis_evangelion
 ?mito_anji -> guilty_gear guilty_gear_strive guilty_gear_xrd guilty_gear_xx guilty_gear_x touhou pokemon persona street_fighter the_king_of_fighters
+?fandaniel -> final_fantasy final_fantasy_xiv original shoujo_kakumei_utena home_alone
