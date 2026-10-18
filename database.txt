@@ -5345,3 +5345,4 @@
 ?sherlock_holmes_(monster_strike) -> monster_strike sword_art_online sword_art_online:_alicization
 ?daiwa_scarlet_(mini_vacation)_(umamusume) -> umamusume pokemon kantai_collection original azur_lane love_live! gundam jojo_no_kimyou_na_bouken vento_aureo love_live!_superstar!!
 ?koashi_mutsumi -> alice_gear_aegis taimanin_(series) gundam world_witches_series strike_witches frame_arms_girl battle_girl_high_school gundam_narrative
+?gannan_yak_(kemono_friends) -> kemono_friends kemono_friends_3 original umamusume sousou_no_frieren dragon_quest kirby_(series) dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru_darou_ka kemono_friends_v_project berserk
