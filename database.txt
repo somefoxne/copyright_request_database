@@ -4977,3 +4977,4 @@
 ?mendelson_(alchemy_stars) -> alchemy_stars
 ?sereniel_(chaos_zero_nightmare) -> chaos_zero_nightmare hololive hololive_english
 ?mordred_(fate/apocrypha) -> fate_(series) fate/grand_order fate/apocrypha fate/stay_night fate/extra fate/zero fate/extra_ccc pixiv_fate/grand_order_contest_1 marvel fate/kaleid_liner_prisma_illya
+?tonia_(genshin_impact) -> genshin_impact honkai_(series) honkai:_star_rail mihoyo
