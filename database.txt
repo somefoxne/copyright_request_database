@@ -5804,3 +5804,4 @@
 ?simone_(reverse:1999) -> reverse:1999
 ?akane_rin_(house_special)_(nte) -> neverness_to_everness
 ?ritsu_(siscon_ani_to_brocon_imouto_ga_shoujiki_ni_nattara) -> siscon_ani_to_brocon_imouto_ga_shoujiki_ni_nattara
+?uta_(siscon_ani_to_brocon_imouto_ga_shoujiki_ni_nattara_) -> siscon_ani_to_brocon_imouto_ga_shoujiki_ni_nattara original
