@@ -4443,3 +4443,4 @@
 ?kagari_atsuko -> little_witch_academia trigger_(company) kill_la_kill brand_new_animal majo_no_takkyuubin uchuu_patrol_luluco mahou_shoujo_madoka_magica kobayashi-san_chi_no_maidragon promare tengen_toppa_gurren_lagann
 ?cosmo_(chainsaw_man) -> chainsaw_man umamusume it_(stephen_king) frankenstein ao_oni original genshin_impact final_fantasy mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime)
 ?pingtsi_(chainsaw_man) -> chainsaw_man genshin_impact umamusume final_fantasy mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) final_fantasy_vii neon_genesis_evangelion naruto_(series) jujutsu_kaisen
+?tsugihagi_(chainsaw_man) -> chainsaw_man genshin_impact umamusume final_fantasy mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) final_fantasy_vii naruto_(series) jujutsu_kaisen bleach
