@@ -5460,3 +5460,4 @@
 ?qc_(utdr) -> utdr_(toby_fox) undertale deltarune original
 ?ninomae_ina'nis_(new_year) -> hololive hololive_english hololive_indonesia indie_virtual_youtuber fate_(series) splatoon_(series) mario_(series) kill_la_kill kirby_(series)
 ?jevil -> utdr_(toby_fox) deltarune undertale touhou kirby_(series) dc_comics mario_(series) pokemon ace_attorney the_amazing_digital_circus
+?ralsei_(hat) -> utdr_(toby_fox) deltarune undertale oneshot_(game) omori pokemon night_in_the_woods hollow_knight yume_nikki touhou
