@@ -5094,3 +5094,4 @@
 ?inari_(summer_pockets) -> summer_pockets key_(company) clannad little_busters! angel_beats! kanon rewrite dango_daikazoku air_(visual_novel) planetarian
 ?yamashiro_(kancolle) -> kantai_collection kantai_collection_(anime) gundam fate_(series) azur_lane pokemon umamusume fate/grand_order yokohama_dena_baystars lawson
 ?arezu_(pokemon) -> pokemon pokemon_legends:_arceus pokemon_masters_ex pokemon_diamond/pearl/platinum pokemon_sword_and_shield pokemon_scarlet_and_violet original kimetsu_no_yaiba pokemon_legends:_z-a pokemon_tcg
+?kei_(amas)_(blue_archive) -> blue_archive gundam slay_the_spire slay_the_spire_2 gundam_seed fallout the_ring comiket_106 doom_(series) fallout:_new_vegas
