@@ -4408,3 +4408,4 @@
 ?ozawa_rina -> osawari_tantei original pokemon hololive love_live! hololive_english love_live!_school_idol_project street_fighter mario_(series) marvel
 ?murakawa_reo_(null-meta) -> null-meta
 ?jinshi_(kusuriya_no_hitorigoto) -> kusuriya_no_hitorigoto sousou_no_frieren pokemon wizarding_world harry_potter_(series) youtube mononoke it_(stephen_king) the_weaker_sex_1_(gibson)
+?erza_scarlet -> fairy_tail twitter fate_(series) bleach one_piece fire_emblem yu-gi-oh! naruto_(series) dc_comics rwby
