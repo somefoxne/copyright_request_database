@@ -5625,3 +5625,4 @@
 ?susumi -> girls_frantic_clan
 ?mo_(deadlock) -> deadlock_(game)
 ?fricle_(trickcal) -> trickcal the_creation_of_adam
+?picora_(trickcal) -> trickcal
