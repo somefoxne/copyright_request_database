@@ -5838,3 +5838,4 @@
 ?minato_mio -> aikatsu!_(series) aikatsu_friends! aikatsu! aikatsu_on_parade! aikatsu_stars! precure star_twinkle_precure animedia kantai_collection love_live!
 ?penne_(aikatsu_friends!) -> aikatsu!_(series) aikatsu_friends! aikatsu! aikatsu_stars! aikatsu_on_parade! aikatsu_planet!
 ?wedding_(zenith_of_lies)_(duel_masters) -> duel_masters
+?flare_corona -> fairy_tail fate_(series) fate/stay_night soul_eater no_game_no_life akame_ga_kill! mirai_nikki yandere_simulator deadman_wonderland
