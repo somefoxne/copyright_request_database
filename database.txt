@@ -4857,3 +4857,4 @@
 ?cherna_mouse -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_restart mahou_shoujo_ikusei_keikaku_limited mahou_shoujo_ikusei_keikaku_f2p
 ?ikusaba_mukuro -> danganronpa_(series) danganronpa:_trigger_happy_havoc danganronpa/zero danganronpa_2:_goodbye_despair danganronpa_v3:_killing_harmony danganronpa_another_episode:_ultra_despair_girls danganronpa_s:_ultimate_summer_camp
 ?rena_fenrir -> indie_virtual_youtuber minecraft
+?ehlitte -> sex_open_world_e_youkoso!
