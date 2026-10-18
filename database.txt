@@ -5616,3 +5616,4 @@
 ?lin_lihua -> cinderella_series hachigatsu_no_cinderella_nine saitama_seibu_lions hokkaido_nippon-ham_fighters orix_buffaloes fukuoka_softbank_hawks touhoku_rakuten_golden_eagles chiba_lotte_marines
 ?shinonome_ryo -> cinderella_series hachigatsu_no_cinderella_nine hanshin_tigers chunichi_dragons saitama_seibu_lions gundam tribe_nine kochikame gundam_narrative tamayomi
 ?speaki_(pure_pumpkin)_(trickcal) -> trickcal
+?crobat -> pokemon pokemon_heartgold_and_soulsilver pokemon_gold/silver/crystal pokemon_diamond/pearl/platinum pokemon_sun_and_moon pokemon_x_and_y pokemon_red/green/blue/yellow pokemon_black_and_white pokemon_firered_and_leafgreen pokemon_ruby/sapphire/emerald
