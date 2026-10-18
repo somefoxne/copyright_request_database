@@ -5597,3 +5597,4 @@
 ?akikawa_suika -> girls_frantic_clan
 ?higaki_eiko -> girls_frantic_clan
 ?matsudo_minami -> girls_frantic_clan
+?shikigi_yuuri -> girls_frantic_clan
