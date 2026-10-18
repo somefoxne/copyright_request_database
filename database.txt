@@ -4625,3 +4625,4 @@
 ?father_(fma) -> fullmetal_alchemist fullmetal_alchemist_(2003) fullmetal_alchemist_the_movie:_conqueror_of_shamballa crash_fever touhou kantai_collection nijisanji neon_genesis_evangelion dragon_ball utdr_(toby_fox)
 ?mai_(kapatarou) -> original
 ?rhea_(fire_emblem) -> fire_emblem fire_emblem:_three_houses fire_emblem_heroes fire_emblem_fates fire_emblem_awakening fire_emblem_warriors:_three_hopes fire_emblem_engage fire_emblem:_the_blazing_blade xenoblade_chronicles_(series)
+?omokage_yugamu -> the_hundred_line_-last_defense_academy- tower_records pokemon danganronpa_(series) danganronpa_v3:_killing_harmony precure mahou_shoujo_no_majo_saiban futari_wa_precure genshin_impact umamusume
