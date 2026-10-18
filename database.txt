@@ -5371,3 +5371,4 @@
 ?akiyoshi_fuyuka -> kanojo_no_seiiki dengeki_moeoh
 ?shinme_(kemono_friends) -> kemono_friends kemono_friends_3 umamusume real_life sengoku_basara japan_racing_association midori_no_makibaoo
 ?daring_heart_(daring_darling!)_(umamusume) -> umamusume real_life
+?lucilla_(wuthering_waves) -> wuthering_waves pizza-la cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 honkai_(series) honkai:_star_rail spy_x_family tokyo_ghoul genshin_impact
