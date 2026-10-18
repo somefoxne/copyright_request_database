@@ -4518,3 +4518,4 @@
 ?david_bowie -> real_life original jojo_no_kimyou_na_bouken the_beatles abbey_road aphex_twin green_day lemon_demon they_might_be_giants blue_archive
 ?aventurine_(waveflair)_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail fate_(series) fate/stay_night genshin_impact wuthering_waves vspo! comiket_108 iii_(hololive)
 ?amane_kanata_(summer) -> hololive comiket_104 pokemon comiket_106
+?vivian_banshee_(iris_of_the_shore) -> zenless_zone_zero sekaiju_no_meikyuu mihoyo comiket_107 shin_sekaiju_no_meikyuu_2 honkai_(series) honkai:_star_rail chainsaw_man invincible_(series)
