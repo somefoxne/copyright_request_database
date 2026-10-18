@@ -5680,3 +5680,4 @@
 ?player_character_(male)_(degrees_of_lewdity) -> degrees_of_lewdity original real_life animal_crossing the_coffin_of_andy_and_leyley animal_crossing:_new_horizons romeo_to_cinderella_(vocaloid) me!me!me!
 ?camilla_(fire_emblem) -> fire_emblem fire_emblem_fates fire_emblem_heroes fire_emblem_awakening fire_emblem:_three_houses fire_emblem_engage fire_emblem:_the_blazing_blade fire_emblem_cipher fire_emblem:_the_sacred_stones fire_emblem_warriors
 ?elise_(fire_emblem) -> fire_emblem fire_emblem_fates fire_emblem_heroes fire_emblem_awakening fire_emblem_cipher fire_emblem:_mystery_of_the_emblem fire_emblem:_three_houses fire_emblem_echoes:_shadows_of_valentia fire_emblem:_the_blazing_blade pokemon
+?hinoka_(fire_emblem) -> fire_emblem fire_emblem_fates fire_emblem_heroes fire_emblem_awakening fire_emblem_cipher fire_emblem:_three_houses fire_emblem:_the_blazing_blade fire_emblem:_path_of_radiance fire_emblem:_mystery_of_the_emblem fire_emblem:_the_sacred_stones
