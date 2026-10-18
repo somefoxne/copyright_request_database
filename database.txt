@@ -6014,3 +6014,4 @@
 ?craymond_(splatoon) -> splatoon_(series) splatoon_2 splatoon_2:_octo_expansion splatoon_1 splatoon_3 pokemon splatoon_3:_side_order splatoon_(manga)
 ?flow_(splatoon) -> splatoon_(series) splatoon_2 splatoon_2:_octo_expansion splatoon_1 splatoon_3 tengen_toppa_gurren_lagann pokemon splatoon_(manga)
 ?miyamoto_musashi_(swimsuit_berserker)_(fate) -> fate_(series) fate/grand_order kantai_collection azur_lane fate/samurai_remnant pokemon shokugeki_no_souma one_piece bleach dragon_quest
+?miyamoto_musashi_(swimsuit_berserker)_(third_ascension)_(fate) -> fate_(series) fate/grand_order fire_emblem fire_emblem_fates eiyuu_densetsu fate/samurai_remnant zero_no_kiseki comiket_102 ao_no_kiseki wonder_festival
