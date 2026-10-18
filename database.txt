@@ -5234,3 +5234,4 @@
 ?arima_keiko -> tsukihime tsukihime_(remake) melty_blood kagetsu_tooya fate_(series) fate/stay_night fate/hollow_ataraxia fate/prototype kara_no_kyoukai
 ?jinan_tokie -> tsukihime kagetsu_tooya melty_blood type-moon fate_(series) fate/stay_night fate/hollow_ataraxia kara_no_kyoukai fate/prototype
 ?zhonya_birgit_(ryuu_tou) -> original
+?admire_groove_(casual)_(umamusume) -> umamusume
