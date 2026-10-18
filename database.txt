@@ -4728,3 +4728,4 @@
 ?defiled_anthem_kiriko -> overwatch
 ?mary_jane_watson -> marvel spider-man_(series) spider-verse x-men spider-man:_into_the_spider-verse spider-man:_brand_new_day darkstalkers marvel_vs._capcom marvel_rivals
 ?dr._arach -> tsukihime tsukihime_(remake) fate_(series) fate/grand_order melty_blood starbucks invincible_(series) fate/stay_night jujutsu_kaisen dairoku_ryouhei
+?shinkouhyou -> houshin_engi touhou hunter_x_hunter pokemon vocaloid one_piece neon_genesis_evangelion kirby_(series) axis_powers_hetalia
