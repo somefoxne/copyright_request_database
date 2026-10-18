@@ -5458,3 +5458,4 @@
 ?sakurako_(idol)_(blue_archive) -> blue_archive blue_archive_the_animation comiket_105 guilty_crown oshi_no_ko spongebob_squarepants_(series) never_gonna_give_you_up original fate_(series) idolmaster
 ?b.b._muamua -> izigenia
 ?qc_(utdr) -> utdr_(toby_fox) undertale deltarune original
+?ninomae_ina'nis_(new_year) -> hololive hololive_english hololive_indonesia indie_virtual_youtuber fate_(series) splatoon_(series) mario_(series) kill_la_kill kirby_(series)
