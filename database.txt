@@ -4464,3 +4464,4 @@
 ?sonia_bean -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_limited mahou_shoujo_ikusei_keikaku_unmarked mahou_shoujo_ikusei_keikaku_restart mahou_shoujo_ikusei_keikaku_jokers mahou_shoujo_ikusei_keikaku_aces mahou_shoujo_ikusei_keikaku_black mahou_shoujo_ikusei_keikaku_breakdown mahou_shoujo_ikusei_keikaku_f2p mahou_shoujo_ikusei_keikaku_queens
 ?mirajane_strauss -> fairy_tail twitter pokemon fate_(series) genshin_impact pokemon_(anime) naruto_(series) divine_gate fate/grand_order honkai_(series)
 ?sothis_(adult)_(fire_emblem) -> fire_emblem fire_emblem:_three_houses original pieta
+?sothis_(fire_emblem) -> fire_emblem fire_emblem:_three_houses fire_emblem_heroes fire_emblem_warriors:_three_hopes super_smash_bros. fire_emblem_awakening fire_emblem:_radiant_dawn fire_emblem_fates fire_emblem:_mystery_of_the_emblem
