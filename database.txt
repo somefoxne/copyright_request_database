@@ -4714,3 +4714,4 @@
 ?golden_hind_(azur_lane) -> azur_lane azur_lane:_slow_ahead goddess_of_victory:_nikke the_ring comiket_105 the_shining
 ?golden_hind_(the_pale_phantom's_smile)_(azur_lane) -> azur_lane the_ring
 ?swablu -> pokemon pokemon_scarlet_and_violet pokemon_omega_ruby_and_alpha_sapphire pokemon_ruby/sapphire/emerald vocaloid project_voltage pokemon_diamond/pearl/platinum pokemon_black_and_white pokemon_heartgold_and_soulsilver pokemon_emerald
+?asashio_(kancolle) -> kantai_collection original comiket_95 gundam watashi_ni_tenshi_ga_maiorita! idolmaster idolmaster_cinderella_girls azur_lane fate_(series) aoki_hagane_no_arpeggio
