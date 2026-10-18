@@ -5488,3 +5488,4 @@
 ?yezi_(the_legend_of_luoxiaohei) -> the_legend_of_luo_xiaohei lanxi_zhen pokemon
 ?yi_feng_(the_legend_of_luoxiaohei) -> the_legend_of_luo_xiaohei lanxi_zhen
 ?yunfei_(the_legend_of_luoxiaohei) -> the_legend_of_luo_xiaohei
+?shishikuno_mogari -> phantom_busters pokemon vocaloid neon_genesis_evangelion mario_(series) rebuild_of_evangelion dandadan gokurakugai
