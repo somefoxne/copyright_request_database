@@ -5075,3 +5075,4 @@
 ?lily_killer -> demons_roots_(series) demons_roots
 ?somunia -> indie_virtual_youtuber indie_utaite kmnz nanashi_inc. microsoft_windows ficty original cevio windows_classic windows_xp
 ?arihara_nanami -> riddle_joker yuzusoft tenshi_souzou_re-boot! sanoba_witch cafe_stella_to_shinigami_no_chou tenshinranman senren_banka dracu-riot! amairo_islenauts hamidashi_creative
+?arihara_satoru -> riddle_joker yuzusoft cafe_stella_to_shinigami_no_chou kantai_collection granblue_fantasy spy_x_family school_days comiket_96 joshi_kousei
