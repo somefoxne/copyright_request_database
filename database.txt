@@ -5050,3 +5050,4 @@
 ?lindsay_(si_land) -> si_land
 ?ceres_fauna_(1st_costume) -> hololive hololive_english hololive_indonesia minecraft getting_over_it enigmatic_recollection indie_virtual_youtuber hololive_dev_is pokemon holostars
 ?friend_(nanashi_mumei) -> hololive hololive_english hololive_indonesia mumei_(song)_(hololive) minecraft pokemon holostars nijisanji nijisanji_en holocure
+?nanashi_mumei_(1st_costume) -> hololive hololive_english hololive_indonesia mumei_(song)_(hololive) minecraft enigmatic_recollection pokemon nijisanji indie_virtual_youtuber nijisanji_en
