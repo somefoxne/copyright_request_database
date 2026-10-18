@@ -5106,3 +5106,4 @@
 ?me-tan -> os-tan microsoft_windows futaba_channel windows_classic windows_me nijiura_maids suigetsu linux troubled_windows gegege_no_kitarou
 ?mona_(2ch) -> 2channel original natsumi_step! futaba_channel vocaloid sanrio san-x netrunmon moechannel touhou
 ?wikipe-tan -> wikipedia os-tan 4chan winrar original microsoft_windows windows_classic ukagaka touhou jojo_no_kimyou_na_bouken
+?childhood_friend_(kz_oji) -> original
