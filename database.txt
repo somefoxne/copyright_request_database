@@ -6047,3 +6047,4 @@
 ?black_widow -> marvel avengers_(series) the_incredible_hulk_(series) marvel_rivals spider-man_(series) captain_america_(series) x-men the_avengers_(2012) guardians_of_the_galaxy fantastic_four
 ?demoman_(tf2) -> team_fortress_2 touhou pokemon hololive vocaloid higurashi_no_naku_koro_ni blue_archive fate_(series) hololive_english pokemon_sword_and_shield
 ?engineer_(tf2) -> team_fortress_2 touhou original honkai_(series) honkai_impact_3rd mario_(series) helltaker 4chan pokemon fate_(series)
+?hawkeye_(marvel) -> marvel avengers_(series) the_incredible_hulk_(series) captain_america_(series) x-men spider-man_(series) guardians_of_the_galaxy the_avengers_(2012) marvel_rivals marvel_vs._capcom
