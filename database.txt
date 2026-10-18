@@ -5006,3 +5006,4 @@
 ?fandaniel -> final_fantasy final_fantasy_xiv original shoujo_kakumei_utena home_alone
 ?magical_mirai_miku_(2020_summer) -> vocaloid magical_mirai_(vocaloid) piapro_studio hatsune_miku_graphy_collection odds_&_ends_(vocaloid) aisarenakute_mo_kimi_ga_iru_(vocaloid) project_sekai goodsmile_company goodsmile_racing senbonzakura_(vocaloid)
 ?leyn_(alchemy_stars) -> alchemy_stars ace_attorney starry_night_(van_gogh)
+?tighnari_(genshin_impact) -> genshin_impact duolingo mihoyo pokemon m&g_stationery honkai_(series) olympics 2024_summer_olympics original
