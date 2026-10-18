@@ -4841,3 +4841,4 @@
 ?inari_(tenko_shibuki) -> stellive sanrio my_melody_(series) pokemon pokemon_(anime) pokemon_(classic_anime) the_wizard_of_oz
 ?kankurou_(naruto) -> naruto_(series) naruto_shippuuden naruto_(classic) boruto_(series) boruto:_naruto_next_generations durarara!! naruto:_the_last the_legend_of_zelda dragon_ball super_smash_bros.
 ?temari_(naruto) -> naruto_(series) naruto_(classic) naruto_shippuuden boruto_(series) boruto:_naruto_next_generations naruto:_the_last hentai_key boruto:_naruto_the_movie monsterhentai original
+?maibara_himeka -> sayonara_lara kinema_citrus
