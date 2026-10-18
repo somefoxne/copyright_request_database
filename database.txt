@@ -5701,3 +5701,4 @@
 ?female_byleth_(awakened)_(fire_emblem) -> fire_emblem fire_emblem:_three_houses fire_emblem_warriors:_three_hopes fire_emblem_heroes fire_emblem_awakening fire_emblem_fates super_smash_bros. fire_emblem_engage fire_emblem_cipher
 ?janaff_(fire_emblem) -> fire_emblem fire_emblem:_path_of_radiance fire_emblem:_radiant_dawn fire_emblem_heroes fire_emblem_awakening fire_emblem:_the_sacred_stones fire_emblem_fates fire_emblem:_genealogy_of_the_holy_war fire_emblem:_three_houses fire_emblem_engage
 ?ulki_(fire_emblem) -> fire_emblem fire_emblem:_path_of_radiance fire_emblem:_radiant_dawn fire_emblem_heroes fire_emblem_awakening fire_emblem:_the_sacred_stones fire_emblem_fates fire_emblem:_genealogy_of_the_holy_war fire_emblem:_three_houses fire_emblem_engage
+?lei_heng_(project_moon) -> project_moon limbus_company library_of_ruina honkai_(series) honkai:_star_rail lobotomy_corporation kekkai_sensen touhou blue_archive
