@@ -5062,3 +5062,4 @@
 ?sophie_neuenmuller -> atelier_(series) atelier_sophie atelier_sophie_2 atelier_lydie_&_suelle atelier_resleriana atelier_firis atelier_ryza atelier_ryza_1 atelier_ayesha atelier_marie
 ?edogawa_conan -> meitantei_conan magic_kaito meitantei_conan_kurogane_no_submarine precure inuyasha pokemon lupin_iii touhou dragon_ball meitantei_precure!
 ?fujiwara_hazuki -> ojamajo_doremi precure toei_company mahou_shoujo_madoka_magica bishoujo_senshi_sailor_moon cardcaptor_sakura heartcatch_precure! mahou_tsukai_sally magic_knight_rayearth tokyo_mew_mew
+?jessica_sherawat -> resident_evil resident_evil:_revelations resident_evil_3:_nemesis resident_evil_3_(remake) resident_evil_6 pokemon resident_evil_4 resident_evil_5 resident_evil:_vendetta resident_evil:_revelations_2
