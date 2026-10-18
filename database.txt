@@ -5875,3 +5875,4 @@
 ?nyopu -> original monster_girl_encyclopedia cuddly_octopus darkstalkers kobayashi-san_chi_no_maidragon
 ?zornia_(shenqi_xiaohuang) -> original fate_(series) fate/grand_order
 ?palette_(project_moon) -> project_moon limbus_company
+?putty_(project_moon) -> project_moon limbus_company
