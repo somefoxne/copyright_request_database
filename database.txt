@@ -5114,3 +5114,4 @@
 ?serena_cadenzavna_eve -> senki_zesshou_symphogear senki_zesshou_symphogear_xd_unlimited darkstalkers wild_arms final_fantasy marvel super_sentai avengers_(series) wild_arms_2
 ?bellibolt -> pokemon pokemon_scarlet_and_violet pokemon_(anime) pokemon_horizons vocaloid pokemon_black_2_and_white_2 project_voltage pokemon_tcg denki_yohou_(vocaloid) pokemon_black_and_white
 ?darjeeling_(girls_und_panzer) -> girls_und_panzer girls_und_panzer_senshadou_daisakusen! gekitotsu!_joshikousei_oiroke_sensha_gundan girls_und_panzer_motto_love_love_sakusen_desu! kantai_collection girls_und_panzer_saishuushou fate_(series) gundam world_witches_series coca-cola
+?toki_(toxxy) -> original venture_seas
