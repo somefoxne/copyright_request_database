@@ -6001,3 +6001,4 @@
 ?pafhelo_sorian -> the_boy_who_fell
 ?leafan_(palworld) -> palworld
 ?pinku_(vtuber) -> atelier_live original indie_virtual_youtuber real_life twitter tsunderia beastiez iron_vertex
+?chico_(yuzuha_riko) -> stellive chainsaw_man sanrio kero_kero_keroppi the_wizard_of_oz
