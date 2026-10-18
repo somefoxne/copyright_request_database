@@ -5587,3 +5587,4 @@
 ?kokkoro_(princess_connect!) -> princess_connect! cygames granblue_fantasy idolmaster umamusume kono_subarashii_sekai_ni_shukufuku_wo! hololive blue_archive azur_lane idolmaster_cinderella_girls
 ?shimakaze_(azur_lane) -> azur_lane kantai_collection azur_lane:_slow_ahead dc_comics kobayashi-san_chi_no_maidragon teen_titans genshin_impact arknights zozotown
 ?ice-shroom_(plants_vs._zombies) -> plants_vs._zombies touhou plants_vs._zombies_2 one_piece zombie_land_saga
+?kommy_(swimsuit)_(trickcal) -> trickcal pink_floyd dark_side_of_the_moon
