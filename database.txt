@@ -5172,3 +5172,4 @@
 ?hawawa-chan_(sirokuma_shake) -> original comiket_102 comiket_107 comiket_106 comiket_103 comiket_108 shigoto_neko
 ?tenochtitlan_(celebratory_attire)_(fate) -> fate_(series) fate/grand_order
 ?staryu -> pokemon pokemon_legends:_z-a pokemon_(anime) pokemon_(classic_anime) pokemon_red/green/blue/yellow pokemon_firered_and_leafgreen pokemon_heartgold_and_soulsilver pokemon_the_series:_sun_&_moon pokemon_diamond/pearl/platinum
+?perseus_(azur_lane) -> azur_lane azur_lane:_slow_ahead comiket_107 microsoft_windows mona_lisa windows_10 atelier_(series) atelier_ryza comiket_105
