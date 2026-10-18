@@ -4364,3 +4364,4 @@
 ?kamikita_komari -> little_busters! key_(company) angel_beats! clannad kanon rewrite air_(visual_novel) charlotte_(anime) planetarian dango_daikazoku
 ?natsume_rin -> little_busters! key_(company) air_(visual_novel) angel_beats! kanon clannad rewrite dango_daikazoku planetarian summer_pockets
 ?saigusa_haruka -> little_busters! key_(company) angel_beats! clannad kanon rewrite air_(visual_novel) charlotte_(anime) planetarian kud_wafter
+?jogasaki_noah -> mahou_shoujo_no_majo_saiban book_off karaoke_manekineko comiket_108 treasure_cafe haishin_shoujo_no_uraaka_meikyuu mahou_shoujo_no_inshuu_mura shippaisaku_shoujo_(vocaloid) original bang_dream!
