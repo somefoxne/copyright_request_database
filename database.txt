@@ -5167,3 +5167,4 @@
 ?alomomola -> pokemon pokemon_black_and_white pokemon_black_2_and_white_2 pokemon_(anime) pokemon_sun_and_moon pokemon_scarlet_and_violet pokemon_the_series:_sun_&_moon pokemon_adventures pokemon_diamond/pearl/platinum
 ?corsola -> pokemon pokemon_(anime) pokemon_sun_and_moon pokemon_(classic_anime) pokemon_gold/silver/crystal pokemon_heartgold_and_soulsilver pokemon_sword_and_shield pokemon_ruby/sapphire/emerald pokemon_the_series:_sun_&_moon pokemon_black_and_white
 ?mantine -> pokemon pokemon_(anime) pokemon_black_2_and_white_2 pokemon_sword_and_shield pokemon_sun_and_moon pokemon_gold/silver/crystal pokemon_ruby/sapphire/emerald pokemon_black_and_white pokemon_(classic_anime) pokemon_adventures
+?mantyke -> pokemon pokemon_(anime) pokemon_diamond/pearl/platinum vocaloid pokemon_the_series:_ruby_and_sapphire pokemon_sword_and_shield pokemon_ranger_and_the_temple_of_the_sea pokemon_sun_and_moon pokemon_black_and_white
