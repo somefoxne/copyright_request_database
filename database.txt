@@ -6169,3 +6169,4 @@
 ?daiwa_scarlet_(casual)_(umamusume) -> umamusume pokemon original comiket_102 kantai_collection honkai_(series) honkai:_star_rail neon_genesis_evangelion re:zero_kara_hajimeru_isekai_seikatsu spongebob_squarepants_(series)
 ?vodka_(casual)_(umamusume) -> umamusume original youtube comiket_102 2channel gorillaz on_melancholy_hill otou-san_wa_shinpaishou
 ?dummy_(undertale) -> utdr_(toby_fox) deltarune undertale cutie_mew_mew_magic_(deltarune) vocaloid original magnet_(vocaloid) ganbare!_nakamura-kun!! goreshit nerds_(candy)
+?cid_nan_garlond -> final_fantasy final_fantasy_xiv final_fantasy_vii final_fantasy_vi final_fantasy_xi final_fantasy_ix final_fantasy_viii final_fantasy_x final_fantasy_iv final_fantasy_v
