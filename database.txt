@@ -5546,3 +5546,4 @@
 ?jurard_t_rexford -> holostars holostars_english hololive hololive_english hololive_indonesia pokemon umamusume indie_virtual_youtuber first_stage_production tomodachi_life
 ?koipanion_(josuiji_shinri) -> holostars holostars_english milgram pokemon hololive hololive_english sonic_(series) youtube barbie_(franchise) balatro
 ?machina_x_flayon -> holostars holostars_english hololive hololive_english hololive_indonesia mega_man_(series) protostar_twilight pokemon nijisanji nijisanji_en
+?octavio -> holostars holostars_english hololive hololive_english indie_virtual_youtuber hololive_indonesia string_theology_(octavio) pokemon hololive_dev_is umamusume
