@@ -5957,3 +5957,4 @@
 ?danbooru-tan -> danbooru_(site) yotsubato!
 ?seulbi_lee -> closers elsword vocaloid mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) dungeon_and_fighter microsoft_windows sega windows_10 silver_link
 ?angel_(omori) -> omori
+?artist_(omori) -> omori
