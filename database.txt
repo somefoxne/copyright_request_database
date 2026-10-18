@@ -5662,3 +5662,4 @@
 ?tung_tung_tung_sahur -> original zenless_zone_zero blue_archive hololive arknights umamusume vocaloid arknights:_endfield honkai_(series) honkai:_star_rail
 ?zhong_lanzhu -> love_live! love_live!_nijigasaki_high_school_idol_club love_live!_nijigasaki_high_school_idol_club_the_movie_-_finale eutopia_(love_live!) love_live!_school_idol_festival_all_stars phoenix_(love_live!) queendom_(love_live!) love_live!_superstar!! love_live!_sunshine!! nijiyon
 ?cure_melody -> precure suite_precure heartcatch_precure! fresh_precure! smile_precure! futari_wa_precure yes!_precure_5 futari_wa_precure_splash_star dokidoki!_precure yes!_precure_5_gogo!
+?scizor -> pokemon pokemon_heartgold_and_soulsilver pokemon_gold/silver/crystal pokemon_scarlet_and_violet pokemon_masters_ex pokemon_adventures pokemon_sun_and_moon pokemon_(anime) original touhou
