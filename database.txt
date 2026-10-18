@@ -4897,3 +4897,4 @@
 ?saika_suiren_(vtuber) -> .live indie_virtual_youtuber
 ?heixiu -> the_legend_of_luo_xiaohei arknights lanxi_zhen final_fantasy chainsaw_man final_fantasy_xiv kimetsu_no_yaiba spy_x_family ensemble_stars! monster_hunter_(series)
 ?samidare_(kancolle) -> kantai_collection line_(naver) aoki_hagane_no_arpeggio pokemon lawson choo_choo_train azur_lane gundam ring_fit_adventure idolmaster
+?comoli_harcourt -> gundam gundam_gquuuuuux mobile_suit_gundam g_gundam i_can_friday_by_day! zeta_gundam gundam_seed armored_core gundam_seed_freedom turn_a_gundam
