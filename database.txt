@@ -5370,3 +5370,4 @@
 ?chisa_(peach_parfait)_(wuthering_waves) -> wuthering_waves blue_archive spice_and_wolf the_weaker_sex_1_(gibson)
 ?akiyoshi_fuyuka -> kanojo_no_seiiki dengeki_moeoh
 ?shinme_(kemono_friends) -> kemono_friends kemono_friends_3 umamusume real_life sengoku_basara japan_racing_association midori_no_makibaoo
+?daring_heart_(daring_darling!)_(umamusume) -> umamusume real_life
