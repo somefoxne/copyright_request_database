@@ -5712,3 +5712,4 @@
 ?yohack -> live_a_hero zenless_zone_zero oshi_no_ko jaws_(movie)
 ?amano_akari -> tonari_no_kyuuketsuki-san uchi_no_maid_ga_uzasugiru! watashi_ni_tenshi_ga_maiorita! kin-iro_mosaic slow_start comic_girls anima_yell!
 ?sophie_twilight -> tonari_no_kyuuketsuki-san gochuumon_wa_usagi_desu_ka? kin-iro_mosaic apple_inc. uchi_no_maid_ga_uzasugiru! kantai_collection gundam yu-gi-oh! kobayashi-san_chi_no_maidragon to_heart_(series)
+?tokoyami_towa_(shady_hammock_days) -> hololive hololive_dreams
