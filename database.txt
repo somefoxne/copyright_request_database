@@ -6144,3 +6144,4 @@
 ?aisaka_taiga -> toradora! shakugan_no_shana zero_no_tsukaima toaru_majutsu_no_index suzumiya_haruhi_no_yuuutsu toaru_kagaku_no_railgun vocaloid hayate_no_gotoku! idolmaster k-on!
 ?lenna_(girls'_frontline_2) -> jojo_no_kimyou_na_bouken project_moon limbus_company stardust_crusaders comiket_107 helldivers_(series) the_shining
 ?ump9_(girls'_frontline) -> kantai_collection metal_gear_(series) va-11_hall-a arknights azur_lane world_cup
+?momo_(trickcal) -> trickcal
