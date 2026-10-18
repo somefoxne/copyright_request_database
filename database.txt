@@ -5153,3 +5153,4 @@
 ?clair_(pokemon) -> pokemon pokemon_heartgold_and_soulsilver pokemon_gold/silver/crystal pokemon_masters_ex pokemon_firered_and_leafgreen pokemon_diamond/pearl/platinum pokemon_sword_and_shield pokemon_black_and_white pokemon_x_and_y pokemon_black_2_and_white_2
 ?kingdra -> pokemon pokemon_heartgold_and_soulsilver pokemon_gold/silver/crystal pokemon_black_and_white pokemon_ruby/sapphire/emerald pokemon_scarlet_and_violet pokemon_diamond/pearl/platinum pokemon_(anime) pokemon_firered_and_leafgreen pokemon_(classic_anime)
 ?yeon_dongha -> paradox_live sanrio
+?captain_hannah -> indie_virtual_youtuber vshojo original zenless_zone_zero twitter vedal_ai
