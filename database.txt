@@ -4673,3 +4673,4 @@
 ?fukawa_toko -> danganronpa_(series) danganronpa:_trigger_happy_havoc danganronpa_another_episode:_ultra_despair_girls danganronpa_2:_goodbye_despair danganronpa_v3:_killing_harmony danganronpa/zero danganronpa_s:_ultimate_summer_camp
 ?monokuma -> danganronpa_(series) danganronpa:_trigger_happy_havoc danganronpa_2:_goodbye_despair danganronpa_v3:_killing_harmony danganronpa_another_episode:_ultra_despair_girls danganronpa/zero pokemon
 ?monokuma_kid -> danganronpa_(series) danganronpa_another_episode:_ultra_despair_girls danganronpa_2:_goodbye_despair danganronpa:_trigger_happy_havoc
+?naegi_komaru -> danganronpa_(series) danganronpa_another_episode:_ultra_despair_girls danganronpa:_trigger_happy_havoc danganronpa_2:_goodbye_despair danganronpa_v3:_killing_harmony danganronpa/zero danganronpa_s:_ultimate_summer_camp
