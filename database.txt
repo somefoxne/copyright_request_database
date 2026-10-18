@@ -5975,3 +5975,4 @@
 ?daphne_(omori) -> omori the_coffin_of_andy_and_leyley
 ?mikhael_(omori) -> omori the_coffin_of_andy_and_leyley okusuri_nonde_neyou_(vocaloid)
 ?triss_(closers) -> closers
+?baobhan_sith_(swimsuit_pretender)_(second_ascension)_(fate) -> fate_(series) fate/grand_order original comiket_103 tsukihime one_piece panty_&_stocking_with_garterbelt rabbit_hole_(vocaloid) fate/grand_order_arcade
