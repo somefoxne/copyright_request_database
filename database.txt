@@ -5621,3 +5621,4 @@
 ?amatsukaze_kai_ni_(kancolle) -> kantai_collection azur_lane gundam gundam_gquuuuuux puyopuyo comiket_103
 ?safi'jiiva -> monster_hunter_(series) monster_hunter:_world monster_hunter_world:_iceborne godzilla_(series) monsterverse godzilla:_king_of_the_monsters zenless_zone_zero godzilla_(2014)
 ?glorp -> vocaloid original indie_virtual_youtuber utau synthesizer_v needy_girl_overdose minecraft coca-cola mesmerizer_(vocaloid) olympics
+?serizawa_asahi -> idolmaster idolmaster_shiny_colors idolmaster_shiny_colors_song_for_prism idolmaster_cinderella_girls gakuen_idolmaster idolmaster_million_live! idolmaster_(classic) idolmaster_side-m little_red_riding_hood_(fairy_tale) gundam
