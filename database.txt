@@ -4394,3 +4394,4 @@
 ?nono_(ayanepuna) -> original
 ?shio_(ayanepuna) -> original final_fantasy gochuumon_wa_usagi_desu_ka? final_fantasy_iv
 ?felix_argyle -> re:zero_kara_hajimeru_isekai_seikatsu fate_(series) fate/grand_order guilty_gear fate/apocrypha guilty_gear_strive blend_s genshin_impact re:zero_kara_hajimeru_isekai_seikatsu:_lost_in_memories original
+?gaara_(naruto) -> naruto_(series) naruto_shippuuden naruto_(classic) boruto_(series) boruto:_naruto_next_generations naruto_shippuuden:_ultimate_ninja_blazing naruto:_the_last pokemon dragon_ball hentai_key
