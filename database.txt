@@ -5430,3 +5430,4 @@
 ?saint-germain_(symphogear) -> senki_zesshou_symphogear senki_zesshou_symphogear_xd_unlimited fate_(series) genshin_impact persona fate/stay_night persona_5 kill_la_kill bungou_stray_dogs symphogear_live
 ?oomaeda_marechiyo -> bleach bleach:_sennen_kessen-hen bleach:_epilogue jujutsu_kaisen bleach:_zanpakutou_ibun_hen bleach:_memories_of_nobody bleach:_fade_to_black bleach:_jigoku-hen bleach:_the_diamonddust_rebellion
 ?linnea_(genshin_impact) -> genshin_impact honkai_(series) mihoyo honkai:_star_rail baskin-robbins honkai_impact_3rd zenless_zone_zero wuthering_waves kantai_collection mario_(series)
+?ouro_kronii_(4th_costume) -> hololive hololive_english hololive_indonesia minecraft chainsaw_man hololive_official_card_game the_fallen_angel_(painting) buckshot_roulette mafia_(vocaloid) pokemon
