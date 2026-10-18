@@ -4731,3 +4731,4 @@
 ?shinkouhyou -> houshin_engi touhou hunter_x_hunter pokemon vocaloid one_piece neon_genesis_evangelion kirby_(series) axis_powers_hetalia
 ?unnamed_girl_(inubouzaki) -> original
 ?peachy_(tnso) -> degrees_of_lewdity original
+?takizawa_asuka -> precure tropical-rouge!_precure hirogaru_sky!_precure star_twinkle_precure heartcatch_precure! smile_precure! kirakira_precure_a_la_mode delicious_party_precure futari_wa_precure yes!_precure_5
