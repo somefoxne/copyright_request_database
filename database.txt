@@ -4817,3 +4817,4 @@
 ?illustrious_(azur_lane) -> azur_lane fate_(series) fate/grand_order warship_girls_r original kantai_collection genshin_impact comiket_108 touhou
 ?illustrious_(wandering_glow_of_midnight)_(azur_lane) -> azur_lane
 ?runami_yachiyo_(wego) -> cho_kaguya-hime! wego star_wars the_mandalorian gokushufudou
+?sakayori_iroha_(wego) -> cho_kaguya-hime! wego star_wars the_mandalorian gokushufudou
