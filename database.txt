@@ -5303,3 +5303,4 @@
 ?royal_guard_01_(undertale) -> utdr_(toby_fox) undertale deltarune original touhou cookie_(touhou)
 ?royal_guard_02_(undertale) -> utdr_(toby_fox) undertale deltarune original touhou cookie_(touhou)
 ?shyren -> utdr_(toby_fox) undertale deltarune original
+?temmie -> utdr_(toby_fox) undertale deltarune touhou original minecraft pokemon mahou_shoujo_madoka_magica the_legend_of_zelda splatoon_(series)
