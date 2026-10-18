@@ -5970,3 +5970,4 @@
 ?aeri_(closers) -> closers
 ?mirae_(closers) -> closers original me!me!me! azur_lane
 ?eunha_(closers) -> closers blue_archive
+?usedcvnt_(character) -> original
