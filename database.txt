@@ -4430,3 +4430,4 @@
 ?seaport_princess -> kantai_collection moomin neon_genesis_evangelion original touhou lawson fate_(series) kantai_collection_(anime) non_non_biyori
 ?selimiye_(seer_in_a_bind)_(azur_lane) -> azur_lane
 ?hotarugusa_(onmyoji) -> onmyoji pokemon genshin_impact mononoke
+?boko_(girls_und_panzer) -> girls_und_panzer girls_und_panzer_senshadou_daisakusen! gekitotsu!_joshikousei_oiroke_sensha_gundan girls_und_panzer_motto_love_love_sakusen_desu! kantai_collection girls_und_panzer_saishuushou girls_und_panzer_ribbon_no_musha idolmaster idolmaster_cinderella_girls
