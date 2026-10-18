@@ -6259,3 +6259,4 @@
 ?flame_princess -> adventure_time my_little_pony my_little_pony:_friendship_is_magic chainsaw_man pokemon steven_universe adventure_time:_fionna_and_cake jojo_no_kimyou_na_bouken persona neon_genesis_evangelion
 ?ume_aino -> indie_virtual_youtuber
 ?irys_(irys_2.0)_(hololive) -> hololive hololive_english hololive_indonesia enigmatic_recollection pokemon carbonated_love_(hololive) dragon_ball mumei_(song)_(hololive) chrono_gear:_warden_of_time goddess_of_victory:_nikke
+?cecil_harvey -> final_fantasy final_fantasy_iv dissidia_final_fantasy final_fantasy_vii final_fantasy_vi final_fantasy_ii final_fantasy_v final_fantasy_x final_fantasy_viii final_fantasy_i
