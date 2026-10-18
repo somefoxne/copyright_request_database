@@ -5170,3 +5170,4 @@
 ?mantyke -> pokemon pokemon_(anime) pokemon_diamond/pearl/platinum vocaloid pokemon_the_series:_ruby_and_sapphire pokemon_sword_and_shield pokemon_ranger_and_the_temple_of_the_sea pokemon_sun_and_moon pokemon_black_and_white
 ?hawawa-chan's_sister_(sirokuma_shake) -> original
 ?hawawa-chan_(sirokuma_shake) -> original comiket_102 comiket_107 comiket_106 comiket_103 comiket_108 shigoto_neko
+?tenochtitlan_(celebratory_attire)_(fate) -> fate_(series) fate/grand_order
