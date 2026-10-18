@@ -4557,3 +4557,4 @@
 ?mieu_(phantasy_star) -> phantasy_star phantasy_star_iii phantasy_star_online phantasy_star_ii phantasy_star_iv sonic_(series) puyopuyo ryuu_ga_gotoku_(series) sonic_the_hedgehog_(classic) virtua_fighter
 ?shiin_(phantasy_star) -> phantasy_star phantasy_star_iii
 ?jane_doe_(nocturne_of_light)_(zenless_zone_zero) -> zenless_zone_zero hololive hololive_english indie_virtual_youtuber boobwatch_(2011) original blue_archive genshin_impact honkai_(series) honkai:_star_rail
+?john_doe_(zenless_zone_zero)_(scopeophilia) -> zenless_zone_zero original genshin_impact mihoyo ratatouille
