@@ -5179,3 +5179,4 @@
 ?carmen_(project_moon) -> project_moon lobotomy_corporation library_of_ruina limbus_company arknights the_distortion_detective leviathan_(project_moon) goddess_of_victory:_nikke chainsaw_man utdr_(toby_fox)
 ?tasha_(ace_combat) -> ace_combat ace_combat_8 top_gun top_gun:_maverick umamusume armored_core grand_theft_auto armored_core_vi:_fires_of_rubicon ace_combat_7 grand_theft_auto:_san_andreas
 ?joshua_bright -> eiyuu_densetsu sora_no_kiseki sora_no_kiseki_fc sora_no_kiseki_sc sen_no_kiseki_(series) sen_no_kiseki_iv falcom kuro_no_kiseki_(series) zero_no_kiseki ys
+?corbeau_(pokemon) -> pokemon pokemon_legends:_z-a pokemon_scarlet_and_violet pokemon_sun_and_moon pokemon_sword_and_shield pokemon_x_and_y original pokemon_diamond/pearl/platinum pokemon_masters_ex pokemon_heartgold_and_soulsilver
