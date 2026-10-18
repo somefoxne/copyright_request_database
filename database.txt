@@ -4503,3 +4503,4 @@
 ?minato_aqua_(sailor) -> hololive apex_legends hololive_english hololive_indonesia pokemon nijisanji hololive_dev_is mario_(series) minecraft original
 ?nerine -> shuffle! lyrical_nanoha suzumiya_haruhi_no_yuuutsu fate_(series) fate/stay_night mahou_shoujo_lyrical_nanoha to_heart_(series) megami_magazine shakugan_no_shana rozen_maiden
 ?akigumo_(starward) -> starward
+?mabel_pines -> gravity_falls reverse_falls_(gravity_falls) transcendence_au_(gravity_falls) monster_falls_(gravity_falls) vocaloid sanrio disney book_of_bill pokemon jujutsu_kaisen
