@@ -6267,3 +6267,4 @@
 ?haruka_(senran_kagura) -> senran_kagura senran_kagura_new_wave senran_kagura_new_link senran_kagura_shinovi_versus senran_kagura_estival_versus senran_kagura_burst senran_kagura_burst_re:newal senran_kagura_peach_ball senran_kagura_peach_beach_splash
 ?yu_zhu -> legend_of_mortal
 ?lena_(phantasy_star) -> phantasy_star phantasy_star_iii sega
+?versusia_(granblue_fantasy_versus:_rising) -> granblue_fantasy granblue_fantasy_versus:_rising nier_(series) nier:automata
