@@ -4362,3 +4362,4 @@
 ?ijichi_kotoko -> otaku_ni_yasashii_gal_wa_inai!?
 ?inohara_masato -> little_busters! key_(company) angel_beats! clannad kanon summer_pockets rewrite air_(visual_novel) charlotte_(anime) kud_wafter
 ?kamikita_komari -> little_busters! key_(company) angel_beats! clannad kanon rewrite air_(visual_novel) charlotte_(anime) planetarian dango_daikazoku
+?natsume_rin -> little_busters! key_(company) air_(visual_novel) angel_beats! kanon clannad rewrite dango_daikazoku planetarian summer_pockets
