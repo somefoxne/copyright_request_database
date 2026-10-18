@@ -5297,3 +5297,4 @@
 ?mettaton_(box) -> utdr_(toby_fox) undertale deltarune pokemon kirby_(series) tengen_toppa_gurren_lagann cave_story touhou danganronpa_(series) jojo_no_kimyou_na_bouken
 ?mettaton_ex -> utdr_(toby_fox) undertale deltarune xtale pokemon epictale mario_(series) sonic_(series) kirby_(series) animal_crossing
 ?monster_kid_(undertale) -> utdr_(toby_fox) undertale deltarune undertale_yellow dungeons_&_dragons pokemon ib_(kouri) suishitai_wa_koi_shitai_(vocaloid) original touhou
+?napstablook -> utdr_(toby_fox) undertale deltarune pokemon mario_(series) touhou minecraft omori animal_crossing pac-man_(game)
