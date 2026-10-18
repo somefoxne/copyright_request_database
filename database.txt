@@ -5658,3 +5658,4 @@
 ?shikigi_lyla -> girls_frantic_clan
 ?dana_(pokemon) -> pokemon pokemon_x_and_y pokemon_omega_ruby_and_alpha_sapphire pokemon_masters_ex pokemon_diamond/pearl/platinum pokemon_sword_and_shield pokemon_black_2_and_white_2 pokemon_ruby/sapphire/emerald pokemon_(anime) pokemon_sun_and_moon
 ?sakura_shiori_(koi_yori_aoku) -> koi_yori_aoku
+?takamine_tsukasa -> koi_yori_aoku
