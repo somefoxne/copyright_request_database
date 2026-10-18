@@ -4491,3 +4491,4 @@
 ?chicchai_no_(chiccha_na_watashi) -> chiccha_na_watashi_(synthesizer_v) utau synthesizer_v liar_dancer_(synthesizer_v) ultra_trailer_(synthesizer_v) musekinin_shuugoutai_(synthesizer_v) igaku_(utau) hito_mania_(utau) override_(synthesizer_v) suki_na_souzai_happyou_dragon_(utau)
 ?suu_(monster_musume) -> monster_musume_no_iru_nichijou monster_musume_no_iru_nichijou_online original kono_subarashii_sekai_ni_shukufuku_wo! neko_musume_michikusa_nikki centaur_no_nayami pokemon idolmaster idolmaster_cinderella_girls splatoon_(series)
 ?melony_(smg4) -> smg4 original pokemon vocaloid indie_virtual_youtuber mario_(series) hellaverse my_little_pony my_little_pony:_friendship_is_magic inuyasha
+?frankie_foster -> powerpuff_girls dragon_ball cartoon_network dragon_ball_z dc_comics the_fairly_oddparents teen_titans the_grim_adventures_of_billy_&_mandy the_amazing_world_of_gumball
