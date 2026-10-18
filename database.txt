@@ -4884,3 +4884,4 @@
 ?sykes_(astral_party) -> astral_party
 ?lucia_elowen -> zenless_zone_zero genshin_impact sushiro snow_white_(fairy_tale) elden_ring mihoyo original splatoon_(series) jujutsu_kaisen elden_ring_nightreign
 ?kamanosuke_(zenless_zone_zero) -> zenless_zone_zero sushiro mihoyo genshin_impact honkai_(series) honkai:_star_rail comiket_107 splatoon_(series) gigo touhou
+?raa_(sonic) -> sonic_(series) sonic_unleashed sonic:_night_of_the_werehog sonic_riders_(series) sonic_and_the_black_knight sonic_and_the_secret_rings mario_(series) new_super_mario_bros._u_deluxe sonic_the_hedgehog_(classic)
