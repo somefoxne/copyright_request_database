@@ -6056,3 +6056,4 @@
 ?keqing_(genshin_impact) -> genshin_impact honkai_(series) mihoyo honkai_impact_3rd original honkai:_star_rail fate_(series) fate/grand_order horizon_(game) arknights
 ?divine_beast_of_harvest_mayreel -> guardian_tales jikkyou_powerful_pro_yakyuu
 ?yura_(kagurabachi) -> kagurabachi jujutsu_kaisen aizo_(king_gnu)
+?patricia_martin -> lucky_star suzumiya_haruhi_no_yuuutsu vocaloid k-on! touhou neon_genesis_evangelion idolmaster lyrical_nanoha spice_and_wolf kannagi
