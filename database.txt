@@ -5302,3 +5302,4 @@
 ?papyrus_(undertale) -> utdr_(toby_fox) undertale touhou downtown_no_gaki_no_tsukai_ya_arahende!! pokemon deltarune mario_(series) sonic_(series) omori among_us
 ?royal_guard_01_(undertale) -> utdr_(toby_fox) undertale deltarune original touhou cookie_(touhou)
 ?royal_guard_02_(undertale) -> utdr_(toby_fox) undertale deltarune original touhou cookie_(touhou)
+?shyren -> utdr_(toby_fox) undertale deltarune original
