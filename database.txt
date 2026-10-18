@@ -5159,3 +5159,4 @@
 ?tenochtitlan_(swimsuit_mooncancer)_(third_ascension)_(fate) -> fate_(series) fate/grand_order pokemon oshi_no_ko pokemon_tcg comiket_105 touhou rabbit_hole_(vocaloid) shokunin_to_hitozuma
 ?sonia_(academy)_(pokemon) -> pokemon pokemon_masters_ex pokemon_sword_and_shield pokemon_scarlet_and_violet pokemon_sun_and_moon pokemon_diamond/pearl/platinum
 ?fujimoto_rina -> idolmaster idolmaster_cinderella_girls idolmaster_cinderella_girls_starlight_stage cinderella_girls_gekijou idolmaster_million_live! idolmaster_(classic) idolmaster_side-m yokohama_dena_baystars pokemon hololive
+?allister_(pokemon) -> pokemon pokemon_sword_and_shield pokemon_x_and_y pokemon_masters_ex pokemon_sun_and_moon pokemon_scarlet_and_violet pokemon_(anime) pokemon_heartgold_and_soulsilver pokemon_black_and_white pokemon:_twilight_wings
