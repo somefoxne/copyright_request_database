@@ -6065,3 +6065,4 @@
 ?carleen_(alchemy_stars) -> alchemy_stars minecraft plants_vs._zombies pac-man_(game) touhou pokemon umamusume zenless_zone_zero precure danganronpa_(series)
 ?carleen_(sea_breeze)_(alchemy_stars) -> alchemy_stars punishing:_gray_raven
 ?boyfriend_(friday_night_funkin') -> utdr_(toby_fox) undertale vocaloid pico_(newgrounds_series) deltarune the_amazing_digital_circus omori cuphead_(game) original
+?girlfriend_(friday_night_funkin') -> pico_(newgrounds_series) sonic_(series) utdr_(toby_fox) original pokemon undertale cuphead_(game) mario_(series)
