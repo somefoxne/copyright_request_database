@@ -6227,3 +6227,4 @@
 ?blair_(soul_eater) -> soul_eater bleach majo_no_takkyuubin touhou mahou_shoujo_madoka_magica lucky_star mahou_shoujo_madoka_magica_(anime) little_witch_academia original hololive
 ?nyudachi -> indie_virtual_youtuber gelbooru blue_archive
 ?abarai_renji -> bleach bleach:_epilogue bleach:_sennen_kessen-hen bleach:_the_high_school_warfare death_note fate_(series) one_piece fate/stay_night bleach:_zanpakutou_ibun_hen bleach:_we_do_knot_always_love_you
+?red_sniper_(tf2) -> team_fortress_2 hololive zenless_zone_zero hololive_english original touhou mario_(series) pokemon vocaloid marvel
