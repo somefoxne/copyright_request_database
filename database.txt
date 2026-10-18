@@ -4392,3 +4392,4 @@
 ?sakura_futaba -> persona persona_5 persona_5_the_royal persona_4 persona_dancing persona_5_scramble:_the_phantom_strikers persona_3 persona_5:_dancing_star_night fire_emblem splatoon_(series)
 ?pulchra_fellini -> zenless_zone_zero genshin_impact mihoyo honkai_(series) honkai:_star_rail hellaverse helluva_boss pokemon kemono_friends utdr_(toby_fox)
 ?nono_(ayanepuna) -> original
+?shio_(ayanepuna) -> original final_fantasy gochuumon_wa_usagi_desu_ka? final_fantasy_iv
