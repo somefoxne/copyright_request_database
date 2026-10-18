@@ -5778,3 +5778,4 @@
 ?storm_(x-men) -> marvel x-men marvel_rivals spider-man_(series) marvel_tokon:_fighting_souls fantastic_four avengers_(series) marvel_vs._capcom the_incredible_hulk_(series) street_fighter
 ?wolverine_(x-men) -> marvel x-men deadpool_(series) deadpool_&_wolverine x-men_movie_series x-men_origins:_wolverine spider-man_(series) the_incredible_hulk_(series) marvel_vs._capcom street_fighter
 ?sukune_maron -> duel_masters dragon_musume_ni_naritakunai!
+?riolu -> pokemon pokemon_diamond/pearl/platinum pokemon_mystery_dungeon pokemon_(anime) pokemon_mystery_dungeon:_explorers_of_time/darkness/sky pokemon_black_2_and_white_2 original pokemon_journeys pokemon_legends:_arceus pokemon_platinum
