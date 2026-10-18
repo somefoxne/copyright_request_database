@@ -5750,3 +5750,4 @@
 ?tuye_(fabulous_beasts) -> fabulous_beasts
 ?wedding_(summer)_(duel_masters) -> duel_masters
 ?great_grey_wolf_sif -> dark_souls_(series) dark_souls_i elden_ring dark_souls_iii ookami_(game) pokemon elden_ring_nightreign fromsoftware persona tales_of_(series)
+?kanzarin_(vtuber) -> indie_virtual_youtuber original comiket_104 comiket_106 comiket_101 sanrio twitter my_melody_(series) comiket_105 comiket_108
