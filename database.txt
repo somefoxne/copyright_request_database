@@ -5967,3 +5967,4 @@
 ?seth_(closers) -> closers kantai_collection elsword
 ?bai_winchester -> closers
 ?yoon_ria_(closers) -> closers
+?aeri_(closers) -> closers
