@@ -5592,3 +5592,4 @@
 ?apollousa_bow_of_the_goddess -> yu-gi-oh! yu-gi-oh!_vrains yu-gi-oh!_master_duel sono_bisque_doll_wa_koi_wo_suru comiket_105
 ?sky_striker_ace_-_raye -> yu-gi-oh! yu-gi-oh!_master_duel original yu-gi-oh!_duel_monsters bocchi_the_rock! dragon_ball jujutsu_kaisen yu-gi-oh!_duel_links fate_(series) fate/grand_order
 ?sakiri_(nte) -> neverness_to_everness
+?meluna_(trickcal) -> trickcal
