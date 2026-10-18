@@ -4453,3 +4453,4 @@
 ?shiori_novella_(1st_costume) -> hololive hololive_english enigmatic_recollection hololive_indonesia hololive_dev_is holostars holostars_english left_4_dead left_4_dead_2
 ?hirasawa_yui -> k-on! k-on!_movie listen!! suzumiya_haruhi_no_yuuutsu no_thank_you!_(k-on!) lucky_star kyoto_animation singing!_(k-on!) vocaloid
 ?bucky_(chainsaw_man) -> chainsaw_man neon_genesis_evangelion the_beatles abbey_road touhou gundam one_piece mario_(series) jujutsu_kaisen bleach
+?morimoto_reina -> discipline:_the_record_of_a_crusade
