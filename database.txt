@@ -5382,3 +5382,4 @@
 ?shimamura_charlotte -> nanashi_inc. indie_virtual_youtuber pokemon .live nijisanji pokemon_sword_and_shield marvel spider-man_(series) shigoto_neko touhou
 ?luuk_herssen_(wuthering_waves) -> wuthering_waves cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 punishing:_gray_raven kuro_games fate_(series) fate/grand_order irasutoya comicup_32_pre
 ?qiuyuan_(wuthering_waves) -> wuthering_waves pash_(magazine) ipstar punishing:_gray_raven kuro_games kfc comicup_32_pre chips_ahoy! pokemon mahou_shoujo_madoka_magica
+?chiyoda_(kancolle) -> kantai_collection line_(naver) aoki_hagane_no_arpeggio original touhou gundam hokuto_no_ken moomin umamusume neon_genesis_evangelion
