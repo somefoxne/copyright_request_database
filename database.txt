@@ -5244,3 +5244,4 @@
 ?sasha_(haguhagu) -> original sasha-chan_to_classmate_otaku-kun youtube pokemon fate_(series) fate/grand_order dc_comics wizarding_world harry_potter_(series) batman_(series)
 ?arumi_(reia_76) -> original
 ?ichikawa_hinana -> idolmaster idolmaster_shiny_colors idolmaster_shiny_colors_song_for_prism mahjong_soul dars pokemon idolmaster_cinderella_girls chainsaw_man idolmaster_(classic) wizarding_world
+?orfevre_(control)_(umamusume) -> umamusume real_life original jojo_no_kimyou_na_bouken umamusume:_cinderella_gray japan_racing_association fate_(series) pokemon fate/stay_night vento_aureo
