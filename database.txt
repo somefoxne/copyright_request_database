@@ -4441,3 +4441,4 @@
 ?tamanoi_nana_(1st_costume) -> nijisanji nijisanji_en nijisanji_kr vspo! animal_crossing minecraft nijisanji_id weather_planet ruridragon
 ?diana_cavendish -> little_witch_academia trigger_(company) kill_la_kill wizarding_world original harry_potter_(series) mahou_shoujo_madoka_magica pokemon mahou_shoujo_madoka_magica_(anime) rwby
 ?kagari_atsuko -> little_witch_academia trigger_(company) kill_la_kill brand_new_animal majo_no_takkyuubin uchuu_patrol_luluco mahou_shoujo_madoka_magica kobayashi-san_chi_no_maidragon promare tengen_toppa_gurren_lagann
+?cosmo_(chainsaw_man) -> chainsaw_man umamusume it_(stephen_king) frankenstein ao_oni original genshin_impact final_fantasy mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime)
