@@ -5038,3 +5038,4 @@
 ?hamad_(jinki) -> jinki
 ?hiiragi_akao -> jinki jinki_extend_re:vision kantai_collection megami_magazine idolmaster lyrical_nanoha suzumiya_haruhi_no_yuuutsu lucky_star higurashi_no_naku_koro_ni mahou_shoujo_lyrical_nanoha_strikers
 ?satone_(chill_with_you) -> chill_with_you:_lo-fi_story cardcaptor_sakura magical_princess_(game)
+?tomoe_shiruko -> amaizo!_dango
