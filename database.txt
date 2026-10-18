@@ -5280,3 +5280,4 @@
 ?pursena_adoldia -> mushoku_tensei hololive hololive_english jujutsu_kaisen megami_magazine trickcal inuyasha utawarerumono_(series) utawarerumono:_chiriyuku_mono_e_no_komoriuta shikanoko_nokonoko_koshitantan
 ?hackmon_(digimon) -> digimon digimon_card_game digimon_universe:_appli_monsters digimon_adventure digimon_adventure_02 digimon_tamers digimon_liberator digimon_frontier digimon_story:_cyber_sleuth digimon_xros_wars
 ?impmon -> digimon digimon_tamers digimon_card_game digimon_liberator digimon_adventure_02 digimon_frontier digimon_adventure digimon_xros_wars digimon_savers original
+?yuuki_(digimon) -> digimon digimon_liberator digimon_card_game digimon_beatbreak digimon_story:_cyber_sleuth digimon_story:_time_stranger indie_virtual_youtuber precure meitantei_precure! super_sentai
