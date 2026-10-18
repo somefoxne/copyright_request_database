@@ -5580,3 +5580,4 @@
 ?shikinagi_akira_(1st_costume) -> nijisanji nijisanji_en nijisanji_kr nijisanji_id bakushou_(song) youtube mona_lisa the_creation_of_adam girl_with_a_pearl_earring the_scream
 ?watarai_hibari_(1st_costume) -> nijisanji nijisanji_en vspo! nijisanji_kr crazy_raccoon nijisanji_id touhou danganronpa_(series) danganronpa_v3:_killing_harmony touhou_(pc-98)
 ?echo_ex_lantern -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_double_shadow
+?inuyasha_(character) -> inuyasha ranma_1/2 urusei_yatsura kyoukai_no_rinne meitantei_conan shounen_sunday naruto_(series) pokemon one_piece
