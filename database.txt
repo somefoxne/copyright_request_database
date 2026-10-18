@@ -4733,3 +4733,4 @@
 ?peachy_(tnso) -> degrees_of_lewdity original
 ?takizawa_asuka -> precure tropical-rouge!_precure hirogaru_sky!_precure star_twinkle_precure heartcatch_precure! smile_precure! kirakira_precure_a_la_mode delicious_party_precure futari_wa_precure yes!_precure_5
 ?felicia_(fire_emblem) -> fire_emblem fire_emblem_fates fire_emblem_heroes fire_emblem_awakening fire_emblem:_three_houses fire_emblem_cipher fire_emblem_echoes:_shadows_of_valentia fire_emblem:_path_of_radiance fire_emblem:_the_binding_blade fire_emblem:_the_blazing_blade
+?seele_vollerei_(stygian_nymph) -> honkai_(series) honkai_impact_3rd honkai:_star_rail mihoyo genshin_impact zenless_zone_zero azur_lane neon_genesis_evangelion sonic_(series) rebuild_of_evangelion
