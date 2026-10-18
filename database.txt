@@ -5258,3 +5258,4 @@
 ?kisume -> touhou subterranean_animism touhou_(pc-98) reitaisai reitaisai_8_contest mountain_of_faith embodiment_of_scarlet_devil imperishable_night perfect_cherry_blossom undefined_fantastic_object
 ?kisaragi_ren_(vspo!) -> vspo! nijisanji street_fighter street_fighter_6 apex_legends kantai_collection xross_stars nijisanji_en nanashi_inc. comiket_102
 ?akane_(momikyo) -> original
+?blair_labri -> indie_virtual_youtuber
