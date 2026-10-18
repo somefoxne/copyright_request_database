@@ -5301,3 +5301,4 @@
 ?nice_cream_guy -> utdr_(toby_fox) undertale deltarune original pokemon final_fantasy danganronpa_(series) the_legend_of_zelda mario_(series) danganronpa_v3:_killing_harmony
 ?papyrus_(undertale) -> utdr_(toby_fox) undertale touhou downtown_no_gaki_no_tsukai_ya_arahende!! pokemon deltarune mario_(series) sonic_(series) omori among_us
 ?royal_guard_01_(undertale) -> utdr_(toby_fox) undertale deltarune original touhou cookie_(touhou)
+?royal_guard_02_(undertale) -> utdr_(toby_fox) undertale deltarune original touhou cookie_(touhou)
