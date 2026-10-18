@@ -6239,3 +6239,4 @@
 ?kamiya_kaoru -> rurouni_kenshin idolmaster idolmaster_cinderella_girls gintama hakuouki_shinsengumi_kitan fate_(series) yu-gi-oh! fate/stay_night bishoujo_senshi_sailor_moon spy_x_family
 ?kokonoe_rin -> kodomo_no_jikan megami_magazine clannad lucky_star vocaloid zero_no_tsukaima shakugan_no_shana idolmaster lyrical_nanoha da_capo
 ?fortuna_(re:zero) -> re:zero_kara_hajimeru_isekai_seikatsu original newtype
+?sophie_(tales) -> tales_of_(series) tales_of_graces tales_of_graces_f tales_of_asteria tales_of_vesperia tales_of_the_abyss tales_of_symphonia tales_of_xillia tales_of_destiny tales_of_phantasia
