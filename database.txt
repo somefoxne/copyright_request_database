@@ -5409,3 +5409,4 @@
 ?hisui_(cookie) -> touhou cookie_(touhou) manatsu_no_yo_no_inmu pokemon niconico yu-gi-oh! magic:_the_gathering shinza_bansho_series dies_irae jojo_no_kimyou_na_bouken
 ?jeanne_d'arc_alter_(avenger)_(fate) -> fate_(series) fate/grand_order fate/apocrypha fate/stay_night fate/extra fate/zero pixiv_fate/grand_order_contest_1 pixiv_fate/grand_order_contest_2 granblue_fantasy koha-ace
 ?miki_(asken) -> asken touhou pokemon bocchi_the_rock! pokemon_sleep pikmin_(series) tamagotchi wii_fit suntory pikmin_bloom
+?toki_(abi-eshuh)_(blue_archive) -> blue_archive fate_(series) fate/grand_order gundam doraemon indie_virtual_youtuber project_moon neon_genesis_evangelion kamen_rider library_of_ruina
