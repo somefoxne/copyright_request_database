@@ -5949,3 +5949,4 @@
 ?luna_aegis_(closers) -> closers
 ?hyde_(closers) -> closers
 ?violet_(closers) -> closers azur_lane flower_knight_girl
+?tina_(closers) -> closers rainbow_six_siege kantai_collection vocaloid elsword steampunk_(liarsoft)
