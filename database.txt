@@ -5117,3 +5117,4 @@
 ?toki_(toxxy) -> original venture_seas
 ?deirdre_(fated_saint)_(fire_emblem) -> fire_emblem fire_emblem_heroes fire_emblem:_genealogy_of_the_holy_war fire_emblem_fates fire_emblem:_thracia_776
 ?deirdre_(fire_emblem) -> fire_emblem fire_emblem:_genealogy_of_the_holy_war fire_emblem_heroes fire_emblem:_the_sacred_stones fire_emblem:_the_blazing_blade fire_emblem_fates fire_emblem:_path_of_radiance fire_emblem:_mystery_of_the_emblem fire_emblem_awakening fire_emblem:_the_binding_blade
+?mana_(fufuichi04) -> original
