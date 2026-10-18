@@ -4562,3 +4562,4 @@
 ?kannonzaka_doppo -> hypnosis_mic fate_(series) pretty_series hypnosis_mic:_alternative_rap_battle pokemon fate/grand_order idolmaster pokemon_scarlet_and_violet pripara gintama
 ?wonderlands_x_showtime_kaito -> vocaloid project_sekai zozotown tondemo_wonders_(vocaloid) needy_girl_overdose microsoft_windows evillious_nendaiki kowareta_sekai_to_utaenai_miku internet_overdose
 ?hokuto_(kagurabachi) -> kagurabachi jujutsu_kaisen aizo_(king_gnu)
+?cover_bikini_girl_(gta_vi) -> grand_theft_auto grand_theft_auto_vi grand_theft_auto_v indie_virtual_youtuber hololive original hololive_english zenless_zone_zero boku_no_hero_academia marvel
