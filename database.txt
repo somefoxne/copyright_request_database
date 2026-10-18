@@ -4297,3 +4297,4 @@
 ?gold_city_(casual)_(umamusume) -> umamusume umamusume:_road_to_the_top umayuru
 ?riddle_rosehearts -> twisted_wonderland disney kimetsu_no_yaiba touken_ranbu ensemble_stars! nier_(series) nier:automata the_little_mermaid_(disney) aladdin_(movie) snow_white_and_the_seven_dwarfs_(disney)
 ?riddle_rosehearts_(rose-red_tyrant) -> twisted_wonderland
+?admire_vega_(starry_nocturne)_(umamusume) -> umamusume umamusume:_road_to_the_top real_life umamusume:_cinderella_gray umamusume:_beginning_of_a_new_era akari_ga_yatte_kitazo_(vocaloid) kantai_collection pokemon nichijou bucchigiri?!
