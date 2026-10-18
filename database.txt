@@ -5450,3 +5450,4 @@
 ?lysithea_von_ordelia_(timeskip) -> fire_emblem fire_emblem:_three_houses fire_emblem_heroes fire_emblem_warriors:_three_hopes fire_emblem_awakening fire_emblem_engage pokemon fire_emblem_fates fate_(series) fate/grand_order
 ?burgerpants -> utdr_(toby_fox) undertale downtown_no_gaki_no_tsukai_ya_arahende!! deltarune famitsu original touhou pokemon zenless_zone_zero kemono_friends
 ?mutsu_(kancolle) -> kantai_collection gundam kantai_collection_(anime) pokemon aoki_hagane_no_arpeggio love_live! love_live!_school_idol_project g_gundam touhou
+?mutsu_kai_ni_(kancolle) -> kantai_collection azur_lane ultra_series line_(naver) ultraseven_(series) ultraman_z_(series) umamusume gundam kinnikuman saw_(movie)
