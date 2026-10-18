@@ -6188,3 +6188,4 @@
 ?blue_addison_(deltarune) -> utdr_(toby_fox) deltarune
 ?hacker_(deltarune) -> utdr_(toby_fox) deltarune little_tikes
 ?pink_addison_(deltarune) -> utdr_(toby_fox) deltarune
+?queen_(deltarune) -> utdr_(toby_fox) deltarune undertale little_tikes pokemon mario_(series) animal_crossing among_us cuphead_(game) bayaverse
