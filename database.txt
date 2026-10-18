@@ -6204,3 +6204,4 @@
 ?fiore_forvedge_yggdmillennia -> fate_(series) fate/apocrypha fate/grand_order my_little_pony my_little_pony:_friendship_is_magic fate/stay_night kara_no_kyoukai lord_el-melloi_ii_case_files fate:lost_einherjar
 ?show_mizunoe -> seitokai_ni_mo_ana_wa_aru!
 ?shinomiya_kaguya -> kaguya-sama_wa_kokurasetai_~tensai-tachi_no_renai_zunousen~ oshi_no_ko fate_(series) genshin_impact fate/grand_order boku_no_hero_academia k-on! sword_art_online re:zero_kara_hajimeru_isekai_seikatsu spy_x_family
+?female_byleth_(summer)_(fire_emblem) -> fire_emblem fire_emblem:_three_houses fire_emblem_heroes fire_emblem_warriors:_three_hopes fire_emblem_fates fire_emblem_awakening super_smash_bros. fire_emblem_engage xenoblade_chronicles_(series) xenoblade_chronicles_2
