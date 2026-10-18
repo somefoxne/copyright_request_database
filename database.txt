@@ -4748,3 +4748,4 @@
 ?higashi_sakutaro -> danganronpa_(series) danganronpa_2:_goodbye_despair danganronpa_2x2 umineko_no_naku_koro_ni the_elder_scrolls the_elder_scrolls_v:_skyrim game_theory
 ?kurata_mashiro -> bang_dream! bang_dream!_girls_band_party! bang_dream!_yumemita ganso!_bang_dream_chan hololive original pokemon twitter shinkai_shoujo_(vocaloid)
 ?ichijou_ririka_(1st_costume) -> hololive hololive_dev_is hololive_english hololive_indonesia hololive_official_card_game nijisanji indie_virtual_youtuber vcr_gta original blue_archive
+?tamamo_no_mae_(vacances_d'ete)_(fate) -> fate_(series) fate/extra fate/grand_order fate/extella fate/extra_ccc
