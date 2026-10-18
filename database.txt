@@ -4670,3 +4670,4 @@
 ?shin_(path_to_nowhere) -> path_to_nowhere chainsaw_man the_weaker_sex_1_(gibson) tomie
 ?yugu_(path_to_nowhere) -> path_to_nowhere
 ?zoya_(path_to_nowhere) -> path_to_nowhere original love_and_deepspace instagram
+?fukawa_toko -> danganronpa_(series) danganronpa:_trigger_happy_havoc danganronpa_another_episode:_ultra_despair_girls danganronpa_2:_goodbye_despair danganronpa_v3:_killing_harmony danganronpa/zero danganronpa_s:_ultimate_summer_camp
