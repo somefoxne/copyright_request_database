@@ -5472,3 +5472,4 @@
 ?da_shuang_(the_legend_of_luoxiaohei) -> the_legend_of_luo_xiaohei lanxi_zhen
 ?diting_(the_legend_of_luo_xiaohei) -> the_legend_of_luo_xiaohei lanxi_zhen
 ?guan_xuan_(the_legend_of_luoxiaohei) -> the_legend_of_luo_xiaohei lanxi_zhen
+?huangshou_(the_legend_of_luoxiaohei) -> the_legend_of_luo_xiaohei lanxi_zhen monopoly
