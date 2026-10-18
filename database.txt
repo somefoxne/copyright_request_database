@@ -5511,3 +5511,4 @@
 ?ots-14_(girls'_frontline) -> blue_archive hololive hololive_english cyberpunk_(series) fate_(series) arknights
 ?kei_(m_k) -> original arknights vocaloid indie_virtual_youtuber real_life phase_connect the_little_mermaid_(disney) ts_loli_oji-san_no_boukan the_wild_thornberrys dc_comics
 ?rika_(m_k) -> original arknights vocaloid indie_virtual_youtuber real_life phase_connect the_little_mermaid_(disney) ts_loli_oji-san_no_boukan the_wild_thornberrys dc_comics
+?tamon_kotarou -> phantom_busters neon_genesis_evangelion mario_(series) shingeki_no_kyojin rebuild_of_evangelion dandadan shiguang_dailiren bungou_stray_dogs my_s-class_hunters
