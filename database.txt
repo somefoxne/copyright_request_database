@@ -4309,3 +4309,4 @@
 ?vaporeon -> pokemon pokemon_scarlet_and_violet original pokemon_(anime) pokemon_red/green/blue/yellow pokemon_(classic_anime) pokemon_firered_and_leafgreen pokemon_diamond/pearl/platinum pokemon_legends:_arceus pokemon_go
 ?gold_city_(authentic/1928)_(umamusume) -> umamusume umamusume:_cinderella_gray akari_ga_yatte_kitazo_(vocaloid) human_bug_daigaku kantai_collection azur_lane comiket_100 original fate_(series) idolmaster
 ?akagi_(kancolle) -> kantai_collection line_(naver) azur_lane pokemon girls_und_panzer lawson fate_(series) warship_girls_r gundam transformers
+?pokemon_ranger_(pokemon) -> pokemon pokemon_masters_ex pokemon_x_and_y pokemon_omega_ruby_and_alpha_sapphire pokemon_black_and_white pokemon_ranger_(series) pokemon_black_2_and_white_2 pokemon_firered_and_leafgreen original pokemon_diamond/pearl/platinum
