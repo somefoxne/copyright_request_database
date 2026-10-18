@@ -5747,3 +5747,4 @@
 ?hao_(rk_music) -> rk_music
 ?momoshina_fumika -> alice_gear_aegis gothic_wa_mahou_otome frame_arms_girl original kantai_collection vocaloid mahou_shoujo_madoka_magica gundam wuthering_waves world_witches_series
 ?tanaka_kyouko -> original apple_inc. slipknot real_life nintendo peanuts_(comic) sony metallica motorhead anthrax_(band)
+?tuye_(fabulous_beasts) -> fabulous_beasts
