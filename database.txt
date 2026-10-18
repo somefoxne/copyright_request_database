@@ -5404,3 +5404,4 @@
 ?rayquaza -> pokemon pokemon_omega_ruby_and_alpha_sapphire pokemon_ruby/sapphire/emerald pokemon_(anime) pokemon_emerald pokemon_masters_ex pokemon_horizons pokemon_tcg pokemon_diamond/pearl/platinum pokemon_legends:_z-a
 ?chitose_(kancolle) -> kantai_collection line_(naver) aoki_hagane_no_arpeggio original gundam dragon_ball shingeki_no_kyojin kamen_rider moomin kancolle_arcade
 ?tohno_akiha -> tsukihime tsukihime_(remake) melty_blood fate_(series) type-moon fate/stay_night melty_blood:_type_lumina kagetsu_tooya carnival_phantasm kara_no_kyoukai
+?zundamon -> voicevox voiceroid utau vocaloid a.i._voice synthesizer_v cevio kamitsubaki_studio talkex touhou
