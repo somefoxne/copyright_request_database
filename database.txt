@@ -6228,3 +6228,4 @@
 ?nyudachi -> indie_virtual_youtuber gelbooru blue_archive
 ?abarai_renji -> bleach bleach:_epilogue bleach:_sennen_kessen-hen bleach:_the_high_school_warfare death_note fate_(series) one_piece fate/stay_night bleach:_zanpakutou_ibun_hen bleach:_we_do_knot_always_love_you
 ?red_sniper_(tf2) -> team_fortress_2 hololive zenless_zone_zero hololive_english original touhou mario_(series) pokemon vocaloid marvel
+?clefable -> pokemon pokemon_legends:_z-a pokemon_sun_and_moon pokemon_firered_and_leafgreen pokemon_(anime) pokemon_red/green/blue/yellow pokemon_(classic_anime) pokemon_the_series:_sun_&_moon pokemon_adventures pokemon_diamond/pearl/platinum
