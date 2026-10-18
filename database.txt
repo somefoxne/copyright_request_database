@@ -4581,3 +4581,4 @@
 ?shikiya_yumeko -> make_heroine_ga_oo_sugiru! lycoris_recoil a-1_pictures pokemon final_fantasy chainsaw_man pokemon_sun_and_moon pokemon_black_and_white sanrio kaguya-sama_wa_kokurasetai_~tensai-tachi_no_renai_zunousen~
 ?tsukinoki_koto -> make_heroine_ga_oo_sugiru! neon_genesis_evangelion rebuild_of_evangelion evangelion:_2.0_you_can_(not)_advance
 ?yakishio_lemon -> make_heroine_ga_oo_sugiru! lycoris_recoil cuddly_octopus ijiranaide_nagatoro-san a-1_pictures sanrio comiket_105 super_real_mahjong pokemon idolmaster
+?searren_(phantasy_star) -> phantasy_star phantasy_star_iii sega
