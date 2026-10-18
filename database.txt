@@ -5724,3 +5724,4 @@
 ?iroi_(nte) -> neverness_to_everness
 ?davoth_(doom) -> pokemon doom_(series)
 ?doomguy -> doom_(series) doom_eternal doom_(2016) doom:_the_dark_ages animal_crossing metroid original halo_(series) doom_ii hololive
+?mewtwo -> pokemon pokemon_(anime) super_smash_bros. pokemon_firered_and_leafgreen mario_(series) pokemon_(classic_anime) the_legend_of_zelda kirby_(series) fire_emblem mother_(series)
