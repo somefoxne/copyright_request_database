@@ -5140,3 +5140,4 @@
 ?kobayakawa_sae -> idolmaster idolmaster_cinderella_girls idolmaster_cinderella_girls_starlight_stage cinderella_girls_gekijou comiket_93 aikurushii_(idolmaster) idolmaster_million_live! comiket_92 idolmaster_(classic) orix_buffaloes
 ?wise_(oath_of_skies)_(zenless_zone_zero) -> zenless_zone_zero blue_archive honkai_(series) honkai:_star_rail mihoyo moechakkafire genshin_impact jojo_no_kimyou_na_bouken jujutsu_kaisen go-toubun_no_hanayome
 ?little_match_girl -> original kantai_collection arknights touhou little_red_riding_hood_(fairy_tale) cinderella_(fairy_tale) blue_archive ark_order snow_white_(fairy_tale)
+?angemon -> digimon digimon_adventure digimon_adventure_02 digimon_card_game pokemon digimon_story:_cyber_sleuth digimon_adventure_tri. digimon_adventure:_(2020) digimon_world
