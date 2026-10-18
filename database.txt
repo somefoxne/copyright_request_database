@@ -5452,3 +5452,4 @@
 ?mutsu_(kancolle) -> kantai_collection gundam kantai_collection_(anime) pokemon aoki_hagane_no_arpeggio love_live! love_live!_school_idol_project g_gundam touhou
 ?mutsu_kai_ni_(kancolle) -> kantai_collection azur_lane ultra_series line_(naver) ultraseven_(series) ultraman_z_(series) umamusume gundam kinnikuman saw_(movie)
 ?nagato_(kancolle) -> kantai_collection azur_lane kantai_collection_(anime) gundam aoki_hagane_no_arpeggio azumanga_daioh original touhou girls_und_panzer g_gundam
+?nagato_kai_ni_(kancolle) -> kantai_collection comiket_95 azur_lane line_(naver) original ultra_series ultraseven_(series) lupin_iii ultraman_z_(series) gundam
