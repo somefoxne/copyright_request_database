@@ -6010,3 +6010,4 @@
 ?poppy_(league) -> league_of_legends pokemon original mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) mario_(series) dragon_ball dragon_ball_z twitter super_mario_bros._1
 ?alma_(monster_hunter_wilds) -> monster_hunter_(series) monster_hunter_wilds monster_hunter_wilds:_ascendance chainsaw_man kill_la_kill fullmetal_alchemist hellsing monster_hunter_rise monster_hunter_stories_2:_wings_of_ruin original
 ?watson_amelia -> hololive hololive_english hololive_indonesia minecraft indie_virtual_youtuber among_us enigmatic_recollection holostars reflect_(gawr_gura) hololive_dev_is
+?hyacine_(warm_cotton_skies)_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail genshin_impact sanrio mihoyo fuwa_fuwa_cinnamoroll baskin-robbins
