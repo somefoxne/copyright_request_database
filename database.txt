@@ -4467,3 +4467,4 @@
 ?sothis_(fire_emblem) -> fire_emblem fire_emblem:_three_houses fire_emblem_heroes fire_emblem_warriors:_three_hopes super_smash_bros. fire_emblem_awakening fire_emblem:_radiant_dawn fire_emblem_fates fire_emblem:_mystery_of_the_emblem
 ?asou_koma -> meguri_hitohira.
 ?ninomae_ina'nis_(dark_fairy_tale) -> hololive hololive_english abyssal_hymn bombanana
+?isobe_noriko -> girls_und_panzer gekitotsu!_joshikousei_oiroke_sensha_gundan girls_und_panzer_senshadou_daisakusen! girls_und_panzer_motto_love_love_sakusen_desu! kantai_collection girls_und_panzer_saishuushou girls_und_panzer_gekijouban megami_magazine gundam splatoon_(series)
