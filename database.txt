@@ -5310,3 +5310,4 @@
 ?magical_mirai_miku_(2024) -> vocaloid magical_mirai_(vocaloid) antenna_39_(vocaloid) utau mesmerizer_(vocaloid) pokemon project_voltage rabbit_hole_(vocaloid) goodsmile_company goodsmile_racing
 ?mizuhashi_parsee -> touhou subterranean_animism cookie_(touhou) touhou_(pc-98) reitaisai reitaisai_8_contest touhou_tag_dream touhou_lostword final_fantasy embodiment_of_scarlet_devil
 ?maguma_megu -> duel_masters dragon_musume_ni_naritakunai!
+?mayano_top_gun_(casual)_(umamusume) -> umamusume zenless_zone_zero bloodborne tokimeki_memorial katawa_shoujo tokimeki_memorial_1 taisen_puzzle-dama
