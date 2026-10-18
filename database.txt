@@ -4622,3 +4622,4 @@
 ?arcueid_brunestud_(mooncancer) -> fate_(series) fate/grand_order tsukihime tsukihime_(remake) type-moon mahou_tsukai_no_yoru kara_no_kyoukai fate/stay_night melty_blood kagetsu_tooya
 ?justice_kunihiro -> kyatapi_land
 ?bb_cosmo_(fate) -> fate_(series) fate/grand_order fate/extra fate/extra_ccc gundam chainsaw_man among_us g_gundam gundam_g_no_reconguista pragmata
+?father_(fma) -> fullmetal_alchemist fullmetal_alchemist_(2003) fullmetal_alchemist_the_movie:_conqueror_of_shamballa crash_fever touhou kantai_collection nijisanji neon_genesis_evangelion dragon_ball utdr_(toby_fox)
