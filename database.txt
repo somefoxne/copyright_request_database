@@ -5865,3 +5865,4 @@
 ?c.c. -> code_geass pizza_hut code_geass:_lost_stories fate_(series) kantai_collection fate/grand_order code_geass:_fukkatsu_no_lelouch gundam granblue_fantasy sunrise_(company)
 ?kurosawa_saemi_(abab_xiaxia) -> original
 ?sawashiro_miyuki -> honkai_(series) genshin_impact mihoyo honkai:_star_rail honkai_impact_3rd fate_(series) fate/grand_order rozen_maiden galaxy_angel monogatari_(series)
+?garzom_(exs-tia) -> kouyoku_senki_exs-tia
