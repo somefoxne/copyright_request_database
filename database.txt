@@ -6080,3 +6080,4 @@
 ?tendou_satori -> haikyuu!! original girls_und_panzer one_piece jojo_no_kimyou_na_bouken yu-gi-oh! dragon_ball naruto_(series) bleach dragon_ball_z
 ?angeal_hewley -> final_fantasy final_fantasy_vii crisis_core:_final_fantasy_vii final_fantasy_vii:_ever_crisis final_fantasy_vii_remake final_fantasy_vi square_enix final_fantasy_vii_rebirth final_fantasy_vii:_advent_children dirge_of_cerberus:_final_fantasy_vii
 ?mina_(mamiya) -> sekai_metsubou_kyouyuu_gensou_mamiya omori shoujo_kakumei_utena
+?toujou_minato -> sekai_metsubou_kyouyuu_gensou_mamiya omori shoujo_kakumei_utena
