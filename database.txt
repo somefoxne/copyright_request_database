@@ -6276,3 +6276,4 @@
 ?saruei_(vtuber) -> indie_virtual_youtuber original real_life hololive hololive_english phase_connect metal_gear_(series) metal_gear_solid_3:_snake_eater twitch.tv fate_(series)
 ?remiliacn -> original
 ?yvonne_(mawaridi) -> original the_legend_of_zelda elden_ring monster_hunter_(series) xenoblade_chronicles_(series) kamen_rider kingdom_hearts monster_hunter:_world kingdom_hearts_birth_by_sleep xenoblade_chronicles_x
+?cuno -> disco_elysium street_fighter street_fighter_ii_(series) club_penguin
