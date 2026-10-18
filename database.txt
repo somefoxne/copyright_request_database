@@ -4540,3 +4540,4 @@
 ?enna_alouette_(anniversary_dress) -> nijisanji nijisanji_en love_and_deepspace among_us nijisanji_id kawaii_kaiwai requiem_(kanaria)
 ?millie_parfait_(anniversary_dress) -> nijisanji nijisanji_en nijisanji_id
 ?koseki_bijou_(school_uniform) -> hololive hololive_english hololive_indonesia
+?bastelina_(stella_sora) -> stella_sora breakout
