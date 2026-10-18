@@ -4759,3 +4759,4 @@
 ?adahime_(shadowverse) -> shadowverse shadowverse:_worlds_beyond
 ?tobias_(fire_emblem) -> fire_emblem
 ?female_eshmel_(fire_emblem) -> fire_emblem fire_emblem:_three_houses fire_emblem_heroes fire_emblem_awakening fire_emblem_warriors:_three_hopes kfc comiket_109
+?katou_asuka -> watashi_ga_motenai_no_wa_dou_kangaetemo_omaera_ga_warui! 2channel 7-eleven mario_(series) super_mario_bros._1 pokemon neon_genesis_evangelion panty_&_stocking_with_garterbelt line_(naver) honest_axe
