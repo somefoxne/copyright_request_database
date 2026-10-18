@@ -4787,3 +4787,4 @@
 ?liko_(pokemon) -> pokemon pokemon_(anime) pokemon_horizons pokemon_journeys pokemon_scarlet_and_violet pokemon_sun_and_moon pokemon_(classic_anime) precure pokemon_sword_and_shield pokemon_masters_ex
 ?komazawa_rai -> cho_kaguya-hime! an_an dragon_ball dragon_ball_z animal_crossing minecraft invincible_(series) crayon_shin-chan netflix sennen_joyuu
 ?komazawa_rai_(tsukuyomi) -> cho_kaguya-hime! an_an dragon_ball dragon_ball_z animal_crossing minecraft invincible_(series) crayon_shin-chan netflix sennen_joyuu
+?utsunomiya_maika -> shuuniichido_classmate_wo_kau_hanashi
