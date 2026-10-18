@@ -4321,3 +4321,4 @@
 ?balloon_party -> reverse:1999 fate_(series) fate/grand_order
 ?tanino_gimlet_(casual)_(umamusume) -> umamusume umamusume:_cinderella_gray comiket_102 irasutoya
 ?kisaragi_chihaya -> idolmaster idolmaster_(classic) idolmaster_1 idolmaster_million_live! idolmaster_million_live!_theater_days idolmaster_2 idolmaster_cinderella_girls idolmaster_live_for_you! idolmaster_sp idolmaster_dearly_stars
+?marufuji_ryo -> yu-gi-oh! yu-gi-oh!_gx yu-gi-oh!_duel_monsters yu-gi-oh!_zexal yu-gi-oh!_vrains yu-gi-oh!_3d_bonds_beyond_time pokemon yu-gi-oh!_arc-v original
