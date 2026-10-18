@@ -5379,3 +5379,4 @@
 ?touhoku_itako -> voiceroid utau voicevox vocaloid cevio a.i._voice talkex synthesizer_v onikko_hunter_tsuina-chan gynoid_talk
 ?exs-tia_aqua -> kouyoku_senki_exs-tia_concert
 ?kunijima_chiaki -> kouyoku_senki_exs-tia_concert
+?shimamura_charlotte -> nanashi_inc. indie_virtual_youtuber pokemon .live nijisanji pokemon_sword_and_shield marvel spider-man_(series) shigoto_neko touhou
