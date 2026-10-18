@@ -6023,3 +6023,4 @@
 ?minetsuki_ritsu_(1st_anniversary) -> bang_dream! bang_dream!_yumemita
 ?miyanaga_nonoka_(1st_anniversary) -> bang_dream! bang_dream!_yumemita
 ?nakamachi_arale_(1st_anniversary) -> bang_dream! bang_dream!_yumemita
+?nakamachi_arale_(virtual) -> bang_dream! bang_dream!_yumemita bang_dream!_our_notes bang_dream!_girls_band_party! ganso!_bang_dream_chan sakanaction wasurerarenaino kamen_rider megami_magazine
