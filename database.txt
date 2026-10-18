@@ -5598,3 +5598,4 @@
 ?higaki_eiko -> girls_frantic_clan
 ?matsudo_minami -> girls_frantic_clan
 ?shikigi_yuuri -> girls_frantic_clan
+?bismarck_(kancolle) -> kantai_collection world_cup 2014_fifa_world_cup azur_lane real_life fate_(series) fate/grand_order gundam aoki_hagane_no_arpeggio line_(naver)
