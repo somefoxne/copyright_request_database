@@ -5421,3 +5421,4 @@
 ?olivert_reise_arnor -> eiyuu_densetsu sora_no_kiseki sen_no_kiseki_(series) sen_no_kiseki_i sora_no_kiseki_sc sen_no_kiseki_iv sora_no_kiseki_fc ao_no_kiseki sen_no_kiseki_iii zero_no_kiseki
 ?matoba_risa -> idolmaster idolmaster_cinderella_girls idolmaster_cinderella_girls_u149 idolmaster_cinderella_girls_starlight_stage cinderella_girls_gekijou idolmaster_million_live! umamusume love_live! urusei_yatsura idolmaster_shiny_colors
 ?layla_(genshin_impact) -> genshin_impact honkai_(series) mihoyo honkai:_star_rail olympics 2024_summer_olympics horizon_(game) pokemon fate_(series) fate/grand_order
+?sakuragi_mano -> idolmaster idolmaster_shiny_colors idolmaster_cinderella_girls idolmaster_shiny_colors_song_for_prism idolmaster_(classic) idolmaster_million_live! idolmaster_side-m gakuen_idolmaster idolmaster_dearly_stars idolmaster_million_live!_theater_days
