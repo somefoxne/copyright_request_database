@@ -5391,3 +5391,4 @@
 ?baan_gaan -> yuusha_seisen_baan_gaan yuusha_series yuusha_ou_gaogaigar yuusha_keisatsu_j-decker yuusha_tokkyuu_might_gaine taiyou_no_yuusha_fighbird ougon_yuusha_goldran densetsu_no_yuusha_da-garn yuusha_exkaiser yuusha_shirei_dagwon
 ?garnet_(black_survival) -> black_survival eternal_return:_black_survival dummy_romance_(vocaloid) kamippoina_(vocaloid)
 ?calamaramon -> digimon digimon_frontier digimon_card_game digimon_story:_time_stranger original pokemon nijisanji splatoon_(series)
+?hyakkihime -> youkai_watch youkai_watch_jam:_youkai_gakuen_y youkai_watch_3 youkai_watch_world touhou sanrio hello_kitty youkai_watch_2 youkai_watch_shadowside youkai_watch:_punipuni
