@@ -5999,3 +5999,4 @@
 ?anguished_one -> devil_survivor_(series) devil_survivor_2 persona megami_tensei persona_3 pixiv touhou fate_(series) vocaloid mahou_shoujo_madoka_magica
 ?sakata_ginko -> gintama fate_(series) one_piece fate/stay_night suzumiya_haruhi_no_yuuutsu re:zero_kara_hajimeru_isekai_seikatsu ranma_1/2 saiki_kusuo_no_psi_nan
 ?pafhelo_sorian -> the_boy_who_fell
+?leafan_(palworld) -> palworld
