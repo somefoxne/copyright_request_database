@@ -5948,3 +5948,4 @@
 ?soma_(closers) -> closers
 ?luna_aegis_(closers) -> closers
 ?hyde_(closers) -> closers
+?violet_(closers) -> closers azur_lane flower_knight_girl
