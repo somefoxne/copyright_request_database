@@ -5505,3 +5505,4 @@
 ?yuki_setsuna -> love_live! love_live!_nijigasaki_high_school_idol_club chase!_(love_live!) love_live!_school_idol_festival_all_stars dive!_(love_live!) love_live!_sunshine!! love_live!_school_idol_project love_live!_nijigasaki_high_school_idol_club_the_movie_-_finale real_life love_live!_superstar!!
 ?sena_ajisai -> watashi_ga_koibito_ni_nareru_wake_naijan_murimuri! cho_kaguya-hime! love_live! bang_dream! love_live!_nijigasaki_high_school_idol_club megami_magazine snow_white_(fairy_tale) pokemon fate_(series)
 ?amulet_dia -> shugo_chara! idolmaster idolmaster_cinderella_girls precure bishoujo_senshi_sailor_moon cardcaptor_sakura yes!_precure_5 ojamajo_doremi mermaid_melody_pichi_pichi_pitch tokyo_mew_mew
+?dia_(shugo_chara!) -> shugo_chara! original precure sanrio tamagotchi san-x hamtaro_(series) tamagotchi_plus kirarin_revolution q-lia
