@@ -5960,3 +5960,4 @@
 ?artist_(omori) -> omori
 ?bomb_hybrid_(chainsaw_man) -> chainsaw_man boku_no_hero_academia original one-punch_man jojo_no_kimyou_na_bouken one_piece persona league_of_legends naruto_(series) jujutsu_kaisen
 ?lily_(epicary_radz) -> original
+?miran_(epicary_radz) -> original
