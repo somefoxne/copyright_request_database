@@ -4493,3 +4493,4 @@
 ?melony_(smg4) -> smg4 original pokemon vocaloid indie_virtual_youtuber mario_(series) hellaverse my_little_pony my_little_pony:_friendship_is_magic inuyasha
 ?frankie_foster -> powerpuff_girls dragon_ball cartoon_network dragon_ball_z dc_comics the_fairly_oddparents teen_titans the_grim_adventures_of_billy_&_mandy the_amazing_world_of_gumball
 ?maizono_sayaka -> danganronpa_(series) danganronpa:_trigger_happy_havoc danganronpa_2:_goodbye_despair danganronpa_v3:_killing_harmony danganronpa_another_episode:_ultra_despair_girls danganronpa/zero danganronpa_s:_ultimate_summer_camp
+?anchorage_oni -> kantai_collection kamen_rider aoki_hagane_no_arpeggio kunihiko_moriguchi precure kill_la_kill futari_wa_precure hellsing
