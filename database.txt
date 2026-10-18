@@ -5548,3 +5548,4 @@
 ?machina_x_flayon -> holostars holostars_english hololive hololive_english hololive_indonesia mega_man_(series) protostar_twilight pokemon nijisanji nijisanji_en
 ?octavio -> holostars holostars_english hololive hololive_english indie_virtual_youtuber hololive_indonesia string_theology_(octavio) pokemon hololive_dev_is umamusume
 ?regis_altare -> holostars holostars_english hololive hololive_indonesia hololive_english nijisanji nijisanji_en pokemon doppelganger_(holostars_english) indie_virtual_youtuber
+?ruzader_(crimzon_ruze) -> holostars holostars_english metal_gear_(series) metal_gear_solid_3:_snake_eater metal_gear_solid_2:_sons_of_liberty
