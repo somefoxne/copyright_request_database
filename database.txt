@@ -6002,3 +6002,4 @@
 ?leafan_(palworld) -> palworld
 ?pinku_(vtuber) -> atelier_live original indie_virtual_youtuber real_life twitter tsunderia beastiez iron_vertex
 ?chico_(yuzuha_riko) -> stellive chainsaw_man sanrio kero_kero_keroppi the_wizard_of_oz
+?lute_(fire_emblem) -> fire_emblem fire_emblem:_the_sacred_stones fire_emblem_heroes fire_emblem:_three_houses fire_emblem:_the_blazing_blade fire_emblem:_the_binding_blade fire_emblem_fates fire_emblem:_radiant_dawn fire_emblem:_path_of_radiance fire_emblem:_mystery_of_the_emblem
