@@ -5946,3 +5946,4 @@
 ?mofu_mollis -> indie_virtual_youtuber original
 ?kikuchi_ryou -> sekai_metsubou_kyouyuu_gensou_mamiya google_search
 ?soma_(closers) -> closers
+?luna_aegis_(closers) -> closers
