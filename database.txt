@@ -5093,3 +5093,4 @@
 ?as-1_blaze_raven -> full_metal_panic! full_metal_panic!_another full_metal_panic!_family kadokawa
 ?inari_(summer_pockets) -> summer_pockets key_(company) clannad little_busters! angel_beats! kanon rewrite dango_daikazoku air_(visual_novel) planetarian
 ?yamashiro_(kancolle) -> kantai_collection kantai_collection_(anime) gundam fate_(series) azur_lane pokemon umamusume fate/grand_order yokohama_dena_baystars lawson
+?arezu_(pokemon) -> pokemon pokemon_legends:_arceus pokemon_masters_ex pokemon_diamond/pearl/platinum pokemon_sword_and_shield pokemon_scarlet_and_violet original kimetsu_no_yaiba pokemon_legends:_z-a pokemon_tcg
