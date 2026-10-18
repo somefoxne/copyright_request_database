@@ -4918,3 +4918,4 @@
 ?daniel_(project_moon) -> project_moon lobotomy_corporation library_of_ruina limbus_company the_distortion_detective leviathan_(project_moon) fate_(series) umamusume fate/stay_night lord_of_the_mysteries
 ?kali_(project_moon) -> project_moon library_of_ruina lobotomy_corporation limbus_company leviathan_(project_moon) fate_(series) blue_archive genshin_impact fate/grand_order umamusume
 ?billy_(deadlock) -> deadlock_(game) frankenstein
+?durga_(fate) -> fate_(series) fate/grand_order fate/stay_night fate/extra fate/kaleid_liner_prisma_illya fate/strange_fake tsukihime fate/zero shingeki_no_kyojin dc_comics
