@@ -4769,3 +4769,4 @@
 ?scylla_(pure_promise_amidst_a_sea_of_flowers)_(azur_lane) -> azur_lane
 ?parasite_paracide -> yu-gi-oh! yu-gi-oh!_duel_monsters
 ?amate_yuzuriha -> gundam gundam_gquuuuuux i_can_friday_by_day! mobile_suit_gundam gundam_suisei_no_majo zeta_gundam pokemon neon_genesis_evangelion gundam_seed
+?nyaan_(gundam_gquuuuuux) -> gundam gundam_gquuuuuux i_can_friday_by_day! mobile_suit_gundam pokemon gundam_suisei_no_majo zeta_gundam neon_genesis_evangelion fate_(series)
