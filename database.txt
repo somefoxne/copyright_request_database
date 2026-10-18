@@ -5867,3 +5867,4 @@
 ?sawashiro_miyuki -> honkai_(series) genshin_impact mihoyo honkai:_star_rail honkai_impact_3rd fate_(series) fate/grand_order rozen_maiden galaxy_angel monogatari_(series)
 ?garzom_(exs-tia) -> kouyoku_senki_exs-tia
 ?shimakoshi_tsukimi -> limelight_lemonade_jam yuzusoft comiket_108 comiket_107 tenshi_souzou_re-boot! pokemon comiket_106 cafe_stella_to_shinigami_no_chou
+?gouhin -> beastars animal_crossing boku_no_kokoro_no_yabai_yatsu brand_new_animal mitsudomoe_(manga) brat_(charli_xcx) rororro!
