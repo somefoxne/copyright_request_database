@@ -5191,3 +5191,4 @@
 ?boo_tao_(genshin_impact) -> genshin_impact mihoyo honkai_(series) lawson honkai:_star_rail honkai_impact_3rd blue_archive pokemon zenless_zone_zero touhou
 ?hiiragi_tsukasa -> lucky_star suzumiya_haruhi_no_yuuutsu vocaloid original hidamari_sketch k-on! kyoto_animation clannad touhou higurashi_no_naku_koro_ni
 ?sakaki_(azumanga_daioh) -> azumanga_daioh yotsubato! lucky_star vocaloid megami_magazine k-on! suzumiya_haruhi_no_yuuutsu azumanga_daioh_hoshuu-hen touhou pokemon
+?shinguuji_sakura -> sakura_taisen sakura_taisen_iii sakura_taisen_ii sega sakura_taisen_v shin_sakura_taisen sonic_(series) street_fighter cardcaptor_sakura space_channel_5
