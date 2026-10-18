@@ -4882,3 +4882,4 @@
 ?velma_dinkley -> scooby-doo_(series) dc_comics johnny_bravo_(series) adventure_time pokemon powerpuff_girls the_amazing_world_of_gumball cartoon_network overwatch
 ?fio_(nier) -> nier_(series) nier_reincarnation nier:automata nier drag-on_dragoon drag-on_dragoon_3 pokemon final_fantasy final_fantasy_vii stellive
 ?sykes_(astral_party) -> astral_party
+?lucia_elowen -> zenless_zone_zero genshin_impact sushiro snow_white_(fairy_tale) elden_ring mihoyo original splatoon_(series) jujutsu_kaisen elden_ring_nightreign
