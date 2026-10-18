@@ -4575,3 +4575,4 @@
 ?lyna_the_light_charmer -> yu-gi-oh! yu-gi-oh!_duel_monsters touhou lucky_star yu-gi-oh!_master_duel yu-gi-oh!_rush_duel
 ?princess_of_tsurugi -> yu-gi-oh!
 ?luna_(phantasy_star_iii) -> phantasy_star phantasy_star_iii
+?abrams_(deadlock) -> deadlock_(game) vocaloid league_of_legends marvel guilty_gear bishoujo_senshi_sailor_moon guilty_gear_strive one-punch_man sanrio marvel_rivals
