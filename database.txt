@@ -6270,3 +6270,4 @@
 ?versusia_(granblue_fantasy_versus:_rising) -> granblue_fantasy granblue_fantasy_versus:_rising nier_(series) nier:automata
 ?lapras -> pokemon pokemon_firered_and_leafgreen pokemon_(anime) pokemon_red/green/blue/yellow pokemon_sun_and_moon pokemon_sword_and_shield pokemon_(classic_anime) pokemon_heartgold_and_soulsilver vocaloid
 ?popplio -> pokemon pokemon_sun_and_moon pokemon_(anime) pokemon_the_series:_sun_&_moon pokemon_ultra_sun_and_ultra_moon pokemon_black_and_white pokemon_x_and_y pokemon_diamond/pearl/platinum pokemon_sword_and_shield pokemon_black_2_and_white_2
+?wishiwashi -> pokemon pokemon_sun_and_moon pokemon_(anime) pokemon_sword_and_shield pokemon_the_series:_sun_&_moon pokemon_tcg pokemon:_twilight_wings original pokemon_ultra_sun_and_ultra_moon pokemon_x_and_y
