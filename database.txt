@@ -5525,3 +5525,4 @@
 ?xianyun_(genshin_impact) -> genshin_impact mihoyo honkai_(series) honkai:_star_rail kung_fu_hustle original honkai_impact_3rd olympics bayonetta_(series) 2024_summer_olympics
 ?photoshop_flowey -> utdr_(toby_fox) undertale deltarune mario_(series) suishitai_wa_koi_shitai_(vocaloid) original pokemon fate_(series) fate/grand_order vocaloid
 ?sugar_(summon_night) -> summon_night summon_night:_swordcraft_story summon_night_collection summon_night:_swordcraft_story_2 summon_night_craft_sword_monogatari_hajimari_no_ishi jojo_no_kimyou_na_bouken phantom_blood
+?kozume_kenma -> haikyuu!! pokemon original sanrio wind_breaker_(nii_satoru) chainsaw_man boku_no_hero_academia kimetsu_no_yaiba kirby_(series) coca-cola
