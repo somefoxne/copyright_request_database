@@ -6248,3 +6248,4 @@
 ?yellow_13 -> ace_combat ace_combat_04 ace_combat_zero ace_combat_5 original world_witches_series ace_combat_7 ace_combat_6 ace_combat_x ace_combat_2
 ?yellow_4 -> ace_combat ace_combat_04 original ace_combat_7 ace_combat_5 nikki_(series) infinity_nikki ace_combat_zero
 ?meyer_(pokemon) -> pokemon pokemon_(anime) pokemon_the_series:_xy pokemon_journeys pokemon_(classic_anime) pokemon_the_series:_sun_&_moon pokemon_the_series:_diamond_and_pearl pokemon_the_series:_ruby_and_sapphire pokemon_the_series:_black_&_white boku_no_hero_academia
+?baoh -> baoh_raihousha jojo_no_kimyou_na_bouken one_piece yu-gi-oh! dragon_ball naruto_(series) bleach dragon_quest dragon_ball_z stardust_crusaders
