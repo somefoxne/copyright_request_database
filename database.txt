@@ -5324,3 +5324,4 @@
 ?aihara_enju -> black_bullet kantai_collection toaru_majutsu_no_index sword_art_online date_a_live divine_gate hidan_no_aria toaru_kagaku_no_railgun megami_magazine shakugan_no_shana
 ?curren_bouquetd'or_(racing)_(umamusume) -> umamusume pokemon gundam gundam_build_divers gundam_build_divers_re:rise portal_(series) toy_story portal_2 atlus
 ?aladdin_(disney) -> aladdin_(movie) disney beauty_and_the_beast_(disney) hercules_(1997_movie) tarzan_(disney_movie) the_little_mermaid_(disney) tangled sleeping_beauty_(disney) cinderella_(disney_movie)
+?jasmine_(disney) -> aladdin_(movie) disney the_little_mermaid_(disney) beauty_and_the_beast_(disney) disney_princess sleeping_beauty_(disney) tangled cinderella_(disney_movie) snow_white_and_the_seven_dwarfs_(disney) hercules_(1997_movie)
