@@ -5637,3 +5637,4 @@
 ?yuno_the_distant_talon -> ishura
 ?ariados -> pokemon pokemon_heartgold_and_soulsilver pokemon_sun_and_moon pokemon_gold/silver/crystal pokemon_(anime) pokemon_(classic_anime) pokemon_diamond/pearl/platinum pokemon_sword_and_shield pokemon_legends:_z-a pokemon_red/green/blue/yellow
 ?momosuzu_nene_(1st_costume) -> hololive hololive_english hololive_indonesia hololive_alternative hololive_dev_is minecraft pokemon blue_clapper_(hololive) vocaloid nijisanji
+?fubuki_(swimsuit)_(blue_archive) -> blue_archive kartrider rabbit_hole_(vocaloid) armored_core armored_core_vi:_fires_of_rubicon idolmaster arknights honkai_(series) honkai_impact_3rd gakuen_idolmaster
