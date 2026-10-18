@@ -5285,3 +5285,4 @@
 ?rindo_chihaya_(1st_costume) -> hololive hololive_dev_is pokemon hololive_english hololive_official_card_game hololive_indonesia fg_roadster_(hololive) mario_(series) mario_tennis goodsmile_company
 ?alice_gunlock -> original genshin_impact
 ?kurumi_(zero0ex) -> original
+?aogiri_shinobu -> duel_masters dragon_musume_ni_naritakunai! pixiv
