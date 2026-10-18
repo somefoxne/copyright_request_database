@@ -5640,3 +5640,4 @@
 ?fubuki_(swimsuit)_(blue_archive) -> blue_archive kartrider rabbit_hole_(vocaloid) armored_core armored_core_vi:_fires_of_rubicon idolmaster arknights honkai_(series) honkai_impact_3rd gakuen_idolmaster
 ?nishikino_maki -> love_live! love_live!_school_idol_project love_live!_school_idol_festival bokura_wa_ima_no_naka_de love_live!_sunshine!! natsuiro_egao_de_1_2_jump! love_live!_the_school_idol_movie sore_wa_bokutachi_no_kiseki cutie_panther mogyutto_"love"_de_sekkin_chuu!
 ?sonoda_umi -> love_live! love_live!_school_idol_project love_live!_school_idol_festival love_live!_the_school_idol_movie natsuiro_egao_de_1_2_jump! bokura_wa_ima_no_naka_de love_live!_sunshine!! snow_halation sore_wa_bokutachi_no_kiseki mogyutto_"love"_de_sekkin_chuu!
+?shiraki_hime -> watashi_no_yuri_wa_oshigoto_desu! yu-gi-oh! umamusume gundam bang_dream! bishoujo_senshi_sailor_moon mahou_shoujo_no_majo_saiban shingeki_no_kyojin lucky_star
