@@ -4914,3 +4914,4 @@
 ?kiana_kaslana_(wintery_wishes) -> honkai_(series) honkai_impact_3rd honkai:_star_rail coca-cola
 ?lilynette_gingerbuck -> bleach bleach:_sennen_kessen-hen bleach:_epilogue bleach:_zanpakutou_ibun_hen bleach:_memories_of_nobody bleach:_fade_to_black bleach:_jigoku-hen bleach:_the_diamonddust_rebellion
 ?chesed_(project_moon) -> project_moon library_of_ruina lobotomy_corporation limbus_company puyopuyo umamusume hamhampangpang pokemon fate_(series) indie_virtual_youtuber
+?gebura_(project_moon) -> project_moon library_of_ruina lobotomy_corporation limbus_company touhou blue_archive pokemon indie_virtual_youtuber hamhampangpang original
