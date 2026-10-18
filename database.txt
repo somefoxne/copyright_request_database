@@ -5035,3 +5035,4 @@
 ?matikanetannhauser_(casual)_(umamusume) -> umamusume
 ?nice_nature_(casual)_(umamusume) -> umamusume love_live! pikmin_(series) yani_neko pikmin_bloom love_live!_nijigasaki_high_school_idol_club real_life kfc sony ai_scream!_(love_live!)
 ?raia-chan -> yappari_chinchirando akinator_(site) chiikawa
+?hamad_(jinki) -> jinki
