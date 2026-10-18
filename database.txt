@@ -4552,3 +4552,4 @@
 ?miun_(phantasy_star) -> phantasy_star phantasy_star_iii
 ?orakio_(phantasy_star) -> phantasy_star phantasy_star_iii
 ?siren_(phantasy_star) -> phantasy_star phantasy_star_iii
+?ninomae_ina'nis_(holonatsu_paradise) -> hololive hololive_english hololive_indonesia hololive_dev_is
