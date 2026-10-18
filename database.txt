@@ -6162,3 +6162,4 @@
 ?seiryuu_tenmu -> shouryuu_senki_tenmu
 ?sacred_claire -> genseishinki_sacred_virth
 ?tierna_aeride_throne -> genseishinki_sacred_virth
+?spamton_g._spamton -> utdr_(toby_fox) deltarune undertale touhou pokemon mega_man_(series) kirby_(series) among_us original sonic_(series)
