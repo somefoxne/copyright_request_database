@@ -5872,3 +5872,4 @@
 ?blonney -> reverse:1999 lawson the_shining splatoon_(series) splatoon_3 snow_white_and_the_seven_dwarfs_(disney) friday_the_13th leon_the_professional
 ?suou_keito -> sekai_metsubou_kyouyuu_gensou_mamiya z.a.t.o._//_i_love_the_world_and_everything_in_it
 ?paul_pfitzner_(knight_college) -> knights_college indie_virtual_youtuber tokyo_afterschool_summoners live_a_hero trivia_about_you
+?nyopu -> original monster_girl_encyclopedia cuddly_octopus darkstalkers kobayashi-san_chi_no_maidragon
