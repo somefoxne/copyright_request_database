@@ -5703,3 +5703,4 @@
 ?ulki_(fire_emblem) -> fire_emblem fire_emblem:_path_of_radiance fire_emblem:_radiant_dawn fire_emblem_heroes fire_emblem_awakening fire_emblem:_the_sacred_stones fire_emblem_fates fire_emblem:_genealogy_of_the_holy_war fire_emblem:_three_houses fire_emblem_engage
 ?lei_heng_(project_moon) -> project_moon limbus_company library_of_ruina honkai_(series) honkai:_star_rail lobotomy_corporation kekkai_sensen touhou blue_archive
 ?kaela_kovalskia_(shady_shiny_memory) -> hololive hololive_indonesia hololive_dreams
+?arbitro -> togainu_no_chi nitro+_chiral lamento sweet_pool
