@@ -5439,3 +5439,4 @@
 ?indou_hikaru -> hikaru_ga_shinda_natsu papico_(ice_cream) chainsaw_man alien_stage jujutsu_kaisen silent_hill_(series) world_cup silent_hill_f 2026_fifa_world_cup the_kiss
 ?tsujinaka_yoshiki -> hikaru_ga_shinda_natsu chainsaw_man alien_stage silent_hill_(series) silent_hill_f papico_(ice_cream) neon_genesis_evangelion ganbare!_nakamura-kun!! jujutsu_kaisen world_cup
 ?cap'n_(deltarune) -> utdr_(toby_fox) deltarune naruto_(series) naruto_shippuuden undertale original touhou idolmaster umamusume boku_no_hero_academia
+?k_k_(deltarune) -> utdr_(toby_fox) deltarune undertale pokemon naruto_(series) naruto_shippuuden original touhou idolmaster vocaloid
