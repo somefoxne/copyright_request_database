@@ -5531,3 +5531,4 @@
 ?mikage_reo -> blue_lock sanrio my_melody_(series) fuwa_fuwa_cinnamoroll ensemble_stars! manchester_city_fc original pokemon gundam pokemon_(anime)
 ?artoria_pendragon_(swimsuit_ruler)_(fate) -> fate_(series) fate/grand_order fate/stay_night fate/apocrypha fate/extra original kantai_collection sword_art_online blue_archive touhou
 ?aragami_oga -> holostars hololive hololive_indonesia holostars_english hololive_english okochama_sensou_(vocaloid) gimmexgimme_(vocaloid) pokemon fate_(series) nijisanji
+?chungami -> holostars fate_(series) fate/grand_order holostars_english star_animals
