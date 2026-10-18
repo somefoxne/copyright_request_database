@@ -5564,3 +5564,4 @@
 ?rolf_(fire_emblem) -> fire_emblem fire_emblem:_path_of_radiance fire_emblem_heroes fire_emblem:_radiant_dawn fire_emblem_fates fire_emblem:_mystery_of_the_emblem fire_emblem_cipher fire_emblem:_the_blazing_blade fire_emblem_awakening fire_emblem:_the_binding_blade
 ?titania_(fire_emblem) -> fire_emblem fire_emblem:_path_of_radiance fire_emblem:_radiant_dawn fire_emblem_heroes fire_emblem_cipher fire_emblem_fates fire_emblem_awakening fire_emblem:_the_blazing_blade fire_emblem:_the_binding_blade fire_emblem:_the_sacred_stones
 ?fura_kanato_(voltaction_anniversary) -> nijisanji
+?seraph_dazzlegarden_(voltaction_anniversary) -> nijisanji
