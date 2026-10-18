@@ -4611,3 +4611,4 @@
 ?nakao_ryuusei -> dragon_ball dragon_ball_z anpanman one_piece bleach pokemon granblue_fantasy pokemon_black_2_and_white_2 bleach:_sennen_kessen-hen maoyuu_maou_yuusha
 ?hashimoto_masahiro -> hibike!_euphonium liz_to_aoi_tori
 ?bbk_(zuoteng_lucha) -> original
+?kkm.64_(zuoteng_lucha) -> original
