@@ -4387,3 +4387,4 @@
 ?wendy_marvell -> fairy_tail pokemon kouyoku_senki_exs-tia original blue_archive chainsaw_man dragon_ball suzumiya_haruhi_no_yuuutsu dragon_ball_z ranma_1/2
 ?kasugai_kagari -> null-meta coca-cola
 ?watanabe_yuuka -> null-meta coca-cola
+?morgana_(persona_5) -> persona persona_5 persona_5_the_royal persona_3 persona_4 super_smash_bros. persona_dancing persona_5:_dancing_star_night pokemon fire_emblem
