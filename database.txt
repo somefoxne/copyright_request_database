@@ -4609,3 +4609,4 @@
 ?1st_form_frieza -> dragon_ball dragon_ball_z dragon_ball_super dragon_ball_(classic) dragon_ball_super_broly dragon_ball_z_fukkatsu_no_f dr._slump umamusume touhou pokemon
 ?baikinman -> anpanman pokemon one_piece dragon_ball mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) bishoujo_senshi_sailor_moon ranma_1/2 doraemon hataraku_saibou
 ?nakao_ryuusei -> dragon_ball dragon_ball_z anpanman one_piece bleach pokemon granblue_fantasy pokemon_black_2_and_white_2 bleach:_sennen_kessen-hen maoyuu_maou_yuusha
+?hashimoto_masahiro -> hibike!_euphonium liz_to_aoi_tori
