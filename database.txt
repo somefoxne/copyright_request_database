@@ -5500,3 +5500,4 @@
 ?rouxls_kaard -> utdr_(toby_fox) deltarune undertale pokemon vocaloid the_amazing_digital_circus yume_nikki naruto_(series) naruto_shippuuden panty_&_stocking_with_garterbelt
 ?inugami_korone_(9th_costume) -> hololive chainsaw_man comiket_107 doom_(series) friday_the_13th
 ?listener_(inugami_korone) -> hololive hololive_english mario_(series) hololive_indonesia sonic_(series) pyuu_to_fuku!_jaguar:_ashita_no_jump pokemon minecraft mother_(series)
+?kanzaki_kaoru -> phantom_busters neon_genesis_evangelion mario_(series) rebuild_of_evangelion dandadan slam_dunk_(series)
