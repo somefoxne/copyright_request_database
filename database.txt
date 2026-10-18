@@ -5110,3 +5110,4 @@
 ?cartethyia_(wuthering_waves) -> wuthering_waves honkai_(series) honkai:_star_rail genshin_impact punishing:_gray_raven kuro_games kfc ipstar sousou_no_frieren devil_may_cry_(series)
 ?fleurdelys_(wuthering_waves) -> wuthering_waves genshin_impact naruto_(series) naruto_shippuuden kuro_games goddess_of_victory:_nikke yu-gi-oh! punishing:_gray_raven japanese_urban_legends original
 ?rulership_(monochrome_gm)_(umamusume) -> umamusume yu-gi-oh! jojo_no_kimyou_na_bouken real_life digimon sonic_(series) trickcal world_cup kimi_no_na_wa. crayon_shin-chan
+?nikka_edvardine_katajainen -> world_witches_series brave_witches strike_witches strike_witches:_aurora_no_majo strike_witches:_suomus_misfits_squadron witches_of_africa strike_witches:_katayoku_no_majo-tachi strike_witches:_kurenai_no_majo-tachi noble_witches strike_witches_zero
