@@ -5538,3 +5538,4 @@
 ?dodo_(black_souls) -> black_souls black_souls_2 touhou project_moon lobotomy_corporation arknights limbus_company toaru_majutsu_no_index arknights:_endfield shingeki_no_kyojin
 ?axel_syrios -> holostars holostars_english hololive hololive_indonesia hololive_english nijisanji nijisanji_en indie_virtual_youtuber pokemon scarz
 ?axelotl_(axel_syrios) -> holostars holostars_english hololive hololive_english pokemon nijisanji nijisanji_en chiikawa sonic_(series) monster_hunter_(series)
+?banzoin_hakka -> holostars holostars_english hololive hololive_english indie_virtual_youtuber hololive_indonesia indie_utaite first_stage_production protostar_twilight nijisanji
