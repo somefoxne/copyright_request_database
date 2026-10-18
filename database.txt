@@ -6283,3 +6283,4 @@
 ?fio_germi -> metal_slug snk metal_slug_3 the_king_of_fighters metal_slug_tactics fatal_fury samurai_spirits metal_slug_attack garou:_mark_of_the_wolves ryuuko_no_ken
 ?matsushita_ayami -> imasara_desu_ga_osananajimi_wo_suki_ni_natte_shimaimashita
 ?oda_nobunaga_(fate) -> fate_(series) fate/grand_order koha-ace fate/stay_night fate/extra touken_ranbu fate/apocrypha original fate/type_redline fate/zero
+?arno_(summon_night) -> summon_night summon_night:_swordcraft_story_2 summon_night:_swordcraft_story summon_night_collection summon_night_craft_sword_monogatari_hajimari_no_ishi
