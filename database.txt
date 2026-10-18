@@ -5237,3 +5237,4 @@
 ?admire_groove_(casual)_(umamusume) -> umamusume
 ?air_groove_(casual)_(umamusume) -> umamusume pokemon kobayashi-san_chi_no_maidragon umamusume:_cinderella_gray maria-sama_ga_miteru nichijou midori_no_makibaoo original real_life hokkaido_nippon-ham_fighters
 ?duramente_(casual)_(umamusume) -> umamusume project_sekai new_york_yankees umamusumeshi
+?kiseki_(casual)_(umamusume) -> umamusume the_penguins_of_madagascar oyasumi_punpun
