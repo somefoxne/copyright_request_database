@@ -5982,3 +5982,4 @@
 ?hiwagishiakari_ai -> astrae_oratio comiket_108 project_kv
 ?airy_(bravely_default) -> bravely_default_(series) bravely_default:_flying_fairy bravely_second:_end_layer original bravely_default:_brilliant_lights mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) metaphor:_refantazio bravely_default_ii
 ?the_chaplain_(project_moon) -> project_moon limbus_company utdr_(toby_fox) elden_ring undertale fear_&_hunger_(series) elden_ring:_shadow_of_the_erdtree buckshot_roulette xkcd
+?pantalone_(genshin_impact) -> genshin_impact fate_(series) honkai_(series) mihoyo original fate/grand_order honkai:_star_rail nijisanji honkai_impact_3rd fate/stay_night
