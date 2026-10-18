@@ -5577,3 +5577,4 @@
 ?lumiere_(duel_masters) -> duel_masters precure meitantei_precure!
 ?caesar_king_(zenless_zone_zero) -> zenless_zone_zero mihoyo genshin_impact umamusume honkai_(series) fate_(series) fate/grand_order honkai_impact_3rd goddess_of_victory:_nikke wuthering_waves
 ?fura_kanato_(1st_costume) -> nijisanji nijisanji_en apex_legends nijisanji_kr nijisanji_id touhou danganronpa_(series) danganronpa_v3:_killing_harmony touhou_(pc-98) dr._stone
+?shikinagi_akira_(1st_costume) -> nijisanji nijisanji_en nijisanji_kr nijisanji_id bakushou_(song) youtube mona_lisa the_creation_of_adam girl_with_a_pearl_earring the_scream
