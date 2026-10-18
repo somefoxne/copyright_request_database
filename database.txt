@@ -5672,3 +5672,4 @@
 ?seliph_(fire_emblem) -> fire_emblem fire_emblem:_genealogy_of_the_holy_war fire_emblem_heroes fire_emblem:_thracia_776 fire_emblem_awakening fire_emblem:_mystery_of_the_emblem fire_emblem:_the_binding_blade fire_emblem:_the_sacred_stones fire_emblem:_the_blazing_blade fire_emblem:_path_of_radiance
 ?roiker_(live_a_hero) -> live_a_hero arknights
 ?anya_melfissa_(1st_costume) -> hololive hololive_indonesia hololive_english hololive_dev_is holostars nijisanji hololive_dreams hololive_official_card_game jojo_no_kimyou_na_bouken marvel
+?lilina_(fire_emblem) -> fire_emblem fire_emblem:_the_binding_blade fire_emblem_heroes fire_emblem:_the_blazing_blade fire_emblem:_mystery_of_the_emblem fire_emblem_awakening fire_emblem:_the_sacred_stones fire_emblem:_genealogy_of_the_holy_war fire_emblem_fates fire_emblem:_path_of_radiance
