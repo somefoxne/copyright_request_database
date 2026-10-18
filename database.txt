@@ -4510,3 +4510,4 @@
 ?felicia_castro -> tatakau_ni_atai_suru azur_lane original fate_(series) fate/grand_order
 ?muffet -> utdr_(toby_fox) undertale xtale deltarune pokemon mario_(series) sonic_(series) elden_ring original kirby_(series)
 ?eri_(boku_no_hero_academia) -> boku_no_hero_academia spy_x_family boku_no_hero_academia:_more kimetsu_no_yaiba original pokemon dragon_ball emergence_(shindol) sleeping_beauty_(fairy_tale)
+?dream_journey_(casual)_(umamusume) -> umamusume wonder_girls original project_sekai eiyuu_densetsu kuro_no_kiseki_(series) comiket_106 kuro_no_kiseki_ii pink_bitch_club otomeroid_(pink_bitch_club)
