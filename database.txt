@@ -5627,3 +5627,4 @@
 ?fricle_(trickcal) -> trickcal the_creation_of_adam
 ?picora_(trickcal) -> trickcal
 ?brockenman -> kinnikuman
+?kindaichi_yuutarou -> haikyuu!! disney tetris
