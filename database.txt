@@ -4651,3 +4651,4 @@
 ?sakuba_yuki -> astrae_oratio
 ?meltryllis_(fate) -> fate_(series) fate/grand_order fate/extra fate/extra_ccc fate/stay_night fate/extra_ccc_fox_tail kantai_collection fate/apocrypha fate/kaleid_liner_prisma_illya hololive
 ?meltryllis_(swimsuit_lancer)_(fate) -> fate_(series) fate/grand_order fate/extra fate/extra_ccc original kantai_collection pokemon fate/stay_night hololive blue_archive
+?meltryllis_(swimsuit_lancer)_(second_ascension)_(fate) -> fate_(series) fate/grand_order fate/extra fate/extra_ccc original eiyuu_densetsu sen_no_kiseki_(series) sen_no_kiseki_iii kantai_collection hololive
