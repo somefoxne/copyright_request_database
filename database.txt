@@ -5837,3 +5837,4 @@
 ?chougei_(halloween)_(kancolle) -> kantai_collection little_red_riding_hood_(fairy_tale)
 ?minato_mio -> aikatsu!_(series) aikatsu_friends! aikatsu! aikatsu_on_parade! aikatsu_stars! precure star_twinkle_precure animedia kantai_collection love_live!
 ?penne_(aikatsu_friends!) -> aikatsu!_(series) aikatsu_friends! aikatsu! aikatsu_stars! aikatsu_on_parade! aikatsu_planet!
+?wedding_(zenith_of_lies)_(duel_masters) -> duel_masters
