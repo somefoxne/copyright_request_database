@@ -5952,3 +5952,4 @@
 ?tina_(closers) -> closers rainbow_six_siege kantai_collection vocaloid elsword steampunk_(liarsoft)
 ?harpy_(closers) -> closers original rwby soulworker
 ?levia_(closers) -> closers cardcaptor_sakura nier_(series) nier:automata elsword dungeon_and_fighter
+?yuri_seo -> closers idolmaster idolmaster_(classic) coca-cola original pokemon precure rwby go!_princess_precure soulworker
