@@ -5921,3 +5921,4 @@
 ?midoriya_inko -> boku_no_hero_academia one_piece pokemon indie_virtual_youtuber mahou_shoujo_madoka_magica gundam mahou_shoujo_madoka_magica_(anime) jojo_no_kimyou_na_bouken neon_genesis_evangelion dragon_ball
 ?sophia_(ore_to_seijo) -> ore_to_seijo_ga_dekiteru_koto_ga_baretara_kono_party_wa_houkai_suru
 ?greninja -> pokemon super_smash_bros. pokemon_x_and_y pokemon_(anime) mario_(series) the_legend_of_zelda kirby_(series) fire_emblem metroid mega_man_(series)
+?braixen -> pokemon pokemon_(anime) pokemon_x_and_y pokemon_the_series:_xy original pokemon_mystery_dungeon pokemon_cafe_remix pokemon_(classic_anime) pokedan_icma pokken_tournament
