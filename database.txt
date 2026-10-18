@@ -5203,3 +5203,4 @@
 ?chansey -> pokemon pokemon_(anime) pokemon_(classic_anime) pokemon_diamond/pearl/platinum pokemon_red/green/blue/yellow pokemon_firered_and_leafgreen pokemon_the_movie:_the_power_of_us pokemon_black_and_white pokemon_horizons pokemon_adventures
 ?audino -> pokemon pokemon_black_and_white pokemon_mystery_dungeon pokemon_black_2_and_white_2 pokemon_(anime) original pokemon_x_and_y pokemon_omega_ruby_and_alpha_sapphire pokemon_(classic_anime) pokemon_tcg
 ?wigglytuff -> pokemon pokemon_unite pokemon_mystery_dungeon pokemon_(anime) pokemon_mystery_dungeon:_explorers_of_time/darkness/sky pokemon_(classic_anime) pokemon_firered_and_leafgreen pokemon_red/green/blue/yellow pokemon_scarlet_and_violet pokemon_heartgold_and_soulsilver
+?baizhu_(genshin_impact) -> genshin_impact mihoyo honkai_(series) honkai:_star_rail honkai_impact_3rd tears_of_themis olympics 2024_summer_olympics vocaloid zenless_zone_zero
