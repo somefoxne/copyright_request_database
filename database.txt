@@ -5083,3 +5083,4 @@
 ?karukaya_gekka -> nue_no_onmyouji
 ?duftmon -> digimon digimon_card_game digimon_story:_cyber_sleuth digimon_story:_time_stranger digimon_adventure invincible_(series) digimon_adventure_02 digimon_tamers digimon_frontier
 ?toyama_kasumi -> bang_dream! bang_dream!_girls_band_party! yumenokessho bang_dream!_yumemita shoujo_kageki_revue_starlight ganso!_bang_dream_chan vocaloid love_live! synthesizer_v
+?poted's_character -> original pokemon
