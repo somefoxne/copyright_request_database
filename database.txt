@@ -5675,3 +5675,4 @@
 ?lilina_(fire_emblem) -> fire_emblem fire_emblem:_the_binding_blade fire_emblem_heroes fire_emblem:_the_blazing_blade fire_emblem:_mystery_of_the_emblem fire_emblem_awakening fire_emblem:_the_sacred_stones fire_emblem:_genealogy_of_the_holy_war fire_emblem_fates fire_emblem:_path_of_radiance
 ?lilith_(swimsuit_rider)_(first_ascension)_(fate) -> fate_(series) fate/grand_order kemono_friends comiket_108 grand_blue
 ?yukoku_kiriko -> idolmaster idolmaster_shiny_colors idolmaster_shiny_colors_song_for_prism idolmaster_cinderella_girls karma_(idolmaster) idolmaster_million_live! idolmaster_(classic) idolmaster_million_live!_theater_days idolmaster_side-m bloodborne
+?linaris_the_obsidian -> ishura newtype
