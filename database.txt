@@ -5608,3 +5608,4 @@
 ?nowi_(fire_emblem) -> fire_emblem fire_emblem_awakening fire_emblem_heroes fire_emblem:_mystery_of_the_emblem fire_emblem_fates fire_emblem:_the_binding_blade fire_emblem:_the_sacred_stones fire_emblem:_the_blazing_blade blue_archive fire_emblem:_three_houses
 ?nishinoya_yuu -> haikyuu!! love_live! boku_no_hero_academia love_live!_school_idol_project naruto_(series) naruto_(classic) hunter_x_hunter pokemon one_piece utdr_(toby_fox)
 ?brocken_jr. -> kinnikuman kantai_collection touhou love_live! jojo_no_kimyou_na_bouken love_live!_school_idol_project battle_tendency aikatsu!_(series) aikatsu! touhou_tag_dream
+?shishiro_botan_(slurping_frenzy) -> hololive hololive_dreams
