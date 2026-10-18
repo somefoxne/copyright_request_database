@@ -4812,3 +4812,4 @@
 ?red_(thus0) -> original
 ?fluttershy -> my_little_pony my_little_pony:_friendship_is_magic my_little_pony:_equestria_girls touhou invader_zim vylet_pony antonymph pokemon equestria_girls:_better_together mahou_shoujo_madoka_magica
 ?fluttershy_(equestria_girls) -> my_little_pony my_little_pony:_friendship_is_magic my_little_pony:_equestria_girls equestria_girls:_better_together equestria_girls:_rainbow_rocks pokemon amagami needy_girl_overdose osomatsu_(series) osomatsu-san
+?pinkie_pie -> my_little_pony my_little_pony:_friendship_is_magic my_little_pony:_equestria_girls sonic_(series) pokemon original kirby_(series) mario_(series) marvel sanrio
