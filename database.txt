@@ -5749,3 +5749,4 @@
 ?tanaka_kyouko -> original apple_inc. slipknot real_life nintendo peanuts_(comic) sony metallica motorhead anthrax_(band)
 ?tuye_(fabulous_beasts) -> fabulous_beasts
 ?wedding_(summer)_(duel_masters) -> duel_masters
+?great_grey_wolf_sif -> dark_souls_(series) dark_souls_i elden_ring dark_souls_iii ookami_(game) pokemon elden_ring_nightreign fromsoftware persona tales_of_(series)
