@@ -4805,3 +4805,4 @@
 ?neo_asari -> idolmaster gakuen_idolmaster sakura_photograph_(idolmaster) idolmaster_cinderella_girls idolmaster_shiny_colors comiket_106 idolmaster_(classic) idolmaster_million_live! idolmaster_million_live!_theater_days bleach
 ?bkornblume -> reverse:1999 project_moon library_of_ruina coca-cola youtube lipu_friends
 ?everecho_(reverse:1999) -> reverse:1999
+?fuyutsuki_(kancolle) -> kantai_collection comiket_104 kantai_collection_(anime) lawson comiket_107 blue_archive super_sentai comiket_105 comiket_106 starbucks
