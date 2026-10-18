@@ -5286,3 +5286,4 @@
 ?alice_gunlock -> original genshin_impact
 ?kurumi_(zero0ex) -> original
 ?aogiri_shinobu -> duel_masters dragon_musume_ni_naritakunai! pixiv
+?shinomiya_uka -> indie_virtual_youtuber
