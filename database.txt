@@ -6302,3 +6302,4 @@
 ?aimaina -> vocaloid kamippoina_(vocaloid) slow_motion_(vocaloid) senbonzakura_(vocaloid) project_diva_(series) mahou_shoujo_to_chokorewito_(vocaloid) arifureta_sekai_seifuku_(vocaloid) world_is_mine_(vocaloid) melt_(vocaloid) shinkai_shoujo_(vocaloid)
 ?luna_(princess)_(phantasy_star_iii) -> phantasy_star phantasy_star_iii
 ?ex-e-ld_(summon_night) -> summon_night summon_night:_swordcraft_story_2 summon_night:_swordcraft_story summon_night_collection summon_night_craft_sword_monogatari_hajimari_no_ishi
+?odd-eyes_pendulum_dragon -> yu-gi-oh! yu-gi-oh!_arc-v yu-gi-oh!_duel_monsters yu-gi-oh!_gx yu-gi-oh!_zexal yu-gi-oh!_cross_duel yu-gi-oh!_vrains yu-gi-oh!_sevens original
