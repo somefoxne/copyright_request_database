@@ -4577,3 +4577,4 @@
 ?luna_(phantasy_star_iii) -> phantasy_star phantasy_star_iii
 ?abrams_(deadlock) -> deadlock_(game) vocaloid league_of_legends marvel guilty_gear bishoujo_senshi_sailor_moon guilty_gear_strive one-punch_man sanrio marvel_rivals
 ?lash_(deadlock) -> deadlock_(game) utau
+?komari_chika -> make_heroine_ga_oo_sugiru! pokemon blue_archive bocchi_the_rock! kono_subarashii_sekai_ni_shukufuku_wo! pokemon_black_and_white sanrio my_melody_(series) boku_no_kokoro_no_yabai_yatsu daihatsu
