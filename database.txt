@@ -4327,3 +4327,4 @@
 ?mayano_top_gun_(scramble_zone)_(umamusume) -> umamusume top_gun top_gun:_maverick real_life fate_(series) ace_combat original dragon_ball akari_ga_yatte_kitazo_(vocaloid) kantai_collection
 ?air_groove_(quercus_civilis)_(umamusume) -> umamusume akari_ga_yatte_kitazo_(vocaloid) original pokemon fate_(series) indie_virtual_youtuber fate/stay_night umamusume:_cinderella_gray umamusume:_road_to_the_top
 ?aoyama_(szs) -> sayonara_zetsubou_sensei idolmaster idolmaster_(classic) newtype
+?fujiyoshi_harumi -> sayonara_zetsubou_sensei gundam suzumiya_haruhi_no_yuuutsu monogatari_(series) idolmaster idolmaster_(classic) code_geass lucky_star higurashi_no_naku_koro_ni azumanga_daioh
