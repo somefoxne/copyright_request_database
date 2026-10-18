@@ -5736,3 +5736,4 @@
 ?kanzaki_ranko -> idolmaster idolmaster_cinderella_girls idolmaster_cinderella_girls_starlight_stage cinderella_girls_gekijou idolmaster_(classic) granblue_fantasy star!!_(idolmaster) kantai_collection love_live! idolmaster_side-m
 ?emperor_kiriko_(duel_masters) -> duel_masters
 ?kiriko_(duel_masters) -> duel_masters
+?type_97_shotgun_(girls'_frontline) -> metal_gear_(series) blue_archive command_&_conquer tank_man casino_(1995) command_&_conquer:_generals
