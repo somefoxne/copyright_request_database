@@ -4334,3 +4334,4 @@
 ?itoshiki_kei -> sayonara_zetsubou_sensei idolmaster gundam precure idolmaster_(classic) heartcatch_precure! gundam_wing
 ?itoshiki_mikoto -> sayonara_zetsubou_sensei touhou idolmaster idolmaster_(classic) kodoku_no_gourmet
 ?itoshiki_nozomu -> sayonara_zetsubou_sensei shaft_(company) suzumiya_haruhi_no_yuuutsu monogatari_(series) bakemonogatari hidamari_sketch mahou_shoujo_madoka_magica pani_poni_dash! touhou code_geass
+?itoshiki_rin -> sayonara_zetsubou_sensei code_geass idolmaster vocaloid gundam idolmaster_(classic) suzumiya_haruhi_no_yuuutsu macross macross_frontier minami-ke
