@@ -5605,3 +5605,4 @@
 ?kuniruri_natsuki -> nue_no_onmyouji fate_(series) fate/grand_order
 ?soranaki_(nue_no_onmyouji) -> nue_no_onmyouji
 ?suisui_(wuthering_waves) -> wuthering_waves anime_expo meccha_chameleon goddess_of_victory:_nikke
+?nowi_(fire_emblem) -> fire_emblem fire_emblem_awakening fire_emblem_heroes fire_emblem:_mystery_of_the_emblem fire_emblem_fates fire_emblem:_the_binding_blade fire_emblem:_the_sacred_stones fire_emblem:_the_blazing_blade blue_archive fire_emblem:_three_houses
