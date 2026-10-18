@@ -5783,3 +5783,4 @@
 ?kurt_(fire_emblem) -> fire_emblem fire_emblem_shadows fire_emblem_heroes fire_emblem_engage fire_emblem:_the_blazing_blade fire_emblem:_three_houses fire_emblem_fates fire_emblem_awakening fire_emblem:_radiant_dawn fire_emblem:_genealogy_of_the_holy_war
 ?rose_(fire_emblem) -> fire_emblem fire_emblem_shadows fire_emblem_heroes
 ?hex_maniac_(pokemon_legends:_z-a) -> pokemon pokemon_legends:_z-a pokemon_x_and_y darkstalkers pokemon_sword_and_shield pokemon_ruby/sapphire/emerald pokemon_firered_and_leafgreen pokemon_x_and_y_(prototype) pokemon_scarlet_and_violet pokemon_diamond/pearl/platinum
+?saya_(saya_no_uta) -> saya_no_uta nitroplus kusari_hime:_euthanasia futaba_channel guro_cure os-tan vocaloid touhou tsukihime fate_(series)
