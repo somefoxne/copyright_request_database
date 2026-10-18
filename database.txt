@@ -5056,3 +5056,4 @@
 ?majide_(fire_emblem) -> fire_emblem gachimuchi
 ?seteth_(fire_emblem) -> fire_emblem fire_emblem:_three_houses fire_emblem_heroes fire_emblem_awakening fire_emblem_fates fire_emblem_engage fire_emblem_warriors:_three_hopes fire_emblem:_mystery_of_the_emblem pokemon
 ?aozora_himari -> pretty_series himitsu_no_aipri waccha_primagi! pripara precure kiratto_pri_chan princession_orchestra onegai_aipri idol_time_pripara kimi_to_idol_precure
+?kujou_miyako -> 9-nine- sanoba_witch comiket_100 mashiroiro_symphony ambitious_mission palette_(company) original comiket_108 kantai_collection gundam
