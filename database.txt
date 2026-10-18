@@ -5953,3 +5953,4 @@
 ?harpy_(closers) -> closers original rwby soulworker
 ?levia_(closers) -> closers cardcaptor_sakura nier_(series) nier:automata elsword dungeon_and_fighter
 ?yuri_seo -> closers idolmaster idolmaster_(classic) coca-cola original pokemon precure rwby go!_princess_precure soulworker
+?kohiyama_noemi -> girls_und_panzer girls_und_panzer_momi_no_ki_to_tetsu_no_hane_no_majo niconico girls_und_panzer_saishuushou world_of_tanks
