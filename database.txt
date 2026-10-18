@@ -5184,3 +5184,4 @@
 ?add-on_(off) -> off_(game) omori utdr_(toby_fox) yume_nikki deltarune undertale ib_(kouri) oneshot_(game) mother_(series) mother_2
 ?the_batter_(off) -> off_(game) yume_nikki utdr_(toby_fox) omori undertale ib_(kouri) deltarune oneshot_(game) hylics lisa_(series)
 ?the_queen_(off) -> off_(game) yume_nikki ib_(kouri) kaii_shoukougun kirisame_ga_furu_mori haiki_gas_circle satsuriku_no_tenshi chloe_no_requiem shirohako_no_mahoutsukai lilereho
+?tropius -> pokemon pokemon_ruby/sapphire/emerald pokemon_omega_ruby_and_alpha_sapphire pokemon_adventures pokemon_emerald pokemon_scarlet_and_violet pokemon_diamond/pearl/platinum pokemon_firered_and_leafgreen pokemon_sun_and_moon pokemon_(anime)
