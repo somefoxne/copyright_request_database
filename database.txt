@@ -5854,3 +5854,4 @@
 ?tatsuki_midoriya -> morenatsu original jojo_no_kimyou_na_bouken tokyo_afterschool_summoners diamond_wa_kudakenai another_eidos-r kekkai_sensen build_tiger_(gamma_dh)
 ?torahiko_oshima -> morenatsu original vocaloid tokyo_afterschool_summoners another_eidos-r arknights final_fantasy mahou_shoujo_madoka_magica jojo_no_kimyou_na_bouken final_fantasy_vii
 ?asashio_(halloween)_(kancolle) -> kantai_collection little_red_riding_hood_(fairy_tale) watashi_ni_tenshi_ga_maiorita! gundam princess_connect! lawson comiket_103 daihatsu
+?aikawa_haruno -> kouyoku_senki_exs-tia_concert
