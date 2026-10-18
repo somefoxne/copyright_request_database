@@ -5311,3 +5311,4 @@
 ?mizuhashi_parsee -> touhou subterranean_animism cookie_(touhou) touhou_(pc-98) reitaisai reitaisai_8_contest touhou_tag_dream touhou_lostword final_fantasy embodiment_of_scarlet_devil
 ?maguma_megu -> duel_masters dragon_musume_ni_naritakunai!
 ?mayano_top_gun_(casual)_(umamusume) -> umamusume zenless_zone_zero bloodborne tokimeki_memorial katawa_shoujo tokimeki_memorial_1 taisen_puzzle-dama
+?hentai_mazochuu -> pokemon manatsu_no_yo_no_inmu original mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) chainsaw_man re:zero_kara_hajimeru_isekai_seikatsu ready_or_not
