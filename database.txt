@@ -5195,3 +5195,4 @@
 ?souseiseki -> rozen_maiden suzumiya_haruhi_no_yuuutsu higurashi_no_naku_koro_ni gundam lyrical_nanoha shakugan_no_shana aria_(manga) fushigiboshi_no_futago_hime ichigo_mashimaro precure
 ?takano_miyo -> higurashi_no_naku_koro_ni umineko_no_naku_koro_ni matsuribayashi-hen higurashi_no_naku_koro_ni_mei higurashi_umineko_card_battle_jin suzumiya_haruhi_no_yuuutsu rozen_maiden vocaloid lucky_star neon_genesis_evangelion
 ?lovcen_(racehorse) -> real_life original umamusume
+?saren_(princess_connect!) -> princess_connect! cygames blue_archive fate_(series) mahou_shoujo_ni_akogarete fate/grand_order kantai_collection arknights goddess_of_victory:_nikke helltaker
