@@ -4488,3 +4488,4 @@
 ?roco_(fushigi_na_neko_no_machi_meltier) -> fushigi_na_neko_no_machi_meltier
 ?kiana_kaslana_(herrscher_of_finality) -> honkai_(series) honkai_impact_3rd honkai:_star_rail mihoyo genshin_impact zenless_zone_zero honkai_gakuen umamusume blue_archive neon_genesis_evangelion
 ?kiana_kaslana_(sung_by_the_moon_and_stars) -> honkai_(series) honkai_impact_3rd honkai:_star_rail genshin_impact mihoyo honkai_gakuen zenless_zone_zero
+?chicchai_no_(chiccha_na_watashi) -> chiccha_na_watashi_(synthesizer_v) utau synthesizer_v liar_dancer_(synthesizer_v) ultra_trailer_(synthesizer_v) musekinin_shuugoutai_(synthesizer_v) igaku_(utau) hito_mania_(utau) override_(synthesizer_v) suki_na_souzai_happyou_dragon_(utau)
