@@ -5754,3 +5754,4 @@
 ?cathedral_knight_(dark_souls) -> dark_souls_(series) dark_souls_iii elden_ring
 ?virginia_glynnberets -> alice_gear_aegis original frame_arms_girl
 ?grace_(sound_voltex) -> bemani sound_voltex polaris_chord sega maimai_(game) back_to_the_future original arcaea chunithm muse_dash
+?tamaneko_(sound_voltex) -> bemani sound_voltex polaris_chord hololive vocaloid gochuumon_wa_usagi_desu_ka? beatmania_iidx jubeat smooooch beatmania_iidx_16_empress
