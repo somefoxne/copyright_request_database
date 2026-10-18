@@ -5016,3 +5016,4 @@
 ?joutouguu_mayumi -> touhou wily_beast_and_weakest_creature touhou_(pc-98) marvel iron_man_(series) touhou_lostword animal_crossing touhou_danmaku_kagura touhou_bougetsushou
 ?suzutsuki_(kancolle) -> kantai_collection gundam kantai_collection_(anime) comiket_104 original lawson umamusume street_fighter taimanin_(series)
 ?shigure_ui_(vtuber) -> indie_virtual_youtuber hololive shukusei!!_loli-kami_requiem nijisanji voisona hololive_dev_is catcher_in_the_ui noripro hololive_english blue_archive
+?ui_(voisona) -> voisona o_henji_madakana_ojisan_koubun_(voisona) indie_virtual_youtuber vocaloid hayaku_nigenakya_(vocaloid) utau synthesizer_v mokugeki!_teto_31_sei_(synthesizer_v) google_gemini akumabarai_(voisona)
