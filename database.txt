@@ -6130,3 +6130,4 @@
 ?la+_darknesss_(1st_costume) -> hololive hololive_english hololive_indonesia hololive_dev_is pokemon the_king_of_fighters fatal_fury coca-cola dragon_ball dragon_ball_z
 ?pekomama -> hololive azur_lane hololive_english rabbit_hole_(vocaloid) holocure vocaloid hololive_dev_is original hololive_indonesia goddess_of_victory:_nikke
 ?pekomama_(1st_costume) -> hololive hololive_english pokemon hololive_indonesia hololive_dev_is minecraft romance_of_the_three_kingdoms
+?suiseiseki -> rozen_maiden suzumiya_haruhi_no_yuuutsu lyrical_nanoha higurashi_no_naku_koro_ni shakugan_no_shana mahou_shoujo_lyrical_nanoha saimoe fate_(series) strawberry_panic! gundam
