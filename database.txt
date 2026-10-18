@@ -5806,3 +5806,4 @@
 ?ritsu_(siscon_ani_to_brocon_imouto_ga_shoujiki_ni_nattara) -> siscon_ani_to_brocon_imouto_ga_shoujiki_ni_nattara
 ?uta_(siscon_ani_to_brocon_imouto_ga_shoujiki_ni_nattara_) -> siscon_ani_to_brocon_imouto_ga_shoujiki_ni_nattara original
 ?enoshima_junko -> danganronpa_(series) danganronpa:_trigger_happy_havoc danganronpa_2:_goodbye_despair danganronpa_v3:_killing_harmony danganronpa/zero danganronpa_another_episode:_ultra_despair_girls danganronpa_s:_ultimate_summer_camp
+?emrakul_the_aeons_torn -> magic:_the_gathering duel_masters duel_masters_lost touhou fate_(series) fate/grand_order umamusume k-on! sonic_(series) watashi_ga_motenai_no_wa_dou_kangaetemo_omaera_ga_warui!
