@@ -4558,3 +4558,4 @@
 ?shiin_(phantasy_star) -> phantasy_star phantasy_star_iii
 ?jane_doe_(nocturne_of_light)_(zenless_zone_zero) -> zenless_zone_zero hololive hololive_english indie_virtual_youtuber boobwatch_(2011) original blue_archive genshin_impact honkai_(series) honkai:_star_rail
 ?john_doe_(zenless_zone_zero)_(scopeophilia) -> zenless_zone_zero original genshin_impact mihoyo ratatouille
+?izanami_hifumi -> hypnosis_mic pretty_series pokemon pokemon_scarlet_and_violet pripara hypnosis_mic:_alternative_rap_battle original genshin_impact idolmaster honkai_(series)
