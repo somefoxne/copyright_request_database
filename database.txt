@@ -6286,3 +6286,4 @@
 ?arno_(summon_night) -> summon_night summon_night:_swordcraft_story_2 summon_night:_swordcraft_story summon_night_collection summon_night_craft_sword_monogatari_hajimari_no_ishi
 ?ryoumen_sukuna_(jujutsu_kaisen) -> jujutsu_kaisen chainsaw_man sanrio jujutsu_kaisen_modulo blue_archive hello_kitty one_piece naruto_(series) fate_(series) umamusume
 ?ryoumen_sukuna_(second_possession)_(jujutsu_kaisen) -> jujutsu_kaisen blue_archive precure one_piece real_life cho_kaguya-hime! futari_wa_precure berserk frozen_(disney) family_guy
+?playmaker_(yu-gi-oh!) -> yu-gi-oh! yu-gi-oh!_vrains yu-gi-oh!_duel_monsters fate_(series) fate/grand_order digimon kimetsu_no_yaiba code_geass bemani
