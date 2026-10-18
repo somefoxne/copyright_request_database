@@ -4954,3 +4954,4 @@
 ?asahi_sas_brutus -> final_fantasy final_fantasy_xiv original final_fantasy_xiv:_eorzea_gakuen pokemon shoujo_kakumei_utena kfc kamippoina_(vocaloid) mountain_dew
 ?izumi_tol_amulius -> final_fantasy final_fantasy_xiv original final_fantasy_xiv:_eorzea_gakuen utdr_(toby_fox) deltarune mountain_dew
 ?fengxi_(the_legend_of_luo_xiaohei) -> the_legend_of_luo_xiaohei lanxi_zhen pokemon spy_x_family cardcaptor_sakura fate_(series) fate/grand_order one_piece chainsaw_man splatoon_(series)
+?luozhu_(the_legend_of_luo_xiaohei) -> the_legend_of_luo_xiaohei lanxi_zhen cardcaptor_sakura
