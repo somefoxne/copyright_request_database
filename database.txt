@@ -4629,3 +4629,4 @@
 ?takao_hijiri -> hazurewaku_no_joutai_ijou_skill_de_saikyou_ni_natta_ore_ga_subete_wo_juurin_suru_made
 ?lady_maria_of_the_astral_clocktower -> bloodborne fromsoftware elden_ring dark_souls_(series) dark_souls_iii blue_archive final_fantasy sekiro:_shadows_die_twice original touhou
 ?bar-gm -> gundam under_the_gundam:_double_fake original zeta_gundam gundam_f90 gundam_zz
+?barzam -> gundam zeta_gundam original gundam_sentinel advance_of_zeta advance_of_zeta_re-boot zeta_gundam_define sd_gundam gundam_perfect_file gundam_zz
