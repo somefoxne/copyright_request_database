@@ -4330,3 +4330,4 @@
 ?fujiyoshi_harumi -> sayonara_zetsubou_sensei gundam suzumiya_haruhi_no_yuuutsu monogatari_(series) idolmaster idolmaster_(classic) code_geass lucky_star higurashi_no_naku_koro_ni azumanga_daioh
 ?fuura_kafuka -> sayonara_zetsubou_sensei shaft_(company) monogatari_(series) mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) suzumiya_haruhi_no_yuuutsu bakemonogatari hidamari_sketch azumanga_daioh ef_(visual_novel)
 ?haga_(szs) -> sayonara_zetsubou_sensei idolmaster idolmaster_(classic) sengoku_basara
+?itoshiki_enishi -> sayonara_zetsubou_sensei idolmaster idolmaster_(classic)
