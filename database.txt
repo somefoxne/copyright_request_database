@@ -5478,3 +5478,4 @@
 ?li_qingning_(the_legend_of_luo_xiaohei) -> the_legend_of_luo_xiaohei lanxi_zhen the_kiss
 ?luo_xiaobai -> the_legend_of_luo_xiaohei lanxi_zhen arknights genshin_impact ao_la_xing monopoly
 ?luo_xiaobai's_father -> the_legend_of_luo_xiaohei
+?luo_xiaobai's_mother -> the_legend_of_luo_xiaohei
