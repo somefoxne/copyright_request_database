@@ -5818,3 +5818,4 @@
 ?selena_(summer)_(fire_emblem:_the_sacred_stones) -> fire_emblem fire_emblem:_the_sacred_stones fire_emblem_heroes fire_emblem:_the_binding_blade fire_emblem:_the_blazing_blade fire_emblem:_radiant_dawn
 ?zatanna_zatara -> dc_comics justice_league absolute_dc absolute_wonder_woman wonder_woman_(series) marvel dc_super_hero_girls batman_(series) justice_league_action x-men
 ?zatanna_zatara_(absolute_dc) -> dc_comics absolute_dc absolute_wonder_woman wonder_woman_(series)
+?toothless -> how_to_train_your_dragon_(series) how_to_train_your_dragon_1 how_to_train_your_dragon_2 how_to_train_your_dragon:_the_hidden_world pokemon marvel dragon_ball rise_of_the_guardians sen_to_chihiro_no_kamikakushi original
