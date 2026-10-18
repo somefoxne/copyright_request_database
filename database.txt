@@ -6000,3 +6000,4 @@
 ?sakata_ginko -> gintama fate_(series) one_piece fate/stay_night suzumiya_haruhi_no_yuuutsu re:zero_kara_hajimeru_isekai_seikatsu ranma_1/2 saiki_kusuo_no_psi_nan
 ?pafhelo_sorian -> the_boy_who_fell
 ?leafan_(palworld) -> palworld
+?pinku_(vtuber) -> atelier_live original indie_virtual_youtuber real_life twitter tsunderia beastiez iron_vertex
