@@ -5907,3 +5907,4 @@
 ?anastasia_(third_ascension)_(fate) -> fate_(series) fate/grand_order fire_emblem fire_emblem:_the_binding_blade pixiv_fate/grand_order_contest_2
 ?jeanne_d'arc_(fate) -> fate_(series) fate/grand_order fate/apocrypha fate/zero fate/stay_night fate/extra learning_with_manga!_fgo fate/extella fate/extra_ccc capsule_servant
 ?kadoc_zemlupus_(chaldea_uniform) -> fate_(series) fate/grand_order original fate/grand_order_arcade pokemon idolmaster umamusume idolmaster_million_live! dragon_ball marvel
+?lilith_(third_ascension)_(fate) -> fate_(series) fate/grand_order fate/extra fate/strange_fake armored_core comiket_107 armored_core_vi:_fires_of_rubicon zuutto_issho_(kitani_tatsuya)
