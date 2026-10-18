@@ -5173,3 +5173,4 @@
 ?tenochtitlan_(celebratory_attire)_(fate) -> fate_(series) fate/grand_order
 ?staryu -> pokemon pokemon_legends:_z-a pokemon_(anime) pokemon_(classic_anime) pokemon_red/green/blue/yellow pokemon_firered_and_leafgreen pokemon_heartgold_and_soulsilver pokemon_the_series:_sun_&_moon pokemon_diamond/pearl/platinum
 ?perseus_(azur_lane) -> azur_lane azur_lane:_slow_ahead comiket_107 microsoft_windows mona_lisa windows_10 atelier_(series) atelier_ryza comiket_105
+?asumi_sena -> vspo! holostars nijisanji hololive madtown_gta apex_legends neo-porte xross_stars comiket_102 original
