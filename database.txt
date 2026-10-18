@@ -5201,3 +5201,4 @@
 ?nagai_noa_(sironora) -> original
 ?greavard -> pokemon pokemon_scarlet_and_violet original vocaloid pokemon_x_and_y project_voltage genshin_impact bocchi_the_rock! pokemon_tcg touhou
 ?chansey -> pokemon pokemon_(anime) pokemon_(classic_anime) pokemon_diamond/pearl/platinum pokemon_red/green/blue/yellow pokemon_firered_and_leafgreen pokemon_the_movie:_the_power_of_us pokemon_black_and_white pokemon_horizons pokemon_adventures
+?audino -> pokemon pokemon_black_and_white pokemon_mystery_dungeon pokemon_black_2_and_white_2 pokemon_(anime) original pokemon_x_and_y pokemon_omega_ruby_and_alpha_sapphire pokemon_(classic_anime) pokemon_tcg
