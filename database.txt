@@ -4849,3 +4849,4 @@
 ?toki_ayano -> yurucamp gundam akiba_maid_sensou gundam_gquuuuuux manga_time_kirara hibike!_euphonium precure lycoris_recoil tropical-rouge!_precure super_cub
 ?m004_(natsukaze_shigure) -> original monster_hunter_(series)
 ?@nyannyan -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_restart mahou_shoujo_ikusei_keikaku_unmarked mahou_shoujo_ikusei_keikaku_limited mahou_shoujo_ikusei_keikaku_jokers mahou_shoujo_ikusei_keikaku_aces
+?yumenoshima_genopsycho -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_restart mahou_shoujo_ikusei_keikaku_unmarked mahou_shoujo_ikusei_keikaku_limited mahou_shoujo_ikusei_keikaku_aces
