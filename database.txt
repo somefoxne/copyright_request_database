@@ -5711,3 +5711,4 @@
 ?katori_youko -> world_trigger pokemon fate_(series) fate/grand_order umamusume fire_emblem neon_genesis_evangelion pokemon_sword_and_shield pokemon_scarlet_and_violet fire_emblem:_three_houses
 ?yohack -> live_a_hero zenless_zone_zero oshi_no_ko jaws_(movie)
 ?amano_akari -> tonari_no_kyuuketsuki-san uchi_no_maid_ga_uzasugiru! watashi_ni_tenshi_ga_maiorita! kin-iro_mosaic slow_start comic_girls anima_yell!
+?sophie_twilight -> tonari_no_kyuuketsuki-san gochuumon_wa_usagi_desu_ka? kin-iro_mosaic apple_inc. uchi_no_maid_ga_uzasugiru! kantai_collection gundam yu-gi-oh! kobayashi-san_chi_no_maidragon to_heart_(series)
