@@ -5741,3 +5741,4 @@
 ?nikotama_mai -> alice_gear_aegis frame_arms_girl
 ?shinku -> rozen_maiden suzumiya_haruhi_no_yuuutsu higurashi_no_naku_koro_ni lyrical_nanoha touhou gundam fate_(series) shakugan_no_shana pani_poni_dash! mahou_shoujo_lyrical_nanoha
 ?shinku_(nte) -> neverness_to_everness original comiket_109
+?falco_lombardi -> star_fox super_smash_bros. pokemon the_legend_of_zelda fire_emblem mario_(series) kirby_(series) donkey_kong_(series) metroid mother_(series)
