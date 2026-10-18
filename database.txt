@@ -4771,3 +4771,4 @@
 ?amate_yuzuriha -> gundam gundam_gquuuuuux i_can_friday_by_day! mobile_suit_gundam gundam_suisei_no_majo zeta_gundam pokemon neon_genesis_evangelion gundam_seed
 ?nyaan_(gundam_gquuuuuux) -> gundam gundam_gquuuuuux i_can_friday_by_day! mobile_suit_gundam pokemon gundam_suisei_no_majo zeta_gundam neon_genesis_evangelion fate_(series)
 ?wolf_mama_(family_time) -> family_time_(game) original wizarding_world harry_potter_(series) minecraft invincible_(series)
+?red_leader_(eddsworld) -> eddsworld the_beginning_and_the_friend tordsworld tomsworld original chiikawa mattsworld super_average vocaloid project_moon
