@@ -6225,3 +6225,4 @@
 ?light_blonde_haired_girl_(michihasu) -> original
 ?dark_shine -> soukou_senki_prism_reica soukou_senki_prism_shine
 ?blair_(soul_eater) -> soul_eater bleach majo_no_takkyuubin touhou mahou_shoujo_madoka_magica lucky_star mahou_shoujo_madoka_magica_(anime) little_witch_academia original hololive
+?nyudachi -> indie_virtual_youtuber gelbooru blue_archive
