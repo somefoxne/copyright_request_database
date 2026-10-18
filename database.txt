@@ -5792,3 +5792,4 @@
 ?cogita_(pokemon) -> pokemon pokemon_legends:_arceus pokemon_diamond/pearl/platinum pokemon_sun_and_moon pokemon_sword_and_shield pokemon_(anime) pokemon_tcg resident_evil pokemon_x_and_y pokemon_masters_ex
 ?senadina_(cocoon_of_unwoven) -> honkai_(series) honkai_impact_3rd honkai:_star_rail alien_stage
 ?9lana -> indie_utaite guilty_crown
+?adamski_s-rank_space -> duel_masters idolmaster umamusume idolmaster_shiny_colors gakuen_idolmaster kamen_rider ultra_series youtube dragon_musume_ni_naritakunai!
