@@ -5079,3 +5079,4 @@
 ?makino_ikumi -> mahou_shoujo_madoka_magica magia_record:_mahou_shoujo_madoka_magica_gaiden mahou_shoujo_madoka_magica:_hangyaku_no_monogatari mahou_shoujo_oriko_magica mahou_shoujo_suzune_magica mahou_shoujo_kazumi_magica lyrical_nanoha monogatari_(series) mahou_shoujo_tart_magica idolmaster
 ?momonga_(chiikawa) -> chiikawa original sanrio vocaloid fuwa_fuwa_cinnamoroll pokemon my_melody_(series) tokyo_revengers genshin_impact mahou_shoujo_madoka_magica
 ?lisia_(pokemon) -> pokemon pokemon_omega_ruby_and_alpha_sapphire pokemon_masters_ex pokemon_(anime) pokemon_journeys pokemon_sun_and_moon pokemon_sword_and_shield pokemon_black_2_and_white_2 pokemon_ruby/sapphire/emerald pokemon_heartgold_and_soulsilver
+?ghost_miku_(project_voltage) -> pokemon vocaloid project_voltage utau pokemon_legends:_z-a the_ring denki_yohou_(vocaloid) mirai_donna_darou_(vocaloid) pocket_no_monster_(vocaloid) pokemon_(anime)
