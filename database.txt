@@ -6074,3 +6074,4 @@
 ?cagliostro_(granblue_fantasy) -> granblue_fantasy shingeki_no_bahamut cardcaptor_sakura fate_(series) idolmaster idolmaster_cinderella_girls fate/grand_order granblue_fantasy_versus kantai_collection original
 ?chloe_lemaire -> girlfriend_(kari) girlfriend_note touhou toaru_majutsu_no_index toaru_kagaku_no_railgun megami_magazine nyantype kantai_collection idolmaster
 ?dahlia_(genshin_impact) -> genshin_impact honkai_(series) honkai:_star_rail mihoyo original animal_crossing soul_eater octopath_traveler octopath_traveler_ii
+?urahara_kisuke -> bleach bleach:_sennen_kessen-hen bleach:_turn_back_the_pendulum fate_(series) cowboy_bebop bleach:_epilogue touhou hololive fate/grand_order idolmaster
