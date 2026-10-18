@@ -5405,3 +5405,4 @@
 ?chitose_(kancolle) -> kantai_collection line_(naver) aoki_hagane_no_arpeggio original gundam dragon_ball shingeki_no_kyojin kamen_rider moomin kancolle_arcade
 ?tohno_akiha -> tsukihime tsukihime_(remake) melty_blood fate_(series) type-moon fate/stay_night melty_blood:_type_lumina kagetsu_tooya carnival_phantasm kara_no_kyoukai
 ?zundamon -> voicevox voiceroid utau vocaloid a.i._voice synthesizer_v cevio kamitsubaki_studio talkex touhou
+?francesca_prelati_(fate) -> fate_(series) fate/strange_fake fate/grand_order fate/stay_night fate/apocrypha tenga weiss_schwarz pokemon sousou_no_frieren tsukihime
