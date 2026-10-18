@@ -4937,3 +4937,4 @@
 ?kitou_akari -> love_live! love_live!_nijigasaki_high_school_idol_club real_life kimetsu_no_yaiba umamusume watashi_ni_tenshi_ga_maiorita! blend_s resident_evil resident_evil_4 resident_evil_4_(remake)
 ?simon_clairmont -> fire_emblem
 ?arthur_(fire_emblem_fates) -> fire_emblem fire_emblem_fates fire_emblem_heroes fire_emblem_awakening fire_emblem:_the_binding_blade fire_emblem_cipher fate_(series) fire_emblem:_the_blazing_blade fire_emblem:_genealogy_of_the_holy_war fire_emblem:_mystery_of_the_emblem
+?fire_kirby -> kirby_(series) kirby_and_the_forgotten_land kirby_&_the_amazing_mirror kirby_star_allies kirby:_planet_robobot kirby_mass_attack kirby_super_star kirby:_triple_deluxe
