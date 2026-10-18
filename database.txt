@@ -5521,3 +5521,4 @@
 ?suzume_(princess_connect!) -> princess_connect! cygames granblue_fantasy megami_magazine comiket_105
 ?heidi_(young)_(arknights) -> arknights
 ?kal'tsit_(formal)_(arknights) -> arknights ambience_synesthesia cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 ima_sugu_rinne_(vocaloid)
+?lapis_lazuline -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_restart mahou_shoujo_ikusei_keikaku_unmarked mahou_shoujo_ikusei_keikaku_limited mahou_shoujo_ikusei_keikaku_aces mahou_shoujo_ikusei_keikaku_jokers mahou_shoujo_ikusei_keikaku_f2p mahou_shoujo_ikusei_keikaku_breakdown idolmaster mahou_shoujo_madoka_magica
