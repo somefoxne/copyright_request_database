@@ -5841,3 +5841,4 @@
 ?flare_corona -> fairy_tail fate_(series) fate/stay_night soul_eater no_game_no_life akame_ga_kill! mirai_nikki yandere_simulator deadman_wonderland
 ?gray_fullbuster -> fairy_tail twitter akame_ga_kill! one_piece durarara!! death_battle rave_(manga) pokemon boku_no_hero_academia bleach
 ?juvia_lockser -> fairy_tail naruto_(series) twitter fairy_tail_zero fate_(series) one_piece bleach kimetsu_no_yaiba naruto_shippuuden rave_(manga)
+?sweet_kiss -> mahou_senshi_(series) mahou_senshi_sweet_knights mahou_senshi_sweet_knights_2 mahou_senshi_princess_tear kourin_tenshi_en_ciel_rena mahou_senshi_lemmtear_knights sweet_knights
