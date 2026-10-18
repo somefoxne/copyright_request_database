@@ -4919,3 +4919,4 @@
 ?kali_(project_moon) -> project_moon library_of_ruina lobotomy_corporation limbus_company leviathan_(project_moon) fate_(series) blue_archive genshin_impact fate/grand_order umamusume
 ?billy_(deadlock) -> deadlock_(game) frankenstein
 ?durga_(fate) -> fate_(series) fate/grand_order fate/stay_night fate/extra fate/kaleid_liner_prisma_illya fate/strange_fake tsukihime fate/zero shingeki_no_kyojin dc_comics
+?durga_(first_ascension)_(fate) -> fate_(series) fate/grand_order fate/stay_night tsukihime tsukihime_(remake) fate/grand_order_arcade
