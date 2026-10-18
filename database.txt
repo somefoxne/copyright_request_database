@@ -5467,3 +5467,4 @@
 ?spewpa -> pokemon pokemon_x_and_y pokemon_(anime) pokemon_legends:_z-a pokemon_the_series:_xy pokemon_ruby/sapphire/emerald pokemon_(classic_anime) pokemon_tcg pokemon_the_series:_sun_&_moon pokemon_journeys
 ?swirlix -> pokemon pokemon_x_and_y pokemon_legends:_z-a pokemon_sword_and_shield original pokemon_(anime) pokemon_scarlet_and_violet pokemon_mystery_dungeon pokemon_sun_and_moon pokemon_black_2_and_white_2
 ?a'gen_(the_legend_of_luoxiaohei) -> the_legend_of_luo_xiaohei lanxi_zhen arknights ao_la_xing pokemon pokemon_(anime) pokemon_the_series:_xy monopoly trump_(series)
+?a'he_(the_legend_of_luoxiaohei) -> the_legend_of_luo_xiaohei lanxi_zhen pokemon
