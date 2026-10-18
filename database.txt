@@ -5155,3 +5155,4 @@
 ?yeon_dongha -> paradox_live sanrio
 ?captain_hannah -> indie_virtual_youtuber vshojo original zenless_zone_zero twitter vedal_ai
 ?tenochtitlan_(fate) -> fate_(series) fate/grand_order fate/dream_striker pokemon tsukihime yoru_mac fate/grail_league blue_archive genshin_impact
+?tenochtitlan_(first_ascension)_(fate) -> fate_(series) fate/grand_order fate/dream_striker vocaloid tsukihime ego_rock_(vocaloid) jujutsu_kaisen kobayashi-san_chi_no_maidragon fallout comiket_102
