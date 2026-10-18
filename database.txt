@@ -4742,3 +4742,4 @@
 ?mordred_(fate) -> fate_(series) fate/apocrypha fate/grand_order fate/stay_night fate/extra fate/zero fate/extra_ccc fate/prototype learning_with_manga!_fgo helltaker
 ?mog_(ff6) -> final_fantasy final_fantasy_vi final_fantasy_vii final_fantasy_iv final_fantasy_v dissidia_final_fantasy final_fantasy_ix dragon_quest final_fantasy_viii final_fantasy_x
 ?umaro -> final_fantasy final_fantasy_vi final_fantasy_v final_fantasy_vii dragon_quest final_fantasy_iv touhou pokemon yu-gi-oh! the_legend_of_zelda
+?ragatha_(the_amazing_digital_circus) -> the_amazing_digital_circus alien_stage omori pokemon eizouken_ni_wa_te_wo_dasu_na! glitch_productions chainsaw_man neon_genesis_evangelion bocchi_the_rock! dc_comics
