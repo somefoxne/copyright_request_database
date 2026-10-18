@@ -4785,3 +4785,4 @@
 ?komazawa_noi_(tsukuyomi) -> cho_kaguya-hime! an_an wego chainsaw_man invincible_(series) netflix original kantai_collection fate_(series) genshin_impact
 ?dot_(pokemon) -> pokemon pokemon_(anime) pokemon_horizons pokemon_scarlet_and_violet precure pokemon_sun_and_moon umamusume fire_emblem bocchi_the_rock! pokemon_legends:_z-a
 ?liko_(pokemon) -> pokemon pokemon_(anime) pokemon_horizons pokemon_journeys pokemon_scarlet_and_violet pokemon_sun_and_moon pokemon_(classic_anime) precure pokemon_sword_and_shield pokemon_masters_ex
+?komazawa_rai -> cho_kaguya-hime! an_an dragon_ball dragon_ball_z animal_crossing minecraft invincible_(series) crayon_shin-chan netflix sennen_joyuu
