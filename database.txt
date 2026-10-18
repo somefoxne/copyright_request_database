@@ -4682,3 +4682,4 @@
 ?stunky -> pokemon pokemon_diamond/pearl/platinum pokemon_ruby/sapphire/emerald pokemon_mystery_dungeon pokemon_legends:_arceus pokemon_gold/silver/crystal original pokemon_sword_and_shield pokemon_red/green/blue/yellow pokemon_(anime)
 ?popo_(gigi_murin) -> hololive hololive_english hololive_indonesia hololive_dev_is hololive_official_card_game kono_subarashii_sekai_ni_shukufuku_wo! maplestory kura_sushi passpartout:_the_starving_artist
 ?oberon_(third_ascension)_(fate) -> fate_(series) fate/grand_order original howl_no_ugoku_shiro pokemon tsukihime tsukihime_(remake) fate/strange_fake chainsaw_man fate/stay_night
+?junpei_(kyokugen_dasshutsu) -> kyokugen_dasshutsu kyokugen_dasshutsu:_9_jikan_9_nin_9_no_tobira zero_escape:_toki_no_dilemma kyokugen_dasshutsu_adv:_zennin_shibou_desu back_to_the_future pokemon nijisanji nijisanji_en ace_attorney animal_crossing
