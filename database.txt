@@ -5336,3 +5336,4 @@
 ?mutsura_yuuto -> dracu-riot! comiket_102 yuzusoft comiket_106 cafe_stella_to_shinigami_no_chou comiket_101 comiket_97 30-sai_made_doutei_dato_mahoutsukai_ni_nareru_rashii fate_(series) fate/grand_order
 ?yarai_miu -> dracu-riot! yuzusoft senren_banka riddle_joker sanoba_witch cafe_stella_to_shinigami_no_chou tenshinranman amairo_islenauts tenshi_souzou_re-boot! noble_works
 ?barbara_(genshin_impact) -> genshin_impact honkai_(series) mihoyo honkai:_star_rail honkai_impact_3rd original comiket_100 pokemon horizon_(game) blue_archive
+?prism_shine -> soukou_senki_prism_reica soukou_senki_prism_shine
