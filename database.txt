@@ -4718,3 +4718,4 @@
 ?ultraman_taiga -> ultra_series ultraman_taiga_(series) ultra_galaxy_(series) ultraman_r/b ultraman_geed_(series) ultraman_z_(series) ultraman_orb_(series) ultraman_ginga_(series) ultraman_ginga_s ultraman_x_(series)
 ?ultraman_titas -> ultra_series ultraman_taiga_(series) ultraman_r/b ultraman_ginga_(series) ultraman_z_(series) ultraman_ginga_s ultra_galaxy_(series) ultraman_geed_(series) ultraman_orb_(series) ultraman_x_(series)
 ?ultraman_fuma -> ultra_series ultraman_taiga_(series) ultraman_r/b ultraman_z_(series) ultraman_ginga_(series) ultraman_ginga_s ultra_galaxy_(series) ultraman_geed_(series) ultraman_orb_(series) ultraman_x_(series)
+?indomitable_(azur_lane) -> azur_lane azur_lane:_slow_ahead goddess_of_victory:_nikke comiket_100 tower_records yostar
