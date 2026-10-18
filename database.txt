@@ -6039,3 +6039,4 @@
 ?sandrone_(genshin_cafe_in_paris)_(genshin_impact) -> genshin_impact
 ?ookami_mio_(8th_costume) -> hololive hololive_official_card_game monster_hunter_(series) hololive_grand_theft_auto katamari_damacy dorfromantik
 ?gerbera_tetra -> gundam gundam_0083 original kantai_collection gundam_build_fighters sd_gundam zeta_gundam gundam_0080 gundam_gihren_no_yabou bandai
+?gerbera_tetra_kai -> gundam gundam_gihren_no_yabou gundam_battle_operation_2 gundam_0083 sunrise_(company)
