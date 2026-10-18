@@ -5744,3 +5744,4 @@
 ?falco_lombardi -> star_fox super_smash_bros. pokemon the_legend_of_zelda fire_emblem mario_(series) kirby_(series) donkey_kong_(series) metroid mother_(series)
 ?mimi_(nhim) -> original minecraft yu-gi-oh! sonic_(series) google blade_runner_(series) blade_runner_2049 pokemon fate_(series) vocaloid
 ?kamijou_touma -> toaru_majutsu_no_index toaru_kagaku_no_railgun toaru_majutsu_no_index:_new_testament toaru_majutsu_no_index:_old_testament mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) toaru_majutsu_no_index:_genesis_testament toaru_kagaku_no_railgun_t toaru_majutsu_no_index:_endymion_no_kiseki toaru_kagaku_no_railgun_s
+?hao_(rk_music) -> rk_music
