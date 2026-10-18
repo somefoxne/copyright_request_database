@@ -6203,3 +6203,4 @@
 ?vi_(league) -> league_of_legends arcane:_league_of_legends 2xko rwby avatar_legends adventure_time original dc_comics the_legend_of_korra the_owl_house
 ?fiore_forvedge_yggdmillennia -> fate_(series) fate/apocrypha fate/grand_order my_little_pony my_little_pony:_friendship_is_magic fate/stay_night kara_no_kyoukai lord_el-melloi_ii_case_files fate:lost_einherjar
 ?show_mizunoe -> seitokai_ni_mo_ana_wa_aru!
+?shinomiya_kaguya -> kaguya-sama_wa_kokurasetai_~tensai-tachi_no_renai_zunousen~ oshi_no_ko fate_(series) genshin_impact fate/grand_order boku_no_hero_academia k-on! sword_art_online re:zero_kara_hajimeru_isekai_seikatsu spy_x_family
