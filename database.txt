@@ -4320,3 +4320,4 @@
 ?lovely_labrynth_of_the_silver_castle -> yu-gi-oh! yu-gi-oh!_master_duel guilty_crown goddess_of_victory:_nikke mario_(series) mega_man_(series) mega_man_battle_network_(series) original yu-gi-oh!_duel_monsters mario_kart
 ?balloon_party -> reverse:1999 fate_(series) fate/grand_order
 ?tanino_gimlet_(casual)_(umamusume) -> umamusume umamusume:_cinderella_gray comiket_102 irasutoya
+?kisaragi_chihaya -> idolmaster idolmaster_(classic) idolmaster_1 idolmaster_million_live! idolmaster_million_live!_theater_days idolmaster_2 idolmaster_cinderella_girls idolmaster_live_for_you! idolmaster_sp idolmaster_dearly_stars
