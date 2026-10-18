@@ -4324,3 +4324,4 @@
 ?marufuji_ryo -> yu-gi-oh! yu-gi-oh!_gx yu-gi-oh!_duel_monsters yu-gi-oh!_zexal yu-gi-oh!_vrains yu-gi-oh!_3d_bonds_beyond_time pokemon yu-gi-oh!_arc-v original
 ?ambessa_(league) -> league_of_legends arcane:_league_of_legends fate_(series) fate/grand_order megamind_(movie)
 ?sevika_(arcane) -> league_of_legends arcane:_league_of_legends chainsaw_man sanrio my_melody_(series) fuwa_fuwa_cinnamoroll hello_kitty gentlemen_prefer_blondes
+?mayano_top_gun_(scramble_zone)_(umamusume) -> umamusume top_gun top_gun:_maverick real_life fate_(series) ace_combat original dragon_ball akari_ga_yatte_kitazo_(vocaloid) kantai_collection
