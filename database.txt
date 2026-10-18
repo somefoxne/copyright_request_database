@@ -5643,3 +5643,4 @@
 ?shiraki_hime -> watashi_no_yuri_wa_oshigoto_desu! yu-gi-oh! umamusume gundam bang_dream! bishoujo_senshi_sailor_moon mahou_shoujo_no_majo_saiban shingeki_no_kyojin lucky_star
 ?migi_(yomi_no_tsugai) -> yomi_no_tsugai honkai_(series) honkai:_star_rail lyrical_nanoha mahou_shoujo_lyrical_nanoha fullmetal_alchemist square_enix bones_(company) yarofes:2026
 ?nanally_(nte) -> neverness_to_everness blue_archive war_thunder tokyo_game_show
+?nanally_(sunny_surf)_(nte) -> neverness_to_everness
