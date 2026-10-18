@@ -6102,3 +6102,4 @@
 ?tony_tony_chopper -> one_piece one_piece_card_game one_piece:_strong_world dragon_ball pokemon one_piece_film:_red dragon_ball_z mario_(series) naruto_(series) one_piece_fan_letter
 ?nero_claudius_(modern_costume_of_crimson)_(fate) -> fate_(series) fate/extra fate/grand_order fate/extra_ccc fate/extella fate/stay_night fate/apocrypha tsukihime tsukihime_(remake) rojiura_satsuki:_chapter_heroine_sanctuary
 ?shyrei_faolan -> indie_virtual_youtuber vyugen original vinesauce gamer_supps zenless_zone_zero splatoon_(series) silent_hill_(series) subnautica final_fantasy
+?wakamo_(swimsuit)_(blue_archive) -> blue_archive comiket_105 fate_(series) fate/grand_order umamusume comiket_106 original azur_lane onii-chan_wa_oshimai! yuyushiki
