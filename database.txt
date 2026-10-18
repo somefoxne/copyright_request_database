@@ -4473,3 +4473,4 @@
 ?sasaki_akebi -> girls_und_panzer gekitotsu!_joshikousei_oiroke_sensha_gundan girls_und_panzer_senshadou_daisakusen! girls_und_panzer_motto_love_love_sakusen_desu! kantai_collection ultra_series ultraman_(1st_series) girls_und_panzer_gekijouban girls_und_panzer_saishuushou j._league
 ?putine_(dragon_ball) -> dragon_ball dragon_ball_heroes dragon_ball_z dragon_ball_super one_piece dragon_ball_(classic) dragon_ball_gt dragon_ball_fighterz dragon_ball_super_broly dragon_ball_online
 ?hyoudou_issei -> high_school_dxd high_school_dxd_hero koutetsu_no_majo_annerose taimanin_(series) high_school_dxd_new digimon overlord_(maruyama) seikon_no_qwaser taimanin_murasaki high_school_dxd_operation_paradise_infinity
+?usagi_(guilty_gear) -> guilty_gear guilty_gear_strive kirby_(series) guilty_gear_xrd gakkou_no_kaidan_(anime) ratatouille
