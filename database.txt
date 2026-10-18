@@ -4502,3 +4502,4 @@
 ?palla_(fire_emblem) -> fire_emblem fire_emblem:_mystery_of_the_emblem fire_emblem_heroes fire_emblem_echoes:_shadows_of_valentia fire_emblem:_shadow_dragon fire_emblem:_shadow_dragon_and_the_blade_of_light fire_emblem:_new_mystery_of_the_emblem fire_emblem_gaiden fire_emblem:_the_sacred_stones fire_emblem_awakening
 ?minato_aqua_(sailor) -> hololive apex_legends hololive_english hololive_indonesia pokemon nijisanji hololive_dev_is mario_(series) minecraft original
 ?nerine -> shuffle! lyrical_nanoha suzumiya_haruhi_no_yuuutsu fate_(series) fate/stay_night mahou_shoujo_lyrical_nanoha to_heart_(series) megami_magazine shakugan_no_shana rozen_maiden
+?akigumo_(starward) -> starward
