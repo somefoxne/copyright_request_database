@@ -5322,3 +5322,4 @@
 ?ormrinn_langi_(pure-white_predator)_(azur_lane) -> azur_lane
 ?the_rock_(dwayne_johnson) -> real_life wwe bocchi_the_rock! touhou the_king_of_fighters hololive the_king_of_fighters_all-stars hololive_english blue_archive genshin_impact
 ?aihara_enju -> black_bullet kantai_collection toaru_majutsu_no_index sword_art_online date_a_live divine_gate hidan_no_aria toaru_kagaku_no_railgun megami_magazine shakugan_no_shana
+?curren_bouquetd'or_(racing)_(umamusume) -> umamusume pokemon gundam gundam_build_divers gundam_build_divers_re:rise portal_(series) toy_story portal_2 atlus
