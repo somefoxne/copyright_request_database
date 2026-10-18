@@ -5243,3 +5243,4 @@
 ?noel_(tsukihime) -> tsukihime tsukihime_(remake) melty_blood melty_blood:_type_lumina fate_(series) fate/grand_order type-moon kagetsu_tooya fate/stay_night fate/strange_fake
 ?sasha_(haguhagu) -> original sasha-chan_to_classmate_otaku-kun youtube pokemon fate_(series) fate/grand_order dc_comics wizarding_world harry_potter_(series) batman_(series)
 ?arumi_(reia_76) -> original
+?ichikawa_hinana -> idolmaster idolmaster_shiny_colors idolmaster_shiny_colors_song_for_prism mahjong_soul dars pokemon idolmaster_cinderella_girls chainsaw_man idolmaster_(classic) wizarding_world
