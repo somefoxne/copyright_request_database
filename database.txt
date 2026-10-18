@@ -5593,3 +5593,4 @@
 ?sky_striker_ace_-_raye -> yu-gi-oh! yu-gi-oh!_master_duel original yu-gi-oh!_duel_monsters bocchi_the_rock! dragon_ball jujutsu_kaisen yu-gi-oh!_duel_links fate_(series) fate/grand_order
 ?sakiri_(nte) -> neverness_to_everness
 ?meluna_(trickcal) -> trickcal
+?manhattan_cafe_(verdant_night)_(umamusume) -> umamusume chiikawa real_life lycoris_recoil nyanko_daisensou san-x rilakkuma_(series) counter-strike_(series) suntory counter-strike_2
