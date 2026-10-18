@@ -4941,3 +4941,4 @@
 ?magical_mirai_miku_(2016) -> vocaloid magical_mirai_(vocaloid) 39_music_(vocaloid) suna_no_wakusei_(vocaloid) goodsmile_company goodsmile_racing senbonzakura_(vocaloid) hatsune_miku_happy_16th_birthday_-dear_creators- project_diva_(series) piapro_studio
 ?ryougi_shiki -> kara_no_kyoukai fate_(series) fate/grand_order tsukihime fate/stay_night type-moon mahou_tsukai_no_yoru melty_blood tsukihime_(remake) fate/hollow_ataraxia
 ?ryougi_shiki_(swimsuit_mooncancer)_(first_ascension) -> fate_(series) fate/grand_order kara_no_kyoukai fate/hollow_ataraxia fate/stay_night original tsukihime type-moon
+?kidian_(trickcal) -> trickcal minecraft team_fortress_2
