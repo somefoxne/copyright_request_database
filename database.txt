@@ -4956,3 +4956,4 @@
 ?fengxi_(the_legend_of_luo_xiaohei) -> the_legend_of_luo_xiaohei lanxi_zhen pokemon spy_x_family cardcaptor_sakura fate_(series) fate/grand_order one_piece chainsaw_man splatoon_(series)
 ?luozhu_(the_legend_of_luo_xiaohei) -> the_legend_of_luo_xiaohei lanxi_zhen cardcaptor_sakura
 ?tianhu_(the_legend_of_luo_xiaohei) -> the_legend_of_luo_xiaohei lanxi_zhen one_piece gintama gake_no_ue_no_ponyo
+?xuhuai_(the_legend_of_luo_xiaohei) -> the_legend_of_luo_xiaohei lanxi_zhen pokemon cardcaptor_sakura
