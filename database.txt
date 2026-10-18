@@ -5542,3 +5542,4 @@
 ?crimzon_ruze -> holostars holostars_english hololive pokemon hololive_english hololive_indonesia nijisanji nijisanji_en sanrio indie_virtual_youtuber
 ?gavis_bettel -> holostars holostars_english hololive hololive_english indie_virtual_youtuber vshojo doppelganger_(holostars_english) dead_world_(holostars_english) protostar_twilight hololive_indonesia
 ?goldbullet -> holostars holostars_english pokemon hololive hololive_indonesia hololive_english indie_virtual_youtuber neon_genesis_evangelion bishoujo_senshi_sailor_moon hololive_dev_is
+?josuiji_shinri -> holostars holostars_english hololive hololive_indonesia hololive_english protostar_twilight nijisanji flex_(holostars_english) nijisanji_en pokemon
