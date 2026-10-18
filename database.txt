@@ -5036,3 +5036,4 @@
 ?nice_nature_(casual)_(umamusume) -> umamusume love_live! pikmin_(series) yani_neko pikmin_bloom love_live!_nijigasaki_high_school_idol_club real_life kfc sony ai_scream!_(love_live!)
 ?raia-chan -> yappari_chinchirando akinator_(site) chiikawa
 ?hamad_(jinki) -> jinki
+?hiiragi_akao -> jinki jinki_extend_re:vision kantai_collection megami_magazine idolmaster lyrical_nanoha suzumiya_haruhi_no_yuuutsu lucky_star higurashi_no_naku_koro_ni mahou_shoujo_lyrical_nanoha_strikers
