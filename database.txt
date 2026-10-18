@@ -5317,3 +5317,4 @@
 ?akizuki_kanna -> cafe_stella_to_shinigami_no_chou yuzusoft senren_banka sanoba_witch dracu-riot! genshin_impact riddle_joker amairo_islenauts tenshinranman tenshi_souzou_re-boot!
 ?asaba_harumasa -> zenless_zone_zero genshin_impact mihoyo moechakkafire honkai_(series) honkai:_star_rail nier_(series) nier:automata zozotown death_note
 ?lennon_(little_busters!) -> little_busters! key_(company) air_(visual_novel) kanon angel_beats! clannad dango_daikazoku rewrite charlotte_(anime) kud_wafter
+?firefly_(jepella_rebellion)_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail honkai_impact_3rd chainsaw_man zenless_zone_zero mihoyo
