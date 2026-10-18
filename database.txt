@@ -6240,3 +6240,4 @@
 ?kokonoe_rin -> kodomo_no_jikan megami_magazine clannad lucky_star vocaloid zero_no_tsukaima shakugan_no_shana idolmaster lyrical_nanoha da_capo
 ?fortuna_(re:zero) -> re:zero_kara_hajimeru_isekai_seikatsu original newtype
 ?sophie_(tales) -> tales_of_(series) tales_of_graces tales_of_graces_f tales_of_asteria tales_of_vesperia tales_of_the_abyss tales_of_symphonia tales_of_xillia tales_of_destiny tales_of_phantasia
+?meisho_doto_(dot-o'-lantern)_(umamusume) -> umamusume original pokemon fate_(series) indie_virtual_youtuber fate/stay_night real_life gegege_no_kitarou umamusume:_cinderella_gray magic:_the_gathering
