@@ -6152,3 +6152,4 @@
 ?kanno_fumi -> devil_survivor_(series) devil_survivor_2 megami_tensei original soul_eater devil_survivor_1 yozakura_quartet
 ?kagamine_len_(nt) -> vocaloid piapro_studio utau synthesizer_v cevio midi_master_(vocaloid)
 ?kagamine_rin_(nt) -> vocaloid piapro_studio pokemon synthesizer_v cevio midi_master_(vocaloid)
+?leaf_(pokemon) -> pokemon pokemon_firered_and_leafgreen pokemon_heartgold_and_soulsilver pokemon_diamond/pearl/platinum pokemon_ruby/sapphire/emerald pokemon_black_and_white pokemon_gold/silver/crystal pokemon_masters_ex pokemon_black_2_and_white_2 pokemon_red/green/blue/yellow
