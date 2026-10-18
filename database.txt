@@ -4716,3 +4716,4 @@
 ?swablu -> pokemon pokemon_scarlet_and_violet pokemon_omega_ruby_and_alpha_sapphire pokemon_ruby/sapphire/emerald vocaloid project_voltage pokemon_diamond/pearl/platinum pokemon_black_and_white pokemon_heartgold_and_soulsilver pokemon_emerald
 ?asashio_(kancolle) -> kantai_collection original comiket_95 gundam watashi_ni_tenshi_ga_maiorita! idolmaster idolmaster_cinderella_girls azur_lane fate_(series) aoki_hagane_no_arpeggio
 ?ultraman_taiga -> ultra_series ultraman_taiga_(series) ultra_galaxy_(series) ultraman_r/b ultraman_geed_(series) ultraman_z_(series) ultraman_orb_(series) ultraman_ginga_(series) ultraman_ginga_s ultraman_x_(series)
+?ultraman_titas -> ultra_series ultraman_taiga_(series) ultraman_r/b ultraman_ginga_(series) ultraman_z_(series) ultraman_ginga_s ultra_galaxy_(series) ultraman_geed_(series) ultraman_orb_(series) ultraman_x_(series)
