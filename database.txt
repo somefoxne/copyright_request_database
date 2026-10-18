@@ -4684,3 +4684,4 @@
 ?oberon_(third_ascension)_(fate) -> fate_(series) fate/grand_order original howl_no_ugoku_shiro pokemon tsukihime tsukihime_(remake) fate/strange_fake chainsaw_man fate/stay_night
 ?junpei_(kyokugen_dasshutsu) -> kyokugen_dasshutsu kyokugen_dasshutsu:_9_jikan_9_nin_9_no_tobira zero_escape:_toki_no_dilemma kyokugen_dasshutsu_adv:_zennin_shibou_desu back_to_the_future pokemon nijisanji nijisanji_en ace_attorney animal_crossing
 ?kurashiki_akane -> kyokugen_dasshutsu kyokugen_dasshutsu:_9_jikan_9_nin_9_no_tobira zero_escape:_toki_no_dilemma kyokugen_dasshutsu_adv:_zennin_shibou_desu pokemon danganronpa_(series) ai_the_somnium_files danganronpa_2:_goodbye_despair danganronpa:_trigger_happy_havoc the_hundred_line_-last_defense_academy-
+?retsarra_(ff14) -> final_fantasy final_fantasy_xiv final_fantasy_ix danshi_koukousei_no_nichijou
