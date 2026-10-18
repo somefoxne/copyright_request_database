@@ -4539,3 +4539,4 @@
 ?tojou_michiru -> dolphin_wave senran_kagura marvelous senran_kagura_new_link don_quijote_(store) dead_or_alive dead_or_alive_xtreme azur_lane love_live! senki_zesshou_symphogear
 ?enna_alouette_(anniversary_dress) -> nijisanji nijisanji_en love_and_deepspace among_us nijisanji_id kawaii_kaiwai requiem_(kanaria)
 ?millie_parfait_(anniversary_dress) -> nijisanji nijisanji_en nijisanji_id
+?koseki_bijou_(school_uniform) -> hololive hololive_english hololive_indonesia
