@@ -5706,3 +5706,4 @@
 ?arbitro -> togainu_no_chi nitro+_chiral lamento sweet_pool
 ?kau_(togainu_no_chi) -> togainu_no_chi
 ?anya_(spy_x_family) -> spy_x_family chainsaw_man pokemon genshin_impact sousou_no_frieren jujutsu_kaisen hololive original kimetsu_no_yaiba kobayashi-san_chi_no_maidragon
+?delia_(trickcal) -> trickcal
