@@ -5803,3 +5803,4 @@
 ?hatsume_mei -> boku_no_hero_academia comiket_98 jujutsu_kaisen monster_hunter_(series) monster_hunter_wilds zenless_zone_zero danganronpa_(series) street_fighter street_fighter_iv_(series) amazon_(company)
 ?simone_(reverse:1999) -> reverse:1999
 ?akane_rin_(house_special)_(nte) -> neverness_to_everness
+?ritsu_(siscon_ani_to_brocon_imouto_ga_shoujiki_ni_nattara) -> siscon_ani_to_brocon_imouto_ga_shoujiki_ni_nattara
