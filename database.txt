@@ -6164,3 +6164,4 @@
 ?tierna_aeride_throne -> genseishinki_sacred_virth
 ?spamton_g._spamton -> utdr_(toby_fox) deltarune undertale touhou pokemon mega_man_(series) kirby_(series) among_us original sonic_(series)
 ?deep_blue_(ff14) -> final_fantasy final_fantasy_xiv original
+?red_hot_(ff14) -> final_fantasy final_fantasy_xiv original
