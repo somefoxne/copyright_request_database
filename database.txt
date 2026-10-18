@@ -4678,3 +4678,4 @@
 ?kitakami_reika -> idolmaster idolmaster_million_live! idolmaster_million_live!_theater_days idolmaster_(classic) idolmaster_cinderella_girls pokemon idolmaster_cinderella_girls_starlight_stage idolmaster_shiny_colors kantai_collection granblue_fantasy
 ?galarian_zigzagoon -> pokemon pokemon_sword_and_shield vocaloid project_voltage original pokemon_(anime) idolmaster idolmaster_million_live! pokemon_(classic_anime) pokemon_tcg
 ?piers_(pokemon) -> pokemon pokemon_sword_and_shield pokemon_masters_ex pokemon_sun_and_moon pokemon_black_and_white pokemon_scarlet_and_violet pokemon_diamond/pearl/platinum pokemon_black_2_and_white_2 pokemon_x_and_y pokemon_omega_ruby_and_alpha_sapphire
+?scraggy -> pokemon pokemon_legends:_z-a pokemon_black_and_white pokemon_sword_and_shield pokemon_(anime) pokemon_the_series:_black_&_white pokemon_black_2_and_white_2 pokemon_(classic_anime) pokemon_journeys pokemon_sun_and_moon
