@@ -6255,3 +6255,4 @@
 ?mystique -> marvel x-men x-men_movie_series x-men:_first_class the_incredible_hulk_(series) marvel_snap dc_comics deadpool_(series) the_legend_of_zelda mario_(series)
 ?weather_report -> jojo_no_kimyou_na_bouken stone_ocean vento_aureo diamond_wa_kudakenai stardust_crusaders steel_ball_run battle_tendency phantom_blood jojolion marvel
 ?shiiko_sugai -> gundam gundam_gquuuuuux kantai_collection mobile_suit_gundam zeta_gundam girls_und_panzer gundam_suisei_no_majo idolmaster idolmaster_shiny_colors
+?finn_the_human -> adventure_time adventure_time:_fionna_and_cake chainsaw_man steven_universe powerpuff_girls the_amazing_world_of_gumball original utdr_(toby_fox) the_legend_of_zelda pokemon
