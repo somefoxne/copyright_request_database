@@ -4753,3 +4753,4 @@
 ?agnes_claudel -> eiyuu_densetsu kuro_no_kiseki_(series) kuro_no_kiseki_i kai_no_kiseki kuro_no_kiseki_ii falcom sen_no_kiseki_(series) sora_no_kiseki little_red_riding_hood_(fairy_tale) sen_no_kiseki_i
 ?talulah_(episode_17)_(arknights) -> arknights
 ?seiun_sky_(whimsical_orange_on_the_shore)_(umamusume) -> umamusume zenless_zone_zero comiket_108
+?neru_(bunny)_(blue_archive) -> blue_archive comiket_102 comiket_103 comiket_104 zenless_zone_zero nijisanji rabbit_hole_(vocaloid) comiket_107 blue_archive_the_animation angry_video_game_nerd
