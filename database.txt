@@ -6265,3 +6265,4 @@
 ?knightfight_red_hood -> dc_comics batman_(series) knightfight dc:_dark_legion red_hood_and_the_outlaws original resident_evil
 ?toki_(bunny)_(blue_archive) -> blue_archive comiket_102 blue_archive_the_animation fate_(series) fate/grand_order comiket_104 original rabbit_hole_(vocaloid) comiket_103 goddess_of_victory:_nikke
 ?haruka_(senran_kagura) -> senran_kagura senran_kagura_new_wave senran_kagura_new_link senran_kagura_shinovi_versus senran_kagura_estival_versus senran_kagura_burst senran_kagura_burst_re:newal senran_kagura_peach_ball senran_kagura_peach_beach_splash
+?yu_zhu -> legend_of_mortal
