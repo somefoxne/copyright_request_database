@@ -5856,3 +5856,4 @@
 ?asashio_(halloween)_(kancolle) -> kantai_collection little_red_riding_hood_(fairy_tale) watashi_ni_tenshi_ga_maiorita! gundam princess_connect! lawson comiket_103 daihatsu
 ?aikawa_haruno -> kouyoku_senki_exs-tia_concert
 ?exs-tia_ignis -> kouyoku_senki_exs-tia_concert
+?hisaki_(live_a_hero) -> live_a_hero tokyo_afterschool_summoners
