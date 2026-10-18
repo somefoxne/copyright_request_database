@@ -4868,3 +4868,4 @@
 ?fuji_akiko -> ultra_series ultraman_(1st_series) to_love-ru ultraseven_(series) ultraman_mebius_(series) ultraman_tarou_(series)
 ?hayata_shin -> ultra_series ultraman_(1st_series) love_live! gundam marvel love_live!_sunshine!! kamen_rider spider-man_(series) mobile_suit_gundam kamen_rider_(1st_series)
 ?ide_mitsuhiro -> ultra_series ultraman_(1st_series)
+?muramatsu_toshio -> ultra_series ultraman_(1st_series)
