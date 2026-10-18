@@ -5636,3 +5636,4 @@
 ?uttakatta -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_jokers mahou_shoujo_ikusei_keikaku_limited mahou_shoujo_ikusei_keikaku_unmarked mahou_shoujo_ikusei_keikaku_restart mahou_shoujo_ikusei_keikaku_f2p
 ?yuno_the_distant_talon -> ishura
 ?ariados -> pokemon pokemon_heartgold_and_soulsilver pokemon_sun_and_moon pokemon_gold/silver/crystal pokemon_(anime) pokemon_(classic_anime) pokemon_diamond/pearl/platinum pokemon_sword_and_shield pokemon_legends:_z-a pokemon_red/green/blue/yellow
+?momosuzu_nene_(1st_costume) -> hololive hololive_english hololive_indonesia hololive_alternative hololive_dev_is minecraft pokemon blue_clapper_(hololive) vocaloid nijisanji
