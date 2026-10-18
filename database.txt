@@ -5476,3 +5476,4 @@
 ?jiulao_(the_legend_of_luoxiaohei) -> the_legend_of_luo_xiaohei lanxi_zhen
 ?laojun_(the_legend_of_luo_xiaohei) -> the_legend_of_luo_xiaohei lanxi_zhen pokemon kirby_(series) animal_crossing doraemon the_kiss
 ?li_qingning_(the_legend_of_luo_xiaohei) -> the_legend_of_luo_xiaohei lanxi_zhen the_kiss
+?luo_xiaobai -> the_legend_of_luo_xiaohei lanxi_zhen arknights genshin_impact ao_la_xing monopoly
