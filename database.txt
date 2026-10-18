@@ -4592,3 +4592,4 @@
 ?higokumaru -> honkai_(series) honkai_impact_3rd mihoyo genshin_impact honkai_gakuen carnival_phantasm honkai:_star_rail coca-cola
 ?kallen_kaslana -> honkai_(series) honkai_impact_3rd mihoyo honkai_gakuen genshin_impact arknights honkai:_star_rail carnival_phantasm fate_(series) fate/grand_order
 ?yae_rin -> honkai_(series) honkai_impact_3rd honkai_gakuen mihoyo genshin_impact honkai:_star_rail carnival_phantasm zenless_zone_zero coca-cola
+?hijoushiki_roc -> funamusea oounabara_to_wadanohara haiiro_teien taiyou_no_jubaku sunahama_tsuushin
