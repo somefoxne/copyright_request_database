@@ -4974,3 +4974,4 @@
 ?medea_(caster)_(fate) -> fate_(series) fate/stay_night fate/grand_order fate/hollow_ataraxia fate/zero tsukihime type-moon fate/extra fate/kaleid_liner_prisma_illya fate/unlimited_blade_works
 ?medea_(fate) -> fate_(series) fate/stay_night fate/grand_order fate/hollow_ataraxia fate/zero fate/extra tsukihime type-moon fate/kaleid_liner_prisma_illya fate/unlimited_blade_works
 ?pebble_(koseki_bijou) -> hololive hololive_english hololive_indonesia monster_hunter_(series) pokemon devil_may_cry_(series) monster_hunter_wilds devil_may_cry_5 yu-gi-oh! hololive_dev_is
+?mendelson_(alchemy_stars) -> alchemy_stars
