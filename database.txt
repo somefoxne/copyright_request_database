@@ -5043,3 +5043,4 @@
 ?hojo_sophy -> pretty_series pripara aikatsu!_(series) aikatsu! idol_time_pripara pretty_rhythm pretty_rhythm_rainbow_live aikatsu!_x_pripara_the_movie_-deai_no_kiseki!- touhou idol_land_pripara
 ?fourth_sister_(black_myth:_wukong) -> black_myth:_wukong chinese_mythology journey_to_the_west splatoon_(series) splatoon_3
 ?raora_panthera_(1st_costume) -> hololive hololive_english hololive_indonesia enigmatic_recollection hololive_dev_is minecraft mage_arena twitter pokemon hololive_official_card_game
+?castor_(fire_emblem:_fortune's_weave) -> fire_emblem
