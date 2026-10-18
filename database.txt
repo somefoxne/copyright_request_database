@@ -5378,3 +5378,4 @@
 ?harumi_ena -> limelight_lemonade_jam yuzusoft comiket_108 comiket_107 noble_works sanoba_witch tenshinranman bra-ban! senren_banka tenshi_souzou_re-boot!
 ?touhoku_itako -> voiceroid utau voicevox vocaloid cevio a.i._voice talkex synthesizer_v onikko_hunter_tsuina-chan gynoid_talk
 ?exs-tia_aqua -> kouyoku_senki_exs-tia_concert
+?kunijima_chiaki -> kouyoku_senki_exs-tia_concert
