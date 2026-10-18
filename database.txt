@@ -4802,3 +4802,4 @@
 ?kagari_mimi -> kimi_ga_shinu_made_koi_wo_shitai little_red_riding_hood_(fairy_tale) vocaloid newtype hololive nijisanji indie_virtual_youtuber precure voiceroid hololive_dev_is
 ?totsuki_shiina -> kimi_ga_shinu_made_koi_wo_shitai little_red_riding_hood_(fairy_tale) newtype vocaloid precure megami_magazine meitantei_precure! kamiina_botan_yoeru_sugata_wa_yuri_no_hana yagate_kimi_ni_naru kininatteru_hito_ga_otoko_ja_nakatta
 ?kiana_kaslana_(herrscher_of_flamescion) -> honkai_(series) honkai_impact_3rd promare honkai:_star_rail mihoyo genshin_impact team_fortress_2 call_of_duty call_of_duty:_mobile zenless_zone_zero
+?neo_asari -> idolmaster gakuen_idolmaster sakura_photograph_(idolmaster) idolmaster_cinderella_girls idolmaster_shiny_colors comiket_106 idolmaster_(classic) idolmaster_million_live! idolmaster_million_live!_theater_days bleach
