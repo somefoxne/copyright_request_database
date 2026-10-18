@@ -5885,3 +5885,4 @@
 ?caineghis_(fire_emblem) -> fire_emblem fire_emblem:_path_of_radiance fire_emblem:_radiant_dawn fire_emblem_heroes fate_(series) fate/zero granblue_fantasy heaven_and_earth_tribulation the_legend_of_zelda fire_emblem:_three_houses
 ?bongy_(project_moon) -> project_moon limbus_company lobotomy_corporation library_of_ruina original blue_archive final_fantasy final_fantasy_xiv sono_bisque_doll_wa_koi_wo_suru dungeons_&_dragons
 ?indiana_(halloween)_(kancolle) -> kantai_collection
+?indiana_(kancolle) -> kantai_collection bang_dream! bang_dream!_yumemita indiana_jones_(series) indiana_jones_and_the_raiders_of_the_lost_ark
