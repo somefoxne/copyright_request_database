@@ -5690,3 +5690,4 @@
 ?inaba_masao -> persona persona_1 persona_2 persona_2_tsumi persona_3 persona_2_batsu persona_4 persona_3_portable devil_summoner_(series) persona_5
 ?uesugi_hidehiko -> persona persona_1 persona_2 persona_3 persona_4 persona_2_batsu persona_2_tsumi persona_5 shin_megami_tensei persona_3_portable
 ?morino_rinze -> idolmaster idolmaster_shiny_colors idolmaster_shiny_colors_song_for_prism idolmaster_starlit_season idolmaster_cinderella_girls idolmaster_million_live! pokemon idolmaster_million_live!_theater_days idolmaster_(classic) hololive
+?dorcas_(halloween)_(fire_emblem) -> fire_emblem fire_emblem_heroes fire_emblem:_the_blazing_blade fire_emblem_fates fire_emblem_awakening fire_emblem:_the_binding_blade fire_emblem:_path_of_radiance fire_emblem:_the_sacred_stones fire_emblem:_radiant_dawn fire_emblem:_genealogy_of_the_holy_war
