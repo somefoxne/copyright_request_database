@@ -4695,3 +4695,4 @@
 ?kagari_hiyuki -> kagurabachi jujutsu_kaisen rabbit_hole_(vocaloid) big_hero_6 madan_no_ichi aizo_(king_gnu)
 ?samura_iori -> kagurabachi jujutsu_kaisen gorillaz demon_days_(gorillaz) aizo_(king_gnu)
 ?sumi_(kagurabachi) -> kagurabachi jujutsu_kaisen whiplash_(aespa) aizo_(king_gnu)
+?toto_(kagurabachi) -> kagurabachi jujutsu_kaisen aizo_(king_gnu)
