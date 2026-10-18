@@ -4583,3 +4583,4 @@
 ?yakishio_lemon -> make_heroine_ga_oo_sugiru! lycoris_recoil cuddly_octopus ijiranaide_nagatoro-san a-1_pictures sanrio comiket_105 super_real_mahjong pokemon idolmaster
 ?searren_(phantasy_star) -> phantasy_star phantasy_star_iii sega
 ?laura_matsuda -> street_fighter street_fighter_v street_fighter_iii_(series) street_fighter_zero_(series) street_fighter_iv_(series) final_fight capcom street_fighter_ii_(series) justice_gakuen overwatch
+?misty_(super_doll_licca-chan) -> super_doll_licca-chan licca-chan_(franchise)
