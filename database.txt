@@ -5645,3 +5645,4 @@
 ?nanally_(nte) -> neverness_to_everness blue_archive war_thunder tokyo_game_show
 ?nanally_(sunny_surf)_(nte) -> neverness_to_everness
 ?secretariat_(racehorse) -> original umamusume
+?sham_(racehorse) -> original umamusume
