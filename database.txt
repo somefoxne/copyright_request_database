@@ -6084,3 +6084,4 @@
 ?jeanne_d'arc_(girl_from_orleans)_(fate) -> fate_(series) fate/apocrypha fate/grand_order fate/stay_night fate/extra tsukihime fate/hollow_ataraxia touhou type-moon learning_with_manga!_fgo
 ?ueno_(ueno-san_wa_bukiyou) -> ueno-san_wa_bukiyou final_fantasy kemono_friends final_fantasy_xiv kamen_rider megami_magazine kamen_rider_black_(series) akitaland_gothic yuusha_mushoku
 ?lyza_(made_in_abyss) -> made_in_abyss original youjo_senki moomin pokemon nijisanji transformers godzilla_(series) monsterverse godzilla:_king_of_the_monsters
+?ozen -> made_in_abyss project_moon original pokemon lobotomy_corporation library_of_ruina fate_(series) fate/grand_order umamusume one_piece
