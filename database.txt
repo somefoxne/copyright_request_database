@@ -6093,3 +6093,4 @@
 ?iwaizumi_hajime -> haikyuu!! fate_(series) genshin_impact touken_ranbu fate/zero higurashi_no_naku_koro_ni tokyo_afterschool_summoners ace_attorney godzilla_(series) gekkan_shoujo_nozaki-kun
 ?chitabi_aki -> marcescence
 ?chitabi_sayu -> marcescence
+?shirabu_kenjirou -> haikyuu!! the_ring
