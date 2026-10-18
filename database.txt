@@ -4642,3 +4642,4 @@
 ?oosuzuki_kurara -> the_hundred_line_-last_defense_academy- danganronpa_(series) danganronpa_v3:_killing_harmony pokemon danganronpa_2:_goodbye_despair lucky_star cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 shuten_order
 ?nemo_(mobile_suit) -> gundam zeta_gundam original gundam_unicorn gundam_perfect_file gundam_zz zeta_gundam_define sunrise_(company) gundam_sentinel mobile_suit_gundam
 ?franz_liszt_(classicaloid) -> classicaloid wizarding_world little_miss_sunshine
+?franz_schubert_(classicaloid) -> classicaloid wizarding_world bloodborne little_red_riding_hood_(fairy_tale) ib_(kouri) watchmen fantastic_beasts_and_where_to_find_them daft_punk little_miss_sunshine musica_piccolyno
