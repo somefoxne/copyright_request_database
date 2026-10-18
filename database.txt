@@ -5490,3 +5490,4 @@
 ?yunfei_(the_legend_of_luoxiaohei) -> the_legend_of_luo_xiaohei
 ?shishikuno_mogari -> phantom_busters pokemon vocaloid neon_genesis_evangelion mario_(series) rebuild_of_evangelion dandadan gokurakugai
 ?chara_(undertale) -> utdr_(toby_fox) undertale deltarune xtale storyshift omori yume_nikki underfell downtown_no_gaki_no_tsukai_ya_arahende!! underswap
+?sacred_noire -> genseishinki_sacred_virth
