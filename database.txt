@@ -5120,3 +5120,4 @@
 ?mana_(fufuichi04) -> original
 ?chloe_(pokemon) -> pokemon pokemon_(anime) pokemon_journeys pokemon_the_series:_diamond_and_pearl pokemon_(classic_anime) pokemon_the_series:_sun_&_moon pokemon_the_series:_xy pokemon_the_series:_black_&_white pokemon_the_series:_ruby_and_sapphire pokemon_horizons
 ?gangle_(the_amazing_digital_circus) -> the_amazing_digital_circus glitch_productions alien_stage microsoft_windows fortnite looping_the_rooms_(vocaloid) corocoro_comic pokemon neon_genesis_evangelion utdr_(toby_fox)
+?isuzu_yuri -> girls_und_panzer girls_und_panzer_motto_love_love_sakusen_desu! gekitotsu!_joshikousei_oiroke_sensha_gundan hikou_shoujo_yo-ko dragon_ball dragon_ball_z megami_magazine pacific_racing_team kindaichi_shounen_no_jikenbo
