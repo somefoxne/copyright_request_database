@@ -4529,3 +4529,4 @@
 ?nagatsuki_(kancolle) -> kantai_collection kamen_rider choo_choo_train bishoujo_senshi_sailor_moon touhou aoki_hagane_no_arpeggio super_sentai kamen_rider_w original vocaloid
 ?satsuki_(kancolle) -> kantai_collection fate_(series) kamen_rider fate/grand_order choo_choo_train bishoujo_senshi_sailor_moon original pokemon gundam kill_la_kill
 ?kein_(phantasy_star) -> phantasy_star phantasy_star_iii sega
+?marlena_(phantasy_star) -> phantasy_star phantasy_star_iii sega
