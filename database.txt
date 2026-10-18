@@ -4358,3 +4358,4 @@
 ?violet_evergarden -> violet_evergarden_(series) kyoto_animation darling_in_the_franxx girls_und_panzer fate_(series) kobayashi-san_chi_no_maidragon nier_(series) nier:automata shingeki_no_kyojin hibike!_euphonium
 ?great_saiyaman -> dragon_ball dragon_ball_z dragon_ball_super dragon_ball_super_super_hero dragon_ball_(classic) dc_comics dragon_ball_gt dragon_ball_fighterz dr._slump touhou
 ?belle_(brilliance_of_stars)_(zenless_zone_zero) -> zenless_zone_zero honkai_(series) original jojo_no_kimyou_na_bouken honkai_impact_3rd mihoyo genshin_impact stardust_crusaders blue_archive honkai:_star_rail
+?amane_kei -> otaku_ni_yasashii_gal_wa_inai!?
