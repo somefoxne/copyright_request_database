@@ -5131,3 +5131,4 @@
 ?minna-dietlinde_wilcke -> world_witches_series strike_witches brave_witches strike_witches:_suomus_misfits_squadron strike_witches:_kurenai_no_majo-tachi witches_of_africa strike_witches_zero strike_witches:_katayoku_no_majo-tachi noble_witches mc_axis
 ?lass_(pokemon) -> pokemon pokemon_sword_and_shield pokemon_omega_ruby_and_alpha_sapphire pokemon_x_and_y pokemon_black_and_white pokemon_diamond/pearl/platinum pokemon_firered_and_leafgreen pokemon_heartgold_and_soulsilver pokemon_sun_and_moon pokemon_red/green/blue/yellow
 ?cheshire_(the_cat_in_the_magic_hat)_(azur_lane) -> azur_lane arknights yu-gi-oh!
+?latias -> pokemon pokemon_(anime) pokemon_(classic_anime) pokemon_heroes:_latios_&_latias pokemon_omega_ruby_and_alpha_sapphire pokemon_ruby/sapphire/emerald pokemon_adventures pokemon_masters_ex vocaloid pokemon_emerald
