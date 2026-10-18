@@ -6292,3 +6292,4 @@
 ?homura_takeru -> yu-gi-oh! yu-gi-oh!_vrains fire_emblem bang_dream! fire_emblem:_three_houses mega_man_(series) bang_dream!_girls_band_party! pretty_series oshi_no_ko ace_attorney
 ?kagamihara_nadeshiko -> yurucamp real_life bocchi_the_rock! kirby_(series) yurucamp_movie metal_gear_(series) manga_time_kirara metal_gear_solid_3:_snake_eater blue_archive umamusume
 ?peter_griffin -> family_guy fate_(series) fate/grand_order original jujutsu_kaisen honkai_(series) honkai:_star_rail fortnite vocaloid pokemon
+?ai_(yu-gi-oh!) -> yu-gi-oh! yu-gi-oh!_vrains yu-gi-oh!_duel_monsters yu-gi-oh!_gx yu-gi-oh!_zexal yu-gi-oh!_arc-v yu-gi-oh!_duel_links pokemon neptune_(series)
