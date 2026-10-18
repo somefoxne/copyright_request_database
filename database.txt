@@ -5789,3 +5789,4 @@
 ?jashin-chan -> jashin-chan_dropkick clover_theater vocaloid love_live! jojo_no_kimyou_na_bouken love_live!_sunshine!! kobayashi-san_chi_no_maidragon pokemon fate_(series)
 ?minos_(jashin-chan_dropkick) -> jashin-chan_dropkick clover_theater genshin_impact vocaloid soul_eater maria-sama_ga_miteru keroro_gunsou amazon_(company) outlanders
 ?tachibana_mei_(jashin-chan_dropkick) -> jashin-chan_dropkick jojo_no_kimyou_na_bouken vento_aureo pokemon pokemon_(anime) higurashi_no_naku_koro_ni dandadan gintama meitantei_conan pokemon_(classic_anime)
+?cogita_(pokemon) -> pokemon pokemon_legends:_arceus pokemon_diamond/pearl/platinum pokemon_sun_and_moon pokemon_sword_and_shield pokemon_(anime) pokemon_tcg resident_evil pokemon_x_and_y pokemon_masters_ex
