@@ -5845,3 +5845,4 @@
 ?yuzuki_kanaha -> mahou_senshi_(series) mahou_senshi_sweet_knights mahou_senshi_sweet_knights_2 mahou_senshi_princess_tear kourin_tenshi_en_ciel_rena sweet_knights
 ?senjougahara_hitagi -> monogatari_(series) bakemonogatari nekomonogatari nisemonogatari koimonogatari mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) shaft_(company) nekomonogatari_white monogatari_series_puc_puc
 ?nonna_(tefuda_ga_oome_no_victoria) -> tefuda_ga_oome_no_victoria
+?suzuhara_lulu_(1st_costume) -> nijisanji bloodborne hololive indie_virtual_youtuber mario_(series) makaimura hololive_english pokemon the_legend_of_zelda kirby_(series)
