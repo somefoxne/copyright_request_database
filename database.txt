@@ -4367,3 +4367,4 @@
 ?jogasaki_noah -> mahou_shoujo_no_majo_saiban book_off karaoke_manekineko comiket_108 treasure_cafe haishin_shoujo_no_uraaka_meikyuu mahou_shoujo_no_inshuu_mura shippaisaku_shoujo_(vocaloid) original bang_dream!
 ?alisa_(girls_und_panzer) -> girls_und_panzer gekitotsu!_joshikousei_oiroke_sensha_gundan girls_und_panzer_motto_love_love_sakusen_desu! girls_und_panzer_senshadou_daisakusen! girls_und_panzer_saishuushou girls_und_panzer_ribbon_no_musha coca-cola kantai_collection girls_und_panzer_little_army
 ?souen_chiaki -> null-meta slay_the_spire chrogire/girection pokemon final_fantasy dragon_quest minecraft dragon_quest_iii
+?takada_shiyuki -> null-meta slay_the_spire pokemon final_fantasy dragon_quest minecraft dragon_quest_iii coca-cola kill_me_baby
