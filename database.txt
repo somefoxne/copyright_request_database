@@ -4797,3 +4797,4 @@
 ?ayatsumugi_roka_(tsukuyomi) -> cho_kaguya-hime! pokemon kaguya-sama_wa_kokurasetai_~tensai-tachi_no_renai_zunousen~ animal_crossing invincible_(series) shikanoko_nokonoko_koshitantan crayon_shin-chan pluto_(manga) sennen_joyuu nep_league
 ?kaguya_(ray)_(cho_kaguya-hime!) -> cho_kaguya-hime! lycoris_recoil an_an
 ?runami_yachiyo_(kassen) -> cho_kaguya-hime! jujutsu_kaisen bobobo-bo_bo-bobo
+?lili_(tekken) -> tekken tekken_8 tekken_7 tekken_6 tekken_5 street_fighter the_king_of_fighters street_fighter_x_tekken
