@@ -5426,3 +5426,4 @@
 ?loreley_(girls'_frontline_2) -> hololive hololive_english call_of_duty call_of_duty:_black_ops_2 mission:_impossible_-_rogue_nation
 ?shigure_ui_(young)_(vtuber) -> indie_virtual_youtuber shukusei!!_loli-kami_requiem hololive nijisanji onii-chan_wa_oshimai! hololive_dev_is ui-mama_saga blue_archive voisona original
 ?kanzaki_kaori -> toaru_majutsu_no_index toaru_majutsu_no_index:_old_testament toaru_kagaku_no_railgun toaru_majutsu_no_index:_new_testament toaru_majutsu_no_index:_endymion_no_kiseki megami_magazine magical_powered_kanamin godzilla_(series) virtual_on toaru_majutsu_no_index:_imaginary_fest
+?goodra -> pokemon pokemon_sword_and_shield pokemon_x_and_y pokemon_(anime) pokemon_scarlet_and_violet pokemon_the_series:_xy pokemon_legends:_z-a pokemon_journeys original pokemon_(classic_anime)
