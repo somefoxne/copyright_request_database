@@ -6030,3 +6030,4 @@
 ?gallica_(metaphor:_refantazio) -> metaphor:_refantazio persona persona_3 atlus shin_megami_tensei persona_5 sonic_(series) persona_4 ryuu_ga_gotoku_(series) sega
 ?tristana_(league) -> league_of_legends original mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) kuso_miso_technique genshin_impact gundam splatoon_(series) mario_(series) dragon_ball
 ?dottore_(heretic_of_the_false_moon)_(genshin_impact) -> genshin_impact jujutsu_kaisen honkai_(series) honkai:_star_rail jojo_no_kimyou_na_bouken vento_aureo sanrio death_note mihoyo hello_kitty
+?shioriha_ruri_(2nd_costume) -> nijisanji
