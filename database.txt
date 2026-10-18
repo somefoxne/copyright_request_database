@@ -6115,3 +6115,4 @@
 ?hero_(headspace)_(omori) -> omori omariposa utdr_(toby_fox) original pokemon mario_(series) hellaverse hazbin_hotel indie_virtual_youtuber persona
 ?hero_(omori) -> omori emori omariposa pokemon utdr_(toby_fox) original the_amazing_digital_circus the_ring vocaloid persona
 ?kel_(headspace)_(omori) -> omori omariposa pokemon original indie_virtual_youtuber mario_(series) utdr_(toby_fox) monitoring_(vocaloid) suika_game
+?cloud_strife_(snowy_icicle_jacket) -> final_fantasy final_fantasy_vii dissidia_final_fantasy dissidia_duellum_final_fantasy final_fantasy_vii:_ever_crisis final_fantasy_xv final_fantasy_vii_remake final_fantasy_x final_fantasy_vi final_fantasy_ix
