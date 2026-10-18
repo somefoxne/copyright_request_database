@@ -4858,3 +4858,4 @@
 ?ikusaba_mukuro -> danganronpa_(series) danganronpa:_trigger_happy_havoc danganronpa/zero danganronpa_2:_goodbye_despair danganronpa_v3:_killing_harmony danganronpa_another_episode:_ultra_despair_girls danganronpa_s:_ultimate_summer_camp
 ?rena_fenrir -> indie_virtual_youtuber minecraft
 ?ehlitte -> sex_open_world_e_youkoso!
+?island_fox_(kemono_friends) -> kemono_friends kemono_friends_v_project .live indie_virtual_youtuber kemono_friends_3 re:act minecraft gariben_girl_v hololive real_life
