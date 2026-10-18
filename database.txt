@@ -5556,3 +5556,4 @@
 ?crysta_(duel_masters) -> duel_masters duel_masters_lost j.c._staff downer_onee-san_wa_asobitai magic:_the_gathering
 ?tepsekemei -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_limited mahou_shoujo_ikusei_keikaku_breakdown mahou_shoujo_ikusei_keikaku_restart mahou_shoujo_ikusei_keikaku_aces mahou_shoujo_ikusei_keikaku_f2p mahou_shoujo_ikusei_keikaku_queens mahou_shoujo_ikusei_keikaku_unmarked mahou_shoujo_ikusei_keikaku_jokers mahou_shoujo_ikusei_keikaku_black
 ?hirota_sora -> high_school_fleet
+?rika_(palentine's_2026)_(pokemon) -> pokemon pokemon_masters_ex pokemon_scarlet_and_violet pokemon_sun_and_moon pokemon_diamond/pearl/platinum pokemon_legends:_z-a comiket_108
