@@ -5533,3 +5533,4 @@
 ?aragami_oga -> holostars hololive hololive_indonesia holostars_english hololive_english okochama_sensou_(vocaloid) gimmexgimme_(vocaloid) pokemon fate_(series) nijisanji
 ?chungami -> holostars fate_(series) fate/grand_order holostars_english star_animals
 ?pomekorokke -> holostars star_animals holostars_english
+?hastia_(vtuber) -> indie_virtual_youtuber
