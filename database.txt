@@ -6303,3 +6303,4 @@
 ?luna_(princess)_(phantasy_star_iii) -> phantasy_star phantasy_star_iii
 ?ex-e-ld_(summon_night) -> summon_night summon_night:_swordcraft_story_2 summon_night:_swordcraft_story summon_night_collection summon_night_craft_sword_monogatari_hajimari_no_ishi
 ?odd-eyes_pendulum_dragon -> yu-gi-oh! yu-gi-oh!_arc-v yu-gi-oh!_duel_monsters yu-gi-oh!_gx yu-gi-oh!_zexal yu-gi-oh!_cross_duel yu-gi-oh!_vrains yu-gi-oh!_sevens original
+?sakaki_yuya -> yu-gi-oh! yu-gi-oh!_arc-v yu-gi-oh!_zexal yu-gi-oh!_gx yu-gi-oh!_duel_monsters yu-gi-oh!_vrains yu-gi-oh!_sevens kantai_collection touhou
