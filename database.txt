@@ -6146,3 +6146,4 @@
 ?ump9_(girls'_frontline) -> kantai_collection metal_gear_(series) va-11_hall-a arknights azur_lane world_cup
 ?momo_(trickcal) -> trickcal
 ?tokoro_megumi -> idolmaster idolmaster_million_live! idolmaster_million_live!_theater_days idolmaster_(classic) idolmaster_cinderella_girls idolmaster_shiny_colors gakuen_idolmaster idolmaster_dearly_stars hooters blue_archive
+?jinevra_greco -> kouyoku_senki_exs-tia
