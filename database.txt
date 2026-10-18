@@ -4601,3 +4601,4 @@
 ?dorcas_(fire_emblem) -> fire_emblem fire_emblem:_the_blazing_blade fire_emblem_heroes fire_emblem_fates fire_emblem_awakening fire_emblem:_mystery_of_the_emblem fire_emblem:_the_binding_blade fire_emblem:_radiant_dawn fire_emblem:_the_sacred_stones fire_emblem:_genealogy_of_the_holy_war
 ?rina_atherina -> original ombok_diving_and_delivery_services watashi_no_inchou_desu!! azur_lane final_fantasy gundam final_fantasy_vii k-on! final_fantasy_vii_remake goddess_of_victory:_nikke
 ?nina_(breath_of_fire_iii) -> breath_of_fire breath_of_fire_iii breath_of_fire_ii breath_of_fire_iv breath_of_fire_v breath_of_fire_i capcom street_fighter mega_man_(series) mega_man_(classic)
+?ryu_(breath_of_fire_iii) -> breath_of_fire breath_of_fire_iii breath_of_fire_ii breath_of_fire_v breath_of_fire_iv breath_of_fire_i street_fighter capcom mega_man_(series) darkstalkers
