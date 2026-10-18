@@ -4635,3 +4635,4 @@
 ?elysia_(herrscher_of_human:_ego)_(honkai_impact) -> honkai_(series) honkai_impact_3rd honkai:_star_rail mihoyo zenless_zone_zero genshin_impact original arknights comiket_101 blue_archive
 ?zz_gundam -> gundam gundam_zz zeta_gundam mobile_suit_gundam gundam_f91 sd_gundam victory_gundam original turn_a_gundam
 ?mejiro_ardan_(crystalline)_(umamusume) -> umamusume umamusume:_cinderella_gray umamusume:_road_to_the_top akari_ga_yatte_kitazo_(vocaloid) kantai_collection yu-gi-oh! issei_fuubi_sepia original fate_(series) idolmaster
+?female_sword_bearer_(kagurabachi) -> kagurabachi mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) jujutsu_kaisen hunter_x_hunter aizo_(king_gnu)
