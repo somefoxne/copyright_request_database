@@ -5757,3 +5757,4 @@
 ?tamaneko_(sound_voltex) -> bemani sound_voltex polaris_chord hololive vocaloid gochuumon_wa_usagi_desu_ka? beatmania_iidx jubeat smooooch beatmania_iidx_16_empress
 ?tsumabuki -> bemani sound_voltex vocaloid beatmania_iidx quiz_magic_academy hinabita jubeat smooooch beatmania_iidx_16_empress gitadora
 ?taichou_(alice_gear_aegis) -> alice_gear_aegis frame_arms_girl
+?man_o'_war_(racehorse) -> original umamusume 31_minutos
