@@ -6147,3 +6147,4 @@
 ?momo_(trickcal) -> trickcal
 ?tokoro_megumi -> idolmaster idolmaster_million_live! idolmaster_million_live!_theater_days idolmaster_(classic) idolmaster_cinderella_girls idolmaster_shiny_colors gakuen_idolmaster idolmaster_dearly_stars hooters blue_archive
 ?jinevra_greco -> kouyoku_senki_exs-tia
+?limealicious_(cozy) -> vinesauce indie_virtual_youtuber densetsu.exe 3am gamer_supps beastiez original resident_evil minecraft minecraft_youtube
