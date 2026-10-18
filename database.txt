@@ -4571,3 +4571,4 @@
 ?eria_(yu-gi-oh!) -> yu-gi-oh! yu-gi-oh!_duel_monsters yu-gi-oh!_rush_duel comiket_104 yu-gi-oh!_master_duel original touhou final_fantasy digimon lucky_star
 ?eria_the_water_channeler -> yu-gi-oh!
 ?freezing_beast_(yu-gi-oh!) -> yu-gi-oh!
+?lyna_(yu-gi-oh!) -> yu-gi-oh! yu-gi-oh!_duel_monsters touhou lucky_star yu-gi-oh!_master_duel yu-gi-oh!_rush_duel
