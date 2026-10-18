@@ -4305,3 +4305,4 @@
 ?flareon -> pokemon pokemon_scarlet_and_violet pokemon_diamond/pearl/platinum pokemon_red/green/blue/yellow pokemon_firered_and_leafgreen pokemon_(anime) original pokemon_heartgold_and_soulsilver pokemon_black_and_white pokemon_legends:_arceus
 ?glaceon -> pokemon pokemon_legends:_arceus pokemon_unite pokemon_diamond/pearl/platinum pokemon_(anime) original pokemon_cafe_remix pokemon_scarlet_and_violet pokemon_platinum cookie_(touhou)
 ?jolteon -> pokemon pokemon_scarlet_and_violet pokemon_diamond/pearl/platinum pokemon_(anime) pokemon_firered_and_leafgreen pokemon_red/green/blue/yellow pokemon_go pokemon_black_and_white original pokemon_heartgold_and_soulsilver
+?leafeon -> pokemon pokemon_legends:_arceus pokemon_scarlet_and_violet pokemon_diamond/pearl/platinum original pokemon_black_and_white cookie_(touhou) pokemon_unite pokemon_masters_ex pokemon_firered_and_leafgreen
