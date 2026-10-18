@@ -4961,3 +4961,4 @@
 ?juliana_(festival_jinbei)_(pokemon) -> pokemon pokemon_scarlet_and_violet pokemon_(anime) pokemon_legends:_arceus pokemon_horizons pokemon_adventures
 ?juliana_(pokemon) -> pokemon pokemon_scarlet_and_violet pokemon_sword_and_shield pokemon_sun_and_moon pokemon_black_and_white pokemon_x_and_y pokemon_diamond/pearl/platinum pokemon_black_2_and_white_2 pokemon_heartgold_and_soulsilver pokemon_masters_ex
 ?rotom -> pokemon pokemon_sword_and_shield pokemon_scarlet_and_violet pokemon_legends:_z-a pokemon_(anime) pokemon_sun_and_moon pokemon_journeys pokemon_horizons pokemon_the_series:_sun_&_moon pokemon_diamond/pearl/platinum
+?rotom_phone -> pokemon pokemon_sword_and_shield pokemon_scarlet_and_violet pokemon_legends:_z-a pokemon_(anime) pokemon_horizons pokemon_journeys pokemon_sun_and_moon pokemon_masters_ex original
