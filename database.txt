@@ -4299,3 +4299,4 @@
 ?riddle_rosehearts_(rose-red_tyrant) -> twisted_wonderland
 ?admire_vega_(starry_nocturne)_(umamusume) -> umamusume umamusume:_road_to_the_top real_life umamusume:_cinderella_gray umamusume:_beginning_of_a_new_era akari_ga_yatte_kitazo_(vocaloid) kantai_collection pokemon nichijou bucchigiri?!
 ?narita_top_road_(the_proud_road)_(umamusume) -> umamusume umamusume:_road_to_the_top umamusume:_cinderella_gray umamusume:_beginning_of_a_new_era comiket_103 real_life original bucchigiri?! gundam
+?akatsuki_kirika -> senki_zesshou_symphogear senki_zesshou_symphogear_xd_unlimited comiket_102 gundam megami_magazine fate_(series) fate/grand_order umamusume senran_kagura gundam_wing
