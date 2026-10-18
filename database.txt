@@ -5045,3 +5045,4 @@
 ?raora_panthera_(1st_costume) -> hololive hololive_english hololive_indonesia enigmatic_recollection hololive_dev_is minecraft mage_arena twitter pokemon hololive_official_card_game
 ?castor_(fire_emblem:_fortune's_weave) -> fire_emblem
 ?peter_(fire_emblem) -> fire_emblem fire_emblem:_the_binding_blade mother_(series) mother_1
+?tialla_august -> fire_emblem fire_emblem_awakening fire_emblem_heroes mother_(series) mother_1
