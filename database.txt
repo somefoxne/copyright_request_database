@@ -5333,3 +5333,4 @@
 ?riyala_bey_(angelic_idol_in_training)_(azur_lane) -> azur_lane
 ?sunna_(afternoon_tea_break)_(zenless_zone_zero) -> zenless_zone_zero genshin_impact mihoyo hololive hololive_english sanrio fuwa_fuwa_cinnamoroll kpop_demon_hunters original blue_archive
 ?viper_(valorant) -> valorant original apex_legends hololive hololive_english indie_virtual_youtuber vspo! pokemon genshin_impact nijisanji
+?mutsura_yuuto -> dracu-riot! comiket_102 yuzusoft comiket_106 cafe_stella_to_shinigami_no_chou comiket_101 comiket_97 30-sai_made_doutei_dato_mahoutsukai_ni_nareru_rashii fate_(series) fate/grand_order
