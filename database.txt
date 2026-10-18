@@ -4946,3 +4946,4 @@
 ?domestic_dog_(kemono_friends) -> kemono_friends kemono_friends_3 original helltaker ghost_in_the_shell keroro_gunsou kemono_friends_2 kemono_friends_festival dragon_quest nichijou
 ?kaban_(kemono_friends) -> kemono_friends kemono_friends_2 kemono_friends_3 survival_friends touhou kantai_collection love_live! jojo_no_kimyou_na_bouken love_live!_school_idol_project kemurikusa
 ?lucky_beast_(kemono_friends) -> kemono_friends kemono_friends_3 original kemono_friends_v_project kemono_friends_2 jojo_no_kimyou_na_bouken pokemon gundam touhou battle_tendency
+?shoebill_(kemono_friends) -> kemono_friends kemono_friends_3 keroro_gunsou kemono_friends_pavilion kantai_collection kemono_friends_kingdom girls_und_panzer kemono_friends_2 the_king_of_fighters original
