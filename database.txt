@@ -5144,3 +5144,4 @@
 ?team_aqua_grunt -> pokemon pokemon_omega_ruby_and_alpha_sapphire pokemon_ruby/sapphire/emerald pokemon_diamond/pearl/platinum pokemon_black_and_white pokemon_x_and_y pokemon_heartgold_and_soulsilver pokemon_red/green/blue/yellow pokemon_black_2_and_white_2 pokemon_firered_and_leafgreen
 ?gaia_(girls'_frontline) -> metal_gear_(series) cowboy_bebop tank!_(song) gyuunyuu_no_himitsu_(arc)
 ?helena_(girls'_frontline_2) -> blue_archive chainsaw_man fullmetal_alchemist pragmata leon_the_professional the_cat_alchemist
+?ibuki_(swimsuit)_(blue_archive) -> blue_archive hololive hololive_english jujutsu_kaisen hunter_x_hunter tententengokujigokugoku_(aiobahn)
