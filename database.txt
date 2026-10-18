@@ -4690,3 +4690,4 @@
 ?ishikawa_kanami -> cardfight!!_vanguard cardfight!!_vanguard_divinez
 ?ishikawa_kurumi -> cardfight!!_vanguard cardfight!!_vanguard_divinez
 ?circe_(fate) -> fate_(series) fate/grand_order fate/stay_night fate/samurai_remnant fate/extra original fate/apocrypha pixiv_fate/grand_order_contest_2 gundam fate/kaleid_liner_prisma_illya
+?girl_with_icy_skin -> kagurabachi
