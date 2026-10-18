@@ -5992,3 +5992,4 @@
 ?yuuki_sakuna -> indie_virtual_youtuber hololive sword_art_online kagura_gumi pokemon nijisanji comiket_107 poker_chase genshin_impact precure
 ?atsushi_ren -> the_boy_who_fell siren_and_scientist
 ?ibias -> the_boy_who_fell
+?ramia_(the_boy_who_fell) -> the_boy_who_fell
