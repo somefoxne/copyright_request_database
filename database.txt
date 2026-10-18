@@ -4522,3 +4522,4 @@
 ?cantarella_(wuthering_waves) -> wuthering_waves original genshin_impact honkai_(series) honkai:_star_rail zenless_zone_zero chainsaw_man epic_seven comiket_107 the_last_supper
 ?rosemary_(wuthering_waves) -> wuthering_waves
 ?fumizuki_(kancolle) -> kantai_collection choo_choo_train bishoujo_senshi_sailor_moon kamen_rider fate_(series) fate/grand_order umamusume aoki_hagane_no_arpeggio dragon_ball dragon_ball_z
+?i-class_destroyer -> kantai_collection transformers transformers:_generation_1 arknights mario_(series) girls_und_panzer gundam jojo_no_kimyou_na_bouken fallout dota_(series)
