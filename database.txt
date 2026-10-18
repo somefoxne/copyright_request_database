@@ -6156,3 +6156,4 @@
 ?aiz_wallenstein -> dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru_darou_ka sword_oratoria danmachi_memoria_freese danmachi_battle_chronicle kage_no_jitsuryokusha_ni_naritakute! kage_no_jitsuryokusha_ni_naritakute!_master_of_garden megami_magazine fate_(series) senran_kagura date_a_live
 ?sphene_(ff14) -> final_fantasy final_fantasy_xiv final_fantasy_ix original fukkireta the_truman_show genshin_impact gundam wuthering_waves final_fantasy_vii
 ?kagamine_rin_(roshin_yuukai/hard_rkmix) -> vocaloid roshin_yuukai_(vocaloid) black_rock_shooter koi_wa_sensou_(vocaloid) lol_-lots_of_laugh-_(vocaloid) utau evillious_nendaiki world_is_mine_(vocaloid) aku_no_musume_(vocaloid) saihate_(vocaloid)
+?yuuhi_riri_(1st_costume) -> nijisanji nijisanji_kr nijisanji_en nijisanji_id hololive pokemon genshin_impact jojo_no_kimyou_na_bouken jujutsu_kaisen nier_(series)
