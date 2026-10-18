@@ -5052,3 +5052,4 @@
 ?friend_(nanashi_mumei) -> hololive hololive_english hololive_indonesia mumei_(song)_(hololive) minecraft pokemon holostars nijisanji nijisanji_en holocure
 ?nanashi_mumei_(1st_costume) -> hololive hololive_english hololive_indonesia mumei_(song)_(hololive) minecraft enigmatic_recollection pokemon nijisanji indie_virtual_youtuber nijisanji_en
 ?nue_(nue_no_onmyouji) -> nue_no_onmyouji shounen_jump
+?kurodani_yamame -> touhou subterranean_animism touhou_(pc-98) reitaisai reitaisai_8_contest touhou_tag_dream gantz embodiment_of_scarlet_devil mountain_of_faith marvel
