@@ -4379,3 +4379,4 @@
 ?agoshi_sakina -> null-meta slay_the_spire pokemon dragon_quest minecraft dragon_quest_iii coca-cola fukumoto_mahjong akagi:_yami_ni_oritatta_tensai
 ?shinohara_kogome -> null-meta sana_channel tsugu_(vtuber) flipnote_studio
 ?uozumi_kurumi -> null-meta chrogire/girection pokemon dragon_quest dragon_quest_iii backrooms_(creepypasta) final_fantasy minecraft bloodborne scp_foundation
+?ushiromiya_battler -> umineko_no_naku_koro_ni higurashi_no_naku_koro_ni dawn_of_the_golden_witch ougon_musou_kyoku touhou twilight_of_the_golden_witch end_of_the_golden_witch turn_of_the_golden_witch vocaloid higurashi_no_naku_koro_ni_mei
