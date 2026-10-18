@@ -4701,3 +4701,4 @@
 ?snorlax -> pokemon pokemon_sleep pokemon_red/green/blue/yellow pokemon_firered_and_leafgreen pokemon_(anime) pokemon_pokopia pokemon_heartgold_and_soulsilver pokemon_sun_and_moon original pokemon_(classic_anime)
 ?mash_kyrielight_(paladin) -> fate_(series) fate/grand_order fate/stay_night original idolmaster idolmaster_million_live! marvel fate/extra tsukihime spider-man_(series)
 ?melony_(pokemon) -> pokemon pokemon_sword_and_shield pokemon_diamond/pearl/platinum pokemon_sun_and_moon pokemon_(anime) pokemon_scarlet_and_violet pokemon_x_and_y pokemon_omega_ruby_and_alpha_sapphire pokemon_the_series:_sun_&_moon pokemon_tcg
+?blanca_(fate) -> fate_(series) fate/grand_order fate/grail_league gundam gundam_gquuuuuux fate/strange_fake fate/extra twisted_wonderland sanrio wizarding_world
