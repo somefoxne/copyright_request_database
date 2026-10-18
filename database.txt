@@ -5843,3 +5843,4 @@
 ?juvia_lockser -> fairy_tail naruto_(series) twitter fairy_tail_zero fate_(series) one_piece bleach kimetsu_no_yaiba naruto_shippuuden rave_(manga)
 ?sweet_kiss -> mahou_senshi_(series) mahou_senshi_sweet_knights mahou_senshi_sweet_knights_2 mahou_senshi_princess_tear kourin_tenshi_en_ciel_rena mahou_senshi_lemmtear_knights sweet_knights
 ?yuzuki_kanaha -> mahou_senshi_(series) mahou_senshi_sweet_knights mahou_senshi_sweet_knights_2 mahou_senshi_princess_tear kourin_tenshi_en_ciel_rena sweet_knights
+?senjougahara_hitagi -> monogatari_(series) bakemonogatari nekomonogatari nisemonogatari koimonogatari mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) shaft_(company) nekomonogatari_white monogatari_series_puc_puc
