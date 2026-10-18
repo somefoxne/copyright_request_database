@@ -5198,3 +5198,4 @@
 ?saren_(princess_connect!) -> princess_connect! cygames blue_archive fate_(series) mahou_shoujo_ni_akogarete fate/grand_order kantai_collection arknights goddess_of_victory:_nikke helltaker
 ?kinich_(genshin_impact) -> genshin_impact mihoyo honkai_(series) naruto_(series) honkai:_star_rail naruto_(classic) zenless_zone_zero pokemon moechakkafire
 ?xin_zhao_(league) -> league_of_legends fate_(series) mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) fate/stay_night dragon_ball dragon_ball_z adventure_time shin_sangoku_musou kuso_miso_technique
+?nagai_noa_(sironora) -> original
