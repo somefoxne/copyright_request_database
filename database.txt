@@ -6273,3 +6273,4 @@
 ?wishiwashi -> pokemon pokemon_sun_and_moon pokemon_(anime) pokemon_sword_and_shield pokemon_the_series:_sun_&_moon pokemon_tcg pokemon:_twilight_wings original pokemon_ultra_sun_and_ultra_moon pokemon_x_and_y
 ?kafu_(cevio) -> kamitsubaki_studio cevio vocaloid utau voiceroid a.i._voice voicevox synthesizer_v kafu-chan_no_kare_udon_kyousou_kyoku_(cevio) voisona
 ?ginjo_saine -> vspo! hololive nanashi_inc. xross_stars nijisanji nijisanji_en comiket_108
+?saruei_(vtuber) -> indie_virtual_youtuber original real_life hololive hololive_english phase_connect metal_gear_(series) metal_gear_solid_3:_snake_eater twitch.tv fate_(series)
