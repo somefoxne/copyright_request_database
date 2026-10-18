@@ -4806,3 +4806,4 @@
 ?bkornblume -> reverse:1999 project_moon library_of_ruina coca-cola youtube lipu_friends
 ?everecho_(reverse:1999) -> reverse:1999
 ?fuyutsuki_(kancolle) -> kantai_collection comiket_104 kantai_collection_(anime) lawson comiket_107 blue_archive super_sentai comiket_105 comiket_106 starbucks
+?yuutenji_nyamu -> bang_dream! arknights bang_dream!_girls_band_party! real_life killkiss_(bang_dream!) bang_dream!_our_notes girls_band_cry ganso!_bang_dream_chan bocchi_the_rock!
