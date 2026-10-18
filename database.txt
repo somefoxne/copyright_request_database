@@ -5517,3 +5517,4 @@
 ?male_shez_(fire_emblem) -> fire_emblem fire_emblem:_three_houses fire_emblem_warriors:_three_hopes fire_emblem_heroes fire_emblem_engage fire_emblem_fates fire_emblem_awakening fire_emblem:_the_sacred_stones fire_emblem:_new_mystery_of_the_emblem kawaii_dake_ja_nai_shikimori-san
 ?hestia_(danmachi) -> dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru_darou_ka kantai_collection touhou danmachi_battle_chronicle love_live! idolmaster love_live!_school_idol_project original azur_lane fate_(series)
 ?jeanne_d'arc_alter_(lancer)_(fate) -> fate_(series) fate/samurai_remnant fate/grand_order pokemon pieta
+?saren_(gunner)_(princess_connect!) -> princess_connect!
