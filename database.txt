@@ -6124,3 +6124,4 @@
 ?red_heavy_(tf2) -> team_fortress_2 original touhou blue_archive utdr_(toby_fox) genshin_impact jojo_no_kimyou_na_bouken mario_(series) marvel overwatch
 ?yuuka_(track)_(blue_archive) -> blue_archive comiket_103 blue_archive_the_animation comiket_107 hololive idolmaster hololive_english gakuen_idolmaster toaru_majutsu_no_index toaru_kagaku_no_railgun
 ?ribbon_(kirby) -> kirby_(series) kirby_64 kirby_star_allies kirby:_planet_robobot kirby:_squeak_squad kirby_super_star
+?ripple_star_queen -> kirby_(series) kirby_64 kirby_star_allies kirby:_planet_robobot kirby:_squeak_squad kirby_air_ride kirby_&_the_amazing_mirror kirby:_triple_deluxe
