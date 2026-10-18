@@ -5945,3 +5945,4 @@
 ?akane_(school_uniform)_(blue_archive) -> blue_archive kamen_rider kamen_rider_den-o_(series) jujutsu_kaisen comiket_108 blue_archive_the_animation kamen_rider_hibiki_(series) kamen_rider_ghost_(series)
 ?mofu_mollis -> indie_virtual_youtuber original
 ?kikuchi_ryou -> sekai_metsubou_kyouyuu_gensou_mamiya google_search
+?soma_(closers) -> closers
