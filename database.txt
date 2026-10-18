@@ -5164,3 +5164,4 @@
 ?gastly -> pokemon pokemon_x_and_y pokemon_heartgold_and_soulsilver pokemon_legends:_z-a pokemon_sword_and_shield pokemon_sun_and_moon pokemon_(anime) pokemon_red/green/blue/yellow pokemon_gold/silver/crystal pokemon_firered_and_leafgreen
 ?pochacco -> sanrio my_melody_(series) fuwa_fuwa_cinnamoroll hello_kitty project_sekai kero_kero_keroppi love_live! little_twin_stars yuri!!!_on_ice danganronpa_(series)
 ?angie_(stella_sora) -> stella_sora
+?alomomola -> pokemon pokemon_black_and_white pokemon_black_2_and_white_2 pokemon_(anime) pokemon_sun_and_moon pokemon_scarlet_and_violet pokemon_the_series:_sun_&_moon pokemon_adventures pokemon_diamond/pearl/platinum
