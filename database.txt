@@ -5937,3 +5937,4 @@
 ?hisakawa_hayate -> idolmaster idolmaster_cinderella_girls idolmaster_cinderella_girls_starlight_stage cinderella_girls_gekijou voy@ger_(idolmaster) idolmaster_shiny_colors umamusume idolmaster_(classic) idolmaster_million_live! blue_archive
 ?yidmetra -> shadowverse shadowverse:_worlds_beyond
 ?nekomata_okayu_(cat) -> hololive hololive_english hololive_dev_is hololive_indonesia jojo_no_kimyou_na_bouken bocchi_the_rock! stardust_crusaders ace_attorney warhammer_40k kuso_miso_technique
+?onigirya_(nekomata_okayu) -> hololive hololive_english hololive_indonesia mario_(series) okayunyumu! neko_kaburi-na_(nekomata_okayu) pokemon touhou vocaloid yu-gi-oh!
