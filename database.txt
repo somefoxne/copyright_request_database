@@ -4999,3 +4999,4 @@
 ?erpin_(trickcal) -> trickcal fate_(series) fate/grand_order jujutsu_kaisen fate/apocrypha crayon_shin-chan nohara_hiroshi_hirumeshi_no_ryuugi blue_archive pokemon utdr_(toby_fox)
 ?ui_(trickcal) -> trickcal touhou blue_archive indie_virtual_youtuber boku_no_hero_academia yani_neko instagram the_kiss the_creation_of_adam
 ?yomi_(trickcal) -> trickcal onii-chan_wa_oshimai! irasutoya shigoto_neko
+?youngchun_(trickcal) -> trickcal blue_archive idolmaster the_legend_of_zelda gakuen_idolmaster jujutsu_kaisen shigoto_neko the_creation_of_adam
