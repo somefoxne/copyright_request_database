@@ -4870,3 +4870,4 @@
 ?ide_mitsuhiro -> ultra_series ultraman_(1st_series)
 ?muramatsu_toshio -> ultra_series ultraman_(1st_series)
 ?ryoshu_(project_moon) -> project_moon limbus_company lobotomy_corporation library_of_ruina original arknights mili_(band) blue_archive saikai_(mili) hell_screen
+?sora_(project_moon) -> project_moon limbus_company library_of_ruina lobotomy_corporation touhou saikai_(mili) original fate_(series) umamusume arknights
