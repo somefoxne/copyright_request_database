@@ -4418,3 +4418,4 @@
 ?queen_tia_(mega_man) -> mega_man_(series) mega_man_star_force_(series) mega_man_star_force_3 mega_man_zx mega_man_zero_(series) capcom mega_man_zx_advent mega_man_zero_2 pokemon
 ?tainaka_ritsu -> k-on! no_thank_you!_(k-on!) k-on!_movie listen!! suzumiya_haruhi_no_yuuutsu lucky_star fuwafuwa_time romeo_and_juliet singing!_(k-on!)
 ?samegaki_(zizi_niisan) -> original
+?blissey -> pokemon pokemon_(anime) pokemon_diamond/pearl/platinum pokemon_the_series:_sun_&_moon pokemon_gold/silver/crystal pokemon_unite pokemon_heartgold_and_soulsilver pokemon_(classic_anime) pokemon_sun_and_moon pokemon_tcg
