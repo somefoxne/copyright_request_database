@@ -5275,3 +5275,4 @@
 ?aile_(mega_man_zx) -> mega_man_(series) mega_man_zx mega_man_zx_advent mega_man_x_(series) mega_man_zero_(series) mega_man_x_dive mega_man_legends_(series) mega_man_(classic) mega_man_battle_network_(series) mega_man_star_force_(series)
 ?hakudoushi -> inuyasha touhou
 ?donquixote_doflamingo -> one_piece one_piece_card_game one_piece_treasure_cruise original touhou pokemon jojo_no_kimyou_na_bouken marvel jujutsu_kaisen bleach
+?osaka_shizuku -> love_live! love_live!_nijigasaki_high_school_idol_club love_live!_nijigasaki_high_school_idol_club_the_movie_-_finale rise_up_high!_(love_live!) love_live!_school_idol_festival_all_stars solitude_rain_(love_live!) love_live!_sunshine!! love_live!_school_idol_festival love_live!_school_idol_project nijiyon
