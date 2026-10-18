@@ -6190,3 +6190,4 @@
 ?pink_addison_(deltarune) -> utdr_(toby_fox) deltarune
 ?queen_(deltarune) -> utdr_(toby_fox) deltarune undertale little_tikes pokemon mario_(series) animal_crossing among_us cuphead_(game) bayaverse
 ?swatch_(deltarune) -> utdr_(toby_fox) deltarune undertale pokemon umamusume dragon_ball little_red_riding_hood_(fairy_tale) roblox the_last_supper
+?swatchling_(deltarune) -> utdr_(toby_fox) deltarune naruto_(series) naruto_shippuuden little_tikes
