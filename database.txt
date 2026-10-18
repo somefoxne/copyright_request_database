@@ -6242,3 +6242,4 @@
 ?sophie_(tales) -> tales_of_(series) tales_of_graces tales_of_graces_f tales_of_asteria tales_of_vesperia tales_of_the_abyss tales_of_symphonia tales_of_xillia tales_of_destiny tales_of_phantasia
 ?meisho_doto_(dot-o'-lantern)_(umamusume) -> umamusume original pokemon fate_(series) indie_virtual_youtuber fate/stay_night real_life gegege_no_kitarou umamusume:_cinderella_gray magic:_the_gathering
 ?castorice_(gossamer_flutter)_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail
+?minato_(doa) -> dead_or_alive dead_or_alive_6
