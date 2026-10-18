@@ -4325,3 +4325,4 @@
 ?ambessa_(league) -> league_of_legends arcane:_league_of_legends fate_(series) fate/grand_order megamind_(movie)
 ?sevika_(arcane) -> league_of_legends arcane:_league_of_legends chainsaw_man sanrio my_melody_(series) fuwa_fuwa_cinnamoroll hello_kitty gentlemen_prefer_blondes
 ?mayano_top_gun_(scramble_zone)_(umamusume) -> umamusume top_gun top_gun:_maverick real_life fate_(series) ace_combat original dragon_ball akari_ga_yatte_kitazo_(vocaloid) kantai_collection
+?air_groove_(quercus_civilis)_(umamusume) -> umamusume akari_ga_yatte_kitazo_(vocaloid) original pokemon fate_(series) indie_virtual_youtuber fate/stay_night umamusume:_cinderella_gray umamusume:_road_to_the_top
