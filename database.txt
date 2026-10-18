@@ -4844,3 +4844,4 @@
 ?maibara_himeka -> sayonara_lara kinema_citrus
 ?azki_(little_devil)_(hololive) -> hololive sana_channel paranormasight:_the_seven_mysteries_of_honjo
 ?iroh -> avatar_legends avatar:_the_last_airbender the_legend_of_korra pokemon adventure_time barbie_(franchise) original vocaloid mahou_shoujo_madoka_magica precure
+?momo_(avatar) -> avatar_legends avatar:_the_last_airbender avatar_aang:_the_last_airbender the_legend_of_korra nickelodeon marvel bishoujo_senshi_sailor_moon kirby_(series) spider-man_(series) invincible_(series)
