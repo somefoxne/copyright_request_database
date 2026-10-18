@@ -5962,3 +5962,4 @@
 ?lily_(epicary_radz) -> original
 ?miran_(epicary_radz) -> original
 ?taruho_(epicary_radz) -> original
+?elly_(touhou) -> touhou touhou_(pc-98) lotus_land_story story_of_eastern_wonderland phantasmagoria_of_dim.dream mystic_square highly_responsive_to_prayers bad_apple!! embodiment_of_scarlet_devil seihou
