@@ -4810,3 +4810,4 @@
 ?fushi_(cho_kaguya-hime!) -> cho_kaguya-hime! sweets_paradise ai_kotoba_iv_(vocaloid) kaisei_(vocaloid) gundam chainsaw_man dragon_ball utau suzumiya_haruhi_no_yuuutsu bleach
 ?houjuu_chimi -> touhou fossilized_wonders touhou_lostword touhou_(pc-98) transformers 2channel livejupiter_(2channel) made_in_abyss azumanga_daioh embodiment_of_scarlet_devil
 ?red_(thus0) -> original
+?fluttershy -> my_little_pony my_little_pony:_friendship_is_magic my_little_pony:_equestria_girls touhou invader_zim vylet_pony antonymph pokemon equestria_girls:_better_together mahou_shoujo_madoka_magica
