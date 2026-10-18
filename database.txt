@@ -5013,3 +5013,4 @@
 ?thais_(smuggestsage) -> final_fantasy final_fantasy_xiv original
 ?kabane_yoshichi -> nue_no_onmyouji
 ?grimsley_(pokemon) -> pokemon pokemon_black_and_white pokemon_sun_and_moon pokemon_masters_ex pokemon_heartgold_and_soulsilver pokemon_black_2_and_white_2 pokemon_diamond/pearl/platinum pokemon_sword_and_shield pokemon_omega_ruby_and_alpha_sapphire pokemon_x_and_y
+?joutouguu_mayumi -> touhou wily_beast_and_weakest_creature touhou_(pc-98) marvel iron_man_(series) touhou_lostword animal_crossing touhou_danmaku_kagura touhou_bougetsushou
