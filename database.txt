@@ -4568,3 +4568,4 @@
 ?wonderlands_x_showtime_meiko -> vocaloid project_sekai love_ka?_(vocaloid) potato_ni_natte_iku_(vocaloid)
 ?mina_(deadlock) -> deadlock_(game) darkstalkers project_moon limbus_company marvel tsukihime resident_evil sanrio marvel_rivals phase_connect
 ?kurosaki_honoka -> yama_no_susume megami_magazine comiket_105 tower_records onii-chan_wa_oshimai! ore_no_imouto_ga_konna_ni_kawaii_wake_ga_nai yurucamp comiket_106 comiket_103 animedia
+?eria_(yu-gi-oh!) -> yu-gi-oh! yu-gi-oh!_duel_monsters yu-gi-oh!_rush_duel comiket_104 yu-gi-oh!_master_duel original touhou final_fantasy digimon lucky_star
