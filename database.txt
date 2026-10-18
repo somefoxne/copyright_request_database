@@ -5355,3 +5355,4 @@
 ?ann_magnolia -> violet_evergarden_(series) woman_with_a_parasol
 ?kazano_hiori -> idolmaster idolmaster_shiny_colors idolmaster_cinderella_girls idolmaster_million_live! idolmaster_(classic) idolmaster_shiny_colors_song_for_prism gakuen_idolmaster idolmaster_side-m pokemon idolmaster_million_live!_theater_days
 ?shindou_hatsune -> soukou_senki_prism_reica soukou_senki_prism_shine
+?joker_(persona_5) -> persona persona_5 persona_5_the_royal super_smash_bros. fire_emblem mario_(series) pokemon kirby_(series) persona_4 persona_3
