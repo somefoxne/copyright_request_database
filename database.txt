@@ -5594,3 +5594,4 @@
 ?sakiri_(nte) -> neverness_to_everness
 ?meluna_(trickcal) -> trickcal
 ?manhattan_cafe_(verdant_night)_(umamusume) -> umamusume chiikawa real_life lycoris_recoil nyanko_daisensou san-x rilakkuma_(series) counter-strike_(series) suntory counter-strike_2
+?akikawa_suika -> girls_frantic_clan
