@@ -6013,3 +6013,4 @@
 ?hyacine_(warm_cotton_skies)_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail genshin_impact sanrio mihoyo fuwa_fuwa_cinnamoroll baskin-robbins
 ?craymond_(splatoon) -> splatoon_(series) splatoon_2 splatoon_2:_octo_expansion splatoon_1 splatoon_3 pokemon splatoon_3:_side_order splatoon_(manga)
 ?flow_(splatoon) -> splatoon_(series) splatoon_2 splatoon_2:_octo_expansion splatoon_1 splatoon_3 tengen_toppa_gurren_lagann pokemon splatoon_(manga)
+?miyamoto_musashi_(swimsuit_berserker)_(fate) -> fate_(series) fate/grand_order kantai_collection azur_lane fate/samurai_remnant pokemon shokugeki_no_souma one_piece bleach dragon_quest
