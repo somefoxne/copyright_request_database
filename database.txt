@@ -5582,3 +5582,4 @@
 ?echo_ex_lantern -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_double_shadow
 ?inuyasha_(character) -> inuyasha ranma_1/2 urusei_yatsura kyoukai_no_rinne meitantei_conan shounen_sunday naruto_(series) pokemon one_piece
 ?hayashimo_kai_ni_(kancolle) -> kantai_collection
+?sagiri_(kancolle) -> kantai_collection eromanga_sensei original choo_choo_train fate_(series) umamusume gochuumon_wa_usagi_desu_ka? azur_lane fate/stay_night comiket_101
