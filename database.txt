@@ -5367,3 +5367,4 @@
 ?tsukigase_chiyuru -> muv-luv muv-luv_girls_garden kamen_rider muv-luv_alternative kamen_rider_build_(series)
 ?futamihara_ririko -> limelight_lemonade_jam yuzusoft comiket_108 comiket_107 comiket_106 senren_banka tenshi_souzou_re-boot!
 ?furukawa_nagisa -> clannad dango_daikazoku key_(company) air_(visual_novel) kanon little_busters! angel_beats! rewrite planetarian lucky_star
+?chisa_(peach_parfait)_(wuthering_waves) -> wuthering_waves blue_archive spice_and_wolf the_weaker_sex_1_(gibson)
