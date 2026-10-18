@@ -4389,3 +4389,4 @@
 ?watanabe_yuuka -> null-meta coca-cola
 ?morgana_(persona_5) -> persona persona_5 persona_5_the_royal persona_3 persona_4 super_smash_bros. persona_dancing persona_5:_dancing_star_night pokemon fire_emblem
 ?oracle_(persona_5) -> persona persona_5 persona_5_the_royal persona_5_scramble:_the_phantom_strikers super_smash_bros. persona_q_(series) persona_q2:_new_cinema_labyrinth persona_5_tactica persona_3 atlus
+?sakura_futaba -> persona persona_5 persona_5_the_royal persona_4 persona_dancing persona_5_scramble:_the_phantom_strikers persona_3 persona_5:_dancing_star_night fire_emblem splatoon_(series)
