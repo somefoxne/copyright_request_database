@@ -4352,3 +4352,4 @@
 ?gidel_(twisted_wonderland) -> twisted_wonderland pinocchio_(disney_movie) disney the_little_mermaid_(disney) aladdin_(movie) snow_white_and_the_seven_dwarfs_(disney) sleeping_beauty_(disney)
 ?honekoneko_(psg) -> panty_&_stocking_with_garterbelt pokemon my_little_pony danganronpa_(series) my_little_pony:_friendship_is_magic trigger_(company) mahou_shoujo_madoka_magica tengen_toppa_gurren_lagann gainax original
 ?scanty_(psg) -> panty_&_stocking_with_garterbelt inazuma_eleven_(series) trigger_(company) kill_la_kill hellaverse inazuma_eleven touhou precure danganronpa_(series) splatoon_(series)
+?stocking_(psg) -> panty_&_stocking_with_garterbelt kill_la_kill pokemon touhou my_little_pony my_little_pony:_friendship_is_magic tengen_toppa_gurren_lagann danganronpa_(series) mahou_shoujo_madoka_magica vocaloid
