@@ -6109,3 +6109,4 @@
 ?vei_(dog_girl)_(vtuber) -> indie_virtual_youtuber gamer_supps
 ?vei_(vtuber) -> vshojo indie_virtual_youtuber gamer_supps twitch.tv hololive hooters original genshin_impact hololive_english
 ?kurosawa_dia -> love_live! love_live!_sunshine!! love_live!_school_idol_project love_live!_school_idol_festival genjitsu_no_yohane love_live!_nijigasaki_high_school_idol_club love_live!_school_idol_festival_all_stars kimi_no_kokoro_wa_kagayaiteru_kai? love_live!_sunshine!!_the_school_idol_movie_over_the_rainbow love_live!_superstar!!
+?hirako_shinji -> bleach bleach:_sennen_kessen-hen bleach:_turn_back_the_pendulum bleach:_brave_souls bleach:_epilogue bleach:_jigoku-hen original pokemon hololive hololive_english
