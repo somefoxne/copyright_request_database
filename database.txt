@@ -5216,3 +5216,4 @@
 ?zygarde -> pokemon pokemon_legends:_z-a pokemon_(anime) pokemon_the_series:_xy pokemon_masters_ex pokemon_x_and_y pokemon_horizons pokemon_sun_and_moon pokemon_the_series:_diamond_and_pearl pokemon_the_series:_sun_&_moon
 ?zygarde_(10%) -> pokemon pokemon_legends:_z-a pokemon_(anime) pokemon_horizons pokemon_x_and_y pokemon_the_series:_xy original pokemon_masters_ex pokemon_tcg pokemon_sun_and_moon
 ?hanako_(jibaku_shounen_hanako-kun) -> jibaku_shounen_hanako-kun genshin_impact touhou omori kimetsu_no_yaiba boku_no_hero_academia wizarding_world animal_crossing harry_potter_(series) promare
+?maam -> dragon_quest dragon_quest_dai_no_daibouken one_piece fate_(series) fate/grand_order bleach code_geass higurashi_no_naku_koro_ni one-punch_man taimanin_(series)
