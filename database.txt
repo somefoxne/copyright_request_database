@@ -6049,3 +6049,4 @@
 ?engineer_(tf2) -> team_fortress_2 touhou original honkai_(series) honkai_impact_3rd mario_(series) helltaker 4chan pokemon fate_(series)
 ?hawkeye_(marvel) -> marvel avengers_(series) the_incredible_hulk_(series) captain_america_(series) x-men spider-man_(series) guardians_of_the_galaxy the_avengers_(2012) marvel_rivals marvel_vs._capcom
 ?heavy_(tf2) -> team_fortress_2 touhou meet_the_team original overwatch blue_archive pokemon genshin_impact marvel sonic_(series)
+?hulk -> marvel the_incredible_hulk_(series) avengers_(series) x-men spider-man_(series) marvel_rivals fantastic_four marvel_vs._capcom street_fighter darkstalkers
