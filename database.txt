@@ -4861,3 +4861,4 @@
 ?island_fox_(kemono_friends) -> kemono_friends kemono_friends_v_project .live indie_virtual_youtuber kemono_friends_3 re:act minecraft gariben_girl_v hololive real_life
 ?juste_belmont -> castlevania_(series) castlevania:_harmony_of_dissonance castlevania:_symphony_of_the_night castlevania:_rondo_of_blood castlevania:_lament_of_innocence castlevania:_circle_of_the_moon castlevania:_portrait_of_ruin castlevania_(1986) castlevania:_order_of_ecclesia
 ?leon_belmont -> castlevania_(series) castlevania:_lament_of_innocence castlevania:_symphony_of_the_night castlevania:_harmony_of_dissonance castlevania:_rondo_of_blood castlevania_chronicles castlevania:_portrait_of_ruin castlevania:_dawn_of_sorrow castlevania_(1986)
+?richter_belmont -> castlevania_(series) castlevania:_rondo_of_blood super_smash_bros. fire_emblem mario_(series) pokemon castlevania:_symphony_of_the_night the_legend_of_zelda kirby_(series) street_fighter
