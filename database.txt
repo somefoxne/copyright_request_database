@@ -5859,3 +5859,4 @@
 ?hisaki_(live_a_hero) -> live_a_hero tokyo_afterschool_summoners
 ?rafululu_love_(duel_masters) -> duel_masters dragon_musume_ni_naritakunai! duel_masters_(classic) umamusume magic:_the_gathering
 ?sora_(ninjago) -> ninjago ninjago:_dragons_rising precure futari_wa_precure lego_monkie_kid
+?kinugasa_(christmas)_(kancolle) -> kantai_collection
