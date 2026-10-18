@@ -5247,3 +5247,4 @@
 ?orfevre_(control)_(umamusume) -> umamusume real_life original jojo_no_kimyou_na_bouken umamusume:_cinderella_gray japan_racing_association fate_(series) pokemon fate/stay_night vento_aureo
 ?orfevre_(racehorse) -> real_life umamusume original japan_racing_association netkeibatv midori_no_makibaoo project_moon persona limbus_company marvel
 ?ryekie_(live_a_hero) -> live_a_hero tokyo_afterschool_summoners arknights world_flipper touhou apex_legends youkai_watch silent_hill_(series) gyee silent_hill_2
+?muto_(godzilla) -> godzilla_(series) monsterverse godzilla_(2014) original godzilla:_king_of_the_monsters hololive hololive_english king_kong_(series) godzilla_vs._biollante legendary_pictures
