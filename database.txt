@@ -6167,3 +6167,4 @@
 ?red_hot_(ff14) -> final_fantasy final_fantasy_xiv original
 ?phosphophyllite -> houseki_no_kuni vocaloid mahou_shoujo_madoka_magica ruri_no_houseki pokemon mahou_shoujo_madoka_magica_(anime) cardcaptor_sakura gundam splatoon_(series)
 ?daiwa_scarlet_(casual)_(umamusume) -> umamusume pokemon original comiket_102 kantai_collection honkai_(series) honkai:_star_rail neon_genesis_evangelion re:zero_kara_hajimeru_isekai_seikatsu spongebob_squarepants_(series)
+?vodka_(casual)_(umamusume) -> umamusume original youtube comiket_102 2channel gorillaz on_melancholy_hill otou-san_wa_shinpaishou
