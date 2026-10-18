@@ -5815,3 +5815,4 @@
 ?tokoyami_towa_(jirai_kei) -> hololive apex_legends hololive_english nijisanji hololive_indonesia crazy_raccoon hololive_dev_is vspo! nijisanji_kr indie_virtual_youtuber
 ?echidna_(fire_emblem) -> fire_emblem fire_emblem:_the_binding_blade fire_emblem_heroes fire_emblem:_the_sacred_stones fire_emblem:_the_blazing_blade fire_emblem_fates fire_emblem_awakening fire_emblem:_path_of_radiance fire_emblem:_three_houses fire_emblem_engage
 ?selena_(fire_emblem:_the_sacred_stones) -> fire_emblem fire_emblem:_the_sacred_stones fire_emblem_heroes fire_emblem:_the_binding_blade fire_emblem:_the_blazing_blade fire_emblem:_radiant_dawn fire_emblem_awakening fire_emblem:_path_of_radiance fire_emblem_fates fire_emblem:_three_houses
+?selena_(summer)_(fire_emblem:_the_sacred_stones) -> fire_emblem fire_emblem:_the_sacred_stones fire_emblem_heroes fire_emblem:_the_binding_blade fire_emblem:_the_blazing_blade fire_emblem:_radiant_dawn
