@@ -6193,3 +6193,4 @@
 ?swatchling_(deltarune) -> utdr_(toby_fox) deltarune naruto_(series) naruto_shippuuden little_tikes
 ?tasque_manager -> utdr_(toby_fox) deltarune undertale naruto_(series) omori naruto_shippuuden youkai_watch microsoft_windows doraemon oneshot_(game)
 ?yellow_addison_(deltarune) -> utdr_(toby_fox) deltarune little_tikes pokemon final_fantasy the_legend_of_zelda mario_(series) kirby_(series) resident_evil undertale
+?adrian_andrews -> ace_attorney phoenix_wright:_ace_attorney_-_justice_for_all phoenix_wright:_ace_attorney_-_trials_and_tribulations apollo_justice:_ace_attorney phoenix_wright:_ace_attorney phoenix_wright:_ace_attorney_-_dual_destinies phoenix_wright:_ace_attorney_-_spirit_of_justice the_great_ace_attorney ace_attorney_investigations
