@@ -4476,3 +4476,4 @@
 ?usagi_(guilty_gear) -> guilty_gear guilty_gear_strive kirby_(series) guilty_gear_xrd gakkou_no_kaidan_(anime) ratatouille
 ?bartz_klauser -> final_fantasy final_fantasy_v dissidia_final_fantasy final_fantasy_ix final_fantasy_viii final_fantasy_vi final_fantasy_vii final_fantasy_iv final_fantasy_i final_fantasy_ii
 ?boko_(ff5) -> final_fantasy final_fantasy_v final_fantasy_iv dissidia_final_fantasy final_fantasy_vii final_fantasy_vi final_fantasy_viii final_fantasy_ix final_fantasy_ii final_fantasy_iii
+?freyja_(fire_emblem) -> fire_emblem fire_emblem_heroes fire_emblem_fates fire_emblem_awakening fire_emblem:_three_houses fire_emblem:_the_blazing_blade neon_genesis_evangelion rebuild_of_evangelion fire_emblem_engage fire_emblem:_mystery_of_the_emblem
