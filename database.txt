@@ -6175,3 +6175,4 @@
 ?mademoiselle_crabaletta -> genshin_impact mihoyo honkai_(series) honkai:_star_rail jojo_no_kimyou_na_bouken comiket_104 zenless_zone_zero gundam jujutsu_kaisen oshi_no_ko
 ?ash_carbide -> eiyuu_densetsu sen_no_kiseki_(series) sen_no_kiseki_iii sen_no_kiseki_iv hajimari_no_kiseki sen_no_kiseki_i zero_no_kiseki ao_no_kiseki kuro_no_kiseki_(series) sora_no_kiseki
 ?ice-e -> utdr_(toby_fox) deltarune undertale original sanrio hello_kitty famitsu roki_(vocaloid)
+?noelle_holiday_(dark_world) -> utdr_(toby_fox) deltarune alien_stage undertale dungeon_meshi vocaloid touhou mario_(series) sonic_(series) shoujo_kakumei_utena
