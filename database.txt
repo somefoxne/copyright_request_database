@@ -6298,3 +6298,4 @@
 ?shirayuki_(utawarerumono) -> utawarerumono_(series) utawarerumono:_lost_flag
 ?miyamai_moca -> voicepeak voiceroid synthesizer_v utau cevio a.i._voice vocaloid voicevox shinchoku_dame_dame_desu_(synthesizer_v) monitoring_(vocaloid)
 ?walnut_cookie -> cookie_run cookie_run:_ovenbreak cookie_run:_kingdom a_hat_in_time
+?laia_iii_(phantasy_star) -> phantasy_star phantasy_star_iii ore_no_imouto_ga_konna_ni_kawaii_wake_ga_nai
