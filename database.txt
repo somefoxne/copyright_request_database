@@ -4692,3 +4692,4 @@
 ?circe_(fate) -> fate_(series) fate/grand_order fate/stay_night fate/samurai_remnant fate/extra original fate/apocrypha pixiv_fate/grand_order_contest_2 gundam fate/kaleid_liner_prisma_illya
 ?girl_with_icy_skin -> kagurabachi
 ?hiruhiko_(kagurabachi) -> kagurabachi jujutsu_kaisen gorillaz demon_days_(gorillaz) aizo_(king_gnu)
+?kagari_hiyuki -> kagurabachi jujutsu_kaisen rabbit_hole_(vocaloid) big_hero_6 madan_no_ichi aizo_(king_gnu)
