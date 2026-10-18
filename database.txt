@@ -6112,3 +6112,4 @@
 ?hirako_shinji -> bleach bleach:_sennen_kessen-hen bleach:_turn_back_the_pendulum bleach:_brave_souls bleach:_epilogue bleach:_jigoku-hen original pokemon hololive hololive_english
 ?aubrey_(headspace)_(omori) -> omori omariposa mario_(series) pokemon mother_(series) mother_2 rainy_mari original super_mario_64 indie_virtual_youtuber
 ?aubrey_(omori) -> omori omariposa emori mario_(series) pokemon utdr_(toby_fox) vocaloid deltarune original mother_(series)
+?hero_(headspace)_(omori) -> omori omariposa utdr_(toby_fox) original pokemon mario_(series) hellaverse hazbin_hotel indie_virtual_youtuber persona
