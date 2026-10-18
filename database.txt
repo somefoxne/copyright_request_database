@@ -4704,3 +4704,4 @@
 ?blanca_(fate) -> fate_(series) fate/grand_order fate/grail_league gundam gundam_gquuuuuux fate/strange_fake fate/extra twisted_wonderland sanrio wizarding_world
 ?oberon_(second_ascension)_(fate) -> fate_(series) fate/grand_order original fate/strange_fake pokemon gundam gundam_gquuuuuux backrooms_(creepypasta) idolmaster danganronpa_(series)
 ?elfilin -> kirby_(series) kirby_and_the_forgotten_land star-crossed_world kirby_star_allies kirby_64 kirby:_planet_robobot kirby:_triple_deluxe
+?wondog -> kirby_(series) kirby_and_the_forgotten_land kirby_air_ride kirby_mass_attack kirby_super_star kirby:_triple_deluxe boxboy! nintendo kirby_64
