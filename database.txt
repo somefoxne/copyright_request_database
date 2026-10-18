@@ -5492,3 +5492,4 @@
 ?chara_(undertale) -> utdr_(toby_fox) undertale deltarune xtale storyshift omori yume_nikki underfell downtown_no_gaki_no_tsukai_ya_arahende!! underswap
 ?sacred_noire -> genseishinki_sacred_virth
 ?yuuki_setsu -> genseishinki_sacred_virth
+?otokura_yuuki -> idolmaster idolmaster_cinderella_girls idolmaster_cinderella_girls_starlight_stage cinderella_girls_gekijou idolmaster_shiny_colors idolmaster_(classic) granblue_fantasy idolmaster_million_live! pokemon pokemon_sun_and_moon
