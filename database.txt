@@ -5350,3 +5350,4 @@
 ?fumi_(1st_costume)_(nijisanji) -> nijisanji nijisanji_en nijisanji_kr nijisanji_id yu-gi-oh! hololive indie_virtual_youtuber gundam zeta_gundam yu-gi-oh!_master_duel
 ?hoshikawa_sara_(1st_costume) -> nijisanji hololive nijisanji_en nijisanji_id hololive_dev_is nijisanji_kr pokemon hololive_english oshi_no_ko twitter
 ?yamagami_karuta_(1st_costume) -> nijisanji nijisanji_en nijisanji_kr nijisanji_id blue_archive pokemon hololive yu-gi-oh! sousou_no_frieren voiceroid
+?saya_(love_live!) -> love_live! love_live!_superstar!! love_live!_school_idol_project love_live!_hasu_no_sora_jogakuin_school_idol_club love_live!_school_idol_festival love_live!_school_idol_festival_2 wish_song_(love_live!) love_live!_sunshine!! love_live!_nijigasaki_high_school_idol_club game_&_watch
