@@ -6309,3 +6309,4 @@
 ?lumine_(zhangjiajie)_(genshin_impact) -> genshin_impact honkai_(series) mihoyo honkai:_star_rail honkai_impact_3rd 2channel
 ?akaba_reiji -> yu-gi-oh! yu-gi-oh!_arc-v yu-gi-oh!_duel_monsters yu-gi-oh!_gx yu-gi-oh!_zexal yu-gi-oh!_vrains jojo_no_kimyou_na_bouken touken_ranbu bemani
 ?cait_sith_(megami_tensei) -> shin_megami_tensei devil_survivor_(series) devil_survivor_2 persona shin_megami_tensei_v devil_survivor_1 megami_tensei shin_megami_tensei_ii precure persona_5
+?sydney_(degrees_of_lewdity) -> degrees_of_lewdity original project_moon the_kiss blue_archive pokemon limbus_company bishoujo_senshi_sailor_moon panty_&_stocking_with_garterbelt library_of_ruina
