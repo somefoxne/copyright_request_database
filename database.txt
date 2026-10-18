@@ -4532,3 +4532,4 @@
 ?marlena_(phantasy_star) -> phantasy_star phantasy_star_iii sega
 ?trey_clover_(starsending_robes) -> twisted_wonderland
 ?jintsuu_(kancolle) -> kantai_collection kantai_collection_(anime) gundam taimanin_(series) aoki_hagane_no_arpeggio original ninja_slayer fate_(series) fate/grand_order love_live!
+?naka_(kancolle) -> kantai_collection idolmaster moomin idolmaster_cinderella_girls love_live! kantai_collection_(anime) love_live!_school_idol_project aoki_hagane_no_arpeggio gundam touhou
