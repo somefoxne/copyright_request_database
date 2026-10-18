@@ -6295,3 +6295,4 @@
 ?ai_(yu-gi-oh!) -> yu-gi-oh! yu-gi-oh!_vrains yu-gi-oh!_duel_monsters yu-gi-oh!_gx yu-gi-oh!_zexal yu-gi-oh!_arc-v yu-gi-oh!_duel_links pokemon neptune_(series)
 ?carpaccio_(girls_und_panzer) -> girls_und_panzer girls_und_panzer_senshadou_daisakusen! girls_und_panzer_motto_love_love_sakusen_desu! gekitotsu!_joshikousei_oiroke_sensha_gundan spy_x_family lupin_iii girls_und_panzer_little_army girls_und_panzer_gekijouban kantai_collection megami_magazine
 ?youko_(girls_und_panzer) -> girls_und_panzer girls_und_panzer_senshadou_daisakusen! girls_und_panzer_motto_love_love_sakusen_desu! lycoris_recoil girls_und_panzer_saishuushou megami_magazine gundam moomin gundam_suisei_no_majo tengen_toppa_gurren_lagann
+?shirayuki_(utawarerumono) -> utawarerumono_(series) utawarerumono:_lost_flag
