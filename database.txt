@@ -4345,3 +4345,4 @@
 ?miriam_(bloodstained) -> bloodstained_(series) bloodstained:_ritual_of_the_night castlevania_(series) castlevania:_order_of_ecclesia bloodstained:_curse_of_the_moon castlevania:_aria_of_sorrow fire_emblem monogatari_(series) sonic_(series) fire_emblem_awakening
 ?zangetsu_(bloodstained) -> bloodstained_(series) bloodstained:_ritual_of_the_night bloodstained:_curse_of_the_moon bloodstained:_curse_of_the_moon_2 mega_man_(series) mega_man_zero_(series)
 ?fujiki_yusaku -> yu-gi-oh! yu-gi-oh!_vrains yu-gi-oh!_zexal yu-gi-oh!_arc-v yu-gi-oh!_gx yu-gi-oh!_duel_monsters yu-gi-oh!_sevens pokemon fate_(series)
+?kino_kuniya -> sayonara_zetsubou_sensei precure fresh_precure! idolmaster idolmaster_(classic) suzumiya_haruhi_no_yuuutsu sengoku_basara newtype kino_no_tabi
