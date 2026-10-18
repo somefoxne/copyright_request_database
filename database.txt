@@ -5534,3 +5534,4 @@
 ?chungami -> holostars fate_(series) fate/grand_order holostars_english star_animals
 ?pomekorokke -> holostars star_animals holostars_english
 ?hastia_(vtuber) -> indie_virtual_youtuber
+?yu_q._wilson -> nijisanji nijisanji_en nijisanji_kr kpop_demon_hunters nijisanji_id goddess_of_victory:_nikke the_legend_of_zelda mario_(series) the_legend_of_zelda:_breath_of_the_wild holostars
