@@ -5602,3 +5602,4 @@
 ?sharon_holygrail -> engage_kiss newtype engage_kill
 ?miya_osamu -> haikyuu!! original pokemon fate_(series) fate/grand_order one_piece yu-gi-oh! twisted_wonderland wizarding_world meitantei_conan
 ?gabia_(trickcal) -> trickcal gachimuchi
+?kuniruri_natsuki -> nue_no_onmyouji fate_(series) fate/grand_order
