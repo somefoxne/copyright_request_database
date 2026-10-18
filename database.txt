@@ -4686,3 +4686,4 @@
 ?kurashiki_akane -> kyokugen_dasshutsu kyokugen_dasshutsu:_9_jikan_9_nin_9_no_tobira zero_escape:_toki_no_dilemma kyokugen_dasshutsu_adv:_zennin_shibou_desu pokemon danganronpa_(series) ai_the_somnium_files danganronpa_2:_goodbye_despair danganronpa:_trigger_happy_havoc the_hundred_line_-last_defense_academy-
 ?retsarra_(ff14) -> final_fantasy final_fantasy_xiv final_fantasy_ix danshi_koukousei_no_nichijou
 ?amayado_rei -> hypnosis_mic hypnosis_mic:_rule_the_stage venom_(vocaloid) hypnosis_mic:_alternative_rap_battle holostars pokemon nijisanji splatoon_(series) utdr_(toby_fox) touken_ranbu
+?yamada_ichiro -> hypnosis_mic hypnosis_mic:_alternative_rap_battle hypnosis_mic:_rule_the_stage sanrio hello_kitty hypnosis_mic:_dream_rap_battle pokemon original idolmaster blue_archive
