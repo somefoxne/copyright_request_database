@@ -5030,3 +5030,4 @@
 ?magical_mirai_miku_(2023) -> vocaloid magical_mirai_(vocaloid) project_diva_(series) shinkai_shoujo_(vocaloid) senbonzakura_(vocaloid) suna_no_wakusei_(vocaloid) unknown_mother_goose_(vocaloid) world_is_mine_(vocaloid) hatsune_miku_happy_16th_birthday_-dear_creators- poppippoo_(vocaloid)
 ?ranka_lee -> macross macross_frontier macross_frontier:_sayonara_no_tsubasa macross_frontier:_itsuwari_no_utahime uta_macross_sumaho_deculture macross_delta vocaloid macross_7 choujikuu_yousai_macross touhou
 ?sheryl_nome -> macross macross_frontier macross_frontier:_itsuwari_no_utahime macross_frontier:_sayonara_no_tsubasa macross_7 macross_delta uta_macross_sumaho_deculture lucky_star choujikuu_yousai_macross vocaloid
+?bella_(honkai_impact) -> honkai_(series) honkai_impact_3rd genshin_impact sonic_(series) mihoyo sonic_adventure_2 sonic_adventure_2:_battle
