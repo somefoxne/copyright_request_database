@@ -5664,3 +5664,4 @@
 ?cure_melody -> precure suite_precure heartcatch_precure! fresh_precure! smile_precure! futari_wa_precure yes!_precure_5 futari_wa_precure_splash_star dokidoki!_precure yes!_precure_5_gogo!
 ?scizor -> pokemon pokemon_heartgold_and_soulsilver pokemon_gold/silver/crystal pokemon_scarlet_and_violet pokemon_masters_ex pokemon_adventures pokemon_sun_and_moon pokemon_(anime) original touhou
 ?suhsin_the_inevitable_(wuthering_waves) -> wuthering_waves
+?sagiri_kai_ni_(kancolle) -> kantai_collection
