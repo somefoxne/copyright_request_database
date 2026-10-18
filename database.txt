@@ -5623,3 +5623,4 @@
 ?glorp -> vocaloid original indie_virtual_youtuber utau synthesizer_v needy_girl_overdose minecraft coca-cola mesmerizer_(vocaloid) olympics
 ?serizawa_asahi -> idolmaster idolmaster_shiny_colors idolmaster_shiny_colors_song_for_prism idolmaster_cinderella_girls gakuen_idolmaster idolmaster_million_live! idolmaster_(classic) idolmaster_side-m little_red_riding_hood_(fairy_tale) gundam
 ?susumi -> girls_frantic_clan
+?mo_(deadlock) -> deadlock_(game)
