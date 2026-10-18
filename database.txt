@@ -6129,3 +6129,4 @@
 ?valentine_(skullgirls) -> skullgirls guilty_gear overwatch original idolmaster love_live! love_live!_school_idol_project street_fighter mario_(series) the_king_of_fighters
 ?la+_darknesss_(1st_costume) -> hololive hololive_english hololive_indonesia hololive_dev_is pokemon the_king_of_fighters fatal_fury coca-cola dragon_ball dragon_ball_z
 ?pekomama -> hololive azur_lane hololive_english rabbit_hole_(vocaloid) holocure vocaloid hololive_dev_is original hololive_indonesia goddess_of_victory:_nikke
+?pekomama_(1st_costume) -> hololive hololive_english pokemon hololive_indonesia hololive_dev_is minecraft romance_of_the_three_kingdoms
