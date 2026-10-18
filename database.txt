@@ -4340,3 +4340,4 @@
 ?kitsu_chiri -> sayonara_zetsubou_sensei shaft_(company) pani_poni_dash! ef_(visual_novel) touhou mahou_shoujo_madoka_magica k-on! suzumiya_haruhi_no_yuuutsu lucky_star hidamari_sketch
 ?kudou_jun -> sayonara_zetsubou_sensei vocaloid precure suzumiya_haruhi_no_yuuutsu monogatari_(series) bakemonogatari fresh_precure! idolmaster idolmaster_(classic) inazuma_eleven_(series)
 ?ookusa_manami -> sayonara_zetsubou_sensei idolmaster idolmaster_(classic) gundam precure heartcatch_precure! idolmaster_1 durarara!! gundam_wing
+?sekiutsu_maria_tarou -> sayonara_zetsubou_sensei maria_holic monogatari_(series) hidamari_sketch pani_poni_dash! danganronpa_(series) persona street_fighter hunter_x_hunter di_gi_charat
