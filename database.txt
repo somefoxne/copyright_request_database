@@ -5604,3 +5604,4 @@
 ?gabia_(trickcal) -> trickcal gachimuchi
 ?kuniruri_natsuki -> nue_no_onmyouji fate_(series) fate/grand_order
 ?soranaki_(nue_no_onmyouji) -> nue_no_onmyouji
+?suisui_(wuthering_waves) -> wuthering_waves anime_expo meccha_chameleon goddess_of_victory:_nikke
