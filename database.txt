@@ -5809,3 +5809,4 @@
 ?emrakul_the_aeons_torn -> magic:_the_gathering duel_masters duel_masters_lost touhou fate_(series) fate/grand_order umamusume k-on! sonic_(series) watashi_ga_motenai_no_wa_dou_kangaetemo_omaera_ga_warui!
 ?sonetto_(reverse:1999) -> reverse:1999 ipstar umamusume original project_moon limbus_company wizarding_world harry_potter_(series)
 ?pet_shop -> jojo_no_kimyou_na_bouken stardust_crusaders vento_aureo battle_tendency phantom_blood stone_ocean diamond_wa_kudakenai steel_ball_run jojo_no_kimyou_na_bouken:_eyes_of_heaven touhou
+?mamiya_yumehisa -> sekai_metsubou_kyouyuu_gensou_mamiya yuri_kuma_arashi z.a.t.o._//_i_love_the_world_and_everything_in_it
