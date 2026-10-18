@@ -4354,3 +4354,4 @@
 ?scanty_(psg) -> panty_&_stocking_with_garterbelt inazuma_eleven_(series) trigger_(company) kill_la_kill hellaverse inazuma_eleven touhou precure danganronpa_(series) splatoon_(series)
 ?stocking_(psg) -> panty_&_stocking_with_garterbelt kill_la_kill pokemon touhou my_little_pony my_little_pony:_friendship_is_magic tengen_toppa_gurren_lagann danganronpa_(series) mahou_shoujo_madoka_magica vocaloid
 ?tsukumo_yuma -> yu-gi-oh! yu-gi-oh!_zexal yu-gi-oh!_gx yu-gi-oh!_duel_monsters yu-gi-oh!_arc-v yu-gi-oh!_vrains yu-gi-oh!_sevens pokemon danganronpa_(series)
+?gara'ha_ironbane -> warcraft world_of_warcraft original final_fantasy final_fantasy_xiv
