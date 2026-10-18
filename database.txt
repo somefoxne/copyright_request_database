@@ -5502,3 +5502,4 @@
 ?listener_(inugami_korone) -> hololive hololive_english mario_(series) hololive_indonesia sonic_(series) pyuu_to_fuku!_jaguar:_ashita_no_jump pokemon minecraft mother_(series)
 ?kanzaki_kaoru -> phantom_busters neon_genesis_evangelion mario_(series) rebuild_of_evangelion dandadan slam_dunk_(series)
 ?nakagawa_nana -> love_live! love_live!_nijigasaki_high_school_idol_club love_live!_school_idol_festival_all_stars dive!_(love_live!) chase!_(love_live!) nijiyon love_live!_school_idol_project real_life love_live!_superstar!! love_live!_sunshine!!
+?yuki_setsuna -> love_live! love_live!_nijigasaki_high_school_idol_club chase!_(love_live!) love_live!_school_idol_festival_all_stars dive!_(love_live!) love_live!_sunshine!! love_live!_school_idol_project love_live!_nijigasaki_high_school_idol_club_the_movie_-_finale real_life love_live!_superstar!!
