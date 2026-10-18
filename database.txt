@@ -5763,3 +5763,4 @@
 ?kumugi_harvest -> madan_no_ichi kimetsu_no_yaiba pokemon jojo_no_kimyou_na_bouken utdr_(toby_fox) stardust_crusaders deltarune
 ?shirabedonna -> madan_no_ichi
 ?hanazono_yurine -> jashin-chan_dropkick clover_theater megami_magazine original vocaloid keroro_gunsou comiket_105 haiyore!_nyaruko-san god-chans
+?pino_(jashin-chan_dropkick) -> jashin-chan_dropkick utau synthesizer_v vocaloid keroro_gunsou god-chans resident_evil megami_magazine resident_evil_4 resident_evil_4_(remake)
