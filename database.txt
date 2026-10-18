@@ -5812,3 +5812,4 @@
 ?mamiya_yumehisa -> sekai_metsubou_kyouyuu_gensou_mamiya yuri_kuma_arashi z.a.t.o._//_i_love_the_world_and_everything_in_it
 ?celestia_(stellar_tide)_(strinova) -> strinova
 ?celestia_(strinova) -> strinova devil_may_cry_(series) devil_may_cry_5 kiseijuu
+?tokoyami_towa_(jirai_kei) -> hololive apex_legends hololive_english nijisanji hololive_indonesia crazy_raccoon hololive_dev_is vspo! nijisanji_kr indie_virtual_youtuber
