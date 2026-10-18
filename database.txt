@@ -5665,3 +5665,4 @@
 ?scizor -> pokemon pokemon_heartgold_and_soulsilver pokemon_gold/silver/crystal pokemon_scarlet_and_violet pokemon_masters_ex pokemon_adventures pokemon_sun_and_moon pokemon_(anime) original touhou
 ?suhsin_the_inevitable_(wuthering_waves) -> wuthering_waves
 ?sagiri_kai_ni_(kancolle) -> kantai_collection
+?leila_(fire_emblem) -> fire_emblem fire_emblem:_the_blazing_blade fire_emblem_heroes fire_emblem_fates fire_emblem:_the_binding_blade fire_emblem:_radiant_dawn fire_emblem:_mystery_of_the_emblem fire_emblem:_the_sacred_stones fire_emblem:_three_houses fire_emblem_awakening
