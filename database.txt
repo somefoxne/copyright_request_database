@@ -5157,3 +5157,4 @@
 ?tenochtitlan_(fate) -> fate_(series) fate/grand_order fate/dream_striker pokemon tsukihime yoru_mac fate/grail_league blue_archive genshin_impact
 ?tenochtitlan_(first_ascension)_(fate) -> fate_(series) fate/grand_order fate/dream_striker vocaloid tsukihime ego_rock_(vocaloid) jujutsu_kaisen kobayashi-san_chi_no_maidragon fallout comiket_102
 ?tenochtitlan_(swimsuit_mooncancer)_(third_ascension)_(fate) -> fate_(series) fate/grand_order pokemon oshi_no_ko pokemon_tcg comiket_105 touhou rabbit_hole_(vocaloid) shokunin_to_hitozuma
+?sonia_(academy)_(pokemon) -> pokemon pokemon_masters_ex pokemon_sword_and_shield pokemon_scarlet_and_violet pokemon_sun_and_moon pokemon_diamond/pearl/platinum
