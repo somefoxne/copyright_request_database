@@ -5786,3 +5786,4 @@
 ?saya_(saya_no_uta) -> saya_no_uta nitroplus kusari_hime:_euthanasia futaba_channel guro_cure os-tan vocaloid touhou tsukihime fate_(series)
 ?akane_rin_(full_metal_rock)_(nte) -> neverness_to_everness
 ?saori_(swimsuit)_(blue_archive) -> blue_archive arknights comiket_106 comiket_104 spongebob_squarepants_(series) zozotown hololive idolmaster vocaloid honkai_(series)
+?jashin-chan -> jashin-chan_dropkick clover_theater vocaloid love_live! jojo_no_kimyou_na_bouken love_live!_sunshine!! kobayashi-san_chi_no_maidragon pokemon fate_(series)
