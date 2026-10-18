@@ -4591,3 +4591,4 @@
 ?aizawa_tomo -> tomo-chan_wa_onna_no_ko original phase_connect hitomi-chan_wa_hitomishiri pokemon fate_(series) hololive genshin_impact fate/grand_order hololive_english
 ?higokumaru -> honkai_(series) honkai_impact_3rd mihoyo genshin_impact honkai_gakuen carnival_phantasm honkai:_star_rail coca-cola
 ?kallen_kaslana -> honkai_(series) honkai_impact_3rd mihoyo honkai_gakuen genshin_impact arknights honkai:_star_rail carnival_phantasm fate_(series) fate/grand_order
+?yae_rin -> honkai_(series) honkai_impact_3rd honkai_gakuen mihoyo genshin_impact honkai:_star_rail carnival_phantasm zenless_zone_zero coca-cola
