@@ -5653,3 +5653,4 @@
 ?tepig -> pokemon pokemon_black_and_white pokemon_black_2_and_white_2 pokemon_legends:_z-a pokemon_diamond/pearl/platinum pokemon_heartgold_and_soulsilver pokemon_ruby/sapphire/emerald pokemon_firered_and_leafgreen pokemon_x_and_y pokemon_gold/silver/crystal
 ?kagawa_makina -> assault_lily suika_game
 ?morimoto_yuni -> assault_lily it_(stephen_king) suika_game
+?kawabata_hotaru -> assault_lily
