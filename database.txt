@@ -5189,3 +5189,4 @@
 ?ichinose_uruha_(8th_costume) -> vspo! pokemon crazy_raccoon jigoku_sensei_nube honogurashi_no_niwa riddle_order
 ?tyrunt -> pokemon pokemon_x_and_y pokemon_(anime) pokemon_the_series:_xy pokemon_sword_and_shield pokemon_sun_and_moon pokemon_diamond/pearl/platinum pokemon_(classic_anime) pokemon_the_series:_sun_&_moon pokemon_red/green/blue/yellow
 ?boo_tao_(genshin_impact) -> genshin_impact mihoyo honkai_(series) lawson honkai:_star_rail honkai_impact_3rd blue_archive pokemon zenless_zone_zero touhou
+?hiiragi_tsukasa -> lucky_star suzumiya_haruhi_no_yuuutsu vocaloid original hidamari_sketch k-on! kyoto_animation clannad touhou higurashi_no_naku_koro_ni
