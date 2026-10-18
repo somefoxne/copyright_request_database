@@ -5966,3 +5966,4 @@
 ?shinigami_(rain_code) -> master_detective_archives:_rain_code danganronpa_(series) danganronpa_v3:_killing_harmony danganronpa:_trigger_happy_havoc pokemon danganronpa_2:_goodbye_despair the_hundred_line_-last_defense_academy- danganronpa_kirigiri original fate_(series)
 ?seth_(closers) -> closers kantai_collection elsword
 ?bai_winchester -> closers
+?yoon_ria_(closers) -> closers
