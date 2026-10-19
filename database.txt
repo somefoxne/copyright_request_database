@@ -6719,3 +6719,4 @@
 ?oma_kokichi -> danganronpa_(series) danganronpa_v3:_killing_harmony danganronpa_2:_goodbye_despair danganronpa:_trigger_happy_havoc sanrio my_melody_(series) pokemon danganronpa_another_episode:_ultra_despair_girls danganronpa_s:_ultimate_summer_camp
 ?li-fen -> street_fighter street_fighter_6 street_fighter_v fatal_fury spy_x_family mega_man_(series) street_fighter_zero_(series) capcom neco_drop resident_evil
 ?yunaka_(fire_emblem) -> fire_emblem fire_emblem_engage fire_emblem_heroes fire_emblem:_three_houses fire_emblem:_radiant_dawn fire_emblem_fates fire_emblem_shadows persona persona_5 fire_emblem_awakening
+?yunaka_(stealthy_imitator)_(fire_emblem) -> fire_emblem fire_emblem_heroes fire_emblem_engage
