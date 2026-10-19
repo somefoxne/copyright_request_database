@@ -7348,3 +7348,4 @@
 ?silver_the_hedgehog -> sonic_(series) sonic_the_hedgehog_(2006) sonic_the_hedgehog_(classic) sonic_the_hedgehog_(idw) sonic_channel sonic_rush_adventure the_murder_of_sonic_the_hedgehog dragon_ball sonic_riders_(series) sonic_the_hedgehog_(archie_comics)
 ?looping_the_rooms_girl -> looping_the_rooms_(vocaloid) backrooms_(creepypasta) vocaloid backrooms_(2026_movie) utau dream_pool original brain_rot_(synthesizer_v) synthesizer_v inabakumori
 ?still_life_(backrooms) -> backrooms_(creepypasta) backrooms_(2026_movie) looping_the_rooms_(vocaloid) vocaloid original dc_comics batman_(series) star_wars discord blue_archive
+?wonder_woman_(absolute_dc) -> dc_comics absolute_dc absolute_wonder_woman wonder_woman_(series) absolute_batman batman_(series) absolute_superman marvel x-men superman_(series)
