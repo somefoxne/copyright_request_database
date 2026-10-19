@@ -7531,3 +7531,4 @@
 ?aimoto_asahi_(urushiushiru) -> original
 ?schroedinger_(hellsing) -> hellsing hellsing:_the_dawn hunter_x_hunter original touhou jojo_no_kimyou_na_bouken monogatari_(series) bakemonogatari soul_eater darker_than_black
 ?kamen_rider_kuuga_(mighty_form) -> kamen_rider kamen_rider_kuuga_(series) kamen_rider_dcd kamen_rider_555 kamen_rider_agito_(series) kamen_rider_blade_(series) kamen_rider_ryuki_(series) kamen_rider_den-o_(series) kamen_rider_kiva_(series) kamen_rider_hibiki_(series)
+?milky_(jewelpet) -> jewelpet_(series) jewelpet_twinkle
