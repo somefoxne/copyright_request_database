@@ -7868,3 +7868,4 @@
 ?elaine_(notaxuaxi) -> original
 ?peeves_(harry_potter) -> wizarding_world harry_potter_(series)
 ?lari_(wynncraft) -> wynncraft
+?botan_(yu_yu_hakusho) -> yu_yu_hakusho one_piece bishoujo_senshi_sailor_moon pokemon final_fantasy dragon_ball marvel dc_comics dragon_ball_z teen_titans
