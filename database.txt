@@ -7119,3 +7119,4 @@
 ?minamoto_no_raikou_(first_ascension)_(fate) -> fate_(series) fate/grand_order fate/stay_night fate/apocrypha kantai_collection fate/extra fate/samurai_remnant love_live! love_live!_sunshine!! top_wo_nerae!_(series)
 ?lainie_(girls'_frontline_2) -> pokemon jujutsu_kaisen metal_gear_(series) metal_gear_solid_v:_the_phantom_pain white_album_(series) white_album_2 the_beatles abbey_road
 ?ump40_(girls'_frontline) -> original helltaker metal_gear_(series) kantai_collection call_of_duty ace_combat the_beatles
+?haku_(sen_to_chihiro_no_kamikakushi) -> sen_to_chihiro_no_kamikakushi studio_ghibli majo_no_takkyuubin mononoke_hime howl_no_ugoku_shiro tonari_no_totoro tenkuu_no_shiro_laputa gake_no_ue_no_ponyo kaze_no_tani_no_nausicaa kurenai_no_buta
