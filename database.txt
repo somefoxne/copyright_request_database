@@ -7561,3 +7561,4 @@
 ?iws_2000_(girls'_frontline) -> chainsaw_man doom_(series) doom_(2016) portal_(series) it_(stephen_king) portal_1 original azur_lane rick_and_morty
 ?ozora_yujin -> digimon digimon_universe:_appli_monsters digimon_adventure digimon_adventure_02 digimon_tamers digimon_frontier digimon_xros_wars digimon_savers digimon_xros_wars:_toki_wo_kakeru_shounen_hunter-tachi digimon_story:_time_stranger
 ?shutmon -> digimon digimon_universe:_appli_monsters
+?purrchena_(arknights) -> arknights arknights:_endfield tonari_no_totoro
