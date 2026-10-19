@@ -7081,3 +7081,4 @@
 ?noin_(duel_masters) -> duel_masters romeo_to_cinderella_(vocaloid)
 ?oyama_mahiro -> onii-chan_wa_oshimai! blue_archive kantai_collection fate_(series) shukusei!!_loli-kami_requiem bocchi_the_rock! fate/kaleid_liner_prisma_illya studio_bind idolmaster umamusume
 ?takane_lui_(7th_costume) -> hololive
+?renamon -> digimon digimon_tamers pokemon digimon_adventure star_fox digimon_card_game original digimon_adventure_02 digimon_frontier digimon_xros_wars
