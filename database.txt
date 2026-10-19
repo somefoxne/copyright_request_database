@@ -7745,3 +7745,4 @@
 ?amane_kanata_(lock_on) -> hololive hololive_english ai_kotoba_v_(vocaloid)
 ?camus_(uta_no_prince-sama) -> uta_no_prince-sama uta_no_prince-sama:_shining_live marvel touken_ranbu spider-man_(series) sanrio my_melody_(series) fuwa_fuwa_cinnamoroll hello_kitty starbucks
 ?kotobuki_reiji -> uta_no_prince-sama uta_no_prince-sama:_shining_live the_legend_of_zelda the_legend_of_zelda:_breath_of_the_wild kantai_collection jojo_no_kimyou_na_bouken chainsaw_man utdr_(toby_fox) undertale sanrio
+?kurosaki_ranmaru -> uta_no_prince-sama uta_no_prince-sama:_shining_live sanrio my_melody_(series) hello_kitty original fate_(series) fate/grand_order chainsaw_man dragon_quest
