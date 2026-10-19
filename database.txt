@@ -6635,3 +6635,4 @@
 ?igglybuff -> pokemon vocaloid pokemon_heartgold_and_soulsilver project_voltage pokemon_gold/silver/crystal pokemon_mystery_dungeon pokemon_(anime) pokemon_mystery_dungeon:_explorers_of_time/darkness/sky pokemon_scarlet_and_violet pokemon_sun_and_moon
 ?maria_(silent_hill) -> silent_hill_(series) silent_hill_2 silent_hill_2_(remake) silent_hill_3 silent_hill_4:_the_room silent_hill_1 silent_hill:_homecoming silent_hill:_origins resident_evil silent_hill:_downpour
 ?heracross -> pokemon pokemon_(anime) pokemon_(classic_anime) pokemon_scarlet_and_violet original pokemon_journeys pokemon_heartgold_and_soulsilver pokemon_gold/silver/crystal pokemon_diamond/pearl/platinum pokemon_legends:_z-a
+?pinsir -> pokemon pokemon_(anime) pokemon_red/green/blue/yellow pokemon_(classic_anime) pokemon_sun_and_moon pokemon_journeys love_live! love_live!_school_idol_project pokemon_x_and_y pokemon_firered_and_leafgreen
