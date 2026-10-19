@@ -6986,3 +6986,4 @@
 ?voyager_(fate) -> fate_(series) fate/grand_order fate/requiem pokemon fate/extra koha-ace fate/apocrypha axis_powers_hetalia fate/grand_order_arcade indie_virtual_youtuber
 ?aizawa_ema -> vspo! nijisanji hololive neo-porte apex_legends hololive_english vcr_gta madtown_gta indie_virtual_youtuber street_fighter
 ?aizawa_ema_(1st_costume) -> vspo! nijisanji hololive apex_legends hololive_english crazy_raccoon indie_utaite comiket_107 neo-porte vspo!_en
+?greater_roadrunner_(kemono_friends) -> kemono_friends kemono_friends_2 kemono_friends_3 looney_tunes kemono_friends_r kemono_friends_pavilion original ghost_in_the_shell keroro_gunsou one_piece
