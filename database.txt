@@ -7177,3 +7177,4 @@
 ?cinnamiku -> vocaloid sanrio fuwa_fuwa_cinnamoroll project_sekai magical_mirai_(vocaloid) my_melody_(series) pokemon genshin_impact utau project_voltage
 ?artier's_character -> original blade_&_soul
 ?ente-sutii_le_gabriel -> maha_no_hanashi vocaloid impact_desu_entity_(vocaloid) original puyopuyo
+?albedo_(overlord) -> overlord_(maruyama) kono_subarashii_sekai_ni_shukufuku_wo! re:zero_kara_hajimeru_isekai_seikatsu isekai_quartet youjo_senki no_game_no_life idolmaster idolmaster_(classic) original darling_in_the_franxx
