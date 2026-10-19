@@ -6600,3 +6600,4 @@
 ?hirai_ginji -> gin_to_kin fukumoto_mahjong tobaku_mokushiroku_kaiji akagi:_yami_ni_oritatta_tensai tobaku_haouden_zero ten_(manga) buraiden_gai saikyou_densetsu_kurosawa atsuize_pen-chan washizu_(manga)
 ?itou_kaiji -> tobaku_mokushiroku_kaiji fukumoto_mahjong akagi:_yami_ni_oritatta_tensai touhou tobaku_haouden_zero buraiden_gai gin_to_kin ten_(manga) saikyou_densetsu_kurosawa jojo_no_kimyou_na_bouken
 ?morita_tetsuo -> gin_to_kin tobaku_mokushiroku_kaiji fukumoto_mahjong akagi:_yami_ni_oritatta_tensai tobaku_haouden_zero ten_(manga) buraiden_gai saikyou_densetsu_kurosawa atsuize_pen-chan yami-ma_no_mamiya
+?tonegawa_yukio -> tobaku_mokushiroku_kaiji touhou chuukan_kanriroku_tonegawa comiket_97 aa_megami-sama fukumoto_mahjong akagi:_yami_ni_oritatta_tensai ten_(manga) tobaku_haouden_zero gin_to_kin
