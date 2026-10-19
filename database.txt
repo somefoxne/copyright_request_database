@@ -6781,3 +6781,4 @@
 ?selene_gallio -> marvel x-men dc_comics batman_(series) marvel_snap
 ?algerie_(the_strict_maid_isn't_so_strict)_(azur_lane) -> azur_lane
 ?ars_magna_doomz -> yu-gi-oh!
+?artmage_graflare -> yu-gi-oh!
