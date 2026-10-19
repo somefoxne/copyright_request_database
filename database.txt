@@ -7921,3 +7921,4 @@
 ?bianca_(pokemon) -> pokemon pokemon_black_and_white pokemon_black_2_and_white_2 pokemon_masters_ex pokemon_diamond/pearl/platinum pokemon_heartgold_and_soulsilver pokemon_(anime) pokemon_the_series:_black_&_white pokemon_firered_and_leafgreen pokemon_ruby/sapphire/emerald
 ?cinccino -> pokemon pokemon_black_and_white pokemon_black_2_and_white_2 pokemon_(anime) original pokemon_sword_and_shield pokemon_diamond/pearl/platinum pokemon_tcg pokemon_mystery_dungeon pokemon_scarlet_and_violet
 ?musharna -> pokemon pokemon_black_and_white pokemon_black_2_and_white_2 pokemon_diamond/pearl/platinum pokemon_sword_and_shield pokemon_platinum pokemon_(anime) touhou pokemon_x_and_y pokemon_adventures
+?lace_(hollow_knight) -> hollow_knight hollow_knight:_silksong marvel twitter spider-man_(series) pokemon neon_genesis_evangelion mega_man_(series) mega_man_zero_(series) mega_man_zx
