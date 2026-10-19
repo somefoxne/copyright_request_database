@@ -6923,3 +6923,4 @@
 ?sua_(angel)_(alien_stage) -> alien_stage ipstar utdr_(toby_fox) deltarune zombie_stage mahou_shoujo_madoka_magica chainsaw_man sono_bisque_doll_wa_koi_wo_suru mahou_shoujo_madoka_magica:_hangyaku_no_monogatari needy_girl_overdose
 ?rena_(joshi_kousei_rich_thots) -> joshi_kousei_rich_thots original elden_ring
 ?celica_(fire_emblem) -> fire_emblem fire_emblem_echoes:_shadows_of_valentia fire_emblem_heroes fire_emblem_gaiden fire_emblem:_the_blazing_blade fire_emblem_awakening fire_emblem_engage fire_emblem_fates fire_emblem:_the_sacred_stones fire_emblem:_mystery_of_the_emblem
+?liprica -> fire_emblem fire_emblem_echoes:_shadows_of_valentia
