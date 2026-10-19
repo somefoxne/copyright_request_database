@@ -7582,3 +7582,4 @@
 ?curse_maker_2 -> sekaiju_no_meikyuu sekaiju_no_meikyuu_1 sekaiju_no_meikyuu_2 sekaiju_no_meikyuu_3 sekaiju_no_meikyuu_4 sekaiju_to_fushigi_no_dungeon persona 7th_dragon_(series) 7th_dragon shin_sekaiju_no_meikyuu_2
 ?doctor_magus -> sekaiju_no_meikyuu sekaiju_no_meikyuu_2 sekaiju_no_meikyuu_1 sekaiju_no_meikyuu_3 sekaiju_no_meikyuu_hd sekaiju_no_meikyuu_4 sekaiju_no_meikyuu_5 sekaiju_no_meikyuu_x final_fantasy girls_und_panzer
 ?doctor_magus_1 -> sekaiju_no_meikyuu sekaiju_no_meikyuu_2 sekaiju_no_meikyuu_3 sekaiju_no_meikyuu_1 sekaiju_no_meikyuu_hd nintendo shin_sekaiju_no_meikyuu_2
+?susan_long -> american_dragon:_jake_long
