@@ -6558,3 +6558,4 @@
 ?nuwa_(megami_tensei) -> shin_megami_tensei shin_megami_tensei_v megami_tensei shin_megami_tensei_v:_vengeance devil_may_cry_(series) devil_summoner_(series) shin_megami_tensei_iii:_nocturne
 ?magus_(zenless_zone_zero) -> zenless_zone_zero mihoyo blue_archive genshin_impact idolmaster umamusume honkai_(series) honkai:_star_rail persona neon_genesis_evangelion
 ?orphie_magnusson -> zenless_zone_zero honkai_(series) honkai:_star_rail mihoyo genshin_impact idolmaster gundam neon_genesis_evangelion gakuen_idolmaster blue_archive
+?barry_(pokemon) -> pokemon pokemon_diamond/pearl/platinum pokemon_platinum pokemon_adventures pokemon_heartgold_and_soulsilver pokemon_black_and_white pokemon_ruby/sapphire/emerald pokemon_firered_and_leafgreen pokemon_red/green/blue/yellow pokemon_gold/silver/crystal
