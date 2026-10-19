@@ -7028,3 +7028,4 @@
 ?alisa_landeel -> phantasy_star phantasy_star_i sega phantasy_star_ii phantasy_star_online_2 sonic_(series) phantasy_star_iv sonic_the_hedgehog_(classic) jet_set_radio eternal_arcadia
 ?eusis_(phantasy_star_ii) -> phantasy_star phantasy_star_ii phantasy_star_iv sonic_(series) sonic_the_hedgehog_(classic) phantasy_star_online phantasy_star_iii golden_axe fantasy_zone phantasy_star_i
 ?myau_(phantasy_star) -> phantasy_star phantasy_star_i phantasy_star_ii phantasy_star_iii phantasy_star_iv original sega sonic_(series) dark_souls_(series) berserk
+?harumi_(ninjago) -> ninjago higurashi_no_naku_koro_ni unknown_mother_goose_(vocaloid) ninjago:_dragons_rising
