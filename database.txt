@@ -7319,3 +7319,4 @@
 ?awayuki_hiiro -> anemoi summer_pockets key_(company)
 ?red_crown_(cult_of_the_lamb) -> cult_of_the_lamb hololive touhou pokemon original utdr_(toby_fox) nijisanji undertale doki_doki_literature_club hellaverse
 ?the_lamb_(cult_of_the_lamb) -> cult_of_the_lamb hololive touhou original pokemon utdr_(toby_fox) helltaker deltarune undertale hellaverse
+?sonozaki_mion -> higurashi_no_naku_koro_ni higurashi_no_naku_koro_ni_mei umineko_no_naku_koro_ni suzumiya_haruhi_no_yuuutsu rozen_maiden fate_(series) fate/stay_night lyrical_nanoha shakugan_no_shana aria_(manga)
