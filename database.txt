@@ -7785,3 +7785,4 @@
 ?arielle_(vtuber)_(corrupted_2.0) -> indie_virtual_youtuber
 ?satsuki_mari -> heaven_burns_red key_(company) yostar to_heart_(series) angel_beats! comiket_107 persona mario_(series) persona_5 clannad
 ?morinaka_kazaki_(gekokujou) -> nijisanji nijisanji_en nijisanji_kr nijisanji_id
+?emma_august_(1st_costume) -> nijisanji original indie_virtual_youtuber wixoss nijisanji_kr hinata_channel bans love_is_blind_(quzilax) kantai_collection pokemon
