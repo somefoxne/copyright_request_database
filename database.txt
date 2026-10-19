@@ -7849,3 +7849,4 @@
 ?todoroki_hajime_(black_aurora) -> hololive hololive_dev_is hololive_english snake_eyes_(hakos_baelz) bancho_(todoroki_hajime)
 ?todoroki_hajime_(regloss_uniform) -> hololive hololive_dev_is hololive_english hololive_indonesia bang_dream! mario_(series) hololive_official_card_game bancho_(todoroki_hajime) pokemon
 ?rob_lucci -> one_piece one_piece_card_game one_piece:_stampede one_piece_film:_gold one_piece_everyday jujutsu_kaisen kirby_(series) twisted_wonderland jubilee_2025 one_piece_straw_hat_space
+?akiyama_mizuki_(middle_school) -> project_sekai telecaster_b-boy_(vocaloid) id_smile_(vocaloid) bitter_choco_decoration_(vocaloid) kitty_(vocaloid)
