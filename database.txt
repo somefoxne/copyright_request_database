@@ -7680,3 +7680,4 @@
 ?kanami_(whisper_of_flowers)_(strinova) -> strinova
 ?leona_(strinova) -> strinova
 ?maddelena_(strinova) -> strinova poptepipic
+?michele_(strinova) -> strinova original
