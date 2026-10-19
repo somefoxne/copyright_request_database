@@ -6629,3 +6629,4 @@
 ?fiona_belli -> demento resident_evil capcom street_fighter street_fighter_v silent_hill_(series) resident_evil_village silent_hill_3 original silent_hill_f
 ?hewie -> demento resident_evil capcom mega_man_(series) mega_man_(classic) silent_hill_(series) resident_evil_3:_nemesis ookami_(game) pokemon final_fantasy
 ?nurse_joy_(pokemon_legends:_z-a) -> pokemon pokemon_legends:_z-a pokemon_red/green/blue/yellow original pokemon_scarlet_and_violet pokemon_(anime) pokemon_(classic_anime) mother_(series) pokemon_pokopia
+?kukuri_(mawaru) -> original pokemon twitter tokoyo_no_tou dragon_quest vocaloid azur_lane final_fantasy gundam final_fantasy_vii
