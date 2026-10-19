@@ -7546,3 +7546,4 @@
 ?daenerys_targaryen -> a_song_of_ice_and_fire game_of_thrones pokemon wizarding_world harry_potter_(series) berserk vampirella original fate_(series) final_fantasy
 ?silverash_(never-melting_ice)_(arknights) -> arknights ambience_synesthesia
 ?tenzin_(never-melting_ice)_(arknights) -> arknights ambience_synesthesia
+?nyuu_(elfen_lied) -> elfen_lied shingeki_no_kyojin urusei_yatsura kantai_collection to_love-ru date_a_live nitroplus fairy_tail toradora! zero_no_tsukaima
