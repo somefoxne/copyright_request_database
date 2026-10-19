@@ -7129,3 +7129,4 @@
 ?escha_malier -> atelier_(series) atelier_escha_&_logy atelier_resleriana atelier_shallie atelier_ayesha atelier_meruru atelier_firis atelier_ryza atelier_totori atelier_rorona
 ?jasper_(steven_universe) -> steven_universe steven_universe_future dragon_ball marvel bishoujo_senshi_sailor_moon dragon_ball_z spider-man_(series) original pokemon jojo_no_kimyou_na_bouken
 ?peridot_(steven_universe) -> steven_universe steven_universe_future mario_(series) adventure_time dc_comics powerpuff_girls utdr_(toby_fox) dragon_ball teen_titans codename:_kids_next_door
+?nea_(chihuri) -> original microsoft_windows windows_classic windows_95 instagram
