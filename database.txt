@@ -7646,3 +7646,4 @@
 ?aokumo_rin_(1st_costume) -> stellive
 ?kero_(cardcaptor_sakura) -> cardcaptor_sakura cardcaptor_sakura_clear_card_arc cardcaptor_sakura:_memory_key mahou_shoujo_madoka_magica bishoujo_senshi_sailor_moon mahou_shoujo_madoka_magica_(anime) original pokemon vocaloid sanrio
 ?archer_(pokemon) -> pokemon pokemon_heartgold_and_soulsilver original pokemon_black_and_white pokemon_masters_ex pokemon_firered_and_leafgreen pokemon_red/green/blue/yellow pokemon_gold/silver/crystal pokemon_sun_and_moon
+?petrel_(pokemon) -> pokemon pokemon_heartgold_and_soulsilver pokemon_red/green/blue/yellow pokemon_firered_and_leafgreen pokemon_diamond/pearl/platinum pokemon_masters_ex pokemon_gold/silver/crystal pokemon_black_and_white pokemon_ruby/sapphire/emerald pokemon_(anime)
