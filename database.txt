@@ -7700,3 +7700,4 @@
 ?kanami_(century_idol)_(strinova) -> strinova
 ?kannagi_yuuma -> bishoujo_mangekyou_(series) bishoujo_mangekyou:_tsumi_to_batsu_no_shoujo vocaloid bishoujo_mangekyou:_kotowari_to_meikyuu_no_shoujo
 ?otomachi_una -> vocaloid talkex voiceroid synthesizer_v utau a.i._voice voicepeak cevio voicevox kamitsubaki_studio
+?otomachi_una_(talkex) -> talkex vocaloid voiceroid a.i._voice cevio synthesizer_v utau voicevox gynoid_talk voicepeak
