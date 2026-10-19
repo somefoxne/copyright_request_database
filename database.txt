@@ -7559,3 +7559,4 @@
 ?sakuramori_kaori -> idolmaster idolmaster_million_live! idolmaster_million_live!_theater_days idolmaster_(classic) idolmaster_shiny_colors idolmaster_cinderella_girls idolmaster_starlit_season girls_und_panzer idolmaster_poplinks world_rally_championship
 ?aug_(girls'_frontline) -> chainsaw_man nier_(series) nier:automata pokemon metal_gear_(series) djmax djmax_respect hololive hololive_english
 ?iws_2000_(girls'_frontline) -> chainsaw_man doom_(series) doom_(2016) portal_(series) it_(stephen_king) portal_1 original azur_lane rick_and_morty
+?ozora_yujin -> digimon digimon_universe:_appli_monsters digimon_adventure digimon_adventure_02 digimon_tamers digimon_frontier digimon_xros_wars digimon_savers digimon_xros_wars:_toki_wo_kakeru_shounen_hunter-tachi digimon_story:_time_stranger
