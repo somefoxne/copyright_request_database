@@ -7249,3 +7249,4 @@
 ?kamio_misuzu -> air_(visual_novel) key_(company) kanon clannad little_busters! angel_beats! rewrite dango_daikazoku charlotte_(anime) planetarian
 ?safety_(zenless_zone_zero) -> zenless_zone_zero azur_lane blue_archive honkai_(series) honkai:_star_rail dragon_ball mega_man_(series) dragon_ball_z star_wars mihoyo
 ?philia_(ayanue) -> original
+?kurama_(naruto) -> naruto_(series) naruto_shippuuden naruto_(classic) boruto_(series) boruto:_naruto_next_generations boruto:_two_blue_vortex pokemon naruto:_the_last naruto_shippuuden:_ultimate_ninja_blazing original
