@@ -7752,3 +7752,4 @@
 ?timcanpy -> d.gray-man one_piece suzumiya_haruhi_no_yuuutsu pokemon vocaloid mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) street_fighter dragon_ball digimon
 ?angert_(infinity_nikki) -> nikki_(series) infinity_nikki la_la_land real_life original mune:_guardian_of_the_moon
 ?meghill_(infinity_nikki) -> nikki_(series) infinity_nikki la_la_land original mune:_guardian_of_the_moon
+?abe_no_seimei_(fate) -> fate_(series) fate/grand_order
