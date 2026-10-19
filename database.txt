@@ -7777,3 +7777,4 @@
 ?maria_de_angelis -> heaven_burns_red key_(company) yostar kingdom_hearts angel_beats! zuutto_issho_(kitani_tatsuya)
 ?demon_king_of_salvation -> honkai_(series) honkai:_star_rail microsoft_windows tongari_boushi_no_atelier butcher_vanity_(synthesizer_v) original umamusume vocaloid project_sekai
 ?kim_dokja -> original my_s-class_hunters honkai_(series) alien_stage microsoft_windows honkai:_star_rail wizarding_world
+?noro_(vtuber) -> indie_virtual_youtuber original arknights the_elder_scrolls the_elder_scrolls_iv:_oblivion
