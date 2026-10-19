@@ -7744,3 +7744,4 @@
 ?symboli_kris_s_(casual)_(umamusume) -> umamusume real_life original nijisanji irasutoya la_la_land
 ?amane_kanata_(lock_on) -> hololive hololive_english ai_kotoba_v_(vocaloid)
 ?camus_(uta_no_prince-sama) -> uta_no_prince-sama uta_no_prince-sama:_shining_live marvel touken_ranbu spider-man_(series) sanrio my_melody_(series) fuwa_fuwa_cinnamoroll hello_kitty starbucks
+?kotobuki_reiji -> uta_no_prince-sama uta_no_prince-sama:_shining_live the_legend_of_zelda the_legend_of_zelda:_breath_of_the_wild kantai_collection jojo_no_kimyou_na_bouken chainsaw_man utdr_(toby_fox) undertale sanrio
