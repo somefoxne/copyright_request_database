@@ -6422,3 +6422,4 @@
 ?p-head_producer -> idolmaster idolmaster_cinderella_girls idolmaster_(classic) idolmaster_million_live! idolmaster_shiny_colors gakuen_idolmaster idolmaster_million_live!_theater_days idolmaster_cinderella_girls_starlight_stage idolmaster_side-m idolmaster_1
 ?nate_(pokemon) -> pokemon pokemon_black_2_and_white_2 pokemon_black_and_white pokemon_x_and_y pokemon_heartgold_and_soulsilver pokemon_diamond/pearl/platinum pokemon_firered_and_leafgreen pokemon_sun_and_moon pokemon_adventures pokemon_ruby/sapphire/emerald
 ?deathpolca -> demons_roots_(series) demons_roots king_exit tengen_toppa_gurren_lagann pokemon black_souls soukou_akki_muramasa
+?jamila_(ultra_series) -> ultra_series ultraman_(1st_series) umamusume ultraseven_(series) ultra_q original kantai_collection hololive gundam k-on!
