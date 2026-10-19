@@ -7206,3 +7206,4 @@
 ?zaizen_aoi -> yu-gi-oh! yu-gi-oh!_vrains yu-gi-oh!_gx yu-gi-oh!_arc-v yu-gi-oh!_zexal yu-gi-oh!_duel_monsters yu-gi-oh!_sevens yu-gi-oh!_go_rush!! yu-gi-oh!_the_dark_side_of_dimensions
 ?nakiri_alice -> shokugeki_no_souma fate_(series) fate/grand_order megami_magazine chainsaw_man neon_genesis_evangelion ore_no_imouto_ga_konna_ni_kawaii_wake_ga_nai dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru_darou_ka nyantype
 ?taihou_(forbidden_fruit)_(azur_lane) -> azur_lane kantai_collection fate_(series) fate/grand_order original comiket_100 blue_archive phantom_of_the_kill world_of_warships
+?araya_(project_moon) -> project_moon limbus_company saikai_(mili) arknights lobotomy_corporation hell_screen arknights:_endfield library_of_ruina mili_(band) jujutsu_kaisen
