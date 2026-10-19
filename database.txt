@@ -6540,3 +6540,4 @@
 ?vesper_(zenless_zone_zero) -> zenless_zone_zero never_gonna_give_you_up 2001_a_space_odyssey the_god_of_high_school
 ?sweep_tosho_(platanus_witch)_(umamusume) -> umamusume wizarding_world sport! original fate_(series) harry_potter_(series) real_life umamusume:_cinderella_gray akari_ga_yatte_kitazo_(vocaloid) metal_gear_(series)
 ?anshinin_misa -> vee_(vtuber) specialite_(company) indie_virtual_youtuber ring_fit_adventure versen prism_project nhot_bot
+?sakura_chiyono_o_(strength_in_full_bloom)_(umamusume) -> umamusume umamusume:_cinderella_gray real_life nichijou umamusume:_star_blossom touhou pokemon idolmaster vocaloid idolmaster_cinderella_girls
