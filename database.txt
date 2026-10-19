@@ -6919,3 +6919,4 @@
 ?wannai_kinuho -> toaru_majutsu_no_index toaru_kagaku_no_railgun toaru_kagaku_no_railgun_t toaru_kagaku_no_railgun_s toaru_majutsu_no_index:_new_testament toaru_majutsu_no_index:_imaginary_fest comiket_105 toaru_majutsu_no_index:_old_testament comiket_108 astral_buddy
 ?mika_(genshin_impact) -> genshin_impact vocaloid olympics 2024_summer_olympics original final_fantasy horizon_(game) fate_(series) fate/grand_order honkai_(series)
 ?tycho_(the_citadel) -> the_citadel warhammer_fantasy ingoku_danchi
+?mizi_(demon)_(alien_stage) -> alien_stage ipstar utdr_(toby_fox) deltarune zombie_stage mahou_shoujo_madoka_magica project_sekai mahou_shoujo_madoka_magica:_hangyaku_no_monogatari needy_girl_overdose doki_doki_literature_club
