@@ -6349,3 +6349,4 @@
 ?nurse_robot_type_t -> utau vocaloid voicevox a.i._voice synthesizer_v voisona voiceroid cevio kamitsubaki_studio kanashibari_ni_attara_(vocaloid)
 ?nurse_robot_type_t_(vocaloid6) -> vocaloid utau q_(vocaloid) a.i._voice hu_xi_luan_(vocaloid) gakubuchi_no_kotoba_(vocaloid)
 ?yae_sakura_(gyakushinn_miko) -> honkai_(series) honkai_impact_3rd genshin_impact mihoyo honkai_gakuen honkai:_star_rail comiket_96 arknights dragon_ball
+?starscourge_radahn -> elden_ring elden_ring:_shadow_of_the_erdtree original hololive hololive_english dark_souls_(series) sousou_no_frieren umamusume kirby_(series) dark_souls_i
