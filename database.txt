@@ -7816,3 +7816,4 @@
 ?solovari_(vtuber) -> indie_virtual_youtuber
 ?haru_urara_(racehorse) -> umamusume real_life sanrio hello_kitty arknights original hololive hololive_english umabi
 ?yarino_mana -> arakure_ojou-sama_wa_monmon_shiteiru
+?urotsuki -> yume_2kki yume_nikki .flow yume_nisshi lcddem ib_(kouri) answered_prayers omori mad_father ultra_violet_(game)
