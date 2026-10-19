@@ -6723,3 +6723,4 @@
 ?axel_(koko_d._nuts) -> indie_virtual_youtuber vedal_ai curious_george pokemon minecraft metal_gear_(series) youtube metal_gear_solid_3:_snake_eater the_creation_of_adam
 ?cimp_(camila_inpu) -> indie_virtual_youtuber vedal_ai final_fantasy chainsaw_man final_fantasy_vii mario_(series) nier_(series) dc_comics resident_evil nier:automata
 ?yowane_haku -> vocaloid utau project_diva_(series) evillious_nendaiki shiro_no_musume_(vocaloid) fl_studio voiceroid project_diva_2nd black_rock_shooter original
+?sendai_kai_ni_(kancolle) -> kantai_collection ninja_slayer pokemon ninin_ga_shinobuden naruto_(series) naruto_(classic) super_sentai fate_(series) fate/grand_order
