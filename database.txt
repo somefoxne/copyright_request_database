@@ -7441,3 +7441,4 @@
 ?shirakai_kiri -> kagurabachi jujutsu_kaisen aizo_(king_gnu)
 ?adell_(disgaea) -> disgaea makai_senki_disgaea_2 makai_senki_disgaea makai_senki_disgaea_3 makai_senki_disgaea_4 nippon_ichi disgaea_rpg phantom_kingdom la_pucelle_tactics marl_kingdom
 ?eberhard_braun -> reverse:1999
+?impostor_(among_us) -> among_us original hololive genshin_impact umamusume fall_guys hololive_english minecraft pokemon dead_by_daylight
