@@ -7011,3 +7011,4 @@
 ?eternity_larva -> touhou hidden_star_in_four_seasons touhou_lostword touhou_(pc-98) touhou_bougetsushou legacy_of_lunatic_kingdom touhou_sangetsusei silent_sinner_in_blue ten_desires embodiment_of_scarlet_devil
 ?heanna_sumire -> love_live! love_live!_superstar!! nonfiction!!_(love_live!) love_live!_nijigasaki_high_school_idol_club love_live!_sunshine!! hajimari_wa_kimi_no_sora love_live!_school_idol_project love_live!_hasu_no_sora_jogakuin_school_idol_club dolce_(love_live!) start!!_true_dreams_(love_live!)
 ?lappland_(young)_(arknights) -> arknights shiguang_dailiren monitoring_(vocaloid)
+?kumonoue_yumemi -> yumemi_channel indie_virtual_youtuber
