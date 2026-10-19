@@ -7824,3 +7824,4 @@
 ?richard_i_(second_ascension)_(fate) -> fate_(series) fate/strange_fake fate/grand_order pokemon real_life tsukihime sanrio tsukihime_(remake) minecraft fate/prototype
 ?gasai_yuno -> mirai_nikki mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) higurashi_no_naku_koro_ni fate_(series) school_days guilty_crown touhou vocaloid fate/stay_night
 ?shouhou_(kancolle) -> kantai_collection aoki_hagane_no_arpeggio lawson line_(naver) neko_atsume original idolmaster girls_und_panzer kamen_rider coca-cola
+?kuchinashi_dabi -> esse_series hyoutenka_30-do_no_zetsubou oshi_no_taisetsuna_hito_ni_narikawaru oshi_no_tachiba_ga_irekawaru pajamy_(vocaloid) pokemon project_moon suzumiya_haruhi_no_yuuutsu omori kirby_(series)
