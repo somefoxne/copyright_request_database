@@ -7883,3 +7883,4 @@
 ?erina_makina -> phase_connect fate_(series) fate/grand_order darkstalkers helltaker v&u_entertainment pokemon hololive arknights indie_virtual_youtuber
 ?cherche_(fire_emblem) -> fire_emblem fire_emblem_awakening fire_emblem_heroes fire_emblem_fates fire_emblem:_mystery_of_the_emblem fire_emblem_cipher fire_emblem:_three_houses fire_emblem:_the_blazing_blade fire_emblem:_path_of_radiance fire_emblem:_the_binding_blade
 ?ari_(notaxuaxi) -> original
+?rathian -> monster_hunter_(series) monster_hunter:_world original touhou monster_hunter_rise blue_archive monster_hunter_3 arknights monster_hunter_wilds monster_hunter_portable_3rd
