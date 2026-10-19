@@ -7156,3 +7156,4 @@
 ?katou_danzou_(fate) -> fate_(series) fate/grand_order gundam mega_man_(series) fate/extra fate/kaleid_liner_prisma_illya kamen_rider pokemon fate/apocrypha black_rock_shooter
 ?mochizuki_chiyome_(fate) -> fate_(series) fate/grand_order fate/apocrypha fate/extra fate/kaleid_liner_prisma_illya fate/stay_night hololive fate/zero koha-ace world_cup
 ?tomoe_gozen_(fate) -> fate_(series) fate/grand_order fate/extra fate/stay_night fate/samurai_remnant fate/apocrypha koha-ace monster_hunter_(series) comiket_95 nintendo
+?morichika_touma -> sekai_metsubou_kyouyuu_gensou_mamiya omori
