@@ -6374,3 +6374,4 @@
 ?phrolova_(wuthering_waves) -> wuthering_waves vocaloid shigatsu_wa_kimi_no_uso original punishing:_gray_raven ipstar kuro_games zenless_zone_zero genshin_impact chainsaw_man
 ?misogi_(princess_connect!) -> princess_connect! cygames granblue_fantasy gochuumon_wa_usagi_desu_ka? genshin_impact shukusei!!_loli-kami_requiem idolmaster umamusume love_live! idolmaster_(classic)
 ?watanabe_saki -> shin_sekai_yori nyantype comiket_83
+?theresa_apocalypse_(sugar_haw_child) -> honkai_(series) honkai_impact_3rd genshin_impact mihoyo
