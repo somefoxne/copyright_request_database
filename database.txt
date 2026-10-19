@@ -6889,3 +6889,4 @@
 ?fujinami_(kancolle) -> kantai_collection hokkaido_nippon-ham_fighters real_life comiket_100 original gundam kamen_rider kamen_rider_ex-aid_(series) kurenai_no_buta peach_(airline)
 ?lunasa_prismriver -> touhou perfect_cherry_blossom touhou_(pc-98) phantasmagoria_of_flower_view embodiment_of_scarlet_devil imperishable_night mountain_of_faith immaterial_and_missing_power touhou_lostword undefined_fantastic_object
 ?lyrica_prismriver -> touhou perfect_cherry_blossom touhou_(pc-98) phantasmagoria_of_flower_view embodiment_of_scarlet_devil imperishable_night mountain_of_faith immaterial_and_missing_power undefined_fantastic_object touhou_lostword
+?gaussia_(the_citadel) -> the_citadel
