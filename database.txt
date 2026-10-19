@@ -6952,3 +6952,4 @@
 ?martyr_(the_citadel) -> the_citadel beyond_citadel original doom_(series) fate_(series) fate/stay_night dc_comics batman_(series) warhammer_40k cave_story
 ?full_armor_ground_type_zeta_gundam -> gundam zeta_gundam gundam_battle_operation_2 zeta_gundam_define sunrise_(company) gundam_msv
 ?kris_(pokemon) -> pokemon pokemon_gold/silver/crystal pokemon_adventures pokemon_heartgold_and_soulsilver pokemon_firered_and_leafgreen pokemon_diamond/pearl/platinum pokemon_ruby/sapphire/emerald pokemon_black_and_white pokemon_masters_ex pokemon_red/green/blue/yellow
+?jeanne_d'arc_alter_(ver._shinjuku_1999)_(fate) -> fate_(series) fate/grand_order fate/apocrypha koha-ace girls_und_panzer fate/stay_night fate/extra pixiv_fate/grand_order_contest_1 azur_lane comiket_94
