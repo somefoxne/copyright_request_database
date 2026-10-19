@@ -7696,3 +7696,4 @@
 ?tomoe_umari -> indie_virtual_youtuber v-dere umamusume real_life i_want_you original touhou kemono_friends neon_genesis_evangelion
 ?akai_(kite) -> a_kite dead_or_alive
 ?sawa_(kite) -> a_kite mezzo_forte gundam neon_genesis_evangelion street_fighter dragon_ball sonic_(series) dragon_ball_z macross dead_or_alive
+?crustle -> pokemon pokemon_black_and_white pokemon_(anime) pokemon_the_series:_black_&_white pokemon_black_2_and_white_2 pokemon_(classic_anime) pokemon_tcg pokemon_the_series:_xy pokemon_the_series:_diamond_and_pearl pokemon_the_series:_ruby_and_sapphire
