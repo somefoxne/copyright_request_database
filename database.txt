@@ -6559,3 +6559,4 @@
 ?magus_(zenless_zone_zero) -> zenless_zone_zero mihoyo blue_archive genshin_impact idolmaster umamusume honkai_(series) honkai:_star_rail persona neon_genesis_evangelion
 ?orphie_magnusson -> zenless_zone_zero honkai_(series) honkai:_star_rail mihoyo genshin_impact idolmaster gundam neon_genesis_evangelion gakuen_idolmaster blue_archive
 ?barry_(pokemon) -> pokemon pokemon_diamond/pearl/platinum pokemon_platinum pokemon_adventures pokemon_heartgold_and_soulsilver pokemon_black_and_white pokemon_ruby/sapphire/emerald pokemon_firered_and_leafgreen pokemon_red/green/blue/yellow pokemon_gold/silver/crystal
+?fina_(ffbe) -> final_fantasy final_fantasy_brave_exvius final_fantasy_resonance final_fantasy_vi war_of_the_visions:_final_fantasy_brave_exvius final_fantasy_vii final_fantasy_ix final_fantasy_xiii final_fantasy_iii final_fantasy_xiv
