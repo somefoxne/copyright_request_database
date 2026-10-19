@@ -7950,3 +7950,4 @@
 ?crimson_feather_(infinity_nikki) -> nikki_(series) infinity_nikki cardcaptor_sakura
 ?tsunose_kotone -> a.i._voice cevio voiceroid vocaloid utau synthesizer_v voicevox voicepeak blue_archive kamitsubaki_studio
 ?enchanted_encounter_(infinity_nikki) -> nikki_(series) infinity_nikki cardcaptor_sakura stardew_valley
+?bunny_girl_guard_(ar)_(blue_archive) -> blue_archive
