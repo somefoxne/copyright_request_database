@@ -6809,3 +6809,4 @@
 ?hagane_otsuki -> dolphin_wave marvelous ikkitousen highspeed_etoile kage_no_jitsuryokusha_ni_naritakute!
 ?kurenashi_yuuri -> dolphin_wave marvelous azur_lane don_quijote_(store) highspeed_etoile kage_no_jitsuryokusha_ni_naritakute!
 ?touhoku_zunko -> voiceroid vocaloid voicevox utau cevio a.i._voice synthesizer_v talkex pokemon original
+?haruno_sora -> voiceroid vocaloid cevio synthesizer_v voicepeak onikko_hunter_tsuina-chan utau voicevox a.i._voice talkex
