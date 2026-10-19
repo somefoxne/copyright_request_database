@@ -7044,3 +7044,4 @@
 ?laru_(stella_sora) -> stella_sora
 ?koharu_rikka -> cevio synthesizer_v voiceroid vocaloid voicevox utau a.i._voice kamitsubaki_studio talkex coefont
 ?lakiston -> cevio synthesizer_v voiceroid vocaloid kamitsubaki_studio gynoid_talk coefont jojo_no_kimyou_na_bouken utau a.i._voice
+?commando_(the_citadel) -> the_citadel beyond_citadel sodom_(band) the_final_sign_of_evil_(sodom)
