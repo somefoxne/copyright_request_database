@@ -7396,3 +7396,4 @@
 ?rocket_raccoon -> marvel guardians_of_the_galaxy marvel_rivals spider-man_(series) avengers_(series) x-men the_incredible_hulk_(series) guardians_of_the_galaxy_vol._3 marvel_vs._capcom fantastic_four
 ?katja_(black_survival) -> black_survival eternal_return:_black_survival daejeon_autoarms original warhammer_40k
 ?flicky_(character) -> sonic_(series) sonic_the_hedgehog_(classic) sonic_adventure flicky_(series) the_murder_of_sonic_the_hedgehog sega sonic_cd sonic_the_hedgehog_1 sonic_superstars fantasy_zone
+?clumsy_nun_(diva) -> little_nuns_(diva) zookeepers_(diva) original mario_(series) pokemon among_us the_lord_of_the_rings ordo_mediare_sisters_(ironlily) the_last_supper
