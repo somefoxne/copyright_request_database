@@ -7895,3 +7895,4 @@
 ?shunin -> astrae_oratio stella_sora
 ?carol_malus_dienheim -> senki_zesshou_symphogear senki_zesshou_symphogear_xd_unlimited comiket_102 yu-gi-oh! dragon_ball lyrical_nanoha dragon_ball_z mahou_shoujo_lyrical_nanoha original
 ?psylocke -> marvel x-men marvel_rivals spider-man_(series) fantastic_four demon_days_(marvel) marvel_vs._capcom avengers_(series) the_incredible_hulk_(series) street_fighter
+?aris_(winter)_(blue_archive) -> blue_archive minecraft comiket_106 mario_(series) doom_(series) doom_i gintama cthulhu_mythos greek_mythology super_mario_64
