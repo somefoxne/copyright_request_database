@@ -7698,3 +7698,4 @@
 ?sawa_(kite) -> a_kite mezzo_forte gundam neon_genesis_evangelion street_fighter dragon_ball sonic_(series) dragon_ball_z macross dead_or_alive
 ?crustle -> pokemon pokemon_black_and_white pokemon_(anime) pokemon_the_series:_black_&_white pokemon_black_2_and_white_2 pokemon_(classic_anime) pokemon_tcg pokemon_the_series:_xy pokemon_the_series:_diamond_and_pearl pokemon_the_series:_ruby_and_sapphire
 ?kanami_(century_idol)_(strinova) -> strinova
+?kannagi_yuuma -> bishoujo_mangekyou_(series) bishoujo_mangekyou:_tsumi_to_batsu_no_shoujo vocaloid bishoujo_mangekyou:_kotowari_to_meikyuu_no_shoujo
