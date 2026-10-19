@@ -6868,3 +6868,4 @@
 ?sirius_(azure_horizons)_(azur_lane) -> azur_lane original fate_(series) kantai_collection fate/grand_order arknights fire_emblem fire_emblem_heroes fire_emblem:_genealogy_of_the_holy_war
 ?kala'toa_(vashperado) -> original mermay mermay_2026
 ?uncle_sam -> i_want_you kantai_collection chainsaw_man touhou marvel blue_archive real_life original dc_comics coca-cola
+?taihou_(private_quarters)_(azur_lane) -> azur_lane original comiket_107
