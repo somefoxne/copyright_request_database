@@ -7979,3 +7979,4 @@
 ?erdos_helia_(planar_armament:_warped_spacetime) -> honkai_(series) honkai_impact_3rd honkai:_star_rail fate_(series) genshin_impact fate/stay_night hunter_x_hunter mihoyo
 ?magolor -> kirby_(series) kirby_star_allies magolor_epilogue kirby_and_the_forgotten_land kirby:_planet_robobot kirby_64 kirby:_triple_deluxe
 ?mysterious_girl_(kirby_and_the_world_beyond) -> kirby_(series) kirby_and_the_world_beyond kirby_and_the_forgotten_land minecraft kirby_64 kirby:_planet_robobot the_truman_show kirby_and_the_rainbow_curse pokemon
+?taranza -> kirby_(series) kirby:_triple_deluxe kirby_star_allies kirby:_planet_robobot kirby_64 kirby_and_the_forgotten_land kirby:_squeak_squad kirby_air_ride
