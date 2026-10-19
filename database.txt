@@ -6712,3 +6712,4 @@
 ?naka_(christmas)_(kancolle) -> kantai_collection aoki_hagane_no_arpeggio
 ?tsukishiro_yuki -> mahou_shoujo_no_majo_saiban project_moon library_of_ruina karaoke_manekineko puyopuyo majo_no_tabitabi the_exit_8 toaru_ikka_no_tea_party_(vocaloid) love_live! zenless_zone_zero
 ?diglett -> pokemon pokemon_(anime) pokemon_red/green/blue/yellow pokemon_(classic_anime) pokemon_diamond/pearl/platinum touhou pokemon_scarlet_and_violet pokemon_sword_and_shield pokemon_firered_and_leafgreen original
+?koffing -> pokemon pokemon_black_2_and_white_2 pokemon_(anime) pokemon_red/green/blue/yellow pokemon_heartgold_and_soulsilver pokemon_firered_and_leafgreen pokemon_(classic_anime) pokemon_black_and_white pokemon_sword_and_shield pokemon_diamond/pearl/platinum
