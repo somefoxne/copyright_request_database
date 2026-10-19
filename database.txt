@@ -6804,3 +6804,4 @@
 ?agumon -> digimon digimon_adventure digimon_card_game digimon_story:_cyber_sleuth digimon_adventure_02 digimon_savers pokemon digimon_adventure_tri. digimon_tamers digimon_frontier
 ?arisia_hellioxenes -> kourin_tenshi_en_ciel_rena
 ?heidemarie_(chaos_zero_nightmare) -> chaos_zero_nightmare
+?ange_katrina_(9th_costume) -> nijisanji
