@@ -6610,3 +6610,4 @@
 ?arctibax -> pokemon pokemon_scarlet_and_violet pokemon_tcg original pokemon_(anime) godzilla_(series) pokemon_shuffle
 ?kido_tsubomi -> kagerou_project mekakushi_code_(vocaloid) mekakucity_actors souzou_forest_(vocaloid) daze_(kagerou_project) kagerou_days_(vocaloid) ayano_no_koufuku_riron_(vocaloid) headphone_actor_(vocaloid) jinzou_enemy_(vocaloid) konoha_no_sekai_jijou_(vocaloid)
 ?io_(fire_emblem) -> fire_emblem
+?37_(reverse:1999) -> reverse:1999 kamitsubaki_studio once_human pokemon arknights vocaloid honkai_(series) honkai:_star_rail
