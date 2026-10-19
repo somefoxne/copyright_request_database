@@ -6401,3 +6401,4 @@
 ?zentreya -> vshojo indie_virtual_youtuber socks_agency pokemon goddess_of_victory:_nikke mario_(series) original hololive zenless_zone_zero new_super_mario_bros._u_deluxe
 ?stigma_(shy) -> shy_(series)
 ?houshou_marine_(businesswoman) -> hololive hololive_english hololive_indonesia hololive_dev_is indie_virtual_youtuber nijisanji mahou_shoujo_holowitch! chained_together bishoujo_muzai_pirates pokemon
+?cheelai -> dragon_ball dragon_ball_super dragon_ball_super_broly dragon_ball_super_super_hero dragon_ball_z dragon_ball_fighterz dragon_ball_(classic) dragon_ball_gt dragon_ball_heroes ginga_patrol_jaco
