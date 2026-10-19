@@ -6835,3 +6835,4 @@
 ?kisaki_(kiki)_(blue_archive) -> blue_archive fate_(series) fate/grand_order kamen_rider kobayashi-san_chi_no_maidragon comiket_107 kodomo_no_jikan kamen_rider_drive_(series) power_rangers yellow_magic_orchestra
 ?kisaki_(kindergarten_uniform)_(blue_archive) -> blue_archive comiket_105 blue_archive_the_animation shukusei!!_loli-kami_requiem fate_(series) fate/grand_order arknights guilty_gear kamen_rider kobayashi-san_chi_no_maidragon
 ?glycine_bleumer -> sakura_taisen sakura_taisen_iii sega sakura_taisen_ii sakura_taisen_v original kantai_collection umamusume bang_dream!
+?trigger_(ace_combat) -> ace_combat ace_combat_7 ace_combat_04 ace_combat_5 ace_combat_6 ace_combat_zero ace_combat_2 ace_combat_3 ace_combat_x world_witches_series
