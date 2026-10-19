@@ -7690,3 +7690,4 @@
 ?wolfgang_amadeus_mozart_(real_life) -> real_life touhou fate_(series) fate/grand_order hololive hololive_english kemono_friends kemono_friends_v_project touhou_lostword koha-ace
 ?samejima_satoru -> sekai_metsubou_kyouyuu_gensou_mamiya
 ?bagon -> pokemon pokemon_ruby/sapphire/emerald pokemon_diamond/pearl/platinum pokemon_omega_ruby_and_alpha_sapphire pokemon_emerald pokemon_mystery_dungeon original pokemon_black_and_white pokemon_red/green/blue/yellow pokemon_(anime)
+?flygon -> pokemon pokemon_sword_and_shield vocaloid project_voltage pokemon_ruby/sapphire/emerald pokemon_(anime) pokemon_omega_ruby_and_alpha_sapphire pokemon_tcg pokemon_scarlet_and_violet pokemon_emerald
