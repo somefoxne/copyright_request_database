@@ -6511,3 +6511,4 @@
 ?yugiri_tsuzuri -> love_live! love_live!_hasu_no_sora_jogakuin_school_idol_club dream_believers ladybug_(love_live!) proof_(love_live!) link_to_the_future_(love_live!) awoke_(love_live!) aurora_flower_(love_live!) deepness_(love_live!) love_live!_hasu_no_sora_jogakuin_school_idol_club_bloom_garden_party
 ?soren_(isolated_strategist)_(fire_emblem) -> fire_emblem fire_emblem:_path_of_radiance fire_emblem_heroes fire_emblem:_radiant_dawn fire_emblem_cipher pokemon mega_man_(series) mega_man_(classic)
 ?shoshanna_levi_(hellonearthiii) -> original
+?lilith_(swimsuit_rider)_(second_ascension)_(fate) -> fate_(series) fate/grand_order
