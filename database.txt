@@ -7919,3 +7919,4 @@
 ?sayo_(voicevox) -> voicevox utau coefont voiceroid vocaloid indie_virtual_youtuber cevio a.i._voice voicepeak coeiroink
 ?modeus_(helltaker) -> helltaker original fate_(series) team_fortress_2 pokemon fate/grand_order doom_(series) touhou kantai_collection
 ?bianca_(pokemon) -> pokemon pokemon_black_and_white pokemon_black_2_and_white_2 pokemon_masters_ex pokemon_diamond/pearl/platinum pokemon_heartgold_and_soulsilver pokemon_(anime) pokemon_the_series:_black_&_white pokemon_firered_and_leafgreen pokemon_ruby/sapphire/emerald
+?cinccino -> pokemon pokemon_black_and_white pokemon_black_2_and_white_2 pokemon_(anime) original pokemon_sword_and_shield pokemon_diamond/pearl/platinum pokemon_tcg pokemon_mystery_dungeon pokemon_scarlet_and_violet
