@@ -7342,3 +7342,4 @@
 ?koco_(sonic) -> sonic_(series) sonic_frontiers sonic_the_hedgehog_(classic) mario_(series) sonic_cd sonic_superstars sonic_colors sonic_the_hedgehog_1 splatoon_(series) dc_comics
 ?tama_(mahoiku) -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_unmarked mahou_shoujo_ikusei_keikaku_restart mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) super_sentai tamako_market mahou_shoujo_ikusei_keikaku_limited mahou_shoujo_ikusei_keikaku_jokers
 ?koito_yuu -> yagate_kimi_ni_naru hololive hololive_english yagate_kimi_ni_naru:_saeki_sayaka_ni_tsuite league_of_legends lycoris_recoil shoujo_kageki_revue_starlight arcane:_league_of_legends original love_live!
+?saber_(swimsuit_archer)_(first_ascension)_(fate) -> fate_(series) fate/grand_order fate/hollow_ataraxia fate/stay_night fate/apocrypha fate/extra fate/zero tsukihime kara_no_kyoukai type-moon
