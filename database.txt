@@ -6907,3 +6907,4 @@
 ?nyra_nightclaw -> izigenia
 ?orochi_(fire_emblem) -> fire_emblem fire_emblem_fates fire_emblem_heroes fire_emblem_awakening pokemon fire_emblem:_radiant_dawn fire_emblem:_mystery_of_the_emblem fire_emblem_cipher final_fantasy fire_emblem:_three_houses
 ?asuka_(senran_kagura) -> senran_kagura senran_kagura_new_wave senran_kagura_new_link senran_kagura_shinovi_versus senran_kagura_estival_versus pokemon senran_kagura_peach_beach_splash senran_kagura_burst azur_lane
+?amatsukaze_(hinamatsuri)_(kancolle) -> kantai_collection honkai_(series) honkai:_star_rail
