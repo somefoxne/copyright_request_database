@@ -7388,3 +7388,4 @@
 ?iin_chiyo_(hyakkano_party) -> kimi_no_koto_ga_dai_dai_dai_dai_daisuki_na_100-nin_no_kanojo
 ?the_white_witch_(ibrahem_swaid) -> original the_white_witch
 ?kirisame_marisa_(pc-98) -> touhou touhou_(pc-98) story_of_eastern_wonderland phantasmagoria_of_dim.dream lotus_land_story mystic_square gantz highly_responsive_to_prayers seihou embodiment_of_scarlet_devil
+?okazaki_yumemi -> touhou touhou_(pc-98) phantasmagoria_of_dim.dream story_of_eastern_wonderland lotus_land_story highly_responsive_to_prayers mystic_square seihou original embodiment_of_scarlet_devil
