@@ -7250,3 +7250,4 @@
 ?safety_(zenless_zone_zero) -> zenless_zone_zero azur_lane blue_archive honkai_(series) honkai:_star_rail dragon_ball mega_man_(series) dragon_ball_z star_wars mihoyo
 ?philia_(ayanue) -> original
 ?kurama_(naruto) -> naruto_(series) naruto_shippuuden naruto_(classic) boruto_(series) boruto:_naruto_next_generations boruto:_two_blue_vortex pokemon naruto:_the_last naruto_shippuuden:_ultimate_ninja_blazing original
+?nogi_wakaba -> yuusha_de_aru nogi_wakaba_wa_yuusha_de_aru yuuki_yuuna_wa_yuusha_de_aru washio_sumi_wa_yuusha_de_aru yuuki_yuuna_wa_yuusha_de_aru:_hanayui_no_kirameki mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) lyrical_nanoha magia_record:_mahou_shoujo_madoka_magica_gaiden mahou_shoujo_lyrical_nanoha
