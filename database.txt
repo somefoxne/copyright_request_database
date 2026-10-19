@@ -7264,3 +7264,4 @@
 ?kanabako_misora -> assault_lily
 ?akane_(mahoiku) -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_restart mahou_shoujo_ikusei_keikaku_jokers mahou_shoujo_ikusei_keikaku_unmarked mahou_shoujo_ikusei_keikaku_limited
 ?juna_(sim0n404) -> original
+?denpafish_(vtuber) -> indie_virtual_youtuber vallure
