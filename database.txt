@@ -7425,3 +7425,4 @@
 ?etna_(disgaea) -> disgaea makai_senki_disgaea makai_senki_disgaea_2 disgaea_d2 disgaea_rpg nippon_ichi ar_tonelico original fate_(series) makai_senki_disgaea_3
 ?kazamatsuri_fuuka -> disgaea makai_senki_disgaea_4 disgaea_rpg makai_senki_disgaea makai_senki_disgaea_2 makai_senki_disgaea_3 nippon_ichi makai_senki_disgaea_5 disgaea_d2 makai_senki_disgaea_7
 ?laharl -> disgaea makai_senki_disgaea disgaea_d2 makai_senki_disgaea_2 disgaea_rpg makai_senki_disgaea_3 nippon_ichi makai_senki_disgaea_4 la_pucelle_tactics phantom_kingdom
+?pirilika_(disgaea) -> disgaea makai_senki_disgaea_7 disgaea_rpg makai_senki_disgaea makai_senki_disgaea_2 makai_senki_disgaea_4 makai_senki_disgaea_3 makai_senki_disgaea_5 makai_senki_disgaea_6 disgaea_d2
