@@ -7873,3 +7873,4 @@
 ?mega_absol -> pokemon pokemon_x_and_y original pokemon_(anime) pokemon_legends:_z-a pokemon_omega_ruby_and_alpha_sapphire pokemon_tcg pokemon_the_series:_xy pokemon_mystery_dungeon love_live!
 ?kezumi_(charupopu) -> original
 ?akatsuki_(akatsuki_en-eins) -> akatsuki_blitzkampf under_night_in-birth en-eins_kanzen_sekai touhou m.u.g.e.n tsukihime melty_blood blazblue blazblue:_cross_tag_battle the_king_of_fighters
+?erika_wagner -> under_night_in-birth under_night_in-birth_exe:late[st] under_night_in-birth_2_sys:celes guilty_gear akatsuki_blitzkampf under_night_in-birth_exe:late[cl-r] street_fighter blazblue tekken guilty_gear_xrd
