@@ -7603,3 +7603,4 @@
 ?mogami_shizuka -> idolmaster idolmaster_million_live! idolmaster_million_live!_theater_days idolmaster_(classic) idolmaster_cinderella_girls idolmaster_shiny_colors idolmaster_side-m idolmaster_dearly_stars gakuen_idolmaster idolmaster_1
 ?nagayoshi_subaru -> idolmaster idolmaster_million_live! idolmaster_million_live!_theater_days idolmaster_(classic) idolmaster_cinderella_girls idolmaster_shiny_colors idolmaster_side-m idolmaster_poplinks world_rally_championship idolmaster_dearly_stars
 ?yabuki_kana -> idolmaster idolmaster_million_live! idolmaster_million_live!_theater_days idolmaster_(classic) idolmaster_movie idolmaster_cinderella_girls idolmaster_dearly_stars comiket_105 idolmaster_one_for_all idolmaster_side-m
+?memoria_asmr -> indie_virtual_youtuber original
