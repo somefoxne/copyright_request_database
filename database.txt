@@ -7345,3 +7345,4 @@
 ?saber_(swimsuit_archer)_(first_ascension)_(fate) -> fate_(series) fate/grand_order fate/hollow_ataraxia fate/stay_night fate/apocrypha fate/extra fate/zero tsukihime kara_no_kyoukai type-moon
 ?saber_alter_(swimsuit_rider)_(first_ascension) -> fate_(series) fate/grand_order fate/stay_night fate/hollow_ataraxia fate/extra fate/unlimited_codes honkai_(series) honkai:_star_rail fate/zero
 ?isolde_(reverse:1999) -> reverse:1999 original olympics 2024_summer_olympics alien_stage duolingo real_husbands_of_hollywood pokemon idolmaster mahou_shoujo_madoka_magica
+?silver_the_hedgehog -> sonic_(series) sonic_the_hedgehog_(2006) sonic_the_hedgehog_(classic) sonic_the_hedgehog_(idw) sonic_channel sonic_rush_adventure the_murder_of_sonic_the_hedgehog dragon_ball sonic_riders_(series) sonic_the_hedgehog_(archie_comics)
