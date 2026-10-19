@@ -7534,3 +7534,4 @@
 ?milky_(jewelpet) -> jewelpet_(series) jewelpet_twinkle
 ?t.m._opera_o_(crow)_(umamusume) -> umamusume pokemon umamusume:_road_to_the_top mario_(series) the_witcher_(series)
 ?fukami_(funamusea) -> funamusea oounabara_to_wadanohara utau pan_kogekoge_ni_nacchatta_(utau)
+?dejavudea -> indie_virtual_youtuber ragnarok_online tamagotchi discord gamer_supps tamagotchi_plus
