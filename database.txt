@@ -6412,3 +6412,4 @@
 ?ghost_bride_mei -> overwatch
 ?miyuki_(kancolle) -> kantai_collection snow_white_(fairy_tale) lawson choo_choo_train pokemon mario_(series) gundam aoki_hagane_no_arpeggio super_mario_bros._1 kamen_rider
 ?kuma_(kancolle) -> kantai_collection aoki_hagane_no_arpeggio girls_und_panzer yuru-chara gundam pokemon winnie_the_pooh original touhou gundam_build_fighters
+?sariel_(touhou) -> touhou touhou_(pc-98) highly_responsive_to_prayers story_of_eastern_wonderland mystic_square phantasmagoria_of_dim.dream lotus_land_story embodiment_of_scarlet_devil imperishable_night perfect_cherry_blossom
