@@ -7471,3 +7471,4 @@
 ?miquella_(elden_ring) -> elden_ring elden_ring:_shadow_of_the_erdtree original dark_souls_(series) fromsoftware dark_souls_i dark_souls_iii elden_ring_nightreign sekiro:_shadows_die_twice guilty_gear
 ?queen_marika_the_eternal -> elden_ring elden_ring:_shadow_of_the_erdtree dark_souls_(series) dark_souls_i fromsoftware fate_(series) dark_souls_iii fate/grand_order final_fantasy dark_souls_ii
 ?mikaze_ai -> uta_no_prince-sama uta_no_prince-sama:_shining_live uta_no_prince-sama_maji_love_2000% idolmaster idolmaster_cinderella_girls touhou fate_(series) genshin_impact fate/grand_order vocaloid
+?adol_christin -> ys ys_x:_nordics ancient_ys_vanished ys_viii:_lacrimosa_of_dana ys_ix:_monstrum_nox ys_seven eiyuu_densetsu falcom ys:_memories_of_celceta ys_iii:_wanderers_from_ys
