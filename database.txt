@@ -7461,3 +7461,4 @@
 ?chevalier_d'eon_(fate) -> fate_(series) fate/grand_order fate/extra fate/apocrypha fate/stay_night fate/strange_fake fate/extra_ccc fate/extella world_cup 2018_fifa_world_cup
 ?chevalier_d'eon_(maid_knight)_(fate) -> fate_(series) fate/grand_order fate/apocrypha fate/extra death_note fate/strange_fake
 ?amayo_liz -> million_production
+?tamora_jean_calhoun -> wreck-it_ralph mario_(series) sonic_(series) south_park mass_effect_(series) mountain_dew mass_effect_3 fifa faze_clan
