@@ -7959,3 +7959,4 @@
 ?vodka_(wild_top_gear)_(umamusume) -> umamusume original umamusume:_cinderella_gray real_life pokemon umamusume:_party_dash cygames akari_ga_yatte_kitazo_(vocaloid) slam_dunk_(series) umamusume:_road_to_the_top
 ?jubilee_(marvel)_(vampy_jammies) -> marvel marvel_rivals x-men guardians_of_the_galaxy sanrio my_melody_(series)
 ?asta_(black_clover) -> black_clover boku_no_hero_academia black_clover_m:_rise_of_the_wizard_king one_piece black_clover:_sword_of_the_wizard_king shounen_jump naruto_(series) dragon_ball kimetsu_no_yaiba bleach
+?yangazi_(dkwl025) -> indie_virtual_youtuber original
