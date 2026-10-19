@@ -6555,3 +6555,4 @@
 ?poko_rakun -> chromashift indie_virtual_youtuber blue_archive umamusume tensei_shitara_ken_deshita eien_project touhou pokemon fate_(series) zenless_zone_zero
 ?nichol_(ffbe) -> final_fantasy final_fantasy_brave_exvius final_fantasy_resonance final_fantasy_vii final_fantasy_xiv final_fantasy_vi final_fantasy_xi final_fantasy_ix final_fantasy_viii final_fantasy_x
 ?sakura_(ffbe) -> final_fantasy final_fantasy_brave_exvius final_fantasy_resonance final_fantasy_vii final_fantasy_xiv final_fantasy_vi final_fantasy_xi final_fantasy_ix final_fantasy_viii final_fantasy_x
+?nuwa_(megami_tensei) -> shin_megami_tensei shin_megami_tensei_v megami_tensei shin_megami_tensei_v:_vengeance devil_may_cry_(series) devil_summoner_(series) shin_megami_tensei_iii:_nocturne
