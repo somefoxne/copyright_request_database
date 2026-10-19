@@ -6326,3 +6326,4 @@
 ?takasugi_shinsuke -> gintama sannen_z-gumi_ginpachi_sensei jojo_no_kimyou_na_bouken nichijou pokemon umamusume one_piece suzumiya_haruhi_no_yuuutsu fate_(series) fate/grand_order
 ?prince_(a_hat_in_time) -> a_hat_in_time
 ?queen_vanessa -> a_hat_in_time i_want_my_hat_back webkinz
+?shirogane_naoto -> persona persona_4 persona_4_the_golden persona_3 persona_dancing persona_4:_dancing_all_night persona_x_detective persona_5 persona_4:_the_ultimate_in_mayonaka_arena persona_3_portable
