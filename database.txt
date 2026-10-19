@@ -7953,3 +7953,4 @@
 ?bunny_girl_guard_(ar)_(blue_archive) -> blue_archive
 ?devit -> d.gray-man higurashi_no_naku_koro_ni katekyo_hitman_reborn! air_gear mr._fullswing
 ?jasdero -> d.gray-man
+?stylist_(nikki) -> nikki_(series) infinity_nikki shining_nikki miracle_nikki original nikki_up2u2:_world_traveller nikki_up2u kfc fate_(series) idolmaster
