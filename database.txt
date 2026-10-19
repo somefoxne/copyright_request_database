@@ -6390,3 +6390,4 @@
 ?sylvia_(konosuba) -> kono_subarashii_sekai_ni_shukufuku_wo! kono_subarashii_sekai_ni_shukufuku_wo!:_kurenai_densetsu original pokemon indie_virtual_youtuber pokemon_sword_and_shield guilty_gear digimon pokemon_black_2_and_white_2 rwby
 ?knightmon -> digimon digimon_card_game digimon_story:_cyber_sleuth digimon_ghost_game digimon_xros_wars
 ?tsukiyono_ruli -> digimon digimon_ghost_game digimon_xros_wars digimon_universe:_appli_monsters digimon_savers digimon_adventure digimon_adventure_02 digimon_tamers digimon_frontier digimon_adventure:_(2020)
+?snow_white_(fairy_tale_character) -> snow_white_(fairy_tale) original little_red_riding_hood_(fairy_tale) cinderella_(fairy_tale) vocaloid rapunzel_(fairy_tale) pokemon project_tokyo_dolls
