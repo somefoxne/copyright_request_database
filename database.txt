@@ -6796,3 +6796,4 @@
 ?morinaka_kazaki_(1st_costume) -> nijisanji indie_virtual_youtuber minecraft hololive shingeki_no_kyojin .live coca-cola mickey_mouse_&_friends kizuna_ai_inc.
 ?morinaka_kazaki_(adult) -> nijisanji nijisanji_en nijisanji_kr nijisanji_id
 ?morinaka_kazaki_(young) -> nijisanji indie_virtual_youtuber minecraft original nijisanji_en apex_legends nijisanji_kr nijisanji_id reignite gamewith
+?capitano_(genshin_impact) -> genshin_impact honkai_(series) honkai:_star_rail mihoyo pokemon zenless_zone_zero kfc fate_(series) jojo_no_kimyou_na_bouken honkai_impact_3rd
