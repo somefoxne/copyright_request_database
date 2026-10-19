@@ -7611,3 +7611,4 @@
 ?ten_(urusei_yatsura) -> urusei_yatsura ranma_1/2 original inuyasha maison_ikkoku sony dirty_pair kyoukai_no_rinne vocaloid pokemon
 ?mey_mey_(precure) -> precure wonderful_precure! hirogaru_sky!_precure star_twinkle_precure kirakira_precure_a_la_mode mahou_tsukai_precure! smile_precure! dokidoki!_precure heartcatch_precure! suite_precure
 ?toyama_satoru -> precure wonderful_precure! hirogaru_sky!_precure delicious_party_precure kimi_to_idol_precure star_twinkle_precure kirakira_precure_a_la_mode tropical-rouge!_precure mahou_tsukai_precure! pokemon
+?ayase_yuu -> phase_connect nier_(series) nier:automata pokemon monitoring_(vocaloid) precure pokemon_scarlet_and_violet overwatch pokemon_legends:_z-a heartcatch_precure!
