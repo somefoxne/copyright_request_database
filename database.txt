@@ -7583,3 +7583,4 @@
 ?doctor_magus -> sekaiju_no_meikyuu sekaiju_no_meikyuu_2 sekaiju_no_meikyuu_1 sekaiju_no_meikyuu_3 sekaiju_no_meikyuu_hd sekaiju_no_meikyuu_4 sekaiju_no_meikyuu_5 sekaiju_no_meikyuu_x final_fantasy girls_und_panzer
 ?doctor_magus_1 -> sekaiju_no_meikyuu sekaiju_no_meikyuu_2 sekaiju_no_meikyuu_3 sekaiju_no_meikyuu_1 sekaiju_no_meikyuu_hd nintendo shin_sekaiju_no_meikyuu_2
 ?susan_long -> american_dragon:_jake_long
+?idate_(funamusea) -> funamusea ice_scream oounabara_to_wadanohara haiiro_teien mogeko_castle arknights indie_virtual_youtuber mario_(series) omori utdr_(toby_fox)
