@@ -7736,3 +7736,4 @@
 ?dadao_(fire_emblem) -> fire_emblem
 ?amadea_wolfa -> dolphin_wave azur_lane little_red_riding_hood_(fairy_tale) don_quijote_(store)
 ?kirahoshi_kanna -> dolphin_wave azur_lane marvelous don_quijote_(store) gundam high_school_dxd gundam_seed gundam_seed_destiny little_red_riding_hood_(fairy_tale) kage_no_jitsuryokusha_ni_naritakute!
+?crelly_(mold_mother) -> indie_virtual_youtuber socks_agency
