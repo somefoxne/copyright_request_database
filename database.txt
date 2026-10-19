@@ -7237,3 +7237,4 @@
 ?touko_(tank_chair) -> sensha_isu:_tank_chair
 ?sakura_miko_(casual) -> hololive hololive_english hololive_indonesia minecraft hololive_dev_is pokemon utdr_(toby_fox) undertale original
 ?spyro_the_dragon -> spyro_(series) crash_bandicoot_(series) mario_(series) pokemon sonic_(series) my_little_pony my_little_pony:_friendship_is_magic mega_man_(series) original final_fantasy
+?moro_(mononoke_hime) -> mononoke_hime studio_ghibli tonari_no_totoro majo_no_takkyuubin sen_to_chihiro_no_kamikakushi kaze_no_tani_no_nausicaa howl_no_ugoku_shiro tenkuu_no_shiro_laputa umamusume naruto_(series)
