@@ -6742,3 +6742,4 @@
 ?haru_(omurice_(roza4957)) -> original
 ?bronya_zaychik_(school_swimsuit) -> honkai_(series) honkai_impact_3rd honkai:_star_rail
 ?kiana_kaslana_(sunny_beach) -> honkai_(series) honkai_impact_3rd
+?murata_himeko_(black_mamba) -> honkai_(series) honkai_impact_3rd mihoyo genshin_impact honkai_gakuen
