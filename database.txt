@@ -7309,3 +7309,4 @@
 ?moses_(project_moon) -> project_moon the_distortion_detective limbus_company library_of_ruina lobotomy_corporation leviathan_(project_moon) wonderlab grizzly_ni_osowaretara touhou fate_(series)
 ?magneto -> marvel x-men marvel_rivals spider-man_(series) avengers_(series) marvel_vs._capcom the_incredible_hulk_(series) deadpool_(series) fantastic_four street_fighter
 ?magneto_(master_of_slumber) -> marvel marvel_rivals x-men
+?harusaruhi -> kamitsubaki_studio kamitsubaki_city_under_construction cevio kamitsubaki_city_ensemble sinsekai_record mesmerizer_(vocaloid) hololive hololive_english splatoon_(series) mario_(series)
