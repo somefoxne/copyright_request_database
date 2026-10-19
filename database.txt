@@ -6433,3 +6433,4 @@
 ?shinowa_mion -> love_live! love_live!_hasu_no_sora_jogakuin_school_idol_club dream_believers pokemon gundam love_live!_school_idol_project mario_(series) love_live!_sunshine!! love_live!_nijigasaki_high_school_idol_club love_live!_superstar!!
 ?bane_(identity_v) -> identity_v animate_(company)
 ?akie_yuzuru -> devil_survivor_(series) devil_survivor_2
+?mochizuki_honami -> project_sekai vocaloid zozotown kowareta_sekai_to_utaenai_miku batsubyou_(vocaloid) chainsaw_man sanrio shinpakusuu_#0822_(vocaloid) danganronpa_(series) sekai_symphony
