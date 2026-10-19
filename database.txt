@@ -6947,3 +6947,4 @@
 ?juno_(harvestella) -> harvestella
 ?yumeno_akari -> vspo! nijisanji indie_virtual_youtuber comiket_102 madtown_gta vcr_gta hololive macross macross_delta world_cup
 ?emolga -> pokemon pokemon_black_and_white pokemon_black_2_and_white_2 pokemon_(anime) pokemon_the_series:_black_&_white pokemon_legends:_z-a pokemon_sword_and_shield pokemon_diamond/pearl/platinum pokemon_x_and_y pokemon_(classic_anime)
+?shine_(shy) -> shy_(series)
