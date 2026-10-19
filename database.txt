@@ -7773,3 +7773,4 @@
 ?tachibana_kimika -> subarashiki_hibi tsui_no_sora tsui_no_sora_(remake) amazon_(company) sakura_no_uta the_last_supper indie_virtual_youtuber gegege_no_kitarou
 ?coppe_(eiyuu_densetsu) -> eiyuu_densetsu zero_no_kiseki ao_no_kiseki
 ?momo_(nikki) -> nikki_(series) infinity_nikki shining_nikki miracle_nikki nikki_up2u2:_world_traveller nikki_up2u stardew_valley original kfc cardcaptor_sakura
+?irene_redmayne -> heaven_burns_red persona persona_5 key_(company) yostar kirby_(series) angel_beats! meitantei_conan zuutto_issho_(kitani_tatsuya) boxboy!
