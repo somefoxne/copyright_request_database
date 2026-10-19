@@ -6827,3 +6827,4 @@
 ?milky_(one_piece) -> one_piece one_piece_card_game
 ?modernia_(first_affection)_(nikke) -> goddess_of_victory:_nikke comiket_104 blue_archive to_love-ru chobits ichiban_kuji
 ?carrot_(one_piece) -> one_piece boku_no_hero_academia one_piece_card_game one_piece_film:_red brand_new_animal shounen_jump dungeon_meshi star_wars zootopia star_wars:_visions
+?nhk_(voiceroid) -> voiceroid utau vocaloid voicevox a.i._voice cevio onikko_hunter_tsuina-chan magical_mirai_(vocaloid) gynoid_talk touhou
