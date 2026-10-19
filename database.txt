@@ -7483,3 +7483,4 @@
 ?muto_yugi -> yu-gi-oh! yu-gi-oh!_duel_monsters yu-gi-oh!_gx yu-gi-oh!_the_dark_side_of_dimensions yu-gi-oh!_zexal yu-gi-oh!_(toei) dragon_ball yu-gi-oh!_arc-v pokemon
 ?silent_magician -> yu-gi-oh! yu-gi-oh!_duel_monsters yu-gi-oh!_the_dark_side_of_dimensions pokemon yu-gi-oh!_gx monster_strike yu-gi-oh!_zexal yu-gi-oh!_sevens idolmaster idolmaster_cinderella_girls
 ?silent_swordsman -> yu-gi-oh! yu-gi-oh!_duel_monsters yu-gi-oh!_the_dark_side_of_dimensions original dragon_quest kamen_rider rwby hunter_x_hunter yu-gi-oh!_gx dragon_quest_iii
+?hisuian_samurott -> pokemon pokemon_legends:_arceus pokemon_sword_and_shield pokemon_masters_ex pokemon_sun_and_moon pokemon_omega_ruby_and_alpha_sapphire pokemon_scarlet_and_violet pokemon_black_and_white pokemon_diamond/pearl/platinum pokemon_x_and_y
