@@ -6582,3 +6582,4 @@
 ?miyako_yoshika_(living) -> touhou vocaloid mesmerizer_(vocaloid) dolls_in_pseudo_paradise wild_and_horned_hermit osana_reimu shibetsu_(vocaloid) suikasen_(touhou)
 ?hinata_mashu -> nanashi_inc. street_fighter utau street_fighter_6 eureka_seven_(series) comiket_104 eureka_seven don_quijote_(store) pan_kogekoge_ni_nacchatta_(utau)
 ?flowery_(deltarune) -> utdr_(toby_fox) deltarune undertale jujutsu_kaisen jojo_no_kimyou_na_bouken touhou umamusume invincible_(series) jojo_no_kimyou_na_bouken:_mirai_e_no_isan project_moon
+?shalltear_bloodfallen -> overlord_(maruyama) kono_subarashii_sekai_ni_shukufuku_wo! youjo_senki isekai_quartet fate_(series) re:zero_kara_hajimeru_isekai_seikatsu fate/grand_order gate_-_jieitai_ka_no_chi_nite_kaku_tatakaeri original vocaloid
