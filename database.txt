@@ -7340,3 +7340,4 @@
 ?chikuma_(kancolle) -> kantai_collection mario_(series) aoki_hagane_no_arpeggio super_mario_bros._1 original love_live! kemono_friends love_live!_school_idol_project girls_und_panzer moomin
 ?classic_sonic -> sonic_(series) sonic_the_hedgehog_(classic) sonic_cd sonic_generations sonic_mania sonic_superstars sonic_the_hedgehog_2 sonic_the_hedgehog_1 sonic_the_hedgehog_(ova) sonic_unleashed
 ?koco_(sonic) -> sonic_(series) sonic_frontiers sonic_the_hedgehog_(classic) mario_(series) sonic_cd sonic_superstars sonic_colors sonic_the_hedgehog_1 splatoon_(series) dc_comics
+?tama_(mahoiku) -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_unmarked mahou_shoujo_ikusei_keikaku_restart mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) super_sentai tamako_market mahou_shoujo_ikusei_keikaku_limited mahou_shoujo_ikusei_keikaku_jokers
