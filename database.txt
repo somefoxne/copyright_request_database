@@ -7270,3 +7270,4 @@
 ?ayesha_altugle -> atelier_(series) atelier_ayesha atelier_resleriana atelier_escha_&_logy atelier_shallie atelier_sophie atelier_totori nelke_to_densetsu_no_renkinjutsushi_tachi atelier_meruru atelier_marie
 ?irontomb -> honkai_(series) honkai:_star_rail honkai_impact_3rd mihoyo zenless_zone_zero tom_and_jerry
 ?cecilia_(fire_emblem) -> fire_emblem fire_emblem:_the_binding_blade fire_emblem_heroes fire_emblem:_the_blazing_blade fire_emblem_fates fire_emblem:_genealogy_of_the_holy_war fire_emblem:_path_of_radiance fire_emblem:_mystery_of_the_emblem fire_emblem:_the_sacred_stones fire_emblem:_three_houses
+?shallistera_(atelier) -> atelier_(series) atelier_shallie atelier_resleriana atelier_ayesha atelier_escha_&_logy atelier_rorona atelier_ryza nelke_to_densetsu_no_renkinjutsushi_tachi atelier_ryza_1 fire_emblem
