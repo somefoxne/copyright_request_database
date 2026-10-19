@@ -6821,3 +6821,4 @@
 ?krystal -> star_fox star_fox_adventures star_fox_assault sonic_(series) digimon sonic_the_hedgehog_(archie_comics) pokemon mario_(series) the_legend_of_zelda star_fox_2
 ?wakana_rei -> bang_dream! bang_dream!_girls_band_party! bang_dream!_yumemita ganso!_bang_dream_chan girls_band_cry rettou_joutou_(vocaloid) hololive shoujo_kageki_revue_starlight national_basketball_association
 ?gloomy_bear -> itazuraguma_no_gloomy original nitroplus vocaloid sanrio my_melody_(series) hello_kitty san-x my_little_pony rilakkuma_(series)
+?dodoco_(genshin_impact) -> genshin_impact honkai_(series) mihoyo honkai_impact_3rd honkai:_star_rail spy_x_family little_red_riding_hood_(fairy_tale) arknights duolingo pokemon
