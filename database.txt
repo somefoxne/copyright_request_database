@@ -7159,3 +7159,4 @@
 ?morichika_touma -> sekai_metsubou_kyouyuu_gensou_mamiya omori
 ?alolan_ninetales -> pokemon pokemon_sun_and_moon original pokemon_scarlet_and_violet pokemon_(anime) pokemon_unite pokemon_mystery_dungeon pokemon_the_series:_sun_&_moon pokemon_ultra_sun_and_ultra_moon touhou
 ?dratini -> pokemon pokemon_heartgold_and_soulsilver pokemon_(anime) pokemon_red/green/blue/yellow pokemon_go original pokemon_(classic_anime) pokemon_firered_and_leafgreen pokemon_gold/silver/crystal pokemon_diamond/pearl/platinum
+?froslass -> pokemon pokemon_diamond/pearl/platinum pokemon_sun_and_moon pokemon_masters_ex pokemon_platinum pokemon_sword_and_shield pokemon_legends:_z-a pokemon_scarlet_and_violet pokemon_black_and_white pokemon_(anime)
