@@ -7759,3 +7759,4 @@
 ?ashiya_douman_(fate) -> fate_(series) fate/grand_order fate/extra fate/grand_order_arcade mononoke original jojo_no_kimyou_na_bouken pokemon fujimaru_ritsuka_wa_wakaranai fate/stay_night
 ?ibaraki_douji_(fate) -> fate_(series) fate/grand_order fate/extra fate/apocrypha fate/stay_night kantai_collection fate/zero fate/extra_ccc fate/hollow_ataraxia touhou
 ?murasaki_shikibu_(fate) -> fate_(series) fate/grand_order fate/stay_night kono_subarashii_sekai_ni_shukufuku_wo! original azur_lane fate/extra comiket_105 comiket_100 touhou
+?nikki_(nikki) -> nikki_(series) infinity_nikki shining_nikki miracle_nikki nikki_up2u2:_world_traveller nikki_up2u stardew_valley kfc original honkai_(series)
