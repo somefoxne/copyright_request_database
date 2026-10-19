@@ -7121,3 +7121,4 @@
 ?ump40_(girls'_frontline) -> original helltaker metal_gear_(series) kantai_collection call_of_duty ace_combat the_beatles
 ?haku_(sen_to_chihiro_no_kamikakushi) -> sen_to_chihiro_no_kamikakushi studio_ghibli majo_no_takkyuubin mononoke_hime howl_no_ugoku_shiro tonari_no_totoro tenkuu_no_shiro_laputa gake_no_ue_no_ponyo kaze_no_tani_no_nausicaa kurenai_no_buta
 ?cheval_grand_(summer_calm_navy_drop)_(umamusume) -> umamusume original blue_archive idolmaster nijisanji gakuen_idolmaster cho_kaguya-hime! comiket_107 shine_post kimi_to_semi_blue_(idolmaster)
+?lumi_(wuthering_waves) -> wuthering_waves zenless_zone_zero
