@@ -6798,3 +6798,4 @@
 ?morinaka_kazaki_(young) -> nijisanji indie_virtual_youtuber minecraft original nijisanji_en apex_legends nijisanji_kr nijisanji_id reignite gamewith
 ?capitano_(genshin_impact) -> genshin_impact honkai_(series) honkai:_star_rail mihoyo pokemon zenless_zone_zero kfc fate_(series) jojo_no_kimyou_na_bouken honkai_impact_3rd
 ?blade_(sesame_cake)_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail honkai:_nexus_anima honkai_impact_3rd dialnote_(crim_nanakusa) pokemon genshin_impact pokemon_black_and_white sanrio clannad
+?chikushoudou_pain -> naruto_(series) naruto_shippuuden naruto_(classic) naruto_shippuuden:_ultimate_ninja_blazing
