@@ -7517,3 +7517,4 @@
 ?edward_newgate -> one_piece one_piece_card_game holostars holostars_english bleach fullmetal_alchemist original pokemon umamusume final_fantasy
 ?victoria_qi -> love_curse:_find_your_soulmate hololive love_live! love_live!_hasu_no_sora_jogakuin_school_idol_club alien_stage chiikawa holiday_holiday_(love_live!)
 ?silverash_(york's_bise)_(arknights) -> arknights ambience_synesthesia hololive jujutsu_kaisen coca-cola lost_in_paradise mounten
+?miori_celesta -> indie_virtual_youtuber tsunderia hololive myholo_tv hololive_english mythic_live spy_x_family oshi_no_ko prism_project original
