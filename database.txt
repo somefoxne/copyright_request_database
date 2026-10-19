@@ -7983,3 +7983,4 @@
 ?ro635_(girls'_frontline) -> kamen_rider metal_gear_(series) ultra_series rainbow_six_siege arknights kamen_rider_w va-11_hall-a
 ?mother_(yoru_mac) -> yoru_mac burger_king kfc original kagurabachi gundam real_life
 ?zani_(downtown_repose)_(wuthering_waves) -> wuthering_waves zenless_zone_zero
+?akutagawa_jiroh -> tennis_no_ouji-sama pokemon gundam precure street_fighter pokemon_(anime) guilty_gear tales_of_(series) kill_la_kill one-punch_man
