@@ -7804,3 +7804,4 @@
 ?amane_kanata_(1st_costume) -> hololive hololive_english hololive_indonesia minecraft nijisanji ryuu_ga_gotoku_(series) hololive_alternative hololive_dev_is hunter_x_hunter monster_hunter_(series)
 ?prophetbot_(oneshot) -> oneshot_(game)
 ?alula_(oneshot) -> oneshot_(game) tsukihime pokemon vocaloid bocchi_the_rock! omori utdr_(toby_fox) kirby_(series) deltarune one-punch_man
+?calamus_(oneshot) -> oneshot_(game) microsoft_windows windows_classic the_last_supper
