@@ -6589,3 +6589,4 @@
 ?coppelia_(reverse:1999) -> reverse:1999
 ?moon_knight -> marvel marvel_rivals moon_knight_(disney+) spider-man_(series) x-men fantastic_four avengers_(series) guardians_of_the_galaxy the_incredible_hulk_(series) deadpool_(series)
 ?albedo_(stella_sora) -> stella_sora
+?igna_(stella_sora) -> stella_sora
