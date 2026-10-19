@@ -6861,3 +6861,4 @@
 ?nakano_itsuki -> go-toubun_no_hanayome megami_magazine re:zero_kara_hajimeru_isekai_seikatsu pokemon dragon_ball kimetsu_no_yaiba animedia amagami-san_chi_no_enmusubi japan_railways
 ?red_hood_(black_souls) -> black_souls black_souls_2 arknights dead_red_hood original touhou project_moon arknights:_endfield lobotomy_corporation
 ?glyde_(mega_man) -> mega_man_(series) mega_man_legends_(series) mega_man_(classic) mega_man_x_(series) mega_man_zero_(series) mega_man_zx mega_man_battle_network_(series) mega_man_star_force_(series) mega_man_x4 mega_man_1
+?servbot_(mega_man) -> mega_man_(series) mega_man_legends_(series) mega_man_(classic) street_fighter darkstalkers capcom marvel_vs._capcom mega_man_x_(series) marvel resident_evil
