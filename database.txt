@@ -6523,3 +6523,4 @@
 ?gilgamesh_(caster)_(fate) -> fate_(series) fate/grand_order fate/stay_night fate/strange_fake fate/extra fate/extra_ccc fate/zero fate/grand_order_arcade pokemon fate/apocrypha
 ?crelly_(cowkini) -> indie_virtual_youtuber
 ?rice_shower_(vampire_makeover!)_(umamusume) -> umamusume indie_virtual_youtuber akari_ga_yatte_kitazo_(vocaloid) original kantai_collection blue_archive pokemon fate_(series) jojo_no_kimyou_na_bouken dragon_ball
+?hiryuu_(kancolle) -> kantai_collection line_(naver) peach_(airline) drifters comiket_95 aoki_hagane_no_arpeggio original lawson azur_lane gundam
