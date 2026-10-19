@@ -6973,3 +6973,4 @@
 ?altaria -> pokemon pokemon_omega_ruby_and_alpha_sapphire pokemon_scarlet_and_violet vocaloid project_voltage pokemon_ruby/sapphire/emerald pokemon_(anime) touhou pokemon_black_and_white
 ?oyama_mihari -> onii-chan_wa_oshimai! fate_(series) fate/kaleid_liner_prisma_illya kantai_collection shukusei!!_loli-kami_requiem blue_archive bocchi_the_rock! sanrio my_melody_(series) original
 ?captain_(kemono_friends) -> kemono_friends kemono_friends_3 original kemono_friends_v_project hi_no_tori kemono_friends_2 keroro_gunsou pokemon vocaloid dragon_ball
+?caracal_(kemono_friends) -> kemono_friends kemono_friends_v_project kemono_friends_2 kemono_friends_3 indie_virtual_youtuber kemono_friends_pavilion kemono_friends_kingdom minecraft .live one_piece
