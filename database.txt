@@ -7930,3 +7930,4 @@
 ?agnel_(money_for_girls:_amortized) -> money_for_girls:_amortized
 ?cancer_prize_(money_for_girls:_amortized) -> money_for_girls:_amortized
 ?sugar_puppet_(money_for_girls:_amortized) -> money_for_girls:_amortized
+?analyst_(astrae_oratio) -> astrae_oratio
