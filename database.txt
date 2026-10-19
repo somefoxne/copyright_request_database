@@ -6794,3 +6794,4 @@
 ?tigress_(kung_fu_panda) -> kung_fu_panda original pokemon digimon my_little_pony my_little_pony:_friendship_is_magic the_amazing_world_of_gumball arknights zenless_zone_zero
 ?blaze_the_cat -> sonic_(series) sonic_rush sonic_rush_adventure the_murder_of_sonic_the_hedgehog sonic_the_hedgehog_(2006) sonic_and_the_black_knight sonic_riders_(series) sonic_the_hedgehog_(idw) sonic_the_hedgehog_(classic) mario_&_sonic_(series)
 ?morinaka_kazaki_(1st_costume) -> nijisanji indie_virtual_youtuber minecraft hololive shingeki_no_kyojin .live coca-cola mickey_mouse_&_friends kizuna_ai_inc.
+?morinaka_kazaki_(adult) -> nijisanji nijisanji_en nijisanji_kr nijisanji_id
