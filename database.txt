@@ -7982,3 +7982,4 @@
 ?taranza -> kirby_(series) kirby:_triple_deluxe kirby_star_allies kirby:_planet_robobot kirby_64 kirby_and_the_forgotten_land kirby:_squeak_squad kirby_air_ride
 ?ro635_(girls'_frontline) -> kamen_rider metal_gear_(series) ultra_series rainbow_six_siege arknights kamen_rider_w va-11_hall-a
 ?mother_(yoru_mac) -> yoru_mac burger_king kfc original kagurabachi gundam real_life
+?zani_(downtown_repose)_(wuthering_waves) -> wuthering_waves zenless_zone_zero
