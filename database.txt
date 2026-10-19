@@ -7541,3 +7541,4 @@
 ?sawatari_makoto -> kanon key_(company) kanon_2006 kantai_collection air_(visual_novel) little_busters! clannad angel_beats! megami_magazine rewrite
 ?dikko-chan -> original indie_virtual_youtuber hololive
 ?eloysius_(arknights) -> arknights
+?over.on -> gundam gundam_walpurgis gundam_battle_operation_2 sunrise_(company) kamen_rider gundam_seed mobile_suit_gundam gundam_00 zeta_gundam gundam_seed_destiny
