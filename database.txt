@@ -7170,3 +7170,4 @@
 ?guido_mista -> jojo_no_kimyou_na_bouken vento_aureo diamond_wa_kudakenai stardust_crusaders stone_ocean battle_tendency steel_ball_run phantom_blood jojolion purple_haze_feedback
 ?bruno_bucciarati -> jojo_no_kimyou_na_bouken vento_aureo battle_tendency stardust_crusaders diamond_wa_kudakenai stone_ocean steel_ball_run phantom_blood jojolion doraemon
 ?giorno_giovanna -> jojo_no_kimyou_na_bouken vento_aureo stardust_crusaders stone_ocean diamond_wa_kudakenai phantom_blood battle_tendency steel_ball_run jojolion the_jojolands
+?mizora_(baldur's_gate) -> dungeons_&_dragons
