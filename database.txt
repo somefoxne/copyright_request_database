@@ -7855,3 +7855,4 @@
 ?emporio_ivankov -> one_piece one_piece_card_game one_piece_treasure_cruise touhou gundam marvel hunter_x_hunter mobile_suit_gundam fantastic_four one_piece_film:_red
 ?nagi_(player) -> player_(webtoon) player_(manhwa)
 ?agent_(typical_colors_2) -> typical_colors_2 original indie_virtual_youtuber roblox tower_defense_simulator royale_high arsenal_(roblox)
+?broly_(dragon_ball_super) -> dragon_ball dragon_ball_super dragon_ball_super_broly dragon_ball_z dragon_ball_super_super_hero dragon_ball_gt dragon_ball_minus dragon_ball:_sparking! the_mandela_catalogue dragon_ball_z_dokkan_battle
