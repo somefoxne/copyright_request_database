@@ -6492,3 +6492,4 @@
 ?freya_(hellonearthiii) -> original
 ?talimun_vandahl -> fire_emblem minecraft honkai_(series) honkai:_star_rail wuthering_waves
 ?nikki_freeman -> obsession_(movie) marvel x-men doki_doki_literature_club one_piece resident_evil project_hail_mary resident_evil_(2026_movie) spider-man_(series) backrooms_(creepypasta)
+?benditz_(fire_emblem) -> fire_emblem
