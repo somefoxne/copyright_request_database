@@ -6819,3 +6819,4 @@
 ?ghost_bride_widowmaker -> overwatch
 ?widowmaker_(overwatch) -> overwatch league_of_legends street_fighter street_fighter_v boku_no_hero_academia starcraft the_legend_of_zelda marvel original pokemon
 ?krystal -> star_fox star_fox_adventures star_fox_assault sonic_(series) digimon sonic_the_hedgehog_(archie_comics) pokemon mario_(series) the_legend_of_zelda star_fox_2
+?wakana_rei -> bang_dream! bang_dream!_girls_band_party! bang_dream!_yumemita ganso!_bang_dream_chan girls_band_cry rettou_joutou_(vocaloid) hololive shoujo_kageki_revue_starlight national_basketball_association
