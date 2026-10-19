@@ -7071,3 +7071,4 @@
 ?dina_(duel_masters) -> duel_masters
 ?amaterasu_(ookami) -> ookami_(game) capcom devil_may_cry_(series) marvel_vs._capcom marvel_vs._capcom_3 street_fighter mega_man_(series) darkstalkers resident_evil touhou
 ?manabe_tokiko -> original
+?ninetales -> pokemon pokemon_sword_and_shield pokemon_scarlet_and_violet pokemon_firered_and_leafgreen pokemon_(anime) pokemon_red/green/blue/yellow original pokemon_(classic_anime) pokemon_mystery_dungeon touhou
