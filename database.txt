@@ -7214,3 +7214,4 @@
 ?oogami_fuyuko -> wolf-chan_wa_sumashitai
 ?gepard_landau -> honkai_(series) honkai:_star_rail genshin_impact mihoyo honkai_impact_3rd fate_(series) arknights zenless_zone_zero fate/stay_night fate/unlimited_blade_works
 ?sampo_koski -> honkai_(series) honkai:_star_rail honkai_impact_3rd genshin_impact mihoyo fate_(series) zenless_zone_zero fate/grand_order gundam fate/stay_night
+?genzuki_toujirou_(5th_costume) -> nijisanji nijisanji_en ado_(utaite) nijisanji_kr nijisanji_id eien_no_akuru_hi
