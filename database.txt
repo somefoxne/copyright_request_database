@@ -6375,3 +6375,4 @@
 ?misogi_(princess_connect!) -> princess_connect! cygames granblue_fantasy gochuumon_wa_usagi_desu_ka? genshin_impact shukusei!!_loli-kami_requiem idolmaster umamusume love_live! idolmaster_(classic)
 ?watanabe_saki -> shin_sekai_yori nyantype comiket_83
 ?theresa_apocalypse_(sugar_haw_child) -> honkai_(series) honkai_impact_3rd genshin_impact mihoyo
+?navi -> the_legend_of_zelda the_legend_of_zelda:_ocarina_of_time the_legend_of_zelda:_twilight_princess the_legend_of_zelda:_the_wind_waker the_legend_of_zelda:_ocarina_of_time_(remake) the_legend_of_zelda:_skyward_sword the_legend_of_zelda:_breath_of_the_wild the_legend_of_zelda:_a_link_to_the_past super_smash_bros.
