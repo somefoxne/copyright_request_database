@@ -7682,3 +7682,4 @@
 ?maddelena_(strinova) -> strinova poptepipic
 ?michele_(strinova) -> strinova original
 ?yugiri_(strinova) -> strinova
+?tsukumo_sana -> hololive hololive_english hololive_indonesia holostars hololive_dev_is minecraft pokemon marvel original holostars_english
