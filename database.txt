@@ -7445,3 +7445,4 @@
 ?kamen_rider_blade -> kamen_rider kamen_rider_blade_(series) kamen_rider_dcd kamen_rider_555 kamen_rider_ryuki_(series) kamen_rider_kiva_(series) kamen_rider_den-o_(series) kamen_rider_kuuga_(series) kamen_rider_hibiki_(series) kamen_rider_kabuto_(series)
 ?taiyou_akari -> original kantai_collection mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) mega_man_(series) senki_zesshou_symphogear saki_(manga) mega_man_(classic) yuusha_de_aru
 ?nelliel_tu_odelschwanck -> bleach bleach:_sennen_kessen-hen bleach:_brave_souls bleach:_the_high_school_warfare bleach:_epilogue jiggly_girls one_piece dragon_ball meitantei_conan fire_emblem
+?ember_amane -> phase_connect zenless_zone_zero azur_lane indie_virtual_youtuber neon_genesis_evangelion mahjong_soul little_red_riding_hood_(fairy_tale) fire_emblem danganronpa_(series) goddess_of_victory:_nikke
