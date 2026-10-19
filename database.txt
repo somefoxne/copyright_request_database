@@ -7555,3 +7555,4 @@
 ?kasli_(nyanko_daisensou) -> nyanko_daisensou touhou fate_(series) fate/grand_order darkstalkers blue_archive honkai_(series) honkai:_star_rail kemono_friends bocchi_the_rock!
 ?the_king_of_red_lions -> the_legend_of_zelda the_legend_of_zelda:_the_wind_waker the_legend_of_zelda:_ocarina_of_time the_legend_of_zelda:_twilight_princess the_legend_of_zelda:_skyward_sword the_legend_of_zelda:_spirit_tracks the_legend_of_zelda:_the_minish_cap the_legend_of_zelda:_a_link_to_the_past
 ?hiiragi_shinoa -> owari_no_seraph rwby kantai_collection idolmaster kimetsu_no_yaiba sword_art_online one-punch_man dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru_darou_ka yahari_ore_no_seishun_lovecome_wa_machigatteiru. animedia
+?momose_rio -> idolmaster idolmaster_million_live! idolmaster_million_live!_theater_days idolmaster_(classic) idolmaster_cinderella_girls pokemon nijisanji fire_emblem princess_connect! kono_subarashii_sekai_ni_shukufuku_wo!
