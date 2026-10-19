@@ -7984,3 +7984,4 @@
 ?mother_(yoru_mac) -> yoru_mac burger_king kfc original kagurabachi gundam real_life
 ?zani_(downtown_repose)_(wuthering_waves) -> wuthering_waves zenless_zone_zero
 ?akutagawa_jiroh -> tennis_no_ouji-sama pokemon gundam precure street_fighter pokemon_(anime) guilty_gear tales_of_(series) kill_la_kill one-punch_man
+?annie_(shining_nikki) -> nikki_(series) shining_nikki
