@@ -6863,3 +6863,4 @@
 ?glyde_(mega_man) -> mega_man_(series) mega_man_legends_(series) mega_man_(classic) mega_man_x_(series) mega_man_zero_(series) mega_man_zx mega_man_battle_network_(series) mega_man_star_force_(series) mega_man_x4 mega_man_1
 ?servbot_(mega_man) -> mega_man_(series) mega_man_legends_(series) mega_man_(classic) street_fighter darkstalkers capcom marvel_vs._capcom mega_man_x_(series) marvel resident_evil
 ?teisel_bonne_(mega_man) -> mega_man_(series) mega_man_legends_(series) mega_man_legends mega_man_legends_3 mega_man_(classic) mega_man_x_(series) mega_man_zx mega_man_x4 mega_man_legends_2 mega_man_zero_(series)
+?tron_bonne_(mega_man) -> mega_man_(series) mega_man_legends_(series) mega_man_legends mega_man_x_(series) marvel_vs._capcom mega_man_(classic) marvel capcom the_misadventures_of_tron_bonne street_fighter
