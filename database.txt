@@ -6482,3 +6482,4 @@
 ?gekiyaku -> utau vocaloid a.i._voice shiawasemono_(utau) cevio voiceroid synthesizer_v kamitsubaki_studio voicevox ado_(utaite)
 ?macne_nana -> macne_series vocaloid apple_inc. utau voiceroid vsinger_(vocaloid) zola_project original pokemon confiture_pluie_(vocaloid)
 ?namae_shirezu -> utau vocaloid macne_series
+?nyaonix -> indie_virtual_youtuber utau chobits vocaloid sanrio tamagotchi tamagotchi_plus fuwa_fuwa_cinnamoroll doko_demo_issyo little_twin_stars
