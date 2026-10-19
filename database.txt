@@ -6895,3 +6895,4 @@
 ?exosister_karmael -> yu-gi-oh! yu-gi-oh!_master_duel taimanin_(series) taimanin_asagi yu-gi-oh!_rush_duel
 ?exosister_martha -> yu-gi-oh! taimanin_(series) yu-gi-oh!_master_duel yu-gi-oh!_rush_duel genshin_impact honkai_(series) honkai:_star_rail yu-gi-oh!_duel_monsters taimanin_asagi
 ?red_rose_(silver_palace) -> silver_palace
+?regaleira_(racehorse) -> umamusume original real_life
