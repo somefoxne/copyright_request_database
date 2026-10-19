@@ -7574,3 +7574,4 @@
 ?kaminari_qpi -> vspo! vcr_gta madtown_gta busou_kanojo nijisanji street_fighter apex_legends street_fighter_6 holostars comiket_102
 ?kaminari_qpi_(2nd_costume) -> vspo! splatoon_(series) apex_legends
 ?kohibari_kurumi -> tenshi_souzou_re-boot! yuzusoft sanoba_witch comiket_104 comiket_102 cafe_stella_to_shinigami_no_chou amairo_islenauts senren_banka riddle_joker comiket_106
+?dolores_madrigal -> encanto disney mickey_mouse_&_friends the_road_to_el_dorado league_of_legends marvel x-men wizarding_world arcane:_league_of_legends kanojo_okarishimasu
