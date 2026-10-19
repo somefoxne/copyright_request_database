@@ -7212,3 +7212,4 @@
 ?tahira_shizuka -> sensha_isu:_tank_chair
 ?moroboshi_kirari -> idolmaster idolmaster_cinderella_girls idolmaster_cinderella_girls_starlight_stage cinderella_girls_gekijou idolmaster_(classic) star!!_(idolmaster) idolmaster_side-m kantai_collection idolmaster_million_live! idolmaster_shiny_colors
 ?oogami_fuyuko -> wolf-chan_wa_sumashitai
+?gepard_landau -> honkai_(series) honkai:_star_rail genshin_impact mihoyo honkai_impact_3rd fate_(series) arknights zenless_zone_zero fate/stay_night fate/unlimited_blade_works
