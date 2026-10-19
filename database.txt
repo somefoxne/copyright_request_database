@@ -7407,3 +7407,4 @@
 ?tsunomaki_watame_(school_uniform) -> hololive indie_virtual_youtuber 7_days_to_die
 ?forbartz_xylo -> yuushakei_ni_shosu yuusha_no_kuzu fate_(series) fate/grand_order jojo_no_kimyou_na_bouken sousou_no_frieren re:zero_kara_hajimeru_isekai_seikatsu fate/extra fate/extra_ccc steel_ball_run
 ?kivia_patausche -> yuushakei_ni_shosu hololive hololive_english fate_(series) fate/stay_night re:zero_kara_hajimeru_isekai_seikatsu enigmatic_recollection yuusha_no_kuzu
+?leopool_venetim -> yuushakei_ni_shosu yuusha_no_kuzu
