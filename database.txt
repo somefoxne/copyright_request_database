@@ -7360,3 +7360,4 @@
 ?luna_mellow -> muv-luv muv-luv_girls_garden muv-luv_alternative
 ?algerie_(kancolle) -> kantai_collection gundam zeta_gundam
 ?mogador_(kancolle) -> kantai_collection idolmaster azur_lane gakuen_idolmaster alice_gear_aegis highfleet blue_archive hololive hololive_english girls_und_panzer
+?vautour_(kancolle) -> kantai_collection
