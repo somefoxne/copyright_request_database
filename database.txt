@@ -6605,3 +6605,4 @@
 ?sharon_oliva -> iris_mysteria! august_soft
 ?colin_creevey -> wizarding_world harry_potter_(series) harry_potter_and_the_deathly_hallows
 ?rakkun_sutaru -> owozu indie_virtual_youtuber original persona kimetsu_no_yaiba sonic_(series) persona_5 persona_5_the_royal hibana_(vocaloid) emergence_(shindol)
+?alolan_vulpix -> pokemon pokemon_(anime) pokemon_the_series:_sun_&_moon pokemon_sun_and_moon pokemon_journeys original pokemon_(classic_anime) pokemon_the_series:_xy pokemon_the_series:_ruby_and_sapphire pokemon_the_series:_diamond_and_pearl
