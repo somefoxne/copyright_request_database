@@ -7864,3 +7864,4 @@
 ?kina_lillet -> player_(webtoon) original player_(manhwa)
 ?kasugano_sakura -> street_fighter street_fighter_zero_(series) street_fighter_v street_fighter_iv_(series) darkstalkers capcom justice_gakuen street_fighter_iii_(series) the_king_of_fighters final_fight
 ?qin_shi_huang_(shuumatsu_no_valkyrie) -> shuumatsu_no_valkyrie fate_(series) fate/grand_order honkai_(series) honkai:_star_rail zenless_zone_zero love_and_deepspace wang_chuan_feng_hua_lu
+?luna_lovegood -> wizarding_world harry_potter_(series) harry_potter_and_the_deathly_hallows innocent_witches_(fangame) original touhou pokemon idolmaster vocaloid idolmaster_shiny_colors
