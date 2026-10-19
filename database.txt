@@ -6452,3 +6452,4 @@
 ?big_daddy_(zenless_zone_zero) -> zenless_zone_zero original initial_d tiktok
 ?patxi_(fate) -> fate_(series) fate/grand_order pixiv_fate/grand_order_contest_2 learning_with_manga!_fgo original genshin_impact granblue_fantasy utdr_(toby_fox) fate/apocrypha tokyo_afterschool_summoners
 ?clio_aite -> phase_connect vershion indie_virtual_youtuber original warhammer_40k azur_lane umamusume persona persona_5 dc_comics
+?wilhelmina_frost -> phase_connect original vershion indie_virtual_youtuber hololive genshin_impact azur_lane hololive_english soulcalibur brown_dust_(series)
