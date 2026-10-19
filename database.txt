@@ -6333,3 +6333,4 @@
 ?cheval_grand_(casual)_(umamusume) -> umamusume super_gt yokohama_dena_baystars original pokemon kemono_friends real_life lycoris_recoil oshi_no_ko
 ?vivlos_(casual)_(umamusume) -> umamusume super_gt yokohama_dena_baystars original pokemon kemono_friends lycoris_recoil oshi_no_ko umamusumeshi
 ?mihono_bourbon_(casual)_(umamusume) -> umamusume panasonic_corporation original kantai_collection bocchi_the_rock! bemani slam_dunk_(series) umamusume:_beginning_of_a_new_era dance_dance_revolution papico_(ice_cream)
+?silence_suzuka_(casual)_(umamusume) -> umamusume maria-sama_ga_miteru gundam bleach onii-chan_wa_oshimai! super_robot_wars g_gundam comiket_103 all_nippon_airways japan_airlines
