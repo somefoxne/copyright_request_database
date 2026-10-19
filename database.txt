@@ -7939,3 +7939,4 @@
 ?litwick -> pokemon pokemon_black_and_white pokemon_legends:_z-a pokemon_x_and_y pokemon_sword_and_shield vocaloid project_voltage pokemon_sun_and_moon pokemon_heartgold_and_soulsilver pokemon_masters_ex
 ?polteageist -> pokemon pokemon_sword_and_shield pokemon_masters_ex original pokemon_scarlet_and_violet pokemon_sun_and_moon pokemon_(anime) pokemon_black_and_white pokemon_x_and_y pokemon_diamond/pearl/platinum
 ?threads_of_reunion_(infinity_nikki) -> nikki_(series) infinity_nikki shining_nikki original cardcaptor_sakura the_walters
+?jaguar_d._saul -> one_piece one_piece_card_game gundam precure dragon_ball tales_of_(series) code_geass dragon_ball_z inuyasha yes!_precure_5
