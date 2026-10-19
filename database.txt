@@ -7638,3 +7638,4 @@
 ?noshiro_(kancolle) -> kantai_collection line_(naver) kancolle_arcade aoki_hagane_no_arpeggio original warship_girls_r touhou gundam jojo_no_kimyou_na_bouken kimetsu_no_yaiba
 ?benihime_(senran_kagura) -> senran_kagura senran_kagura_shinovi_nexus
 ?inori_(senran_kagura) -> senran_kagura senran_kagura_shinovi_nexus
+?kira_(senran_kagura) -> senran_kagura senran_kagura_shinovi_nexus
