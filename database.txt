@@ -7196,3 +7196,4 @@
 ?mejiro_ardan_(casual)_(umamusume) -> umamusume jojo_no_kimyou_na_bouken azur_lane real_life stardust_crusaders vento_aureo death_note the_elder_scrolls the_elder_scrolls_v:_skyrim full_house
 ?sakura_chiyono_o_(casual)_(umamusume) -> umamusume death_note the_elder_scrolls the_elder_scrolls_v:_skyrim kyoufuu_all_back_(vocaloid) mezamashi_tv
 ?yaeno_muteki_(casual)_(umamusume) -> umamusume
+?yunyun_(konosuba) -> kono_subarashii_sekai_ni_shukufuku_wo! kono_subarashii_sekai_ni_shukufuku_wo!_kono_yokubukai_game_ni_shinpan_o! konosuba!_fantastic_days kono_subarashii_sekai_ni_bakuen_wo! kono_subarashii_sekai_ni_shukufuku_wo!:_kurenai_densetsu pokemon toaru_majutsu_no_index toaru_kagaku_no_railgun phantom_of_the_kill idolmaster
