@@ -7563,3 +7563,4 @@
 ?shutmon -> digimon digimon_universe:_appli_monsters
 ?purrchena_(arknights) -> arknights arknights:_endfield tonari_no_totoro
 ?lori_loud -> the_loud_house the_bloud_house precure jojo_no_kimyou_na_bouken dragon_ball real_life darkstalkers little_witch_academia futari_wa_precure instagram
+?laura_palmer -> twin_peaks splatoon_(series) utdr_(toby_fox) deltarune splatoon_2
