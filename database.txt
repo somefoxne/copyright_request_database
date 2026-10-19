@@ -6971,3 +6971,4 @@
 ?judith_volltone -> atelier_(series) atelier_judie atelier_resleriana atelier_ryza atelier_ryza_1 atelier_totori atelier_sophie nelke_to_densetsu_no_renkinjutsushi_tachi atelier_rorona atelier_escha_&_logy
 ?wonder_woman -> dc_comics wonder_woman_(series) absolute_dc absolute_wonder_woman batman_(series) justice_league superman_(series) marvel absolute_batman the_flash_(series)
 ?altaria -> pokemon pokemon_omega_ruby_and_alpha_sapphire pokemon_scarlet_and_violet vocaloid project_voltage pokemon_ruby/sapphire/emerald pokemon_(anime) touhou pokemon_black_and_white
+?oyama_mihari -> onii-chan_wa_oshimai! fate_(series) fate/kaleid_liner_prisma_illya kantai_collection shukusei!!_loli-kami_requiem blue_archive bocchi_the_rock! sanrio my_melody_(series) original
