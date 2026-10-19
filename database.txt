@@ -7981,3 +7981,4 @@
 ?mysterious_girl_(kirby_and_the_world_beyond) -> kirby_(series) kirby_and_the_world_beyond kirby_and_the_forgotten_land minecraft kirby_64 kirby:_planet_robobot the_truman_show kirby_and_the_rainbow_curse pokemon
 ?taranza -> kirby_(series) kirby:_triple_deluxe kirby_star_allies kirby:_planet_robobot kirby_64 kirby_and_the_forgotten_land kirby:_squeak_squad kirby_air_ride
 ?ro635_(girls'_frontline) -> kamen_rider metal_gear_(series) ultra_series rainbow_six_siege arknights kamen_rider_w va-11_hall-a
+?mother_(yoru_mac) -> yoru_mac burger_king kfc original kagurabachi gundam real_life
