@@ -7352,3 +7352,4 @@
 ?snake_girl_(ibrahem_swaid) -> original
 ?sallie_(kureiji_ollie) -> hololive hololive_indonesia
 ?bikini_girl_(gta_v) -> grand_theft_auto grand_theft_auto_v grand_theft_auto_vi sousou_no_frieren zenless_zone_zero persona marvel k-on! persona_5 x-men
+?lucia_caminos -> grand_theft_auto grand_theft_auto_vi grand_theft_auto_v final_fantasy final_fantasy_vii sousou_no_frieren final_fantasy_vii_remake sonic_(series) instagram smiling_friends
