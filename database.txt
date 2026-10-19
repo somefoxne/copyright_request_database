@@ -7075,3 +7075,4 @@
 ?dorothea_arnault_(timeskip) -> fire_emblem fire_emblem:_three_houses fire_emblem_heroes fire_emblem_warriors:_three_hopes pokemon mario_(series) super_mario_odyssey original final_fantasy persona
 ?iseri_nina -> girls_band_cry bang_dream! girls_band_cry_rpg bocchi_the_rock! real_life bang_dream!_girls_band_party! yoru_no_kurage_wa_oyogenai pokemon gundam
 ?fujikura_uruka -> phase_connect dc_comics hasbro apt._(rose_&_bruno_mars) fate_(series) fate/grand_order indie_virtual_youtuber honkai_(series) honkai:_star_rail chainsaw_man
+?fujikura_uruka_(lust) -> phase_connect
