@@ -6543,3 +6543,4 @@
 ?sakura_chiyono_o_(strength_in_full_bloom)_(umamusume) -> umamusume umamusume:_cinderella_gray real_life nichijou umamusume:_star_blossom touhou pokemon idolmaster vocaloid idolmaster_cinderella_girls
 ?calstone_light_o_(one_true_path)_(umamusume) -> umamusume minecraft original pokemon jujutsu_kaisen ultra_series scryed fire_emblem final_fantasy jojo_no_kimyou_na_bouken
 ?boothill_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail mihoyo genshin_impact fate_(series) fate/stay_night zenless_zone_zero fate/unlimited_blade_works honkai_impact_3rd barbie_(franchise)
+?ichika_maia -> indie_virtual_youtuber nijisanji nijisanji_en original hololive hololive_english sousou_no_frieren vinesauce atelier_live super_bunny_man
