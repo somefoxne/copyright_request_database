@@ -7784,3 +7784,4 @@
 ?arielle_(vtuber) -> indie_virtual_youtuber vshojo vchiban gamer_supps pokemon mario_(series) densetsu.exe coppertone jujutsu_kaisen sanrio
 ?arielle_(vtuber)_(corrupted_2.0) -> indie_virtual_youtuber
 ?satsuki_mari -> heaven_burns_red key_(company) yostar to_heart_(series) angel_beats! comiket_107 persona mario_(series) persona_5 clannad
+?morinaka_kazaki_(gekokujou) -> nijisanji nijisanji_en nijisanji_kr nijisanji_id
