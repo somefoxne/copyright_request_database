@@ -7780,3 +7780,4 @@
 ?noro_(vtuber) -> indie_virtual_youtuber original arknights the_elder_scrolls the_elder_scrolls_iv:_oblivion
 ?mamiya_takuji -> subarashiki_hibi tsui_no_sora tsui_no_sora_(remake) amazon_(company) sayonara_wo_oshiete the_last_supper original project_moon limbus_company gegege_no_kitarou
 ?hikari_(hanakaji) -> original
+?hikari_(new_design)_(hanakaji) -> original
