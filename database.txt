@@ -7654,3 +7654,4 @@
 ?tamatsukuri_misumaru -> touhou unconnected_marketeers touhou_(pc-98) touhou_lostword perfect_cherry_blossom mountain_of_faith wily_beast_and_weakest_creature sunken_fossil_world foul_detective_satori seihou
 ?ilima_(pokemon) -> pokemon pokemon_sun_and_moon pokemon_(anime) pokemon_the_series:_sun_&_moon pokemon_scarlet_and_violet pokemon_sword_and_shield pokemon_black_and_white pokemon_black_2_and_white_2 pokemon_heartgold_and_soulsilver pokemon_omega_ruby_and_alpha_sapphire
 ?miyao_miya -> idolmaster idolmaster_million_live! idolmaster_million_live!_theater_days idolmaster_(classic) idolmaster_cinderella_girls idolmaster_starlit_season idolmaster_poplinks idolmaster_side-m idolmaster_one_for_all puchimasu!
+?konoe_azumi_(tsukimoto_kizuki) -> original
