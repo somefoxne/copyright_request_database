@@ -7663,3 +7663,4 @@
 ?mamahaha -> samurai_spirits the_king_of_fighters kantai_collection granblue_fantasy fatal_fury street_fighter snk garou:_mark_of_the_wolves guilty_gear darkstalkers
 ?murasaki_nakoruru -> samurai_spirits hyouka angel_flavor the_king_of_fighters tsukihime melty_blood the_king_of_fighters_xv princess_crown
 ?nakoruru -> samurai_spirits the_king_of_fighters fatal_fury snk street_fighter ryuuko_no_ken darkstalkers hyouka bakumatsu_rouman garou:_mark_of_the_wolves
+?rimururu -> samurai_spirits the_king_of_fighters snk angel_flavor touhou fatal_fury garou:_mark_of_the_wolves bakumatsu_rouman street_fighter street_fighter_zero_(series)
