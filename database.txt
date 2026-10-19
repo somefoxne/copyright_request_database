@@ -7525,3 +7525,4 @@
 ?tangela -> pokemon pokemon_firered_and_leafgreen pokemon_(anime) pokemon_red/green/blue/yellow pokemon_(classic_anime) pokemon_diamond/pearl/platinum pokemon_heartgold_and_soulsilver pokemon_tcg pokemon_gold/silver/crystal
 ?kamen_rider_kuuga_(dragon_form) -> kamen_rider kamen_rider_kuuga_(series) battle_spirits original touhou fate_(series) fate/grand_order m.u.g.e.n kamen_rider_wizard_(series) kamen_rider_agito_(series)
 ?ingrid_brandl_galatea -> fire_emblem fire_emblem:_three_houses fire_emblem_heroes fire_emblem_warriors:_three_hopes fire_emblem:_thracia_776 fire_emblem:_genealogy_of_the_holy_war fire_emblem_awakening fire_emblem_engage fire_emblem:_mystery_of_the_emblem fire_emblem_cipher
+?leonie_pinelli -> fire_emblem fire_emblem:_three_houses fire_emblem_heroes fire_emblem_warriors:_three_hopes fire_emblem_fates fire_emblem_cipher pokemon fire_emblem_awakening persona fire_emblem:_radiant_dawn
