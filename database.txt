@@ -7124,3 +7124,4 @@
 ?lumi_(wuthering_waves) -> wuthering_waves zenless_zone_zero
 ?nivora_(wuthering_waves) -> wuthering_waves cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 ace_attorney punishing:_gray_raven the_simpsons carnival_phantasm grizzly_ni_osowaretara
 ?nagusa_(swimsuit)_(blue_archive) -> blue_archive pokemon twitter
+?indian_wolf_(kemono_friends) -> kemono_friends kemono_friends_3 kemono_friends_v_project grand_theft_auto scream_(movie) crunchyroll jungle_taitei buddha_(tezuka_osamu)
