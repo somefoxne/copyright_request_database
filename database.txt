@@ -7854,3 +7854,4 @@
 ?dracule_mihawk -> one_piece one_piece_card_game one_piece_(live_action) one_piece_treasure_cruise original pokemon one_piece_straw_hat_space touhou fate_(series)
 ?emporio_ivankov -> one_piece one_piece_card_game one_piece_treasure_cruise touhou gundam marvel hunter_x_hunter mobile_suit_gundam fantastic_four one_piece_film:_red
 ?nagi_(player) -> player_(webtoon) player_(manhwa)
+?agent_(typical_colors_2) -> typical_colors_2 original indie_virtual_youtuber roblox tower_defense_simulator royale_high arsenal_(roblox)
