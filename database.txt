@@ -6896,3 +6896,4 @@
 ?exosister_martha -> yu-gi-oh! taimanin_(series) yu-gi-oh!_master_duel yu-gi-oh!_rush_duel genshin_impact honkai_(series) honkai:_star_rail yu-gi-oh!_duel_monsters taimanin_asagi
 ?red_rose_(silver_palace) -> silver_palace
 ?regaleira_(racehorse) -> umamusume original real_life
+?komi_shouko -> komi-san_wa_komyushou_desu sono_bisque_doll_wa_koi_wo_suru ijiranaide_nagatoro-san uzaki-chan_wa_asobitai! bocchi_the_rock! spy_x_family genshin_impact chainsaw_man pokemon dragon_ball
