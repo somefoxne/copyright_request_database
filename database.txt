@@ -6632,3 +6632,4 @@
 ?kukuri_(mawaru) -> original pokemon twitter tokoyo_no_tou dragon_quest vocaloid azur_lane final_fantasy gundam final_fantasy_vii
 ?mismagius -> pokemon vocaloid project_voltage pokemon_scarlet_and_violet pokemon_diamond/pearl/platinum pokemon_sun_and_moon pokemon_heartgold_and_soulsilver pokemon_(anime) pokemon_x_and_y original
 ?sigrid_de_l'azur -> zenless_zone_zero umamusume honkai_(series) honkai:_star_rail blue_archive grand_theft_auto grand_theft_auto_vi touhou honkai_impact_3rd mihoyo
+?igglybuff -> pokemon vocaloid pokemon_heartgold_and_soulsilver project_voltage pokemon_gold/silver/crystal pokemon_mystery_dungeon pokemon_(anime) pokemon_mystery_dungeon:_explorers_of_time/darkness/sky pokemon_scarlet_and_violet pokemon_sun_and_moon
