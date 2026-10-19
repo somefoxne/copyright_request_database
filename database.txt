@@ -7656,3 +7656,4 @@
 ?miyao_miya -> idolmaster idolmaster_million_live! idolmaster_million_live!_theater_days idolmaster_(classic) idolmaster_cinderella_girls idolmaster_starlit_season idolmaster_poplinks idolmaster_side-m idolmaster_one_for_all puchimasu!
 ?konoe_azumi_(tsukimoto_kizuki) -> original
 ?mitsugashira_enoko -> touhou unfinished_dream_of_all_living_ghost touhou_(pc-98) touhou_lostword saw_(movie) reitaisai foul_detective_satori arknights mother_(series) super_sentai
+?toto-sama_(fate) -> fate_(series) fate/grand_order kanagawa_oki_nami_ura gaifu_kaisei pixiv_fate/grand_order_contest_2 hololive hololive_english fate/extra comiket_95 fate/requiem
