@@ -6950,3 +6950,4 @@
 ?shine_(shy) -> shy_(series)
 ?natsuiro_matsuri_(vivid_cheer_spirit) -> hololive hololive_dreams hololive_english hololive_indonesia
 ?martyr_(the_citadel) -> the_citadel beyond_citadel original doom_(series) fate_(series) fate/stay_night dc_comics batman_(series) warhammer_40k cave_story
+?full_armor_ground_type_zeta_gundam -> gundam zeta_gundam gundam_battle_operation_2 zeta_gundam_define sunrise_(company) gundam_msv
