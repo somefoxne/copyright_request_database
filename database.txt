@@ -7113,3 +7113,4 @@
 ?iansan_(genshin_impact) -> genshin_impact blue_archive original goddess_of_victory:_nikke zenless_zone_zero mihoyo pokemon fate_(series) honkai_(series) honkai:_star_rail
 ?minamoto_no_raikou_(second_ascension)_(fate) -> fate_(series) fate/grand_order kantai_collection fate/extra alien_(series) alien_(1979) original genshin_impact fate/extra_ccc hololive
 ?kasuga_mirai -> idolmaster idolmaster_million_live! idolmaster_million_live!_theater_days idolmaster_(classic) idolmaster_cinderella_girls idolmaster_side-m idolmaster_shiny_colors idolmaster_dearly_stars gakuen_idolmaster idolmaster_starlit_season
+?ultraman_xenon -> ultra_series ultraman_max_(series) ultraman_mebius_(series) ultraman_taiga_(series) ultraman_80_(series) ultraman_(1st_series) ultra_galaxy_(series) ultraseven_(series) ultraman_nexus_(series) ultraman_z_(series)
