@@ -7621,3 +7621,4 @@
 ?capybara_(kemono_friends) -> kemono_friends kemono_friends_3 street_fighter keroro_gunsou ghost_in_the_shell street_fighter_ii_(series) kemono_friends_3:_planet_tours love_live! love_live!_school_idol_project real_life
 ?azuchimomoyama_kurumi -> seizei_ganbare!_mahou_shoujo_kurumi pokemon indie_virtual_youtuber jojo_no_kimyou_na_bouken diamond_wa_kudakenai pokemon_adventures south_park black_jack_(series) gregory_horror_show popee_the_performer
 ?prima_orange -> seizei_ganbare!_mahou_shoujo_kurumi
+?prima_pink -> seizei_ganbare!_mahou_shoujo_kurumi pokemon indie_virtual_youtuber jojo_no_kimyou_na_bouken diamond_wa_kudakenai pokemon_adventures south_park black_jack_(series) gregory_horror_show popee_the_performer
