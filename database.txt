@@ -6641,3 +6641,4 @@
 ?ushio_(kancolle) -> kantai_collection original lawson aoki_hagane_no_arpeggio pokemon ushio_to_tora choo_choo_train idolmaster idolmaster_cinderella_girls girls_und_panzer
 ?haurchefant_greystone -> final_fantasy final_fantasy_xiv pokemon original fire_emblem star_ocean star_ocean:_the_second_story valkyrie_profile_(series) umamusume arknights
 ?kisaki_(kindergarten_swimsuit)_(blue_archive) -> blue_archive
+?alolan_rattata -> pokemon pokemon_sun_and_moon pokemon_(anime) pokemon_ultra_sun_and_ultra_moon pokemon_(classic_anime) pokemon_the_series:_sun_&_moon pokemon_red/green/blue/yellow pokemon_the_series:_xy pokemon_the_series:_diamond_and_pearl pokemon_tcg
