@@ -7891,3 +7891,4 @@
 ?aurora_(fate) -> fate_(series) fate/grand_order pokemon fate/stay_night pokemon_legends:_z-a minecraft fate/strange_fake makaimura the_game_of_life_(board_game) carried_away
 ?mantis_(marvel) -> marvel guardians_of_the_galaxy marvel_rivals thor_(marvel)_(series) spider-man_(series) x-men avengers_(series) fantastic_four the_incredible_hulk_(series) captain_america_(series)
 ?cherche_(ninja)_(fire_emblem) -> fire_emblem fire_emblem_heroes fire_emblem_awakening fire_emblem_fates fire_emblem:_radiant_dawn
+?haar_(ninja)_(fire_emblem) -> fire_emblem fire_emblem_heroes fire_emblem:_radiant_dawn fire_emblem_awakening fire_emblem:_path_of_radiance
