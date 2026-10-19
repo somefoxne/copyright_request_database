@@ -7292,3 +7292,4 @@
 ?monako_(mahoiku) -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_f2p mahou_shoujo_ikusei_keikaku_jokers mahou_shoujo_ikusei_keikaku_limited mahou_shoujo_ikusei_keikaku_restart mahou_shoujo_ikusei_keikaku_unmarked mahou_shoujo_ikusei_keikaku_black
 ?lois_griffin -> family_guy american_dad! original chainsaw_man real_life spongebob_squarepants_(series) the_simpsons hololive jojo_no_kimyou_na_bouken dragon_ball
 ?ryou_takanashi -> sensha_isu:_tank_chair
+?francine_smith -> american_dad! original family_guy pokemon vocaloid pokemon_diamond/pearl/platinum spongebob_squarepants_(series) zootopia scooby-doo_(series) the_loud_house
