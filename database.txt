@@ -7224,3 +7224,4 @@
 ?kresnik_(housamo) -> tokyo_afterschool_summoners live_a_hero boku_no_hero_academia gyee vampire_(vocaloid) fall_guys shoukan_yuusha_to_f-kei_kareshi autumn_yarofes:2023
 ?sterio_(live_a_hero) -> live_a_hero
 ?koshchei_(housamo) -> tokyo_afterschool_summoners live_a_hero
+?joezen_(live_a_hero) -> live_a_hero pokemon tokyo_afterschool_summoners twisted_wonderland xxl_woofia knights_college makemon!
