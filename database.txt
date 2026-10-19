@@ -7955,3 +7955,4 @@
 ?jasdero -> d.gray-man
 ?stylist_(nikki) -> nikki_(series) infinity_nikki shining_nikki miracle_nikki original nikki_up2u2:_world_traveller nikki_up2u kfc fate_(series) idolmaster
 ?kalim_al-asim -> twisted_wonderland disney aladdin_(movie) the_nightmare_before_christmas the_little_mermaid_(disney) snow_white_and_the_seven_dwarfs_(disney) sleeping_beauty_(disney) jujutsu_kaisen hercules_(1997_movie) the_lion_king
+?eiden_(nu_carnival) -> nu_carnival dramatical_murder twitter hikaru_ga_shinda_natsu spongebob_squarepants_(series) disneyland ganbare!_nakamura-kun!! one-room_ta suits
