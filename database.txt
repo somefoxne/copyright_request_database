@@ -6705,3 +6705,4 @@
 ?amanai_riko -> jujutsu_kaisen free! touhou blue_archive medaka_box studio_mappa koukou_tekken-den_tough
 ?dooby -> indie_virtual_youtuber hololive hololive_english densetsu.exe original counter-strike_(series) peak_(game) vspo! vspo!_en counter-strike_2
 ?dooby_(summer) -> indie_virtual_youtuber densetsu.exe
+?nimi_nightmare_(1st_costume) -> indie_virtual_youtuber hololive hololive_english original densetsu.exe vinesauce pokemon umamusume real_life 3am
