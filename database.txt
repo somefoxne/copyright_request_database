@@ -7728,3 +7728,4 @@
 ?fragrans_(nocturnal_singer)_(strinova) -> strinova
 ?fragrans_(strinova) -> strinova
 ?adachi_sakura -> adachi_to_shimamura shuuniichido_classmate_wo_kau_hanashi bang_dream! reverse:1999 mahou_shoujo_no_majo_saiban cho_kaguya-hime! yagate_kimi_ni_naru seiyuu_radio_no_uraomote pokemon
+?shimamura_hougetsu -> adachi_to_shimamura shuuniichido_classmate_wo_kau_hanashi bang_dream! reverse:1999 mahou_shoujo_no_majo_saiban cho_kaguya-hime! yagate_kimi_ni_naru seiyuu_radio_no_uraomote bocchi_the_rock!
