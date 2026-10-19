@@ -7924,3 +7924,4 @@
 ?lace_(hollow_knight) -> hollow_knight hollow_knight:_silksong marvel twitter spider-man_(series) pokemon neon_genesis_evangelion mega_man_(series) mega_man_zero_(series) mega_man_zx
 ?anna_m._battenberg -> astrae_oratio
 ?fujiwara_riria -> astrae_oratio
+?tanaka_erin -> astrae_oratio
