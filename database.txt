@@ -6446,3 +6446,4 @@
 ?shu_chi_(nekojishi) -> nekojishi original tokyo_afterschool_summoners little_red_riding_hood_(fairy_tale)
 ?grimm_(hollow_knight) -> hollow_knight hollow_knight:_silksong up_(disney) original code_geass monster_hunter_(series) apex_legends among_us yotsubato! monster_hunter_rise
 ?grimmchild -> hollow_knight hollow_knight:_silksong up_(disney)
+?nightmare_king_grimm_(hollow_knight) -> hollow_knight code_geass
