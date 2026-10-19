@@ -7046,3 +7046,4 @@
 ?lakiston -> cevio synthesizer_v voiceroid vocaloid kamitsubaki_studio gynoid_talk coefont jojo_no_kimyou_na_bouken utau a.i._voice
 ?commando_(the_citadel) -> the_citadel beyond_citadel sodom_(band) the_final_sign_of_evil_(sodom)
 ?cultist_(the_citadel) -> the_citadel doom_(series) doom_i
+?grunt_(the_citadel) -> the_citadel beyond_citadel
