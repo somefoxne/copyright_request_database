@@ -6429,3 +6429,4 @@
 ?berkut_(fire_emblem) -> fire_emblem fire_emblem_echoes:_shadows_of_valentia fire_emblem_heroes fire_emblem_fates fire_emblem_awakening fire_emblem:_path_of_radiance fire_emblem:_genealogy_of_the_holy_war fire_emblem:_three_houses fire_emblem:_mystery_of_the_emblem fire_emblem:_the_sacred_stones
 ?zhurong_(housamo) -> tokyo_afterschool_summoners live_a_hero yotsubato! shoukan_yuusha_to_f-kei_kareshi
 ?asahina_aoi -> danganronpa_(series) danganronpa:_trigger_happy_havoc danganronpa_2:_goodbye_despair danganronpa_another_episode:_ultra_despair_girls danganronpa_v3:_killing_harmony danganronpa/zero danganronpa_kirigiri
+?mokdai_(live_a_hero) -> live_a_hero tokyo_afterschool_summoners granblue_fantasy goodbye_sengen_(vocaloid) shoukan_yuusha_to_f-kei_kareshi
