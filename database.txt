@@ -7332,3 +7332,4 @@
 ?sadayoshi_(live_a_hero) -> live_a_hero tokyo_afterschool_summoners original arknights utau sankyuu_pitch juuni_senshi_bakuretsu_eto_ranger toumei_otoko_to_ningen_onna:_sonouchi_fuufu_ni_naru_futari
 ?classic_amy -> sonic_(series) sonic_the_hedgehog_(classic) sonic_cd sonic_superstars sonic_the_fighters sonic_frontiers sonic_the_comic sonic_triple_trouble sonic_adventure sonic_the_hedgehog_(2006)
 ?classic_knuckles -> sonic_(series) sonic_the_hedgehog_(classic) sonic_mania sonic_superstars sonic_the_fighters sonic_the_hedgehog_(ova) sonic_triple_trouble sonic_the_hedgehog_3 sonic_cd
+?classic_tails -> sonic_(series) sonic_the_hedgehog_(classic) sonic_mania sonic_the_hedgehog_2 sonic_the_fighters sonic_the_hedgehog_(ova) sonic_superstars sonic_triple_trouble sega sonic_cd
