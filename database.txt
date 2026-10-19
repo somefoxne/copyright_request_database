@@ -7787,3 +7787,4 @@
 ?morinaka_kazaki_(gekokujou) -> nijisanji nijisanji_en nijisanji_kr nijisanji_id
 ?emma_august_(1st_costume) -> nijisanji original indie_virtual_youtuber wixoss nijisanji_kr hinata_channel bans love_is_blind_(quzilax) kantai_collection pokemon
 ?morinaka_kazaki_(2nd_costume) -> nijisanji minecraft ring_fit_adventure magnet_(vocaloid) youtube gag_manga_biyori
+?morinaka_kazaki_(teenage) -> nijisanji minecraft ring_fit_adventure animal_crossing sana_channel magnet_(vocaloid) shoujo_rei_(vocaloid) youtube gag_manga_biyori
