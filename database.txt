@@ -7968,3 +7968,4 @@
 ?misty_blue_veil_(shining_nikki) -> nikki_(series) shining_nikki infinity_nikki
 ?shadowplay_night_(infinity_nikki) -> nikki_(series) infinity_nikki
 ?sillydillo -> kirby_(series) kirby_and_the_forgotten_land kirby_star_allies kirby:_right_back_at_ya! kirby_&_the_amazing_mirror kirby_and_the_rainbow_curse kirby_64 kirby:_planet_robobot
+?yuviemi -> indie_virtual_youtuber original socks_agency
