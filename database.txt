@@ -6857,3 +6857,4 @@
 ?mei_mei_(jujutsu_kaisen) -> jujutsu_kaisen chainsaw_man one-punch_man comiket_106 bleach umamusume one_piece mario_(series) kimetsu_no_yaiba girls_und_panzer
 ?lucky_lilac_(casual)_(umamusume) -> umamusume
 ?ratna_petit_(5th_costume) -> nijisanji vspo!
+?igarashi_rika_(1st_costume) -> nijisanji nijisanji_en nijisanji_koshien hololive nijisanji_kr nijisanji_id pokemon idolmaster hololive_english
