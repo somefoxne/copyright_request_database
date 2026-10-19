@@ -7806,3 +7806,4 @@
 ?alula_(oneshot) -> oneshot_(game) tsukihime pokemon vocaloid bocchi_the_rock! omori utdr_(toby_fox) kirby_(series) deltarune one-punch_man
 ?calamus_(oneshot) -> oneshot_(game) microsoft_windows windows_classic the_last_supper
 ?suko_(vtuber) -> indie_virtual_youtuber original umamusume
+?tifa_lockhart_(majestic_glamour) -> final_fantasy final_fantasy_vii final_fantasy_vii_remake final_fantasy_vii_rebirth final_fantasy_vii:_ever_crisis sousou_no_frieren real_life final_fantasy_vii:_advent_children crisis_core:_final_fantasy_vii
