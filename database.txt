@@ -7054,3 +7054,4 @@
 ?tom_felton -> wizarding_world harry_potter_(series) harry_potter_and_the_prisoner_of_azkaban harry_potter_and_the_chamber_of_secrets harry_potter_and_the_half-blood_prince real_life
 ?nashinoki_remi -> shine_post
 ?incinerator_(the_citadel) -> the_citadel dc_comics batman_(series) wolfenstein_(series) wolfenstein_3d
+?gonzalez_(machita_chima) -> nijisanji hololive nijisanji_en nijisanji_kr nijisanji_id indie_virtual_youtuber pokemon gundam gundam_tekketsu_no_orphans livly_island
