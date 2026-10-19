@@ -6355,3 +6355,4 @@
 ?haruka_(dress)_(blue_archive) -> blue_archive akage_(vocaloid) fate_(series) fate/grand_order idolmaster zenless_zone_zero gakuen_idolmaster jujutsu_kaisen kill_la_kill no_game_no_life
 ?nishimiya_yuzuru -> koe_no_katachi original megami_magazine k-on! newtype tamako_market kimi_no_na_wa. kyoto_animation comiket_93 megami_magazine_deluxe
 ?ren_kohaku_(vtuber) -> indie_virtual_youtuber
+?rizu-kyun -> sono_bisque_doll_wa_koi_wo_suru idolmaster gakuen_idolmaster cuddly_octopus hololive kusuriya_no_hitorigoto blue_archive hololive_english idolmaster_shiny_colors komi-san_wa_komyushou_desu
