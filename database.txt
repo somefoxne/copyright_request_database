@@ -7861,3 +7861,4 @@
 ?bibian_(player) -> player_(manhwa)
 ?dewy_lotus_(shining_nikki) -> nikki_(series) shining_nikki
 ?yan_shanxing_(shining_nikki) -> nikki_(series) shining_nikki
+?kina_lillet -> player_(webtoon) original player_(manhwa)
