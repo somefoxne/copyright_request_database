@@ -6331,3 +6331,4 @@
 ?smart_falcon_(casual)_(umamusume) -> umamusume gundam real_life super_robot_wars slam_dunk_(series) g_gundam instagram sony
 ?neo_universe_(universe-naut)_(umamusume) -> umamusume pokemon indie_virtual_youtuber gundam real_life turn_a_gundam super_robot_wars bloodborne comiket_102 umamusume:_road_to_the_top
 ?cheval_grand_(casual)_(umamusume) -> umamusume super_gt yokohama_dena_baystars original pokemon kemono_friends real_life lycoris_recoil oshi_no_ko
+?vivlos_(casual)_(umamusume) -> umamusume super_gt yokohama_dena_baystars original pokemon kemono_friends lycoris_recoil oshi_no_ko umamusumeshi
