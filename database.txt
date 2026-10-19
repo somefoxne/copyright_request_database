@@ -6710,3 +6710,4 @@
 ?shirona_shizuku -> neo-porte nijisanji hololive holostars vspo! crazy_raccoon
 ?hasumi_leia -> mahou_shoujo_no_majo_saiban karaoke_manekineko treasure_cafe comiket_108 bang_dream! girls_band_cry watashi_ga_koibito_ni_nareru_wake_naijan_murimuri! mahou_shoujo_no_inshuu_mura puyopuyo
 ?naka_(christmas)_(kancolle) -> kantai_collection aoki_hagane_no_arpeggio
+?tsukishiro_yuki -> mahou_shoujo_no_majo_saiban project_moon library_of_ruina karaoke_manekineko puyopuyo majo_no_tabitabi the_exit_8 toaru_ikka_no_tea_party_(vocaloid) love_live! zenless_zone_zero
