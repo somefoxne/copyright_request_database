@@ -7457,3 +7457,4 @@
 ?swampert -> pokemon pokemon_ruby/sapphire/emerald pokemon_omega_ruby_and_alpha_sapphire pokemon_emerald pokemon_adventures pokemon_diamond/pearl/platinum pokemon_(anime) pokemon_black_and_white pokemon_red/green/blue/yellow pokemon_sun_and_moon
 ?mega_chesnaught -> pokemon pokemon_legends:_z-a original pokemon_x_and_y pokemon_(anime) pokemon_the_series:_xy project_life_(nyantcha) vocaloid fire_emblem fire_emblem:_three_houses
 ?mudsdale -> pokemon pokemon_sun_and_moon pokemon_(anime) pokemon_the_series:_sun_&_moon pokemon_sword_and_shield pokemon_scarlet_and_violet pokemon_champions pokemon_horizons pokemon_diamond/pearl/platinum original
+?solgaleo -> pokemon pokemon_sun_and_moon pokemon_(anime) pokemon_the_series:_sun_&_moon pokemon_masters_ex pokemon_ultra_sun_and_ultra_moon pokemon_tcg pokemon_journeys pokemon_(classic_anime) pokemon_black_and_white
