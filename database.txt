@@ -6537,3 +6537,4 @@
 ?add_(elsword) -> elsword pokemon nisekoi moonlight_sonata_(beethoven) fate_(series) fate/grand_order mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) mega_man_(series) bishoujo_senshi_sailor_moon
 ?code:_nemesis_(elsword) -> elsword vocaloid naruto_(series) dc_comics code_geass naruto_(classic) batman_(series) chuunibyou_demo_koi_ga_shitai! closers aladdin_(movie)
 ?lunatic_psyker_(elsword) -> elsword pokemon houseki_no_kuni nisekoi
+?vesper_(zenless_zone_zero) -> zenless_zone_zero never_gonna_give_you_up 2001_a_space_odyssey the_god_of_high_school
