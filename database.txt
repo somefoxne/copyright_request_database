@@ -7712,3 +7712,4 @@
 ?k/da_akali -> league_of_legends hololive hololive_english splatoon_(series) genshin_impact overwatch original fire_emblem splatoon_2 nijisanji
 ?kanami_(rally_queen)_(strinova) -> strinova
 ?mamiya_(arisugawa) -> sekai_metsubou_kyouyuu_gensou_mamiya
+?anna_(troppart) -> original
