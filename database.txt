@@ -7533,3 +7533,4 @@
 ?kamen_rider_kuuga_(mighty_form) -> kamen_rider kamen_rider_kuuga_(series) kamen_rider_dcd kamen_rider_555 kamen_rider_agito_(series) kamen_rider_blade_(series) kamen_rider_ryuki_(series) kamen_rider_den-o_(series) kamen_rider_kiva_(series) kamen_rider_hibiki_(series)
 ?milky_(jewelpet) -> jewelpet_(series) jewelpet_twinkle
 ?t.m._opera_o_(crow)_(umamusume) -> umamusume pokemon umamusume:_road_to_the_top mario_(series) the_witcher_(series)
+?fukami_(funamusea) -> funamusea oounabara_to_wadanohara utau pan_kogekoge_ni_nacchatta_(utau)
