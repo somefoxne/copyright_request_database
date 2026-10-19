@@ -6990,3 +6990,4 @@
 ?machi_(machi0910)_(person) -> original real_life comiket_108 star_lusts fancy_frontier_47 discord
 ?shu_(bingwenyuyou)_(arknights) -> arknights ambience_synesthesia
 ?celeste_(the_citadel) -> the_citadel beyond_citadel
+?iota_(kagejitsu) -> kage_no_jitsuryokusha_ni_naritakute! kage_no_jitsuryokusha_ni_naritakute!_master_of_garden
