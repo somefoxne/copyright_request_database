@@ -7723,3 +7723,4 @@
 ?leafyishere -> real_life
 ?edmond_dantes_(fate) -> fate_(series) fate/grand_order fate/extra fate/apocrypha fate/stay_night tsukihime tsukihime_(remake) melty_blood melty_blood:_type_lumina danganronpa_(series)
 ?buffpup_(vtuber) -> vchiban indie_virtual_youtuber gamer_supps vshojo dungeons_&_dragons marvel spider-man_(series) phase_connect socks_agency bad_dragon
+?zentreya_(werewolf) -> vshojo socks_agency indie_virtual_youtuber pokemon genshin_impact vchiban
