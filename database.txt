@@ -7796,3 +7796,4 @@
 ?akatsuki_kai_ni_(kancolle) -> kantai_collection escape_from_tarkov ready_or_not gundam kamen_rider pokemon azur_lane real_life lupin_iii gundam_08th_ms_team
 ?gloire_(kancolle) -> kantai_collection chargeman_ken! c2_kikan touhou blue_archive idolmaster gundam gakuen_idolmaster gochuumon_wa_usagi_desu_ka? shingeki_no_kyojin
 ?takashima_zakuro -> subarashiki_hibi tsui_no_sora tsui_no_sora_(remake) the_last_supper touhou kantai_collection pokemon fate_(series) idolmaster
+?namiji_freesia -> production_kawaii indie_virtual_youtuber death_note teletubbies
