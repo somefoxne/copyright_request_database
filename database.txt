@@ -7434,3 +7434,4 @@
 ?obstagoon -> pokemon pokemon_sword_and_shield vocaloid project_voltage pokemon_masters_ex original pokemon_black_2_and_white_2 pokemon_tcg pokemon_(anime) pokemon_sun_and_moon
 ?freeform_miku -> vocaloid sonic_(series) project_diva_(series) project_diva_extend league_of_legends utau bishoujo_senshi_sailor_moon synthesizer_v fairy_tail avatar_legends
 ?prinny -> disgaea makai_senki_disgaea makai_senki_disgaea_2 makai_senki_disgaea_4 nippon_ichi makai_senki_disgaea_5 disgaea_d2 makai_senki_disgaea_3 disgaea_rpg original
+?lila_rossi -> miraculous_ladybug bemani dance_dance_revolution copycat_(vocaloid)
