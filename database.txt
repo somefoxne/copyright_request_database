@@ -7357,3 +7357,4 @@
 ?steve_rogers -> marvel avengers_(series) captain_america_(series) the_incredible_hulk_(series) captain_america:_the_winter_soldier x-men spider-man_(series) captain_america:_the_first_avenger avengers:_endgame marvel_vs._capcom
 ?white_tiger_(marvel) -> marvel spider-man_(series) ultimate_spider-man_(2012_animated_series) captain_america_(series) black_panther_(series) x-men avengers_(series) deadpool_(series) fantastic_four guardians_of_the_galaxy
 ?ultros -> final_fantasy final_fantasy_vi final_fantasy_xiv final_fantasy_iv final_fantasy_v touhou final_fantasy_vii final_fantasy_fables the_legend_of_zelda mario_(series)
+?luna_mellow -> muv-luv muv-luv_girls_garden muv-luv_alternative
