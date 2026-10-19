@@ -6614,3 +6614,4 @@
 ?hassel_(pokemon) -> pokemon pokemon_scarlet_and_violet pokemon_sword_and_shield pokemon_heartgold_and_soulsilver pokemon_black_and_white pokemon_masters_ex pokemon_sun_and_moon pokemon_(anime) pokemon_black_2_and_white_2 pokemon_x_and_y
 ?halsin -> dungeons_&_dragons original dungeon_meshi the_legend_of_zelda marvel sousou_no_frieren tales_of_(series) the_legend_of_zelda:_breath_of_the_wild
 ?lady_by_the_lake -> reverse:1999
+?happiny -> pokemon pokemon_(anime) pokemon_diamond/pearl/platinum pokemon_the_series:_diamond_and_pearl pokemon_firered_and_leafgreen pokemon_black_and_white pokemon_heartgold_and_soulsilver pokemon_ruby/sapphire/emerald pokemon_(classic_anime) pokemon_tcg
