@@ -6972,3 +6972,4 @@
 ?wonder_woman -> dc_comics wonder_woman_(series) absolute_dc absolute_wonder_woman batman_(series) justice_league superman_(series) marvel absolute_batman the_flash_(series)
 ?altaria -> pokemon pokemon_omega_ruby_and_alpha_sapphire pokemon_scarlet_and_violet vocaloid project_voltage pokemon_ruby/sapphire/emerald pokemon_(anime) touhou pokemon_black_and_white
 ?oyama_mihari -> onii-chan_wa_oshimai! fate_(series) fate/kaleid_liner_prisma_illya kantai_collection shukusei!!_loli-kami_requiem blue_archive bocchi_the_rock! sanrio my_melody_(series) original
+?captain_(kemono_friends) -> kemono_friends kemono_friends_3 original kemono_friends_v_project hi_no_tori kemono_friends_2 keroro_gunsou pokemon vocaloid dragon_ball
