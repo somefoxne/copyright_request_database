@@ -7648,3 +7648,4 @@
 ?archer_(pokemon) -> pokemon pokemon_heartgold_and_soulsilver original pokemon_black_and_white pokemon_masters_ex pokemon_firered_and_leafgreen pokemon_red/green/blue/yellow pokemon_gold/silver/crystal pokemon_sun_and_moon
 ?petrel_(pokemon) -> pokemon pokemon_heartgold_and_soulsilver pokemon_red/green/blue/yellow pokemon_firered_and_leafgreen pokemon_diamond/pearl/platinum pokemon_masters_ex pokemon_gold/silver/crystal pokemon_black_and_white pokemon_ruby/sapphire/emerald pokemon_(anime)
 ?proton_(pokemon) -> pokemon pokemon_heartgold_and_soulsilver pokemon_firered_and_leafgreen pokemon_red/green/blue/yellow pokemon_masters_ex pokemon_black_and_white pokemon_diamond/pearl/platinum pokemon_gold/silver/crystal pokemon_(anime) pokemon_tcg
+?aki-chan_(dismaiden) -> original pokemon chainsaw_man boku_no_hero_academia sono_bisque_doll_wa_koi_wo_suru vocaloid gundam mario_(series) pokemon_(anime) kono_subarashii_sekai_ni_shukufuku_wo!
