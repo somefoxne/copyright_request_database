@@ -7626,3 +7626,4 @@
 ?sankenshoku_mizuki -> seizei_ganbare!_mahou_shoujo_kurumi
 ?unshiuehime_mikan -> seizei_ganbare!_mahou_shoujo_kurumi
 ?peto_(hanako_nana) -> stellive the_wizard_of_oz
+?motoori_kosuzu -> touhou forbidden_scrollery touhou_(pc-98) touhou_lostword yotsubato! perfect_cherry_blossom embodiment_of_scarlet_devil japanese_urban_legends imperishable_night undefined_fantastic_object
