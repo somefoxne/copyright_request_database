@@ -7521,3 +7521,4 @@
 ?kamen_rider_kuuga -> kamen_rider kamen_rider_kuuga_(series) kamen_rider_dcd kamen_rider_blade_(series) kamen_rider_555 kamen_rider_ryuki_(series) kamen_rider_agito_(series) kamen_rider_den-o_(series) kamen_rider_kabuto_(series) kamen_rider_kiva_(series)
 ?kamen_rider_kuuga_(amazing_mighty_form) -> kamen_rider kamen_rider_kuuga_(series) fate_(series) fate/stay_night battle_spirits kamen_rider_battle kamen_rider_battle:_ganba_legends
 ?kamen_rider_agito -> kamen_rider kamen_rider_agito_(series) kamen_rider_dcd kamen_rider_ryuki_(series) kamen_rider_555 kamen_rider_kuuga_(series) kamen_rider_blade_(series) kamen_rider_den-o_(series) kamen_rider_kabuto_(series) kamen_rider_hibiki_(series)
+?kamen_rider_agito_(shining_form) -> kamen_rider kamen_rider_agito_(series) kamen_rider_dcd kamen_rider_ryuki_(series) kamen_rider_555 kamen_rider_blade_(series) kamen_rider_hibiki_(series) kamen_rider_kuuga_(series) kamen_rider_den-o_(series) kamen_rider_kabuto_(series)
