@@ -7410,3 +7410,4 @@
 ?leopool_venetim -> yuushakei_ni_shosu yuusha_no_kuzu
 ?luzulas_dotta -> yuushakei_ni_shosu yuusha_no_kuzu
 ?senridge_norgalle -> yuushakei_ni_shosu
+?tatsuya_(yuushakei) -> yuushakei_ni_shosu
