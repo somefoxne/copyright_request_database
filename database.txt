@@ -6968,3 +6968,4 @@
 ?hanabusa_lisa -> vspo! nijisanji vcr_gta indie_virtual_youtuber xross_stars neo-porte apt._(rose_&_bruno_mars) valorant comiket_102 nijisanji_kr
 ?amitaliri -> shining_(series) shining_force_exa
 ?faulklin -> shining_(series) shining_force_exa
+?judith_volltone -> atelier_(series) atelier_judie atelier_resleriana atelier_ryza atelier_ryza_1 atelier_totori atelier_sophie nelke_to_densetsu_no_renkinjutsushi_tachi atelier_rorona atelier_escha_&_logy
