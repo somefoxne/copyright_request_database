@@ -7039,3 +7039,4 @@
 ?shess_tierney -> phantasy_star phantasy_star_iv
 ?shiam_shizubram -> phantasy_star phantasy_star_iv
 ?thray_walsh -> phantasy_star phantasy_star_iv
+?zio_(phantasy_star) -> phantasy_star phantasy_star_iv
