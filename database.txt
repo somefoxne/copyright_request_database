@@ -6717,3 +6717,4 @@
 ?feixiao_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail mihoyo genshin_impact zenless_zone_zero fate_(series) honkai_impact_3rd kfc fate/grand_order fate/stay_night
 ?usa_mimi -> kodomo_no_jikan megami_magazine clannad lucky_star shakugan_no_shana mitsudomoe_(manga) prism_ark lyrical_nanoha mahou_shoujo_lyrical_nanoha_strikers
 ?oma_kokichi -> danganronpa_(series) danganronpa_v3:_killing_harmony danganronpa_2:_goodbye_despair danganronpa:_trigger_happy_havoc sanrio my_melody_(series) pokemon danganronpa_another_episode:_ultra_despair_girls danganronpa_s:_ultimate_summer_camp
+?li-fen -> street_fighter street_fighter_6 street_fighter_v fatal_fury spy_x_family mega_man_(series) street_fighter_zero_(series) capcom neco_drop resident_evil
