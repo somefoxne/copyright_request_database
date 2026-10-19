@@ -6318,3 +6318,4 @@
 ?kujikawa_rise -> persona persona_4 persona_3 persona_5 persona_dancing persona_4:_dancing_all_night persona_4_the_golden persona_4_revival persona_4:_the_ultimate_in_mayonaka_arena persona_3_portable
 ?harper_(degrees_of_lewdity) -> degrees_of_lewdity grizzly_ni_osowaretara marshall_maximizer_(cevio) kanpai_funk
 ?harper_(male)_(degrees_of_lewdity) -> degrees_of_lewdity grizzly_ni_osowaretara kanpai_funk
+?mejiro_mcqueen_(casual)_(umamusume) -> umamusume hanshin_tigers chainsaw_man real_life pikmin_(series) kfc yani_neko pikmin_bloom original
