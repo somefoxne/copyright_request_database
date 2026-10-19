@@ -7200,3 +7200,4 @@
 ?alphecca_(live_a_hero) -> live_a_hero tokyo_afterschool_summoners
 ?rutilix_(live_a_hero) -> live_a_hero boku_no_hero_academia tokyo_afterschool_summoners
 ?lilithmon -> digimon digimon_story:_time_stranger digimon_xros_wars digimon_card_game darkstalkers digimon_adventure digimon_adventure_02 digimon_tamers digimon_story:_cyber_sleuth digimon_liberator
+?lyney_(genshin_impact) -> genshin_impact kfc mihoyo honkai_(series) honkai:_star_rail among_us olympics 2024_summer_olympics pokemon zenless_zone_zero
