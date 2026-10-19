@@ -7565,3 +7565,4 @@
 ?lori_loud -> the_loud_house the_bloud_house precure jojo_no_kimyou_na_bouken dragon_ball real_life darkstalkers little_witch_academia futari_wa_precure instagram
 ?laura_palmer -> twin_peaks splatoon_(series) utdr_(toby_fox) deltarune splatoon_2
 ?giratina -> pokemon pokemon_diamond/pearl/platinum pokemon_legends:_arceus pokemon_platinum pokemon_masters_ex pokemon_(anime) pokemon_black_and_white pokemon_heartgold_and_soulsilver pokemon_ruby/sapphire/emerald pokemon_the_series:_diamond_and_pearl
+?ch'en_(summer)_(arknights) -> arknights blue_archive arknights:_endfield original jojo_no_kimyou_na_bouken diamond_wa_kudakenai tenga meccha_chameleon
