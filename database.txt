@@ -7716,3 +7716,4 @@
 ?android_21 -> dragon_ball dragon_ball_fighterz dragon_ball_z dragon_ball_super dragon_ball_gt boku_no_hero_academia pokemon dragon_ball_(classic) dragon_ball_heroes dragon_ball_super_broly
 ?chronoa_(dragon_ball) -> dragon_ball dragon_ball_heroes dragon_ball_xenoverse dragon_ball_z dragon_ball_super dragon_ball_fighterz dragon_ball_gt dragon_ball_z_dokkan_battle dragon_ball_(classic) dragon_ball_daima
 ?celestia_(midsummer_night)_(strinova) -> strinova
+?jeanne_d'arc_alter_(avenger)_(first_ascension)_(fate) -> fate_(series) fate/grand_order fate/extra fate/stay_night fate/extra_ccc pixiv_fate/grand_order_contest_2 granblue_fantasy koha-ace fate/hollow_ataraxia comiket_90
