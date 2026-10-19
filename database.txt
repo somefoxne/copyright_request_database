@@ -7573,3 +7573,4 @@
 ?bard_2_(sekaiju) -> sekaiju_no_meikyuu sekaiju_no_meikyuu_1 sekaiju_no_meikyuu_2 sekaiju_no_meikyuu_4 persona final_fantasy persona_3 persona_4 futaba_channel metaphor:_refantazio
 ?kaminari_qpi -> vspo! vcr_gta madtown_gta busou_kanojo nijisanji street_fighter apex_legends street_fighter_6 holostars comiket_102
 ?kaminari_qpi_(2nd_costume) -> vspo! splatoon_(series) apex_legends
+?kohibari_kurumi -> tenshi_souzou_re-boot! yuzusoft sanoba_witch comiket_104 comiket_102 cafe_stella_to_shinigami_no_chou amairo_islenauts senren_banka riddle_joker comiket_106
