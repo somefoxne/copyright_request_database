@@ -7946,3 +7946,4 @@
 ?bunny_girl_guard_(sg)_(blue_archive) -> blue_archive
 ?duosion -> pokemon pokemon_black_and_white pokemon_sword_and_shield pokemon_diamond/pearl/platinum pokemon_platinum original vocaloid pokemon_black_2_and_white_2 pokemon_(anime) pokemon_adventures
 ?reuniclus -> pokemon pokemon_black_and_white pokemon_black_2_and_white_2 pokemon_diamond/pearl/platinum original pokemon_sword_and_shield pokemon_ruby/sapphire/emerald pokemon_(anime) pokemon_heartgold_and_soulsilver pokemon_firered_and_leafgreen
+?tamaki_(doa) -> dead_or_alive dead_or_alive_xtreme dead_or_alive_xtreme_venus_vacation azur_lane dead_or_alive_6 venus_vacation_prism:_dead_or_alive_xtreme ninja_gaiden hololive hololive_english senran_kagura
