@@ -7660,3 +7660,4 @@
 ?blonde_blazer -> dispatch invincible_(series) marvel original fate_(series) fate/grand_order chainsaw_man spider-man_(series) marvel_rivals spider-verse
 ?steven_stone -> pokemon pokemon_omega_ruby_and_alpha_sapphire pokemon_ruby/sapphire/emerald pokemon_masters_ex pokemon_diamond/pearl/platinum pokemon_heartgold_and_soulsilver pokemon_black_and_white pokemon_emerald pokemon_x_and_y pokemon_sword_and_shield
 ?minamoto_no_raikou_(bunny_girl_style)_(fate) -> fate_(series) fate/grand_order
+?mamahaha -> samurai_spirits the_king_of_fighters kantai_collection granblue_fantasy fatal_fury street_fighter snk garou:_mark_of_the_wolves guilty_gear darkstalkers
