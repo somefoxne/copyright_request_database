@@ -6547,3 +6547,4 @@
 ?xu_fu_(fate) -> fate_(series) fate/grand_order blue_archive fate/grand_order_arcade fate/samurai_remnant pokemon genshin_impact zenless_zone_zero mario_(series) nier_(series)
 ?mr._reca_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail fate_(series) fate/stay_night wuthering_waves reverse:1999 wizarding_world harry_potter_(series) death_note youtube
 ?cielo_the_raise_moon_veil -> yu-gi-oh!
+?ascalaphus_(fate) -> fate_(series) fate/grand_order
