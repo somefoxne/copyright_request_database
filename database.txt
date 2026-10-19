@@ -6456,3 +6456,4 @@
 ?mosin-nagant_(girls'_frontline) -> real_life battlefield_(series) girls_und_panzer dark_souls_(series) metal_gear_(series) dark_souls_i va-11_hall-a rainbow_six_siege
 ?mosin-nagant_(girls'_frontline_2) -> umamusume helldivers_(series) battlefield_(series) atomic_heart company_of_heroes war_of_the_worlds
 ?sabin_rene_figaro -> final_fantasy final_fantasy_vi final_fantasy_vii final_fantasy_vii:_ever_crisis final_fantasy_iv final_fantasy_v street_fighter final_fantasy_viii dissidia_final_fantasy final_fantasy_xiv
+?hoppip -> pokemon pokemon_heartgold_and_soulsilver pokemon_scarlet_and_violet pokemon_(anime) pokemon_gold/silver/crystal pokemon_firered_and_leafgreen pokemon_(classic_anime) pokemon_sword_and_shield pokemon_diamond/pearl/platinum pokemon_black_and_white
