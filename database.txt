@@ -7145,3 +7145,4 @@
 ?ebios_(kurisute) -> kurisute_no_ihou
 ?bennett_(genshin_impact) -> genshin_impact original honkai_(series) mihoyo horizon_(game) pokemon honkai:_star_rail idolmaster honkai_impact_3rd mario_(series)
 ?coralie_6626_planck_(valkyrie_blastmetal) -> honkai_(series) honkai_impact_3rd genshin_impact honkai:_star_rail mihoyo apple_inc. yotsubato! nikkori^^chousatai_no_theme_(vocaloid) white_chicks
+?erdos_helia_(valkyrie_boltstorm) -> honkai_(series) honkai_impact_3rd honkai:_star_rail zenless_zone_zero mihoyo genshin_impact wuthering_waves comiket_105 nikkori^^chousatai_no_theme_(vocaloid) white_chicks
