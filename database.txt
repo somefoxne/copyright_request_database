@@ -7670,3 +7670,4 @@
 ?kanami_(strinova) -> strinova genshin_impact azur_lane roco_kingdom roco_kingdom:_world
 ?zack_fair_(off-road_jacket) -> final_fantasy final_fantasy_vii final_fantasy_vii:_ever_crisis dissidia_final_fantasy dissidia_duellum_final_fantasy
 ?celestia_(shepherd_of_stars)_(strinova) -> strinova
+?sophie_hatter_(howl_no_ugoku_shiro) -> howl_no_ugoku_shiro studio_ghibli majo_no_takkyuubin mononoke_hime sen_to_chihiro_no_kamikakushi tenkuu_no_shiro_laputa tonari_no_totoro gake_no_ue_no_ponyo kaze_no_tani_no_nausicaa kurenai_no_buta
