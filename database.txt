@@ -6984,3 +6984,4 @@
 ?fal_(phantasy_star) -> phantasy_star phantasy_star_iv phantasy_star_ii street_fighter mega_man_(series) sonic_(series) puyopuyo mega_man_(classic) castlevania_(series) mickey_mouse_&_friends
 ?rudy_ashure -> phantasy_star phantasy_star_iv phantasy_star_ii sonic_(series) puyopuyo shinobi_(series) golden_axe monster_world monster_world_iv fantasy_zone
 ?voyager_(fate) -> fate_(series) fate/grand_order fate/requiem pokemon fate/extra koha-ace fate/apocrypha axis_powers_hetalia fate/grand_order_arcade indie_virtual_youtuber
+?aizawa_ema -> vspo! nijisanji hololive neo-porte apex_legends hololive_english vcr_gta madtown_gta indie_virtual_youtuber street_fighter
