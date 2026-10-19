@@ -6341,3 +6341,4 @@
 ?mori_calliope_(1st_costume) -> hololive hololive_english hololive_indonesia minecraft enigmatic_recollection real_life hololive_dev_is indie_virtual_youtuber dc_comics do_u_(takanashi_kiara)
 ?takanashi_kiara_(1st_costume) -> hololive hololive_english hololive_indonesia minecraft do_u_(takanashi_kiara) kfc enigmatic_recollection hololive_dev_is pokemon mario_(series)
 ?daiwa_scarlet_(nuit_etoilee_de_scarlet)_(umamusume) -> umamusume doraemon vocaloid 2channel original pokemon fate_(series) indie_virtual_youtuber jojo_no_kimyou_na_bouken fate/stay_night
+?sirius_symboli_(casual)_(umamusume) -> umamusume original
