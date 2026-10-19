@@ -7296,3 +7296,4 @@
 ?hayley_smith -> american_dad! pokemon vocaloid
 ?deux_murasame -> gundam gundam_gquuuuuux zeta_gundam idolmaster gakuen_idolmaster i_can_friday_by_day! mobile_suit_gundam gundam_0083 pokemon gundam_zz
 ?conrad_(fire_emblem) -> fire_emblem fire_emblem_echoes:_shadows_of_valentia fire_emblem_heroes fire_emblem:_mystery_of_the_emblem fire_emblem_cipher fire_emblem_fates fire_emblem_awakening fire_emblem:_radiant_dawn fire_emblem:_the_blazing_blade fire_emblem:_genealogy_of_the_holy_war
+?dantsu_flame_(casual)_(umamusume) -> umamusume umamusume:_beginning_of_a_new_era nijisanji dragon_ball coca-cola kfc
