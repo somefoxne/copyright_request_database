@@ -7553,3 +7553,4 @@
 ?sexual-relief_officer_(siva-siva) -> original
 ?gwen_(total_drama) -> total_drama dc_comics teen_titans powerpuff_girls pokemon marvel x-men scooby-doo_(series) panty_&_stocking_with_garterbelt hellaverse
 ?kasli_(nyanko_daisensou) -> nyanko_daisensou touhou fate_(series) fate/grand_order darkstalkers blue_archive honkai_(series) honkai:_star_rail kemono_friends bocchi_the_rock!
+?the_king_of_red_lions -> the_legend_of_zelda the_legend_of_zelda:_the_wind_waker the_legend_of_zelda:_ocarina_of_time the_legend_of_zelda:_twilight_princess the_legend_of_zelda:_skyward_sword the_legend_of_zelda:_spirit_tracks the_legend_of_zelda:_the_minish_cap the_legend_of_zelda:_a_link_to_the_past
