@@ -6552,3 +6552,4 @@
 ?demeter_(first_ascension)_(fate) -> fate_(series) fate/grand_order
 ?sukoya_kana_(1st_costume) -> nijisanji nijisanji_kr nijisanji_id original nijisanji_en kirby_(series) hololive twitter pokemon umamusume
 ?maebara_keiichi -> higurashi_no_naku_koro_ni tsumihoroboshi-hen umineko_no_naku_koro_ni higurashi_no_naku_koro_ni_mei higurashi_no_naku_koro_ni_gou onikakushi-hen tatarigoroshi-hen suzumiya_haruhi_no_yuuutsu original watanagashi-hen
+?poko_rakun -> chromashift indie_virtual_youtuber blue_archive umamusume tensei_shitara_ken_deshita eien_project touhou pokemon fate_(series) zenless_zone_zero
