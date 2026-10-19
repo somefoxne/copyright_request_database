@@ -7241,3 +7241,4 @@
 ?harumiya_agatha -> indie_virtual_youtuber
 ?kiloc_(live_a_hero) -> live_a_hero
 ?kalaski_(live_a_hero) -> live_a_hero
+?capybara_(genshin_impact) -> genshin_impact
