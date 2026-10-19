@@ -7399,3 +7399,4 @@
 ?clumsy_nun_(diva) -> little_nuns_(diva) zookeepers_(diva) original mario_(series) pokemon among_us the_lord_of_the_rings ordo_mediare_sisters_(ironlily) the_last_supper
 ?strict_nun's_mother_(diva) -> little_nuns_(diva)
 ?strict_nun_(diva) -> little_nuns_(diva) comedian_(artwork) jojo_no_kimyou_na_bouken the_legend_of_zelda omori stardust_crusaders wizarding_world harry_potter_(series) warhammer_40k the_legend_of_zelda:_the_wind_waker
+?tiko_(devil_survivor_2) -> devil_survivor_(series) devil_survivor_2 persona persona_3 persona_3_portable
