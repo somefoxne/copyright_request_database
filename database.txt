@@ -6336,3 +6336,4 @@
 ?silence_suzuka_(casual)_(umamusume) -> umamusume maria-sama_ga_miteru gundam bleach onii-chan_wa_oshimai! super_robot_wars g_gundam comiket_103 all_nippon_airways japan_airlines
 ?yamanin_zephyr_(fluttertail_spirit)_(umamusume) -> umamusume kantai_collection princess_connect! original jojo_no_kimyou_na_bouken the_king_of_fighters jikkyou_powerful_pro_yakyuu akari_ga_yatte_kitazo_(vocaloid)
 ?wonder_acute_(butterfly_sting)_(umamusume) -> umamusume precure real_life umamusume:_cinderella_gray cygames manga_nippon_mukashi_banashi original fate_(series) fire_emblem indie_virtual_youtuber
+?hokko_tarumae_(star_light_ship)_(umamusume) -> umamusume jojo_no_kimyou_na_bouken real_life original precure oshi_no_ko umamusume:_cinderella_gray blue_archive fate_(series) final_fantasy
