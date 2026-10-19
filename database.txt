@@ -7778,3 +7778,4 @@
 ?demon_king_of_salvation -> honkai_(series) honkai:_star_rail microsoft_windows tongari_boushi_no_atelier butcher_vanity_(synthesizer_v) original umamusume vocaloid project_sekai
 ?kim_dokja -> original my_s-class_hunters honkai_(series) alien_stage microsoft_windows honkai:_star_rail wizarding_world
 ?noro_(vtuber) -> indie_virtual_youtuber original arknights the_elder_scrolls the_elder_scrolls_iv:_oblivion
+?mamiya_takuji -> subarashiki_hibi tsui_no_sora tsui_no_sora_(remake) amazon_(company) sayonara_wo_oshiete the_last_supper original project_moon limbus_company gegege_no_kitarou
