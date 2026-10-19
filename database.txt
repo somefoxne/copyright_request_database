@@ -7678,3 +7678,4 @@
 ?fuchsia_(strinova) -> strinova arknights
 ?galatea_(strinova) -> strinova
 ?kanami_(whisper_of_flowers)_(strinova) -> strinova
+?leona_(strinova) -> strinova
