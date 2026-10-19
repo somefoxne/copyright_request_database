@@ -6481,3 +6481,4 @@
 ?tsuyuzaki_mahiru -> shoujo_kageki_revue_starlight shoujo_kageki_revue_starlight_-re_live- bang_dream! real_life bang_dream!_girls_band_party! d4dj assault_lily animate_(company) pokemon
 ?gekiyaku -> utau vocaloid a.i._voice shiawasemono_(utau) cevio voiceroid synthesizer_v kamitsubaki_studio voicevox ado_(utaite)
 ?macne_nana -> macne_series vocaloid apple_inc. utau voiceroid vsinger_(vocaloid) zola_project original pokemon confiture_pluie_(vocaloid)
+?namae_shirezu -> utau vocaloid macne_series
