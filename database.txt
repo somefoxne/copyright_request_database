@@ -7274,3 +7274,4 @@
 ?todo_haruka -> vertex_force megami_magazine
 ?kamisaki_hikaru -> medalist_(manga) umamusume bang_dream! sanrio my_melody_(series) animage fate_(series) fate/grand_order idolmaster
 ?yuitsuka_inori -> medalist_(manga) idolmaster idolmaster_cinderella_girls gundam sanrio my_melody_(series) blue_archive umamusume cardcaptor_sakura gundam_gquuuuuux
+?bronya_zaychik_(haxxor_bunny) -> honkai_(series) honkai_impact_3rd honkai:_star_rail honkai_gakuen genshin_impact mihoyo neon_genesis_evangelion rebuild_of_evangelion comiket_108 nijisanji
