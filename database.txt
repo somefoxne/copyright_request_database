@@ -7540,3 +7540,4 @@
 ?oozora_subaru_(hololive_summer_2019) -> hololive indie_virtual_youtuber hololive_english hololive_dev_is hololive_official_card_game coca-cola comiket_104 hololive_alternative pringles original
 ?sawatari_makoto -> kanon key_(company) kanon_2006 kantai_collection air_(visual_novel) little_busters! clannad angel_beats! megami_magazine rewrite
 ?dikko-chan -> original indie_virtual_youtuber hololive
+?eloysius_(arknights) -> arknights
