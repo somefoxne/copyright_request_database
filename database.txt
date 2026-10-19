@@ -6749,3 +6749,4 @@
 ?jump-rope_tutor_(rhythm_tengoku) -> rhythm_tengoku rhythm_tengoku_miracle_stars
 ?pet_(rhythm_tengoku) -> rhythm_tengoku rhythm_tengoku_miracle_stars blue_archive
 ?minior_(blue_core) -> pokemon pokemon_sun_and_moon pokemon_scarlet_and_violet pokemon_(anime) pokemon_(classic_anime) pokemon_tcg pokemon_cafe_remix pokemon_omega_ruby_and_alpha_sapphire pokemon_ruby/sapphire/emerald pokemon_heroes:_latios_&_latias
+?minior_(green_core) -> pokemon pokemon_sun_and_moon pokemon_scarlet_and_violet pokemon_tcg pokemon_(anime) pokemon_black_and_white pokemon_masters_ex metroid pokemon_ruby/sapphire/emerald pokemon_(classic_anime)
