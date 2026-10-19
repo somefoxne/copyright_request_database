@@ -7481,3 +7481,4 @@
 ?aijima_cecil -> uta_no_prince-sama uta_no_prince-sama:_shining_live mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) uta_no_prince-sama_maji_love_2000% touhou naruto_(series) suzumiya_haruhi_no_yuuutsu bleach monogatari_(series)
 ?marshmallon -> yu-gi-oh! yu-gi-oh!_duel_monsters yu-gi-oh!_gx yu-gi-oh!_the_dark_side_of_dimensions yu-gi-oh!_arc-v yu-gi-oh!_zexal pokemon hunter_x_hunter yu-gi-oh!_vrains
 ?muto_yugi -> yu-gi-oh! yu-gi-oh!_duel_monsters yu-gi-oh!_gx yu-gi-oh!_the_dark_side_of_dimensions yu-gi-oh!_zexal yu-gi-oh!_(toei) dragon_ball yu-gi-oh!_arc-v pokemon
+?silent_magician -> yu-gi-oh! yu-gi-oh!_duel_monsters yu-gi-oh!_the_dark_side_of_dimensions pokemon yu-gi-oh!_gx monster_strike yu-gi-oh!_zexal yu-gi-oh!_sevens idolmaster idolmaster_cinderella_girls
