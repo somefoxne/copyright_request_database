@@ -7435,3 +7435,4 @@
 ?freeform_miku -> vocaloid sonic_(series) project_diva_(series) project_diva_extend league_of_legends utau bishoujo_senshi_sailor_moon synthesizer_v fairy_tail avatar_legends
 ?prinny -> disgaea makai_senki_disgaea makai_senki_disgaea_2 makai_senki_disgaea_4 nippon_ichi makai_senki_disgaea_5 disgaea_d2 makai_senki_disgaea_3 disgaea_rpg original
 ?lila_rossi -> miraculous_ladybug bemani dance_dance_revolution copycat_(vocaloid)
+?marinette_dupain-cheng -> miraculous_ladybug bishoujo_senshi_sailor_moon naruto_(series) genshin_impact marvel sonic_(series) spider-man_(series) mickey_mouse_&_friends powerpuff_girls disney
