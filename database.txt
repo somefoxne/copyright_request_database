@@ -7828,3 +7828,4 @@
 ?kamukura_izuru -> danganronpa_(series) danganronpa_2:_goodbye_despair danganronpa:_trigger_happy_havoc danganronpa_another_episode:_ultra_despair_girls danganronpa_v3:_killing_harmony danganronpa/zero galaga
 ?amano_mashiro -> esse_series oshi_no_taisetsuna_hito_ni_narikawaru hyoutenka_30-do_no_zetsubou oshi_no_tachiba_ga_irekawaru genshin_impact mahou_shoujo_no_majo_saiban kirby_(series) needy_girl_overdose voicevox kirby_super_star
 ?kobayashi_luca -> esse_series oshi_no_taisetsuna_hito_ni_narikawaru hyoutenka_30-do_no_zetsubou oshi_no_tachiba_ga_irekawaru precure meitantei_precure! seiborikku_(vocaloid) touhou kirby_(series)
+?asashio_kai_ni_(kancolle) -> kantai_collection comiket_95 line_(naver) azur_lane gundam blue_archive princess_connect! comiket_103 original touhou
