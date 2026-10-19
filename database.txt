@@ -7775,3 +7775,4 @@
 ?momo_(nikki) -> nikki_(series) infinity_nikki shining_nikki miracle_nikki nikki_up2u2:_world_traveller nikki_up2u stardew_valley original kfc cardcaptor_sakura
 ?irene_redmayne -> heaven_burns_red persona persona_5 key_(company) yostar kirby_(series) angel_beats! meitantei_conan zuutto_issho_(kitani_tatsuya) boxboy!
 ?maria_de_angelis -> heaven_burns_red key_(company) yostar kingdom_hearts angel_beats! zuutto_issho_(kitani_tatsuya)
+?demon_king_of_salvation -> honkai_(series) honkai:_star_rail microsoft_windows tongari_boushi_no_atelier butcher_vanity_(synthesizer_v) original umamusume vocaloid project_sekai
