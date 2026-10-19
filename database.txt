@@ -7192,3 +7192,4 @@
 ?yae_sakura_(flame_sakitama) -> honkai_(series) honkai_impact_3rd genshin_impact mihoyo love_live! love_live!_school_idol_project comiket_95
 ?anyoji_hime_(summer_loungewear) -> love_live! love_live!_hasu_no_sora_jogakuin_school_idol_club liv_heart mario_(series) minecraft himouto!_umaru-chan nyao_signyal pokemon the_legend_of_zelda splatoon_(series)
 ?kinuhata_saiai -> toaru_majutsu_no_index toaru_kagaku_no_railgun toaru_majutsu_no_index:_new_testament toaru_kagaku_no_railgun_s toaru_majutsu_no_index:_old_testament toaru_anbu_no_item toaru_kagaku_no_railgun_t toaru_majutsu_no_index:_imaginary_fest k-on! fate_(series)
+?kuroyoru_umidori -> toaru_majutsu_no_index toaru_majutsu_no_index:_new_testament toaru_kagaku_no_railgun toaru_majutsu_no_index:_old_testament toaru_kagaku_no_railgun_s toaru_majutsu_no_index:_endymion_no_kiseki star_wars toaru_kagaku_no_accelerator toaru_kagaku_no_dark_matter kantai_collection
