@@ -6441,3 +6441,4 @@
 ?pan_yinhu -> zenless_zone_zero original arknights arknights:_endfield we_bare_bears honkai_(series) honkai:_star_rail utdr_(toby_fox) deltarune animal_crossing
 ?souji_(senran_kagura) -> senran_kagura senran_kagura_new_wave senran_kagura_new_link senran_kagura_shinovi_versus senran_kagura_estival_versus senran_kagura_peach_beach_splash high_school_dxd darkstalkers yoru_no_nai_kuni
 ?likulau_(nekojishi) -> nekojishi original toaru_majutsu_no_index monogatari_(series) toaru_kagaku_no_railgun bakemonogatari little_red_riding_hood_(fairy_tale) ring_fit_adventure
+?lin_hu_(nekojishi) -> nekojishi gyee arknights zero_kara_hajimeru_mahou_no_sho original mario_(series) little_red_riding_hood_(fairy_tale) sdorica
