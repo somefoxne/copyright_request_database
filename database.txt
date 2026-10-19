@@ -6980,3 +6980,4 @@
 ?essex_(retrofit)_(azur_lane) -> azur_lane
 ?medion -> shining_(series) shining_force_iii
 ?synbios -> shining_(series) shining_force_iii shining_force_i shining_force_ii shining_force_cd shining_and_the_darkness shining_wisdom shining_force_gaiden:_final_conflict shining_the_holy_ark
+?scarlet_witch -> marvel avengers_(series) marvel_rivals x-men avengers:_age_of_ultron wandavision spider-man_(series) the_incredible_hulk_(series) captain_america_(series) doctor_strange_(series)
