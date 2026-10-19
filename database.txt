@@ -7414,3 +7414,4 @@
 ?teoritta -> yuushakei_ni_shosu fate_(series) yuusha_no_kuzu original touhou kantai_collection pokemon fate/grand_order zenless_zone_zero indie_virtual_youtuber
 ?tsav_(yuushakei_ni_shosu) -> yuushakei_ni_shosu
 ?kazami_yuuka_(pc-98) -> touhou touhou_(pc-98) lotus_land_story seihou kioh_gyoku mystic_square story_of_eastern_wonderland highly_responsive_to_prayers phantasmagoria_of_dim.dream original
+?inugami_korone_(sonikoro) -> hololive sonic_(series) sega sonic_the_hedgehog_(classic) sonic_(live_action) sonic_the_hedgehog_2_(movie) sonic_generations sonic_x_shadow_generations sonic_frontiers sonic_the_hedgehog_1
