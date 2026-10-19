@@ -6892,3 +6892,4 @@
 ?gaussia_(the_citadel) -> the_citadel
 ?harkonnen_(the_citadel) -> the_citadel
 ?elulu_(the_citadel) -> the_citadel beyond_citadel
+?exosister_karmael -> yu-gi-oh! yu-gi-oh!_master_duel taimanin_(series) taimanin_asagi yu-gi-oh!_rush_duel
