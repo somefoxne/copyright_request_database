@@ -7073,3 +7073,4 @@
 ?manabe_tokiko -> original
 ?ninetales -> pokemon pokemon_sword_and_shield pokemon_scarlet_and_violet pokemon_firered_and_leafgreen pokemon_(anime) pokemon_red/green/blue/yellow original pokemon_(classic_anime) pokemon_mystery_dungeon touhou
 ?dorothea_arnault_(timeskip) -> fire_emblem fire_emblem:_three_houses fire_emblem_heroes fire_emblem_warriors:_three_hopes pokemon mario_(series) super_mario_odyssey original final_fantasy persona
+?iseri_nina -> girls_band_cry bang_dream! girls_band_cry_rpg bocchi_the_rock! real_life bang_dream!_girls_band_party! yoru_no_kurage_wa_oyogenai pokemon gundam
