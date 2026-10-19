@@ -7093,3 +7093,4 @@
 ?helen_(starlit_waltz)_(girls'_frontline_2) -> blue_archive genshin_impact fire_emblem fire_emblem:_three_houses original hololive umamusume azur_lane
 ?nekyndalia_(brown_dust) -> brown_dust_(series) brown_dust_2 blue_archive
 ?nekyndalia_(unraveling_mummy)_(brown_dust) -> brown_dust_(series) brown_dust_2
+?velina_airgid_(shade_of_leisure) -> zenless_zone_zero
