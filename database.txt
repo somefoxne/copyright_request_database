@@ -7047,3 +7047,4 @@
 ?commando_(the_citadel) -> the_citadel beyond_citadel sodom_(band) the_final_sign_of_evil_(sodom)
 ?cultist_(the_citadel) -> the_citadel doom_(series) doom_i
 ?grunt_(the_citadel) -> the_citadel beyond_citadel
+?pana_(phantasy_star) -> phantasy_star phantasy_star_iv
