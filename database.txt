@@ -7706,3 +7706,4 @@
 ?white_heart_(ultra_dimension) -> neptune_(series) kami_jigen_game_neptune_v original choujigen_game_neptune four_goddesses_online:_cyber_dimension_neptune chou_megami_shinkou_noire_gekishin_black_heart
 ?samura_inori -> kagurabachi
 ?mash_kyrielight_(demi-servant) -> fate_(series) fate/grand_order learning_with_manga!_fgo fate/stay_night fate/extra fate/zero kantai_collection fate/extra_ccc fate/apocrypha gundam
+?kanami_(heartbeat_memories)_(strinova) -> strinova
