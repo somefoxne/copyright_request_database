@@ -6525,3 +6525,4 @@
 ?rice_shower_(vampire_makeover!)_(umamusume) -> umamusume indie_virtual_youtuber akari_ga_yatte_kitazo_(vocaloid) original kantai_collection blue_archive pokemon fate_(series) jojo_no_kimyou_na_bouken dragon_ball
 ?hiryuu_(kancolle) -> kantai_collection line_(naver) peach_(airline) drifters comiket_95 aoki_hagane_no_arpeggio original lawson azur_lane gundam
 ?kaga_(kancolle) -> kantai_collection azur_lane lawson pokemon line_(naver) fate_(series) comiket_95 fate/grand_order mario_(series) aoki_hagane_no_arpeggio
+?kan'u_unchou_(ikkitousen) -> ikkitousen ikkitousen_dragon_destiny ikkitousen_extra_burst ikkitousen_great_guardians megami_magazine senran_kagura ikkitousen_xtreme_xecutor senran_kagura_new_link ikkitousen_shining_dragon ikkitousen_eloquent_fist
