@@ -7163,3 +7163,4 @@
 ?mienfoo -> pokemon pokemon_black_and_white pokemon_diamond/pearl/platinum pokemon_x_and_y pokemon_ruby/sapphire/emerald pokemon_tcg original pokemon_sword_and_shield pokemon_(anime) pokemon_black_2_and_white_2
 ?minun -> pokemon pokemon_omega_ruby_and_alpha_sapphire pokemon_ruby/sapphire/emerald pokemon_scarlet_and_violet pokemon_(anime) pokemon_adventures pokemon_emerald vocaloid pokemon_diamond/pearl/platinum pokemon_the_series:_ruby_and_sapphire
 ?togetic -> pokemon pokemon_legends:_arceus pokemon_(anime) pokemon_gold/silver/crystal pokemon_heartgold_and_soulsilver pokemon_(classic_anime) pokemon_diamond/pearl/platinum pokemon_the_series:_ruby_and_sapphire pokemon_masters_ex pokemon_the_series:_diamond_and_pearl
+?myoukou_(kancolle) -> kantai_collection original aoki_hagane_no_arpeggio lawson dragon_ball touhou pokemon jojo_no_kimyou_na_bouken star_wars moomin
