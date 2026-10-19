@@ -7749,3 +7749,4 @@
 ?sakata_kintoki_(fate) -> fate_(series) fate/grand_order fate/extra fate/apocrypha fate/stay_night fate/zero fate/extra_ccc koha-ace kantai_collection kara_no_kyoukai
 ?allen_walker -> d.gray-man naruto_(series) bleach death_note one_piece naruto_(classic) yu-gi-oh! code_geass yu-gi-oh!_duel_monsters katekyo_hitman_reborn!
 ?road_kamelot -> d.gray-man one_piece pokemon mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) jojo_no_kimyou_na_bouken boku_no_hero_academia naruto_(series) rozen_maiden naruto_(classic)
+?timcanpy -> d.gray-man one_piece suzumiya_haruhi_no_yuuutsu pokemon vocaloid mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) street_fighter dragon_ball digimon
