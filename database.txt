@@ -7137,3 +7137,4 @@
 ?tokime_(fuuto_tantei) -> kamen_rider kamen_rider_w fuuto_tantei dc_comics gundam batman_(series) umamusume final_fantasy final_fantasy_vii marvel
 ?sammy_(blue_archive) -> blue_archive
 ?husk_(hazbin_hotel) -> hellaverse hazbin_hotel pokemon utdr_(toby_fox) undertale my_little_pony my_little_pony:_friendship_is_magic south_park helluva_boss family_guy
+?lita_(kmnz) -> kmnz nijisanji hololive indie_virtual_youtuber original kirby_(series) nanashi_inc. monsterz_mate ficty blue_archive
