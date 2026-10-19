@@ -7962,3 +7962,4 @@
 ?yangazi_(dkwl025) -> indie_virtual_youtuber original
 ?bernadetta_von_varley_(timeskip) -> fire_emblem fire_emblem:_three_houses fire_emblem_heroes fire_emblem_warriors:_three_hopes mario_(series) fire_emblem_fates fire_emblem_awakening fire_emblem_cipher me!me!me! pokemon
 ?emily_(hazbin_hotel) -> hellaverse hazbin_hotel final_fantasy chainsaw_man final_fantasy_xiv marvel avengers_(series) final_fantasy_vii dragon_ball omori
+?mikage_hisoka -> a3!
