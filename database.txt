@@ -6909,3 +6909,4 @@
 ?asuka_(senran_kagura) -> senran_kagura senran_kagura_new_wave senran_kagura_new_link senran_kagura_shinovi_versus senran_kagura_estival_versus pokemon senran_kagura_peach_beach_splash senran_kagura_burst azur_lane
 ?amatsukaze_(hinamatsuri)_(kancolle) -> kantai_collection honkai_(series) honkai:_star_rail
 ?kamila_(yuniiho) -> original
+?aphrodite_(hades) -> hades_(series) hades_1 hades_2 greek_mythology original pokemon one_piece supergiant_games touhou blue_archive
