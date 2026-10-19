@@ -7586,3 +7586,4 @@
 ?idate_(funamusea) -> funamusea ice_scream oounabara_to_wadanohara haiiro_teien mogeko_castle arknights indie_virtual_youtuber mario_(series) omori utdr_(toby_fox)
 ?rocma_(funamusea) -> funamusea ice_scream oounabara_to_wadanohara indie_virtual_youtuber haiiro_teien mogeko_castle sutare_yume taiyou_no_jubaku poison_bugs sunahama_tsuushin
 ?dalia_(sleak) -> original
+?grape_(vtuber) -> indie_virtual_youtuber vinesauce original vshojo hololive hololive_english elden_ring phase_connect stellarversepro
