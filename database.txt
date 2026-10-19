@@ -7909,3 +7909,4 @@
 ?tamai_remi -> girlfriend_(kari)
 ?tabasuko_(mirolive) -> mirolive original goddess_of_victory:_nikke limnos
 ?janghwa_(last_origin) -> last_origin mad_max mad_max:_fury_road blue_archive azur_lane goddess_of_victory:_nikke soulworker artificial_hero
+?koyanskaya_(assassin)_(first_ascension)_(fate) -> fate_(series) fate/grand_order fate/extra fate/samurai_remnant umamusume honkai_(series) honkai:_star_rail voiceroid original blue_archive
