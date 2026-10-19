@@ -7709,3 +7709,4 @@
 ?kanami_(heartbeat_memories)_(strinova) -> strinova
 ?arisugawa_osamu -> sekai_metsubou_kyouyuu_gensou_mamiya
 ?akali_(league) -> league_of_legends hololive hololive_english original genshin_impact splatoon_(series) overwatch league_of_legends:_wild_rift kpop_demon_hunters pokemon
+?k/da_akali -> league_of_legends hololive hololive_english splatoon_(series) genshin_impact overwatch original fire_emblem splatoon_2 nijisanji
