@@ -6721,3 +6721,4 @@
 ?yunaka_(fire_emblem) -> fire_emblem fire_emblem_engage fire_emblem_heroes fire_emblem:_three_houses fire_emblem:_radiant_dawn fire_emblem_fates fire_emblem_shadows persona persona_5 fire_emblem_awakening
 ?yunaka_(stealthy_imitator)_(fire_emblem) -> fire_emblem fire_emblem_heroes fire_emblem_engage
 ?axel_(koko_d._nuts) -> indie_virtual_youtuber vedal_ai curious_george pokemon minecraft metal_gear_(series) youtube metal_gear_solid_3:_snake_eater the_creation_of_adam
+?cimp_(camila_inpu) -> indie_virtual_youtuber vedal_ai final_fantasy chainsaw_man final_fantasy_vii mario_(series) nier_(series) dc_comics resident_evil nier:automata
