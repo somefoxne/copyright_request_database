@@ -7928,3 +7928,4 @@
 ?gothorita -> pokemon pokemon_black_and_white pokemon_black_2_and_white_2 pokemon_sword_and_shield original pokemon_diamond/pearl/platinum pokemon_(anime) vocaloid pokemon_tcg pokemon_the_series:_sun_&_moon
 ?gothitelle -> pokemon pokemon_black_and_white pokemon_(anime) pokemon_diamond/pearl/platinum pokemon_the_series:_black_&_white original pokemon_black_2_and_white_2 pokemon_ruby/sapphire/emerald pokemon_sword_and_shield pokemon_scarlet_and_violet
 ?agnel_(money_for_girls:_amortized) -> money_for_girls:_amortized
+?cancer_prize_(money_for_girls:_amortized) -> money_for_girls:_amortized
