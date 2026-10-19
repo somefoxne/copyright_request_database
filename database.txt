@@ -7328,3 +7328,4 @@
 ?otonashi_kyouko -> maison_ikkoku urusei_yatsura ranma_1/2 inuyasha kyoukai_no_rinne mao_(takahashi_rumiko) 1_pound_no_fukuin touhou gundam ningyo_series
 ?kashi_(halloween)_(kancolle) -> kantai_collection
 ?kashi_(kancolle) -> kantai_collection c2_kikan original gundam gundam_08th_ms_team yuru-chara pop_mart beavis_and_butt-head the_monsters_(kasing_lung)
+?emiya_shirou_(prisma_illya) -> fate_(series) fate/kaleid_liner_prisma_illya fate/stay_night fate/grand_order tsukihime tsukihime_(remake) type-moon fate/hollow_ataraxia fate/extra fate/apocrypha
