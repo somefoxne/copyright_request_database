@@ -7182,3 +7182,4 @@
 ?m1897_(girls'_frontline) -> metal_gear_(series) pokemon hololive hololive_english marvel guilty_gear guilty_gear_xrd call_of_duty
 ?tsukushibara_sumine -> indie_virtual_youtuber original blue_archive
 ?ikamusume -> shinryaku!_ikamusume splatoon_(series) splatoon_1 toaru_majutsu_no_index touhou vocaloid mahou_shoujo_madoka_magica precure mahou_shoujo_madoka_magica_(anime) k-on!
+?corneria_(atelier) -> atelier_(series) atelier_sophie atelier_lydie_&_suelle atelier_resleriana atelier_ryza atelier_ryza_1 comiket_106 atelier_sophie_2 atelier_marie pokemon
