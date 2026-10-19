@@ -6728,3 +6728,4 @@
 ?rico_(mega_man) -> mega_man_(series) mega_man_x_(series) mega_man_x_dive mega_man_(classic) mega_man_zero_(series) mega_man_battle_network_(series) mega_man_star_force_(series) mega_man_zx mega_man_legends_(series) mega_man_x:_command_mission
 ?chiori_(genshin_impact) -> genshin_impact honkai_(series) honkai:_star_rail mihoyo zenless_zone_zero honkai_impact_3rd among_us wuthering_waves olympics 2024_summer_olympics
 ?may_(gundam_build_divers_re:rise) -> gundam gundam_build_divers gundam_build_divers_re:rise gundam_00 gundam_arsenal_base gundam_tekketsu_no_orphans mobile_suit_gundam gundam_wing gundam_suisei_no_majo gundam_seed
+?kishinami_hakuno_(female)_(celeb_summer_experience_swimsuit) -> fate_(series) fate/grand_order fate/extra fate/extra_ccc fate/strange_fake fate/extella fate/extella_link
