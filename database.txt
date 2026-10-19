@@ -7383,3 +7383,4 @@
 ?allie_(stella_sora) -> stella_sora
 ?fuyuka_(stella_sora) -> stella_sora blue_archive shigoto_neko yostar
 ?nazuka_(stella_sora) -> stella_sora
+?nazuna_(stella_sora) -> stella_sora shigoto_neko blue_archive yostar
