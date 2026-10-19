@@ -6853,3 +6853,4 @@
 ?toki_(armed)_(blue_archive) -> blue_archive neon_genesis_evangelion rebuild_of_evangelion devil_may_cry_(series) evangelion:_3.0+1.0_thrice_upon_a_time kemono_friends coca-cola devil_may_cry_3 hellsing hokuto_no_ken
 ?hinoshita_kaho -> love_live! love_live!_hasu_no_sora_jogakuin_school_idol_club dream_believers suisai_sekai love_live!_nijigasaki_high_school_idol_club love_live!_hasu_no_sora_jogakuin_school_idol_club_bloom_garden_party love_live!_school_idol_project link_to_the_future_(love_live!) holiday_holiday_(love_live!) love_live!_sunshine!!
 ?aya_(jonsun) -> original
+?owari_(my_wish_is_for_love)_(azur_lane) -> azur_lane original hololive hololive_english blue_archive arknights final_fantasy indie_virtual_youtuber final_fantasy_xiv
