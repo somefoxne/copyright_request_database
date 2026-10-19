@@ -7651,3 +7651,4 @@
 ?aki-chan_(dismaiden) -> original pokemon chainsaw_man boku_no_hero_academia sono_bisque_doll_wa_koi_wo_suru vocaloid gundam mario_(series) pokemon_(anime) kono_subarashii_sekai_ni_shukufuku_wo!
 ?satake_minako -> idolmaster idolmaster_million_live! idolmaster_million_live!_theater_days idolmaster_(classic) idolmaster_movie idolmaster_cinderella_girls idolmaster_side-m idolmaster_poplinks mario_(series) little_red_riding_hood_(fairy_tale)
 ?anemone_(eureka_seven) -> eureka_seven_(series) eureka_seven gundam gundam_seed rozen_maiden gundam_seed_destiny fate_(series) higurashi_no_naku_koro_ni zeta_gundam precure
+?tamatsukuri_misumaru -> touhou unconnected_marketeers touhou_(pc-98) touhou_lostword perfect_cherry_blossom mountain_of_faith wily_beast_and_weakest_creature sunken_fossil_world foul_detective_satori seihou
