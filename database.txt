@@ -7393,3 +7393,4 @@
 ?sonic_the_werehog -> sonic_(series) sonic_unleashed sonic_the_hedgehog_(classic) sonic_and_the_black_knight sonic_and_the_secret_rings sonic_adventure sonic_adventure_2 sonic_riders_(series) sonic_frontiers sonic_riders
 ?nuibaba -> fire_emblem fire_emblem_echoes:_shadows_of_valentia fire_emblem_heroes fire_emblem_gaiden fire_emblem_fates fate_(series) fate/grand_order fire_emblem:_three_houses fire_emblem_awakening fire_emblem_engage
 ?kiyama_harumi -> toaru_majutsu_no_index toaru_kagaku_no_railgun toaru_majutsu_no_index:_old_testament toaru_kagaku_no_railgun_s toaru_majutsu_no_index:_new_testament toaru_kagaku_no_railgun_t touhou comiket_108 komica blue_archive
+?rocket_raccoon -> marvel guardians_of_the_galaxy marvel_rivals spider-man_(series) avengers_(series) x-men the_incredible_hulk_(series) guardians_of_the_galaxy_vol._3 marvel_vs._capcom fantastic_four
