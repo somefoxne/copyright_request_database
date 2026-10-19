@@ -6393,3 +6393,4 @@
 ?snow_white_(fairy_tale_character) -> snow_white_(fairy_tale) original little_red_riding_hood_(fairy_tale) cinderella_(fairy_tale) vocaloid rapunzel_(fairy_tale) pokemon project_tokyo_dolls
 ?suiko_(one-punch_man) -> one-punch_man
 ?okumura_eiji -> banana_fish studio_mappa yuri!!!_on_ice fire_emblem bang_dream! yu-gi-oh! fire_emblem:_three_houses bang_dream!_girls_band_party! pretty_series pripara
+?kawakami_gensai_(first_ascension)_(fate) -> fate_(series) fate/grand_order rurouni_kenshin fate/samurai_remnant comiket_108
