@@ -6935,3 +6935,4 @@
 ?manaphy -> pokemon pokemon_(anime) pokemon_the_series:_ruby_and_sapphire pokemon_ranger_and_the_temple_of_the_sea pokemon_masters_ex pokemon_diamond/pearl/platinum pokemon_ruby/sapphire/emerald pokemon_(classic_anime) pokemon_tcg pokemon_black_and_white
 ?ange_katrina_(qipao) -> nijisanji indie_virtual_youtuber bans lockheed_martin hololive vspo! sana_channel vampire_(vocaloid) moechakkafire cherry_pop_(vocaloid)
 ?kagami_hayato_(rof-mao) -> nijisanji
+?usami_rito_(2nd_costume) -> nijisanji ryuu_ga_gotoku_(series) ryuu_ga_gotoku_0
