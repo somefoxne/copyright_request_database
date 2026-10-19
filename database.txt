@@ -7389,3 +7389,4 @@
 ?the_white_witch_(ibrahem_swaid) -> original the_white_witch
 ?kirisame_marisa_(pc-98) -> touhou touhou_(pc-98) story_of_eastern_wonderland phantasmagoria_of_dim.dream lotus_land_story mystic_square gantz highly_responsive_to_prayers seihou embodiment_of_scarlet_devil
 ?okazaki_yumemi -> touhou touhou_(pc-98) phantasmagoria_of_dim.dream story_of_eastern_wonderland lotus_land_story highly_responsive_to_prayers mystic_square seihou original embodiment_of_scarlet_devil
+?kamen_rider_black -> kamen_rider kamen_rider_black_(series) kamen_rider_black_rx_(series) kamen_rider_dcd kamen_rider_amazon_(series) kamen_rider_(1st_series) kamen_rider_stronger_(series) kamen_rider_x_(series) kamen_rider_v3_(series) kamen_rider_super-1_(series)
