@@ -7260,3 +7260,4 @@
 ?annelle_frances_(porforever) -> original project_zomboid
 ?valkenhayn_r._hellsing -> blazblue blazblue:_continuum_shift blazblue_phase_0 blazblue:_chronophantasma blazblue:_central_fiction xblaze blazblue:_calamity_trigger touhou idolmaster persona
 ?scamp_(kancolle) -> kantai_collection comiket_106 girls_und_panzer street_fighter bocchi_the_rock! dragon_ball medalist_(manga) street_fighter_ii_(series) comiket_103 comiket_100
+?pyra_(switch_2)_(xenoblade) -> xenoblade_chronicles_(series) xenoblade_chronicles_2 twitter
