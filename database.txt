@@ -7362,3 +7362,4 @@
 ?mogador_(kancolle) -> kantai_collection idolmaster azur_lane gakuen_idolmaster alice_gear_aegis highfleet blue_archive hololive hololive_english girls_und_panzer
 ?vautour_(kancolle) -> kantai_collection
 ?tolui_(tenmaku_no_jaadugar) -> tenmaku_no_jaadugar google corona_(brand)
+?kumano_(school_girl)_(kancolle) -> kantai_collection comiket_105
