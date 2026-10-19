@@ -6788,3 +6788,4 @@
 ?gambier_bay_(kancolle) -> kantai_collection lawson arknights yokohama_dena_baystars coca-cola mario_(series) original marvel line_(naver)
 ?sitara -> tenmaku_no_jaadugar memri_tv chi.:_chikyuu_no_undou_ni_tsuite sayonara_lara animage kantai_collection pokemon genshin_impact umamusume honkai_(series)
 ?kagami_hayato_(1st_costume) -> nijisanji nijisanji_en nijisanji_kr nijisanji_id nijisanji_koshien carrie_(song) pokemon duel_masters among_us nijisanji_gta
+?kirin-chan_(usami_rito) -> nijisanji nijisanji_koshien nijisanji_en nijisanji_kr nijisanji_id street_fighter splatoon_(series) vspo! street_fighter_6 holostars
