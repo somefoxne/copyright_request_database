@@ -6357,3 +6357,4 @@
 ?ren_kohaku_(vtuber) -> indie_virtual_youtuber
 ?rizu-kyun -> sono_bisque_doll_wa_koi_wo_suru idolmaster gakuen_idolmaster cuddly_octopus hololive kusuriya_no_hitorigoto blue_archive hololive_english idolmaster_shiny_colors komi-san_wa_komyushou_desu
 ?darius_silva_ganius -> mushoku_tensei
+?akizuki_maria -> shin_sekai_yori nyantype comiket_83
