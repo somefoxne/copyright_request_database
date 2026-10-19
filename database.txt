@@ -7529,3 +7529,4 @@
 ?kamen_rider_kuuga_(pegasus_form) -> kamen_rider kamen_rider_kuuga_(series) original m.u.g.e.n touhou fate_(series) fate/grand_order
 ?kamen_rider_kuuga_(titan_form) -> kamen_rider kamen_rider_kuuga_(series) fate_(series) fate/stay_night touhou fate/grand_order m.u.g.e.n
 ?aimoto_asahi_(urushiushiru) -> original
+?schroedinger_(hellsing) -> hellsing hellsing:_the_dawn hunter_x_hunter original touhou jojo_no_kimyou_na_bouken monogatari_(series) bakemonogatari soul_eater darker_than_black
