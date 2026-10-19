@@ -6905,3 +6905,4 @@
 ?sendo_yuuhi -> vspo! league_of_legends indie_virtual_youtuber hololive bemani beatmania_iidx beatmania_iidx_infinitas nijisanji hololive_dev_is holostars
 ?sendo_yuuhi_(1st_costume) -> vspo! indie_virtual_youtuber league_of_legends hololive bemani beatmania_iidx beatmania_iidx_infinitas nijisanji hololive_dev_is holostars
 ?nyra_nightclaw -> izigenia
+?orochi_(fire_emblem) -> fire_emblem fire_emblem_fates fire_emblem_heroes fire_emblem_awakening pokemon fire_emblem:_radiant_dawn fire_emblem:_mystery_of_the_emblem fire_emblem_cipher final_fantasy fire_emblem:_three_houses
