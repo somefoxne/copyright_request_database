@@ -7142,3 +7142,4 @@
 ?yellow_diamond_(steven_universe) -> steven_universe pokemon utdr_(toby_fox) undertale adventure_time jojo_no_kimyou_na_bouken steven_universe_future original vocaloid mahou_shoujo_madoka_magica
 ?vesper_deveraux -> alice_gear_aegis
 ?san_(mononoke_hime) -> mononoke_hime studio_ghibli majo_no_takkyuubin kaze_no_tani_no_nausicaa sen_to_chihiro_no_kamikakushi howl_no_ugoku_shiro tonari_no_totoro tenkuu_no_shiro_laputa gake_no_ue_no_ponyo kurenai_no_buta
+?ebios_(kurisute) -> kurisute_no_ihou
