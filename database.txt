@@ -6423,3 +6423,4 @@
 ?nate_(pokemon) -> pokemon pokemon_black_2_and_white_2 pokemon_black_and_white pokemon_x_and_y pokemon_heartgold_and_soulsilver pokemon_diamond/pearl/platinum pokemon_firered_and_leafgreen pokemon_sun_and_moon pokemon_adventures pokemon_ruby/sapphire/emerald
 ?deathpolca -> demons_roots_(series) demons_roots king_exit tengen_toppa_gurren_lagann pokemon black_souls soukou_akki_muramasa
 ?jamila_(ultra_series) -> ultra_series ultraman_(1st_series) umamusume ultraseven_(series) ultra_q original kantai_collection hololive gundam k-on!
+?lenna_charlotte_tycoon -> final_fantasy final_fantasy_v final_fantasy_vi final_fantasy_iv final_fantasy_vii final_fantasy_ix final_fantasy_x final_fantasy_viii dissidia_final_fantasy final_fantasy_ii
