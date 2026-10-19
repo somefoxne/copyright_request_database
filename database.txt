@@ -7376,3 +7376,4 @@
 ?pazuzu_(housamo) -> tokyo_afterschool_summoners touhou arknights zenless_zone_zero another_eidos-r crave_saga dislyte
 ?jack_frost_(housamo) -> tokyo_afterschool_summoners live_a_hero indie_virtual_youtuber knights_college trivia_about_you
 ?leib_(housamo) -> tokyo_afterschool_summoners live_a_hero original arknights zenless_zone_zero indie_virtual_youtuber utau dislyte mobile_legends:_bang_bang shoukan_yuusha_to_f-kei_kareshi
+?shigure_kai_ni_(kancolle) -> kantai_collection kantai_collection_(anime) gundam fate_(series) azur_lane lawson fate/grand_order little_red_riding_hood_(fairy_tale) pokemon dragon_quest
