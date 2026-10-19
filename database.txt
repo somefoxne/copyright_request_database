@@ -7733,3 +7733,4 @@
 ?yamaba_yume -> dolphin_wave atelier_(series) atelier_ryza atelier_ryza_1 marvelous azur_lane don_quijote_(store) high_school_dxd high_school_dxd_hero highspeed_etoile
 ?melville_(mahoiku) -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_restart mahou_shoujo_ikusei_keikaku_unmarked mahou_shoujo_ikusei_keikaku_limited mahou_shoujo_ikusei_keikaku_jokers mahou_shoujo_ikusei_keikaku_breakdown mahou_shoujo_ikusei_keikaku_f2p mahou_shoujo_ikusei_keikaku_white
 ?jax_(vtuber) -> indie_virtual_youtuber
+?dadao_(fire_emblem) -> fire_emblem
