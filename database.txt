@@ -7588,3 +7588,4 @@
 ?dalia_(sleak) -> original
 ?grape_(vtuber) -> indie_virtual_youtuber vinesauce original vshojo hololive hololive_english elden_ring phase_connect stellarversepro
 ?sirka_(sekaiju) -> sekaiju_no_meikyuu sekaiju_no_meikyuu_1 sekaiju_no_meikyuu_2 sekaiju_no_meikyuu_x persona sekaiju_no_meikyuu_3 sekaiju_no_meikyuu_4 shin_sekaiju_no_meikyuu atlus fire_emblem
+?krile_baldesion_(ff14) -> final_fantasy final_fantasy_xiv original final_fantasy_v famitsu pokemon magic:_the_gathering the_road_to_el_dorado pringles
