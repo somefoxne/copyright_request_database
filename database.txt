@@ -7907,3 +7907,4 @@
 ?natsuki_karin -> cevio synthesizer_v voiceroid vocaloid a.i._voice voicevox utau talkex onikko_hunter_tsuina-chan gynoid_talk
 ?kate_marsh -> life_is_strange_(series) life_is_strange_1
 ?tamai_remi -> girlfriend_(kari)
+?tabasuko_(mirolive) -> mirolive original goddess_of_victory:_nikke limnos
