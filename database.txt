@@ -7439,3 +7439,4 @@
 ?caiman_(dorohedoro) -> dorohedoro chainsaw_man jojo_no_kimyou_na_bouken kimetsu_no_yaiba pokemon one_piece boku_no_hero_academia neon_genesis_evangelion jujutsu_kaisen diamond_wa_kudakenai
 ?nikaidou_(dorohedoro) -> dorohedoro chainsaw_man jojo_no_kimyou_na_bouken fate_(series) fate/grand_order fullmetal_alchemist final_fantasy final_fantasy_vii marvel final_fantasy_vii_remake
 ?shirakai_kiri -> kagurabachi jujutsu_kaisen aizo_(king_gnu)
+?adell_(disgaea) -> disgaea makai_senki_disgaea_2 makai_senki_disgaea makai_senki_disgaea_3 makai_senki_disgaea_4 nippon_ichi disgaea_rpg phantom_kingdom la_pucelle_tactics marl_kingdom
