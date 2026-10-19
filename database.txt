@@ -7847,3 +7847,4 @@
 ?sneezy_(disney) -> snow_white_and_the_seven_dwarfs_(disney) the_7d k-on! tokyo_ghoul tokyo_ghoul:re alice_in_wonderland_(disney) after_school_lessons_for_unripe_apples
 ?maka_albarn -> soul_eater vocaloid pokemon fullmetal_alchemist fate_(series) persona rwby neon_genesis_evangelion code_geass
 ?todoroki_hajime_(black_aurora) -> hololive hololive_dev_is hololive_english snake_eyes_(hakos_baelz) bancho_(todoroki_hajime)
+?todoroki_hajime_(regloss_uniform) -> hololive hololive_dev_is hololive_english hololive_indonesia bang_dream! mario_(series) hololive_official_card_game bancho_(todoroki_hajime) pokemon
