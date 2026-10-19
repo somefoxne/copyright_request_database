@@ -7066,3 +7066,4 @@
 ?jiangyu_(girls'_frontline_2) -> blue_archive kung_fu_hustle the_art_of_war ip_man_(movie)
 ?type_97_(girls'_frontline) -> original metal_gear_(series) charlotte_(anime) fate_(series) hololive fate/apocrypha eromanga_sensei
 ?yuzu_(maid)_(blue_archive) -> blue_archive metal_gear_(series) bocchi_the_rock! metal_gear_solid comiket_104 blue_archive_the_animation lol_comics needy_girl_overdose comiket_106 internet_yamero
+?kei_(dirty_pair) -> dirty_pair urusei_yatsura sunrise_(company) gundam precure lyrical_nanoha mahou_shoujo_lyrical_nanoha_strikers futari_wa_precure kaze_no_tani_no_nausicaa out_(magazine)
