@@ -6752,3 +6752,4 @@
 ?minior_(green_core) -> pokemon pokemon_sun_and_moon pokemon_scarlet_and_violet pokemon_tcg pokemon_(anime) pokemon_black_and_white pokemon_masters_ex metroid pokemon_ruby/sapphire/emerald pokemon_(classic_anime)
 ?minior_(indigo_core) -> pokemon pokemon_scarlet_and_violet pokemon_sun_and_moon pokemon_(anime) pokemon_ruby/sapphire/emerald pokemon_tcg pokemon_black_and_white pokemon_masters_ex pokemon_omega_ruby_and_alpha_sapphire pokemon_(classic_anime)
 ?minior_(orange_core) -> pokemon pokemon_sun_and_moon pokemon_(anime) pokemon_scarlet_and_violet pokemon_(classic_anime) pokemon_the_series:_sun_&_moon pokemon_tcg pokemon_heroes:_latios_&_latias new_pokemon_snap pokemon_sword_and_shield
+?minior_(violet_core) -> pokemon pokemon_sun_and_moon pokemon_scarlet_and_violet pokemon_tcg original pokemon_(anime) pokemon_masters_ex pokemon_ruby/sapphire/emerald pokemon_sword_and_shield pokemon_black_and_white
