@@ -7036,3 +7036,4 @@
 ?juza_(phantasy_star) -> phantasy_star phantasy_star_iv
 ?pike_(phantasy_star) -> phantasy_star phantasy_star_iv
 ?raja_(phantasy_star) -> phantasy_star phantasy_star_iv
+?shess_tierney -> phantasy_star phantasy_star_iv
