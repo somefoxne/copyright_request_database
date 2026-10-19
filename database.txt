@@ -7742,3 +7742,4 @@
 ?yamada_(super_no_ura_de_yani_suu_futari) -> super_no_ura_de_yani_suu_futari blue_archive chainsaw_man original fate_(series) fate/grand_order honkai_(series) honkai:_star_rail project_moon limbus_company
 ?the_fifth_flavor_(infinity_nikki) -> nikki_(series) infinity_nikki
 ?symboli_kris_s_(casual)_(umamusume) -> umamusume real_life original nijisanji irasutoya la_la_land
+?amane_kanata_(lock_on) -> hololive hololive_english ai_kotoba_v_(vocaloid)
