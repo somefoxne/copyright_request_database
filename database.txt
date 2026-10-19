@@ -7135,3 +7135,4 @@
 ?ultima_(tensura) -> tensei_shitara_slime_datta_ken
 ?malachite_(steven_universe) -> steven_universe steven_universe_future
 ?tokime_(fuuto_tantei) -> kamen_rider kamen_rider_w fuuto_tantei dc_comics gundam batman_(series) umamusume final_fantasy final_fantasy_vii marvel
+?sammy_(blue_archive) -> blue_archive
