@@ -6967,3 +6967,4 @@
 ?tzveta_kooriskaya -> shy_(series) ninja_defenders:_cat_shinobi
 ?hanabusa_lisa -> vspo! nijisanji vcr_gta indie_virtual_youtuber xross_stars neo-porte apt._(rose_&_bruno_mars) valorant comiket_102 nijisanji_kr
 ?amitaliri -> shining_(series) shining_force_exa
+?faulklin -> shining_(series) shining_force_exa
