@@ -6901,3 +6901,4 @@
 ?arcane_caitlyn -> league_of_legends arcane:_league_of_legends avatar_legends the_legend_of_korra rwby adventure_time 2xko dc_comics the_owl_house she-ra_and_the_princesses_of_power
 ?caitlyn_(league) -> league_of_legends arcane:_league_of_legends 2xko avatar_legends adventure_time the_legend_of_korra rwby dc_comics the_owl_house she-ra_and_the_princesses_of_power
 ?nanaya_kiri -> tsukihime kagetsu_tooya melty_blood tsukihime_(remake) fate_(series) fate/grand_order fate/stay_night fate/hollow_ataraxia fate/prototype kara_no_kyoukai
+?venti_(archon)_(genshin_impact) -> genshin_impact honkai_(series) mihoyo honkai_impact_3rd pokemon fate_(series) fate/grand_order honkai:_star_rail bishoujo_senshi_sailor_moon honkai_gakuen
