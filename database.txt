@@ -7801,3 +7801,4 @@
 ?sanya_(nijisanji) -> nijisanji vampire_(vocaloid) identity_(vocaloid) indie_virtual_youtuber original nijisanji_en niginigi_nijitown blue_archive alien_stage girls_band_cry
 ?watson_amelia_(1st_costume) -> hololive hololive_english hololive_indonesia minecraft enigmatic_recollection among_us indie_virtual_youtuber nijisanji holostars reflect_(gawr_gura)
 ?yuimaru_(vtuber) -> indie_virtual_youtuber
+?amane_kanata_(1st_costume) -> hololive hololive_english hololive_indonesia minecraft nijisanji ryuu_ga_gotoku_(series) hololive_alternative hololive_dev_is hunter_x_hunter monster_hunter_(series)
