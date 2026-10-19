@@ -7713,3 +7713,4 @@
 ?kanami_(rally_queen)_(strinova) -> strinova
 ?mamiya_(arisugawa) -> sekai_metsubou_kyouyuu_gensou_mamiya
 ?anna_(troppart) -> original
+?android_21 -> dragon_ball dragon_ball_fighterz dragon_ball_z dragon_ball_super dragon_ball_gt boku_no_hero_academia pokemon dragon_ball_(classic) dragon_ball_heroes dragon_ball_super_broly
