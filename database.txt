@@ -7703,3 +7703,4 @@
 ?otomachi_una_(talkex) -> talkex vocaloid voiceroid a.i._voice cevio synthesizer_v utau voicevox gynoid_talk voicepeak
 ?nerissa_ravencroft_(nighttime_princess) -> hololive hololive_english hololive_official_card_game pokemon go-toubun_no_hanayome pokemon_pokopia
 ?white_heart_(neptunia) -> neptune_(series) choujigen_game_neptune four_goddesses_online:_cyber_dimension_neptune shin_jigen_game_neptune_vii kami_jigen_game_neptune_v azur_lane senran_kagura senran_nin_nin_ninja_taisen_neptune:_shoujo-tachi_no_kyouen nepnep_connect:_chaos_chanpuru choujigen_game_neptune_mk2
+?white_heart_(ultra_dimension) -> neptune_(series) kami_jigen_game_neptune_v original choujigen_game_neptune four_goddesses_online:_cyber_dimension_neptune chou_megami_shinkou_noire_gekishin_black_heart
