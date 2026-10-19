@@ -6677,3 +6677,4 @@
 ?carrie_kelley -> dc_comics batman_(series) ame-comi_girls batman:_the_dark_knight_returns
 ?helena_wayne -> dc_comics batman_(series)
 ?isabella_ortiz -> dc_comics batman_(series)
+?mary_wills -> dc_comics batman_(series)
