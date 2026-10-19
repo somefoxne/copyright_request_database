@@ -7043,3 +7043,4 @@
 ?vivid_bad_squad_miku -> vocaloid project_sekai kowareta_sekai_to_utaenai_miku teikoku_shoujo_(vocaloid) journey_(vocaloid) osomatsu_(series) osomatsu-san zozotown daybreak_frontline_(vocaloid) rad_dogs_(vocaloid)
 ?laru_(stella_sora) -> stella_sora
 ?koharu_rikka -> cevio synthesizer_v voiceroid vocaloid voicevox utau a.i._voice kamitsubaki_studio talkex coefont
+?lakiston -> cevio synthesizer_v voiceroid vocaloid kamitsubaki_studio gynoid_talk coefont jojo_no_kimyou_na_bouken utau a.i._voice
