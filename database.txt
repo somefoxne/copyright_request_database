@@ -7754,3 +7754,4 @@
 ?meghill_(infinity_nikki) -> nikki_(series) infinity_nikki la_la_land original mune:_guardian_of_the_moon
 ?abe_no_seimei_(fate) -> fate_(series) fate/grand_order
 ?daisen_(angel_in_the_devil's_mirror?)_(azur_lane) -> azur_lane
+?daisen_(azur_lane) -> azur_lane azur_lane:_slow_ahead world_of_warships umamusume
