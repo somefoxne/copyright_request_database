@@ -7221,3 +7221,4 @@
 ?saotome_(live_a_hero) -> live_a_hero one_piece boku_no_hero_academia tokyo_afterschool_summoners ace_attorney kekkai_sensen yasha_legends_of_the_demon_blade
 ?shimeow_(live_a_hero) -> live_a_hero one_piece boku_no_hero_academia tokyo_afterschool_summoners ace_attorney kekkai_sensen
 ?shiratori_(live_a_hero) -> live_a_hero
+?kresnik_(housamo) -> tokyo_afterschool_summoners live_a_hero boku_no_hero_academia gyee vampire_(vocaloid) fall_guys shoukan_yuusha_to_f-kei_kareshi autumn_yarofes:2023
