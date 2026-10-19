@@ -7104,3 +7104,4 @@
 ?nekamaru's_character -> original
 ?kusajishi_yachiru -> bleach bleach:_sennen_kessen-hen spy_x_family bleach:_brave_souls jujutsu_kaisen hololive hololive_english one_piece naruto_(series) bleach:_epilogue
 ?soga_no_tojiko -> touhou ten_desires touhou_(pc-98) undefined_fantastic_object embodiment_of_scarlet_devil perfect_cherry_blossom imperishable_night phantasmagoria_of_flower_view hopeless_masquerade mountain_of_faith
+?toyosatomimi_no_miko_(owl) -> touhou hopeless_masquerade kemono_friends journey_to_the_west greek_mythology circe_and_her_lovers_in_a_landscape
