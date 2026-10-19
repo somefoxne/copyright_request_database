@@ -6801,3 +6801,4 @@
 ?chikushoudou_pain -> naruto_(series) naruto_shippuuden naruto_(classic) naruto_shippuuden:_ultimate_ninja_blazing
 ?pain_(naruto) -> naruto_(series) naruto_shippuuden naruto_(classic) naruto_shippuuden:_ultimate_ninja_blazing one_piece bleach boruto_(series) fate_(series) fate/grand_order tengen_toppa_gurren_lagann
 ?akane_(bunny)_(blue_archive) -> blue_archive comiket_102 idolmaster rabbit_hole_(vocaloid) comiket_103 idolmaster_cinderella_girls goddess_of_victory:_nikke comiket_99 original hololive
+?agumon -> digimon digimon_adventure digimon_card_game digimon_story:_cyber_sleuth digimon_adventure_02 digimon_savers pokemon digimon_adventure_tri. digimon_tamers digimon_frontier
