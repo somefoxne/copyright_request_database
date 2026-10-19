@@ -7467,3 +7467,4 @@
 ?sage_(valorant) -> valorant indie_virtual_youtuber nijisanji apex_legends pokemon idolmaster idolmaster_cinderella_girls nijisanji_en starbucks riot_music
 ?rio_(christmas_dress)_(blue_archive) -> blue_archive comiket_108
 ?kamen_rider_wizard -> kamen_rider kamen_rider_wizard_(series) kamen_rider_dcd kamen_rider_ooo_(series) kamen_rider_ryuki_(series) kamen_rider_gaim_(series) kamen_rider_fourze_(series) kamen_rider_kiva_(series) kamen_rider_w kamen_rider_den-o_(series)
+?kamen_rider_wizard_(flame_style) -> kamen_rider kamen_rider_wizard_(series) kamen_rider_fourze_(series) kamen_rider_ooo_(series) kamen_rider_dcd kamen_rider_w kamen_rider_gaim_(series) kamen_rider_hibiki_(series) kamen_rider_ryuki_(series) kamen_rider_555
