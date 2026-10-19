@@ -7741,3 +7741,4 @@
 ?inui_sajuna -> sono_bisque_doll_wa_koi_wo_suru spy_x_family sousou_no_frieren lycoris_recoil original kantai_collection blue_archive pokemon fate_(series) genshin_impact
 ?yamada_(super_no_ura_de_yani_suu_futari) -> super_no_ura_de_yani_suu_futari blue_archive chainsaw_man original fate_(series) fate/grand_order honkai_(series) honkai:_star_rail project_moon limbus_company
 ?the_fifth_flavor_(infinity_nikki) -> nikki_(series) infinity_nikki
+?symboli_kris_s_(casual)_(umamusume) -> umamusume real_life original nijisanji irasutoya la_la_land
