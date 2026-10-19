@@ -6653,3 +6653,4 @@
 ?hippowdon_(male) -> pokemon pokemon_diamond/pearl/platinum pokemon_tcg original pokemon_(anime) pokemon_black_and_white pokemon_(classic_anime) pokemon_mystery_dungeon pokemon_firered_and_leafgreen pokemon_ruby/sapphire/emerald
 ?hydreigon -> pokemon pokemon_black_and_white pokemon_black_2_and_white_2 pokemon_sword_and_shield pokemon_(anime) pokemon_x_and_y pokemon_diamond/pearl/platinum pokemon_ruby/sapphire/emerald original pokemon_scarlet_and_violet
 ?kuraishi_ringo_(glassy0302) -> original pokemon pokemon_scarlet_and_violet pokemon_sword_and_shield pokemon_legends:_z-a pokemon_legends:_arceus pokemon_sun_and_moon pokemon_ultra_sun_and_ultra_moon pokemon_champions pokemon_brilliant_diamond_and_shining_pearl
+?mega_gyarados -> pokemon pokemon_x_and_y pokemon_(anime) pokemon_the_series:_sun_&_moon pokemon_legends:_z-a pokemon_(classic_anime) original pokemon_sun_and_moon pokemon_tcg
