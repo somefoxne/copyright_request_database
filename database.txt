@@ -7683,3 +7683,4 @@
 ?michele_(strinova) -> strinova original
 ?yugiri_(strinova) -> strinova
 ?tsukumo_sana -> hololive hololive_english hololive_indonesia holostars hololive_dev_is minecraft pokemon marvel original holostars_english
+?golisopod -> pokemon pokemon_sun_and_moon pokemon_sword_and_shield pokemon_(anime) pokemon_the_series:_sun_&_moon pokemon_black_and_white pokemon_diamond/pearl/platinum pokemon_x_and_y pokemon_ruby/sapphire/emerald pokemon_heartgold_and_soulsilver
