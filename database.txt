@@ -7003,3 +7003,4 @@
 ?rain_(precure) -> precure meitantei_precure! kamen_rider kamen_rider_w fuuto_tantei toei_company
 ?okunoda_miyoi -> touhou lotus_eaters touhou_(pc-98) touhou_lostword forbidden_scrollery foul_detective_satori reitaisai touhou_gensou_eclipse wild_and_horned_hermit touhou_sangetsusei
 ?jeanne_d'arc_alter_(flames_of_applause)_(fate) -> fate_(series) fate/grand_order pokemon
+?lugia -> pokemon pokemon_heartgold_and_soulsilver pokemon_(anime) pokemon_gold/silver/crystal pokemon_(classic_anime) pokemon_masters_ex pokemon_xd pokemon_the_movie_2000:_the_power_of_one pokemon_firered_and_leafgreen pokemon_red/green/blue/yellow
