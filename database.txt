@@ -6484,3 +6484,4 @@
 ?namae_shirezu -> utau vocaloid macne_series
 ?nyaonix -> indie_virtual_youtuber utau chobits vocaloid sanrio tamagotchi tamagotchi_plus fuwa_fuwa_cinnamoroll doko_demo_issyo little_twin_stars
 ?chitose_(senran_kagura) -> senran_kagura senran_kagura_new_wave girls_und_panzer
+?art_the_clown -> terrifier_(movie) spy_x_family it_(stephen_king) danganronpa_(series) chainsaw_man danganronpa:_trigger_happy_havoc touhou indie_virtual_youtuber ensemble_stars!
