@@ -7645,3 +7645,4 @@
 ?wiz_(konosuba) -> kono_subarashii_sekai_ni_shukufuku_wo! konosuba!_fantastic_days kono_subarashii_sekai_ni_shukufuku_wo!_kono_yokubukai_game_ni_shinpan_o! original phantom_of_the_kill fate_(series) genshin_impact fire_emblem re:zero_kara_hajimeru_isekai_seikatsu fire_emblem_fates
 ?aokumo_rin_(1st_costume) -> stellive
 ?kero_(cardcaptor_sakura) -> cardcaptor_sakura cardcaptor_sakura_clear_card_arc cardcaptor_sakura:_memory_key mahou_shoujo_madoka_magica bishoujo_senshi_sailor_moon mahou_shoujo_madoka_magica_(anime) original pokemon vocaloid sanrio
+?archer_(pokemon) -> pokemon pokemon_heartgold_and_soulsilver original pokemon_black_and_white pokemon_masters_ex pokemon_firered_and_leafgreen pokemon_red/green/blue/yellow pokemon_gold/silver/crystal pokemon_sun_and_moon
