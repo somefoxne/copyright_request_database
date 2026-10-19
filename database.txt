@@ -7023,3 +7023,4 @@
 ?taiga_maou -> muv-luv muv-luv_girls_garden
 ?glamrock_freddy -> mario_(series) sonic_(series) kirby_(series) animal_crossing adventure_time minecraft_youtube steven_universe the_amazing_world_of_gumball
 ?marilyn_monroe -> the_seven-year_itch persona persona_4 real_life original kantai_collection gentlemen_prefer_blondes touhou idolmaster
+?monroe_walk_(racehorse) -> real_life
