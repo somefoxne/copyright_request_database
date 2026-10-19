@@ -7505,3 +7505,4 @@
 ?joe_(sk8) -> sk8_the_infinity fire_emblem fate_(series) fate/grand_order zenless_zone_zero fire_emblem_heroes jujutsu_kaisen bleach dc_comics sanrio
 ?king_(tekken) -> tekken tekken_8 the_king_of_fighters street_fighter tekken_7 fatal_fury ryuuko_no_ken the_king_of_fighters_xiv guilty_gear darkstalkers
 ?rune_(fire_emblem) -> fire_emblem fire_emblem_heroes
+?chrysalis_(miraculous_ladybug) -> miraculous_ladybug
