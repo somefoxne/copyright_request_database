@@ -6425,3 +6425,4 @@
 ?jamila_(ultra_series) -> ultra_series ultraman_(1st_series) umamusume ultraseven_(series) ultra_q original kantai_collection hololive gundam k-on!
 ?lenna_charlotte_tycoon -> final_fantasy final_fantasy_v final_fantasy_vi final_fantasy_iv final_fantasy_vii final_fantasy_ix final_fantasy_x final_fantasy_viii dissidia_final_fantasy final_fantasy_ii
 ?namiki_meiko -> idolmaster idolmaster_cinderella_girls cinderella_girls_gekijou idolmaster_cinderella_girls_starlight_stage idolmaster_(classic) idolmaster_million_live! hololive gundam danganronpa_(series) street_fighter
+?torkoal -> pokemon pokemon_omega_ruby_and_alpha_sapphire pokemon_ruby/sapphire/emerald pokemon_sword_and_shield pokemon_(anime) pokemon_scarlet_and_violet pokemon_diamond/pearl/platinum pokemon_(classic_anime) pokemon_the_series:_ruby_and_sapphire pokemon_journeys
