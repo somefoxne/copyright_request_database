@@ -6884,3 +6884,4 @@
 ?watatsuki_no_toyohime -> touhou touhou_(pc-98) fossilized_wonders touhou_bougetsushou silent_sinner_in_blue imperishable_night embodiment_of_scarlet_devil perfect_cherry_blossom undefined_fantastic_object mountain_of_faith
 ?yu_mei-ren_(fate) -> fate_(series) fate/grand_order learning_with_manga!_fgo fate/stay_night tsukihime fate/grail_league hololive fate/empire_of_dirt original kantai_collection
 ?yu_mei-ren_(second_ascension)_(fate) -> fate_(series) fate/grand_order kantai_collection tsukihime original genshin_impact fate/extra kobayashi-san_chi_no_maidragon fate/grand_order_arcade comiket_97
+?albedo_(genshin_impact) -> genshin_impact mihoyo honkai_(series) m&g_stationery honkai:_star_rail honkai_impact_3rd sweets_paradise among_us original pokemon
