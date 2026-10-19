@@ -6503,3 +6503,4 @@
 ?trip_(dramatical_murder) -> dramatical_murder nitro+_chiral vocaloid final_fantasy final_fantasy_vii neon_genesis_evangelion kill_la_kill death_note chiikawa confessions_of_a_rotten_girl_(vocaloid)
 ?virus_(dramatical_murder) -> dramatical_murder kill_la_kill chiikawa nitro+_chiral
 ?jordan_(degrees_of_lewdity) -> degrees_of_lewdity kanpai_funk
+?jordan_(female)_(degrees_of_lewdity) -> degrees_of_lewdity
