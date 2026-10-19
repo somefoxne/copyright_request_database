@@ -7078,3 +7078,4 @@
 ?fujikura_uruka_(lust) -> phase_connect
 ?shu_(spring_feast)_(arknights) -> arknights ambience_synesthesia monster_hunter_(series) rush_hour
 ?dechan_(duel_masters) -> duel_masters
+?noin_(duel_masters) -> duel_masters romeo_to_cinderella_(vocaloid)
