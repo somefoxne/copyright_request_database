@@ -7310,3 +7310,4 @@
 ?magneto -> marvel x-men marvel_rivals spider-man_(series) avengers_(series) marvel_vs._capcom the_incredible_hulk_(series) deadpool_(series) fantastic_four street_fighter
 ?magneto_(master_of_slumber) -> marvel marvel_rivals x-men
 ?harusaruhi -> kamitsubaki_studio kamitsubaki_city_under_construction cevio kamitsubaki_city_ensemble sinsekai_record mesmerizer_(vocaloid) hololive hololive_english splatoon_(series) mario_(series)
+?seth_(housamo) -> tokyo_afterschool_summoners arknights fire_emblem zenless_zone_zero utdr_(toby_fox) fire_emblem_awakening undertale puzzle_&_dragons live_a_hero brand_new_animal
