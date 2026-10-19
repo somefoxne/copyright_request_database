@@ -6933,3 +6933,4 @@
 ?shiranui_(kancolle) -> kantai_collection comiket_86 fatal_fury the_king_of_fighters gundam aoki_hagane_no_arpeggio original choo_choo_train azur_lane touken_ranbu
 ?dyarikku_(vtuber) -> indie_virtual_youtuber vyugen vshojo hololive hololive_english starbucks original umamusume zenless_zone_zero nijisanji
 ?manaphy -> pokemon pokemon_(anime) pokemon_the_series:_ruby_and_sapphire pokemon_ranger_and_the_temple_of_the_sea pokemon_masters_ex pokemon_diamond/pearl/platinum pokemon_ruby/sapphire/emerald pokemon_(classic_anime) pokemon_tcg pokemon_black_and_white
+?ange_katrina_(qipao) -> nijisanji indie_virtual_youtuber bans lockheed_martin hololive vspo! sana_channel vampire_(vocaloid) moechakkafire cherry_pop_(vocaloid)
