@@ -6360,3 +6360,4 @@
 ?akizuki_maria -> shin_sekai_yori nyantype comiket_83
 ?jeffrey_(class_of_09) -> class_of_09 pokemon mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) tengen_toppa_gurren_lagann itazuraguma_no_gloomy green_day blink-182 soulja_boy_(musician)
 ?aerodactyl -> pokemon pokemon_red/green/blue/yellow pokemon_(anime) pokemon_heartgold_and_soulsilver pokemon_firered_and_leafgreen pokemon_(classic_anime) pokemon_adventures pokemon_x_and_y pokemon_tcg pokemon_diamond/pearl/platinum
+?dragonair -> pokemon pokemon_heartgold_and_soulsilver pokemon_(anime) pokemon_red/green/blue/yellow pokemon_firered_and_leafgreen pokemon_gold/silver/crystal pokemon_(classic_anime) pokemon_the_series:_sun_&_moon original pokemon_diamond/pearl/platinum
