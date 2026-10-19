@@ -6850,3 +6850,4 @@
 ?taihou_(enraptured_companion)_(azur_lane) -> azur_lane original fate_(series) fate/grand_order arknights high_school_dxd oshiro_project:re hololive umamusume re:zero_kara_hajimeru_isekai_seikatsu
 ?hoshikawa_sara_(e_star) -> nijisanji
 ?millie_parfait_(1st_costume) -> nijisanji nijisanji_en nijisanji_kr jollibee hololive twitter nijisanji_id pokemon fate_(series) idolmaster
+?toki_(armed)_(blue_archive) -> blue_archive neon_genesis_evangelion rebuild_of_evangelion devil_may_cry_(series) evangelion:_3.0+1.0_thrice_upon_a_time kemono_friends coca-cola devil_may_cry_3 hellsing hokuto_no_ken
