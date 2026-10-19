@@ -7810,3 +7810,4 @@
 ?takanashi_kiara_(perfume_swimsuit) -> hololive hololive_english perfume_(takanashi_kiara) chainsaw_man indie_virtual_youtuber bishoujo_senshi_sailor_moon hololive_dev_is ego_(takanashi_kiara)
 ?jett_(valorant) -> valorant apex_legends nijisanji real_life pokemon hololive love_live! splatoon_(series) overwatch vspo!
 ?fred_flintstone -> the_flintstones siivagunner looney_tunes utdr_(toby_fox) sonic_(series) pokemon marvel kirby_(series) dc_comics touhou
+?grand_dad -> siivagunner love_live! love_live!_school_idol_project mega_man_(series) mega_man_(classic) mega_man_2 mother_(series) lazytown mario_(series) real_life
