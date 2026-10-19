@@ -6372,3 +6372,4 @@
 ?mishima_erika -> digimon digimon_story:_cyber_sleuth digimon_card_game bandai hololive digimon_story:_time_stranger digimon_world_re:digitize the_lion_king digimon_survive
 ?rindou_akiho -> digimon digimon_world_re:digitize digimon_story:_cyber_sleuth digimon_card_game digimon_story:_time_stranger digimon_linkz digimon_world_re:digitize_decode digimon_xros_wars digimon_xros_wars:_toki_wo_kakeru_shounen_hunter-tachi
 ?phrolova_(wuthering_waves) -> wuthering_waves vocaloid shigatsu_wa_kimi_no_uso original punishing:_gray_raven ipstar kuro_games zenless_zone_zero genshin_impact chainsaw_man
+?misogi_(princess_connect!) -> princess_connect! cygames granblue_fantasy gochuumon_wa_usagi_desu_ka? genshin_impact shukusei!!_loli-kami_requiem idolmaster umamusume love_live! idolmaster_(classic)
