@@ -7949,3 +7949,4 @@
 ?tamaki_(doa) -> dead_or_alive dead_or_alive_xtreme dead_or_alive_xtreme_venus_vacation azur_lane dead_or_alive_6 venus_vacation_prism:_dead_or_alive_xtreme ninja_gaiden hololive hololive_english senran_kagura
 ?crimson_feather_(infinity_nikki) -> nikki_(series) infinity_nikki cardcaptor_sakura
 ?tsunose_kotone -> a.i._voice cevio voiceroid vocaloid utau synthesizer_v voicevox voicepeak blue_archive kamitsubaki_studio
+?enchanted_encounter_(infinity_nikki) -> nikki_(series) infinity_nikki cardcaptor_sakura stardew_valley
