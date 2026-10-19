@@ -7337,3 +7337,4 @@
 ?knuckles_the_echidna -> sonic_(series) sonic_the_hedgehog_(classic) sonic_boom_(series) sonic_(live_action) sonic_adventure_2 sega sonic_adventure sonic_frontiers the_murder_of_sonic_the_hedgehog mario_(series)
 ?neutral_chao -> sonic_(series) sonic_adventure sonic_adventure_2 sonic_the_hedgehog_(classic) original sonic_rush_adventure the_murder_of_sonic_the_hedgehog sonic_the_hedgehog_(idw) sonic_riders_(series) sonic_rush
 ?wisp_(sonic) -> sonic_(series) sonic_colors sonic_the_hedgehog_(classic) sonic_the_hedgehog_(idw) sonic_riders_(series) sonic_unleashed sonic_rush_adventure sonic_forces sonic_r the_murder_of_sonic_the_hedgehog
+?chikuma_(kancolle) -> kantai_collection mario_(series) aoki_hagane_no_arpeggio super_mario_bros._1 original love_live! kemono_friends love_live!_school_idol_project girls_und_panzer moomin
