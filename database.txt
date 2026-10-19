@@ -7607,3 +7607,4 @@
 ?bremerton_(scorching-hot_training)_(azur_lane) -> azur_lane umamusume azur_lane:_slow_ahead idolmaster idolmaster_cinderella_girls arknights uzaki-chan_wa_asobitai! instagram olympics wonderland_wars
 ?evil_momo_(matara_kan) -> indie_virtual_youtuber
 ?matara_kan_(evil) -> indie_virtual_youtuber densetsu.exe dragon_ball dragon_ball_z vshojo vinesauce gamer_supps
+?moroboshi_ataru -> urusei_yatsura ranma_1/2 inuyasha kyoukai_no_rinne maison_ikkoku original mao_(takahashi_rumiko) 1_pound_no_fukuin chainsaw_man real_life
