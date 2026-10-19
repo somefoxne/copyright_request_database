@@ -7417,3 +7417,4 @@
 ?inugami_korone_(sonikoro) -> hololive sonic_(series) sega sonic_the_hedgehog_(classic) sonic_(live_action) sonic_the_hedgehog_2_(movie) sonic_generations sonic_x_shadow_generations sonic_frontiers sonic_the_hedgehog_1
 ?grand_mother_silk_(hollow_knight) -> hollow_knight hollow_knight:_silksong neon_genesis_evangelion invincible_(series) the_end_of_evangelion walmart
 ?neneko_mashiro_(2nd_costume) -> stellive
+?jelly_hoshiumi_(winter_casual) -> phase_connect
