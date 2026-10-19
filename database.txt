@@ -6745,3 +6745,4 @@
 ?murata_himeko_(black_mamba) -> honkai_(series) honkai_impact_3rd mihoyo genshin_impact honkai_gakuen
 ?raiden_mei_(vast_ocean) -> honkai_(series) honkai_impact_3rd
 ?yae_sakura_(summer_dream) -> honkai_(series) honkai_impact_3rd genshin_impact mihoyo fate_(series) fate/grand_order starbucks
+?midori_(maid)_(blue_archive) -> blue_archive tamagotchi tamagotchi_(classic) comiket_106 bocchi_the_rock! comiket_104 metal_gear_(series) comiket_103 lol_comics mario_(series)
