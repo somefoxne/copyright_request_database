@@ -6740,3 +6740,4 @@
 ?lf_ye_lu -> indie_virtual_youtuber original
 ?the_weeknd -> blue_archive starboy_(the_weeknd) marvel real_life touhou pokemon after_hours_(the_weeknd) hololive vocaloid love_live!
 ?haru_(omurice_(roza4957)) -> original
+?bronya_zaychik_(school_swimsuit) -> honkai_(series) honkai_impact_3rd honkai:_star_rail
