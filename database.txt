@@ -6563,3 +6563,4 @@
 ?lasswell -> final_fantasy final_fantasy_brave_exvius final_fantasy_vii final_fantasy_vi final_fantasy_xi final_fantasy_ix final_fantasy_viii final_fantasy_x final_fantasy_iv final_fantasy_v
 ?nanami_mami -> kanojo_okarishimasu megami_magazine shiunji-ke_no_kodomotachi original pokemon taimanin_(series) little_red_riding_hood_(fairy_tale) under_night_in-birth taimanin_asagi
 ?sayu_(genshin_impact) -> genshin_impact honkai_(series) olympics horizon_(game) pokemon azur_lane honkai:_star_rail spy_x_family mihoyo
+?ukinami_yuzuha_(tanuki_in_broad_daylight) -> zenless_zone_zero honkai_(series) honkai_impact_3rd mihoyo ruri_no_houseki hololive umamusume honkai:_star_rail hololive_english carnival_phantasm
