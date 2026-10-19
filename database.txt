@@ -6400,3 +6400,4 @@
 ?crelly -> indie_virtual_youtuber vedal_ai minecraft socks_agency muppets mario_(series) vrchat spongebob_squarepants_(series)
 ?zentreya -> vshojo indie_virtual_youtuber socks_agency pokemon goddess_of_victory:_nikke mario_(series) original hololive zenless_zone_zero new_super_mario_bros._u_deluxe
 ?stigma_(shy) -> shy_(series)
+?houshou_marine_(businesswoman) -> hololive hololive_english hololive_indonesia hololive_dev_is indie_virtual_youtuber nijisanji mahou_shoujo_holowitch! chained_together bishoujo_muzai_pirates pokemon
