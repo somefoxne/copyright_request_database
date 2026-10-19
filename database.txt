@@ -6397,3 +6397,4 @@
 ?ash_lynx -> banana_fish yuri!!!_on_ice studio_mappa fire_emblem one_piece promare pokemon idolmaster idolmaster_cinderella_girls final_fantasy
 ?pagumon -> digimon digimon_card_game vocaloid digimon_adventure digimon_story:_cyber_sleuth digimon_world_re:digitize digimon_adventure_v-tamer_01 digimon_rearise digimon_next digimon_world_re:digitize_decode
 ?rizegreymon -> digimon digimon_savers original digimon_card_game digimon_next mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) monster_hunter_(series) atelier_(series) atelier_ryza
+?crelly -> indie_virtual_youtuber vedal_ai minecraft socks_agency muppets mario_(series) vrchat spongebob_squarepants_(series)
