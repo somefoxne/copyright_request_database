@@ -7333,3 +7333,4 @@
 ?classic_amy -> sonic_(series) sonic_the_hedgehog_(classic) sonic_cd sonic_superstars sonic_the_fighters sonic_frontiers sonic_the_comic sonic_triple_trouble sonic_adventure sonic_the_hedgehog_(2006)
 ?classic_knuckles -> sonic_(series) sonic_the_hedgehog_(classic) sonic_mania sonic_superstars sonic_the_fighters sonic_the_hedgehog_(ova) sonic_triple_trouble sonic_the_hedgehog_3 sonic_cd
 ?classic_tails -> sonic_(series) sonic_the_hedgehog_(classic) sonic_mania sonic_the_hedgehog_2 sonic_the_fighters sonic_the_hedgehog_(ova) sonic_superstars sonic_triple_trouble sega sonic_cd
+?cyan_wisp_(sonic) -> sonic_(series) sonic_colors sonic_the_hedgehog_(idw) sonic_the_hedgehog_(classic) sonic_the_hedgehog_(archie_comics) sonic_riders_(series) sonic_boom_(series) sonic_rush_adventure sonic_forces sonic_colors:_ultimate
