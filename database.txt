@@ -7014,3 +7014,4 @@
 ?kumonoue_yumemi -> yumemi_channel indie_virtual_youtuber
 ?wandjina_(fate) -> fate_(series) fate/grand_order fate/grand_order_arcade fate/zero fate/kaleid_liner_prisma_illya fate/samurai_remnant lord_el-melloi_ii_case_files the_adventures_of_lord_el-melloi_ii star_wars jurassic_world
 ?atla_(the_citadel) -> the_citadel beyond_citadel
+?proailurus_(kemono_friends) -> kemono_friends
