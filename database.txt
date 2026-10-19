@@ -7605,3 +7605,4 @@
 ?yabuki_kana -> idolmaster idolmaster_million_live! idolmaster_million_live!_theater_days idolmaster_(classic) idolmaster_movie idolmaster_cinderella_girls idolmaster_dearly_stars comiket_105 idolmaster_one_for_all idolmaster_side-m
 ?memoria_asmr -> indie_virtual_youtuber original
 ?bremerton_(scorching-hot_training)_(azur_lane) -> azur_lane umamusume azur_lane:_slow_ahead idolmaster idolmaster_cinderella_girls arknights uzaki-chan_wa_asobitai! instagram olympics wonderland_wars
+?evil_momo_(matara_kan) -> indie_virtual_youtuber
