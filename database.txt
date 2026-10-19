@@ -7818,3 +7818,4 @@
 ?yarino_mana -> arakure_ojou-sama_wa_monmon_shiteiru
 ?urotsuki -> yume_2kki yume_nikki .flow yume_nisshi lcddem ib_(kouri) answered_prayers omori mad_father ultra_violet_(game)
 ?reaper_(overwatch) -> overwatch touhou mario_(series) sen_to_chihiro_no_kamikakushi marvel pokemon love_live! love_live!_school_idol_project warcraft world_of_warcraft
+?hanazono_yumi -> mahou_no_idol_pastel_yumi mahou_no_yousei_persia studio_pierrot dream_hunter_rem mahou_no_tenshi_creamy_mami mahou_no_star_magical_emi fancy_lala mahou_no_princess_minky_momo mahou_tsukai_sally bishoujo_senshi_sailor_moon
