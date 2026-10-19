@@ -6351,3 +6351,4 @@
 ?yae_sakura_(gyakushinn_miko) -> honkai_(series) honkai_impact_3rd genshin_impact mihoyo honkai_gakuen honkai:_star_rail comiket_96 arknights dragon_ball
 ?starscourge_radahn -> elden_ring elden_ring:_shadow_of_the_erdtree original hololive hololive_english dark_souls_(series) sousou_no_frieren umamusume kirby_(series) dark_souls_i
 ?bora_(dragon_ball) -> dragon_ball dragon_ball_(classic) dragon_ball_z dr._slump dragon_ball_super dragon_ball_gt dragon_ball_fighterz dragon_ball_super_broly
+?upa_(dragon_ball) -> dragon_ball dragon_ball_(classic) dragon_ball_z dr._slump dragon_quest dragon_ball_super dragon_ball_gt dragon_ball_fighterz dragon_ball_super_broly
