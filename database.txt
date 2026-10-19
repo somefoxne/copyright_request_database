@@ -6469,3 +6469,4 @@
 ?hoshimi_junna -> shoujo_kageki_revue_starlight shoujo_kageki_revue_starlight_-re_live- phantom_of_the_opera love_live! love_live!_sunshine!! bang_dream! real_life umamusume honkai_(series) project_sekai
 ?eleanor_(leims) -> original the_beatles
 ?kuriki_ronaldo -> devil_survivor_(series) devil_survivor_2
+?koizumi_mahiru -> danganronpa_(series) danganronpa_2:_goodbye_despair danganronpa:_trigger_happy_havoc danganronpa_v3:_killing_harmony danganronpa_another_episode:_ultra_despair_girls danganronpa/zero danganronpa_kirigiri
