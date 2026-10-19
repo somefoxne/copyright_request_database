@@ -6777,3 +6777,4 @@
 ?morrigan_(badcolor) -> goblin_nest
 ?nara_shikamaru -> naruto_(series) naruto_(classic) naruto_shippuuden boruto_(series) boruto:_naruto_next_generations naruto:_the_last naruto_shippuuden:_ultimate_ninja_blazing hentai_key boruto:_naruto_the_movie danganronpa_(series)
 ?khaos_(ketron) -> original
+?anno_syura -> duel_masters dragon_musume_ni_naritakunai! monitoring_(vocaloid)
