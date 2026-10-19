@@ -6993,3 +6993,4 @@
 ?iota_(kagejitsu) -> kage_no_jitsuryokusha_ni_naritakute! kage_no_jitsuryokusha_ni_naritakute!_master_of_garden
 ?nu_(kagejitsu) -> kage_no_jitsuryokusha_ni_naritakute! kage_no_jitsuryokusha_ni_naritakute!_master_of_garden sin:_nanatsu_no_taizai
 ?fujimine_(madan_no_ichi) -> madan_no_ichi
+?wally_(pokemon) -> pokemon pokemon_omega_ruby_and_alpha_sapphire pokemon_ruby/sapphire/emerald pokemon_diamond/pearl/platinum pokemon_black_and_white pokemon_heartgold_and_soulsilver pokemon_firered_and_leafgreen pokemon_masters_ex pokemon_adventures pokemon_gold/silver/crystal
