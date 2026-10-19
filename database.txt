@@ -7184,3 +7184,4 @@
 ?ikamusume -> shinryaku!_ikamusume splatoon_(series) splatoon_1 toaru_majutsu_no_index touhou vocaloid mahou_shoujo_madoka_magica precure mahou_shoujo_madoka_magica_(anime) k-on!
 ?corneria_(atelier) -> atelier_(series) atelier_sophie atelier_lydie_&_suelle atelier_resleriana atelier_ryza atelier_ryza_1 comiket_106 atelier_sophie_2 atelier_marie pokemon
 ?plachta -> atelier_(series) atelier_sophie atelier_sophie_2 atelier_lydie_&_suelle atelier_firis atelier_resleriana atelier_ryza atelier_ryza_1 atelier_questboard atelier_ryza_2
+?kikirara_vivi_(1st_costume) -> hololive hololive_dev_is hololive_english pokemon minecraft hololive_official_card_game hololive_indonesia fg_roadster_(hololive) nijisanji sousou_no_frieren
