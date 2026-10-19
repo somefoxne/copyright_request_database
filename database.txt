@@ -6779,3 +6779,4 @@
 ?khaos_(ketron) -> original
 ?anno_syura -> duel_masters dragon_musume_ni_naritakunai! monitoring_(vocaloid)
 ?selene_gallio -> marvel x-men dc_comics batman_(series) marvel_snap
+?algerie_(the_strict_maid_isn't_so_strict)_(azur_lane) -> azur_lane
