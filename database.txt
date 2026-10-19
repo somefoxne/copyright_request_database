@@ -6943,3 +6943,4 @@
 ?ultraman_teo -> ultra_series ultraman_teo_(series) ultraman_arc_(series) ultraman_omega_(series) ultraman_blazar_(series) ultraman_(1st_series) umamusume ultraseven_(series) ultraman_80_(series) precure
 ?yuniiho_(vtuber) -> vyugen indie_virtual_youtuber original vshojo mario_(series) mario_kart vchiban twitch.tv mario_kart_8
 ?ultraman_max -> ultra_series ultraman_max_(series) ultraman_mebius_(series) ultraman_nexus_(series) ultra_galaxy_(series) ultraman_ginga_(series) ultraman_ginga_s ultraman_tiga_(series) ultraman_gaia_(series) ultraman_dyna_(series)
+?takamura_yuu -> imasara_desu_ga_osananajimi_wo_suki_ni_natte_shimaimashita
