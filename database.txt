@@ -6823,3 +6823,4 @@
 ?gloomy_bear -> itazuraguma_no_gloomy original nitroplus vocaloid sanrio my_melody_(series) hello_kitty san-x my_little_pony rilakkuma_(series)
 ?dodoco_(genshin_impact) -> genshin_impact honkai_(series) mihoyo honkai_impact_3rd honkai:_star_rail spy_x_family little_red_riding_hood_(fairy_tale) arknights duolingo pokemon
 ?jumpy_dumpty -> genshin_impact mihoyo honkai_(series) honkai_impact_3rd spy_x_family blue_archive honkai:_star_rail idolmaster gochuumon_wa_usagi_desu_ka? azur_lane
+?itsuka_kotori -> date_a_live azur_lane date_a_live:_spirit_pledge ore_no_imouto_ga_konna_ni_kawaii_wake_ga_nai gekijouban_date_a_live:_mayuri_judgement neptune_(series) sanrio fantasia_re:build go-toubun_no_hanayome punishing:_gray_raven
