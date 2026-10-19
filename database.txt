@@ -7266,3 +7266,4 @@
 ?juna_(sim0n404) -> original
 ?denpafish_(vtuber) -> indie_virtual_youtuber vallure
 ?kiana_kaslana_(herrscher_of_the_void) -> honkai_(series) honkai_impact_3rd mihoyo genshin_impact honkai:_star_rail honkai_gakuen zenless_zone_zero blue_archive fate_(series) fate/grand_order
+?freckles-chan_(aymusk) -> original little_red_riding_hood_(fairy_tale) vocaloid dragon_quest dragon_quest_iii disneyland
