@@ -6566,3 +6566,4 @@
 ?ukinami_yuzuha_(tanuki_in_broad_daylight) -> zenless_zone_zero honkai_(series) honkai_impact_3rd mihoyo ruri_no_houseki hololive umamusume honkai:_star_rail hololive_english carnival_phantasm
 ?cinderace -> pokemon pokemon_(anime) pokemon_journeys pokemon_sword_and_shield pokemon_unite original pokemon_the_series:_ruby_and_sapphire pokemon_(classic_anime) pokemon_the_series:_sun_&_moon pokemon_the_series:_xy
 ?dubwool -> pokemon pokemon_sword_and_shield original pokemon_(anime) voiceroid pokemon_scarlet_and_violet pokemon_diamond/pearl/platinum pokemon_journeys pokemon_sun_and_moon pokemon_(classic_anime)
+?victor_(pokemon) -> pokemon pokemon_sword_and_shield pokemon_x_and_y pokemon_sun_and_moon pokemon_black_and_white pokemon_diamond/pearl/platinum pokemon_heartgold_and_soulsilver pokemon_black_2_and_white_2 pokemon_masters_ex pokemon_firered_and_leafgreen
