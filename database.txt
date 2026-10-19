@@ -6332,3 +6332,4 @@
 ?neo_universe_(universe-naut)_(umamusume) -> umamusume pokemon indie_virtual_youtuber gundam real_life turn_a_gundam super_robot_wars bloodborne comiket_102 umamusume:_road_to_the_top
 ?cheval_grand_(casual)_(umamusume) -> umamusume super_gt yokohama_dena_baystars original pokemon kemono_friends real_life lycoris_recoil oshi_no_ko
 ?vivlos_(casual)_(umamusume) -> umamusume super_gt yokohama_dena_baystars original pokemon kemono_friends lycoris_recoil oshi_no_ko umamusumeshi
+?mihono_bourbon_(casual)_(umamusume) -> umamusume panasonic_corporation original kantai_collection bocchi_the_rock! bemani slam_dunk_(series) umamusume:_beginning_of_a_new_era dance_dance_revolution papico_(ice_cream)
