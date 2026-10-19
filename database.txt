@@ -6900,3 +6900,4 @@
 ?hakos_baelz_(steel_rose) -> hololive hololive_english hololive_grand_theft_auto hololive_official_card_game hololive_dev_is the_game_of_sisyphus indie_virtual_youtuber one_piece persona persona_5
 ?arcane_caitlyn -> league_of_legends arcane:_league_of_legends avatar_legends the_legend_of_korra rwby adventure_time 2xko dc_comics the_owl_house she-ra_and_the_princesses_of_power
 ?caitlyn_(league) -> league_of_legends arcane:_league_of_legends 2xko avatar_legends adventure_time the_legend_of_korra rwby dc_comics the_owl_house she-ra_and_the_princesses_of_power
+?nanaya_kiri -> tsukihime kagetsu_tooya melty_blood tsukihime_(remake) fate_(series) fate/grand_order fate/stay_night fate/hollow_ataraxia fate/prototype kara_no_kyoukai
