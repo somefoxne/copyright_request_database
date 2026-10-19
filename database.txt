@@ -7034,3 +7034,4 @@
 ?forren -> phantasy_star phantasy_star_iv sega phantasy_star_online phantasy_star_universe phantasy_star_iii phantasy_star_ii phantasy_star_i phantasy_star_online_episode_iii
 ?hahn_murray -> phantasy_star phantasy_star_iv
 ?juza_(phantasy_star) -> phantasy_star phantasy_star_iv
+?pike_(phantasy_star) -> phantasy_star phantasy_star_iv
