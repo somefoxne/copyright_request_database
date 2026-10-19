@@ -7316,3 +7316,4 @@
 ?hozuki_kaede -> onii-chan_wa_oshimai! original comiket_104 monopoly umamusume bocchi_the_rock! darkstalkers urusei_yatsura little_red_riding_hood_(fairy_tale)
 ?murosaki_miyo -> onii-chan_wa_oshimai! fate_(series) fate/kaleid_liner_prisma_illya original gundam to_heart_(series) little_red_riding_hood_(fairy_tale) to_heart kantai_collection
 ?oka_asahi -> onii-chan_wa_oshimai! original little_red_riding_hood_(fairy_tale) umamusume sanrio to_heart_(series) to_heart comiket_102 sekai_seifuku:_bouryaku_no_zvezda
+?awayuki_hiiro -> anemoi summer_pockets key_(company)
