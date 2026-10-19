@@ -7134,3 +7134,4 @@
 ?anton_ivanov -> zenless_zone_zero kill_la_kill looney_tunes jojo_no_kimyou_na_bouken persona guilty_gear bleach persona_5 tengen_toppa_gurren_lagann battle_tendency
 ?ultima_(tensura) -> tensei_shitara_slime_datta_ken
 ?malachite_(steven_universe) -> steven_universe steven_universe_future
+?tokime_(fuuto_tantei) -> kamen_rider kamen_rider_w fuuto_tantei dc_comics gundam batman_(series) umamusume final_fantasy final_fantasy_vii marvel
