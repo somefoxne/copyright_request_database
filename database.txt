@@ -7086,3 +7086,4 @@
 ?magneton -> pokemon pokemon_heartgold_and_soulsilver pokemon_red/green/blue/yellow pokemon_(anime) pokemon_ruby/sapphire/emerald pokemon_gold/silver/crystal pokemon_(classic_anime) pokemon_diamond/pearl/platinum pokemon_black_2_and_white_2 pokemon_x_and_y
 ?yatadera_narumi -> touhou hidden_star_in_four_seasons cookie_(touhou) touhou_(pc-98) touhou_lostword perfect_cherry_blossom legacy_of_lunatic_kingdom touhou_bougetsushou curiosities_of_lotus_asia ten_desires
 ?goku_black -> dragon_ball dragon_ball_super dragon_ball_heroes dragon_ball_z dragon_ball_gt dragon_ball:_sparking! dragon_ball_super_super_hero dragon_ball_super_broly dragon_ball_(classic) dragon_ball_fighterz
+?epiphaneia_(fate's_chosen_star)_(umamusume) -> umamusume real_life original yu-gi-oh! pakatube peak_(game)
