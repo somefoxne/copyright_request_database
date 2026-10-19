@@ -6500,3 +6500,4 @@
 ?gojo_tomoe -> dairoku_ryouhei
 ?iliana_ximinus -> fire_emblem
 ?seragaki_aoba -> dramatical_murder nitro+_chiral togainu_no_chi sweet_pool lamento slow_damage nitroplus vocaloid mahou_shoujo_madoka_magica microsoft_windows
+?trip_(dramatical_murder) -> dramatical_murder nitro+_chiral vocaloid final_fantasy final_fantasy_vii neon_genesis_evangelion kill_la_kill death_note chiikawa confessions_of_a_rotten_girl_(vocaloid)
