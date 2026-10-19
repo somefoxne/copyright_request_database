@@ -6887,3 +6887,4 @@
 ?albedo_(genshin_impact) -> genshin_impact mihoyo honkai_(series) m&g_stationery honkai:_star_rail honkai_impact_3rd sweets_paradise among_us original pokemon
 ?ippongi_nao -> choujun!_choujou_senpai boku_no_hero_academia samon-kun_wa_summoner
 ?fujinami_(kancolle) -> kantai_collection hokkaido_nippon-ham_fighters real_life comiket_100 original gundam kamen_rider kamen_rider_ex-aid_(series) kurenai_no_buta peach_(airline)
+?lunasa_prismriver -> touhou perfect_cherry_blossom touhou_(pc-98) phantasmagoria_of_flower_view embodiment_of_scarlet_devil imperishable_night mountain_of_faith immaterial_and_missing_power touhou_lostword undefined_fantastic_object
