@@ -6978,3 +6978,4 @@
 ?gengetsu_(touhou) -> touhou touhou_(pc-98) lotus_land_story story_of_eastern_wonderland mystic_square highly_responsive_to_prayers phantasmagoria_of_dim.dream seihou embodiment_of_scarlet_devil perfect_cherry_blossom
 ?danua -> granblue_fantasy shingeki_no_bahamut kantai_collection cygames fate_(series) fate/extra code_geass dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru_darou_ka dagashi_kashi comiket_93
 ?essex_(retrofit)_(azur_lane) -> azur_lane
+?medion -> shining_(series) shining_force_iii
