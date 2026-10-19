@@ -6859,3 +6859,4 @@
 ?ratna_petit_(5th_costume) -> nijisanji vspo!
 ?igarashi_rika_(1st_costume) -> nijisanji nijisanji_en nijisanji_koshien hololive nijisanji_kr nijisanji_id pokemon idolmaster hololive_english
 ?nakano_itsuki -> go-toubun_no_hanayome megami_magazine re:zero_kara_hajimeru_isekai_seikatsu pokemon dragon_ball kimetsu_no_yaiba animedia amagami-san_chi_no_enmusubi japan_railways
+?red_hood_(black_souls) -> black_souls black_souls_2 arknights dead_red_hood original touhou project_moon arknights:_endfield lobotomy_corporation
