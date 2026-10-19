@@ -6844,3 +6844,4 @@
 ?kikuchi_midori -> sekai_metsubou_kyouyuu_gensou_mamiya sanrio kero_kero_keroppi
 ?hakase_fuyuki_(10th_costume) -> nijisanji nijisanji_en nijisanji_kr nijisanji_id
 ?koshimizu_sachiko -> idolmaster idolmaster_cinderella_girls idolmaster_cinderella_girls_starlight_stage cinderella_girls_gekijou granblue_fantasy idolmaster_(classic) downtown_no_gaki_no_tsukai_ya_arahende!! pokemon idolmaster_million_live! touhou
+?otonashi_kotori -> idolmaster idolmaster_(classic) idolmaster_1 idolmaster_million_live! idolmaster_dearly_stars idolmaster_million_live!_theater_days idolmaster_cinderella_girls idolmaster_2 idolmaster_live_for_you! puchimasu!
