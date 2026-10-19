@@ -7737,3 +7737,4 @@
 ?amadea_wolfa -> dolphin_wave azur_lane little_red_riding_hood_(fairy_tale) don_quijote_(store)
 ?kirahoshi_kanna -> dolphin_wave azur_lane marvelous don_quijote_(store) gundam high_school_dxd gundam_seed gundam_seed_destiny little_red_riding_hood_(fairy_tale) kage_no_jitsuryokusha_ni_naritakute!
 ?crelly_(mold_mother) -> indie_virtual_youtuber socks_agency
+?tang_keke -> love_live! love_live!_superstar!! love_live!_nijigasaki_high_school_idol_club tiny_stars love_live!_school_idol_project hajimari_wa_kimi_no_sora love_live!_sunshine!! nonfiction!!_(love_live!) love_live!_hasu_no_sora_jogakuin_school_idol_club zettaiteki_lover
