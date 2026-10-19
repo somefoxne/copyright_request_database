@@ -7217,3 +7217,4 @@
 ?genzuki_toujirou_(5th_costume) -> nijisanji nijisanji_en ado_(utaite) nijisanji_kr nijisanji_id eien_no_akuru_hi
 ?ibrahim_(1st_costume)_(nijisanji) -> nijisanji apex_legends nanashi_inc. vspo! nijisanji_kr crazy_raccoon pokemon nijisanji_en nijisanji_id neo-porte
 ?kuzuha_(1st_costume)_(nijisanji) -> nijisanji crazy_raccoon vspo! hololive pokemon valorant detonation_focusme nijisanji_en apex_legends minecraft
+?umise_yotsuha_(1st_costume) -> nijisanji nijisanji_en nijisanji_kr nijisanji_id project_sekai minecraft from_tokyo_(vocaloid)
