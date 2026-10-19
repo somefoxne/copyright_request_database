@@ -7977,3 +7977,4 @@
 ?charlotte_veil -> indie_virtual_youtuber
 ?coralie_6626_planck_(behold!_fate-defying_dragon) -> honkai_(series) honkai_impact_3rd fate_(series) genshin_impact honkai:_star_rail fate/stay_night hunter_x_hunter mihoyo
 ?erdos_helia_(planar_armament:_warped_spacetime) -> honkai_(series) honkai_impact_3rd honkai:_star_rail fate_(series) genshin_impact fate/stay_night hunter_x_hunter mihoyo
+?magolor -> kirby_(series) kirby_star_allies magolor_epilogue kirby_and_the_forgotten_land kirby:_planet_robobot kirby_64 kirby:_triple_deluxe
