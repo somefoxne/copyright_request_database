@@ -6999,3 +6999,4 @@
 ?verdandi_(fate) -> fate_(series) fate/grand_order blue_archive idolmaster idolmaster_cinderella_girls idolmaster_shiny_colors gakuen_idolmaster nee_icchau_yo_(idolmaster)
 ?miyamoto_musashi_(third_ascension)_(fate) -> fate_(series) fate/grand_order fate/stay_night pixiv_fate/grand_order_contest_2 koha-ace fate/extra kantai_collection fate/samurai_remnant fate/apocrypha granblue_fantasy
 ?alan_(precure) -> precure meitantei_precure!
+?karin_(precure) -> precure meitantei_precure!
