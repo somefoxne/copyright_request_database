@@ -6959,3 +6959,4 @@
 ?arcueid_brunestud_(clad_in_glacier) -> tsukihime tsukihime_(remake) fate_(series) fate/grand_order umamusume final_fantasy monster_hunter_(series) mahou_tsukai_no_yoru monster_hunter_rise haou_airen
 ?dryu -> shining_(series) shining_force_neo
 ?max_(shining_force_neo) -> shining_(series) shining_force_neo
+?reina_(fields_of_mistria) -> fields_of_mistria
