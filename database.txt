@@ -7354,3 +7354,4 @@
 ?bikini_girl_(gta_v) -> grand_theft_auto grand_theft_auto_v grand_theft_auto_vi sousou_no_frieren zenless_zone_zero persona marvel k-on! persona_5 x-men
 ?lucia_caminos -> grand_theft_auto grand_theft_auto_vi grand_theft_auto_v final_fantasy final_fantasy_vii sousou_no_frieren final_fantasy_vii_remake sonic_(series) instagram smiling_friends
 ?black_panther_(shuri) -> marvel marvel_tokon:_fighting_souls black_panther_(series) x-men deadpool_(series) spider-man_(series) avengers_(series) captain_america_(series) fantastic_four the_incredible_hulk_(series)
+?steve_rogers -> marvel avengers_(series) captain_america_(series) the_incredible_hulk_(series) captain_america:_the_winter_soldier x-men spider-man_(series) captain_america:_the_first_avenger avengers:_endgame marvel_vs._capcom
