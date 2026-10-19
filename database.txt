@@ -6664,3 +6664,4 @@
 ?z3_max_schultz_(swimsuit)_(kancolle) -> kantai_collection re:zero_kara_hajimeru_isekai_seikatsu azur_lane comiket_108 world_of_warships peach_(airline) fate_(series) fate/grand_order idolmaster idolmaster_cinderella_girls
 ?viktoriya_ivanovna_serebryakov -> youjo_senki isekai_quartet re:zero_kara_hajimeru_isekai_seikatsu kono_subarashii_sekai_ni_shukufuku_wo! overlord_(maruyama) girls_und_panzer tate_no_yuusha_no_nariagari moomin rwby made_in_abyss
 ?raboot -> pokemon pokemon_(anime) pokemon_journeys pokemon_sword_and_shield pokemon_unite pokemon_the_series:_sun_&_moon pokemon_(classic_anime) pokemon_tcg pokemon_sun_and_moon pokemon_the_series:_xy
+?scorbunny -> pokemon pokemon_sword_and_shield pokemon_(anime) pokemon_journeys pokemon_sun_and_moon pokemon_x_and_y pokemon_diamond/pearl/platinum pokemon_black_and_white pokemon_scarlet_and_violet pokemon_black_2_and_white_2
