@@ -7390,3 +7390,4 @@
 ?kirisame_marisa_(pc-98) -> touhou touhou_(pc-98) story_of_eastern_wonderland phantasmagoria_of_dim.dream lotus_land_story mystic_square gantz highly_responsive_to_prayers seihou embodiment_of_scarlet_devil
 ?okazaki_yumemi -> touhou touhou_(pc-98) phantasmagoria_of_dim.dream story_of_eastern_wonderland lotus_land_story highly_responsive_to_prayers mystic_square seihou original embodiment_of_scarlet_devil
 ?kamen_rider_black -> kamen_rider kamen_rider_black_(series) kamen_rider_black_rx_(series) kamen_rider_dcd kamen_rider_amazon_(series) kamen_rider_(1st_series) kamen_rider_stronger_(series) kamen_rider_x_(series) kamen_rider_v3_(series) kamen_rider_super-1_(series)
+?sonic_the_werehog -> sonic_(series) sonic_unleashed sonic_the_hedgehog_(classic) sonic_and_the_black_knight sonic_and_the_secret_rings sonic_adventure sonic_adventure_2 sonic_riders_(series) sonic_frontiers sonic_riders
