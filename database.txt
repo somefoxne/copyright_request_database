@@ -6637,3 +6637,4 @@
 ?heracross -> pokemon pokemon_(anime) pokemon_(classic_anime) pokemon_scarlet_and_violet original pokemon_journeys pokemon_heartgold_and_soulsilver pokemon_gold/silver/crystal pokemon_diamond/pearl/platinum pokemon_legends:_z-a
 ?pinsir -> pokemon pokemon_(anime) pokemon_red/green/blue/yellow pokemon_(classic_anime) pokemon_sun_and_moon pokemon_journeys love_live! love_live!_school_idol_project pokemon_x_and_y pokemon_firered_and_leafgreen
 ?reimei_mira -> mekpark hololive hololive_english
+?ranoa_prostitute_(mushoku_tensei) -> mushoku_tensei
