@@ -6941,3 +6941,4 @@
 ?kai_(ninjago) -> ninjago ninjago:_dragons_rising the_lego_ninjago_movie fortnite the_lego_group bionicle death_battle project_moon boku_no_hero_academia limbus_company
 ?air_groove_(seaside_bloom)_(umamusume) -> umamusume umamusume:_cinderella_gray
 ?ultraman_teo -> ultra_series ultraman_teo_(series) ultraman_arc_(series) ultraman_omega_(series) ultraman_blazar_(series) ultraman_(1st_series) umamusume ultraseven_(series) ultraman_80_(series) precure
+?yuniiho_(vtuber) -> vyugen indie_virtual_youtuber original vshojo mario_(series) mario_kart vchiban twitch.tv mario_kart_8
