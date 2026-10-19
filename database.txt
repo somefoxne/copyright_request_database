@@ -7985,3 +7985,4 @@
 ?zani_(downtown_repose)_(wuthering_waves) -> wuthering_waves zenless_zone_zero
 ?akutagawa_jiroh -> tennis_no_ouji-sama pokemon gundam precure street_fighter pokemon_(anime) guilty_gear tales_of_(series) kill_la_kill one-punch_man
 ?annie_(shining_nikki) -> nikki_(series) shining_nikki
+?bloom_poetry_(shining_nikki) -> nikki_(series) shining_nikki infinity_nikki miracle_nikki nikki_up2u2:_world_traveller nikki_up2u cardcaptor_sakura honkai_(series) honkai_impact_3rd kimetsu_no_yaiba
