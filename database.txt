@@ -6691,3 +6691,4 @@
 ?green_(deltarune) -> utdr_(toby_fox) deltarune undertale vocaloid mario_(series) spongebob_squarepants_(series) invincible_(series) smiling_friends kung_fu_panda futatsu_no_mokuba_(vocaloid)
 ?kiyosumi_lyra -> mekpark hololive hololive_english pukey_goddess_shot_trick
 ?yoinagi_neon -> mekpark hololive hololive_english
+?raticate -> pokemon pokemon_red/green/blue/yellow pokemon_adventures pokemon_firered_and_leafgreen pokemon_red/green/blue/yellow_(prototype) pokemon_(anime) pokemon_heartgold_and_soulsilver pokemon_(classic_anime) pokemon_gold/silver/crystal pokemon_diamond/pearl/platinum
