@@ -7509,3 +7509,4 @@
 ?thelema_nutriscu -> honkai_(series) honkai_impact_3rd honkai:_star_rail winnie_the_pooh jojo_no_kimyou_na_bouken chainsaw_man stardust_crusaders sanrio
 ?daffodill_(nte) -> neverness_to_everness grand_theft_auto grand_theft_auto_v
 ?mew_ichigo -> tokyo_mew_mew tokyo_mew_mew_new bishoujo_senshi_sailor_moon precure cardcaptor_sakura mermaid_melody_pichi_pichi_pitch ojamajo_doremi shugo_chara! mahou_shoujo_madoka_magica futari_wa_precure
+?momomiya_ichigo -> tokyo_mew_mew tokyo_mew_mew_new bishoujo_senshi_sailor_moon cardcaptor_sakura precure mermaid_melody_pichi_pichi_pitch ojamajo_doremi shugo_chara! mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime)
