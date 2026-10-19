@@ -7667,3 +7667,4 @@
 ?shikuru -> samurai_spirits
 ?elena_(trickcal) -> trickcal bokete blue_archive death_note the_creation_of_adam pink_floyd dark_side_of_the_moon
 ?kanami_(azure_specter)_(strinova) -> strinova
+?kanami_(strinova) -> strinova genshin_impact azur_lane roco_kingdom roco_kingdom:_world
