@@ -6771,3 +6771,4 @@
 ?hyper_sonic -> sonic_(series) sonic_the_hedgehog_(classic) dragon_ball dragon_ball_super sonic_the_hedgehog_3 sonic_x sonic_frontiers sonic_and_the_secret_rings sonic_adventure sonic_riders_(series)
 ?teardrop_the_rikka_queen -> yu-gi-oh! yu-gi-oh!_master_duel original idolmaster idolmaster_cinderella_girls idolmaster_cinderella_girls_starlight_stage
 ?alley_(halloween_harem) -> cookie_run cookie_run:_kingdom halloween_harem cloud_meadow princess_reconquista onigotchi xenotake
+?fischl_(genshin_impact) -> genshin_impact honkai_(series) mihoyo honkai_impact_3rd chuunibyou_demo_koi_ga_shitai! neon_genesis_evangelion pokemon fate_(series) fate/grand_order honkai:_star_rail
