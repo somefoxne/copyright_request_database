@@ -7436,3 +7436,4 @@
 ?prinny -> disgaea makai_senki_disgaea makai_senki_disgaea_2 makai_senki_disgaea_4 nippon_ichi makai_senki_disgaea_5 disgaea_d2 makai_senki_disgaea_3 disgaea_rpg original
 ?lila_rossi -> miraculous_ladybug bemani dance_dance_revolution copycat_(vocaloid)
 ?marinette_dupain-cheng -> miraculous_ladybug bishoujo_senshi_sailor_moon naruto_(series) genshin_impact marvel sonic_(series) spider-man_(series) mickey_mouse_&_friends powerpuff_girls disney
+?caiman_(dorohedoro) -> dorohedoro chainsaw_man jojo_no_kimyou_na_bouken kimetsu_no_yaiba pokemon one_piece boku_no_hero_academia neon_genesis_evangelion jujutsu_kaisen diamond_wa_kudakenai
