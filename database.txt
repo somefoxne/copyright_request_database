@@ -6659,3 +6659,4 @@
 ?mimikyu -> pokemon pokemon_sun_and_moon pokemon_sword_and_shield pokemon_(anime) pokemon_x_and_y pokemon_the_series:_sun_&_moon pokemon_masters_ex vocaloid project_voltage original
 ?overqwil -> pokemon pokemon_legends:_arceus original pokemon_scarlet_and_violet pokemon_tcg pokemon_champions fire_emblem kirby_(series) pokemon_legends:_z-a
 ?rotie -> pokemon pokemon_champions original pokemon_red/green/blue/yellow blue_archive pokemon_scarlet_and_violet pokemon_black_2_and_white_2 ratatouille
+?shinonono_houki -> infinite_stratos megami_magazine nyantype mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) k-on! infinite_stratos:_archetype_breaker seikon_no_qwaser seikimatsu_occult_gakuin
