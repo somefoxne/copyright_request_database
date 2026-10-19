@@ -6406,3 +6406,4 @@
 ?tosaki_mimi -> vspo! nijisanji comiket_102 apex_legends xross_stars hololive zenless_zone_zero splatoon_(series) skullgirls neo-porte
 ?tosaki_mimi_(3rd_costume) -> vspo! apex_legends mugen_live
 ?yae_kasumi -> honkai_(series) honkai_impact_3rd genshin_impact mihoyo honkai:_star_rail neon_genesis_evangelion rebuild_of_evangelion spongebob_squarepants_(series)
+?miyazono_kawori -> shigatsu_wa_kimi_no_uso original kantai_collection fate_(series) danganronpa_(series) chainsaw_man shokugeki_no_souma blue_archive idolmaster vocaloid
