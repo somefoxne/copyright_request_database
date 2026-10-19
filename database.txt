@@ -6692,3 +6692,4 @@
 ?kiyosumi_lyra -> mekpark hololive hololive_english pukey_goddess_shot_trick
 ?yoinagi_neon -> mekpark hololive hololive_english
 ?raticate -> pokemon pokemon_red/green/blue/yellow pokemon_adventures pokemon_firered_and_leafgreen pokemon_red/green/blue/yellow_(prototype) pokemon_(anime) pokemon_heartgold_and_soulsilver pokemon_(classic_anime) pokemon_gold/silver/crystal pokemon_diamond/pearl/platinum
+?takasugi_shinsaku_(fate) -> fate_(series) fate/grand_order shiguang_dailiren fate/dream_striker koha-ace sweets_paradise pokemon vocaloid honkai_(series) honkai:_star_rail
