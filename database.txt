@@ -7942,3 +7942,4 @@
 ?jaguar_d._saul -> one_piece one_piece_card_game gundam precure dragon_ball tales_of_(series) code_geass dragon_ball_z inuyasha yes!_precure_5
 ?star_sea_(nikki) -> nikki_(series) shining_nikki infinity_nikki miracle_nikki nikki_up2u nikki_up2u2:_world_traveller honkai_(series) honkai:_star_rail stardew_valley cardcaptor_sakura
 ?okada_izou_(fate) -> fate_(series) fate/grand_order koha-ace fate/apocrypha fate/extra fate/type_redline fate/stay_night original touken_ranbu fate/zero
+?kagamine_rin_(reactor) -> vocaloid roshin_yuukai_(vocaloid) project_diva_(series) project_diva_2nd magnet_(vocaloid) senbonzakura_(vocaloid) miracle_paint_(vocaloid) vsinger_(vocaloid) 7th_dragon_(series) shinkai_shoujo_(vocaloid)
