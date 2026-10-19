@@ -7062,3 +7062,4 @@
 ?robin_(male)_(degrees_of_lewdity) -> degrees_of_lewdity original pokemon sousou_no_frieren omori sanrio youtube versailles_no_bara midsommar overdrive_(iosys)
 ?iin_hirotsugu -> kimi_no_koto_ga_dai_dai_dai_dai_daisuki_na_100-nin_no_kanojo
 ?yanfei_(genshin_impact) -> genshin_impact honkai_(series) mihoyo ace_attorney honkai:_star_rail honkai_impact_3rd horizon_(game) pokemon olympics horizon_zero_dawn
+?maguma_mega -> duel_masters dragon_musume_ni_naritakunai! magic:_the_gathering salamander_(vocaloid) sakigake!!_otokojuku
