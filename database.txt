@@ -6700,3 +6700,4 @@
 ?min_jihyeon_(mimyo) -> original
 ?kazama_iroha_(pop_dance) -> hololive hololive_english hololive_dev_is
 ?red_arcueid -> tsukihime tsukihime_(remake) melty_blood melty_blood:_type_lumina fate_(series) fate/grand_order type-moon touhou dragon_ball sonic_(series)
+?sapphira_nyx -> final_fantasy final_fantasy_xiv original yu-gi-oh! brown_dust_(series) brown_dust_2 vocaloid chainsaw_man bleach azur_lane
