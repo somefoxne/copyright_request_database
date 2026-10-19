@@ -6871,3 +6871,4 @@
 ?taihou_(private_quarters)_(azur_lane) -> azur_lane original comiket_107
 ?charlotte_aulin -> castlevania_(series) castlevania:_portrait_of_ruin castlevania:_order_of_ecclesia castlevania:_aria_of_sorrow castlevania:_symphony_of_the_night castlevania:_rondo_of_blood castlevania:_dawn_of_sorrow castlevania:_harmony_of_despair castlevania:_grimoire_of_souls castlevania:_legacy_of_darkness
 ?death_(castlevania) -> castlevania_(series) castlevania:_symphony_of_the_night castlevania:_portrait_of_ruin mario_(series) castlevania_(1986) self-portrait_with_death_playing_the_fiddle castlevania:_rondo_of_blood frankenstein castlevania:_order_of_ecclesia castlevania:_dawn_of_sorrow
+?out_of_black_(umamusume)_(kyashiyo) -> umamusume original kamen_rider kamen_rider_black_(series) kuukiyomi:_consider_it gundam hunter_x_hunter comiket_103 sakigake!!_cromartie_koukou
