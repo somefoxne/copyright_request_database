@@ -7254,3 +7254,4 @@
 ?uesato_hinata -> yuusha_de_aru nogi_wakaba_wa_yuusha_de_aru yuuki_yuuna_wa_yuusha_de_aru washio_sumi_wa_yuusha_de_aru original yuuki_yuuna_wa_yuusha_de_aru:_hanayui_no_kirameki
 ?devil_dinosaur -> marvel moon_girl_and_devil_dinosaur marvel_rivals guardians_of_the_galaxy x-men deadpool_(series) daredevil_(series) spider-man_(series) super_sentai avengers_(series)
 ?gorou_arashiyama -> king_kong_(series) sensha_isu:_tank_chair
+?tahira_nagi -> sensha_isu:_tank_chair king_kong_(series)
