@@ -7853,3 +7853,4 @@
 ?munna -> pokemon pokemon_black_and_white pokemon_black_2_and_white_2 pokemon_diamond/pearl/platinum pokemon_heartgold_and_soulsilver pokemon_sword_and_shield pokemon_firered_and_leafgreen pokemon_ruby/sapphire/emerald pokemon_platinum pokemon_x_and_y
 ?dracule_mihawk -> one_piece one_piece_card_game one_piece_(live_action) one_piece_treasure_cruise original pokemon one_piece_straw_hat_space touhou fate_(series)
 ?emporio_ivankov -> one_piece one_piece_card_game one_piece_treasure_cruise touhou gundam marvel hunter_x_hunter mobile_suit_gundam fantastic_four one_piece_film:_red
+?nagi_(player) -> player_(webtoon) player_(manhwa)
