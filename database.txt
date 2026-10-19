@@ -6625,3 +6625,4 @@
 ?hibana_(en'en_no_shouboutai) -> boku_no_hero_academia bleach kuroinu_~kedakaki_seijo_wa_hakudaku_ni_somaru~ akame_ga_kill! spy_x_family
 ?noumu_(boku_no_hero_academia) -> boku_no_hero_academia darkstalkers fate_(series) fate/grand_order sousou_no_frieren looney_tunes
 ?suri_alpaca_(kemono_friends) -> kemono_friends kemono_friends_3 kemono_friends_pavilion kemono_friends_2 kemono_friends_kingdom godzilla_(series) shin_godzilla kantai_collection keroro_gunsou touhou
+?yuu_(iris_mysteria!) -> iris_mysteria! august_soft
