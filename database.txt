@@ -7344,3 +7344,4 @@
 ?koito_yuu -> yagate_kimi_ni_naru hololive hololive_english yagate_kimi_ni_naru:_saeki_sayaka_ni_tsuite league_of_legends lycoris_recoil shoujo_kageki_revue_starlight arcane:_league_of_legends original love_live!
 ?saber_(swimsuit_archer)_(first_ascension)_(fate) -> fate_(series) fate/grand_order fate/hollow_ataraxia fate/stay_night fate/apocrypha fate/extra fate/zero tsukihime kara_no_kyoukai type-moon
 ?saber_alter_(swimsuit_rider)_(first_ascension) -> fate_(series) fate/grand_order fate/stay_night fate/hollow_ataraxia fate/extra fate/unlimited_codes honkai_(series) honkai:_star_rail fate/zero
+?isolde_(reverse:1999) -> reverse:1999 original olympics 2024_summer_olympics alien_stage duolingo real_husbands_of_hollywood pokemon idolmaster mahou_shoujo_madoka_magica
