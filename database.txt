@@ -6958,3 +6958,4 @@
 ?urbosa -> the_legend_of_zelda the_legend_of_zelda:_breath_of_the_wild the_legend_of_zelda:_tears_of_the_kingdom hyrule_warriors:_age_of_calamity the_legend_of_zelda:_twilight_princess the_legend_of_zelda:_ocarina_of_time fire_emblem fire_emblem_heroes fate_(series) fate/grand_order
 ?arcueid_brunestud_(clad_in_glacier) -> tsukihime tsukihime_(remake) fate_(series) fate/grand_order umamusume final_fantasy monster_hunter_(series) mahou_tsukai_no_yoru monster_hunter_rise haou_airen
 ?dryu -> shining_(series) shining_force_neo
+?max_(shining_force_neo) -> shining_(series) shining_force_neo
