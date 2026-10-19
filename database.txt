@@ -6837,3 +6837,4 @@
 ?glycine_bleumer -> sakura_taisen sakura_taisen_iii sega sakura_taisen_ii sakura_taisen_v original kantai_collection umamusume bang_dream!
 ?trigger_(ace_combat) -> ace_combat ace_combat_7 ace_combat_04 ace_combat_5 ace_combat_6 ace_combat_zero ace_combat_2 ace_combat_3 ace_combat_x world_witches_series
 ?bathing_elf_(kirishima_satoshi) -> original
+?hakase_fuyuki_(1st_costume) -> nijisanji pokemon nijisanji_en nijisanji_kr indie_virtual_youtuber nijisanji_id hololive vocaloid danganronpa_(series) splatoon_(series)
