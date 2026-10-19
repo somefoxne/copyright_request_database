@@ -6866,3 +6866,4 @@
 ?tron_bonne_(mega_man) -> mega_man_(series) mega_man_legends_(series) mega_man_legends mega_man_x_(series) marvel_vs._capcom mega_man_(classic) marvel capcom the_misadventures_of_tron_bonne street_fighter
 ?fire_keeper -> dark_souls_(series) dark_souls_iii bloodborne dark_souls_i fromsoftware elden_ring dark_souls_ii sekiro:_shadows_die_twice arknights
 ?sirius_(azure_horizons)_(azur_lane) -> azur_lane original fate_(series) kantai_collection fate/grand_order arknights fire_emblem fire_emblem_heroes fire_emblem:_genealogy_of_the_holy_war
+?kala'toa_(vashperado) -> original mermay mermay_2026
