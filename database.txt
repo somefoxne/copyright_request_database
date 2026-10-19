@@ -7109,3 +7109,4 @@
 ?nikketa_(girls'_frontline_2) -> goddess_of_victory:_nikke blue_archive azur_lane original yu-gi-oh! stalker_(game) john_wick
 ?vsk-94_(girls'_frontline) -> goddess_of_victory:_nikke azur_lane blue_archive arknights original metal_gear_(series) kantai_collection umamusume
 ?vsk-94_(night_on_the_silver_bay)_(girls'_frontline) -> azur_lane girls_und_panzer goddess_of_victory:_nikke yu-gi-oh!
+?kurokawa_akane -> oshi_no_ko tokyo_blade_(oshi_no_ko) shikanoko_nokonoko_koshitantan starbucks umamusume sanrio my_melody_(series) instagram jujutsu_kaisen youkoso_jitsuryoku_shijou_shugi_no_kyoushitsu_e
