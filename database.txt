@@ -6338,3 +6338,4 @@
 ?wonder_acute_(butterfly_sting)_(umamusume) -> umamusume precure real_life umamusume:_cinderella_gray cygames manga_nippon_mukashi_banashi original fate_(series) fire_emblem indie_virtual_youtuber
 ?hokko_tarumae_(star_light_ship)_(umamusume) -> umamusume jojo_no_kimyou_na_bouken real_life original precure oshi_no_ko umamusume:_cinderella_gray blue_archive fate_(series) final_fantasy
 ?mizumiya_su_(1st_costume) -> hololive hololive_dev_is hololive_official_card_game hololive_english hololive_indonesia fg_roadster_(hololive) minecraft oddloop pokemon jojo_no_kimyou_na_bouken
+?mori_calliope_(1st_costume) -> hololive hololive_english hololive_indonesia minecraft enigmatic_recollection real_life hololive_dev_is indie_virtual_youtuber dc_comics do_u_(takanashi_kiara)
