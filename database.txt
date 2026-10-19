@@ -7489,3 +7489,4 @@
 ?hoshimachi_suisei_(water_gun_arpeggio) -> hololive hololive_dreams
 ?oozora_subaru_(vibrant_sun_splash!) -> hololive hololive_dreams hololive_dev_is
 ?hasty_(azur_lane) -> azur_lane
+?armend_(knights_of_guinevere) -> knights_of_guinevere
