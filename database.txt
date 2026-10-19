@@ -6580,3 +6580,4 @@
 ?soldier_11_(zenless_zone_zero) -> zenless_zone_zero genshin_impact mihoyo blue_archive honkai_(series) honkai:_star_rail gundam one_piece splatoon_(series) marvel
 ?ansem_seeker_of_darkness -> kingdom_hearts kingdom_hearts_i kingdom_hearts_ii kingdom_hearts_iii kingdom_hearts_birth_by_sleep mickey_mouse_&_friends kingdom_hearts_3d:_dream_drop_distance kingdom_hearts_358/2_days kingdom_hearts:_chain_of_memories final_fantasy
 ?miyako_yoshika_(living) -> touhou vocaloid mesmerizer_(vocaloid) dolls_in_pseudo_paradise wild_and_horned_hermit osana_reimu shibetsu_(vocaloid) suikasen_(touhou)
+?hinata_mashu -> nanashi_inc. street_fighter utau street_fighter_6 eureka_seven_(series) comiket_104 eureka_seven don_quijote_(store) pan_kogekoge_ni_nacchatta_(utau)
