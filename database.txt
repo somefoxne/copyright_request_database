@@ -6533,3 +6533,4 @@
 ?sothis_(young)_(fire_emblem) -> fire_emblem fire_emblem:_three_houses fire_emblem_heroes fire_emblem_warriors:_three_hopes super_smash_bros. fire_emblem_awakening fire_emblem:_radiant_dawn fire_emblem_fates fire_emblem:_mystery_of_the_emblem kid_icarus
 ?karyl_(princess_connect!) -> princess_connect! cygames blue_archive kono_subarashii_sekai_ni_shukufuku_wo! pokemon umamusume granblue_fantasy idolmaster original
 ?megalodon_(vtuber) -> indie_virtual_youtuber vedal_ai original zenless_zone_zero final_fantasy chainsaw_man final_fantasy_vii mario_(series) nier_(series) dc_comics
+?jungle_pocket_(casual)_(umamusume) -> umamusume ryuu_ga_gotoku_(series) hokuto_no_ken umamusume:_beginning_of_a_new_era ryuu_ga_gotoku_0 don_quijote_(store)
