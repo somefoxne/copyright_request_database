@@ -6739,3 +6739,4 @@
 ?sin_mal -> honkai_(series) honkai_gakuen honkai_impact_3rd comiket_104 mihoyo original genshin_impact honkai:_star_rail holostars holostars_english
 ?lf_ye_lu -> indie_virtual_youtuber original
 ?the_weeknd -> blue_archive starboy_(the_weeknd) marvel real_life touhou pokemon after_hours_(the_weeknd) hololive vocaloid love_live!
+?haru_(omurice_(roza4957)) -> original
