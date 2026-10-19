@@ -6319,3 +6319,4 @@
 ?harper_(degrees_of_lewdity) -> degrees_of_lewdity grizzly_ni_osowaretara marshall_maximizer_(cevio) kanpai_funk
 ?harper_(male)_(degrees_of_lewdity) -> degrees_of_lewdity grizzly_ni_osowaretara kanpai_funk
 ?mejiro_mcqueen_(casual)_(umamusume) -> umamusume hanshin_tigers chainsaw_man real_life pikmin_(series) kfc yani_neko pikmin_bloom original
+?yunli_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail genshin_impact mihoyo fate_(series) fate/stay_night fate/unlimited_blade_works zenless_zone_zero honkai_impact_3rd berserk
