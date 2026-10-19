@@ -7432,3 +7432,4 @@
 ?sage_(sonic) -> sonic_(series) sonic_frontiers sonic_racing:_crossworlds vocaloid sonic_the_hedgehog_(classic) sonic_the_hedgehog_(2006) sonic_the_hedgehog_(idw) sonic_the_hedgehog_(archie_comics) mario_(series) sonic_channel
 ?corviknight -> pokemon pokemon_sword_and_shield pokemon_(anime) pokemon_horizons pokemon_scarlet_and_violet original pokemon:_twilight_wings pokemon_tcg fire_emblem pokemon_diamond/pearl/platinum
 ?obstagoon -> pokemon pokemon_sword_and_shield vocaloid project_voltage pokemon_masters_ex original pokemon_black_2_and_white_2 pokemon_tcg pokemon_(anime) pokemon_sun_and_moon
+?freeform_miku -> vocaloid sonic_(series) project_diva_(series) project_diva_extend league_of_legends utau bishoujo_senshi_sailor_moon synthesizer_v fairy_tail avatar_legends
