@@ -6658,3 +6658,4 @@
 ?metagross -> pokemon pokemon_omega_ruby_and_alpha_sapphire pokemon_ruby/sapphire/emerald pokemon_diamond/pearl/platinum pokemon_(anime) pokemon_heartgold_and_soulsilver pokemon_masters_ex pokemon_black_and_white pokemon_emerald pokemon_x_and_y
 ?mimikyu -> pokemon pokemon_sun_and_moon pokemon_sword_and_shield pokemon_(anime) pokemon_x_and_y pokemon_the_series:_sun_&_moon pokemon_masters_ex vocaloid project_voltage original
 ?overqwil -> pokemon pokemon_legends:_arceus original pokemon_scarlet_and_violet pokemon_tcg pokemon_champions fire_emblem kirby_(series) pokemon_legends:_z-a
+?rotie -> pokemon pokemon_champions original pokemon_red/green/blue/yellow blue_archive pokemon_scarlet_and_violet pokemon_black_2_and_white_2 ratatouille
