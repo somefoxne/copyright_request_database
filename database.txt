@@ -7933,3 +7933,4 @@
 ?analyst_(astrae_oratio) -> astrae_oratio
 ?jurah_(fire_emblem) -> fire_emblem
 ?jewelry_bonney -> one_piece one_piece_card_game hololive hololive_english one_piece_treasure_cruise one_piece:_stampede fate_(series) fate/stay_night kimetsu_no_yaiba shingeki_no_kyojin
+?blackberry_cookie -> cookie_run cookie_run:_ovenbreak cookie_run:_kingdom sonic_(series) dc_comics cookie_run_classic pokemon my_little_pony teen_titans
