@@ -6848,3 +6848,4 @@
 ?hazumi_aileen -> indie_virtual_youtuber dungeons_&_dragons yoidore_shirazu_(vocaloid) original hololive hololive_english sword_art_online phase_connect dark_souls_(series) vshojo
 ?dolores_(ac8231) -> original kantai_collection
 ?taihou_(enraptured_companion)_(azur_lane) -> azur_lane original fate_(series) fate/grand_order arknights high_school_dxd oshiro_project:re hololive umamusume re:zero_kara_hajimeru_isekai_seikatsu
+?hoshikawa_sara_(e_star) -> nijisanji
