@@ -6532,3 +6532,4 @@
 ?ivy_(deadlock) -> deadlock_(game) vocaloid zenless_zone_zero utdr_(toby_fox) elden_ring deltarune elden_ring_nightreign fortnite atlyss
 ?sothis_(young)_(fire_emblem) -> fire_emblem fire_emblem:_three_houses fire_emblem_heroes fire_emblem_warriors:_three_hopes super_smash_bros. fire_emblem_awakening fire_emblem:_radiant_dawn fire_emblem_fates fire_emblem:_mystery_of_the_emblem kid_icarus
 ?karyl_(princess_connect!) -> princess_connect! cygames blue_archive kono_subarashii_sekai_ni_shukufuku_wo! pokemon umamusume granblue_fantasy idolmaster original
+?megalodon_(vtuber) -> indie_virtual_youtuber vedal_ai original zenless_zone_zero final_fantasy chainsaw_man final_fantasy_vii mario_(series) nier_(series) dc_comics
