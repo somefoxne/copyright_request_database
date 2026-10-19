@@ -7577,3 +7577,4 @@
 ?dolores_madrigal -> encanto disney mickey_mouse_&_friends the_road_to_el_dorado league_of_legends marvel x-men wizarding_world arcane:_league_of_legends kanojo_okarishimasu
 ?pepa_madrigal -> encanto disney mickey_mouse_&_friends jojo_no_kimyou_na_bouken
 ?ren_(sekaiju) -> sekaiju_no_meikyuu sekaiju_no_meikyuu_1 sekaiju_no_meikyuu_2 shin_sekaiju_no_meikyuu sekaiju_no_meikyuu_3 sekaiju_no_meikyuu_4 shin_sekaiju_no_meikyuu_2 urashima_tarou_(fairy_tale)
+?tusukur_(sekaiju) -> sekaiju_no_meikyuu sekaiju_no_meikyuu_1 sekaiju_no_meikyuu_2 shin_sekaiju_no_meikyuu iosys saturday_night_fever i_want_you marisa_stole_the_precious_thing cho_aniki takeshi_no_chousenjou
