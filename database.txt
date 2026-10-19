@@ -6737,3 +6737,4 @@
 ?medic_(arknights) -> arknights
 ?sirin_(magic_academy_uniform) -> honkai_(series) honkai_impact_3rd genshin_impact mihoyo kfc honkai:_star_rail
 ?sin_mal -> honkai_(series) honkai_gakuen honkai_impact_3rd comiket_104 mihoyo original genshin_impact honkai:_star_rail holostars holostars_english
+?lf_ye_lu -> indie_virtual_youtuber original
