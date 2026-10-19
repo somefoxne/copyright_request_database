@@ -7822,3 +7822,4 @@
 ?persia_(mahou_no_yousei_persia) -> mahou_no_yousei_persia mahou_no_idol_pastel_yumi studio_pierrot mahou_no_tenshi_creamy_mami mahou_no_star_magical_emi dream_hunter_rem bishoujo_senshi_sailor_moon mahou_no_princess_minky_momo cardcaptor_sakura fancy_lala
 ?richard_i_(fate) -> fate_(series) fate/strange_fake fate/grand_order weiss_schwarz fate/stay_night fate/prototype pokemon fate/extra tsukihime fate/apocrypha
 ?richard_i_(second_ascension)_(fate) -> fate_(series) fate/strange_fake fate/grand_order pokemon real_life tsukihime sanrio tsukihime_(remake) minecraft fate/prototype
+?gasai_yuno -> mirai_nikki mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) higurashi_no_naku_koro_ni fate_(series) school_days guilty_crown touhou vocaloid fate/stay_night
