@@ -7050,3 +7050,4 @@
 ?pana_(phantasy_star) -> phantasy_star phantasy_star_iv
 ?lein_(phantasy_star) -> phantasy_star phantasy_star_iii
 ?noin_(phantasy_star) -> phantasy_star phantasy_star_iii
+?chole_(the_citadel) -> the_citadel beyond_citadel
