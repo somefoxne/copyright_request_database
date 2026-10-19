@@ -7771,3 +7771,4 @@
 ?crimson_rhapsody_(infinity_nikki) -> nikki_(series) infinity_nikki wuthering_waves identity_v nyanyanyanyanyanyanya!_(vocaloid)
 ?felispirit_sack_(infinity_nikki) -> nikki_(series) infinity_nikki
 ?tachibana_kimika -> subarashiki_hibi tsui_no_sora tsui_no_sora_(remake) amazon_(company) sakura_no_uta the_last_supper indie_virtual_youtuber gegege_no_kitarou
+?coppe_(eiyuu_densetsu) -> eiyuu_densetsu zero_no_kiseki ao_no_kiseki
