@@ -6698,3 +6698,4 @@
 ?rieszverne_suzette_paladill -> kouyoku_senki_exs-tia lusterise azur_lane
 ?pidgeot -> pokemon pokemon_heartgold_and_soulsilver pokemon_red/green/blue/yellow pokemon_firered_and_leafgreen pokemon_(anime) twitch_plays_pokemon pokemon_(classic_anime) pokemon_masters_ex pokemon_diamond/pearl/platinum pokemon_gold/silver/crystal
 ?min_jihyeon_(mimyo) -> original
+?kazama_iroha_(pop_dance) -> hololive hololive_english hololive_dev_is
