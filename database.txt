@@ -7412,3 +7412,4 @@
 ?senridge_norgalle -> yuushakei_ni_shosu
 ?tatsuya_(yuushakei) -> yuushakei_ni_shosu
 ?teoritta -> yuushakei_ni_shosu fate_(series) yuusha_no_kuzu original touhou kantai_collection pokemon fate/grand_order zenless_zone_zero indie_virtual_youtuber
+?tsav_(yuushakei_ni_shosu) -> yuushakei_ni_shosu
