@@ -7535,3 +7535,4 @@
 ?t.m._opera_o_(crow)_(umamusume) -> umamusume pokemon umamusume:_road_to_the_top mario_(series) the_witcher_(series)
 ?fukami_(funamusea) -> funamusea oounabara_to_wadanohara utau pan_kogekoge_ni_nacchatta_(utau)
 ?dejavudea -> indie_virtual_youtuber ragnarok_online tamagotchi discord gamer_supps tamagotchi_plus
+?minato_aqua_(1st_costume) -> hololive hololive_english kagura_gumi minecraft nijisanji apex_legends hololive_indonesia azur_lane paryi_project ark_survival_evolved
