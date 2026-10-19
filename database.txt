@@ -6353,3 +6353,4 @@
 ?bora_(dragon_ball) -> dragon_ball dragon_ball_(classic) dragon_ball_z dr._slump dragon_ball_super dragon_ball_gt dragon_ball_fighterz dragon_ball_super_broly
 ?upa_(dragon_ball) -> dragon_ball dragon_ball_(classic) dragon_ball_z dr._slump dragon_quest dragon_ball_super dragon_ball_gt dragon_ball_fighterz dragon_ball_super_broly
 ?haruka_(dress)_(blue_archive) -> blue_archive akage_(vocaloid) fate_(series) fate/grand_order idolmaster zenless_zone_zero gakuen_idolmaster jujutsu_kaisen kill_la_kill no_game_no_life
+?nishimiya_yuzuru -> koe_no_katachi original megami_magazine k-on! newtype tamako_market kimi_no_na_wa. kyoto_animation comiket_93 megami_magazine_deluxe
