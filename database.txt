@@ -6573,3 +6573,4 @@
 ?teddiursa -> pokemon pokemon_scarlet_and_violet pokemon_(anime) pokemon_heartgold_and_soulsilver pokemon_(classic_anime) pokemon_gold/silver/crystal original pokemon_3:_the_movie_-_spell_of_the_unown:_entei pokemon_the_movie:_the_power_of_us pokemon_black_and_white
 ?quilladin -> pokemon pokemon_x_and_y pokemon_(anime) pokemon_the_series:_xy pokemon_(classic_anime) pokemon_tcg pokemon_the_series:_sun_&_moon pokemon_journeys pokemon_the_series:_diamond_and_pearl pokemon_go
 ?corin_wickes -> zenless_zone_zero mihoyo honkai_(series) honkai:_star_rail blue_archive genshin_impact chainsaw_man bocchi_the_rock! bloodborne pokemon
+?genesect -> pokemon pokemon_(anime) pokemon_the_series:_black_&_white pokemon_black_2_and_white_2 pokemon_black_and_white pokemon_the_movie:_genesect_and_the_legend_awakened pokemon_masters_ex pokemon_(classic_anime) pokemon_tcg pokemon_the_series:_xy
