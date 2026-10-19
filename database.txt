@@ -6435,3 +6435,4 @@
 ?akie_yuzuru -> devil_survivor_(series) devil_survivor_2
 ?mochizuki_honami -> project_sekai vocaloid zozotown kowareta_sekai_to_utaenai_miku batsubyou_(vocaloid) chainsaw_man sanrio shinpakusuu_#0822_(vocaloid) danganronpa_(series) sekai_symphony
 ?yuuki_sakuna_(3rd_costume) -> indie_virtual_youtuber pokemon hololive nijisanji sword_art_online suika_game
+?kama_(fate) -> fate_(series) fate/grand_order fate/grand_order_arcade fate/extra fate/extra_ccc fate/stay_night fate/kaleid_liner_prisma_illya fate/apocrypha original
