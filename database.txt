@@ -7371,3 +7371,4 @@
 ?shiratsuyu_(kancolle) -> kantai_collection umamusume k-on! choo_choo_train gundam kantai_collection_(anime) azur_lane mobile_suit_gundam fate_(series) dragon_ball
 ?izawa_shizue -> tensei_shitara_slime_datta_ken grand_summoners code_geass world_dai_star tensei_shitara_slime_datta_ken:_makoku_renpou_souseiki tales_of_(series) megami_magazine sinoalice ta_ga_tame_no_alchemist square_enix
 ?shiun_saya -> muv-luv muv-luv_girls_garden
+?housen_reiri -> coeiroink project_moon lobotomy_corporation
