@@ -7058,3 +7058,4 @@
 ?kizuna_akari_(moe) -> voiceroid a.i._voice vocaloid utau voicevox indie_virtual_youtuber synthesizer_v cevio tobaku_mokushiroku_kaiji tonari_no_totoro
 ?yuzuki_yukari_(shizuku) -> a.i._voice voiceroid vocaloid cevio utau coefont one_piece kirby_(series) minecraft voicevox
 ?calogado -> utau debit_bit_(utau) voiceroid
+?aris_(moon_rabbit)_(blue_archive) -> blue_archive original
