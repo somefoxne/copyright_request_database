@@ -7308,3 +7308,4 @@
 ?naka_kai_ni_(kancolle) -> kantai_collection idolmaster moomin pokemon oshi_no_ko idolmaster_cinderella_girls gundam touken_ranbu original umamusume
 ?moses_(project_moon) -> project_moon the_distortion_detective limbus_company library_of_ruina lobotomy_corporation leviathan_(project_moon) wonderlab grizzly_ni_osowaretara touhou fate_(series)
 ?magneto -> marvel x-men marvel_rivals spider-man_(series) avengers_(series) marvel_vs._capcom the_incredible_hulk_(series) deadpool_(series) fantastic_four street_fighter
+?magneto_(master_of_slumber) -> marvel marvel_rivals x-men
