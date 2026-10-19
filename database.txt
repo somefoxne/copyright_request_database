@@ -6912,3 +6912,4 @@
 ?aphrodite_(hades) -> hades_(series) hades_1 hades_2 greek_mythology original pokemon one_piece supergiant_games touhou blue_archive
 ?shijima_daichi -> devil_survivor_(series) devil_survivor_2 persona megami_tensei persona_5 persona_3 persona_4 shin_megami_tensei shin_megami_tensei_ii
 ?kaga_nazuna_(2nd_costume) -> vspo! digimon digimon_adventure digimon_world digimon_card_game crazy_raccoon jigoku_sensei_nube the_beatles abbey_road xross_stars
+?kurobe_honoka -> mahou_shoujo_no_majo_saiban book_off final_fantasy treasure_cafe ore_no_imouto_ga_konna_ni_kawaii_wake_ga_nai final_fantasy_xi mahou_shoujo_no_inshuu_mura kokoro_yohou_(eve) bang_bang_bang_(bbpanzu)
