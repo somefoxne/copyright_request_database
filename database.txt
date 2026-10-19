@@ -7190,3 +7190,4 @@
 ?kobayashi_(maidragon) -> kobayashi-san_chi_no_maidragon chainsaw_man kono_subarashii_sekai_ni_shukufuku_wo! bocchi_the_rock! re:zero_kara_hajimeru_isekai_seikatsu neon_genesis_evangelion pokemon dc_comics original touhou
 ?tohru_(maidragon) -> kobayashi-san_chi_no_maidragon touhou kyoto_animation re:zero_kara_hajimeru_isekai_seikatsu kono_subarashii_sekai_ni_shukufuku_wo! hyouka original chainsaw_man monster_musume_no_iru_nichijou fate_(series)
 ?yae_sakura_(flame_sakitama) -> honkai_(series) honkai_impact_3rd genshin_impact mihoyo love_live! love_live!_school_idol_project comiket_95
+?anyoji_hime_(summer_loungewear) -> love_live! love_live!_hasu_no_sora_jogakuin_school_idol_club liv_heart mario_(series) minecraft himouto!_umaru-chan nyao_signyal pokemon the_legend_of_zelda splatoon_(series)
