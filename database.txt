@@ -6682,3 +6682,4 @@
 ?riko_sheridan -> dc_comics batman_(series)
 ?talia_kane -> dc_comics batman_(series)
 ?tiffany_fox -> dc_comics batman_(series)
+?pidgeotto -> pokemon pokemon_heartgold_and_soulsilver pokemon_red/green/blue/yellow pokemon_(anime) pokemon_(classic_anime) pokemon_firered_and_leafgreen pokemon_gold/silver/crystal pokemon_black_and_white pokemon_diamond/pearl/platinum pokemon_legends:_z-a
