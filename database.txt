@@ -6417,3 +6417,4 @@
 ?akimichi_chouchou -> naruto_(series) boruto_(series) boruto:_naruto_next_generations naruto_(classic) naruto_shippuuden boruto:_two_blue_vortex boruto:_naruto_the_movie naruto:_the_last durarara!!
 ?cerestia_of_life -> last_origin original pokemon pokemon_diamond/pearl/platinum soulworker kuroinu_~kedakaki_seijo_wa_hakudaku_ni_somaru~ artificial_hero
 ?elven_forest_maker -> last_origin fate_(series) genshin_impact fate/grand_order idolmaster granblue_fantasy idolmaster_shiny_colors original elden_ring world_cup
+?ishigami_senkuu -> dr._stone boku_no_hero_academia jujutsu_kaisen one_piece black_clover kimetsu_no_yaiba shounen_jump umamusume jojo_no_kimyou_na_bouken dragon_ball
