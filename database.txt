@@ -7802,3 +7802,4 @@
 ?watson_amelia_(1st_costume) -> hololive hololive_english hololive_indonesia minecraft enigmatic_recollection among_us indie_virtual_youtuber nijisanji holostars reflect_(gawr_gura)
 ?yuimaru_(vtuber) -> indie_virtual_youtuber
 ?amane_kanata_(1st_costume) -> hololive hololive_english hololive_indonesia minecraft nijisanji ryuu_ga_gotoku_(series) hololive_alternative hololive_dev_is hunter_x_hunter monster_hunter_(series)
+?prophetbot_(oneshot) -> oneshot_(game)
