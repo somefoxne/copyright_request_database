@@ -7774,3 +7774,4 @@
 ?coppe_(eiyuu_densetsu) -> eiyuu_densetsu zero_no_kiseki ao_no_kiseki
 ?momo_(nikki) -> nikki_(series) infinity_nikki shining_nikki miracle_nikki nikki_up2u2:_world_traveller nikki_up2u stardew_valley original kfc cardcaptor_sakura
 ?irene_redmayne -> heaven_burns_red persona persona_5 key_(company) yostar kirby_(series) angel_beats! meitantei_conan zuutto_issho_(kitani_tatsuya) boxboy!
+?maria_de_angelis -> heaven_burns_red key_(company) yostar kingdom_hearts angel_beats! zuutto_issho_(kitani_tatsuya)
