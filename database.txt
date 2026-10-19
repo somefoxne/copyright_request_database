@@ -6955,3 +6955,4 @@
 ?jeanne_d'arc_alter_(ver._shinjuku_1999)_(fate) -> fate_(series) fate/grand_order fate/apocrypha koha-ace girls_und_panzer fate/stay_night fate/extra pixiv_fate/grand_order_contest_1 azur_lane comiket_94
 ?azarashii_(igarashi_rika) -> nijisanji nijisanji_en nijisanji_koshien mario_(series) mario_kart mario_kart_8 pokemon hololive idolmaster idolmaster_shiny_colors
 ?igarashi_rika_(2nd_costume) -> nijisanji see_through_shanghai
+?urbosa -> the_legend_of_zelda the_legend_of_zelda:_breath_of_the_wild the_legend_of_zelda:_tears_of_the_kingdom hyrule_warriors:_age_of_calamity the_legend_of_zelda:_twilight_princess the_legend_of_zelda:_ocarina_of_time fire_emblem fire_emblem_heroes fate_(series) fate/grand_order
