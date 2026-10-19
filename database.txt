@@ -7421,3 +7421,4 @@
 ?space_ereshkigal_(fate) -> fate_(series) fate/grand_order indie_virtual_youtuber one_piece fate/stay_night fate/zero fate/kaleid_liner_prisma_illya fate/hollow_ataraxia type-moon
 ?t.m._opera_o_(new_year_same_radiance!)_(umamusume) -> umamusume original touhou real_life umamusume:_cinderella_gray vocaloid kemono_friends elden_ring elden_ring_nightreign kemurikusa
 ?norn_greyrat -> mushoku_tensei blue_archive toaru_majutsu_no_index monogatari_(series)
+?emizel_(disgaea) -> disgaea makai_senki_disgaea_4 disgaea_rpg makai_senki_disgaea_3 nippon_ichi makai_senki_disgaea makai_senki_disgaea_2 makai_senki_disgaea_5 disgaea_d2 corpse_party
