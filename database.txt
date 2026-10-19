@@ -7644,3 +7644,4 @@
 ?suou_momoko -> idolmaster idolmaster_million_live! idolmaster_million_live!_theater_days idolmaster_(classic) idolmaster_cinderella_girls idolmaster_shiny_colors cut_cut_cut_(idolmaster) gakuen_idolmaster idolmaster_side-m pokemon
 ?wiz_(konosuba) -> kono_subarashii_sekai_ni_shukufuku_wo! konosuba!_fantastic_days kono_subarashii_sekai_ni_shukufuku_wo!_kono_yokubukai_game_ni_shinpan_o! original phantom_of_the_kill fate_(series) genshin_impact fire_emblem re:zero_kara_hajimeru_isekai_seikatsu fire_emblem_fates
 ?aokumo_rin_(1st_costume) -> stellive
+?kero_(cardcaptor_sakura) -> cardcaptor_sakura cardcaptor_sakura_clear_card_arc cardcaptor_sakura:_memory_key mahou_shoujo_madoka_magica bishoujo_senshi_sailor_moon mahou_shoujo_madoka_magica_(anime) original pokemon vocaloid sanrio
