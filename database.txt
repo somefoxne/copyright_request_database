@@ -6962,3 +6962,4 @@
 ?reina_(fields_of_mistria) -> fields_of_mistria
 ?akari_(pokemon) -> pokemon pokemon_legends:_arceus pokemon_diamond/pearl/platinum pokemon_masters_ex pokemon_scarlet_and_violet pokemon_sword_and_shield pokemon_heartgold_and_soulsilver pokemon_sun_and_moon pokemon_black_and_white pokemon_x_and_y
 ?lysander_(the_citadel) -> the_citadel
+?inori_hallelujah -> shy_(series)
