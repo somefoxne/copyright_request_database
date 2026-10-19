@@ -6549,3 +6549,4 @@
 ?cielo_the_raise_moon_veil -> yu-gi-oh!
 ?ascalaphus_(fate) -> fate_(series) fate/grand_order
 ?demeter_(fate) -> fate_(series) fate/grand_order original kimi_no_koto_ga_dai_dai_dai_dai_daisuki_na_100-nin_no_kanojo touhou hololive arknights chainsaw_man boku_no_hero_academia fate/stay_night
+?demeter_(first_ascension)_(fate) -> fate_(series) fate/grand_order
