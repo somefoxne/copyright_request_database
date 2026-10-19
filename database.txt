@@ -7322,3 +7322,4 @@
 ?sonozaki_mion -> higurashi_no_naku_koro_ni higurashi_no_naku_koro_ni_mei umineko_no_naku_koro_ni suzumiya_haruhi_no_yuuutsu rozen_maiden fate_(series) fate/stay_night lyrical_nanoha shakugan_no_shana aria_(manga)
 ?mycen_(fire_emblem) -> fire_emblem fire_emblem_echoes:_shadows_of_valentia fire_emblem_heroes fire_emblem_gaiden fire_emblem:_mystery_of_the_emblem fire_emblem_fates fire_emblem_awakening fire_emblem:_radiant_dawn fire_emblem:_the_blazing_blade fire_emblem:_genealogy_of_the_holy_war
 ?slayde_(fire_emblem) -> fire_emblem fire_emblem_echoes:_shadows_of_valentia
+?senji_muramasa_(fate) -> fate_(series) fate/grand_order fate/stay_night capsule_servant fate/kaleid_liner_prisma_illya fate/hollow_ataraxia fate/extra fate/samurai_remnant original
