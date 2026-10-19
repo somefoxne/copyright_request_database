@@ -6403,3 +6403,4 @@
 ?houshou_marine_(businesswoman) -> hololive hololive_english hololive_indonesia hololive_dev_is indie_virtual_youtuber nijisanji mahou_shoujo_holowitch! chained_together bishoujo_muzai_pirates pokemon
 ?cheelai -> dragon_ball dragon_ball_super dragon_ball_super_broly dragon_ball_super_super_hero dragon_ball_z dragon_ball_fighterz dragon_ball_(classic) dragon_ball_gt dragon_ball_heroes ginga_patrol_jaco
 ?bearer_of_the_curse -> dark_souls_(series) dark_souls_ii dark_souls_i bloodborne dark_souls_iii fromsoftware elden_ring sekiro:_shadows_die_twice jojo_no_kimyou_na_bouken
+?tosaki_mimi -> vspo! nijisanji comiket_102 apex_legends xross_stars hololive zenless_zone_zero splatoon_(series) skullgirls neo-porte
