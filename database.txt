@@ -7659,3 +7659,4 @@
 ?toto-sama_(fate) -> fate_(series) fate/grand_order kanagawa_oki_nami_ura gaifu_kaisei pixiv_fate/grand_order_contest_2 hololive hololive_english fate/extra comiket_95 fate/requiem
 ?blonde_blazer -> dispatch invincible_(series) marvel original fate_(series) fate/grand_order chainsaw_man spider-man_(series) marvel_rivals spider-verse
 ?steven_stone -> pokemon pokemon_omega_ruby_and_alpha_sapphire pokemon_ruby/sapphire/emerald pokemon_masters_ex pokemon_diamond/pearl/platinum pokemon_heartgold_and_soulsilver pokemon_black_and_white pokemon_emerald pokemon_x_and_y pokemon_sword_and_shield
+?minamoto_no_raikou_(bunny_girl_style)_(fate) -> fate_(series) fate/grand_order
