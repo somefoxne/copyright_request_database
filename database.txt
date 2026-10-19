@@ -6622,3 +6622,4 @@
 ?natori_sana -> sana_channel nijisanji indie_virtual_youtuber uni_create hololive pokemon blue_archive .live mode_aim nanashi_inc.
 ?natori_sana_(nurse) -> sana_channel nijisanji indie_virtual_youtuber hololive pokemon .live uni_create mode_aim nanashi_inc. the_moon_studio
 ?goshingyu-sama_(kemono_friends) -> kemono_friends kemono_friends_3 japan_racing_association
+?hibana_(en'en_no_shouboutai) -> boku_no_hero_academia bleach kuroinu_~kedakaki_seijo_wa_hakudaku_ni_somaru~ akame_ga_kill! spy_x_family
