@@ -6818,3 +6818,4 @@
 ?scathach_(piercing_bunny)_(fate) -> fate_(series) fate/grand_order fate/stay_night fate/extra fate/apocrypha fate/empire_of_dirt neon_genesis_evangelion fate/kaleid_liner_prisma_illya koha-ace comiket_105
 ?ghost_bride_widowmaker -> overwatch
 ?widowmaker_(overwatch) -> overwatch league_of_legends street_fighter street_fighter_v boku_no_hero_academia starcraft the_legend_of_zelda marvel original pokemon
+?krystal -> star_fox star_fox_adventures star_fox_assault sonic_(series) digimon sonic_the_hedgehog_(archie_comics) pokemon mario_(series) the_legend_of_zelda star_fox_2
