@@ -6886,3 +6886,4 @@
 ?yu_mei-ren_(second_ascension)_(fate) -> fate_(series) fate/grand_order kantai_collection tsukihime original genshin_impact fate/extra kobayashi-san_chi_no_maidragon fate/grand_order_arcade comiket_97
 ?albedo_(genshin_impact) -> genshin_impact mihoyo honkai_(series) m&g_stationery honkai:_star_rail honkai_impact_3rd sweets_paradise among_us original pokemon
 ?ippongi_nao -> choujun!_choujou_senpai boku_no_hero_academia samon-kun_wa_summoner
+?fujinami_(kancolle) -> kantai_collection hokkaido_nippon-ham_fighters real_life comiket_100 original gundam kamen_rider kamen_rider_ex-aid_(series) kurenai_no_buta peach_(airline)
