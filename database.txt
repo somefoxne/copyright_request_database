@@ -7616,3 +7616,4 @@
 ?kumi_(harpy)_(vtuber) -> indie_virtual_youtuber
 ?yuy_(vtuber) -> indie_virtual_youtuber phase_connect vedal_ai angel_with_a_shotgun
 ?mishaguji -> touhou original reitaisai mountain_of_faith reitaisai_8_contest reitaisai_9_contest shin_megami_tensei touhou_lostword touhou_gensou_eclipse japanese_mythology
+?pawmi -> pokemon pokemon_scarlet_and_violet pokemon_(anime) original pokemon_horizons pokemon_tcg pokemon_(classic_anime) poketoon splatoon_(series) pokemon_journeys
