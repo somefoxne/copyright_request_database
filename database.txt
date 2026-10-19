@@ -6725,3 +6725,4 @@
 ?yowane_haku -> vocaloid utau project_diva_(series) evillious_nendaiki shiro_no_musume_(vocaloid) fl_studio voiceroid project_diva_2nd black_rock_shooter original
 ?sendai_kai_ni_(kancolle) -> kantai_collection ninja_slayer pokemon ninin_ga_shinobuden naruto_(series) naruto_(classic) super_sentai fate_(series) fate/grand_order
 ?jean_bart_(uninhibited_bloodstone)_(azur_lane) -> azur_lane
+?rico_(mega_man) -> mega_man_(series) mega_man_x_(series) mega_man_x_dive mega_man_(classic) mega_man_zero_(series) mega_man_battle_network_(series) mega_man_star_force_(series) mega_man_zx mega_man_legends_(series) mega_man_x:_command_mission
