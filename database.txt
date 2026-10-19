@@ -7420,3 +7420,4 @@
 ?jelly_hoshiumi_(winter_casual) -> phase_connect
 ?space_ereshkigal_(fate) -> fate_(series) fate/grand_order indie_virtual_youtuber one_piece fate/stay_night fate/zero fate/kaleid_liner_prisma_illya fate/hollow_ataraxia type-moon
 ?t.m._opera_o_(new_year_same_radiance!)_(umamusume) -> umamusume original touhou real_life umamusume:_cinderella_gray vocaloid kemono_friends elden_ring elden_ring_nightreign kemurikusa
+?norn_greyrat -> mushoku_tensei blue_archive toaru_majutsu_no_index monogatari_(series)
