@@ -6768,3 +6768,4 @@
 ?ish_iii -> princess_reconquista cookie_run cookie_run:_kingdom cloud_meadow onigotchi halloween_harem xenotake
 ?zhuang_fangyi_(empyrean_of_truth)_(arknights) -> arknights arknights:_endfield jujutsu_kaisen
 ?zankou_(nte) -> neverness_to_everness grand_theft_auto grand_theft_auto_v
+?hyper_sonic -> sonic_(series) sonic_the_hedgehog_(classic) dragon_ball dragon_ball_super sonic_the_hedgehog_3 sonic_x sonic_frontiers sonic_and_the_secret_rings sonic_adventure sonic_riders_(series)
