@@ -6411,3 +6411,4 @@
 ?venator_(deadlock) -> deadlock_(game) animal_crossing hellsing valve_corporation
 ?ghost_bride_mei -> overwatch
 ?miyuki_(kancolle) -> kantai_collection snow_white_(fairy_tale) lawson choo_choo_train pokemon mario_(series) gundam aoki_hagane_no_arpeggio super_mario_bros._1 kamen_rider
+?kuma_(kancolle) -> kantai_collection aoki_hagane_no_arpeggio girls_und_panzer yuru-chara gundam pokemon winnie_the_pooh original touhou gundam_build_fighters
