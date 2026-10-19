@@ -7734,3 +7734,4 @@
 ?melville_(mahoiku) -> mahou_shoujo_ikusei_keikaku mahou_shoujo_ikusei_keikaku_restart mahou_shoujo_ikusei_keikaku_unmarked mahou_shoujo_ikusei_keikaku_limited mahou_shoujo_ikusei_keikaku_jokers mahou_shoujo_ikusei_keikaku_breakdown mahou_shoujo_ikusei_keikaku_f2p mahou_shoujo_ikusei_keikaku_white
 ?jax_(vtuber) -> indie_virtual_youtuber
 ?dadao_(fire_emblem) -> fire_emblem
+?amadea_wolfa -> dolphin_wave azur_lane little_red_riding_hood_(fairy_tale) don_quijote_(store)
