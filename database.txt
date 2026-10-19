@@ -7893,3 +7893,4 @@
 ?cherche_(ninja)_(fire_emblem) -> fire_emblem fire_emblem_heroes fire_emblem_awakening fire_emblem_fates fire_emblem:_radiant_dawn
 ?haar_(ninja)_(fire_emblem) -> fire_emblem fire_emblem_heroes fire_emblem:_radiant_dawn fire_emblem_awakening fire_emblem:_path_of_radiance
 ?shunin -> astrae_oratio stella_sora
+?carol_malus_dienheim -> senki_zesshou_symphogear senki_zesshou_symphogear_xd_unlimited comiket_102 yu-gi-oh! dragon_ball lyrical_nanoha dragon_ball_z mahou_shoujo_lyrical_nanoha original
