@@ -7974,3 +7974,4 @@
 ?fujido_b._victoria -> giant_ojou-sama
 ?sumire_(giant_ojou-sama) -> giant_ojou-sama
 ?primal_awoofy -> kirby_(series) kirby_and_the_forgotten_land kirby_64 kirby_star_allies kirby_super_star kirby:_planet_robobot kirby:_right_back_at_ya! kirby:_squeak_squad kirby_&_the_amazing_mirror
+?charlotte_veil -> indie_virtual_youtuber
