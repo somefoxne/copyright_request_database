@@ -6465,3 +6465,4 @@
 ?gouriki_ayumu -> odd_taxi pokemon arknights pokemon_scarlet_and_violet robin_hood_(disney_movie) pinocchio_(disney_movie) song_of_the_south the_fox_and_the_hound
 ?odokawa_hiroshi -> odd_taxi kimetsu_no_yaiba genshin_impact gundam jojo_no_kimyou_na_bouken chainsaw_man bocchi_the_rock! jujutsu_kaisen shingeki_no_kyojin tokyo_revengers
 ?gumi_(vocaloid7) -> vocaloid
+?daiba_nana -> shoujo_kageki_revue_starlight shoujo_kageki_revue_starlight_-re_live- phantom_of_the_opera love_live! bang_dream! real_life love_live!_nijigasaki_high_school_idol_club bang_dream!_girls_band_party! idolmaster
