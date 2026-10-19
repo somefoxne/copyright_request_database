@@ -7879,3 +7879,4 @@
 ?sue_storm -> marvel fantastic_four marvel_rivals x-men spider-man_(series) the_incredible_hulk_(series) avengers_(series) guardians_of_the_galaxy thor_(marvel)_(series) the_fantastic_four:_first_steps
 ?akechi_goro -> persona persona_5 persona_5_the_royal persona_4 persona_3 persona_dancing persona_5:_dancing_star_night danganronpa_(series) persona_3_portable persona_1
 ?kizuna_akari_(a.i._voice_2) -> voiceroid a.i._voice vocaloid
+?yuzuki_yukari_(a.i._voice_2) -> a.i._voice voiceroid vocaloid cevio
