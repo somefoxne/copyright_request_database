@@ -7913,3 +7913,4 @@
 ?koyanskaya_(fate) -> fate_(series) fate/grand_order fate/samurai_remnant fate/extra original genshin_impact fate/grand_order_arcade hololive fate/extra_ccc fate/final_journey
 ?raku_(abstract_nonsense) -> abstract_nonsense_(vocaloid) vocaloid
 ?alex_(minecraft) -> minecraft super_smash_bros. fire_emblem xenoblade_chronicles_(series) xenoblade_chronicles_2 arms_(game) fire_emblem:_three_houses pokemon mario_(series) bayonetta_(series)
+?irys_(cherrys)_(hololive) -> hololive hololive_english
