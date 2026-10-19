@@ -7859,3 +7859,4 @@
 ?baby_5 -> one_piece one_piece_card_game one_piece_film:_red shounen_jump one_piece_film:_gold jojo_no_kimyou_na_bouken boku_no_hero_academia naruto_(series) bleach naruto_(classic)
 ?tyki_mikk -> d.gray-man original ragnarok_online kimetsu_no_yaiba nier_(series) nier:automata twisted_wonderland fullmetal_alchemist show_by_rock!! world_trigger
 ?bibian_(player) -> player_(manhwa)
+?dewy_lotus_(shining_nikki) -> nikki_(series) shining_nikki
