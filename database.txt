@@ -6519,3 +6519,4 @@
 ?kijima_daigo -> project_sekai
 ?nasu-san_(love_live!) -> love_live! love_live!_hasu_no_sora_jogakuin_school_idol_club idolmaster legato_(love_live!) pokemon idolmaster_cinderella_girls idolmaster_shiny_colors real_life love_live!_days:_love_live!_general_magazine ladybug_(love_live!)
 ?fujishima_megumi -> love_live! love_live!_hasu_no_sora_jogakuin_school_idol_club dream_believers do!_do!_do!_(love_live!) hakuchu_a_la_mode love_live!_school_idol_project miracreation happy_shijo_shugi! aurora_flower_(love_live!) seeno_de!_hasu_no_sora!
+?suzukaze_aoba -> new_game! gochuumon_wa_usagi_desu_ka? manga_time_kirara re:zero_kara_hajimeru_isekai_seikatsu kirara_fantasia monogatari_(series) eromanga_sensei kantai_collection megami_magazine kin-iro_mosaic
