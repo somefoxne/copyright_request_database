@@ -7381,3 +7381,4 @@
 ?kazagumo_(kancolle) -> kantai_collection real_life umamusume comiket_100 hokkaido_nippon-ham_fighters gundam original fate_(series) fate/grand_order high_school_fleet
 ?kaya_(hazakura_hinata) -> original kantai_collection
 ?allie_(stella_sora) -> stella_sora
+?fuyuka_(stella_sora) -> stella_sora blue_archive shigoto_neko yostar
