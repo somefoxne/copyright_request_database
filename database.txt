@@ -6760,3 +6760,4 @@
 ?oni_(onigotchi) -> cookie_run cookie_run:_kingdom onigotchi cloud_meadow princess_reconquista halloween_harem xenotake
 ?eerien_(xenotake) -> cookie_run cookie_run:_kingdom cloud_meadow princess_reconquista onigotchi halloween_harem xenotake
 ?grim_aloe -> quiz_magic_academy quiz_magic_academy_the_world_evolve bombergirl mahjong_fight_girl fate_(series) azur_lane fate/kaleid_liner_prisma_illya bemani original kantai_collection
+?evan_(cloud_meadow) -> cloud_meadow cookie_run cookie_run:_kingdom
