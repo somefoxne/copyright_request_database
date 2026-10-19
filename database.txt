@@ -6545,3 +6545,4 @@
 ?boothill_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail mihoyo genshin_impact fate_(series) fate/stay_night zenless_zone_zero fate/unlimited_blade_works honkai_impact_3rd barbie_(franchise)
 ?ichika_maia -> indie_virtual_youtuber nijisanji nijisanji_en original hololive hololive_english sousou_no_frieren vinesauce atelier_live super_bunny_man
 ?xu_fu_(fate) -> fate_(series) fate/grand_order blue_archive fate/grand_order_arcade fate/samurai_remnant pokemon genshin_impact zenless_zone_zero mario_(series) nier_(series)
+?mr._reca_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail fate_(series) fate/stay_night wuthering_waves reverse:1999 wizarding_world harry_potter_(series) death_note youtube
