@@ -6408,3 +6408,4 @@
 ?yae_kasumi -> honkai_(series) honkai_impact_3rd genshin_impact mihoyo honkai:_star_rail neon_genesis_evangelion rebuild_of_evangelion spongebob_squarepants_(series)
 ?miyazono_kawori -> shigatsu_wa_kimi_no_uso original kantai_collection fate_(series) danganronpa_(series) chainsaw_man shokugeki_no_souma blue_archive idolmaster vocaloid
 ?izumi_konata -> lucky_star suzumiya_haruhi_no_yuuutsu vocaloid touhou k-on! kantai_collection kyoto_animation original clannad watashi_ga_motenai_no_wa_dou_kangaetemo_omaera_ga_warui!
+?venator_(deadlock) -> deadlock_(game) animal_crossing hellsing valve_corporation
