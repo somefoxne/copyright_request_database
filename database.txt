@@ -7359,3 +7359,4 @@
 ?ultros -> final_fantasy final_fantasy_vi final_fantasy_xiv final_fantasy_iv final_fantasy_v touhou final_fantasy_vii final_fantasy_fables the_legend_of_zelda mario_(series)
 ?luna_mellow -> muv-luv muv-luv_girls_garden muv-luv_alternative
 ?algerie_(kancolle) -> kantai_collection gundam zeta_gundam
+?mogador_(kancolle) -> kantai_collection idolmaster azur_lane gakuen_idolmaster alice_gear_aegis highfleet blue_archive hololive hololive_english girls_und_panzer
