@@ -7809,3 +7809,4 @@
 ?tifa_lockhart_(majestic_glamour) -> final_fantasy final_fantasy_vii final_fantasy_vii_remake final_fantasy_vii_rebirth final_fantasy_vii:_ever_crisis sousou_no_frieren real_life final_fantasy_vii:_advent_children crisis_core:_final_fantasy_vii
 ?takanashi_kiara_(perfume_swimsuit) -> hololive hololive_english perfume_(takanashi_kiara) chainsaw_man indie_virtual_youtuber bishoujo_senshi_sailor_moon hololive_dev_is ego_(takanashi_kiara)
 ?jett_(valorant) -> valorant apex_legends nijisanji real_life pokemon hololive love_live! splatoon_(series) overwatch vspo!
+?fred_flintstone -> the_flintstones siivagunner looney_tunes utdr_(toby_fox) sonic_(series) pokemon marvel kirby_(series) dc_comics touhou
