@@ -7304,3 +7304,4 @@
 ?miyu_(swimsuit)_(blue_archive) -> blue_archive comiket_103 finding_nemo call_of_duty comiket_102 pokemon hololive vocaloid bocchi_the_rock!
 ?aleph-1_(wuthering_waves) -> wuthering_waves pokemon chainsaw_man punishing:_gray_raven fullmetal_alchemist kuro_games
 ?qianzhen -> the_legend_of_luo_xiaohei
+?jintsuu_kai_ni_(kancolle) -> kantai_collection taimanin_(series) gundam ninja_slayer street_fighter naruto_(series) taimanin_asagi naruto_(classic) lupin_iii pokemon
