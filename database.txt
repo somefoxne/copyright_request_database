@@ -7640,3 +7640,4 @@
 ?inori_(senran_kagura) -> senran_kagura senran_kagura_shinovi_nexus
 ?kira_(senran_kagura) -> senran_kagura senran_kagura_shinovi_nexus
 ?nekomata_okayu_(new_year) -> hololive nijisanji hololive_english hololive_indonesia hololive_dev_is minecraft
+?celeste_(deadlock) -> deadlock_(game) original animal_crossing
