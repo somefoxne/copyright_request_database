@@ -7672,3 +7672,4 @@
 ?celestia_(shepherd_of_stars)_(strinova) -> strinova
 ?sophie_hatter_(howl_no_ugoku_shiro) -> howl_no_ugoku_shiro studio_ghibli majo_no_takkyuubin mononoke_hime sen_to_chihiro_no_kamikakushi tenkuu_no_shiro_laputa tonari_no_totoro gake_no_ue_no_ponyo kaze_no_tani_no_nausicaa kurenai_no_buta
 ?flavia_(sommeliers'_grace)_(strinova) -> strinova
+?yahagi_(kancolle) -> kantai_collection kantai_collection_(anime) line_(naver) original umamusume the_king_of_fighters fatal_fury aoki_hagane_no_arpeggio lawson touhou
