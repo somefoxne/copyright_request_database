@@ -6477,3 +6477,4 @@
 ?gawr_gura_(1st_costume) -> hololive hololive_english reflect_(gawr_gura) hololive_indonesia indie_virtual_youtuber minecraft among_us zenless_zone_zero pokemon hololive_dev_is
 ?momone_momo -> utau a.i._voice vocaloid synthesizer_v voiceroid original voicevox mahou_shoujo_madoka_magica cevio touhou
 ?pang_(sdorica) -> sdorica arknights zero_kara_hajimeru_mahou_no_sho original pokemon pokemon_sun_and_moon tokyo_afterschool_summoners cytus cytus_ii deemo
+?kagura_hikari -> shoujo_kageki_revue_starlight shoujo_kageki_revue_starlight_-re_live- love_live! love_live!_school_idol_project bang_dream! bang_dream!_girls_band_party! real_life megami_magazine toji_no_miko gundam
