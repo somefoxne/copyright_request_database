@@ -7837,3 +7837,4 @@
 ?fumizuki_kai_ni_(kancolle) -> kantai_collection gekkou_kamen_(series) comiket_100 original umamusume kemono_friends
 ?tonimura_yui -> esse_series hyoutenka_30-do_no_zetsubou oshi_no_taisetsuna_hito_ni_narikawaru oshi_no_tachiba_ga_irekawaru saihate_eki otome_kaibou_(vocaloid) pajamy_(vocaloid) pokemon genshin_impact project_moon
 ?xx_(esse_series) -> esse_series hyoutenka_30-do_no_zetsubou oshi_no_taisetsuna_hito_ni_narikawaru oshi_no_tachiba_ga_irekawaru touhou blue_archive genshin_impact mahou_shoujo_no_majo_saiban needy_girl_overdose microsoft_windows
+?madotsuki -> yume_nikki ib_(kouri) yume_2kki utdr_(toby_fox) omori undertale .flow off_(game) majo_no_ie mad_father
