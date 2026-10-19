@@ -7781,3 +7781,4 @@
 ?mamiya_takuji -> subarashiki_hibi tsui_no_sora tsui_no_sora_(remake) amazon_(company) sayonara_wo_oshiete the_last_supper original project_moon limbus_company gegege_no_kitarou
 ?hikari_(hanakaji) -> original
 ?hikari_(new_design)_(hanakaji) -> original
+?arielle_(vtuber) -> indie_virtual_youtuber vshojo vchiban gamer_supps pokemon mario_(series) densetsu.exe coppertone jujutsu_kaisen sanrio
