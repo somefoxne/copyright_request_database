@@ -6604,3 +6604,4 @@
 ?washizu_iwao -> fukumoto_mahjong akagi:_yami_ni_oritatta_tensai tobaku_mokushiroku_kaiji ten_(manga) tobaku_haouden_zero gin_to_kin buraiden_gai mahjong_soul saikyou_densetsu_kurosawa touhou
 ?sharon_oliva -> iris_mysteria! august_soft
 ?colin_creevey -> wizarding_world harry_potter_(series) harry_potter_and_the_deathly_hallows
+?rakkun_sutaru -> owozu indie_virtual_youtuber original persona kimetsu_no_yaiba sonic_(series) persona_5 persona_5_the_royal hibana_(vocaloid) emergence_(shindol)
