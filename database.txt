@@ -7409,3 +7409,4 @@
 ?kivia_patausche -> yuushakei_ni_shosu hololive hololive_english fate_(series) fate/stay_night re:zero_kara_hajimeru_isekai_seikatsu enigmatic_recollection yuusha_no_kuzu
 ?leopool_venetim -> yuushakei_ni_shosu yuusha_no_kuzu
 ?luzulas_dotta -> yuushakei_ni_shosu yuusha_no_kuzu
+?senridge_norgalle -> yuushakei_ni_shosu
