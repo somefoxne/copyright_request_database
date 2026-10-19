@@ -7972,3 +7972,4 @@
 ?clawroline -> kirby_(series) kirby_and_the_forgotten_land kirby_64 kirby_star_allies kirby:_planet_robobot kirby_and_the_rainbow_curse
 ?leongar -> kirby_(series) kirby_and_the_forgotten_land kirby_64 kirby_star_allies kirby:_planet_robobot kirby_and_the_rainbow_curse
 ?fujido_b._victoria -> giant_ojou-sama
+?sumire_(giant_ojou-sama) -> giant_ojou-sama
