@@ -6786,3 +6786,4 @@
 ?tachibana_kanade -> angel_beats! key_(company) little_busters! clannad rewrite heaven_burns_red air_(visual_novel) kanon charlotte_(anime) summer_pockets
 ?caam_serenity_of_gusto -> yu-gi-oh! yu-gi-oh!_duel_monsters original pokemon idolmaster arknights azur_lane final_fantasy indie_virtual_youtuber idolmaster_(classic)
 ?gambier_bay_(kancolle) -> kantai_collection lawson arknights yokohama_dena_baystars coca-cola mario_(series) original marvel line_(naver)
+?sitara -> tenmaku_no_jaadugar memri_tv chi.:_chikyuu_no_undou_ni_tsuite sayonara_lara animage kantai_collection pokemon genshin_impact umamusume honkai_(series)
