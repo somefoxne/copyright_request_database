@@ -6494,3 +6494,4 @@
 ?nikki_freeman -> obsession_(movie) marvel x-men doki_doki_literature_club one_piece resident_evil project_hail_mary resident_evil_(2026_movie) spider-man_(series) backrooms_(creepypasta)
 ?benditz_(fire_emblem) -> fire_emblem
 ?tonami_ibuki -> kamiina_botan_yoeru_sugata_wa_yuri_no_hana bocchi_the_rock! yama_no_susume glenlivet dragon_ball dragon_ball_z girls_band_cry precure sousou_no_frieren real_life
+?robin_(degrees_of_lewdity) -> degrees_of_lewdity original pokemon sousou_no_frieren omori sanrio doki_doki_literature_club youtube versailles_no_bara pan_kogekoge_ni_nacchatta_(utau)
