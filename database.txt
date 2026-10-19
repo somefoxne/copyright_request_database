@@ -7841,3 +7841,4 @@
 ?val_(yan_kodiac) -> original hollow_knight zenless_zone_zero hollow_knight:_silksong umamusume azur_lane fire_emblem splatoon_(series) real_life stellar_blade
 ?honey_churros -> project_i indie_virtual_youtuber honeyz
 ?fluorette -> answered_prayers .flow yume_nikki yume_2kki ultra_violet_(game) yume_nisshi yume_graffiti lcddem omori funamusea
+?yui_(hanakaji) -> original
