@@ -6461,3 +6461,4 @@
 ?cheeta_(girls'_frontline_2) -> bocchi_the_rock! real_life sanrio fuwa_fuwa_cinnamoroll instagram atlantis:_the_lost_empire point_blank_(game)
 ?commander_(girls'_frontline) -> original kantai_collection blue_archive arknights azur_lane doom_(series) reddit
 ?mp7_(girls'_frontline) -> rainbow_six_siege counter-strike_(series) counter-strike_2 real_life metal_gear_(series) administrative_results
+?tofu_(project_sekai) -> project_sekai vocaloid sanrio ensemble_stars! my_melody_(series) fuwa_fuwa_cinnamoroll zozotown kyoufuu_all_back_(vocaloid) romeo_to_cinderella_(vocaloid) kowareta_sekai_to_utaenai_miku
