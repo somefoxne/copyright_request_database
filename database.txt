@@ -7001,3 +7001,4 @@
 ?alan_(precure) -> precure meitantei_precure!
 ?karin_(precure) -> precure meitantei_precure!
 ?rain_(precure) -> precure meitantei_precure! kamen_rider kamen_rider_w fuuto_tantei toei_company
+?okunoda_miyoi -> touhou lotus_eaters touhou_(pc-98) touhou_lostword forbidden_scrollery foul_detective_satori reitaisai touhou_gensou_eclipse wild_and_horned_hermit touhou_sangetsusei
