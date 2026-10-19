@@ -7449,3 +7449,4 @@
 ?ember_amane_(wish) -> phase_connect neon_genesis_evangelion the_end_of_evangelion
 ?rixia_mao -> eiyuu_densetsu ao_no_kiseki zero_no_kiseki hajimari_no_kiseki kuro_no_kiseki_(series) kuro_no_kiseki_i sen_no_kiseki_(series) kai_no_kiseki sen_no_kiseki_i sen_no_kiseki_ii
 ?peonia_(pokemon) -> pokemon pokemon_sword_and_shield pokemon_scarlet_and_violet pokemon_(anime) pokemon_the_movie:_secrets_of_the_jungle the_legend_of_zelda pokemon_sun_and_moon pokemon_black_and_white pokemon_masters_ex pokemon_tcg
+?zenon_(disgaea) -> disgaea makai_senki_disgaea_2 disgaea_rpg makai_senki_disgaea majo_to_hyakkihei la_pucelle_tactics phantom_kingdom
