@@ -7898,3 +7898,4 @@
 ?aris_(winter)_(blue_archive) -> blue_archive minecraft comiket_106 mario_(series) doom_(series) doom_i gintama cthulhu_mythos greek_mythology super_mario_64
 ?king_(one_piece) -> one_piece one_piece_card_game jujutsu_kaisen fate_(series) fate/grand_order gundam sousou_no_frieren naruto_(series) bleach kono_subarashii_sekai_ni_shukufuku_wo!
 ?mochiko-san_(voicevox) -> voicevox utau voiceroid a.i._voice vocaloid indie_virtual_youtuber onikko_hunter_tsuina-chan original synthesizer_v kamitsubaki_studio
+?malice_evermore -> phase_connect devil_may_cry_(series)
