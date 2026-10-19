@@ -6591,3 +6591,4 @@
 ?albedo_(stella_sora) -> stella_sora
 ?igna_(stella_sora) -> stella_sora
 ?melinda_desmond -> spy_x_family marvel kobayashi-san_chi_no_maidragon marvel_rivals world_cup fantastic_four 2026_fifa_world_cup true_lies
+?swimmer_(female)_(pokemon_xy) -> pokemon pokemon_x_and_y pokemon_masters_ex pokemon_firered_and_leafgreen pokemon_sun_and_moon pokemon_gold/silver/crystal pokemon_omega_ruby_and_alpha_sapphire
