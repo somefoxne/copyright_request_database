@@ -7490,3 +7490,4 @@
 ?oozora_subaru_(vibrant_sun_splash!) -> hololive hololive_dreams hololive_dev_is
 ?hasty_(azur_lane) -> azur_lane
 ?armend_(knights_of_guinevere) -> knights_of_guinevere
+?portgas_d._ace -> one_piece one_piece_card_game original one_piece_film:_red one_piece_fan_letter one_piece_treasure_cruise pokemon one_piece:_stampede touhou fullmetal_alchemist
