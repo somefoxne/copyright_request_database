@@ -7382,3 +7382,4 @@
 ?kaya_(hazakura_hinata) -> original kantai_collection
 ?allie_(stella_sora) -> stella_sora
 ?fuyuka_(stella_sora) -> stella_sora blue_archive shigoto_neko yostar
+?nazuka_(stella_sora) -> stella_sora
