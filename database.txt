@@ -6929,3 +6929,4 @@
 ?hakutaku_(nue_no_onmyouji) -> nue_no_onmyouji
 ?fubuki_(senran_kagura) -> senran_kagura senran_kagura_new_link azur_lane dolphin_wave pokemon senran_kagura_shinovi_versus senran_kagura_estival_versus marvelous honkai_(series) pokemon_diamond/pearl/platinum
 ?kay_(arknights) -> arknights arknights:_endfield
+?darture_(girls'_frontline_2) -> goddess_of_victory:_nikke half-life_(series) half-life_2 fear_and_loathing_in_las_vegas
