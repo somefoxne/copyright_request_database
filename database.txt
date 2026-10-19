@@ -7106,3 +7106,4 @@
 ?soga_no_tojiko -> touhou ten_desires touhou_(pc-98) undefined_fantastic_object embodiment_of_scarlet_devil perfect_cherry_blossom imperishable_night phantasmagoria_of_flower_view hopeless_masquerade mountain_of_faith
 ?toyosatomimi_no_miko_(owl) -> touhou hopeless_masquerade kemono_friends journey_to_the_west greek_mythology circe_and_her_lovers_in_a_landscape
 ?ruru-chan_(yuubakunyu) -> original
+?nikketa_(girls'_frontline_2) -> goddess_of_victory:_nikke blue_archive azur_lane original yu-gi-oh! stalker_(game) john_wick
