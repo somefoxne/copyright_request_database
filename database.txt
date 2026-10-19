@@ -7915,3 +7915,4 @@
 ?alex_(minecraft) -> minecraft super_smash_bros. fire_emblem xenoblade_chronicles_(series) xenoblade_chronicles_2 arms_(game) fire_emblem:_three_houses pokemon mario_(series) bayonetta_(series)
 ?irys_(cherrys)_(hololive) -> hololive hololive_english
 ?gothita -> pokemon pokemon_black_and_white pokemon_sword_and_shield pokemon_black_2_and_white_2 pokemon_diamond/pearl/platinum pokemon_(anime) pokemon_tcg pokemon_the_series:_black_&_white original pokemon_the_series:_xy
+?solosis -> pokemon pokemon_black_and_white pokemon_sword_and_shield pokemon_black_2_and_white_2 pokemon_diamond/pearl/platinum pokemon_platinum pokemon_heartgold_and_soulsilver pokemon_red/green/blue/yellow vocaloid pokemon_(anime)
