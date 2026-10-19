@@ -6669,3 +6669,4 @@
 ?banette -> pokemon pokemon_x_and_y pokemon_omega_ruby_and_alpha_sapphire pokemon_ruby/sapphire/emerald pokemon_legends:_z-a pokemon_sun_and_moon pokemon_masters_ex pokemon_(anime) pokemon_heartgold_and_soulsilver pokemon_diamond/pearl/platinum
 ?basculegion -> pokemon pokemon_legends:_arceus original pokemon_masters_ex pokemon_champions pokemon_scarlet_and_violet pokemon_tcg touhou hololive pokemon_sword_and_shield
 ?basculegion_(male) -> pokemon pokemon_legends:_arceus original pokemon_champions pokemon_masters_ex pokemon_scarlet_and_violet touhou hololive xenoblade_chronicles_(series) jujutsu_kaisen
+?mega_banette -> pokemon pokemon_x_and_y pokemon_masters_ex pokemon_omega_ruby_and_alpha_sapphire pokemon_sword_and_shield pokemon_(anime) pokemon_legends:_z-a pokemon_sun_and_moon pokemon_ruby/sapphire/emerald pokemon_diamond/pearl/platinum
