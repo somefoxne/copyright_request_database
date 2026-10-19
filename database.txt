@@ -7876,3 +7876,4 @@
 ?erika_wagner -> under_night_in-birth under_night_in-birth_exe:late[st] under_night_in-birth_2_sys:celes guilty_gear akatsuki_blitzkampf under_night_in-birth_exe:late[cl-r] street_fighter blazblue tekken guilty_gear_xrd
 ?izumi_shirogane -> under_night_in-birth under_night_in-birth_2_sys:celes akatsuki_blitzkampf blue_archive guilty_gear guilty_gear_strive
 ?yuzuriha_(under_night_in-birth) -> under_night_in-birth guilty_gear blazblue under_night_in-birth_2_sys:celes blazblue:_cross_tag_battle granblue_fantasy dragon_ball tsukihime guilty_gear_strive melty_blood
+?sue_storm -> marvel fantastic_four marvel_rivals x-men spider-man_(series) the_incredible_hulk_(series) avengers_(series) guardians_of_the_galaxy thor_(marvel)_(series) the_fantastic_four:_first_steps
