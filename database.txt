@@ -7813,3 +7813,4 @@
 ?grand_dad -> siivagunner love_live! love_live!_school_idol_project mega_man_(series) mega_man_(classic) mega_man_2 mother_(series) lazytown mario_(series) real_life
 ?yasuoka-sensei -> arakure_ojou-sama_wa_monmon_shiteiru
 ?griffin_stewart -> esse_series oshi_no_taisetsuna_hito_ni_narikawaru oshi_no_tachiba_ga_irekawaru hyoutenka_30-do_no_zetsubou microsoft_windows windows_10 img100_(windows_10) umamusume mahou_shoujo_madoka_magica chainsaw_man
+?solovari_(vtuber) -> indie_virtual_youtuber
