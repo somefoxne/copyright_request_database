@@ -7030,3 +7030,4 @@
 ?myau_(phantasy_star) -> phantasy_star phantasy_star_i phantasy_star_ii phantasy_star_iii phantasy_star_iv original sega sonic_(series) dark_souls_(series) berserk
 ?harumi_(ninjago) -> ninjago higurashi_no_naku_koro_ni unknown_mother_goose_(vocaloid) ninjago:_dragons_rising
 ?lloyd_garmadon -> ninjago ninjago:_dragons_rising the_lego_ninjago_movie ben_10 ben_10_(classic) the_lego_group genshin_impact project_moon limbus_company dragon_ball
+?yuu-chan_(inugamikenoy) -> original
