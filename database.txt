@@ -7594,3 +7594,4 @@
 ?kumi_(vtuber) -> indie_virtual_youtuber original pokemon minecraft vedal_ai grand_theft_auto grand_theft_auto_vi beastiez l.a._noire
 ?nimi_nightmare_(lifeguard) -> indie_virtual_youtuber vinesauce original densetsu.exe wii_fit 3am stellarversepro national_geographic
 ?seras_victoria -> hellsing hellsing:_the_dawn pokemon tsukihime touhou fate_(series) final_fantasy higurashi_no_naku_koro_ni vocaloid gundam
+?amami_haruka -> idolmaster idolmaster_(classic) idolmaster_1 idolmaster_million_live! idolmaster_million_live!_theater_days idolmaster_2 idolmaster_cinderella_girls idolmaster_live_for_you! idolmaster_xenoglossia idolmaster_dearly_stars
