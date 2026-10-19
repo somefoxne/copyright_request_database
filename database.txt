@@ -7618,3 +7618,4 @@
 ?mishaguji -> touhou original reitaisai mountain_of_faith reitaisai_8_contest reitaisai_9_contest shin_megami_tensei touhou_lostword touhou_gensou_eclipse japanese_mythology
 ?pawmi -> pokemon pokemon_scarlet_and_violet pokemon_(anime) original pokemon_horizons pokemon_tcg pokemon_(classic_anime) poketoon splatoon_(series) pokemon_journeys
 ?dolores_(kof) -> the_king_of_fighters the_king_of_fighters_xv fatal_fury samurai_spirits ryuuko_no_ken street_fighter splatoon_(series) splatoon_2 snk garou:_mark_of_the_wolves
+?capybara_(kemono_friends) -> kemono_friends kemono_friends_3 street_fighter keroro_gunsou ghost_in_the_shell street_fighter_ii_(series) kemono_friends_3:_planet_tours love_live! love_live!_school_idol_project real_life
