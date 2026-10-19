@@ -6535,3 +6535,4 @@
 ?megalodon_(vtuber) -> indie_virtual_youtuber vedal_ai original zenless_zone_zero final_fantasy chainsaw_man final_fantasy_vii mario_(series) nier_(series) dc_comics
 ?jungle_pocket_(casual)_(umamusume) -> umamusume ryuu_ga_gotoku_(series) hokuto_no_ken umamusume:_beginning_of_a_new_era ryuu_ga_gotoku_0 don_quijote_(store)
 ?add_(elsword) -> elsword pokemon nisekoi moonlight_sonata_(beethoven) fate_(series) fate/grand_order mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) mega_man_(series) bishoujo_senshi_sailor_moon
+?code:_nemesis_(elsword) -> elsword vocaloid naruto_(series) dc_comics code_geass naruto_(classic) batman_(series) chuunibyou_demo_koi_ga_shitai! closers aladdin_(movie)
