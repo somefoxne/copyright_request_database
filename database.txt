@@ -7024,3 +7024,4 @@
 ?glamrock_freddy -> mario_(series) sonic_(series) kirby_(series) animal_crossing adventure_time minecraft_youtube steven_universe the_amazing_world_of_gumball
 ?marilyn_monroe -> the_seven-year_itch persona persona_4 real_life original kantai_collection gentlemen_prefer_blondes touhou idolmaster
 ?monroe_walk_(racehorse) -> real_life
+?yashio_rui -> bang_dream! bang_dream!_girls_band_party! chainsaw_man bang_dream!_yumemita kamen_rider kamen_rider_kiva_(series) national_basketball_association ganso!_bang_dream_chan denver_nuggets
