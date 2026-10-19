@@ -6439,3 +6439,4 @@
 ?kama_(teenager)_(fate) -> fate_(series) fate/grand_order fate/extra fate/extra_ccc fate/stay_night fate/grand_order_arcade kantai_collection original fate/apocrypha lawson
 ?ben_bigger -> zenless_zone_zero original fortnite arknights utdr_(toby_fox) tokyo_afterschool_summoners animal_crossing we_bare_bears arknights:_endfield undertale
 ?pan_yinhu -> zenless_zone_zero original arknights arknights:_endfield we_bare_bears honkai_(series) honkai:_star_rail utdr_(toby_fox) deltarune animal_crossing
+?souji_(senran_kagura) -> senran_kagura senran_kagura_new_wave senran_kagura_new_link senran_kagura_shinovi_versus senran_kagura_estival_versus senran_kagura_peach_beach_splash high_school_dxd darkstalkers yoru_no_nai_kuni
