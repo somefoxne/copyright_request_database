@@ -6578,3 +6578,4 @@
 ?ara_(signalis) -> signalis 1984_(novel) dore_ga_koi_ka_ga_wakaranai
 ?eule_(signalis) -> signalis real_life the_king_in_yellow vocaloid persona mario_(series) persona_3 cyberpunk_(series) cyberpunk:_edgerunners bemani
 ?soldier_11_(zenless_zone_zero) -> zenless_zone_zero genshin_impact mihoyo blue_archive honkai_(series) honkai:_star_rail gundam one_piece splatoon_(series) marvel
+?ansem_seeker_of_darkness -> kingdom_hearts kingdom_hearts_i kingdom_hearts_ii kingdom_hearts_iii kingdom_hearts_birth_by_sleep mickey_mouse_&_friends kingdom_hearts_3d:_dream_drop_distance kingdom_hearts_358/2_days kingdom_hearts:_chain_of_memories final_fantasy
