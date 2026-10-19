@@ -7395,3 +7395,4 @@
 ?kiyama_harumi -> toaru_majutsu_no_index toaru_kagaku_no_railgun toaru_majutsu_no_index:_old_testament toaru_kagaku_no_railgun_s toaru_majutsu_no_index:_new_testament toaru_kagaku_no_railgun_t touhou comiket_108 komica blue_archive
 ?rocket_raccoon -> marvel guardians_of_the_galaxy marvel_rivals spider-man_(series) avengers_(series) x-men the_incredible_hulk_(series) guardians_of_the_galaxy_vol._3 marvel_vs._capcom fantastic_four
 ?katja_(black_survival) -> black_survival eternal_return:_black_survival daejeon_autoarms original warhammer_40k
+?flicky_(character) -> sonic_(series) sonic_the_hedgehog_(classic) sonic_adventure flicky_(series) the_murder_of_sonic_the_hedgehog sega sonic_cd sonic_the_hedgehog_1 sonic_superstars fantasy_zone
