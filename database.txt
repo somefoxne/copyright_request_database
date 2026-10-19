@@ -6480,3 +6480,4 @@
 ?kagura_hikari -> shoujo_kageki_revue_starlight shoujo_kageki_revue_starlight_-re_live- love_live! love_live!_school_idol_project bang_dream! bang_dream!_girls_band_party! real_life megami_magazine toji_no_miko gundam
 ?tsuyuzaki_mahiru -> shoujo_kageki_revue_starlight shoujo_kageki_revue_starlight_-re_live- bang_dream! real_life bang_dream!_girls_band_party! d4dj assault_lily animate_(company) pokemon
 ?gekiyaku -> utau vocaloid a.i._voice shiawasemono_(utau) cevio voiceroid synthesizer_v kamitsubaki_studio voicevox ado_(utaite)
+?macne_nana -> macne_series vocaloid apple_inc. utau voiceroid vsinger_(vocaloid) zola_project original pokemon confiture_pluie_(vocaloid)
