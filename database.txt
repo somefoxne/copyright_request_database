@@ -7429,3 +7429,4 @@
 ?suisen_(disgaea) -> disgaea makai_senki_disgaea_7 makai_senki_disgaea makai_senki_disgaea_2 makai_senki_disgaea_4 makai_senki_disgaea_3 makai_senki_disgaea_5 makai_senki_disgaea_6 disgaea_d2
 ?tink_(disgaea) -> disgaea makai_senki_disgaea_2 original makai_senki_disgaea nippon_ichi makai_senki_disgaea_3 phantom_brave phantom_kingdom la_pucelle_tactics marl_kingdom
 ?zeroken_(disgaea) -> disgaea makai_senki_disgaea_5 makai_senki_disgaea_4 makai_senki_disgaea_3 makai_senki_disgaea makai_senki_disgaea_2 disgaea_d2 makai_senki_disgaea_7 makai_senki_disgaea_6
+?sage_(sonic) -> sonic_(series) sonic_frontiers sonic_racing:_crossworlds vocaloid sonic_the_hedgehog_(classic) sonic_the_hedgehog_(2006) sonic_the_hedgehog_(idw) sonic_the_hedgehog_(archie_comics) mario_(series) sonic_channel
