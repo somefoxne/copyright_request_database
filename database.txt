@@ -6347,3 +6347,4 @@
 ?mutsuki_(new_year)_(blue_archive) -> blue_archive comiket_103 vocaloid chainsaw_man jouzai_(tooboe)
 ?hina_(swimsuit)_(blue_archive) -> blue_archive comiket_104 vocaloid comiket_107 blue_archive_the_animation real_life needy_girl_overdose minecraft comiket_106 comiket_108
 ?nurse_robot_type_t -> utau vocaloid voicevox a.i._voice synthesizer_v voisona voiceroid cevio kamitsubaki_studio kanashibari_ni_attara_(vocaloid)
+?nurse_robot_type_t_(vocaloid6) -> vocaloid utau q_(vocaloid) a.i._voice hu_xi_luan_(vocaloid) gakubuchi_no_kotoba_(vocaloid)
