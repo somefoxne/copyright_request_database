@@ -6661,3 +6661,4 @@
 ?rotie -> pokemon pokemon_champions original pokemon_red/green/blue/yellow blue_archive pokemon_scarlet_and_violet pokemon_black_2_and_white_2 ratatouille
 ?shinonono_houki -> infinite_stratos megami_magazine nyantype mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) k-on! infinite_stratos:_archetype_breaker seikon_no_qwaser seikimatsu_occult_gakuin
 ?z3_max_schultz_(kancolle) -> kantai_collection girls_und_panzer world_cup world_witches_series idolmaster axis_powers_hetalia big_hero_6 2014_fifa_world_cup fate_(series) fate/grand_order
+?z3_max_schultz_(swimsuit)_(kancolle) -> kantai_collection re:zero_kara_hajimeru_isekai_seikatsu azur_lane comiket_108 world_of_warships peach_(airline) fate_(series) fate/grand_order idolmaster idolmaster_cinderella_girls
