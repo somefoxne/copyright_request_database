@@ -6385,3 +6385,4 @@
 ?mirage_(deadlock) -> deadlock_(game)
 ?ghislaine_dedoldia -> mushoku_tensei boku_no_hero_academia bleach original fate_(series) fate/grand_order indie_virtual_youtuber guilty_gear pokemon pokemon_sword_and_shield
 ?artiomon -> digimon digimon_beatbreak
+?diarbbitmon -> digimon digimon_ghost_game one_piece jojo_no_kimyou_na_bouken vento_aureo digimon_card_game digimon_beatbreak digimon_adventure:_(2020)
