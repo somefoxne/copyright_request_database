@@ -7860,3 +7860,4 @@
 ?tyki_mikk -> d.gray-man original ragnarok_online kimetsu_no_yaiba nier_(series) nier:automata twisted_wonderland fullmetal_alchemist show_by_rock!! world_trigger
 ?bibian_(player) -> player_(manhwa)
 ?dewy_lotus_(shining_nikki) -> nikki_(series) shining_nikki
+?yan_shanxing_(shining_nikki) -> nikki_(series) shining_nikki
