@@ -6931,3 +6931,4 @@
 ?kay_(arknights) -> arknights arknights:_endfield
 ?darture_(girls'_frontline_2) -> goddess_of_victory:_nikke half-life_(series) half-life_2 fear_and_loathing_in_las_vegas
 ?shiranui_(kancolle) -> kantai_collection comiket_86 fatal_fury the_king_of_fighters gundam aoki_hagane_no_arpeggio original choo_choo_train azur_lane touken_ranbu
+?dyarikku_(vtuber) -> indie_virtual_youtuber vyugen vshojo hololive hololive_english starbucks original umamusume zenless_zone_zero nijisanji
