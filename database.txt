@@ -6744,3 +6744,4 @@
 ?kiana_kaslana_(sunny_beach) -> honkai_(series) honkai_impact_3rd
 ?murata_himeko_(black_mamba) -> honkai_(series) honkai_impact_3rd mihoyo genshin_impact honkai_gakuen
 ?raiden_mei_(vast_ocean) -> honkai_(series) honkai_impact_3rd
+?yae_sakura_(summer_dream) -> honkai_(series) honkai_impact_3rd genshin_impact mihoyo fate_(series) fate/grand_order starbucks
