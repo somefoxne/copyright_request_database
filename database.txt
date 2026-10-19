@@ -6992,3 +6992,4 @@
 ?celeste_(the_citadel) -> the_citadel beyond_citadel
 ?iota_(kagejitsu) -> kage_no_jitsuryokusha_ni_naritakute! kage_no_jitsuryokusha_ni_naritakute!_master_of_garden
 ?nu_(kagejitsu) -> kage_no_jitsuryokusha_ni_naritakute! kage_no_jitsuryokusha_ni_naritakute!_master_of_garden sin:_nanatsu_no_taizai
+?fujimine_(madan_no_ichi) -> madan_no_ichi
