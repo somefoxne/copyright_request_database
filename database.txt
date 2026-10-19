@@ -7150,3 +7150,4 @@
 ?sekhmet_of_death -> last_origin dog_days original kantai_collection fate_(series) fate/grand_order azur_lane skullgirls tenga
 ?sandrone_(the_final_gift)_(genshin_impact) -> genshin_impact vocaloid jujutsu_kaisen frozen_(disney)
 ?chen_gong_(fate) -> fate_(series) fate/grand_order fate/extra fate/samurai_remnant fate/stay_night fate/grand_order_arcade i_want_you gundam yu-gi-oh! spy_x_family
+?fujimaru_ritsuka_(female)_(polar_chaldea_uniform) -> fate_(series) fate/grand_order learning_with_manga!_fgo koha-ace fate/extra fate/apocrypha fate/stay_night fate/zero pixiv_fate/grand_order_contest_2 original
