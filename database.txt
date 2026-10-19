@@ -7571,3 +7571,4 @@
 ?shiraishi_tsumugi -> idolmaster idolmaster_million_live! idolmaster_million_live!_theater_days idolmaster_(classic) idolmaster_shiny_colors idolmaster_cinderella_girls idolmaster_starlit_season idolmaster_poplinks comiket_92 voy@ger_(idolmaster)
 ?bard_(sekaiju) -> sekaiju_no_meikyuu sekaiju_no_meikyuu_1 sekaiju_no_meikyuu_2 sekaiju_no_meikyuu_3 sekaiju_no_meikyuu_4 shin_sekaiju_no_meikyuu_2 sekaiju_no_meikyuu_hd persona shin_sekaiju_no_meikyuu persona_3
 ?bard_2_(sekaiju) -> sekaiju_no_meikyuu sekaiju_no_meikyuu_1 sekaiju_no_meikyuu_2 sekaiju_no_meikyuu_4 persona final_fantasy persona_3 persona_4 futaba_channel metaphor:_refantazio
+?kaminari_qpi -> vspo! vcr_gta madtown_gta busou_kanojo nijisanji street_fighter apex_legends street_fighter_6 holostars comiket_102
