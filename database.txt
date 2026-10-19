@@ -6833,3 +6833,4 @@
 ?takanashi_kiara_(pajamas) -> hololive hololive_english hololive_indonesia mage_arena neon_genesis_evangelion sono_bisque_doll_wa_koi_wo_suru hollow_knight hollow_knight:_silksong kininatteru_hito_ga_otoko_ja_nakatta hololive_official_card_game
 ?pompey_(zenless_zone_zero) -> zenless_zone_zero genshin_impact mihoyo fate_(series) honkai_(series) honkai:_star_rail fire_emblem fate/zero fire_emblem:_radiant_dawn fire_emblem:_path_of_radiance
 ?kisaki_(kiki)_(blue_archive) -> blue_archive fate_(series) fate/grand_order kamen_rider kobayashi-san_chi_no_maidragon comiket_107 kodomo_no_jikan kamen_rider_drive_(series) power_rangers yellow_magic_orchestra
+?kisaki_(kindergarten_uniform)_(blue_archive) -> blue_archive comiket_105 blue_archive_the_animation shukusei!!_loli-kami_requiem fate_(series) fate/grand_order arknights guilty_gear kamen_rider kobayashi-san_chi_no_maidragon
