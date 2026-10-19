@@ -6774,3 +6774,4 @@
 ?fischl_(genshin_impact) -> genshin_impact honkai_(series) mihoyo honkai_impact_3rd chuunibyou_demo_koi_ga_shitai! neon_genesis_evangelion pokemon fate_(series) fate/grand_order honkai:_star_rail
 ?piers_nivans -> resident_evil resident_evil_6 resident_evil_village resident_evil_5 resident_evil_2 resident_evil_4 resident_evil_3:_nemesis resident_evil_1 resident_evil_2_(remake) resident_evil_3_(remake)
 ?aris_(princess)_(blue_archive) -> blue_archive jujutsu_kaisen mario_(series) dragon_ball sonic_(series) sonic_frontiers super_mario_bros._wonder pen-pineapple-apple-pen stonetoss_comics
+?morrigan_(badcolor) -> goblin_nest
