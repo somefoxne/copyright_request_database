@@ -7285,3 +7285,4 @@
 ?shishikusa_mai -> oni_to_kitsune_no_hanashi vocaloid kitsune_no_yomeiri_(masa)_(vocaloid) himeyuri_enbukyou_(vocaloid) kitsune_no_yomeiri_(oster_project)_(vocaloid)
 ?aggron -> pokemon pokemon_ruby/sapphire/emerald pokemon_omega_ruby_and_alpha_sapphire pokemon_(anime) pokemon_adventures pokemon_black_2_and_white_2 pokemon_diamond/pearl/platinum pokemon_the_series:_diamond_and_pearl original pokemon_legends:_z-a
 ?raiden_mei_(striker_fulminata) -> honkai_(series) honkai_impact_3rd mihoyo genshin_impact honkai:_star_rail honkai_gakuen original blue_archive zenless_zone_zero gundam
+?whitney_(pokemon) -> pokemon pokemon_heartgold_and_soulsilver pokemon_gold/silver/crystal pokemon_masters_ex pokemon_diamond/pearl/platinum pokemon_ruby/sapphire/emerald pokemon_black_and_white pokemon_firered_and_leafgreen pokemon_scarlet_and_violet pokemon_(anime)
