@@ -7379,3 +7379,4 @@
 ?shigure_kai_ni_(kancolle) -> kantai_collection kantai_collection_(anime) gundam fate_(series) azur_lane lawson fate/grand_order little_red_riding_hood_(fairy_tale) pokemon dragon_quest
 ?ryogoku_tsukasa -> specialite_(company) riot_music kimetsu_no_yaiba comiket_108 yu_yu_hakusho e.t.
 ?kazagumo_(kancolle) -> kantai_collection real_life umamusume comiket_100 hokkaido_nippon-ham_fighters gundam original fate_(series) fate/grand_order high_school_fleet
+?kaya_(hazakura_hinata) -> original kantai_collection
