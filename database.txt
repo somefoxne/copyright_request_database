@@ -7593,3 +7593,4 @@
 ?tailred -> ore_twintail_ni_narimasu vocaloid black_rock_shooter haiyore!_nyaruko-san original lucky_star joukamachi_no_dandelion onii-chan_wa_oshimai! date_a_live niconico
 ?kumi_(vtuber) -> indie_virtual_youtuber original pokemon minecraft vedal_ai grand_theft_auto grand_theft_auto_vi beastiez l.a._noire
 ?nimi_nightmare_(lifeguard) -> indie_virtual_youtuber vinesauce original densetsu.exe wii_fit 3am stellarversepro national_geographic
+?seras_victoria -> hellsing hellsing:_the_dawn pokemon tsukihime touhou fate_(series) final_fantasy higurashi_no_naku_koro_ni vocaloid gundam
