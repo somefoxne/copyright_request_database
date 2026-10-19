@@ -6381,3 +6381,4 @@
 ?mimi_(princess_connect!) -> princess_connect! cygames gochuumon_wa_usagi_desu_ka? granblue_fantasy kantai_collection hololive genshin_impact touhou idolmaster umamusume
 ?lu_bu_(real_life) -> romance_of_the_three_kingdoms shin_sangoku_musou original gundam ikkitousen senran_kagura senran_kagura_new_link sd_gundam_sangokuden yawaraka_sangokushi_tsukisase!!_ryofuko-chan blue_archive
 ?ryofu_(koihime_musou) -> koihime_musou shin_sangoku_musou romance_of_the_three_kingdoms shin_koihime_musou fate_(series) gundam ikkitousen invincible_(series) sangokushi_taisen eiyuu_senki
+?psycho_mantis -> metal_gear_(series) metal_gear_solid metal_gear_solid_4:_guns_of_the_patriots touhou metal_gear_solid_2:_sons_of_liberty metal_gear_solid_v:_the_phantom_pain metal_gear_solid_3:_snake_eater mario_(series) real_life resident_evil
