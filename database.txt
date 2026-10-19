@@ -7021,3 +7021,4 @@
 ?shuppet -> pokemon pokemon_ruby/sapphire/emerald pokemon_x_and_y pokemon_omega_ruby_and_alpha_sapphire pokemon_legends:_z-a vocaloid pokemon_(anime) pokemon_diamond/pearl/platinum pokemon_heartgold_and_soulsilver pokemon_sun_and_moon
 ?rappy -> phantasy_star phantasy_star_online_2 phantasy_star_online_2_the_animation sega phantasy_star_online original phantasy_star_iv kantai_collection phantasy_star_iii vocaloid
 ?taiga_maou -> muv-luv muv-luv_girls_garden
+?glamrock_freddy -> mario_(series) sonic_(series) kirby_(series) animal_crossing adventure_time minecraft_youtube steven_universe the_amazing_world_of_gumball
