@@ -6323,3 +6323,4 @@
 ?north_flight_(casual)_(umamusume) -> umamusume nijisanji gundam the_legend_of_zelda mobile_suit_gundam sen_to_chihiro_no_kamikakushi cygames regular_show
 ?hanakuma_chifuyu -> cevio synthesizer_v voiceroid vocaloid utau a.i._voice voicevox kamitsubaki_studio talkex voicepeak
 ?hanakuma_chifuyu_(sv2) -> synthesizer_v cevio
+?takasugi_shinsuke -> gintama sannen_z-gumi_ginpachi_sensei jojo_no_kimyou_na_bouken nichijou pokemon umamusume one_piece suzumiya_haruhi_no_yuuutsu fate_(series) fate/grand_order
