@@ -7329,3 +7329,4 @@
 ?kashi_(halloween)_(kancolle) -> kantai_collection
 ?kashi_(kancolle) -> kantai_collection c2_kikan original gundam gundam_08th_ms_team yuru-chara pop_mart beavis_and_butt-head the_monsters_(kasing_lung)
 ?emiya_shirou_(prisma_illya) -> fate_(series) fate/kaleid_liner_prisma_illya fate/stay_night fate/grand_order tsukihime tsukihime_(remake) type-moon fate/hollow_ataraxia fate/extra fate/apocrypha
+?sadayoshi_(live_a_hero) -> live_a_hero tokyo_afterschool_summoners original arknights utau sankyuu_pitch juuni_senshi_bakuretsu_eto_ranger toumei_otoko_to_ningen_onna:_sonouchi_fuufu_ni_naru_futari
