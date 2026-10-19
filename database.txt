@@ -6940,3 +6940,4 @@
 ?jay_(ninjago) -> ninjago ninjago:_dragons_rising the_lego_ninjago_movie fortnite the_lego_group jojo_no_kimyou_na_bouken phantom_blood tomodachi_life tomodachi_life:_living_the_dream
 ?kai_(ninjago) -> ninjago ninjago:_dragons_rising the_lego_ninjago_movie fortnite the_lego_group bionicle death_battle project_moon boku_no_hero_academia limbus_company
 ?air_groove_(seaside_bloom)_(umamusume) -> umamusume umamusume:_cinderella_gray
+?ultraman_teo -> ultra_series ultraman_teo_(series) ultraman_arc_(series) ultraman_omega_(series) ultraman_blazar_(series) ultraman_(1st_series) umamusume ultraseven_(series) ultraman_80_(series) precure
