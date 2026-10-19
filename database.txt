@@ -7240,3 +7240,4 @@
 ?moro_(mononoke_hime) -> mononoke_hime studio_ghibli tonari_no_totoro majo_no_takkyuubin sen_to_chihiro_no_kamikakushi kaze_no_tani_no_nausicaa howl_no_ugoku_shiro tenkuu_no_shiro_laputa umamusume naruto_(series)
 ?harumiya_agatha -> indie_virtual_youtuber
 ?kiloc_(live_a_hero) -> live_a_hero
+?kalaski_(live_a_hero) -> live_a_hero
