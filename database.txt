@@ -7084,3 +7084,4 @@
 ?renamon -> digimon digimon_tamers pokemon digimon_adventure star_fox digimon_card_game original digimon_adventure_02 digimon_frontier digimon_xros_wars
 ?bonsly -> pokemon pokemon_(anime) pokemon_diamond/pearl/platinum pokemon_the_series:_ruby_and_sapphire pokemon:_lucario_and_the_mystery_of_mew pokemon_scarlet_and_violet pokemon_(classic_anime) pokemon_adventures pokemon_the_series:_diamond_and_pearl pokemon_4ever_-_celebi:_the_voice_of_the_forest
 ?magneton -> pokemon pokemon_heartgold_and_soulsilver pokemon_red/green/blue/yellow pokemon_(anime) pokemon_ruby/sapphire/emerald pokemon_gold/silver/crystal pokemon_(classic_anime) pokemon_diamond/pearl/platinum pokemon_black_2_and_white_2 pokemon_x_and_y
+?yatadera_narumi -> touhou hidden_star_in_four_seasons cookie_(touhou) touhou_(pc-98) touhou_lostword perfect_cherry_blossom legacy_of_lunatic_kingdom touhou_bougetsushou curiosities_of_lotus_asia ten_desires
