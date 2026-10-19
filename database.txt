@@ -6655,3 +6655,4 @@
 ?kuraishi_ringo_(glassy0302) -> original pokemon pokemon_scarlet_and_violet pokemon_sword_and_shield pokemon_legends:_z-a pokemon_legends:_arceus pokemon_sun_and_moon pokemon_ultra_sun_and_ultra_moon pokemon_champions pokemon_brilliant_diamond_and_shining_pearl
 ?mega_gyarados -> pokemon pokemon_x_and_y pokemon_(anime) pokemon_the_series:_sun_&_moon pokemon_legends:_z-a pokemon_(classic_anime) original pokemon_sun_and_moon pokemon_tcg
 ?mega_metagross -> pokemon pokemon_omega_ruby_and_alpha_sapphire pokemon_masters_ex pokemon_red/green/blue/yellow pokemon_(anime) pokemon_x_and_y pokemon_heartgold_and_soulsilver pokemon_black_and_white pokemon_diamond/pearl/platinum pokemon_sun_and_moon
+?metagross -> pokemon pokemon_omega_ruby_and_alpha_sapphire pokemon_ruby/sapphire/emerald pokemon_diamond/pearl/platinum pokemon_(anime) pokemon_heartgold_and_soulsilver pokemon_masters_ex pokemon_black_and_white pokemon_emerald pokemon_x_and_y
