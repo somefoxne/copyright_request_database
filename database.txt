@@ -7492,3 +7492,4 @@
 ?armend_(knights_of_guinevere) -> knights_of_guinevere
 ?portgas_d._ace -> one_piece one_piece_card_game original one_piece_film:_red one_piece_fan_letter one_piece_treasure_cruise pokemon one_piece:_stampede touhou fullmetal_alchemist
 ?sabo_(one_piece) -> one_piece one_piece_card_game one_piece:_stampede one_piece_film:_red one_piece_treasure_cruise pokemon jojo_no_kimyou_na_bouken naruto_(series) one_piece_everyday original
+?alfonse_(fire_emblem) -> fire_emblem fire_emblem_heroes fire_emblem_fates fire_emblem_awakening fire_emblem:_mystery_of_the_emblem fire_emblem:_the_blazing_blade fire_emblem:_path_of_radiance fire_emblem:_the_binding_blade fire_emblem:_genealogy_of_the_holy_war fire_emblem_echoes:_shadows_of_valentia
