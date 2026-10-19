@@ -7871,3 +7871,4 @@
 ?botan_(yu_yu_hakusho) -> yu_yu_hakusho one_piece bishoujo_senshi_sailor_moon pokemon final_fantasy dragon_ball marvel dc_comics dragon_ball_z teen_titans
 ?urameshi_yusuke -> yu_yu_hakusho jojo_no_kimyou_na_bouken dragon_ball one_piece bleach hunter_x_hunter slam_dunk_(series) yu-gi-oh! naruto_(series) dragon_ball_z
 ?mega_absol -> pokemon pokemon_x_and_y original pokemon_(anime) pokemon_legends:_z-a pokemon_omega_ruby_and_alpha_sapphire pokemon_tcg pokemon_the_series:_xy pokemon_mystery_dungeon love_live!
+?kezumi_(charupopu) -> original
