@@ -6639,3 +6639,4 @@
 ?reimei_mira -> mekpark hololive hololive_english
 ?ranoa_prostitute_(mushoku_tensei) -> mushoku_tensei
 ?ushio_(kancolle) -> kantai_collection original lawson aoki_hagane_no_arpeggio pokemon ushio_to_tora choo_choo_train idolmaster idolmaster_cinderella_girls girls_und_panzer
+?haurchefant_greystone -> final_fantasy final_fantasy_xiv pokemon original fire_emblem star_ocean star_ocean:_the_second_story valkyrie_profile_(series) umamusume arknights
