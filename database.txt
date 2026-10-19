@@ -7902,3 +7902,4 @@
 ?talho_yuuki -> eureka_seven_(series) eureka_seven gundam fate_(series) fate/stay_night neon_genesis_evangelion naruto_(series) code_geass rebuild_of_evangelion naruto_shippuuden
 ?meisen_mirisu -> indie_virtual_youtuber
 ?director_(astrae_oratio) -> astrae_oratio
+?ran_houshun -> futsutsuka_na_akujo_de_wa_gozaimasu_ga
