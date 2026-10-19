@@ -7625,3 +7625,4 @@
 ?prima_shion -> seizei_ganbare!_mahou_shoujo_kurumi
 ?sankenshoku_mizuki -> seizei_ganbare!_mahou_shoujo_kurumi
 ?unshiuehime_mikan -> seizei_ganbare!_mahou_shoujo_kurumi
+?peto_(hanako_nana) -> stellive the_wizard_of_oz
