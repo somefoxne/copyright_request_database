@@ -7726,3 +7726,4 @@
 ?zentreya_(werewolf) -> vshojo socks_agency indie_virtual_youtuber pokemon genshin_impact vchiban
 ?ghostface -> scream_(movie) dead_by_daylight friday_the_13th halloween_(movie) original touhou a_nightmare_on_elm_street the_ring saw_(movie)
 ?fragrans_(nocturnal_singer)_(strinova) -> strinova
+?fragrans_(strinova) -> strinova
