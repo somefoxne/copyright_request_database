@@ -7188,3 +7188,4 @@
 ?yugiri_tsuzuri_(kakumei_no_butoukai) -> love_live! love_live!_hasu_no_sora_jogakuin_school_idol_club deepness_(love_live!) dream_believers love_live!_hasu_no_sora_jogakuin_school_idol_club_bloom_garden_party link_to_the_future_(love_live!) aurora_flower_(love_live!) natsumeki_pain ampere_(love_live!) zenhoi_kyun
 ?disgust_(inside_out) -> inside_out inside_out_2 disney pokemon mario_(series) one-punch_man invader_zim original umamusume utdr_(toby_fox)
 ?kobayashi_(maidragon) -> kobayashi-san_chi_no_maidragon chainsaw_man kono_subarashii_sekai_ni_shukufuku_wo! bocchi_the_rock! re:zero_kara_hajimeru_isekai_seikatsu neon_genesis_evangelion pokemon dc_comics original touhou
+?tohru_(maidragon) -> kobayashi-san_chi_no_maidragon touhou kyoto_animation re:zero_kara_hajimeru_isekai_seikatsu kono_subarashii_sekai_ni_shukufuku_wo! hyouka original chainsaw_man monster_musume_no_iru_nichijou fate_(series)
