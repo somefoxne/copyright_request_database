@@ -7243,3 +7243,4 @@
 ?kalaski_(live_a_hero) -> live_a_hero
 ?capybara_(genshin_impact) -> genshin_impact
 ?celaeno_(genshin_impact) -> genshin_impact honkai_(series) honkai:_star_rail mihoyo zenless_zone_zero
+?lumi_(genshin_impact) -> genshin_impact baskin-robbins honkai_(series) honkai:_star_rail mihoyo mario_(series) super_mario_galaxy
