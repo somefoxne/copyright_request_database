@@ -7835,3 +7835,4 @@
 ?avery_(female)_(degrees_of_lewdity) -> degrees_of_lewdity original
 ?stormbringer_cookie -> cookie_run cookie_run:_kingdom
 ?fumizuki_kai_ni_(kancolle) -> kantai_collection gekkou_kamen_(series) comiket_100 original umamusume kemono_friends
+?tonimura_yui -> esse_series hyoutenka_30-do_no_zetsubou oshi_no_taisetsuna_hito_ni_narikawaru oshi_no_tachiba_ga_irekawaru saihate_eki otome_kaibou_(vocaloid) pajamy_(vocaloid) pokemon genshin_impact project_moon
