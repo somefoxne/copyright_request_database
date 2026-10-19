@@ -7952,3 +7952,4 @@
 ?enchanted_encounter_(infinity_nikki) -> nikki_(series) infinity_nikki cardcaptor_sakura stardew_valley
 ?bunny_girl_guard_(ar)_(blue_archive) -> blue_archive
 ?devit -> d.gray-man higurashi_no_naku_koro_ni katekyo_hitman_reborn! air_gear mr._fullswing
+?jasdero -> d.gray-man
