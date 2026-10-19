@@ -6564,3 +6564,4 @@
 ?nanami_mami -> kanojo_okarishimasu megami_magazine shiunji-ke_no_kodomotachi original pokemon taimanin_(series) little_red_riding_hood_(fairy_tale) under_night_in-birth taimanin_asagi
 ?sayu_(genshin_impact) -> genshin_impact honkai_(series) olympics horizon_(game) pokemon azur_lane honkai:_star_rail spy_x_family mihoyo
 ?ukinami_yuzuha_(tanuki_in_broad_daylight) -> zenless_zone_zero honkai_(series) honkai_impact_3rd mihoyo ruri_no_houseki hololive umamusume honkai:_star_rail hololive_english carnival_phantasm
+?cinderace -> pokemon pokemon_(anime) pokemon_journeys pokemon_sword_and_shield pokemon_unite original pokemon_the_series:_ruby_and_sapphire pokemon_(classic_anime) pokemon_the_series:_sun_&_moon pokemon_the_series:_xy
