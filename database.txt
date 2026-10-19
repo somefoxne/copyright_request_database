@@ -7904,3 +7904,4 @@
 ?director_(astrae_oratio) -> astrae_oratio
 ?ran_houshun -> futsutsuka_na_akujo_de_wa_gozaimasu_ga
 ?shu_keigetsu -> futsutsuka_na_akujo_de_wa_gozaimasu_ga megami_magazine gundam ore_no_imouto_ga_konna_ni_kawaii_wake_ga_nai animal_crossing kusuriya_no_hitorigoto victory_gundam animage
+?natsuki_karin -> cevio synthesizer_v voiceroid vocaloid a.i._voice voicevox utau talkex onikko_hunter_tsuina-chan gynoid_talk
