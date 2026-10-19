@@ -6688,3 +6688,4 @@
 ?makinohara_shouko -> seishun_buta_yarou comiket_105 comiket_96 comiket_102 genshin_impact jojo_no_kimyou_na_bouken re:zero_kara_hajimeru_isekai_seikatsu monogatari_(series) megami_magazine
 ?kawakaze_(guardian_fox_forever_loyal)_(azur_lane) -> azur_lane
 ?herta_(puppet)_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail genshin_impact mihoyo honkai_impact_3rd original comiket_106 hololive arknights poptepipic
+?green_(deltarune) -> utdr_(toby_fox) deltarune undertale vocaloid mario_(series) spongebob_squarepants_(series) invincible_(series) smiling_friends kung_fu_panda futatsu_no_mokuba_(vocaloid)
