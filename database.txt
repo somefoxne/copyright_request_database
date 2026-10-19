@@ -7139,3 +7139,4 @@
 ?husk_(hazbin_hotel) -> hellaverse hazbin_hotel pokemon utdr_(toby_fox) undertale my_little_pony my_little_pony:_friendship_is_magic south_park helluva_boss family_guy
 ?lita_(kmnz) -> kmnz nijisanji hololive indie_virtual_youtuber original kirby_(series) nanashi_inc. monsterz_mate ficty blue_archive
 ?nero_(kmnz) -> kmnz vesperbell kamitsubaki_studio nanashi_inc. starbucks the_beatles frankenstein abbey_road wego
+?yellow_diamond_(steven_universe) -> steven_universe pokemon utdr_(toby_fox) undertale adventure_time jojo_no_kimyou_na_bouken steven_universe_future original vocaloid mahou_shoujo_madoka_magica
