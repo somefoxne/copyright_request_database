@@ -6529,3 +6529,4 @@
 ?ye_shunguang_(enlightened_state) -> zenless_zone_zero mihoyo honkai_(series) honkai:_star_rail genshin_impact chainsaw_man jujutsu_kaisen fate_(series) fate/grand_order honkai_impact_3rd
 ?nicolina_(project_moon) -> project_moon limbus_company library_of_ruina lobotomy_corporation kokoro_yohou_(eve) kekkai_sensen karaoke_manekineko eve_(musician) blue_archive mario_(series)
 ?pulse_(shy) -> shy_(series)
+?ivy_(deadlock) -> deadlock_(game) vocaloid zenless_zone_zero utdr_(toby_fox) elden_ring deltarune elden_ring_nightreign fortnite atlyss
