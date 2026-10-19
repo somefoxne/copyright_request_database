@@ -7132,3 +7132,4 @@
 ?nea_(chihuri) -> original microsoft_windows windows_classic windows_95 instagram
 ?boa_hancock -> one_piece one_piece:_stampede one_piece_card_game bleach one_piece_treasure_cruise naruto_(series) one_piece_film:_red naruto_(classic) pokemon original
 ?anton_ivanov -> zenless_zone_zero kill_la_kill looney_tunes jojo_no_kimyou_na_bouken persona guilty_gear bleach persona_5 tengen_toppa_gurren_lagann battle_tendency
+?ultima_(tensura) -> tensei_shitara_slime_datta_ken
