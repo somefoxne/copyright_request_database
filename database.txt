@@ -7666,3 +7666,4 @@
 ?rimururu -> samurai_spirits the_king_of_fighters snk angel_flavor touhou fatal_fury garou:_mark_of_the_wolves bakumatsu_rouman street_fighter street_fighter_zero_(series)
 ?shikuru -> samurai_spirits
 ?elena_(trickcal) -> trickcal bokete blue_archive death_note the_creation_of_adam pink_floyd dark_side_of_the_moon
+?kanami_(azure_specter)_(strinova) -> strinova
