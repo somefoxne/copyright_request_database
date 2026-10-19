@@ -7042,3 +7042,4 @@
 ?zio_(phantasy_star) -> phantasy_star phantasy_star_iv
 ?vivid_bad_squad_miku -> vocaloid project_sekai kowareta_sekai_to_utaenai_miku teikoku_shoujo_(vocaloid) journey_(vocaloid) osomatsu_(series) osomatsu-san zozotown daybreak_frontline_(vocaloid) rad_dogs_(vocaloid)
 ?laru_(stella_sora) -> stella_sora
+?koharu_rikka -> cevio synthesizer_v voiceroid vocaloid voicevox utau a.i._voice kamitsubaki_studio talkex coefont
