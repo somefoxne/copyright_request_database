@@ -6460,3 +6460,4 @@
 ?skiploom -> pokemon pokemon_(anime) pokemon_heartgold_and_soulsilver pokemon_gold/silver/crystal pokemon_black_and_white pokemon_diamond/pearl/platinum pokemon_scarlet_and_violet pokemon_firered_and_leafgreen pokemon_(classic_anime) pokemon_omega_ruby_and_alpha_sapphire
 ?cheeta_(girls'_frontline_2) -> bocchi_the_rock! real_life sanrio fuwa_fuwa_cinnamoroll instagram atlantis:_the_lost_empire point_blank_(game)
 ?commander_(girls'_frontline) -> original kantai_collection blue_archive arknights azur_lane doom_(series) reddit
+?mp7_(girls'_frontline) -> rainbow_six_siege counter-strike_(series) counter-strike_2 real_life metal_gear_(series) administrative_results
