@@ -6389,3 +6389,4 @@
 ?lordknightmon -> digimon digimon_story:_cyber_sleuth digimon_card_game digimon_frontier digimon_ghost_game hiragana_digimon_royal_knights_monogatari digimon_adventure digimon_adventure_02 digimon_tamers digimon_story:_time_stranger
 ?sylvia_(konosuba) -> kono_subarashii_sekai_ni_shukufuku_wo! kono_subarashii_sekai_ni_shukufuku_wo!:_kurenai_densetsu original pokemon indie_virtual_youtuber pokemon_sword_and_shield guilty_gear digimon pokemon_black_2_and_white_2 rwby
 ?knightmon -> digimon digimon_card_game digimon_story:_cyber_sleuth digimon_ghost_game digimon_xros_wars
+?tsukiyono_ruli -> digimon digimon_ghost_game digimon_xros_wars digimon_universe:_appli_monsters digimon_savers digimon_adventure digimon_adventure_02 digimon_tamers digimon_frontier digimon_adventure:_(2020)
