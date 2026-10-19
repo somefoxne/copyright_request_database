@@ -6936,3 +6936,4 @@
 ?ange_katrina_(qipao) -> nijisanji indie_virtual_youtuber bans lockheed_martin hololive vspo! sana_channel vampire_(vocaloid) moechakkafire cherry_pop_(vocaloid)
 ?kagami_hayato_(rof-mao) -> nijisanji
 ?usami_rito_(2nd_costume) -> nijisanji ryuu_ga_gotoku_(series) ryuu_ga_gotoku_0
+?han_juri_(sf6_outfit_3) -> street_fighter street_fighter_6 fatal_fury street_fighter_v darkstalkers street_fighter_zero_(series) street_fighter_iv_(series) capcom reject_(esports) neco_drop
