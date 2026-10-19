@@ -7932,3 +7932,4 @@
 ?sugar_puppet_(money_for_girls:_amortized) -> money_for_girls:_amortized
 ?analyst_(astrae_oratio) -> astrae_oratio
 ?jurah_(fire_emblem) -> fire_emblem
+?jewelry_bonney -> one_piece one_piece_card_game hololive hololive_english one_piece_treasure_cruise one_piece:_stampede fate_(series) fate/stay_night kimetsu_no_yaiba shingeki_no_kyojin
