@@ -6767,3 +6767,4 @@
 ?wolf_tengu_extra_(touhou) -> touhou original touhou_(pc-98) star_wars battlefield_(series) 300_(movie) battlefield_3 world_witches_series coca-cola call_of_duty
 ?ish_iii -> princess_reconquista cookie_run cookie_run:_kingdom cloud_meadow onigotchi halloween_harem xenotake
 ?zhuang_fangyi_(empyrean_of_truth)_(arknights) -> arknights arknights:_endfield jujutsu_kaisen
+?zankou_(nte) -> neverness_to_everness grand_theft_auto grand_theft_auto_v
