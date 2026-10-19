@@ -7519,3 +7519,4 @@
 ?silverash_(york's_bise)_(arknights) -> arknights ambience_synesthesia hololive jujutsu_kaisen coca-cola lost_in_paradise mounten
 ?miori_celesta -> indie_virtual_youtuber tsunderia hololive myholo_tv hololive_english mythic_live spy_x_family oshi_no_ko prism_project original
 ?kamen_rider_kuuga -> kamen_rider kamen_rider_kuuga_(series) kamen_rider_dcd kamen_rider_blade_(series) kamen_rider_555 kamen_rider_ryuki_(series) kamen_rider_agito_(series) kamen_rider_den-o_(series) kamen_rider_kabuto_(series) kamen_rider_kiva_(series)
+?kamen_rider_kuuga_(amazing_mighty_form) -> kamen_rider kamen_rider_kuuga_(series) fate_(series) fate/stay_night battle_spirits kamen_rider_battle kamen_rider_battle:_ganba_legends
