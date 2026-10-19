@@ -6454,3 +6454,4 @@
 ?clio_aite -> phase_connect vershion indie_virtual_youtuber original warhammer_40k azur_lane umamusume persona persona_5 dc_comics
 ?wilhelmina_frost -> phase_connect original vershion indie_virtual_youtuber hololive genshin_impact azur_lane hololive_english soulcalibur brown_dust_(series)
 ?mosin-nagant_(girls'_frontline) -> real_life battlefield_(series) girls_und_panzer dark_souls_(series) metal_gear_(series) dark_souls_i va-11_hall-a rainbow_six_siege
+?mosin-nagant_(girls'_frontline_2) -> umamusume helldivers_(series) battlefield_(series) atomic_heart company_of_heroes war_of_the_worlds
