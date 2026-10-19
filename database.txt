@@ -7687,3 +7687,4 @@
 ?mega_golisopod -> pokemon pokemon_legends:_z-a pokemon_sun_and_moon
 ?mega_scizor -> pokemon pokemon_masters_ex pokemon_x_and_y pokemon_sun_and_moon pokemon_legends:_z-a kantai_collection pokemon_diamond/pearl/platinum pokemon_omega_ruby_and_alpha_sapphire pokemon_gold/silver/crystal original
 ?katayama_kumi -> persona persona_5 persona_5:_the_phantom_x sega atlus
+?wolfgang_amadeus_mozart_(real_life) -> real_life touhou fate_(series) fate/grand_order hololive hololive_english kemono_friends kemono_friends_v_project touhou_lostword koha-ace
