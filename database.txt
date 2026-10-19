@@ -6849,3 +6849,4 @@
 ?dolores_(ac8231) -> original kantai_collection
 ?taihou_(enraptured_companion)_(azur_lane) -> azur_lane original fate_(series) fate/grand_order arknights high_school_dxd oshiro_project:re hololive umamusume re:zero_kara_hajimeru_isekai_seikatsu
 ?hoshikawa_sara_(e_star) -> nijisanji
+?millie_parfait_(1st_costume) -> nijisanji nijisanji_en nijisanji_kr jollibee hololive twitter nijisanji_id pokemon fate_(series) idolmaster
