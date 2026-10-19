@@ -7068,3 +7068,4 @@
 ?yuzu_(maid)_(blue_archive) -> blue_archive metal_gear_(series) bocchi_the_rock! metal_gear_solid comiket_104 blue_archive_the_animation lol_comics needy_girl_overdose comiket_106 internet_yamero
 ?kei_(dirty_pair) -> dirty_pair urusei_yatsura sunrise_(company) gundam precure lyrical_nanoha mahou_shoujo_lyrical_nanoha_strikers futari_wa_precure kaze_no_tani_no_nausicaa out_(magazine)
 ?yuri_(dirty_pair) -> dirty_pair urusei_yatsura sunrise_(company) gundam precure mobile_suit_gundam out_(magazine) lyrical_nanoha mahou_shoujo_lyrical_nanoha_strikers zeta_gundam
+?dina_(duel_masters) -> duel_masters
