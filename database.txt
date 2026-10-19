@@ -6619,3 +6619,4 @@
 ?cleffa -> pokemon pokemon_gold/silver/crystal pokemon_(anime) pokemon_sun_and_moon pokemon_heartgold_and_soulsilver pokemon_legends:_z-a vocaloid pokemon_diamond/pearl/platinum pokemon_firered_and_leafgreen pokemon_the_series:_sun_&_moon
 ?blaziken -> pokemon pokemon_omega_ruby_and_alpha_sapphire pokemon_ruby/sapphire/emerald pokemon_(anime) pokemon_adventures pokemon_diamond/pearl/platinum pokemon_x_and_y pokemon_the_series:_ruby_and_sapphire pokemon_unite pokemon_emerald
 ?mega_blaziken -> pokemon pokemon_omega_ruby_and_alpha_sapphire pokemon_x_and_y pokemon_ruby/sapphire/emerald kirby_(series) pokemon_masters_ex pokemon_(anime) pokemon_tcg pokemon_the_series:_xy pokemon_the_series:_ruby_and_sapphire
+?natori_sana -> sana_channel nijisanji indie_virtual_youtuber uni_create hololive pokemon blue_archive .live mode_aim nanashi_inc.
