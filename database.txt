@@ -6842,3 +6842,4 @@
 ?yuzuki_yukari_(a.i._voice) -> a.i._voice voiceroid vocaloid cevio kirby_(series) synthesizer_v youtube talkex gynoid_talk coefont
 ?kyoumachi_seika -> voiceroid vocaloid cevio voicevox gynoid_talk a.i._voice utau onikko_hunter_tsuina-chan synthesizer_v talkex
 ?kikuchi_midori -> sekai_metsubou_kyouyuu_gensou_mamiya sanrio kero_kero_keroppi
+?hakase_fuyuki_(10th_costume) -> nijisanji nijisanji_en nijisanji_kr nijisanji_id
