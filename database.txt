@@ -6792,3 +6792,4 @@
 ?usami_rito_(1st_costume) -> nijisanji nijisanji_en nijisanji_kr nijisanji_id splatoon_(series) vspo! holostars animal_crossing animal_crossing:_new_horizons
 ?eimi_(armed)_(blue_archive) -> blue_archive neon_genesis_evangelion rebuild_of_evangelion evangelion:_3.0+1.0_thrice_upon_a_time devil_may_cry_(series) devil_may_cry_3 jujutsu_kaisen kirby_(series) pepsi google
 ?tigress_(kung_fu_panda) -> kung_fu_panda original pokemon digimon my_little_pony my_little_pony:_friendship_is_magic the_amazing_world_of_gumball arknights zenless_zone_zero
+?blaze_the_cat -> sonic_(series) sonic_rush sonic_rush_adventure the_murder_of_sonic_the_hedgehog sonic_the_hedgehog_(2006) sonic_and_the_black_knight sonic_riders_(series) sonic_the_hedgehog_(idw) sonic_the_hedgehog_(classic) mario_&_sonic_(series)
