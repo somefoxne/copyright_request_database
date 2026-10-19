@@ -7609,3 +7609,4 @@
 ?matara_kan_(evil) -> indie_virtual_youtuber densetsu.exe dragon_ball dragon_ball_z vshojo vinesauce gamer_supps
 ?moroboshi_ataru -> urusei_yatsura ranma_1/2 inuyasha kyoukai_no_rinne maison_ikkoku original mao_(takahashi_rumiko) 1_pound_no_fukuin chainsaw_man real_life
 ?ten_(urusei_yatsura) -> urusei_yatsura ranma_1/2 original inuyasha maison_ikkoku sony dirty_pair kyoukai_no_rinne vocaloid pokemon
+?mey_mey_(precure) -> precure wonderful_precure! hirogaru_sky!_precure star_twinkle_precure kirakira_precure_a_la_mode mahou_tsukai_precure! smile_precure! dokidoki!_precure heartcatch_precure! suite_precure
