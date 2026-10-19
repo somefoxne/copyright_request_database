@@ -7758,3 +7758,4 @@
 ?sitri_smart -> nageki_no_bourei_wa_intaishitai disgaea disgaea_rpg megami_magazine
 ?ashiya_douman_(fate) -> fate_(series) fate/grand_order fate/extra fate/grand_order_arcade mononoke original jojo_no_kimyou_na_bouken pokemon fujimaru_ritsuka_wa_wakaranai fate/stay_night
 ?ibaraki_douji_(fate) -> fate_(series) fate/grand_order fate/extra fate/apocrypha fate/stay_night kantai_collection fate/zero fate/extra_ccc fate/hollow_ataraxia touhou
+?murasaki_shikibu_(fate) -> fate_(series) fate/grand_order fate/stay_night kono_subarashii_sekai_ni_shukufuku_wo! original azur_lane fate/extra comiket_105 comiket_100 touhou
