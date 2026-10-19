@@ -6643,3 +6643,4 @@
 ?kisaki_(kindergarten_swimsuit)_(blue_archive) -> blue_archive
 ?alolan_rattata -> pokemon pokemon_sun_and_moon pokemon_(anime) pokemon_ultra_sun_and_ultra_moon pokemon_(classic_anime) pokemon_the_series:_sun_&_moon pokemon_red/green/blue/yellow pokemon_the_series:_xy pokemon_the_series:_diamond_and_pearl pokemon_tcg
 ?reisalin_stout -> atelier_(series) atelier_ryza atelier_ryza_1 atelier_ryza_2 atelier_ryza_3 azur_lane atelier_resleriana atelier_sophie gridman_universe ssss.gridman
+?doki_baragaki -> shy_(series) blank_room_soup
