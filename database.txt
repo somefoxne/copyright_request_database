@@ -7454,3 +7454,4 @@
 ?kamen_rider_double_(lunatrigger) -> kamen_rider kamen_rider_w battle_spirits kamen_rider_fourze_(series) kamen_rider_(1st_series) kamen_rider_blade_(series) kamen_rider_kiva_(series) kamen_rider_agito_(series) fuuto_tantei kamen_rider_v3_(series)
 ?urshifu -> pokemon pokemon_sword_and_shield pokemon_tcg original pokemon_sun_and_moon pokemon_unite xenoblade_chronicles_(series) pokemon_(anime) xenoblade_chronicles_2 pokemon_masters_ex
 ?mega_swampert -> pokemon pokemon_omega_ruby_and_alpha_sapphire beauty_and_the_beast_(disney) pokemon_x_and_y pokemon_(anime) original pokemon_sun_and_moon pokemon_masters_ex pokemon_ruby/sapphire/emerald pokemon_rumble
+?swampert -> pokemon pokemon_ruby/sapphire/emerald pokemon_omega_ruby_and_alpha_sapphire pokemon_emerald pokemon_adventures pokemon_diamond/pearl/platinum pokemon_(anime) pokemon_black_and_white pokemon_red/green/blue/yellow pokemon_sun_and_moon
