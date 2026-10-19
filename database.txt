@@ -6898,3 +6898,4 @@
 ?regaleira_(racehorse) -> umamusume original real_life
 ?komi_shouko -> komi-san_wa_komyushou_desu sono_bisque_doll_wa_koi_wo_suru ijiranaide_nagatoro-san uzaki-chan_wa_asobitai! bocchi_the_rock! spy_x_family genshin_impact chainsaw_man pokemon dragon_ball
 ?hakos_baelz_(steel_rose) -> hololive hololive_english hololive_grand_theft_auto hololive_official_card_game hololive_dev_is the_game_of_sisyphus indie_virtual_youtuber one_piece persona persona_5
+?arcane_caitlyn -> league_of_legends arcane:_league_of_legends avatar_legends the_legend_of_korra rwby adventure_time 2xko dc_comics the_owl_house she-ra_and_the_princesses_of_power
