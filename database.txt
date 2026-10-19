@@ -6747,3 +6747,4 @@
 ?yae_sakura_(summer_dream) -> honkai_(series) honkai_impact_3rd genshin_impact mihoyo fate_(series) fate/grand_order starbucks
 ?midori_(maid)_(blue_archive) -> blue_archive tamagotchi tamagotchi_(classic) comiket_106 bocchi_the_rock! comiket_104 metal_gear_(series) comiket_103 lol_comics mario_(series)
 ?jump-rope_tutor_(rhythm_tengoku) -> rhythm_tengoku rhythm_tengoku_miracle_stars
+?pet_(rhythm_tengoku) -> rhythm_tengoku rhythm_tengoku_miracle_stars blue_archive
