@@ -7242,3 +7242,4 @@
 ?kiloc_(live_a_hero) -> live_a_hero
 ?kalaski_(live_a_hero) -> live_a_hero
 ?capybara_(genshin_impact) -> genshin_impact
+?celaeno_(genshin_impact) -> genshin_impact honkai_(series) honkai:_star_rail mihoyo zenless_zone_zero
