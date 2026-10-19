@@ -7283,3 +7283,4 @@
 ?blu_fempyro_(paladinmaui) -> team_fortress_2 fallout fallout:_new_vegas pootis_engage
 ?oborozuka_akari -> oni_to_kitsune_no_hanashi vocaloid kitsune_no_yomeiri_(masa)_(vocaloid) himeyuri_enbukyou_(vocaloid) onigumo_to_kitsune_no_shishi_to_(vocaloid) ghost_and_pals kitsune_no_yomeiri_(oster_project)_(vocaloid) appetite_of_a_people-pleaser_(vocaloid) housewife_radio_(vocaloid) bop_it_(creep-p)
 ?shishikusa_mai -> oni_to_kitsune_no_hanashi vocaloid kitsune_no_yomeiri_(masa)_(vocaloid) himeyuri_enbukyou_(vocaloid) kitsune_no_yomeiri_(oster_project)_(vocaloid)
+?aggron -> pokemon pokemon_ruby/sapphire/emerald pokemon_omega_ruby_and_alpha_sapphire pokemon_(anime) pokemon_adventures pokemon_black_2_and_white_2 pokemon_diamond/pearl/platinum pokemon_the_series:_diamond_and_pearl original pokemon_legends:_z-a
