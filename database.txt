@@ -7821,3 +7821,4 @@
 ?hanazono_yumi -> mahou_no_idol_pastel_yumi mahou_no_yousei_persia studio_pierrot dream_hunter_rem mahou_no_tenshi_creamy_mami mahou_no_star_magical_emi fancy_lala mahou_no_princess_minky_momo mahou_tsukai_sally bishoujo_senshi_sailor_moon
 ?persia_(mahou_no_yousei_persia) -> mahou_no_yousei_persia mahou_no_idol_pastel_yumi studio_pierrot mahou_no_tenshi_creamy_mami mahou_no_star_magical_emi dream_hunter_rem bishoujo_senshi_sailor_moon mahou_no_princess_minky_momo cardcaptor_sakura fancy_lala
 ?richard_i_(fate) -> fate_(series) fate/strange_fake fate/grand_order weiss_schwarz fate/stay_night fate/prototype pokemon fate/extra tsukihime fate/apocrypha
+?richard_i_(second_ascension)_(fate) -> fate_(series) fate/strange_fake fate/grand_order pokemon real_life tsukihime sanrio tsukihime_(remake) minecraft fate/prototype
