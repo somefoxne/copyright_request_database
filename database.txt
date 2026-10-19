@@ -7077,3 +7077,4 @@
 ?fujikura_uruka -> phase_connect dc_comics hasbro apt._(rose_&_bruno_mars) fate_(series) fate/grand_order indie_virtual_youtuber honkai_(series) honkai:_star_rail chainsaw_man
 ?fujikura_uruka_(lust) -> phase_connect
 ?shu_(spring_feast)_(arknights) -> arknights ambience_synesthesia monster_hunter_(series) rush_hour
+?dechan_(duel_masters) -> duel_masters
