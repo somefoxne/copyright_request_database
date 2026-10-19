@@ -7721,3 +7721,4 @@
 ?guro_(blood_soup) -> blood_soup
 ?lost_robin_rondo -> mahou_tsukai_no_yoru fate_(series) fate/grand_order fate/extra tsukihime type-moon fate/stay_night fate/extra_ccc fate/zero fate/hollow_ataraxia
 ?leafyishere -> real_life
+?edmond_dantes_(fate) -> fate_(series) fate/grand_order fate/extra fate/apocrypha fate/stay_night tsukihime tsukihime_(remake) melty_blood melty_blood:_type_lumina danganronpa_(series)
