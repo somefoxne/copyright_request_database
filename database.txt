@@ -7641,3 +7641,4 @@
 ?kira_(senran_kagura) -> senran_kagura senran_kagura_shinovi_nexus
 ?nekomata_okayu_(new_year) -> hololive nijisanji hololive_english hololive_indonesia hololive_dev_is minecraft
 ?celeste_(deadlock) -> deadlock_(game) original animal_crossing
+?suou_momoko -> idolmaster idolmaster_million_live! idolmaster_million_live!_theater_days idolmaster_(classic) idolmaster_cinderella_girls idolmaster_shiny_colors cut_cut_cut_(idolmaster) gakuen_idolmaster idolmaster_side-m pokemon
