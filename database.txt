@@ -7373,3 +7373,4 @@
 ?shiun_saya -> muv-luv muv-luv_girls_garden
 ?housen_reiri -> coeiroink project_moon lobotomy_corporation
 ?fujimura_taiga -> fate_(series) fate/stay_night fate/zero fate/hollow_ataraxia type-moon tsukihime fate/grand_order suzumiya_haruhi_no_yuuutsu pani_poni_dash! gundam
+?pazuzu_(housamo) -> tokyo_afterschool_summoners touhou arknights zenless_zone_zero another_eidos-r crave_saga dislyte
