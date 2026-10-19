@@ -7229,3 +7229,4 @@
 ?pubraseer_(live_a_hero) -> live_a_hero indie_virtual_youtuber tokyo_afterschool_summoners utdr_(toby_fox) original pokemon vocaloid zenless_zone_zero precure deltarune
 ?bayfleet_grayoar_(knights_college) -> knights_college
 ?hiratsuka_satomi -> seitokai_ni_mo_ana_wa_aru!
+?umbreon -> pokemon pokemon_scarlet_and_violet pokemon_gold/silver/crystal pokemon_heartgold_and_soulsilver original pokemon_(anime) pokemon_firered_and_leafgreen pokemon_colosseum pokemon_diamond/pearl/platinum pokemon_sword_and_shield
