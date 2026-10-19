@@ -7368,3 +7368,4 @@
 ?mogami_(kancolle) -> kantai_collection kantai_collection_(anime) gundam aoki_hagane_no_arpeggio mario_(series) bleach lawson jojo_no_kimyou_na_bouken moomin giant_robo
 ?mogami_kai_ni_(kancolle) -> kantai_collection megami_magazine kantai_collection_(anime) hololive gundam helltaker comiket_107 gundam_0083 comiket_100 comiket_101
 ?lenhee_(kaito) -> original
+?shiratsuyu_(kancolle) -> kantai_collection umamusume k-on! choo_choo_train gundam kantai_collection_(anime) azur_lane mobile_suit_gundam fate_(series) dragon_ball
