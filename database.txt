@@ -6703,3 +6703,4 @@
 ?sapphira_nyx -> final_fantasy final_fantasy_xiv original yu-gi-oh! brown_dust_(series) brown_dust_2 vocaloid chainsaw_man bleach azur_lane
 ?wise_(peaceful_waves)_(zenless_zone_zero) -> zenless_zone_zero mihoyo genshin_impact honkai_(series) honkai:_star_rail blue_archive azur_lane comiket_106 carnival_phantasm boobwatch_(2011)
 ?amanai_riko -> jujutsu_kaisen free! touhou blue_archive medaka_box studio_mappa koukou_tekken-den_tough
+?dooby -> indie_virtual_youtuber hololive hololive_english densetsu.exe original counter-strike_(series) peak_(game) vspo! vspo!_en counter-strike_2
