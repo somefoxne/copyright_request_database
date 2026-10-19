@@ -7614,3 +7614,4 @@
 ?ayase_yuu -> phase_connect nier_(series) nier:automata pokemon monitoring_(vocaloid) precure pokemon_scarlet_and_violet overwatch pokemon_legends:_z-a heartcatch_precure!
 ?hakos_baelz_(party_dress) -> hololive hololive_english
 ?kumi_(harpy)_(vtuber) -> indie_virtual_youtuber
+?yuy_(vtuber) -> indie_virtual_youtuber phase_connect vedal_ai angel_with_a_shotgun
