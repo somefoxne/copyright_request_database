@@ -7314,3 +7314,4 @@
 ?miyama_tsubame -> school_girl_strikers megami_magazine square_enix vocaloid ranma_1/2 urusei_yatsura
 ?selkie_(fire_emblem) -> fire_emblem fire_emblem_fates fire_emblem_heroes fire_emblem:_radiant_dawn fire_emblem_awakening fire_emblem:_path_of_radiance fire_emblem_cipher fire_emblem:_three_houses fire_emblem:_the_sacred_stones kemono_friends
 ?hozuki_kaede -> onii-chan_wa_oshimai! original comiket_104 monopoly umamusume bocchi_the_rock! darkstalkers urusei_yatsura little_red_riding_hood_(fairy_tale)
+?murosaki_miyo -> onii-chan_wa_oshimai! fate_(series) fate/kaleid_liner_prisma_illya original gundam to_heart_(series) little_red_riding_hood_(fairy_tale) to_heart kantai_collection
