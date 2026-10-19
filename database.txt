@@ -7336,3 +7336,4 @@
 ?cyan_wisp_(sonic) -> sonic_(series) sonic_colors sonic_the_hedgehog_(idw) sonic_the_hedgehog_(classic) sonic_the_hedgehog_(archie_comics) sonic_riders_(series) sonic_boom_(series) sonic_rush_adventure sonic_forces sonic_colors:_ultimate
 ?knuckles_the_echidna -> sonic_(series) sonic_the_hedgehog_(classic) sonic_boom_(series) sonic_(live_action) sonic_adventure_2 sega sonic_adventure sonic_frontiers the_murder_of_sonic_the_hedgehog mario_(series)
 ?neutral_chao -> sonic_(series) sonic_adventure sonic_adventure_2 sonic_the_hedgehog_(classic) original sonic_rush_adventure the_murder_of_sonic_the_hedgehog sonic_the_hedgehog_(idw) sonic_riders_(series) sonic_rush
+?wisp_(sonic) -> sonic_(series) sonic_colors sonic_the_hedgehog_(classic) sonic_the_hedgehog_(idw) sonic_riders_(series) sonic_unleashed sonic_rush_adventure sonic_forces sonic_r the_murder_of_sonic_the_hedgehog
