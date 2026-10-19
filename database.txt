@@ -7097,3 +7097,4 @@
 ?thatmob -> verity_(series) minecraft_youtube
 ?verity_(thatmob) -> verity_(series) umineko_no_naku_koro_ni minecraft_youtube pokemon vocaloid sonic_(series) minecraft microsoft_windows godzilla_(series)
 ?reina_(1st_costume)_(nijisanji) -> nijisanji
+?hisuian_zorua -> pokemon pokemon_legends:_arceus idolmaster idolmaster_shiny_colors pokemon:_hisuian_snow original pokemon_black_and_white pokemon_scarlet_and_violet pokemon_cafe_remix genshin_impact
