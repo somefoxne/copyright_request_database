@@ -7936,3 +7936,4 @@
 ?blackberry_cookie -> cookie_run cookie_run:_ovenbreak cookie_run:_kingdom sonic_(series) dc_comics cookie_run_classic pokemon my_little_pony teen_titans
 ?d.mon_(overwatch) -> overwatch le_sserafim original
 ?defiled_anthem_d.mon -> overwatch
+?litwick -> pokemon pokemon_black_and_white pokemon_legends:_z-a pokemon_x_and_y pokemon_sword_and_shield vocaloid project_voltage pokemon_sun_and_moon pokemon_heartgold_and_soulsilver pokemon_masters_ex
