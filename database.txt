@@ -7469,3 +7469,4 @@
 ?kamen_rider_wizard -> kamen_rider kamen_rider_wizard_(series) kamen_rider_dcd kamen_rider_ooo_(series) kamen_rider_ryuki_(series) kamen_rider_gaim_(series) kamen_rider_fourze_(series) kamen_rider_kiva_(series) kamen_rider_w kamen_rider_den-o_(series)
 ?kamen_rider_wizard_(flame_style) -> kamen_rider kamen_rider_wizard_(series) kamen_rider_fourze_(series) kamen_rider_ooo_(series) kamen_rider_dcd kamen_rider_w kamen_rider_gaim_(series) kamen_rider_hibiki_(series) kamen_rider_ryuki_(series) kamen_rider_555
 ?miquella_(elden_ring) -> elden_ring elden_ring:_shadow_of_the_erdtree original dark_souls_(series) fromsoftware dark_souls_i dark_souls_iii elden_ring_nightreign sekiro:_shadows_die_twice guilty_gear
+?queen_marika_the_eternal -> elden_ring elden_ring:_shadow_of_the_erdtree dark_souls_(series) dark_souls_i fromsoftware fate_(series) dark_souls_iii fate/grand_order final_fantasy dark_souls_ii
