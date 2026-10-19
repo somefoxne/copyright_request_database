@@ -6630,3 +6630,4 @@
 ?hewie -> demento resident_evil capcom mega_man_(series) mega_man_(classic) silent_hill_(series) resident_evil_3:_nemesis ookami_(game) pokemon final_fantasy
 ?nurse_joy_(pokemon_legends:_z-a) -> pokemon pokemon_legends:_z-a pokemon_red/green/blue/yellow original pokemon_scarlet_and_violet pokemon_(anime) pokemon_(classic_anime) mother_(series) pokemon_pokopia
 ?kukuri_(mawaru) -> original pokemon twitter tokoyo_no_tou dragon_quest vocaloid azur_lane final_fantasy gundam final_fantasy_vii
+?mismagius -> pokemon vocaloid project_voltage pokemon_scarlet_and_violet pokemon_diamond/pearl/platinum pokemon_sun_and_moon pokemon_heartgold_and_soulsilver pokemon_(anime) pokemon_x_and_y original
