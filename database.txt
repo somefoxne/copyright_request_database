@@ -7255,3 +7255,4 @@
 ?devil_dinosaur -> marvel moon_girl_and_devil_dinosaur marvel_rivals guardians_of_the_galaxy x-men deadpool_(series) daredevil_(series) spider-man_(series) super_sentai avengers_(series)
 ?gorou_arashiyama -> king_kong_(series) sensha_isu:_tank_chair
 ?tahira_nagi -> sensha_isu:_tank_chair king_kong_(series)
+?fran_(kimishinu) -> kimi_ga_shinu_made_koi_wo_shitai
