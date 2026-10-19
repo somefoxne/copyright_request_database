@@ -6690,3 +6690,4 @@
 ?herta_(puppet)_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail genshin_impact mihoyo honkai_impact_3rd original comiket_106 hololive arknights poptepipic
 ?green_(deltarune) -> utdr_(toby_fox) deltarune undertale vocaloid mario_(series) spongebob_squarepants_(series) invincible_(series) smiling_friends kung_fu_panda futatsu_no_mokuba_(vocaloid)
 ?kiyosumi_lyra -> mekpark hololive hololive_english pukey_goddess_shot_trick
+?yoinagi_neon -> mekpark hololive hololive_english
