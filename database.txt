@@ -7694,3 +7694,4 @@
 ?shelgon -> pokemon pokemon_ruby/sapphire/emerald pokemon_(anime) pokemon_diamond/pearl/platinum pokemon_black_and_white pokemon_omega_ruby_and_alpha_sapphire pokemon_emerald pokemon_red/green/blue/yellow pokemon_heartgold_and_soulsilver pokemon_(classic_anime)
 ?trapinch -> pokemon pokemon_sword_and_shield vocaloid pokemon_ruby/sapphire/emerald project_voltage pokemon_omega_ruby_and_alpha_sapphire pokemon_heartgold_and_soulsilver pokemon_emerald pokemon_tcg pokemon_(anime)
 ?tomoe_umari -> indie_virtual_youtuber v-dere umamusume real_life i_want_you original touhou kemono_friends neon_genesis_evangelion
+?akai_(kite) -> a_kite dead_or_alive
