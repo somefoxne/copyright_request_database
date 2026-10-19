@@ -7176,3 +7176,4 @@
 ?niigaki_mayuri -> sekai_metsubou_kyouyuu_gensou_mamiya omori shoujo_kakumei_utena
 ?cinnamiku -> vocaloid sanrio fuwa_fuwa_cinnamoroll project_sekai magical_mirai_(vocaloid) my_melody_(series) pokemon genshin_impact utau project_voltage
 ?artier's_character -> original blade_&_soul
+?ente-sutii_le_gabriel -> maha_no_hanashi vocaloid impact_desu_entity_(vocaloid) original puyopuyo
