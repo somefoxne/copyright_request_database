@@ -7528,3 +7528,4 @@
 ?leonie_pinelli -> fire_emblem fire_emblem:_three_houses fire_emblem_heroes fire_emblem_warriors:_three_hopes fire_emblem_fates fire_emblem_cipher pokemon fire_emblem_awakening persona fire_emblem:_radiant_dawn
 ?kamen_rider_kuuga_(pegasus_form) -> kamen_rider kamen_rider_kuuga_(series) original m.u.g.e.n touhou fate_(series) fate/grand_order
 ?kamen_rider_kuuga_(titan_form) -> kamen_rider kamen_rider_kuuga_(series) fate_(series) fate/stay_night touhou fate/grand_order m.u.g.e.n
+?aimoto_asahi_(urushiushiru) -> original
