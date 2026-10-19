@@ -6695,3 +6695,4 @@
 ?takasugi_shinsaku_(fate) -> fate_(series) fate/grand_order shiguang_dailiren fate/dream_striker koha-ace sweets_paradise pokemon vocaloid honkai_(series) honkai:_star_rail
 ?exs-tia_chevalier -> kouyoku_senki_exs-tia lusterise sousai_shoujo_teien
 ?exs-tia_chevalier_(exs-tia_r) -> kouyoku_senki_exs-tia
+?rieszverne_suzette_paladill -> kouyoku_senki_exs-tia lusterise azur_lane
