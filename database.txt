@@ -6418,3 +6418,4 @@
 ?cerestia_of_life -> last_origin original pokemon pokemon_diamond/pearl/platinum soulworker kuroinu_~kedakaki_seijo_wa_hakudaku_ni_somaru~ artificial_hero
 ?elven_forest_maker -> last_origin fate_(series) genshin_impact fate/grand_order idolmaster granblue_fantasy idolmaster_shiny_colors original elden_ring world_cup
 ?ishigami_senkuu -> dr._stone boku_no_hero_academia jujutsu_kaisen one_piece black_clover kimetsu_no_yaiba shounen_jump umamusume jojo_no_kimyou_na_bouken dragon_ball
+?ohtsuki_yui -> idolmaster idolmaster_cinderella_girls idolmaster_cinderella_girls_starlight_stage cinderella_girls_gekijou idolmaster_shiny_colors idolmaster_(classic) idolmaster_million_live! blue_archive gakuen_idolmaster idolmaster_poplinks
