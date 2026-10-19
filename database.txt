@@ -7761,3 +7761,4 @@
 ?murasaki_shikibu_(fate) -> fate_(series) fate/grand_order fate/stay_night kono_subarashii_sekai_ni_shukufuku_wo! original azur_lane fate/extra comiket_105 comiket_100 touhou
 ?nikki_(nikki) -> nikki_(series) infinity_nikki shining_nikki miracle_nikki nikki_up2u2:_world_traveller nikki_up2u stardew_valley kfc original honkai_(series)
 ?perfect_start_(infinity_nikki) -> nikki_(series) infinity_nikki shining_nikki miracle_nikki nikki_up2u2:_world_traveller nikki_up2u stardew_valley original honkai_(series) honkai_impact_3rd
+?dreamtime_bestowed_(infinity_nikki) -> nikki_(series) infinity_nikki shining_nikki identity_v line_friends
