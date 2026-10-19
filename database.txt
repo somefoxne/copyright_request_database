@@ -6988,3 +6988,4 @@
 ?aizawa_ema_(1st_costume) -> vspo! nijisanji hololive apex_legends hololive_english crazy_raccoon indie_utaite comiket_107 neo-porte vspo!_en
 ?greater_roadrunner_(kemono_friends) -> kemono_friends kemono_friends_2 kemono_friends_3 looney_tunes kemono_friends_r kemono_friends_pavilion original ghost_in_the_shell keroro_gunsou one_piece
 ?machi_(machi0910)_(person) -> original real_life comiket_108 star_lusts fancy_frontier_47 discord
+?shu_(bingwenyuyou)_(arknights) -> arknights ambience_synesthesia
