@@ -7317,3 +7317,4 @@
 ?murosaki_miyo -> onii-chan_wa_oshimai! fate_(series) fate/kaleid_liner_prisma_illya original gundam to_heart_(series) little_red_riding_hood_(fairy_tale) to_heart kantai_collection
 ?oka_asahi -> onii-chan_wa_oshimai! original little_red_riding_hood_(fairy_tale) umamusume sanrio to_heart_(series) to_heart comiket_102 sekai_seifuku:_bouryaku_no_zvezda
 ?awayuki_hiiro -> anemoi summer_pockets key_(company)
+?red_crown_(cult_of_the_lamb) -> cult_of_the_lamb hololive touhou pokemon original utdr_(toby_fox) nijisanji undertale doki_doki_literature_club hellaverse
