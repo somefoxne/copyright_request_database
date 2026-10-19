@@ -7405,3 +7405,4 @@
 ?amaterasu_(himegami_emaki) -> himegami_emaki original vocaloid dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru_darou_ka
 ?rozalin -> disgaea makai_senki_disgaea_2 makai_senki_disgaea_3 makai_senki_disgaea disgaea_rpg nippon_ichi makai_senki_disgaea_4 la_pucelle_tactics phantom_brave phantom_kingdom
 ?tsunomaki_watame_(school_uniform) -> hololive indie_virtual_youtuber 7_days_to_die
+?forbartz_xylo -> yuushakei_ni_shosu yuusha_no_kuzu fate_(series) fate/grand_order jojo_no_kimyou_na_bouken sousou_no_frieren re:zero_kara_hajimeru_isekai_seikatsu fate/extra fate/extra_ccc steel_ball_run
