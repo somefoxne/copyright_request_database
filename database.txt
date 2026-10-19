@@ -6756,3 +6756,4 @@
 ?minior_(yellow_core) -> pokemon pokemon_sun_and_moon pokemon_scarlet_and_violet pokemon_(anime) pokemon_black_and_white pokemon_(classic_anime) pokemon_tcg vocaloid project_voltage pokemon_heroes:_latios_&_latias
 ?louise_(dragalia_lost) -> dragalia_lost astrae_oratio
 ?iba_tetsuzaemon -> bleach bleach:_sennen_kessen-hen bleach:_epilogue bleach:_zanpakutou_ibun_hen bleach:_memories_of_nobody bleach:_fade_to_black bleach:_jigoku-hen bleach:_the_diamonddust_rebellion
+?saitama_(one-punch_man) -> one-punch_man dragon_ball sousou_no_frieren mob_psycho_100 pokemon dragon_ball_z boku_no_hero_academia marvel dc_comics jujutsu_kaisen
