@@ -7016,3 +7016,4 @@
 ?atla_(the_citadel) -> the_citadel beyond_citadel
 ?proailurus_(kemono_friends) -> kemono_friends
 ?ichi_(madan_no_ichi) -> madan_no_ichi pokemon mairimashita!_iruma-kun shounen_jump one_piece kimetsu_no_yaiba jojo_no_kimyou_na_bouken jujutsu_kaisen utdr_(toby_fox) stardust_crusaders
+?medicham -> pokemon pokemon_mystery_dungeon pokemon_scarlet_and_violet pokemon_mystery_dungeon:_explorers_of_time/darkness/sky pokemon_diamond/pearl/platinum pokemon_ruby/sapphire/emerald pokemon_(anime) pokemon_x_and_y pokemon_legends:_z-a pokemon_sun_and_moon
