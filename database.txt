@@ -6735,3 +6735,4 @@
 ?eyeball_bracelet_girl_(fkey) -> original japanese_mythology
 ?mareep -> pokemon pokemon_heartgold_and_soulsilver pokemon_gold/silver/crystal pokemon_black_2_and_white_2 pokemon_black_and_white pokemon_scarlet_and_violet pokemon_diamond/pearl/platinum pokemon_legends:_z-a original pokemon_(anime)
 ?medic_(arknights) -> arknights
+?sirin_(magic_academy_uniform) -> honkai_(series) honkai_impact_3rd genshin_impact mihoyo kfc honkai:_star_rail
