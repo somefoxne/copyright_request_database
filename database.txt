@@ -7708,3 +7708,4 @@
 ?mash_kyrielight_(demi-servant) -> fate_(series) fate/grand_order learning_with_manga!_fgo fate/stay_night fate/extra fate/zero kantai_collection fate/extra_ccc fate/apocrypha gundam
 ?kanami_(heartbeat_memories)_(strinova) -> strinova
 ?arisugawa_osamu -> sekai_metsubou_kyouyuu_gensou_mamiya
+?akali_(league) -> league_of_legends hololive hololive_english original genshin_impact splatoon_(series) overwatch league_of_legends:_wild_rift kpop_demon_hunters pokemon
