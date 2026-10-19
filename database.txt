@@ -7312,3 +7312,4 @@
 ?harusaruhi -> kamitsubaki_studio kamitsubaki_city_under_construction cevio kamitsubaki_city_ensemble sinsekai_record mesmerizer_(vocaloid) hololive hololive_english splatoon_(series) mario_(series)
 ?seth_(housamo) -> tokyo_afterschool_summoners arknights fire_emblem zenless_zone_zero utdr_(toby_fox) fire_emblem_awakening undertale puzzle_&_dragons live_a_hero brand_new_animal
 ?miyama_tsubame -> school_girl_strikers megami_magazine square_enix vocaloid ranma_1/2 urusei_yatsura
+?selkie_(fire_emblem) -> fire_emblem fire_emblem_fates fire_emblem_heroes fire_emblem:_radiant_dawn fire_emblem_awakening fire_emblem:_path_of_radiance fire_emblem_cipher fire_emblem:_three_houses fire_emblem:_the_sacred_stones kemono_friends
