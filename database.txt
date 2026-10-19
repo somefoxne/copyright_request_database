@@ -6880,3 +6880,4 @@
 ?nicole_(genshin_impact) -> genshin_impact zenless_zone_zero sousou_no_frieren comiket_108 winx_club blue_archive honkai_(series) honkai:_star_rail chainsaw_man mihoyo
 ?gekkou_(senran_kagura) -> senran_kagura senran_kagura_new_link senran_kagura_new_wave senran_kagura_shinovi_nexus dead_or_alive ikkitousen pokemon indie_virtual_youtuber dragon_ball
 ?jonathan_morris -> castlevania_(series) castlevania:_portrait_of_ruin castlevania:_aria_of_sorrow castlevania:_order_of_ecclesia castlevania:_dawn_of_sorrow castlevania:_rondo_of_blood castlevania:_symphony_of_the_night castlevania:_harmony_of_despair castlevania:_circle_of_the_moon
+?xiao_(genshin_impact) -> genshin_impact honkai_(series) mihoyo honkai:_star_rail original honkai_impact_3rd olympics barbie_(franchise) barbie_(live_action)
