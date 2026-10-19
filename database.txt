@@ -7862,3 +7862,4 @@
 ?dewy_lotus_(shining_nikki) -> nikki_(series) shining_nikki
 ?yan_shanxing_(shining_nikki) -> nikki_(series) shining_nikki
 ?kina_lillet -> player_(webtoon) original player_(manhwa)
+?kasugano_sakura -> street_fighter street_fighter_zero_(series) street_fighter_v street_fighter_iv_(series) darkstalkers capcom justice_gakuen street_fighter_iii_(series) the_king_of_fighters final_fight
