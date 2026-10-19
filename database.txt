@@ -7294,3 +7294,4 @@
 ?ryou_takanashi -> sensha_isu:_tank_chair
 ?francine_smith -> american_dad! original family_guy pokemon vocaloid pokemon_diamond/pearl/platinum spongebob_squarepants_(series) zootopia scooby-doo_(series) the_loud_house
 ?hayley_smith -> american_dad! pokemon vocaloid
+?deux_murasame -> gundam gundam_gquuuuuux zeta_gundam idolmaster gakuen_idolmaster i_can_friday_by_day! mobile_suit_gundam gundam_0083 pokemon gundam_zz
