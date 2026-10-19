@@ -7782,3 +7782,4 @@
 ?hikari_(hanakaji) -> original
 ?hikari_(new_design)_(hanakaji) -> original
 ?arielle_(vtuber) -> indie_virtual_youtuber vshojo vchiban gamer_supps pokemon mario_(series) densetsu.exe coppertone jujutsu_kaisen sanrio
+?arielle_(vtuber)_(corrupted_2.0) -> indie_virtual_youtuber
