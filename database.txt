@@ -6763,3 +6763,4 @@
 ?evan_(cloud_meadow) -> cloud_meadow cookie_run cookie_run:_kingdom
 ?eve_(cloud_meadow) -> cloud_meadow cookie_run cookie_run:_kingdom princess_reconquista onigotchi halloween_harem xenotake
 ?goldra_(cloud_meadow) -> cloud_meadow cookie_run cookie_run:_kingdom
+?himekaidou_hatate -> touhou touhou_(pc-98) double_spoiler mountain_of_faith perfect_cherry_blossom phantasmagoria_of_flower_view embodiment_of_scarlet_devil imperishable_night undefined_fantastic_object ten_desires
