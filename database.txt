@@ -6928,3 +6928,4 @@
 ?akatsuki_(kancolle) -> kantai_collection youtube original pokemon gundam aoki_hagane_no_arpeggio transformers transformers:_generation_1 hokuto_no_ken azur_lane
 ?hakutaku_(nue_no_onmyouji) -> nue_no_onmyouji
 ?fubuki_(senran_kagura) -> senran_kagura senran_kagura_new_link azur_lane dolphin_wave pokemon senran_kagura_shinovi_versus senran_kagura_estival_versus marvelous honkai_(series) pokemon_diamond/pearl/platinum
+?kay_(arknights) -> arknights arknights:_endfield
