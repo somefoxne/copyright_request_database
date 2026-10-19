@@ -6938,3 +6938,4 @@
 ?usami_rito_(2nd_costume) -> nijisanji ryuu_ga_gotoku_(series) ryuu_ga_gotoku_0
 ?han_juri_(sf6_outfit_3) -> street_fighter street_fighter_6 fatal_fury street_fighter_v darkstalkers street_fighter_zero_(series) street_fighter_iv_(series) capcom reject_(esports) neco_drop
 ?jay_(ninjago) -> ninjago ninjago:_dragons_rising the_lego_ninjago_movie fortnite the_lego_group jojo_no_kimyou_na_bouken phantom_blood tomodachi_life tomodachi_life:_living_the_dream
+?kai_(ninjago) -> ninjago ninjago:_dragons_rising the_lego_ninjago_movie fortnite the_lego_group bionicle death_battle project_moon boku_no_hero_academia limbus_company
