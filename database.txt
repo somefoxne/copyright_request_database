@@ -7875,3 +7875,4 @@
 ?akatsuki_(akatsuki_en-eins) -> akatsuki_blitzkampf under_night_in-birth en-eins_kanzen_sekai touhou m.u.g.e.n tsukihime melty_blood blazblue blazblue:_cross_tag_battle the_king_of_fighters
 ?erika_wagner -> under_night_in-birth under_night_in-birth_exe:late[st] under_night_in-birth_2_sys:celes guilty_gear akatsuki_blitzkampf under_night_in-birth_exe:late[cl-r] street_fighter blazblue tekken guilty_gear_xrd
 ?izumi_shirogane -> under_night_in-birth under_night_in-birth_2_sys:celes akatsuki_blitzkampf blue_archive guilty_gear guilty_gear_strive
+?yuzuriha_(under_night_in-birth) -> under_night_in-birth guilty_gear blazblue under_night_in-birth_2_sys:celes blazblue:_cross_tag_battle granblue_fantasy dragon_ball tsukihime guilty_gear_strive melty_blood
