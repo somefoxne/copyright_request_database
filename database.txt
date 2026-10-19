@@ -7674,3 +7674,4 @@
 ?flavia_(sommeliers'_grace)_(strinova) -> strinova
 ?yahagi_(kancolle) -> kantai_collection kantai_collection_(anime) line_(naver) original umamusume the_king_of_fighters fatal_fury aoki_hagane_no_arpeggio lawson touhou
 ?death_devil_(chainsaw_man) -> chainsaw_man jojo_no_kimyou_na_bouken steel_ball_run breaking_bad better_call_saul a_clockwork_orange black_sabbath
+?chiyo_(strinova) -> strinova
