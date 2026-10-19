@@ -6410,3 +6410,4 @@
 ?izumi_konata -> lucky_star suzumiya_haruhi_no_yuuutsu vocaloid touhou k-on! kantai_collection kyoto_animation original clannad watashi_ga_motenai_no_wa_dou_kangaetemo_omaera_ga_warui!
 ?venator_(deadlock) -> deadlock_(game) animal_crossing hellsing valve_corporation
 ?ghost_bride_mei -> overwatch
+?miyuki_(kancolle) -> kantai_collection snow_white_(fairy_tale) lawson choo_choo_train pokemon mario_(series) gundam aoki_hagane_no_arpeggio super_mario_bros._1 kamen_rider
