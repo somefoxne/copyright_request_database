@@ -6321,3 +6321,4 @@
 ?mejiro_mcqueen_(casual)_(umamusume) -> umamusume hanshin_tigers chainsaw_man real_life pikmin_(series) kfc yani_neko pikmin_bloom original
 ?yunli_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail genshin_impact mihoyo fate_(series) fate/stay_night fate/unlimited_blade_works zenless_zone_zero honkai_impact_3rd berserk
 ?north_flight_(casual)_(umamusume) -> umamusume nijisanji gundam the_legend_of_zelda mobile_suit_gundam sen_to_chihiro_no_kamikakushi cygames regular_show
+?hanakuma_chifuyu -> cevio synthesizer_v voiceroid vocaloid utau a.i._voice voicevox kamitsubaki_studio talkex voicepeak
