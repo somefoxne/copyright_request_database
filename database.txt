@@ -6611,3 +6611,4 @@
 ?kido_tsubomi -> kagerou_project mekakushi_code_(vocaloid) mekakucity_actors souzou_forest_(vocaloid) daze_(kagerou_project) kagerou_days_(vocaloid) ayano_no_koufuku_riron_(vocaloid) headphone_actor_(vocaloid) jinzou_enemy_(vocaloid) konoha_no_sekai_jijou_(vocaloid)
 ?io_(fire_emblem) -> fire_emblem
 ?37_(reverse:1999) -> reverse:1999 kamitsubaki_studio once_human pokemon arknights vocaloid honkai_(series) honkai:_star_rail
+?hassel_(pokemon) -> pokemon pokemon_scarlet_and_violet pokemon_sword_and_shield pokemon_heartgold_and_soulsilver pokemon_black_and_white pokemon_masters_ex pokemon_sun_and_moon pokemon_(anime) pokemon_black_2_and_white_2 pokemon_x_and_y
