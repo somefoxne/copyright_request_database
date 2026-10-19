@@ -7280,3 +7280,4 @@
 ?red_fempyro_(paladinmaui) -> team_fortress_2 expiration_date_(tf2) original fallout fallout:_new_vegas pootis_engage
 ?blu_pyro_(tf2) -> team_fortress_2 fate_(series) fate/stay_night hololive hololive_english street_fighter warhammer_40k starcraft team_fortress_classic pootis_engage
 ?pyro_(tf2) -> team_fortress_2 touhou zenless_zone_zero street_fighter mario_(series) higurashi_no_naku_koro_ni original blue_archive fate_(series) fate/stay_night
+?blu_fempyro_(paladinmaui) -> team_fortress_2 fallout fallout:_new_vegas pootis_engage
