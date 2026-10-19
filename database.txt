@@ -6840,3 +6840,4 @@
 ?hakase_fuyuki_(1st_costume) -> nijisanji pokemon nijisanji_en nijisanji_kr indie_virtual_youtuber nijisanji_id hololive vocaloid danganronpa_(series) splatoon_(series)
 ?neon_(valorant) -> valorant apex_legends pokemon league_of_legends real_life jollibee original hololive genshin_impact idolmaster
 ?yuzuki_yukari_(a.i._voice) -> a.i._voice voiceroid vocaloid cevio kirby_(series) synthesizer_v youtube talkex gynoid_talk coefont
+?kyoumachi_seika -> voiceroid vocaloid cevio voicevox gynoid_talk a.i._voice utau onikko_hunter_tsuina-chan synthesizer_v talkex
