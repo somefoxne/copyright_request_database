@@ -7273,3 +7273,4 @@
 ?shallistera_(atelier) -> atelier_(series) atelier_shallie atelier_resleriana atelier_ayesha atelier_escha_&_logy atelier_rorona atelier_ryza nelke_to_densetsu_no_renkinjutsushi_tachi atelier_ryza_1 fire_emblem
 ?todo_haruka -> vertex_force megami_magazine
 ?kamisaki_hikaru -> medalist_(manga) umamusume bang_dream! sanrio my_melody_(series) animage fate_(series) fate/grand_order idolmaster
+?yuitsuka_inori -> medalist_(manga) idolmaster idolmaster_cinderella_girls gundam sanrio my_melody_(series) blue_archive umamusume cardcaptor_sakura gundam_gquuuuuux
