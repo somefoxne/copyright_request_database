@@ -7507,3 +7507,4 @@
 ?rune_(fire_emblem) -> fire_emblem fire_emblem_heroes
 ?chrysalis_(miraculous_ladybug) -> miraculous_ladybug
 ?thelema_nutriscu -> honkai_(series) honkai_impact_3rd honkai:_star_rail winnie_the_pooh jojo_no_kimyou_na_bouken chainsaw_man stardust_crusaders sanrio
+?daffodill_(nte) -> neverness_to_everness grand_theft_auto grand_theft_auto_v
