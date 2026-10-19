@@ -7375,3 +7375,4 @@
 ?fujimura_taiga -> fate_(series) fate/stay_night fate/zero fate/hollow_ataraxia type-moon tsukihime fate/grand_order suzumiya_haruhi_no_yuuutsu pani_poni_dash! gundam
 ?pazuzu_(housamo) -> tokyo_afterschool_summoners touhou arknights zenless_zone_zero another_eidos-r crave_saga dislyte
 ?jack_frost_(housamo) -> tokyo_afterschool_summoners live_a_hero indie_virtual_youtuber knights_college trivia_about_you
+?leib_(housamo) -> tokyo_afterschool_summoners live_a_hero original arknights zenless_zone_zero indie_virtual_youtuber utau dislyte mobile_legends:_bang_bang shoukan_yuusha_to_f-kei_kareshi
