@@ -7798,3 +7798,4 @@
 ?takashima_zakuro -> subarashiki_hibi tsui_no_sora tsui_no_sora_(remake) the_last_supper touhou kantai_collection pokemon fate_(series) idolmaster
 ?namiji_freesia -> production_kawaii indie_virtual_youtuber death_note teletubbies
 ?sanya_(2nd_costume)_(nijisanji) -> nijisanji original
+?sanya_(nijisanji) -> nijisanji vampire_(vocaloid) identity_(vocaloid) indie_virtual_youtuber original nijisanji_en niginigi_nijitown blue_archive alien_stage girls_band_cry
