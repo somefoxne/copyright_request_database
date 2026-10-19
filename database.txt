@@ -6415,3 +6415,4 @@
 ?sariel_(touhou) -> touhou touhou_(pc-98) highly_responsive_to_prayers story_of_eastern_wonderland mystic_square phantasmagoria_of_dim.dream lotus_land_story embodiment_of_scarlet_devil imperishable_night perfect_cherry_blossom
 ?racing_miku_(2022) -> vocaloid goodsmile_company goodsmile_racing super_gt umamusume pokemon pokemon_scarlet_and_violet utau hololive hololive_english
 ?akimichi_chouchou -> naruto_(series) boruto_(series) boruto:_naruto_next_generations naruto_(classic) naruto_shippuuden boruto:_two_blue_vortex boruto:_naruto_the_movie naruto:_the_last durarara!!
+?cerestia_of_life -> last_origin original pokemon pokemon_diamond/pearl/platinum soulworker kuroinu_~kedakaki_seijo_wa_hakudaku_ni_somaru~ artificial_hero
