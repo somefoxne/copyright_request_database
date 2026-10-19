@@ -6504,3 +6504,4 @@
 ?virus_(dramatical_murder) -> dramatical_murder kill_la_kill chiikawa nitro+_chiral
 ?jordan_(degrees_of_lewdity) -> degrees_of_lewdity kanpai_funk
 ?jordan_(female)_(degrees_of_lewdity) -> degrees_of_lewdity
+?duma_(fire_emblem) -> fire_emblem fire_emblem_echoes:_shadows_of_valentia fire_emblem_heroes fire_emblem_awakening fire_emblem_fates fire_emblem:_mystery_of_the_emblem fire_emblem_gaiden fire_emblem:_the_binding_blade fire_emblem:_genealogy_of_the_holy_war fire_emblem:_radiant_dawn
