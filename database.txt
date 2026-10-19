@@ -6506,3 +6506,4 @@
 ?jordan_(female)_(degrees_of_lewdity) -> degrees_of_lewdity
 ?duma_(fire_emblem) -> fire_emblem fire_emblem_echoes:_shadows_of_valentia fire_emblem_heroes fire_emblem_awakening fire_emblem_fates fire_emblem:_mystery_of_the_emblem fire_emblem_gaiden fire_emblem:_the_binding_blade fire_emblem:_genealogy_of_the_holy_war fire_emblem:_radiant_dawn
 ?mila_(fire_emblem) -> fire_emblem fire_emblem_echoes:_shadows_of_valentia fire_emblem_heroes fire_emblem_gaiden fire_emblem:_mystery_of_the_emblem fire_emblem:_three_houses fire_emblem_awakening fire_emblem:_the_blazing_blade fire_emblem:_path_of_radiance gundam
+?zenobia_(fate) -> fate_(series) fate/grand_order original fate/apocrypha world_flipper comiket_102 blue_archive genshin_impact goddess_of_victory:_nikke fate/extra
