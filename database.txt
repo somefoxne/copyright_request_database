@@ -6826,3 +6826,4 @@
 ?itsuka_kotori -> date_a_live azur_lane date_a_live:_spirit_pledge ore_no_imouto_ga_konna_ni_kawaii_wake_ga_nai gekijouban_date_a_live:_mayuri_judgement neptune_(series) sanrio fantasia_re:build go-toubun_no_hanayome punishing:_gray_raven
 ?milky_(one_piece) -> one_piece one_piece_card_game
 ?modernia_(first_affection)_(nikke) -> goddess_of_victory:_nikke comiket_104 blue_archive to_love-ru chobits ichiban_kuji
+?carrot_(one_piece) -> one_piece boku_no_hero_academia one_piece_card_game one_piece_film:_red brand_new_animal shounen_jump dungeon_meshi star_wars zootopia star_wars:_visions
