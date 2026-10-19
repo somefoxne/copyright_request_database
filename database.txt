@@ -6810,3 +6810,4 @@
 ?kurenashi_yuuri -> dolphin_wave marvelous azur_lane don_quijote_(store) highspeed_etoile kage_no_jitsuryokusha_ni_naritakute!
 ?touhoku_zunko -> voiceroid vocaloid voicevox utau cevio a.i._voice synthesizer_v talkex pokemon original
 ?haruno_sora -> voiceroid vocaloid cevio synthesizer_v voicepeak onikko_hunter_tsuina-chan utau voicevox a.i._voice talkex
+?rivet_(ratchet_&_clank) -> ratchet_&_clank ratchet_&_clank:_rift_apart sonic_(series) star_fox zootopia looney_tunes god_of_war_(series) space_jam original pokemon
