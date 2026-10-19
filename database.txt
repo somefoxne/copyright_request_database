@@ -7088,3 +7088,4 @@
 ?goku_black -> dragon_ball dragon_ball_super dragon_ball_heroes dragon_ball_z dragon_ball_gt dragon_ball:_sparking! dragon_ball_super_super_hero dragon_ball_super_broly dragon_ball_(classic) dragon_ball_fighterz
 ?epiphaneia_(fate's_chosen_star)_(umamusume) -> umamusume real_life original yu-gi-oh! pakatube peak_(game)
 ?kikuchi_makoto -> idolmaster idolmaster_(classic) idolmaster_1 idolmaster_million_live! idolmaster_million_live!_theater_days idolmaster_2 idolmaster_live_for_you! idolmaster_dearly_stars idolmaster_sp idolmaster_cinderella_girls
+?dp-12_(girls'_frontline) -> metal_gear_(series) original blue_archive genshin_impact azur_lane fire_emblem wuthering_waves fire_emblem:_three_houses
