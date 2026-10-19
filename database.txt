@@ -7326,3 +7326,4 @@
 ?rodion_(project_moon) -> project_moon limbus_company lobotomy_corporation library_of_ruina karaoke_manekineko arknights original the_distortion_detective mili_(band) hamhampangpang
 ?himeru_(ensemble_stars!) -> ensemble_stars! genshin_impact re:act pokemon bloodborne mimukauwa_nice_try_(vocaloid) pringles starry_night_(van_gogh) sunflowers_(van_gogh)
 ?otonashi_kyouko -> maison_ikkoku urusei_yatsura ranma_1/2 inuyasha kyoukai_no_rinne mao_(takahashi_rumiko) 1_pound_no_fukuin touhou gundam ningyo_series
+?kashi_(halloween)_(kancolle) -> kantai_collection
