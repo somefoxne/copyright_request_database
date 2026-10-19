@@ -7056,3 +7056,4 @@
 ?incinerator_(the_citadel) -> the_citadel dc_comics batman_(series) wolfenstein_(series) wolfenstein_3d
 ?gonzalez_(machita_chima) -> nijisanji hololive nijisanji_en nijisanji_kr nijisanji_id indie_virtual_youtuber pokemon gundam gundam_tekketsu_no_orphans livly_island
 ?kizuna_akari_(moe) -> voiceroid a.i._voice vocaloid utau voicevox indie_virtual_youtuber synthesizer_v cevio tobaku_mokushiroku_kaiji tonari_no_totoro
+?yuzuki_yukari_(shizuku) -> a.i._voice voiceroid vocaloid cevio utau coefont one_piece kirby_(series) minecraft voicevox
