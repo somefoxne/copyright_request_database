@@ -7005,3 +7005,4 @@
 ?jeanne_d'arc_alter_(flames_of_applause)_(fate) -> fate_(series) fate/grand_order pokemon
 ?lugia -> pokemon pokemon_heartgold_and_soulsilver pokemon_(anime) pokemon_gold/silver/crystal pokemon_(classic_anime) pokemon_masters_ex pokemon_xd pokemon_the_movie_2000:_the_power_of_one pokemon_firered_and_leafgreen pokemon_red/green/blue/yellow
 ?medjed_(fate) -> fate_(series) fate/grand_order fate/apocrypha fate/extra kantai_collection fate/stay_night koha-ace egyptian_mythology fate/prototype pixiv_fate/grand_order_contest_2
+?shirai_kuroko -> toaru_majutsu_no_index toaru_kagaku_no_railgun toaru_kagaku_no_railgun_t toaru_majutsu_no_index:_old_testament toaru_majutsu_no_index:_new_testament toaru_kagaku_no_railgun_s toaru_kagaku_no_mental_out toaru_majutsu_no_index:_imaginary_fest mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime)
