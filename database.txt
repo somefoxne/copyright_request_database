@@ -6672,3 +6672,4 @@
 ?mega_banette -> pokemon pokemon_x_and_y pokemon_masters_ex pokemon_omega_ruby_and_alpha_sapphire pokemon_sword_and_shield pokemon_(anime) pokemon_legends:_z-a pokemon_sun_and_moon pokemon_ruby/sapphire/emerald pokemon_diamond/pearl/platinum
 ?pawmot -> pokemon pokemon_scarlet_and_violet original pokemon_(anime) pokemon_masters_ex pokemon_sword_and_shield pokemon_sun_and_moon pokemon_black_and_white pokemon_black_2_and_white_2 poketoon
 ?primarina -> pokemon pokemon_sun_and_moon vocaloid project_voltage pokemon_(anime) pokemon_the_series:_sun_&_moon pokemon_ultra_sun_and_ultra_moon pokemon_scarlet_and_violet pokemon_masters_ex precure
+?rillaboom -> pokemon pokemon_sword_and_shield original vocaloid project_voltage pokemon_scarlet_and_violet pokemon_(anime) pokemon_journeys pokemon_sun_and_moon pokemon_champions
