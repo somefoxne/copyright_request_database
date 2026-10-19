@@ -7126,3 +7126,4 @@
 ?nagusa_(swimsuit)_(blue_archive) -> blue_archive pokemon twitter
 ?indian_wolf_(kemono_friends) -> kemono_friends kemono_friends_3 kemono_friends_v_project grand_theft_auto scream_(movie) crunchyroll jungle_taitei buddha_(tezuka_osamu)
 ?the_baron_(mimi_wo_sumaseba) -> neko_no_ongaeshi studio_ghibli mimi_wo_sumaseba majo_no_takkyuubin tonari_no_totoro howl_no_ugoku_shiro gake_no_ue_no_ponyo sen_to_chihiro_no_kamikakushi mononoke_hime tenkuu_no_shiro_laputa
+?escha_malier -> atelier_(series) atelier_escha_&_logy atelier_resleriana atelier_shallie atelier_ayesha atelier_meruru atelier_firis atelier_ryza atelier_totori atelier_rorona
