@@ -7966,3 +7966,4 @@
 ?vamola_(dandadan) -> dandadan pokemon original vocaloid gundam precure one_piece pokemon_(anime) sono_bisque_doll_wa_koi_wo_suru wizarding_world
 ?rindou_ayaka -> seraphim_call angel_flavor
 ?misty_blue_veil_(shining_nikki) -> nikki_(series) shining_nikki infinity_nikki
+?shadowplay_night_(infinity_nikki) -> nikki_(series) infinity_nikki
