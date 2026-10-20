@@ -8096,3 +8096,4 @@
 ?lynn_(summon_night) -> summon_night summon_night:_swordcraft_story_2 summon_night_collection
 ?janus_(fright-night_scaredy-cat)_(azur_lane) -> azur_lane original
 ?hasegawa_ikumi -> bocchi_the_rock! umamusume blue_archive sousou_no_frieren tsukihime tsukihime_(remake) precure real_life meitantei_precure! zenless_zone_zero
+?selema_terez -> mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica:_walpurgis_no_kaiten mahou_shoujo_madoka_magica_magia_exedra magia_record:_mahou_shoujo_madoka_magica_gaiden mahou_shoujo_madoka_magica:_hangyaku_no_monogatari mahou_shoujo_madoka_magica_(anime) pokemon pokemon_(anime) super_smash_bros. hunter_x_hunter
