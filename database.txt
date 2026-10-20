@@ -7995,3 +7995,4 @@
 ?charmander -> pokemon pokemon_red/green/blue/yellow pokemon_firered_and_leafgreen pokemon_(anime) pokemon_sword_and_shield pokemon_diamond/pearl/platinum pokemon_heartgold_and_soulsilver pokemon_ruby/sapphire/emerald pokemon_black_and_white pokemon_gold/silver/crystal
 ?mana_(drunken_rabbit)_(nikke) -> goddess_of_victory:_nikke
 ?flora_(fairy_rabbit)_(nikke) -> goddess_of_victory:_nikke plants_vs._zombies
+?tange_kotoe_(a.i._voice) -> a.i._voice voiceroid vocaloid indie_virtual_youtuber cevio talkex utau synthesizer_v transiruby
