@@ -8204,3 +8204,4 @@
 ?hanabusa_lisa_(5th_costume) -> vspo! nijisanji valorant
 ?hino_madoka -> ninja_defenders:_cat_shinobi
 ?kisaragi_sena -> ninja_defenders:_cat_shinobi
+?mayoneko_akane -> ninja_defenders:_cat_shinobi
