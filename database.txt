@@ -8214,3 +8214,4 @@
 ?an_yujin -> real_life ive_(group) izone motogp genie_(song) kitsch_(ive)
 ?jang_wonyoung -> real_life ive_(group) izone genie_(song) aespa final_fantasy bang_dream! final_fantasy_vii
 ?apollo_(mythology) -> greek_mythology arknights love_live! dragon_ball love_live!_sunshine!! code_geass elden_ring shoujo_kageki_revue_starlight gintama azumanga_daioh
+?verxina_(casual)_(umamusume) -> umamusume super_gt yokohama_dena_baystars kemono_friends lycoris_recoil oshi_no_ko star_wars youtube konjiki_no_gash!!
