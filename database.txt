@@ -8199,3 +8199,4 @@
 ?aijo_karen -> shoujo_kageki_revue_starlight shoujo_kageki_revue_starlight_-re_live- bang_dream! bang_dream!_girls_band_party! love_live! project_tokyo_dolls umamusume real_life love_live!_nijigasaki_high_school_idol_club bushiroad
 ?mr._white_(revue_starlight) -> shoujo_kageki_revue_starlight shoujo_kageki_revue_starlight_-re_live- pokemon pokemon_sword_and_shield umamusume bang_dream! dragon_quest bang_dream!_girls_band_party! sanrio toji_no_miko
 ?himemiya_anthy -> shoujo_kakumei_utena shoujo_kakumei_utena_adolescence_mokushiroku gundam gundam_suisei_no_majo pokemon youjo_senki bishoujo_senshi_sailor_moon precure fate_(series) mahou_shoujo_madoka_magica
+?tenjou_utena -> shoujo_kakumei_utena shoujo_kakumei_utena_adolescence_mokushiroku gundam bishoujo_senshi_sailor_moon mahou_shoujo_madoka_magica gundam_suisei_no_majo cardcaptor_sakura mahou_shoujo_madoka_magica_(anime) pokemon vocaloid
