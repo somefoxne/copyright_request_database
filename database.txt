@@ -8033,3 +8033,4 @@
 ?michael_roa_valdamjong -> tsukihime tsukihime_(remake) melty_blood fate_(series) fate/grand_order melty_blood:_type_lumina type-moon kagetsu_tooya fate/stay_night carnival_phantasm
 ?vlov_arkhangel -> tsukihime tsukihime_(remake) melty_blood melty_blood:_type_lumina fate_(series) type-moon fate/grand_order mahou_tsukai_no_yoru kagetsu_tooya fate/stay_night
 ?bartolomeo -> one_piece one_piece_card_game one_piece_film:_red one_piece_fan_letter one_piece_treasure_cruise one_piece_film:_gold bereal one_piece_straw_hat_space
+?diamante_(one_piece) -> one_piece one_piece_card_game pokemon arknights one_piece_everyday
