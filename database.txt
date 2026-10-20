@@ -19,3 +19,4 @@
 ?hsin_(wuthering_waves) -> wuthering_waves goddess_of_victory:_nikke zenless_zone_zero chainsaw_man arknights honkai_(series) honkai:_star_rail arknights:_endfield kirby_(series) twitter
 ?male_rover_(wuthering_waves) -> wuthering_waves cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 genshin_impact honkai_(series) honkai:_star_rail mihoyo zenless_zone_zero blue_archive
 ?rover_(wuthering_waves) -> wuthering_waves cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 genshin_impact honkai_(series) honkai:_star_rail mihoyo zenless_zone_zero comiket_105
+?amatsukaze_(kancolle) -> kantai_collection idolmaster aoki_hagane_no_arpeggio original tenga fate_(series) idolmaster_cinderella_girls lawson gundam neon_genesis_evangelion
