@@ -8165,3 +8165,4 @@
 ?geralt_of_rivia -> the_witcher_(series) the_witcher_3 the_witcher_(netflix) the_witcher_4 the_witcher_(book_series) marvel spider-man_(series) gwent_(game) final_fantasy mega_man_(series)
 ?tether_(spindlesong) -> original guilty_gear guilty_gear_strive need_for_speed need_for_speed:_most_wanted_(2005)
 ?astaroth_(shinrabanshou) -> shinrabanshou futaba_channel os-tan rozen_maiden marvel spider-man_(series) nijiura_maids galaxy_angel original super_robot_wars
+?mayoneko_akari -> ninja_defenders:_cat_shinobi
