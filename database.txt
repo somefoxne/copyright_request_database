@@ -12,3 +12,4 @@
 ?momo_(nikki) -> nikki_(series) infinity_nikki shining_nikki miracle_nikki nikki_up2u2:_world_traveller nikki_up2u stardew_valley original kfc cardcaptor_sakura
 ?momo_(zephyr)_(infinity_nikki) -> nikki_(series) infinity_nikki shining_nikki original the_legend_of_luo_xiaohei
 ?nikki_(nikki) -> nikki_(series) infinity_nikki shining_nikki miracle_nikki nikki_up2u2:_world_traveller nikki_up2u stardew_valley kfc original cardcaptor_sakura
+?purifying_wind_(infinity_nikki) -> nikki_(series) infinity_nikki shining_nikki the_legend_of_luo_xiaohei original idolmaster stardew_valley
