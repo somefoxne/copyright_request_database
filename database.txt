@@ -8179,3 +8179,4 @@
 ?emily_(resident_evil) -> resident_evil resident_evil_requiem pragmata capcom resident_evil_7:_biohazard resident_evil_2 resident_evil_4 resident_evil_2_(remake) resident_evil_4_(remake) resident_evil_village
 ?izanami_(persona) -> persona persona_4 persona_4_the_golden persona_3 persona_5 tengen_toppa_gurren_lagann persona_3_portable touhou final_fantasy durarara!!
 ?hino_reona -> ninja_defenders:_cat_shinobi
+?jackie_welles -> cyberpunk_(series) cyberpunk_2077 cyberpunk:_edgerunners cyberpunk:_edgerunners_1 cyberpunk_trading_card_game original nijisanji ghost_in_the_shell the_ghost_in_the_shell_(2026)
