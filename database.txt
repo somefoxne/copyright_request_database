@@ -23,3 +23,4 @@
 ?arya_kuroha -> vspo! vspo!_en nier_(series) nier:automata hololive hololive_english tokidoki_bosotto_roshia-go_de_dereru_tonari_no_alya-san pringles
 ?remia_aotsuki -> vspo! vspo!_en indie_virtual_youtuber counter-strike_(series) counter-strike_2 hololive hololive_english chiikawa vinesauce glitch_stars
 ?remielle_dan -> zenless_zone_zero mihoyo honkai_(series) honkai_impact_3rd honkai:_star_rail genshin_impact original grand_theft_auto grand_theft_auto_vi persona
+?bea_(pokemon) -> pokemon pokemon_sword_and_shield pokemon_masters_ex pokemon:_twilight_wings pokemon_diamond/pearl/platinum pokemon_(anime) pokemon_x_and_y pokemon_black_and_white pokemon_journeys street_fighter
