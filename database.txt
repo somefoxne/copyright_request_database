@@ -8025,3 +8025,4 @@
 ?silica -> sword_art_online sword_art_online:_code_register sword_art_online:_alicization sword_art_online:_hollow_fragment sword_art_online:_unleashed_blading sword_art_online_the_movie:_ordinal_scale sword_art_online:_memory_defrag sword_art_online:_infinity_moment sword_art_online:_hollow_realization sword_art_online:_alicization_-_war_of_underworld
 ?figarland_shamrock -> one_piece one_piece_film:_red chainsaw_man wizarding_world a_song_of_ice_and_fire game_of_thrones one_piece_film:_gold
 ?shanks_(one_piece) -> one_piece one_piece_film:_red one_piece_card_game one_piece_treasure_cruise one_piece_(live_action) pokemon slam_dunk_(series) one_piece_everyday yu-gi-oh! naruto_(series)
+?sudo_toa -> original comiket_107
