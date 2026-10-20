@@ -8057,3 +8057,4 @@
 ?diana_(trickcal) -> trickcal dark_souls_(series) doom_(series) cult_of_the_lamb doom:_the_dark_ages
 ?tig_(trickcal) -> trickcal dark_souls_(series) the_creation_of_adam pink_floyd dark_side_of_the_moon bokete yorushika plover_(yorushika)
 ?shiga_riko_(1st_costume) -> nijisanji idolmaster gakuen_idolmaster nijisanji_en minecraft nijisanji_kr nijisanji_id anta_ni_itenno_(utau) tokimeki_emotion_(idolmaster)
+?fiar_(eternalsoulrape) -> original death_in_june
