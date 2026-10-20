@@ -8207,3 +8207,4 @@
 ?mayoneko_akane -> ninja_defenders:_cat_shinobi
 ?morimi_kuroko -> ninja_defenders:_cat_shinobi
 ?nanagi_hisui -> ninja_defenders:_cat_shinobi
+?sunaoka_nene -> ninja_defenders:_cat_shinobi
