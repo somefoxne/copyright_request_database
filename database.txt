@@ -8052,3 +8052,4 @@
 ?minamoto_no_raikou_(swimsuit_lancer)_(fate) -> fate_(series) fate/grand_order original fate/apocrypha tsukihime hololive fate/extra comiket_94 senjou_no_valkyria_(series) genshin_impact
 ?pira_(trickcal) -> trickcal omocoro
 ?theresa_apocalypse_(wonderland_trek) -> honkai_(series) honkai_impact_3rd
+?levi_(trickcal) -> trickcal jojo_no_kimyou_na_bouken
