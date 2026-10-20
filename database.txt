@@ -8017,3 +8017,4 @@
 ?aizono_manami_(1st_costume) -> nijisanji nijisanji_kr nijisanji_en nijisanji_id pineapple_on_pizza_(game)
 ?sister_claire_(1st_costume) -> nijisanji indie_virtual_youtuber nijisanji_en nanashi_inc. nijisanji_kr hololive umamusume minecraft sana_channel nijisanji_id
 ?sister_claire_(7th_costume) -> nijisanji nanashi_inc. minecraft
+?conch_(gundam) -> gundam gundam_gquuuuuux i_can_friday_by_day! mobile_suit_gundam neon_genesis_evangelion zeta_gundam fate_(series) fate/grand_order gundam_seed top_wo_nerae!_(series)
