@@ -8144,3 +8144,4 @@
 ?kudelia_aina_bernstein -> gundam gundam_tekketsu_no_orphans mobile_suit_gundam gundam_wing tamatoys gundam_seed precure jojo_no_kimyou_na_bouken the_king_of_fighters tengen_toppa_gurren_lagann
 ?mizuchi_of_the_deepwaters -> ninja_defenders:_cat_shinobi
 ?nyx_(kart_prowler) -> original
+?yotsuba_(kyokugen_dasshutsu) -> kyokugen_dasshutsu kyokugen_dasshutsu:_9_jikan_9_nin_9_no_tobira kyokugen_dasshutsu_adv:_zennin_shibou_desu pokemon zero_escape:_toki_no_dilemma fire_emblem touhou fate_(series) idolmaster vocaloid
