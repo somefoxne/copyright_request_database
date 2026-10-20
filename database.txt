@@ -8079,3 +8079,4 @@
 ?mettaton_neo -> utdr_(toby_fox) undertale deltarune suishitai_wa_koi_shitai_(vocaloid) mega_man_(series) mega_man_zero_(series) seiken_densetsu seiken_densetsu_3 matryoshka_(vocaloid)
 ?dark_matter_(kirby) -> kirby_(series) kirby_64 kirby_star_allies kirby:_planet_robobot kirby:_squeak_squad kirby_&_the_amazing_mirror kirby:_triple_deluxe
 ?dark_matter_blade -> kirby_(series) kirby_64 kirby:_planet_robobot kirby:_squeak_squad kirby_&_the_amazing_mirror kirby_star_allies kirby:_triple_deluxe
+?ollie_(eternalsoulrape) -> original
