@@ -8224,3 +8224,4 @@
 ?ashley_(warioware) -> warioware mario_(series) crazy_galaxy warioware:_move_it! pokemon super_smash_bros. the_legend_of_zelda fire_emblem rhythm_tengoku kirby_(series)
 ?red_(warioware) -> warioware warioware:_get_it_together! mario_(series) warioware_gold warioware:_move_it! wario_land wario_land_4 super_smash_bros. mother_(series) rhythm_tengoku
 ?jeanne_d'arc_(swimsuit_archer)_(second_ascension)_(fate) -> fate_(series) fate/grand_order fate/extra tsukihime granblue_fantasy monster_hunter_(series) fate/kaleid_liner_prisma_illya mahou_tsukai_no_yoru fate/grand_order_arcade comiket_96
+?chief_(path_to_nowhere) -> path_to_nowhere original honkai_(series) honkai:_star_rail fire_emblem wuthering_waves fire_emblem:_three_houses comiket_102 the_weaker_sex_1_(gibson) pokemon
