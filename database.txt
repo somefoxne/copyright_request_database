@@ -8065,3 +8065,4 @@
 ?fuuka_(casual)_(blue_archive) -> blue_archive blue_archive_the_animation alien_(series)
 ?juri_(part-time)_(blue_archive) -> blue_archive the_legend_of_zelda the_legend_of_zelda:_breath_of_the_wild date_a_live
 ?steve_burnside -> resident_evil resident_evil_-_code:_veronica resident_evil:_the_darkside_chronicles resident_evil_veronica resident_evil_4 resident_evil_2 resident_evil_1 resident_evil_5 resident_evil_3:_nemesis resident_evil_0
+?minamoto_no_raikou_(third_ascension)_(fate) -> fate_(series) fate/grand_order fate/stay_night fate/apocrypha original hololive hololive_english fate/extra fate/zero fate/kaleid_liner_prisma_illya
