@@ -8208,3 +8208,4 @@
 ?morimi_kuroko -> ninja_defenders:_cat_shinobi
 ?nanagi_hisui -> ninja_defenders:_cat_shinobi
 ?sunaoka_nene -> ninja_defenders:_cat_shinobi
+?yozakura_enma -> ninja_defenders:_cat_shinobi
