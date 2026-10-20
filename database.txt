@@ -8046,3 +8046,4 @@
 ?emma_frost -> marvel x-men marvel_rivals spider-man_(series) fantastic_four avengers_(series) overwatch the_incredible_hulk_(series) thor_(marvel)_(series) street_fighter
 ?hatono_chihiro -> futsuu_no_keion-bu bocchi_the_rock! shounen_jump chainsaw_man kagurabachi 7-eleven skip_to_loafer john_wick sankyuu_pitch hmv
 ?hitori_bocchi -> hitoribocchi_no_marumaru_seikatsu bocchi_the_rock! mitsuboshi_colors komi-san_wa_komyushou_desu pokemon mario_(series) k-on! real_life watashi_ga_motenai_no_wa_dou_kangaetemo_omaera_ga_warui! majo_no_takkyuubin
+?utane_uta -> utau a.i._voice vocaloid urami_koushin_(utau) synthesizer_v koronba voiceroid kikaijima_(utau) yatsume_ana kurage_(koronba)
