@@ -8171,3 +8171,4 @@
 ?idia_shroud -> twisted_wonderland hercules_(1997_movie) disney kimetsu_no_yaiba the_nightmare_before_christmas fate_(series) fate/grand_order sanrio disneyland disney_tsum-tsum
 ?mrs._shroud -> twisted_wonderland disney the_little_mermaid_(disney) aladdin_(movie) snow_white_and_the_seven_dwarfs_(disney) hercules_(1997_movie) sleeping_beauty_(disney)
 ?ortho_shroud -> twisted_wonderland hercules_(1997_movie) disney the_nightmare_before_christmas original vocaloid disneyland the_little_mermaid_(disney) aladdin_(movie) snow_white_and_the_seven_dwarfs_(disney)
+?pegasus_(disney) -> hercules_(1997_movie) twisted_wonderland disney aladdin_(movie) kingdom_hearts mickey_mouse_&_friends disneyland greek_mythology lilo_&_stitch
