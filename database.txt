@@ -8021,3 +8021,4 @@
 ?gfred -> gundam gundam_gquuuuuux mobile_suit_gundam sunrise_(company) bandai gundam_arsenal_base gundam_card_game neon_genesis_evangelion keroro_gunsou sd_gundam
 ?red_gundam -> gundam gundam_gquuuuuux mobile_suit_gundam gundam_card_game sunrise_(company) original sd_gundam gundam_arsenal_base bandai lycoris_recoil
 ?shuji_ito -> gundam gundam_gquuuuuux i_can_friday_by_day! mobile_suit_gundam gundam_seed pokemon neon_genesis_evangelion zeta_gundam g_gundam
+?asuna_(sao) -> sword_art_online sword_art_online:_alicization sword_art_online:_alicization_-_war_of_underworld sword_art_online:_code_register sword_art_online_progressive sword_art_online_the_movie:_ordinal_scale sword_art_online:_memory_defrag sword_art_online:_unleashed_blading sword_art_online:_hollow_fragment accel_world
