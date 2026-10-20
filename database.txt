@@ -8202,3 +8202,4 @@
 ?tenjou_utena -> shoujo_kakumei_utena shoujo_kakumei_utena_adolescence_mokushiroku gundam bishoujo_senshi_sailor_moon mahou_shoujo_madoka_magica gundam_suisei_no_majo cardcaptor_sakura mahou_shoujo_madoka_magica_(anime) pokemon vocaloid
 ?utsuro_(gokurakugai) -> gokurakugai chainsaw_man world_cup the_coffin_of_andy_and_leyley 2026_fifa_world_cup
 ?hanabusa_lisa_(5th_costume) -> vspo! nijisanji valorant
+?hino_madoka -> ninja_defenders:_cat_shinobi
