@@ -7990,3 +7990,4 @@
 ?unryuu_(kancolle) -> kantai_collection line_(naver) dragon_ball original fate_(series) aoki_hagane_no_arpeggio comiket_95 umamusume pokemon gundam
 ?kojima-senpai_(materu2532) -> original
 ?suou_akane_(niwata0) -> original the_walking_dead
+?mega_garchomp_z -> pokemon pokemon_diamond/pearl/platinum pokemon_legends:_z-a pokemon_(anime) pokemon_journeys
