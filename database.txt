@@ -8068,3 +8068,4 @@
 ?minamoto_no_raikou_(third_ascension)_(fate) -> fate_(series) fate/grand_order fate/stay_night fate/apocrypha original hololive hololive_english fate/extra fate/zero fate/kaleid_liner_prisma_illya
 ?kurogane_dara -> gokurakugai
 ?kurogane_yoki -> gokurakugai
+?senadina_(deepspace_anchor:_first_light) -> honkai_(series) honkai_impact_3rd genshin_impact honkai:_star_rail mihoyo tom_and_jerry nikkori^^chousatai_no_theme_(vocaloid) hollywood_undead
