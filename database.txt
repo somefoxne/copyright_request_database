@@ -8081,3 +8081,4 @@
 ?dark_matter_blade -> kirby_(series) kirby_64 kirby:_planet_robobot kirby:_squeak_squad kirby_&_the_amazing_mirror kirby_star_allies kirby:_triple_deluxe
 ?ollie_(eternalsoulrape) -> original
 ?aedon_(genshin_impact) -> genshin_impact
+?illuga_(genshin_impact) -> genshin_impact baskin-robbins zenless_zone_zero nijisanji jujutsu_kaisen sanrio the_hundred_line_-last_defense_academy- wizarding_world harry_potter_(series) mihoyo
