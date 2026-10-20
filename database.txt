@@ -8185,3 +8185,4 @@
 ?freddy_fazbear -> vocaloid utdr_(toby_fox) five_nights_in_anime_(fangame) undertale touhou sonic_(series)
 ?lightning_mcqueen -> cars_(movie) umamusume original marvel hololive hololive_english dc_comics mickey_mouse_&_friends toy_story spongebob_squarepants_(series)
 ?sarin_(summon_night) -> summon_night summon_night:_swordcraft_story_2 summon_night_collection
+?spindle_(spindlesong) -> original tomodachi_life tomodachi_life:_living_the_dream
