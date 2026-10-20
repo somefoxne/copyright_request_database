@@ -8138,3 +8138,4 @@
 ?loveless_(borderlands) -> borderlands_(series) borderlands_4
 ?raihime -> ninja_defenders:_cat_shinobi
 ?shiratori_aira_(dandadan) -> dandadan science_saru persona chainsaw_man sousou_no_frieren darkstalkers shounen_jump pokemon jojo_no_kimyou_na_bouken kimetsu_no_yaiba
+?usada_pekora_(furi_furi_bunny_dress) -> hololive fate_(series) hololive_english fate/stay_night hololive_indonesia hololive_dev_is blue_archive gundam wizarding_world mobile_suit_gundam
