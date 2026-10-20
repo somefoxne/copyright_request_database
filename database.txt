@@ -8194,3 +8194,4 @@
 ?deuce_spade_(cozy_loungewear) -> twisted_wonderland sanrio silent_hill_(series) mickey_mouse_&_friends hello_kitty the_addams_family the_shining the_nightmare_before_christmas it_(stephen_king) ghostbusters
 ?epel_felmier -> twisted_wonderland pokemon snow_white_and_the_seven_dwarfs_(disney) the_nightmare_before_christmas mickey_mouse_&_friends disney the_little_mermaid_(disney) aladdin_(movie) sleeping_beauty_(disney) disney_tsum-tsum
 ?jack_howl -> twisted_wonderland lilo_&_stitch the_nightmare_before_christmas the_lion_king pokemon disney zootopia the_little_mermaid_(disney) aladdin_(movie) snow_white_and_the_seven_dwarfs_(disney)
+?sebek_zigvolt -> twisted_wonderland the_nightmare_before_christmas pokemon disney the_little_mermaid_(disney) aladdin_(movie) snow_white_and_the_seven_dwarfs_(disney) sleeping_beauty_(disney) the_new_saint_joseph_baltimore_catechism
