@@ -8106,3 +8106,4 @@
 ?bullety_(isekai:_slow_life) -> isekai:_slow_life isekai_nonbiri_life
 ?jewlry -> isekai:_slow_life isekai_nonbiri_life
 ?lina_(isekai:_slow_life) -> isekai:_slow_life isekai_nonbiri_life
+?goro_takemura -> cyberpunk_(series) cyberpunk_2077 dungeons_&_dragons
