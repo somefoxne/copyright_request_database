@@ -8142,3 +8142,4 @@
 ?yoko_littner -> tengen_toppa_gurren_lagann pieces_of_sweet_stars neon_genesis_evangelion kill_la_kill gainax touhou tengen_toppa_gurren_lagann:_lagann-hen fate_(series) suzumiya_haruhi_no_yuuutsu panty_&_stocking_with_garterbelt
 ?aruma_(shinrabanshou) -> shinrabanshou original dragon_ball dragon_ball_z os-tan
 ?kudelia_aina_bernstein -> gundam gundam_tekketsu_no_orphans mobile_suit_gundam gundam_wing tamatoys gundam_seed precure jojo_no_kimyou_na_bouken the_king_of_fighters tengen_toppa_gurren_lagann
+?mizuchi_of_the_deepwaters -> ninja_defenders:_cat_shinobi
