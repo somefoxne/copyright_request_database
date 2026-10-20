@@ -8227,3 +8227,4 @@
 ?chief_(path_to_nowhere) -> path_to_nowhere original honkai_(series) honkai:_star_rail fire_emblem wuthering_waves fire_emblem:_three_houses comiket_102 the_weaker_sex_1_(gibson) pokemon
 ?female_chief_(path_to_nowhere) -> path_to_nowhere original honkai_(series) honkai:_star_rail fire_emblem wuthering_waves fire_emblem:_three_houses comiket_102 pokemon genshin_impact
 ?momo_(momonosumikko) -> original
+?rogue_amendiares -> cyberpunk_(series) cyberpunk_2077 cyberpunk_trading_card_game wuthering_waves cyberpunk:_edgerunners cyberpunk:_edgerunners_1
