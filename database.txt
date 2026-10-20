@@ -8006,3 +8006,4 @@
 ?sword_kirby -> kirby_(series) kirby_and_the_forgotten_land kirby_super_star kirby:_planet_robobot kirby_&_the_amazing_mirror kirby_64 kirby_star_allies
 ?trident_knight -> kirby_(series) kirby_super_star kirby:_planet_robobot kirby:_squeak_squad kirby_&_the_amazing_mirror kirby_64 kirby_and_the_forgotten_land kirby_star_allies
 ?wheelie_(kirby) -> kirby_(series) kirby_air_ride kirby_air_riders kirby_super_star kirby_and_the_forgotten_land kirby_64 kirby:_squeak_squad kirby:_planet_robobot
+?transcend_(zoku-zoku_gizmo)_(umamusume) -> umamusume flcl cygames michelin sega_rally_championship blue_archive pokemon fate_(series) fate/grand_order kemono_friends
