@@ -8197,3 +8197,4 @@
 ?sebek_zigvolt -> twisted_wonderland the_nightmare_before_christmas pokemon disney the_little_mermaid_(disney) aladdin_(movie) snow_white_and_the_seven_dwarfs_(disney) sleeping_beauty_(disney) the_new_saint_joseph_baltimore_catechism
 ?jack_sparrow -> pirates_of_the_caribbean one_piece mickey_mouse_&_friends hololive tiger_&_bunny disney pokemon hololive_english marvel frozen_(disney)
 ?aijo_karen -> shoujo_kageki_revue_starlight shoujo_kageki_revue_starlight_-re_live- bang_dream! bang_dream!_girls_band_party! love_live! project_tokyo_dolls umamusume real_life love_live!_nijigasaki_high_school_idol_club bushiroad
+?mr._white_(revue_starlight) -> shoujo_kageki_revue_starlight shoujo_kageki_revue_starlight_-re_live- pokemon pokemon_sword_and_shield umamusume bang_dream! dragon_quest bang_dream!_girls_band_party! sanrio toji_no_miko
