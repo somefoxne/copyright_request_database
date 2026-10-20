@@ -8217,3 +8217,4 @@
 ?verxina_(casual)_(umamusume) -> umamusume super_gt yokohama_dena_baystars kemono_friends lycoris_recoil oshi_no_ko star_wars youtube konjiki_no_gash!!
 ?fu_hua_(fenghuang_of_vicissitude) -> honkai_(series) honkai_impact_3rd honkai:_star_rail mihoyo comiket_107 zenless_zone_zero genshin_impact arknights honkai_gakuen neon_genesis_evangelion
 ?medael_(infinity_nikki) -> nikki_(series) infinity_nikki original
+?momoi_(armed)_(blue_archive) -> blue_archive neon_genesis_evangelion rebuild_of_evangelion evangelion:_3.0+1.0_thrice_upon_a_time mario_(series) jujutsu_kaisen sonic_(series) comiket_107 sonic_the_hedgehog_(classic) rhythm_tengoku
