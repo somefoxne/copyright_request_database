@@ -8110,3 +8110,4 @@
 ?vincent_(cyberpunk) -> cyberpunk_(series) cyberpunk_2077 cyberpunk:_edgerunners cyberpunk:_edgerunners_1 umamusume wuthering_waves resident_evil elden_ring resident_evil_3:_nemesis grand_theft_auto
 ?amatsunubatama -> ninja_defenders:_cat_shinobi
 ?count_saint-germain -> dandadan shounen_jump pokemon
+?sawaki_rin -> dandadan pokemon don_quijote_(store)
