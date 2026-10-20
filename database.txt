@@ -8041,3 +8041,4 @@
 ?kamen_rider_decade -> kamen_rider kamen_rider_dcd kamen_rider_kiva_(series) kamen_rider_kuuga_(series) kamen_rider_555 kamen_rider_ryuki_(series) kamen_rider_den-o_(series) kamen_rider_blade_(series) kamen_rider_kabuto_(series) kamen_rider_hibiki_(series)
 ?sportacus -> lazytown the_boys hololive jojo_no_kimyou_na_bouken boku_no_hero_academia dragon_ball marvel dc_comics resident_evil kamen_rider
 ?jesus_burgess -> one_piece one_piece_card_game touhou hungry_days pokemon dc_comics batman_(series) one_piece_film:_red joker_(2019)
+?calvin_(calvin_&_hobbes) -> calvin_&_hobbes street_fighter dragon_ball sonic_(series) jurassic_park original touhou pokemon fate_(series) final_fantasy
