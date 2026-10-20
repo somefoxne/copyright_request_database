@@ -5,3 +5,4 @@
 ?player_character_(female)_(degrees_of_lewdity) -> degrees_of_lewdity original the_kiss pokemon sanrio wizarding_world harry_potter_(series) honkai_(series) honkai:_star_rail wuthering_waves
 ?bomb_hybrid_(chainsaw_man) -> chainsaw_man boku_no_hero_academia original one-punch_man jojo_no_kimyou_na_bouken one_piece persona league_of_legends naruto_(series) jujutsu_kaisen
 ?chainsaw_man_(character) -> chainsaw_man jujutsu_kaisen spy_x_family touhou marvel hololive jojo_no_kimyou_na_bouken spider-man_(series) dandadan akira_(manga)
+?denji_man_(chainsaw_man) -> chainsaw_man jujutsu_kaisen dc_comics absolute_dc absolute_batman jojo_no_kimyou_na_bouken marvel stardust_crusaders tengen_toppa_gurren_lagann spider-man_(series)
