@@ -8089,3 +8089,4 @@
 ?ryouga_(summon_night) -> summon_night summon_night:_swordcraft_story_2 summon_night_collection summon_night:_swordcraft_story summon_night_craft_sword_monogatari_hajimari_no_ishi
 ?ijichi_seika -> bocchi_the_rock! pokemon need_for_speed gundam instagram the_shining it_(stephen_king) need_for_speed:_underground_2 vocaloid chainsaw_man
 ?protagonist_(love_and_deepspace) -> love_and_deepspace final_fantasy final_fantasy_vii original final_fantasy_vii_remake genshin_impact boku_no_hero_academia spy_x_family alien_stage nikki_(series)
+?master_soarer_(racehorse) -> original real_life umamusume
