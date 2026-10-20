@@ -8205,3 +8205,4 @@
 ?hino_madoka -> ninja_defenders:_cat_shinobi
 ?kisaragi_sena -> ninja_defenders:_cat_shinobi
 ?mayoneko_akane -> ninja_defenders:_cat_shinobi
+?morimi_kuroko -> ninja_defenders:_cat_shinobi
