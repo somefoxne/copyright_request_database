@@ -8189,3 +8189,4 @@
 ?buneary -> pokemon pokemon_diamond/pearl/platinum pokemon_(anime) pokemon_the_series:_diamond_and_pearl pokemon_platinum original pokemon_black_and_white idolmaster pokemon_legends:_arceus idolmaster_shiny_colors
 ?adelinde_(genshin_impact) -> genshin_impact original wuthering_waves punishing:_gray_raven duolingo kuro_games
 ?crepus_(genshin_impact) -> genshin_impact
+?kurumi_noah_(8th_costume) -> vspo!
