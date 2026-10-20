@@ -8216,3 +8216,4 @@
 ?apollo_(mythology) -> greek_mythology arknights love_live! dragon_ball love_live!_sunshine!! code_geass elden_ring shoujo_kageki_revue_starlight gintama azumanga_daioh
 ?verxina_(casual)_(umamusume) -> umamusume super_gt yokohama_dena_baystars kemono_friends lycoris_recoil oshi_no_ko star_wars youtube konjiki_no_gash!!
 ?fu_hua_(fenghuang_of_vicissitude) -> honkai_(series) honkai_impact_3rd honkai:_star_rail mihoyo comiket_107 zenless_zone_zero genshin_impact arknights honkai_gakuen neon_genesis_evangelion
+?medael_(infinity_nikki) -> nikki_(series) infinity_nikki original
