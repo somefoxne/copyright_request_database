@@ -29,3 +29,4 @@
 ?nemo_(mobile_suit) -> gundam zeta_gundam original gundam_unicorn gundam_perfect_file gundam_zz zeta_gundam_define sunrise_(company) gundam_sentinel mobile_suit_gundam
 ?momo_(panda)_(infinity_nikki) -> nikki_(series) infinity_nikki original shining_nikki
 ?myriad_poetic_bows_(shining_nikki) -> nikki_(series) shining_nikki infinity_nikki
+?leona_kingscholar -> twisted_wonderland the_lion_king disney the_nightmare_before_christmas jujutsu_kaisen kimetsu_no_yaiba the_little_mermaid_(disney) aladdin_(movie) snow_white_and_the_seven_dwarfs_(disney) hercules_(1997_movie)
