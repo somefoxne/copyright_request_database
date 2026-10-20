@@ -7992,3 +7992,4 @@
 ?suou_akane_(niwata0) -> original the_walking_dead
 ?mega_garchomp_z -> pokemon pokemon_diamond/pearl/platinum pokemon_legends:_z-a pokemon_(anime) pokemon_journeys
 ?bulbasaur -> pokemon pokemon_red/green/blue/yellow pokemon_firered_and_leafgreen pokemon_(anime) pokemon_pokopia pokemon_diamond/pearl/platinum pokemon_ruby/sapphire/emerald pokemon_(classic_anime) pokemon_black_and_white pokemon_heartgold_and_soulsilver
+?charmander -> pokemon pokemon_red/green/blue/yellow pokemon_firered_and_leafgreen pokemon_(anime) pokemon_sword_and_shield pokemon_diamond/pearl/platinum pokemon_heartgold_and_soulsilver pokemon_ruby/sapphire/emerald pokemon_black_and_white pokemon_gold/silver/crystal
