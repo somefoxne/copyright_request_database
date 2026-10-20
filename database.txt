@@ -8240,3 +8240,4 @@
 ?momo_(paper_wings)_(infinity_nikki) -> nikki_(series) infinity_nikki
 ?wings_of_wishes_(infinity_nikki) -> nikki_(series) infinity_nikki wuthering_waves identity_v
 ?fianna_(fire_emblem) -> fire_emblem
+?johnny_cage -> mortal_kombat_(series) mortal_kombat_1_(2023) mortal_kombat_11 fate_(series) fate/grand_order umamusume fire_emblem gundam street_fighter tokyo_afterschool_summoners
