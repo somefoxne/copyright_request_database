@@ -8228,3 +8228,4 @@
 ?female_chief_(path_to_nowhere) -> path_to_nowhere original honkai_(series) honkai:_star_rail fire_emblem wuthering_waves fire_emblem:_three_houses comiket_102 pokemon genshin_impact
 ?momo_(momonosumikko) -> original
 ?rogue_amendiares -> cyberpunk_(series) cyberpunk_2077 cyberpunk_trading_card_game wuthering_waves cyberpunk:_edgerunners cyberpunk:_edgerunners_1
+?kougami_shin'ya -> psycho-pass mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) fate_(series) fate/zero pokemon love_live! pokemon_scarlet_and_violet lycoris_recoil touhou
