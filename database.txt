@@ -8133,3 +8133,4 @@
 ?kazeha_of_the_furious_winds -> ninja_defenders:_cat_shinobi
 ?nibbles_(cyberpunk) -> cyberpunk_(series) cyberpunk_2077
 ?aston_altland -> gundam gundam_tekketsu_no_orphans gundam_build_fighters super_robot_wars
+?takaki_uno -> gundam gundam_tekketsu_no_orphans tengen_toppa_gurren_lagann sakigake!!_cromartie_koukou super_robot_wars gundam_build_fighters
