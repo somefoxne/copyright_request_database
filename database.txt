@@ -8002,3 +8002,4 @@
 ?dyna_blade -> kirby_(series) kirby_super_star kirby_64 kirby_air_ride kirby:_squeak_squad kirby_&_the_amazing_mirror kirby_and_the_forgotten_land
 ?javelin_knight -> kirby_(series) kirby_super_star kirby_64 kirby:_squeak_squad kirby:_planet_robobot kirby_&_the_amazing_mirror kirby_and_the_forgotten_land
 ?mace_knight -> kirby_(series) kirby_super_star kirby_64 kirby:_planet_robobot kirby:_squeak_squad kirby_&_the_amazing_mirror kirby_and_the_forgotten_land
+?sailor_waddle_dee -> kirby_(series) kirby_super_star kirby_64 kirby_star_allies kirby:_squeak_squad kirby_and_the_forgotten_land kirby:_planet_robobot kirby_&_the_amazing_mirror
