@@ -8102,3 +8102,4 @@
 ?assam_(girls_und_panzer) -> girls_und_panzer girls_und_panzer_motto_love_love_sakusen_desu! girls_und_panzer_senshadou_daisakusen! gekitotsu!_joshikousei_oiroke_sensha_gundan world_of_tanks girls_und_panzer_gekijouban coca-cola girls_und_panzer_little_army original darkstalkers
 ?awa_subaru -> girls_band_cry bang_dream! girls_band_cry_rpg bocchi_the_rock! bang_dream!_girls_band_party! idolmaster mahou_shoujo_madoka_magica lycoris_recoil hyouka
 ?ebizuka_tomo -> girls_band_cry bang_dream! girls_band_cry_rpg bocchi_the_rock! bang_dream!_girls_band_party! japan_railways sanrio mahou_shoujo_no_majo_saiban my_melody_(series)
+?rupa_(girls_band_cry) -> girls_band_cry bang_dream! bocchi_the_rock! girls_band_cry_rpg arknights real_life japan_railways bang_dream!_girls_band_party! mahou_shoujo_no_majo_saiban
