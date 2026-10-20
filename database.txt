@@ -8043,3 +8043,4 @@
 ?jesus_burgess -> one_piece one_piece_card_game touhou hungry_days pokemon dc_comics batman_(series) one_piece_film:_red joker_(2019)
 ?calvin_(calvin_&_hobbes) -> calvin_&_hobbes street_fighter dragon_ball sonic_(series) jurassic_park original touhou pokemon fate_(series) final_fantasy
 ?cream_the_rabbit -> sonic_(series) sonic_the_hedgehog_(classic) sonic_riders_(series) sonic_rush sonic_rush_adventure sonic_the_hedgehog_(idw) original sonic_adventure sonic_heroes sonic_riders
+?emma_frost -> marvel x-men marvel_rivals spider-man_(series) fantastic_four avengers_(series) overwatch the_incredible_hulk_(series) thor_(marvel)_(series) street_fighter
