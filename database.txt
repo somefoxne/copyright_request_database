@@ -8232,3 +8232,4 @@
 ?makishima_shougo -> psycho-pass danganronpa_(series) danganronpa_2:_goodbye_despair neon_genesis_evangelion pokemon arknights granblue_fantasy magi_the_labyrinth_of_magic akudama_drive gugure!_kokkuri-san
 ?charlie_nash -> street_fighter street_fighter_zero_(series) street_fighter_v marvel_vs._capcom capcom street_fighter_ii_(series) final_fight marvel x-men street_fighter_iii_(series)
 ?guile -> street_fighter street_fighter_ii_(series) street_fighter_6 street_fighter_v street_fighter_zero_(series) street_fighter_iv_(series) capcom darkstalkers final_fight fatal_fury
+?augusta_(wuthering_waves) -> wuthering_waves lawson genshin_impact jojo_no_kimyou_na_bouken diamond_wa_kudakenai the_last_supper eiyuu_densetsu kuro_no_kiseki_(series) the_weaker_sex_1_(gibson) pokemon
