@@ -8163,3 +8163,4 @@
 ?nakashima_yuki -> bang_dream! bang_dream!_girls_band_party! real_life umamusume idolmaster idolmaster_cinderella_girls disneyland project_sekai mirai_akari_project winnie_the_pooh
 ?nakatsukami_ryo -> ninja_defenders:_cat_shinobi
 ?geralt_of_rivia -> the_witcher_(series) the_witcher_3 the_witcher_(netflix) the_witcher_4 the_witcher_(book_series) marvel spider-man_(series) gwent_(game) final_fantasy mega_man_(series)
+?tether_(spindlesong) -> original guilty_gear guilty_gear_strive need_for_speed need_for_speed:_most_wanted_(2005)
