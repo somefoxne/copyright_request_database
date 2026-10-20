@@ -8191,3 +8191,4 @@
 ?crepus_(genshin_impact) -> genshin_impact
 ?kurumi_noah_(8th_costume) -> vspo!
 ?deuce_spade -> twisted_wonderland kimetsu_no_yaiba fate_(series) fate/grand_order zootopia the_nightmare_before_christmas pokemon touken_ranbu youtube disney
+?deuce_spade_(cozy_loungewear) -> twisted_wonderland sanrio silent_hill_(series) mickey_mouse_&_friends hello_kitty the_addams_family the_shining the_nightmare_before_christmas it_(stephen_king) ghostbusters
