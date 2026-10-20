@@ -8049,3 +8049,4 @@
 ?utane_uta -> utau a.i._voice vocaloid urami_koushin_(utau) synthesizer_v koronba voiceroid kikaijima_(utau) yatsume_ana kurage_(koronba)
 ?gogo_tomago -> big_hero_6 kill_la_kill marvel disney pokemon bishoujo_senshi_sailor_moon dc_comics powerpuff_girls aladdin_(movie) the_fairly_oddparents
 ?porygon-z -> pokemon pokemon_scarlet_and_violet pokemon_diamond/pearl/platinum pokemon_sun_and_moon pokemon_(anime) original pokemon_masters_ex pokemon_legends:_arceus pokemon_ruby/sapphire/emerald pokemon_red/green/blue/yellow
+?minamoto_no_raikou_(swimsuit_lancer)_(fate) -> fate_(series) fate/grand_order original fate/apocrypha tsukihime hololive fate/extra comiket_94 senjou_no_valkyria_(series) genshin_impact
