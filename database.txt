@@ -8080,3 +8080,4 @@
 ?dark_matter_(kirby) -> kirby_(series) kirby_64 kirby_star_allies kirby:_planet_robobot kirby:_squeak_squad kirby_&_the_amazing_mirror kirby:_triple_deluxe
 ?dark_matter_blade -> kirby_(series) kirby_64 kirby:_planet_robobot kirby:_squeak_squad kirby_&_the_amazing_mirror kirby_star_allies kirby:_triple_deluxe
 ?ollie_(eternalsoulrape) -> original
+?aedon_(genshin_impact) -> genshin_impact
