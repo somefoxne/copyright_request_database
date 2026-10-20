@@ -8126,3 +8126,4 @@
 ?nagata_shin'ichi -> sword_art_online
 ?tokunaga_(tales) -> tales_of_(series) tales_of_the_abyss tales_of_vesperia tales_of_symphonia tales_of_xillia tales_of_graces tales_of_destiny tales_of_phantasia tales_of_legendia tales_of_eternia
 ?nyarla_(shinrabanshou) -> shinrabanshou comiket_81
+?destoroyah -> godzilla_(series) godzilla_vs._destoroyah godzilla_vs._spacegodzilla monsterverse godzilla_(2014) godzilla:_king_of_the_monsters godzilla:_final_wars godzilla_vs._king_ghidorah godzilla_vs._biollante devilman
