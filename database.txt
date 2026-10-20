@@ -9,3 +9,4 @@
 ?reze_(chainsaw_man) -> chainsaw_man boku_no_hero_academia hololive iris_out_(song) hololive_english kimetsu_no_yaiba original jujutsu_kaisen fate_(series) zenless_zone_zero
 ?tayama_(super_no_ura_de_yani_suu_futari) -> super_no_ura_de_yani_suu_futari chainsaw_man yani_neko yofukashi_no_uta hololive hololive_english persona persona_5 cyberpunk_(series) cyberpunk:_edgerunners
 ?asna_(infinity_nikki) -> nikki_(series) infinity_nikki
+?momo_(nikki) -> nikki_(series) infinity_nikki shining_nikki miracle_nikki nikki_up2u2:_world_traveller nikki_up2u stardew_valley original kfc cardcaptor_sakura
