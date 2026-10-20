@@ -8167,3 +8167,4 @@
 ?astaroth_(shinrabanshou) -> shinrabanshou futaba_channel os-tan rozen_maiden marvel spider-man_(series) nijiura_maids galaxy_angel original super_robot_wars
 ?mayoneko_akari -> ninja_defenders:_cat_shinobi
 ?ann_shand -> kamiina_botan_yoeru_sugata_wa_yuri_no_hana
+?awa_mikuri -> kamiina_botan_yoeru_sugata_wa_yuri_no_hana
