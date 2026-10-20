@@ -27,3 +27,4 @@
 ?melony_(pokemon) -> pokemon pokemon_sword_and_shield pokemon_diamond/pearl/platinum pokemon_sun_and_moon pokemon_(anime) pokemon_scarlet_and_violet pokemon_x_and_y pokemon_omega_ruby_and_alpha_sapphire pokemon_the_series:_sun_&_moon pokemon_tcg
 ?nessa_(pokemon) -> pokemon pokemon_sword_and_shield pokemon:_twilight_wings pokemon_(anime) pokemon_sun_and_moon pokemon_masters_ex pokemon_black_2_and_white_2 pokemon_black_and_white pokemon_scarlet_and_violet pokemon_omega_ruby_and_alpha_sapphire
 ?nemo_(mobile_suit) -> gundam zeta_gundam original gundam_unicorn gundam_perfect_file gundam_zz zeta_gundam_define sunrise_(company) gundam_sentinel mobile_suit_gundam
+?momo_(panda)_(infinity_nikki) -> nikki_(series) infinity_nikki original shining_nikki
