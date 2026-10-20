@@ -8047,3 +8047,4 @@
 ?hatono_chihiro -> futsuu_no_keion-bu bocchi_the_rock! shounen_jump chainsaw_man kagurabachi 7-eleven skip_to_loafer john_wick sankyuu_pitch hmv
 ?hitori_bocchi -> hitoribocchi_no_marumaru_seikatsu bocchi_the_rock! mitsuboshi_colors komi-san_wa_komyushou_desu pokemon mario_(series) k-on! real_life watashi_ga_motenai_no_wa_dou_kangaetemo_omaera_ga_warui! majo_no_takkyuubin
 ?utane_uta -> utau a.i._voice vocaloid urami_koushin_(utau) synthesizer_v koronba voiceroid kikaijima_(utau) yatsume_ana kurage_(koronba)
+?gogo_tomago -> big_hero_6 kill_la_kill marvel disney pokemon bishoujo_senshi_sailor_moon dc_comics powerpuff_girls aladdin_(movie) the_fairly_oddparents
