@@ -8158,3 +8158,4 @@
 ?mioda_ibuki -> danganronpa_(series) danganronpa_2:_goodbye_despair danganronpa:_trigger_happy_havoc danganronpa_v3:_killing_harmony danganronpa_another_episode:_ultra_despair_girls danganronpa/zero danganronpa_s:_ultimate_summer_camp
 ?kaeya_(genshin_impact) -> genshin_impact mihoyo honkai_(series) pokemon honkai_impact_3rd duolingo honkai:_star_rail pokemon_(anime) among_us horizon_(game)
 ?seele_vollerei_(azure_memories) -> honkai_(series) honkai_impact_3rd honkai_gakuen honkai:_star_rail arknights azur_lane kantai_collection genshin_impact animal_crossing
+?seele_vollerei_(swallowtail_phantasm) -> honkai_(series) honkai_impact_3rd honkai_gakuen honkai:_star_rail genshin_impact mihoyo arknights azur_lane the_little_mermaid_(disney)
