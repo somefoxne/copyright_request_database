@@ -8159,3 +8159,4 @@
 ?kaeya_(genshin_impact) -> genshin_impact mihoyo honkai_(series) pokemon honkai_impact_3rd duolingo honkai:_star_rail pokemon_(anime) among_us horizon_(game)
 ?seele_vollerei_(azure_memories) -> honkai_(series) honkai_impact_3rd honkai_gakuen honkai:_star_rail arknights azur_lane kantai_collection genshin_impact animal_crossing
 ?seele_vollerei_(swallowtail_phantasm) -> honkai_(series) honkai_impact_3rd honkai_gakuen honkai:_star_rail genshin_impact mihoyo arknights azur_lane the_little_mermaid_(disney)
+?hokazono_takeru_(avatar) -> kagurabachi
