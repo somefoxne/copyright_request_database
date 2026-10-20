@@ -8218,3 +8218,4 @@
 ?fu_hua_(fenghuang_of_vicissitude) -> honkai_(series) honkai_impact_3rd honkai:_star_rail mihoyo comiket_107 zenless_zone_zero genshin_impact arknights honkai_gakuen neon_genesis_evangelion
 ?medael_(infinity_nikki) -> nikki_(series) infinity_nikki original
 ?momoi_(armed)_(blue_archive) -> blue_archive neon_genesis_evangelion rebuild_of_evangelion evangelion:_3.0+1.0_thrice_upon_a_time mario_(series) jujutsu_kaisen sonic_(series) comiket_107 sonic_the_hedgehog_(classic) rhythm_tengoku
+?lisa_(genshin_impact) -> genshin_impact honkai_(series) mihoyo honkai:_star_rail fire_emblem honkai_impact_3rd neptune_(series) fate_(series) fate/grand_order horizon_(game)
