@@ -17,3 +17,4 @@
 ?kougami_shin'ya -> psycho-pass mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) fate_(series) fate/zero pokemon love_live! pokemon_scarlet_and_violet lycoris_recoil touhou
 ?tsunemori_akane -> psycho-pass fate_(series) fate/zero phantom_of_inferno mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) nitroplus guilty_crown blassreiter toaru_majutsu_no_index
 ?hsin_(wuthering_waves) -> wuthering_waves goddess_of_victory:_nikke zenless_zone_zero chainsaw_man arknights honkai_(series) honkai:_star_rail arknights:_endfield kirby_(series) twitter
+?male_rover_(wuthering_waves) -> wuthering_waves cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 genshin_impact honkai_(series) honkai:_star_rail mihoyo zenless_zone_zero blue_archive
