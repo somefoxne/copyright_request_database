@@ -8032,3 +8032,4 @@
 ?baiken -> guilty_gear guilty_gear_strive guilty_gear_xrd guilty_gear_xx street_fighter samurai_spirits guilty_gear_x the_king_of_fighters fatal_fury tower_records
 ?michael_roa_valdamjong -> tsukihime tsukihime_(remake) melty_blood fate_(series) fate/grand_order melty_blood:_type_lumina type-moon kagetsu_tooya fate/stay_night carnival_phantasm
 ?vlov_arkhangel -> tsukihime tsukihime_(remake) melty_blood melty_blood:_type_lumina fate_(series) type-moon fate/grand_order mahou_tsukai_no_yoru kagetsu_tooya fate/stay_night
+?bartolomeo -> one_piece one_piece_card_game one_piece_film:_red one_piece_fan_letter one_piece_treasure_cruise one_piece_film:_gold bereal one_piece_straw_hat_space
