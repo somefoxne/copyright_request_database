@@ -8040,3 +8040,4 @@
 ?bandana_waddle_dee -> kirby_(series) kirby_and_the_forgotten_land kirby_star_allies kirby_64 kirby_air_ride kirby:_planet_robobot super_smash_bros. kirby:_triple_deluxe
 ?kamen_rider_decade -> kamen_rider kamen_rider_dcd kamen_rider_kiva_(series) kamen_rider_kuuga_(series) kamen_rider_555 kamen_rider_ryuki_(series) kamen_rider_den-o_(series) kamen_rider_blade_(series) kamen_rider_kabuto_(series) kamen_rider_hibiki_(series)
 ?sportacus -> lazytown the_boys hololive jojo_no_kimyou_na_bouken boku_no_hero_academia dragon_ball marvel dc_comics resident_evil kamen_rider
+?jesus_burgess -> one_piece one_piece_card_game touhou hungry_days pokemon dc_comics batman_(series) one_piece_film:_red joker_(2019)
