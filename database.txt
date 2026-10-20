@@ -8115,3 +8115,4 @@
 ?kiana_kaslana_(frostmoon_bunny) -> honkai_(series) honkai_impact_3rd mihoyo genshin_impact neon_genesis_evangelion rebuild_of_evangelion
 ?air_shakur_(casual)_(umamusume) -> umamusume original hokuto_no_ken scp_foundation
 ?fine_motion_(casual)_(umamusume) -> umamusume lupin_iii castle_of_cagliostro woman_with_a_parasol tousouchuu euphoria_(2019)
+?kagutsuchi_of_the_crimson -> ninja_defenders:_cat_shinobi
