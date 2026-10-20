@@ -8120,3 +8120,4 @@
 ?passeau_(summon_night) -> summon_night summon_night:_swordcraft_story_2 summon_night_collection
 ?pekomon_(usada_pekora) -> hololive hololive_indonesia hololive_english minecraft hololive_dev_is hololive_alternative death_stranding pokemon fate_(series) original
 ?zenno_rob_roy_(magical_heroine)_(umamusume) -> umamusume
+?fumetsu_the_plague -> ninja_defenders:_cat_shinobi
