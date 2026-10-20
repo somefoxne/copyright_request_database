@@ -8086,3 +8086,4 @@
 ?mcgillis_fareed -> gundam gundam_tekketsu_no_orphans mobile_suit_gundam gundam_seed gundam_seed_destiny gundam_wing gundam_zz gundam_00 zeta_gundam
 ?kizuna_akari_(a.i._voice) -> a.i._voice voiceroid vocaloid cevio utau synthesizer_v voicevox talkex piapro_studio pokemon
 ?aikawa_megumi -> heaven_burns_red key_(company) angel_beats! yostar air_(visual_novel) comiket_104 mahou_shoujo_madoka_magica clannad kanon rewrite
+?ryouga_(summon_night) -> summon_night summon_night:_swordcraft_story_2 summon_night_collection summon_night:_swordcraft_story summon_night_craft_sword_monogatari_hajimari_no_ishi
