@@ -8014,3 +8014,4 @@
 ?aizono_manami_(4th_costume) -> nijisanji
 ?sister_claire_(3rd_costume) -> nijisanji
 ?morinaka_kazaki_(10th_costume) -> nijisanji
+?aizono_manami_(1st_costume) -> nijisanji nijisanji_kr nijisanji_en nijisanji_id pineapple_on_pizza_(game)
