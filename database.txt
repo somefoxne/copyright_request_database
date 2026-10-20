@@ -8053,3 +8053,4 @@
 ?pira_(trickcal) -> trickcal omocoro
 ?theresa_apocalypse_(wonderland_trek) -> honkai_(series) honkai_impact_3rd
 ?levi_(trickcal) -> trickcal jojo_no_kimyou_na_bouken
+?bonnie_barkswell -> globie indie_virtual_youtuber world_cup 2026_fifa_world_cup vocaloid goddess_of_victory:_nikke v4mirai one_iced_latte_with_your_breast_milk_please!
