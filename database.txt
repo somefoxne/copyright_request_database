@@ -8132,3 +8132,4 @@
 ?groza_(girls'_frontline_2) -> blue_archive hololive hololive_english codename:_bakery_girl reverse_collapse_(series) fate_(series)
 ?kazeha_of_the_furious_winds -> ninja_defenders:_cat_shinobi
 ?nibbles_(cyberpunk) -> cyberpunk_(series) cyberpunk_2077
+?aston_altland -> gundam gundam_tekketsu_no_orphans gundam_build_fighters super_robot_wars
