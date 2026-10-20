@@ -8045,3 +8045,4 @@
 ?cream_the_rabbit -> sonic_(series) sonic_the_hedgehog_(classic) sonic_riders_(series) sonic_rush sonic_rush_adventure sonic_the_hedgehog_(idw) original sonic_adventure sonic_heroes sonic_riders
 ?emma_frost -> marvel x-men marvel_rivals spider-man_(series) fantastic_four avengers_(series) overwatch the_incredible_hulk_(series) thor_(marvel)_(series) street_fighter
 ?hatono_chihiro -> futsuu_no_keion-bu bocchi_the_rock! shounen_jump chainsaw_man kagurabachi 7-eleven skip_to_loafer john_wick sankyuu_pitch hmv
+?hitori_bocchi -> hitoribocchi_no_marumaru_seikatsu bocchi_the_rock! mitsuboshi_colors komi-san_wa_komyushou_desu pokemon mario_(series) k-on! real_life watashi_ga_motenai_no_wa_dou_kangaetemo_omaera_ga_warui! majo_no_takkyuubin
