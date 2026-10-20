@@ -8119,3 +8119,4 @@
 ?girl_a_(madoka_magica) -> mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica:_walpurgis_no_kaiten mahou_shoujo_madoka_magica_magia_exedra mahou_shoujo_madoka_magica:_concept_movie
 ?passeau_(summon_night) -> summon_night summon_night:_swordcraft_story_2 summon_night_collection
 ?pekomon_(usada_pekora) -> hololive hololive_indonesia hololive_english minecraft hololive_dev_is hololive_alternative death_stranding pokemon fate_(series) original
+?zenno_rob_roy_(magical_heroine)_(umamusume) -> umamusume
