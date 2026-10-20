@@ -8241,3 +8241,4 @@
 ?wings_of_wishes_(infinity_nikki) -> nikki_(series) infinity_nikki wuthering_waves identity_v
 ?fianna_(fire_emblem) -> fire_emblem
 ?johnny_cage -> mortal_kombat_(series) mortal_kombat_1_(2023) mortal_kombat_11 fate_(series) fate/grand_order umamusume fire_emblem gundam street_fighter tokyo_afterschool_summoners
+?tharja_(fire_emblem) -> fire_emblem fire_emblem_awakening fire_emblem_heroes fire_emblem_fates fire_emblem:_three_houses fire_emblem_cipher fire_emblem:_the_blazing_blade fire_emblem:_genealogy_of_the_holy_war fire_emblem_echoes:_shadows_of_valentia fire_emblem:_mystery_of_the_emblem
