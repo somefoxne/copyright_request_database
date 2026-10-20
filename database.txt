@@ -8105,3 +8105,4 @@
 ?rupa_(girls_band_cry) -> girls_band_cry bang_dream! bocchi_the_rock! girls_band_cry_rpg arknights real_life japan_railways bang_dream!_girls_band_party! mahou_shoujo_no_majo_saiban
 ?bullety_(isekai:_slow_life) -> isekai:_slow_life isekai_nonbiri_life
 ?jewlry -> isekai:_slow_life isekai_nonbiri_life
+?lina_(isekai:_slow_life) -> isekai:_slow_life isekai_nonbiri_life
