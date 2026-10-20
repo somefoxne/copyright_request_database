@@ -8111,3 +8111,4 @@
 ?amatsunubatama -> ninja_defenders:_cat_shinobi
 ?count_saint-germain -> dandadan shounen_jump pokemon
 ?sawaki_rin -> dandadan pokemon don_quijote_(store)
+?elizabeth_rose_bloodflame_(1st_costume) -> hololive hololive_english enigmatic_recollection hololive_indonesia holostars holostars_english umamusume hololive_dev_is hololive_official_card_game minecraft
