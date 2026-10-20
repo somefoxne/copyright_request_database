@@ -8077,3 +8077,4 @@
 ?mickey_(female)_(degrees_of_lewdity) -> degrees_of_lewdity
 ?tsurumaki_maki_(cevio) -> voiceroid cevio vocaloid synthesizer_v a.i._voice voicepeak gynoid_talk coefont voicevox talkex
 ?mettaton_neo -> utdr_(toby_fox) undertale deltarune suishitai_wa_koi_shitai_(vocaloid) mega_man_(series) mega_man_zero_(series) seiken_densetsu seiken_densetsu_3 matryoshka_(vocaloid)
+?dark_matter_(kirby) -> kirby_(series) kirby_64 kirby_star_allies kirby:_planet_robobot kirby:_squeak_squad kirby_&_the_amazing_mirror kirby:_triple_deluxe
