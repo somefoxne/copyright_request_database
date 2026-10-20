@@ -8155,3 +8155,4 @@
 ?hakuko -> ninja_defenders:_cat_shinobi
 ?maruzensky_(hot_summer_night)_(umamusume) -> umamusume indie_virtual_youtuber blue_archive real_life umamusume:_cinderella_gray super_gt original love_live! chainsaw_man marvel
 ?yumeno_himiko -> danganronpa_(series) danganronpa_v3:_killing_harmony danganronpa_2:_goodbye_despair danganronpa:_trigger_happy_havoc danganronpa_another_episode:_ultra_despair_girls danganronpa/zero pokemon
+?mioda_ibuki -> danganronpa_(series) danganronpa_2:_goodbye_despair danganronpa:_trigger_happy_havoc danganronpa_v3:_killing_harmony danganronpa_another_episode:_ultra_despair_girls danganronpa/zero danganronpa_s:_ultimate_summer_camp
