@@ -8051,3 +8051,4 @@
 ?porygon-z -> pokemon pokemon_scarlet_and_violet pokemon_diamond/pearl/platinum pokemon_sun_and_moon pokemon_(anime) original pokemon_masters_ex pokemon_legends:_arceus pokemon_ruby/sapphire/emerald pokemon_red/green/blue/yellow
 ?minamoto_no_raikou_(swimsuit_lancer)_(fate) -> fate_(series) fate/grand_order original fate/apocrypha tsukihime hololive fate/extra comiket_94 senjou_no_valkyria_(series) genshin_impact
 ?pira_(trickcal) -> trickcal omocoro
+?theresa_apocalypse_(wonderland_trek) -> honkai_(series) honkai_impact_3rd
