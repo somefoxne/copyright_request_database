@@ -8238,3 +8238,4 @@
 ?vil_schoenheit_(outdoor_wear) -> twisted_wonderland
 ?muamar_reyes -> cyberpunk_(series) cyberpunk_2077 cyberpunk_trading_card_game
 ?momo_(paper_wings)_(infinity_nikki) -> nikki_(series) infinity_nikki
+?wings_of_wishes_(infinity_nikki) -> nikki_(series) infinity_nikki wuthering_waves identity_v
