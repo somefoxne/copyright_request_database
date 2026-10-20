@@ -8013,3 +8013,4 @@
 ?mihono_bourbon_(the_ghost_finds_halloween_magic)_(umamusume) -> umamusume ultra_series alfort_(brand)
 ?aizono_manami_(4th_costume) -> nijisanji
 ?sister_claire_(3rd_costume) -> nijisanji
+?morinaka_kazaki_(10th_costume) -> nijisanji
