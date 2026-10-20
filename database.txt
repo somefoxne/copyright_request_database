@@ -7997,3 +7997,4 @@
 ?flora_(fairy_rabbit)_(nikke) -> goddess_of_victory:_nikke plants_vs._zombies
 ?tange_kotoe_(a.i._voice) -> a.i._voice voiceroid vocaloid indie_virtual_youtuber cevio talkex utau synthesizer_v transiruby
 ?skott_(honkai:_star_rail) -> honkai_(series) honkai:_star_rail fate_(series) fate/stay_night fate/unlimited_blade_works jujutsu_kaisen jojo_no_kimyou_na_bouken honkai_impact_3rd yu-gi-oh! tokidoki_bosotto_roshia-go_de_dereru_tonari_no_alya-san
+?katsuragi_ace_(casual)_(umamusume) -> umamusume real_life pokemon microsoft_windows pakatube desktop_mate boomerang_fu
