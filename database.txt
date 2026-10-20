@@ -8012,3 +8012,4 @@
 ?mejiro_palmer_(line_breakthrough)_(umamusume) -> umamusume original akari_ga_yatte_kitazo_(vocaloid) umamusume:_cinderella_gray among_us fate_(series) indie_virtual_youtuber gundam precure jojo_no_kimyou_na_bouken
 ?mihono_bourbon_(the_ghost_finds_halloween_magic)_(umamusume) -> umamusume ultra_series alfort_(brand)
 ?aizono_manami_(4th_costume) -> nijisanji
+?sister_claire_(3rd_costume) -> nijisanji
