@@ -8203,3 +8203,4 @@
 ?utsuro_(gokurakugai) -> gokurakugai chainsaw_man world_cup the_coffin_of_andy_and_leyley 2026_fifa_world_cup
 ?hanabusa_lisa_(5th_costume) -> vspo! nijisanji valorant
 ?hino_madoka -> ninja_defenders:_cat_shinobi
+?kisaragi_sena -> ninja_defenders:_cat_shinobi
