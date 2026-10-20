@@ -8091,3 +8091,4 @@
 ?protagonist_(love_and_deepspace) -> love_and_deepspace final_fantasy final_fantasy_vii original final_fantasy_vii_remake genshin_impact boku_no_hero_academia spy_x_family alien_stage nikki_(series)
 ?master_soarer_(racehorse) -> original real_life umamusume
 ?harukaze_doremi -> ojamajo_doremi cardcaptor_sakura precure bishoujo_senshi_sailor_moon tokyo_mew_mew mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) shugo_chara! mermaid_melody_pichi_pichi_pitch toei_company
+?yuise_kanon -> a.i._voice
