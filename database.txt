@@ -21,3 +21,4 @@
 ?rover_(wuthering_waves) -> wuthering_waves cyberpunk_(series) cyberpunk:_edgerunners cyberpunk:_edgerunners_1 genshin_impact honkai_(series) honkai:_star_rail mihoyo zenless_zone_zero comiket_105
 ?amatsukaze_(kancolle) -> kantai_collection idolmaster aoki_hagane_no_arpeggio original tenga fate_(series) idolmaster_cinderella_girls lawson gundam neon_genesis_evangelion
 ?arya_kuroha -> vspo! vspo!_en nier_(series) nier:automata hololive hololive_english tokidoki_bosotto_roshia-go_de_dereru_tonari_no_alya-san pringles
+?remia_aotsuki -> vspo! vspo!_en indie_virtual_youtuber counter-strike_(series) counter-strike_2 hololive hololive_english chiikawa vinesauce glitch_stars
