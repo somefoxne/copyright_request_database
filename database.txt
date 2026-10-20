@@ -8035,3 +8035,4 @@
 ?bartolomeo -> one_piece one_piece_card_game one_piece_film:_red one_piece_fan_letter one_piece_treasure_cruise one_piece_film:_gold bereal one_piece_straw_hat_space
 ?diamante_(one_piece) -> one_piece one_piece_card_game pokemon arknights one_piece_everyday
 ?rebecca_(one_piece) -> one_piece one_piece_card_game one_piece_treasure_cruise one_piece_film:_red ranma_1/2 pokemon gundam pokemon_(anime) bleach kantai_collection
+?leni_loud -> the_loud_house the_bloud_house xenoblade_chronicles_(series) xenoblade_chronicles_2 the_king_of_fighters fatal_fury precure jojo_no_kimyou_na_bouken the_legend_of_zelda dragon_ball
