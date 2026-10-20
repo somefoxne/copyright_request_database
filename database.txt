@@ -8031,3 +8031,4 @@
 ?waddle_dee -> kirby_(series) real_life kirby_64 kirby_and_the_forgotten_land mario_(series) super_smash_bros. pokemon kirby_star_allies kirby_air_ride kirby_cafe
 ?baiken -> guilty_gear guilty_gear_strive guilty_gear_xrd guilty_gear_xx street_fighter samurai_spirits guilty_gear_x the_king_of_fighters fatal_fury tower_records
 ?michael_roa_valdamjong -> tsukihime tsukihime_(remake) melty_blood fate_(series) fate/grand_order melty_blood:_type_lumina type-moon kagetsu_tooya fate/stay_night carnival_phantasm
+?vlov_arkhangel -> tsukihime tsukihime_(remake) melty_blood melty_blood:_type_lumina fate_(series) type-moon fate/grand_order mahou_tsukai_no_yoru kagetsu_tooya fate/stay_night
