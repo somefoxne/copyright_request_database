@@ -8176,3 +8176,4 @@
 ?hayanami_(valentine)_(kancolle) -> kantai_collection
 ?hanakura_ayame -> ninja_defenders:_cat_shinobi
 ?calogado_(yamai) -> utau debit_bit_(utau)
+?emily_(resident_evil) -> resident_evil resident_evil_requiem pragmata capcom resident_evil_7:_biohazard resident_evil_2 resident_evil_4 resident_evil_2_(remake) resident_evil_4_(remake) resident_evil_village
