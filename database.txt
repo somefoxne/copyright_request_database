@@ -8190,3 +8190,4 @@
 ?adelinde_(genshin_impact) -> genshin_impact original wuthering_waves punishing:_gray_raven duolingo kuro_games
 ?crepus_(genshin_impact) -> genshin_impact
 ?kurumi_noah_(8th_costume) -> vspo!
+?deuce_spade -> twisted_wonderland kimetsu_no_yaiba fate_(series) fate/grand_order zootopia the_nightmare_before_christmas pokemon touken_ranbu youtube disney
