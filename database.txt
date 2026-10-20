@@ -15,3 +15,4 @@
 ?purifying_wind_(infinity_nikki) -> nikki_(series) infinity_nikki shining_nikki the_legend_of_luo_xiaohei original idolmaster stardew_valley
 ?hifumi_yuri -> cinderella_series hachigatsu_no_cinderella_nine
 ?kougami_shin'ya -> psycho-pass mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) fate_(series) fate/zero pokemon love_live! pokemon_scarlet_and_violet lycoris_recoil touhou
+?tsunemori_akane -> psycho-pass fate_(series) fate/zero phantom_of_inferno mahou_shoujo_madoka_magica mahou_shoujo_madoka_magica_(anime) nitroplus guilty_crown blassreiter toaru_majutsu_no_index
