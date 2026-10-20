@@ -8027,3 +8027,4 @@
 ?shanks_(one_piece) -> one_piece one_piece_film:_red one_piece_card_game one_piece_treasure_cruise one_piece_(live_action) pokemon slam_dunk_(series) one_piece_everyday yu-gi-oh! naruto_(series)
 ?sudo_toa -> original comiket_107
 ?marx_(kirby) -> kirby_(series) kirby_super_star kirby_star_allies kirby_super_star_ultra kirby_64 kirby:_planet_robobot kirby:_squeak_squad
+?marx_(true_form)_(kirby) -> kirby_(series) kirby_super_star kirby_star_allies touhou kirby_64 kirby:_squeak_squad original kirby:_triple_deluxe
