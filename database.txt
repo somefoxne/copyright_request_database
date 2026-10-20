@@ -8183,3 +8183,4 @@
 ?misty_olszewski -> cyberpunk_(series) cyberpunk_2077 wuthering_waves cyberpunk:_edgerunners cyberpunk:_edgerunners_1 cyberpunk_trading_card_game
 ?miary_zo -> tekken tekken_8
 ?freddy_fazbear -> vocaloid utdr_(toby_fox) five_nights_in_anime_(fangame) undertale touhou sonic_(series)
+?lightning_mcqueen -> cars_(movie) umamusume original marvel hololive hololive_english dc_comics mickey_mouse_&_friends toy_story spongebob_squarepants_(series)
