@@ -8059,3 +8059,4 @@
 ?shiga_riko_(1st_costume) -> nijisanji idolmaster gakuen_idolmaster nijisanji_en minecraft nijisanji_kr nijisanji_id anta_ni_itenno_(utau) tokimeki_emotion_(idolmaster)
 ?fiar_(eternalsoulrape) -> original death_in_june
 ?asmodeus_(shinrabanshou) -> shinrabanshou marvel spider-man_(series) futaba_channel fate_(series) idolmaster idolmaster_cinderella_girls gundam dragon_ball mega_man_(series)
+?aya_(trickcal) -> trickcal touhou yani_neko the_creation_of_adam
