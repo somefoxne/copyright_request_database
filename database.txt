@@ -8222,3 +8222,4 @@
 ?hiramitsu_hinata -> precure star_twinkle_precure go!_princess_precure yes!_precure_5 tropical-rouge!_precure kirakira_precure_a_la_mode fresh_precure! yes!_precure_5_gogo! suite_precure
 ?hiramitsu_mei -> precure
 ?ashley_(warioware) -> warioware mario_(series) crazy_galaxy warioware:_move_it! pokemon super_smash_bros. the_legend_of_zelda fire_emblem rhythm_tengoku kirby_(series)
+?red_(warioware) -> warioware warioware:_get_it_together! mario_(series) warioware_gold warioware:_move_it! wario_land wario_land_4 super_smash_bros. mother_(series) rhythm_tengoku
