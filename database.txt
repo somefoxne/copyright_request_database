@@ -8152,3 +8152,4 @@
 ?shiten_rekka_karin -> shinrabanshou
 ?matsuoka_minami -> vampire-sama_ga_akiramenai!
 ?takumi_hokuto -> vampire-sama_ga_akiramenai!
+?hakuko -> ninja_defenders:_cat_shinobi
