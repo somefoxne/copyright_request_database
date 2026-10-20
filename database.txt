@@ -8121,3 +8121,4 @@
 ?pekomon_(usada_pekora) -> hololive hololive_indonesia hololive_english minecraft hololive_dev_is hololive_alternative death_stranding pokemon fate_(series) original
 ?zenno_rob_roy_(magical_heroine)_(umamusume) -> umamusume
 ?fumetsu_the_plague -> ninja_defenders:_cat_shinobi
+?kirigaya_suguha -> sword_art_online sword_art_online:_alicization sword_art_online:_code_register original sword_art_online_the_movie:_ordinal_scale sword_art_online:_memory_defrag ore_no_imouto_ga_konna_ni_kawaii_wake_ga_nai love_live! love_live!_school_idol_project sword_art_online:_alicization_-_war_of_underworld
