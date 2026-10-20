@@ -8061,3 +8061,4 @@
 ?asmodeus_(shinrabanshou) -> shinrabanshou marvel spider-man_(series) futaba_channel fate_(series) idolmaster idolmaster_cinderella_girls gundam dragon_ball mega_man_(series)
 ?aya_(trickcal) -> trickcal touhou yani_neko the_creation_of_adam
 ?chloe_(trickcal) -> trickcal jojo_no_kimyou_na_bouken yani_neko the_creation_of_adam
+?kusukage_myxa -> indie_virtual_youtuber
