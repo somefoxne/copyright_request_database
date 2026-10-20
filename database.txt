@@ -8113,3 +8113,4 @@
 ?sawaki_rin -> dandadan pokemon don_quijote_(store)
 ?elizabeth_rose_bloodflame_(1st_costume) -> hololive hololive_english enigmatic_recollection hololive_indonesia holostars holostars_english umamusume hololive_dev_is hololive_official_card_game minecraft
 ?kiana_kaslana_(frostmoon_bunny) -> honkai_(series) honkai_impact_3rd mihoyo genshin_impact neon_genesis_evangelion rebuild_of_evangelion
+?air_shakur_(casual)_(umamusume) -> umamusume original hokuto_no_ken scp_foundation
