@@ -8130,3 +8130,4 @@
 ?vivid_bad_squad_len -> vocaloid project_sekai beat_eater_(vocaloid) flyer_(vocaloid) cevio zozotown kowareta_sekai_to_utaenai_miku gekokujou_(vocaloid) garando_(vocaloid)
 ?alvis_(last_origin) -> last_origin soulworker twix pokemon umamusume yu-gi-oh! nier_(series) nier:automata team_fortress_2 japanese_urban_legends
 ?groza_(girls'_frontline_2) -> blue_archive hololive hololive_english codename:_bakery_girl reverse_collapse_(series) fate_(series)
+?kazeha_of_the_furious_winds -> ninja_defenders:_cat_shinobi
