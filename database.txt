@@ -8019,3 +8019,4 @@
 ?sister_claire_(7th_costume) -> nijisanji nanashi_inc. minecraft
 ?conch_(gundam) -> gundam gundam_gquuuuuux i_can_friday_by_day! mobile_suit_gundam neon_genesis_evangelion zeta_gundam fate_(series) fate/grand_order gundam_seed top_wo_nerae!_(series)
 ?gfred -> gundam gundam_gquuuuuux mobile_suit_gundam sunrise_(company) bandai gundam_arsenal_base gundam_card_game neon_genesis_evangelion keroro_gunsou sd_gundam
+?red_gundam -> gundam gundam_gquuuuuux mobile_suit_gundam gundam_card_game sunrise_(company) original sd_gundam gundam_arsenal_base bandai lycoris_recoil
