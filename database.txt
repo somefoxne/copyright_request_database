@@ -1136,3 +1136,9 @@
 ?hackclaw_(delta_force) -> delta_force_(game)
 ?shindou_hikari -> soukou_senki_prism_reica
 ?satonaka_chie_(summer_casual) -> persona
+?emma_frost -> marvel
+?heathcliff_(project_moon) -> project_moon
+?rodion_(project_moon) -> project_moon
+?sinclair_(project_moon) -> project_moon
+?tushan_susu -> fox_spirit_matchmaker
+?kamiina_botan -> kamiina_botan_yoeru_sugata_wa_yuri_no_hana
