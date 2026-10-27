@@ -805,3 +805,8 @@
 ?vlad_(genshin_impact) -> genshin_impact
 ?challia_bull -> gundam
 ?char_aznable -> gundam
+?michinoku_komaro -> seitokai_ni_mo_ana_wa_aru!
+?maribel_hearn -> touhou
+?usami_renko -> touhou
+?shu_(ambience_synesthesia_2025)_(arknights) -> arknights
+?flannery_(pokemon) -> pokemon
