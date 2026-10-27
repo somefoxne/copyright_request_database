@@ -1250,3 +1250,8 @@
 ?cu_chulainn_(fish_shop_apron)_(fate) -> fate_(series)
 ?cu_chulainn_(lancer)_(fate) -> fate_(series)
 ?topaz_(honkai:_star_rail) -> honkai_(series)
+?hataya_misuzu -> idolmaster
+?hoshino_ichika_(project_sekai) -> project_sekai
+?kei_(dirty_pair) -> dirty_pair
+?yuri_(dirty_pair) -> dirty_pair
+?imari_youko -> ruri_no_houseki
