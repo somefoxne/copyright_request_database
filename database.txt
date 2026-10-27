@@ -1050,3 +1050,15 @@
 ?mai_(melonbread) -> original
 ?bibi_(brawl_stars) -> brawl_stars
 ?bull_(brawl_stars) -> brawl_stars
+?hijiri_byakuren -> touhou
+?shinki_(touhou) -> touhou
+?cartethyia_(wuthering_waves) -> wuthering_waves
+?sulia_(vtuber) -> indie_virtual_youtuber
+?amakubo_yuri -> kouyoku_senki_exs-tia
+?lilistia_yuriel -> kouyoku_senki_exs-tia
+?kasane_teto_(utau) -> utau
+?caulifla -> dragon_ball
+?kochiya_sanae -> touhou
+?fran_stilleto -> dairoku_ryouhei
+?araragi_karen -> monogatari_(series)
+?hong_meiling -> touhou
