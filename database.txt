@@ -1129,3 +1129,10 @@
 ?exs-tia_ignis -> kouyoku_senki_exs-tia_concert
 ?qbara_qbara -> shy_(series)
 ?almond_eye_(the_changer)_(umamusume) -> umamusume
+?amaya_tsubame -> idolmaster
+?l-gaim -> juusenki_l-gaim
+?pieck_finger -> shingeki_no_kyojin
+?haewon_(nmixx) -> nmixx
+?hackclaw_(delta_force) -> delta_force_(game)
+?shindou_hikari -> soukou_senki_prism_reica
+?satonaka_chie_(summer_casual) -> persona
