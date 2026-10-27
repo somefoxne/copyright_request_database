@@ -765,3 +765,12 @@
 ?shiina_taki -> bang_dream!
 ?yahata_umiri -> bang_dream!
 ?inoue_orihime_(sennen_kessen-hen) -> bleach
+?kotegawa_chisa -> grand_blue
+?kitakami_(kancolle) -> kantai_collection
+?harten_(character) -> harten
+?shimakaze_(kancolle) -> kantai_collection
+?whip_(kof) -> the_king_of_fighters
+?thea_lockhart -> final_fantasy
+?tifa_lockhart -> final_fantasy
+?auyn_(harten) -> harten
+?claire_(harten) -> harten
