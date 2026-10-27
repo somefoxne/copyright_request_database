@@ -788,3 +788,14 @@
 ?baishi_(genshin_impact) -> genshin_impact
 ?baiwen_(genshin_impact) -> genshin_impact
 ?baixiao_(genshin_impact) -> genshin_impact
+?houtsuin_yamato -> devil_survivor_(series)
+?naoya_(devil_survivor) -> devil_survivor_(series)
+?protagonist_(devil_survivor) -> devil_survivor_(series)
+?protagonist_(devil_survivor_2) -> devil_survivor_(series)
+?undertaker_(elden_ring) -> elden_ring
+?jolteon -> pokemon
+?volke_(fire_emblem) -> fire_emblem
+?billy_the_puppet -> saw_(movie)
+?tanigawa_ruri -> ruri_no_houseki
+?goodra -> pokemon
+?yakui_(nijiura_maids) -> futaba_channel
