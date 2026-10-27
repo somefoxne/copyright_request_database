@@ -401,3 +401,15 @@
 ?phainon_(flame_reaver)_(honkai:_star_rail) -> honkai_(series)
 ?phainon_(honkai:_star_rail) -> honkai_(series)
 ?phainon_(khaslana)_(honkai:_star_rail) -> honkai_(series)
+?kunijima_chiaki -> kouyoku_senki_exs-tia_concert
+?bb_(hikanari_hina) -> phase_connect
+?hikanari_hina -> phase_connect
+?makaino_ririmu_(6th_costume) -> nijisanji
+?herta_(honkai:_star_rail) -> honkai_(series)
+?the_herta_(honkai:_star_rail) -> honkai_(series)
+?lycanroc -> pokemon
+?lycanroc_(dusk) -> pokemon
+?inoue_orihime -> bleach
+?alice_margatroid -> touhou
+?inaba_tewi -> touhou
+?dalia_(sleak) -> original
