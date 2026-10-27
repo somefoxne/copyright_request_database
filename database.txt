@@ -1102,3 +1102,14 @@
 ?morita_ouka -> mahou_shoujo_inori
 ?bazett_fraga_mcremitz -> fate_(series)
 ?manannan_mac_lir_(third_ascension)_(fate) -> fate_(series)
+?touhoku_kiritan -> voiceroid
+?sesshoumaru -> inuyasha
+?reigen_arataka -> mob_psycho_100
+?zhu_yuan -> zenless_zone_zero
+?remielle_dan_(moonlight_whispers) -> zenless_zone_zero
+?danielle_(newjeans) -> newjeans
+?sugahara_touka -> kouyoku_senki_exs-tia_concert
+?diego_oro -> fire_emblem
+?orchel_(fire_emblem) -> fire_emblem
+?yu_phas_(fire_emblem) -> fire_emblem
+?ijichi_nijika -> bocchi_the_rock!
