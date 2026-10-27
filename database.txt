@@ -799,3 +799,9 @@
 ?tanigawa_ruri -> ruri_no_houseki
 ?goodra -> pokemon
 ?yakui_(nijiura_maids) -> futaba_channel
+?solid_snake -> metal_gear_(series)
+?sunbringer_(original)_(zenless_zone_zero) -> zenless_zone_zero
+?nadia_(genshin_impact) -> genshin_impact
+?vlad_(genshin_impact) -> genshin_impact
+?challia_bull -> gundam
+?char_aznable -> gundam
