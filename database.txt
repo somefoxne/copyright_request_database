@@ -333,3 +333,17 @@
 ?meursault_(project_moon) -> project_moon
 ?izumi_houka -> bang_dream!
 ?shiomi_hotaru -> bang_dream!
+?camilo_madrigal -> encanto
+?sparkle_(doll)_(honkai:_star_rail) -> honkai_(series)
+?sparkle_(honkai:_star_rail) -> honkai_(series)
+?dominion_(arknights) -> arknights
+?cammy_white -> street_fighter
+?inohara_masato -> little_busters!
+?lindverne_sunbringer -> zenless_zone_zero
+?starfire -> dc_comics
+?akemi_homura -> mahou_shoujo_madoka_magica
+?miki_sayaka -> mahou_shoujo_madoka_magica
+?ezra_(project_moon) -> project_moon
+?son_goku -> dragon_ball
+?vegeta -> dragon_ball
+?javelin_(pinklove_heart_lancer)_(azur_lane) -> azur_lane
