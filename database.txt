@@ -1018,3 +1018,14 @@
 ?koujaku -> dramatical_murder
 ?seragaki_aoba -> dramatical_murder
 ?hypno -> pokemon
+?gwen_(total_drama) -> total_drama
+?heather_(total_drama) -> total_drama
+?ange_katrina_(1st_costume) -> nijisanji
+?inui_toko_(stage_dress) -> nijisanji
+?lynae_(wuthering_waves) -> wuthering_waves
+?mari_(track)_(blue_archive) -> blue_archive
+?kufufu_kekerakera -> shy_(series)
+?prism_reica -> soukou_senki_prism_reica
+?shindou_hatsune -> soukou_senki_prism_reica
+?remielle_dan -> zenless_zone_zero
+?melodie_(brawl_stars) -> brawl_stars
