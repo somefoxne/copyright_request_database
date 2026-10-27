@@ -510,3 +510,8 @@
 ?detec_bell -> mahou_shoujo_ikusei_keikaku
 ?lapis_lazuline -> mahou_shoujo_ikusei_keikaku
 ?mei_(overwatch) -> overwatch
+?aho_no_sakata -> urashimasakatasen
+?mafumafu -> indie_utaite
+?kuchiba_(honkai:_star_rail) -> honkai_(series)
+?dialyn_(zenless_zone_zero) -> zenless_zone_zero
+?gouden_leeuw_(azur_lane) -> azur_lane
