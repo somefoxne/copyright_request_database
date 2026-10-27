@@ -902,3 +902,16 @@
 ?adachi_rei -> utau
 ?adachi_rei_(vocaloid6) -> utau
 ?souei_yuyu -> original
+?mythra_(xenoblade) -> xenoblade_chronicles_(series)
+?ximuzi -> the_legend_of_luo_xiaohei
+?nono_(azur_promilia) -> azur_promilia
+?arato_nagi -> ruri_no_houseki
+?black_cat_(marvel) -> marvel
+?moon_knight -> marvel
+?spider-woman -> marvel
+?elena_(sf6_outfit_4)_(street_fighter) -> street_fighter
+?lilyggoth -> indie_virtual_youtuber
+?holo -> spice_and_wolf
+?akizuki_maria -> shin_sekai_yori
+?itou_mamoru -> shin_sekai_yori
+?unika_(guilty_gear) -> guilty_gear
