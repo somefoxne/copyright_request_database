@@ -745,3 +745,9 @@
 ?king_dedede -> kirby_(series)
 ?magolor -> kirby_(series)
 ?masked_dedede -> kirby_(series)
+?inuyama_aoi -> yurucamp
+?sorting_hat -> wizarding_world
+?yamagishi_fuuka -> persona
+?gigi_andalusia -> gundam
+?mutsuki_(dress)_(blue_archive) -> blue_archive
+?pochi-tan -> precure
