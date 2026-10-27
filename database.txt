@@ -81,3 +81,17 @@
 ?calem_(pokemon) -> pokemon
 ?serena_(pokemon) -> pokemon
 ?pramanix_the_prerita_(hymn_to_sunbreak)_(arknights) -> arknights
+?cantarella_(wuthering_waves) -> wuthering_waves
+?nickit -> pokemon
+?danica_(genshin_impact) -> genshin_impact
+?vesna_(genshin_impact) -> genshin_impact
+?alain_(pokemon) -> pokemon
+?grant_(pokemon) -> pokemon
+?mairin_(pokemon) -> pokemon
+?viola_(pokemon) -> pokemon
+?hyoudou_issei -> high_school_dxd
+?malice_evermore -> phase_connect
+?chisa_(wuthering_waves) -> wuthering_waves
+?griffith_(berserk) -> berserk
+?rattata -> pokemon
+?antonio_madrigal -> encanto
