@@ -594,3 +594,15 @@
 ?sukarabe_matsurika -> date_a_live
 ?tokisaki_kurumi -> date_a_live
 ?maro_(neneko_mashiro) -> stellive
+?anastasia_(arknights) -> arknights
+?carrot_(one_piece) -> one_piece
+?roronoa_zoro -> one_piece
+?rudeus_greyrat -> mushoku_tensei
+?sara_(mushoku_tensei) -> mushoku_tensei
+?ferdinand_(honzuki_no_gekokujou) -> honzuki_no_gekokujou
+?myne_(honzuki_no_gekokujou) -> honzuki_no_gekokujou
+?machi_komacine -> hunter_x_hunter
+?wonder_woman -> dc_comics
+?geto_suguru -> jujutsu_kaisen
+?aemeath_(wuthering_waves) -> wuthering_waves
+?mafuteru -> indie_utaite
