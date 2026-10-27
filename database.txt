@@ -1074,3 +1074,11 @@
 ?zero_two_(kirby) -> kirby_(series)
 ?piltz_dunant -> shy_(series)
 ?niko_(oneshot) -> oneshot_(game)
+?nene_nene -> utau
+?sutopi-kun -> voiceroid
+?fujita_kotone -> idolmaster
+?silvervale -> indie_virtual_youtuber
+?shiroko_(swimsuit)_(blue_archive) -> blue_archive
+?kanzaki_kaori -> toaru_majutsu_no_index
+?kayoko_(dress)_(blue_archive) -> blue_archive
+?fine_motion_(titania)_(umamusume) -> umamusume
