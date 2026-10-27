@@ -782,3 +782,9 @@
 ?cloud_strife -> final_fantasy
 ?mereoleona_vermillion -> black_clover
 ?merlin_(rakudai_kenja_no_gakuin_musou) -> rakudai_kenja_no_gakuin_musou
+?kohaku_(dr._stone) -> dr._stone
+?eevee -> pokemon
+?saizo_(fire_emblem) -> fire_emblem
+?baishi_(genshin_impact) -> genshin_impact
+?baiwen_(genshin_impact) -> genshin_impact
+?baixiao_(genshin_impact) -> genshin_impact
