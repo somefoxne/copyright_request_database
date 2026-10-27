@@ -543,3 +543,15 @@
 ?elizabeth_bathory_(fate) -> fate_(series)
 ?elizabeth_bathory_(perfect)_(first_ascension)_(fate) -> fate_(series)
 ?elizabeth_of_the_end_(fate) -> fate_(series)
+?audrey_ramirez -> atlantis:_the_lost_empire
+?milo_james_thatch -> atlantis:_the_lost_empire
+?murasa_minamitsu -> touhou
+?saeki_miria -> mahou_shoujo_no_majo_saiban
+?sawatari_coco -> mahou_shoujo_no_majo_saiban
+?witchmon -> digimon
+?nemona_(pokemon) -> pokemon
+?awa_subaru -> girls_band_cry
+?iseri_nina -> girls_band_cry
+?yaoyorozu_momo -> boku_no_hero_academia
+?samus_aran -> metroid
+?juri_(yu_yu_hakusho) -> yu_yu_hakusho
