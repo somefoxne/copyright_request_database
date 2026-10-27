@@ -1097,3 +1097,8 @@
 ?chou-u_(kusuriya_no_hitorigoto) -> kusuriya_no_hitorigoto
 ?king_of_needleworks -> project_moon
 ?needlekin_(project_moon) -> project_moon
+?megalodon_(vtuber) -> indie_virtual_youtuber
+?bryan_hodukavich -> resident_evil
+?morita_ouka -> mahou_shoujo_inori
+?bazett_fraga_mcremitz -> fate_(series)
+?manannan_mac_lir_(third_ascension)_(fate) -> fate_(series)
