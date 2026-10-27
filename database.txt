@@ -751,3 +751,17 @@
 ?gigi_andalusia -> gundam
 ?mutsuki_(dress)_(blue_archive) -> blue_archive
 ?pochi-tan -> precure
+?yhwach -> bleach
+?berkana_(mega_man) -> mega_man_(series)
+?okumura_haru -> persona
+?link -> the_legend_of_zelda
+?navi -> the_legend_of_zelda
+?princess_zelda -> the_legend_of_zelda
+?zodd_(berserk) -> berserk
+?chi_kusari_no_ichigo -> bleach
+?taira_no_kagekiyo_(fate) -> fate_(series)
+?ushiwakamaru_(fate) -> fate_(series)
+?monkey_d._luffy -> one_piece
+?shiina_taki -> bang_dream!
+?yahata_umiri -> bang_dream!
+?inoue_orihime_(sennen_kessen-hen) -> bleach
