@@ -836,3 +836,7 @@
 ?ding_(the_legend_of_luoxiaohei) -> the_legend_of_luo_xiaohei
 ?zhiqing_(the_legend_of_luoxiaohei) -> the_legend_of_luo_xiaohei
 ?roxie_(pokemon) -> pokemon
+?kumano_(kancolle) -> kantai_collection
+?kumano_(school_girl)_(kancolle) -> kantai_collection
+?fubuki_(one-punch_man) -> one-punch_man
+?koko_d._nuts -> indie_virtual_youtuber
