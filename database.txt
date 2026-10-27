@@ -571,3 +571,15 @@
 ?uratanuki -> urashimasakatasen
 ?black_hanekawa -> monogatari_(series)
 ?hanekawa_tsubasa -> monogatari_(series)
+?tono_hanna -> mahou_shoujo_no_majo_saiban
+?imaizumi_kagerou -> touhou
+?hakurei_reimu -> touhou
+?kurokami_fubuki -> hololive
+?baobhan_sith_(bloody_bunny)_(fate) -> fate_(series)
+?baobhan_sith_(fate) -> fate_(series)
+?viola_(bang_dream!) -> bang_dream!
+?fujieda_yoshino -> digimon
+?lalamon -> digimon
+?hestia_(danmachi) -> dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru_darou_ka
+?uruha_youji -> kagurabachi
+?baobhan_sith_(first_ascension)_(fate) -> fate_(series)
