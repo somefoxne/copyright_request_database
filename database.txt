@@ -280,3 +280,11 @@
 ?toska_(arknights) -> arknights
 ?nakoruru -> samurai_spirits
 ?cecilia_immergreen -> hololive
+?espeon -> pokemon
+?umbreon -> pokemon
+?kumoi_ichirin -> touhou
+?ryu_(street_fighter) -> street_fighter
+?pina_(sao) -> sword_art_online
+?azusa_(racing)_(blue_archive) -> blue_archive
+?male_rover_(wuthering_waves) -> wuthering_waves
+?rover_(wuthering_waves) -> wuthering_waves
