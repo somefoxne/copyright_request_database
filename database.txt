@@ -1062,3 +1062,15 @@
 ?fran_stilleto -> dairoku_ryouhei
 ?araragi_karen -> monogatari_(series)
 ?hong_meiling -> touhou
+?sakamoto_kihachi -> nijuuseiki_denki_mokuroku
+?aono_ryuuhei -> aono-kun_ni_sawaritai_kara_shinitai
+?kariya_yuri -> aono-kun_ni_sawaritai_kara_shinitai
+?koseki_bijou -> hololive
+?tatsuno_malm -> dinosaur_king
+?sacred_claire -> genseishinki_sacred_virth
+?tierna_aeride_throne -> genseishinki_sacred_virth
+?ribbon_(kirby) -> kirby_(series)
+?ripple_star_queen -> kirby_(series)
+?zero_two_(kirby) -> kirby_(series)
+?piltz_dunant -> shy_(series)
+?niko_(oneshot) -> oneshot_(game)
