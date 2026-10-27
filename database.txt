@@ -393,3 +393,11 @@
 ?aurora_sya_lis_kaymin -> maou-jou_de_oyasumi
 ?nemui_nemu -> kimi_no_koto_ga_dai_dai_dai_dai_daisuki_na_100-nin_no_kanojo
 ?fukuga_kurumi -> fx_senshi_kurumi-chan
+?daiwa_scarlet_(jinpuu_no_hanakonjou)_(umamusume) -> umamusume
+?verr_goldet_(genshin_impact) -> genshin_impact
+?daiwa_scarlet_(peak_blue)_(umamusume) -> umamusume
+?marianela_lasala -> gundam
+?irontomb -> honkai_(series)
+?phainon_(flame_reaver)_(honkai:_star_rail) -> honkai_(series)
+?phainon_(honkai:_star_rail) -> honkai_(series)
+?phainon_(khaslana)_(honkai:_star_rail) -> honkai_(series)
