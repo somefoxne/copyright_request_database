@@ -583,3 +583,14 @@
 ?hestia_(danmachi) -> dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru_darou_ka
 ?uruha_youji -> kagurabachi
 ?baobhan_sith_(first_ascension)_(fate) -> fate_(series)
+?akashi_(kancolle) -> kantai_collection
+?natsuki_(doki_doki_literature_club) -> doki_doki_literature_club
+?haruna_(kancolle) -> kantai_collection
+?fuwawa_abyssgard -> hololive
+?mococo_abyssgard -> hololive
+?saber_alter -> fate_(series)
+?miria_(iriam) -> iriam
+?shirasu_(iriam) -> iriam
+?sukarabe_matsurika -> date_a_live
+?tokisaki_kurumi -> date_a_live
+?maro_(neneko_mashiro) -> stellive
