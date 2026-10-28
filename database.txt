@@ -3279,3 +3279,13 @@
 ?larcei_(fire_emblem) -> fire_emblem
 ?seliph_(fire_emblem) -> fire_emblem
 ?draco_malfoy -> wizarding_world
+?bluebell_candy -> mahou_shoujo_ikusei_keikaku
+?pity_frederica -> mahou_shoujo_ikusei_keikaku
+?ripple_(mahoiku) -> mahou_shoujo_ikusei_keikaku
+?mieu_(phantasy_star) -> phantasy_star
+?searren_(phantasy_star) -> phantasy_star
+?amamiya_maki -> original
+?niijima_sae -> persona
+?shadow_sae -> persona
+?melville_(mahoiku) -> mahou_shoujo_ikusei_keikaku
+?itou_shinji_(chaos;child) -> science_adventure
