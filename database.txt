@@ -1658,3 +1658,6 @@
 ?ribombee -> pokemon
 ?maestrale_(halloween)_(kancolle) -> kantai_collection
 ?maestrale_(kancolle) -> kantai_collection
+?inazuma_(kancolle) -> kantai_collection
+?bowsette -> mario_(series)
+?fubuki_(kancolle) -> kantai_collection
