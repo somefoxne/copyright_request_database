@@ -3799,3 +3799,16 @@
 ?zack_fair -> final_fantasy
 ?tracer_(overwatch) -> overwatch
 ?okanyan_(nekomata_okayu) -> hololive
+?argalia_(project_moon) -> project_moon
+?knight_(hollow_knight) -> hollow_knight
+?salubra_(hollow_knight) -> hollow_knight
+?audrey_hall -> lord_of_the_mysteries
+?fors_wall -> lord_of_the_mysteries
+?a'long_(the_legend_of_luoxiaohei) -> the_legend_of_luo_xiaohei
+?vivi_(trickcal) -> trickcal
+?jacket_girl_(dipp) -> touhou
+?red_crown_(cult_of_the_lamb) -> cult_of_the_lamb
+?the_lamb_(cult_of_the_lamb) -> cult_of_the_lamb
+?captain_(honkai_impact) -> honkai_(series)
+?megumin -> kono_subarashii_sekai_ni_shukufuku_wo!
+?angelica_(project_moon) -> project_moon
