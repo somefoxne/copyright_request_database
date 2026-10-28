@@ -3554,3 +3554,17 @@
 ?ed_(good_burger) -> good_burger
 ?carleen_(alchemy_stars) -> alchemy_stars
 ?kirito -> sword_art_online
+?alex_winger -> street_fighter
+?hiiragi_shiori -> kakenuke_seishun_sparking!
+?fuwa_aya -> onna_doushi_toka_arienai_desho_to_iiharu_onnanoko_wo_hyakunichikan_de_tetteiteki_ni_otosu_yuri_no_ohanashi
+?sakakibara_marika -> onna_doushi_toka_arienai_desho_to_iiharu_onnanoko_wo_hyakunichikan_de_tetteiteki_ni_otosu_yuri_no_ohanashi
+?vera_(pgr) -> punishing:_gray_raven
+?busujima_mason_rio -> hypnosis_mic
+?batman -> dc_comics
+?batman_(absolute_dc) -> dc_comics
+?clark_kent -> dc_comics
+?superman -> dc_comics
+?superman_(absolute_dc) -> dc_comics
+?wonder_woman_(absolute_dc) -> dc_comics
+?captain_(kemono_friends) -> kemono_friends
+?kodiak_bear_(kemono_friends) -> kemono_friends
