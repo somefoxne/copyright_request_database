@@ -2149,3 +2149,7 @@
 ?inkling_player_character -> splatoon_(series)
 ?professor_oak -> pokemon
 ?nazrin -> touhou
+?mamiya_seira -> mahou_shoujo_inori
+?evelyn_chevalier -> zenless_zone_zero
+?skadi_(waverider)_(arknights) -> arknights
+?sentret -> pokemon
