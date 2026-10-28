@@ -3519,3 +3519,14 @@
 ?fidelio_(metaphor:_refantazio) -> metaphor:_refantazio
 ?bianca_(sciamano240) -> original
 ?silent_magician -> yu-gi-oh!
+?gilgamesh_(caster)_(fate) -> fate_(series)
+?chlomaki_(funamusea) -> funamusea
+?lobco_(funamusea) -> funamusea
+?panty_(psg) -> panty_&_stocking_with_garterbelt
+?kirijou_mitsuru -> persona
+?kotone_montagne -> persona
+?vassa_(olchas) -> original
+?gyokko_(kimetsu_no_yaiba) -> kimetsu_no_yaiba
+?kiriya_aoi -> aikatsu!_(series)
+?giovanna_(guilty_gear) -> guilty_gear
+?koto_satsuki -> watashi_ga_koibito_ni_nareru_wake_naijan_murimuri!
