@@ -2515,3 +2515,14 @@
 ?perrin_(pokemon) -> pokemon
 ?mercedes_von_martritz -> fire_emblem
 ?mercedes_von_martritz_(summer) -> fire_emblem
+?solel_(fire_emblem) -> fire_emblem
+?bertrand_brunhild -> fire_emblem
+?hiker_(pokemon_sm) -> pokemon
+?todd_snap -> pokemon
+?mabosstiff -> pokemon
+?narita_top_road_(the_proud_road)_(umamusume) -> umamusume
+?fushiguro_megumi -> jujutsu_kaisen
+?nakaseko_kaori -> hibike!_euphonium
+?matou_sakura -> fate_(series)
+?medusa_(fate) -> fate_(series)
+?medusa_(rider)_(fate) -> fate_(series)
