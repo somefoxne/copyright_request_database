@@ -3981,3 +3981,16 @@
 ?shinonome_kaoru -> serafuku_to_kansaiben
 ?light_chaser_(miracle_nikki) -> nikki_(series)
 ?onee-san_(pen_nee_(pensis)) -> original
+?uzuki_(cookie) -> cookie_(touhou)
+?monet_(one_piece) -> one_piece
+?munchlax -> pokemon
+?porygon-z -> pokemon
+?shroomish -> pokemon
+?shiromiya_rei -> touhou
+?sonomura_maki -> persona
+?mallow_(pokemon) -> pokemon
+?jack-o'_valentine -> guilty_gear
+?mythra_(switch_2)_(xenoblade) -> xenoblade_chronicles_(series)
+?pyra_(switch_2)_(xenoblade) -> xenoblade_chronicles_(series)
+?eska_(cookie) -> touhou
+?reu_(cookie) -> cookie_(touhou)
