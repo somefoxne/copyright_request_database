@@ -2248,3 +2248,6 @@
 ?irys_(maid)_(hololive) -> hololive
 ?kaname_madoka_(magical_girl) -> mahou_shoujo_madoka_magica
 ?kyubey -> mahou_shoujo_madoka_magica
+?sakura_haruka_(wind_breaker) -> wind_breaker_(nii_satoru)
+?noibara_hime -> grimoire_~shiritsu_grimoire_mahou_gakuen~
+?takanashi_miyu -> grimoire_~shiritsu_grimoire_mahou_gakuen~
