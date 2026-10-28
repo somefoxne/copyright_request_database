@@ -3964,3 +3964,12 @@
 ?nijigaoka_mashiro -> precure
 ?akuma_nihmune -> indie_virtual_youtuber
 ?eirika_(fire_emblem) -> fire_emblem
+?gabi_braun -> shingeki_no_kyojin
+?law-chan -> one_piece
+?trafalgar_law -> one_piece
+?tyki_mikk -> d.gray-man
+?blossomel_(roco_kingdom:_world) -> roco_kingdom
+?frostia_(roco_kingdom:_world) -> roco_kingdom
+?lopi_(roco_kingdom:_world) -> roco_kingdom
+?elza_(the_last_story) -> the_last_story
+?isaac_(golden_sun) -> golden_sun
