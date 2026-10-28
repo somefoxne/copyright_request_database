@@ -3957,3 +3957,10 @@
 ?gar_(roco_kingdom:_world) -> roco_kingdom
 ?higashi_sakutaro -> danganronpa_(series)
 ?asatsuki_(cookie) -> cookie_(touhou)
+?birth_of_purity_(shining_nikki) -> nikki_(series)
+?chroma-ode_(shining_nikki) -> nikki_(series)
+?sora_harewataru -> precure
+?toba_sora_(samuraibird414) -> original
+?nijigaoka_mashiro -> precure
+?akuma_nihmune -> indie_virtual_youtuber
+?eirika_(fire_emblem) -> fire_emblem
