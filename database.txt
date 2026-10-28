@@ -2361,3 +2361,7 @@
 ?ankimo_(tokino_sora) -> hololive
 ?tokino_sora_(10th_costume) -> hololive
 ?delta_(boruto) -> naruto_(series)
+?carmine_(pokemon) -> pokemon
+?red_hood_(black_souls) -> black_souls
+?jessie_(cyberpunk:_edgerunners_2) -> cyberpunk_(series)
+?ibuki_(swimsuit)_(blue_archive) -> blue_archive
