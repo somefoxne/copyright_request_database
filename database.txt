@@ -3720,3 +3720,5 @@
 ?shaggy_rogers -> scooby-doo_(series)
 ?velma_dinkley -> scooby-doo_(series)
 ?victor_von_gerdenheim -> darkstalkers
+?popstar_ahri -> league_of_legends
+?cynthia_(pokemon) -> pokemon
