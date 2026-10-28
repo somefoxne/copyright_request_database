@@ -3305,3 +3305,16 @@
 ?secelia_dote -> gundam
 ?lyle_(phantasy_star) -> phantasy_star
 ?firis_mistlud -> atelier_(series)
+?velgrynd_(tensura) -> tensei_shitara_slime_datta_ken
+?kobayakawa_sae -> idolmaster
+?love_me_ren-ren -> mahou_shoujo_ikusei_keikaku
+?hirako_shinji -> bleach
+?zhvo_(character) -> original
+?lethe_(mahoiku) -> mahou_shoujo_ikusei_keikaku
+?puk_puck -> mahou_shoujo_ikusei_keikaku
+?rionetta -> mahou_shoujo_ikusei_keikaku
+?asyrun_nocte_(nk0x) -> original
+?ilulu_(maidragon) -> kobayashi-san_chi_no_maidragon
+?ryuujou_(kancolle) -> kantai_collection
+?ursula_callistis -> little_witch_academia
+?omaru_polka_(shared_bbq_bliss) -> hololive
