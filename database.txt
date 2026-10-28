@@ -2295,3 +2295,14 @@
 ?ex-keine -> touhou
 ?kamishirasawa_keine -> touhou
 ?kudamaki_tsukasa -> touhou
+?daya_(trickcal) -> trickcal
+?doloris_(bang_dream!) -> bang_dream!
+?oblivionis_(bang_dream!) -> bang_dream!
+?ace_trappola -> twisted_wonderland
+?ruggie_bucchi -> twisted_wonderland
+?floyd_leech -> twisted_wonderland
+?jamil_viper -> twisted_wonderland
+?deuce_spade -> twisted_wonderland
+?grim_(twisted_wonderland) -> twisted_wonderland
+?azul_ashengrotto -> twisted_wonderland
+?chiikawa_(character) -> chiikawa
