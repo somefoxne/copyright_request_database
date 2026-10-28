@@ -2551,3 +2551,7 @@
 ?yuuri_(shoujo_shuumatsu_ryokou) -> shoujo_shuumatsu_ryokou
 ?allie_(stella_sora) -> stella_sora
 ?kocho_shizuha -> shoujo_kageki_revue_starlight
+?narita_brian_(ravenous_wolf)_(umamusume) -> umamusume
+?diavolo -> jojo_no_kimyou_na_bouken
+?vinegar_doppio -> jojo_no_kimyou_na_bouken
+?marina_(shining_nikki) -> nikki_(series)
