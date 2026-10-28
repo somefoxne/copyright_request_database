@@ -3835,3 +3835,7 @@
 ?octoling_player_character -> splatoon_(series)
 ?selene_(pokemon) -> pokemon
 ?maka_albarn -> soul_eater
+?hoppip -> pokemon
+?jumpluff -> pokemon
+?skiploom -> pokemon
+?creeper -> minecraft
