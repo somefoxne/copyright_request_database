@@ -2014,3 +2014,6 @@
 ?shimada_arisu -> girls_und_panzer
 ?siesta_(tantei_wa_mou_shindeiru) -> tantei_wa_mou_shindeiru
 ?len-cue -> yasumi-chan
+?shizuna_rem_misurugi -> eiyuu_densetsu
+?lillie_(pokemon) -> pokemon
+?muk -> pokemon
