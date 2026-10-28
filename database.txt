@@ -1696,3 +1696,12 @@
 ?producer_(idolmaster) -> idolmaster
 ?erika_la_etienne -> kourin_tenshi_en_ciel_rena
 ?tounji_akane -> nyanko_daisensou
+?marian_(queen)_(last_affection)_(nikke) -> goddess_of_victory:_nikke
+?azusawa_kohane -> project_sekai
+?momoi_airi -> project_sekai
+?erina_makina -> phase_connect
+?ashley_graham -> resident_evil
+?mamiya_inori -> mahou_shoujo_inori
+?makigumo_(kancolle) -> kantai_collection
+?yuugumo_(kancolle) -> kantai_collection
+?lyrah_(fire_emblem) -> fire_emblem
