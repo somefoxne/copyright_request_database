@@ -2353,3 +2353,11 @@
 ?sage_(sonic) -> sonic_(series)
 ?rosalina_(halloween) -> mario_(series)
 ?tier_harribel -> bleach
+?dong_dong_(the_legend_of_luoxiaohei) -> the_legend_of_luo_xiaohei
+?kitamori_yuuna -> lyrical_nanoha
+?vega_(street_fighter) -> street_fighter
+?nishizumi_shiho -> girls_und_panzer
+?hannah_(mahjong_soul) -> mahjong_soul
+?ankimo_(tokino_sora) -> hololive
+?tokino_sora_(10th_costume) -> hololive
+?delta_(boruto) -> naruto_(series)
