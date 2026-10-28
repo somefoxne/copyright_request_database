@@ -1404,3 +1404,13 @@
 ?arlecchino_(genshin_impact) -> genshin_impact
 ?ichigaya_arisa -> bang_dream!
 ?aura_(sousou_no_frieren) -> sousou_no_frieren
+?tokage_setsuna -> boku_no_hero_academia
+?frogadier -> pokemon
+?megurine_luka -> vocaloid
+?rouge_the_bat -> sonic_(series)
+?juo_sena -> idolmaster
+?ninomae_ina'nis_(new_year) -> hololive
+?miyake_miu -> love_live!
+?morgan_le_fay_(fate) -> fate_(series)
+?morgan_le_fay_(queen_of_winter)_(fate) -> fate_(series)
+?iroha_(swimsuit)_(blue_archive) -> blue_archive
