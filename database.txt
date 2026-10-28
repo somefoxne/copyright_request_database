@@ -3627,3 +3627,7 @@
 ?crusader_(darkest_dungeon) -> darkest_dungeon
 ?graverobber_(darkest_dungeon) -> darkest_dungeon
 ?agrat_bat_mahlat_(megami_tensei) -> shin_megami_tensei
+?catherine_(project_moon) -> project_moon
+?mega_tyranitar -> pokemon
+?tyranitar -> pokemon
+?killer_queen -> jojo_no_kimyou_na_bouken
