@@ -2461,3 +2461,7 @@
 ?ho-oh -> pokemon
 ?larvitar -> pokemon
 ?wurmple -> pokemon
+?itsuki_shu -> ensemble_stars!
+?kagehira_mika -> ensemble_stars!
+?mademoiselle_(ensemble_stars!) -> ensemble_stars!
+?st._louis_(luxurious_wheels)_(azur_lane) -> azur_lane
