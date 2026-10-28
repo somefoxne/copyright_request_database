@@ -3919,3 +3919,8 @@
 ?marcille_donato_(lord) -> dungeon_meshi
 ?shijou_takane -> idolmaster
 ?narmaya_(granblue_fantasy) -> granblue_fantasy
+?sky_above_me_(vtuber) -> indie_virtual_youtuber
+?lethe_(fire_emblem) -> fire_emblem
+?butler_(omori) -> omori
+?petla -> kobayashi-san_chi_no_maidragon
+?hoshimachi_suisei_(once_upon_a_stellar) -> hololive
