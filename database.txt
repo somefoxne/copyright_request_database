@@ -2137,3 +2137,15 @@
 ?kanie_(precure) -> precure
 ?fate_testarossa -> lyrical_nanoha
 ?gigi_murin_(casual) -> hololive
+?wocky_kitaki -> ace_attorney
+?cyrus_(pokemon) -> pokemon
+?team_galactic_grunt -> pokemon
+?jupiter_(pokemon) -> pokemon
+?mars_(pokemon) -> pokemon
+?saturn_(pokemon) -> pokemon
+?old_(funamusea) -> funamusea
+?aozora_kyoka -> original
+?inkling_girl -> splatoon_(series)
+?inkling_player_character -> splatoon_(series)
+?professor_oak -> pokemon
+?nazrin -> touhou
