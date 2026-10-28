@@ -2080,3 +2080,7 @@
 ?chris_kratt -> wild_kratts
 ?beidou_(genshin_impact) -> genshin_impact
 ?ningguang_(genshin_impact) -> genshin_impact
+?sangonomiya_kokomi -> genshin_impact
+?robert_e._o._speedwagon -> jojo_no_kimyou_na_bouken
+?momose_momo -> grimoire_~shiritsu_grimoire_mahou_gakuen~
+?tachibana_ui -> grimoire_~shiritsu_grimoire_mahou_gakuen~
