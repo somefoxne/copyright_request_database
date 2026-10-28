@@ -3874,3 +3874,11 @@
 ?suzume_dybowski -> super_sentai
 ?eliwood_(fire_emblem) -> fire_emblem
 ?moge_(tenmaku_no_jaadugar) -> tenmaku_no_jaadugar
+?totless -> indie_virtual_youtuber
+?migi_(yomi_no_tsugai) -> yomi_no_tsugai
+?lissa_(fire_emblem) -> fire_emblem
+?viola_(one_piece) -> one_piece
+?blackbird_(nte) -> neverness_to_everness
+?blackbird_(unfazed_denim)_(nte) -> neverness_to_everness
+?lilith_clawthorne -> the_owl_house
+?limealicious_(cozy) -> vinesauce
