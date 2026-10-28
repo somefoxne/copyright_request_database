@@ -2388,3 +2388,7 @@
 ?runami_yachiyo -> cho_kaguya-hime!
 ?sigrid_de_l'azur -> zenless_zone_zero
 ?kos-mos -> xenosaga
+?lulu_(league) -> league_of_legends
+?tristana_(league) -> league_of_legends
+?azki_(4th_costume)_(hololive) -> hololive
+?pioneer_(azki) -> hololive
