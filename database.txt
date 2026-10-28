@@ -3882,3 +3882,17 @@
 ?blackbird_(unfazed_denim)_(nte) -> neverness_to_everness
 ?lilith_clawthorne -> the_owl_house
 ?limealicious_(cozy) -> vinesauce
+?terra_branford -> final_fantasy
+?lilivia_(imazawa) -> original
+?elysia_(hi_love_elf)_(honkai_impact) -> honkai_(series)
+?seto_mitsuki -> denonbu
+?anastasia_(fate) -> fate_(series)
+?anastasia_(swimsuit_archer)_(third_ascension)_(fate) -> fate_(series)
+?viy_(fate) -> fate_(series)
+?noumi_kudryavka -> little_busters!
+?hestia_happiness -> indie_virtual_youtuber
+?tenkyuu_chimata -> touhou
+?aesc_(fate) -> fate_(series)
+?mayo_(trickcal) -> trickcal
+?irene_(zelda) -> the_legend_of_zelda
+?nano_(nanoless) -> indie_virtual_youtuber
