@@ -3622,3 +3622,8 @@
 ?brendan_(pokemon) -> pokemon
 ?loves_only_you_(9927_wishes)_(umamusume) -> umamusume
 ?christ-chan -> original
+?haro -> gundam
+?onsoku_no_sonic -> one-punch_man
+?crusader_(darkest_dungeon) -> darkest_dungeon
+?graverobber_(darkest_dungeon) -> darkest_dungeon
+?agrat_bat_mahlat_(megami_tensei) -> shin_megami_tensei
