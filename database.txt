@@ -2684,3 +2684,13 @@
 ?female_byleth_(fire_emblem) -> fire_emblem
 ?byakko_(ishigami_nozomi) -> nijisanji
 ?junko_(touhou) -> touhou
+?trigger_(ace_combat) -> ace_combat
+?archie_(fall_2026)_(pokemon) -> pokemon
+?wo-chien -> pokemon
+?mori_calliope_(1st_costume) -> hololive
+?selimiye_(azur_lane) -> azur_lane
+?lita_(kmnz) -> kmnz
+?bianca_(pokemon) -> pokemon
+?gladion_(pokemon) -> pokemon
+?silver_(pokemon) -> pokemon
+?klara_(pokemon) -> pokemon
