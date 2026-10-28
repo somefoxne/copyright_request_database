@@ -2599,3 +2599,16 @@
 ?zoh_shia -> monster_hunter_(series)
 ?sigewinne_(genshin_impact) -> genshin_impact
 ?miyashita_ai -> love_live!
+?kotomiya_ayane -> taima_senki_ayane_~chijoku_saimin_no_wana~
+?levy_(taima_senki_ayane) -> taima_senki_ayane_~chijoku_saimin_no_wana~
+?nina_eribert -> taima_senki_ayane_~chijoku_saimin_no_wana~
+?sonja_tsveruf -> taima_senki_ayane_~chijoku_saimin_no_wana~
+?haruhara_haruko -> flcl
+?lana_(pokemon) -> pokemon
+?sharpedo -> pokemon
+?graves_(deadlock) -> deadlock_(game)
+?maylene_(pokemon) -> pokemon
+?oshawott -> pokemon
+?piplup -> pokemon
+?gold_ship_(red_strife)_(umamusume) -> umamusume
+?air_shakur_(unsigned)_(umamusume) -> umamusume
