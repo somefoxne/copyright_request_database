@@ -2819,3 +2819,8 @@
 ?saya_(etude)_(arcaea) -> arcaea
 ?the_king_of_red_lions -> the_legend_of_zelda
 ?toon_link -> the_legend_of_zelda
+?kogara_toto -> vspo!
+?otogi_(highlander)_(blue_archive) -> blue_archive
+?hakui_koyori_(a_glance_of_adventure) -> hololive
+?beatrice_reden -> i_love_amy
+?nina_farion -> mushoku_tensei
