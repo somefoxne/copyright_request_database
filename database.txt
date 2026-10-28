@@ -2005,3 +2005,12 @@
 ?kitamori_yaeka -> kamiina_botan_yoeru_sugata_wa_yuri_no_hana
 ?yusa_akane -> kamiina_botan_yoeru_sugata_wa_yuri_no_hana
 ?zornia_(shenqi_xiaohuang) -> original
+?uzuki_(kancolle) -> kantai_collection
+?yayoi_(kancolle) -> kantai_collection
+?evernight_(honkai:_star_rail) -> honkai_(series)
+?nekomiya_mana -> zenless_zone_zero
+?fu_xuan_(honkai:_star_rail) -> honkai_(series)
+?boko_(girls_und_panzer) -> girls_und_panzer
+?shimada_arisu -> girls_und_panzer
+?siesta_(tantei_wa_mou_shindeiru) -> tantei_wa_mou_shindeiru
+?len-cue -> yasumi-chan
