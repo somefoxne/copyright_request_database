@@ -3994,3 +3994,10 @@
 ?pyra_(switch_2)_(xenoblade) -> xenoblade_chronicles_(series)
 ?eska_(cookie) -> touhou
 ?reu_(cookie) -> cookie_(touhou)
+?i-no -> guilty_gear
+?pepesha_andreanova -> shy_(series)
+?izayoi_aki -> yu-gi-oh!
+?paseri_(cookie) -> touhou
+?sunny_(hospital_gown)_(omori) -> omori
+?aqua_(konosuba) -> kono_subarashii_sekai_ni_shukufuku_wo!
+?hisui_(cookie) -> touhou
