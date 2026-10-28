@@ -3530,3 +3530,15 @@
 ?kiriya_aoi -> aikatsu!_(series)
 ?giovanna_(guilty_gear) -> guilty_gear
 ?koto_satsuki -> watashi_ga_koibito_ni_nareru_wake_naijan_murimuri!
+?protagonist_halo -> false_memory
+?kaizuka_inaho -> aldnoah.zero
+?kunikida_hanamaru -> love_live!
+?kurosawa_ruby -> love_live!
+?oumi_sorane -> da_capo
+?novio_(alchemy_stars) -> alchemy_stars
+?ichinose_uruha_(7th_costume) -> vspo!
+?nagumo_tetora -> ensemble_stars!
+?daffy_duck -> looney_tunes
+?kuro_(sakura_moyu) -> sakura_moyu
+?saber_alter_(fate/stay_night) -> fate_(series)
+?mamiya_(niigaki) -> sekai_metsubou_kyouyuu_gensou_mamiya
