@@ -3976,3 +3976,8 @@
 ?opera_(iruma-kun) -> mairimashita!_iruma-kun
 ?sawatari_izumi -> kore_ga_watashi_no_goshujin-sama
 ?asmodeus_alice -> mairimashita!_iruma-kun
+?nico_olvia -> one_piece
+?hiwatari_matsuri -> serafuku_to_kansaiben
+?shinonome_kaoru -> serafuku_to_kansaiben
+?light_chaser_(miracle_nikki) -> nikki_(series)
+?onee-san_(pen_nee_(pensis)) -> original
