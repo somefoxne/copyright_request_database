@@ -2628,3 +2628,11 @@
 ?castorice_(gossamer_flutter)_(honkai:_star_rail) -> honkai_(series)
 ?castorice_(honkai:_star_rail) -> honkai_(series)
 ?hyacine_(warm_cotton_skies)_(honkai:_star_rail) -> honkai_(series)
+?kaguya_(tsukuyomi)_(cho_kaguya-hime!) -> cho_kaguya-hime!
+?urotsuki -> yume_2kki
+?jeff_the_land_shark -> marvel
+?kitty_pryde -> marvel
+?lockheed_(x-men) -> marvel
+?ooyodo_(kancolle) -> kantai_collection
+?skirk_(genshin_impact) -> genshin_impact
+?tartaglia_(genshin_impact) -> genshin_impact
