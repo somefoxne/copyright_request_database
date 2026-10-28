@@ -4024,3 +4024,14 @@
 ?rem_(deadlock) -> deadlock_(game)
 ?wraith_(deadlock) -> deadlock_(game)
 ?lebanne_(pokemon) -> pokemon
+?suki_sekine -> indie_virtual_youtuber
+?zentreya_(dragon) -> vshojo
+?sparka_(roco_kingdom:_world) -> roco_kingdom
+?mash_kyrielight -> fate_(series)
+?mash_kyrielight_(dangerous_beast) -> fate_(series)
+?olga_marie_animusphere -> fate_(series)
+?slan_(berserk) -> berserk
+?kurodani_yamame -> touhou
+?suzuka_gozen_(fate) -> fate_(series)
+?suzuka_gozen_(swimsuit_rider)_(fate) -> fate_(series)
+?suzuka_gozen_(swimsuit_rider)_(second_ascension)_(fate) -> fate_(series)
