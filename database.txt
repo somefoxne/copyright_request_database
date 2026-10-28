@@ -2430,3 +2430,13 @@
 ?dark_bloom_(winx_club) -> winx_club
 ?lily_(duolingo) -> duolingo
 ?machi_(machi0910)_(person) -> original
+?inoue_shouma -> kamen_rider
+?karakida_hanto -> kamen_rider
+?lakia_amarga -> kamen_rider
+?ishmael_(project_moon) -> project_moon
+?superb_(azur_lane) -> azur_lane
+?houraisan_kaguya -> touhou
+?reisen_udongein_inaba -> touhou
+?erlking_heathcliff_(project_moon) -> project_moon
+?every_catherine_(project_moon) -> project_moon
+?barbas_(the_elder_scrolls) -> the_elder_scrolls
