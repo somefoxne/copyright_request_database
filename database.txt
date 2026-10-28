@@ -1705,3 +1705,16 @@
 ?makigumo_(kancolle) -> kantai_collection
 ?yuugumo_(kancolle) -> kantai_collection
 ?lyrah_(fire_emblem) -> fire_emblem
+?seina_(kyata_ti666) -> kyatapi_land
+?yuu_(kyata_ti666) -> kyatapi_land
+?mimikyu -> pokemon
+?shauntal_(pokemon) -> pokemon
+?vivian_banshee -> zenless_zone_zero
+?meloetta -> pokemon
+?meloetta_(aria) -> pokemon
+?primarina -> pokemon
+?firenze_(stella_sora) -> stella_sora
+?fuyuka_(stella_sora) -> stella_sora
+?nazuka_(stella_sora) -> stella_sora
+?snorunt -> pokemon
+?allial_(coefont) -> coefont
