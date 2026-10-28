@@ -2204,3 +2204,13 @@
 ?lilith_(mahou_shoujo_inori) -> mahou_shoujo_inori
 ?olive_(funamusea) -> funamusea
 ?taffy_(funamusea) -> funamusea
+?hasumi_leia -> mahou_shoujo_no_majo_saiban
+?hikami_meruru -> mahou_shoujo_no_majo_saiban
+?housho_margo -> mahou_shoujo_no_majo_saiban
+?jogasaki_noah -> mahou_shoujo_no_majo_saiban
+?kurobe_honoka -> mahou_shoujo_no_majo_saiban
+?kurobe_nanoka -> mahou_shoujo_no_majo_saiban
+?natsume_an-an -> mahou_shoujo_no_majo_saiban
+?nikaido_hiro -> mahou_shoujo_no_majo_saiban
+?shito_alisa -> mahou_shoujo_no_majo_saiban
+?tsukishiro_yuki -> mahou_shoujo_no_majo_saiban
