@@ -1850,3 +1850,14 @@
 ?martin_kratt -> wild_kratts
 ?nagisa_(swimsuit)_(blue_archive) -> blue_archive
 ?astra_yao -> zenless_zone_zero
+?scarlet_(venn_(vebonbon)) -> original
+?fairy_(kancolle) -> kantai_collection
+?jingei_(kancolle) -> kantai_collection
+?yuubari_(kancolle) -> kantai_collection
+?harewatari_himawari -> amenochi_hare_onna
+?lilian_tabitha -> fire_emblem
+?lysander_kleitos -> fire_emblem
+?alice_thymefield -> zenless_zone_zero
+?alice_thymefield_(sea_of_thyme) -> zenless_zone_zero
+?renge_(swimsuit)_(blue_archive) -> blue_archive
+?kazanami_touko -> dandivine
