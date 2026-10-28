@@ -2412,3 +2412,12 @@
 ?tachibana_may_(voice_actor) -> bang_dream!
 ?haru_urara_(casual)_(umamusume) -> umamusume
 ?tokai_teio_(casual)_(umamusume) -> umamusume
+?izawa_natsume -> bang_dream!
+?nakamachi_arale -> bang_dream!
+?nakamachi_arale_(real) -> bang_dream!
+?goutokuji_mike -> touhou
+?glenglassaugh_(duel_masters) -> duel_masters
+?glenturret_(duel_masters) -> duel_masters
+?imai_lisa -> bang_dream!
+?minato_yukina -> bang_dream!
+?yomiko_readman -> read_or_die
