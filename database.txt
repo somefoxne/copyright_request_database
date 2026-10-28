@@ -1661,3 +1661,14 @@
 ?inazuma_(kancolle) -> kantai_collection
 ?bowsette -> mario_(series)
 ?fubuki_(kancolle) -> kantai_collection
+?arcanine -> pokemon
+?shun_(small)_(blue_archive) -> blue_archive
+?shun_(small)_(swimsuit)_(blue_archive) -> blue_archive
+?zacian -> pokemon
+?zacian_(crowned) -> pokemon
+?yasuri_nanami -> katanagatari
+?maomao_(kusuriya_no_hitorigoto) -> kusuriya_no_hitorigoto
+?bowser_(tuxedo) -> mario_(series)
+?scream_tail -> pokemon
+?nenerobo -> project_sekai
+?wonderlands_x_showtime_miku -> vocaloid
