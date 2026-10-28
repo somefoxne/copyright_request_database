@@ -2404,3 +2404,11 @@
 ?sunny_(qtip_xd) -> original
 ?claire_(alxdraws) -> original
 ?verity_(artofthejackyl) -> original
+?hedone_(reverse:1999) -> reverse:1999
+?nanashi_mumei_(1st_costume) -> hololive
+?deeja_(skyrim) -> the_elder_scrolls
+?futatsuiwa_mamizou -> touhou
+?suzumi_sakura -> bang_dream!
+?tachibana_may_(voice_actor) -> bang_dream!
+?haru_urara_(casual)_(umamusume) -> umamusume
+?tokai_teio_(casual)_(umamusume) -> umamusume
