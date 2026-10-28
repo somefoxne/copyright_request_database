@@ -2998,3 +2998,11 @@
 ?kongou_sensei -> houseki_no_kuni
 ?phosphophyllite -> houseki_no_kuni
 ?miyazono_kawori -> shigatsu_wa_kimi_no_uso
+?minamoto_no_raikou_(second_ascension)_(fate) -> fate_(series)
+?meltryllis_(fate) -> fate_(series)
+?meltryllis_(swimsuit_lancer)_(fate) -> fate_(series)
+?guren_(naruto) -> naruto_(series)
+?kuma_(kancolle) -> kantai_collection
+?kuma_(valentine)_(kancolle) -> kantai_collection
+?kouki_(seitokai_ni_mo_ana_wa_aru!) -> original
+?ouzuka_mai -> watashi_ga_koibito_ni_nareru_wake_naijan_murimuri!
