@@ -2546,3 +2546,8 @@
 ?sailor_moon -> bishoujo_senshi_sailor_moon
 ?tenjou_utena -> shoujo_kakumei_utena
 ?hebi_(vtuber) -> indie_virtual_youtuber
+?tanaka_erin -> astrae_oratio
+?chito_(shoujo_shuumatsu_ryokou) -> shoujo_shuumatsu_ryokou
+?yuuri_(shoujo_shuumatsu_ryokou) -> shoujo_shuumatsu_ryokou
+?allie_(stella_sora) -> stella_sora
+?kocho_shizuha -> shoujo_kageki_revue_starlight
