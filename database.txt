@@ -3676,3 +3676,8 @@
 ?kshatriya -> gundam
 ?marida_cruz -> gundam
 ?haewon_the_heartstring -> indie_virtual_youtuber
+?glaceon_(checkered) -> pokemon
+?badtz-maru -> sanrio
+?hasunoue_keroppi -> sanrio
+?marshmallow_mitaina_fuwafuwa_nyanko -> sanrio
+?orange_pekoe_(girls_und_panzer) -> girls_und_panzer
