@@ -2636,3 +2636,9 @@
 ?ooyodo_(kancolle) -> kantai_collection
 ?skirk_(genshin_impact) -> genshin_impact
 ?tartaglia_(genshin_impact) -> genshin_impact
+?chando_(ado) -> ado_(utaite)
+?ichigomiya_hane_(raru_buran) -> original
+?kurosawa_junna_(raru_buran) -> original
+?nicole_demara -> zenless_zone_zero
+?shinomiya_uka -> indie_virtual_youtuber
+?mega_froslass -> pokemon
