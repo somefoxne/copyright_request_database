@@ -1645,3 +1645,16 @@
 ?cure_milky -> precure
 ?hagoromo_lala -> precure
 ?otomune_kozue -> love_live!
+?floragato -> pokemon
+?zuihou_(kancolle) -> kantai_collection
+?yae_miko -> genshin_impact
+?wendy_marvell -> fairy_tail
+?pramanix_(caster's_frost)_(arknights) -> arknights
+?yabuki_joe -> ashita_no_joe
+?tokoyami_towa_(cyberpunk) -> hololive
+?yuuki_sakuna -> indie_virtual_youtuber
+?igawa_sakura -> taimanin_(series)
+?princess_daisy -> mario_(series)
+?ribombee -> pokemon
+?maestrale_(halloween)_(kancolle) -> kantai_collection
+?maestrale_(kancolle) -> kantai_collection
