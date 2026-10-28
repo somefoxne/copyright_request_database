@@ -2746,3 +2746,12 @@
 ?zarbon -> dragon_ball
 ?mina_(mamiya) -> sekai_metsubou_kyouyuu_gensou_mamiya
 ?toujou_minato -> sekai_metsubou_kyouyuu_gensou_mamiya
+?sofia_(fire_emblem) -> fire_emblem
+?special_week_(hopp'n_happy_heart)_(umamusume) -> umamusume
+?kamen_rider_shadow_moon -> kamen_rider
+?shadow_moon -> kamen_rider
+?ultraman_shadow -> ultra_series
+?lily_(shiei_no_sona-nyl) -> steampunk_(liarsoft)
+?avil_the_shapeshifter -> original
+?ghost_miku_(project_voltage) -> pokemon
+?haunter -> pokemon
