@@ -1586,3 +1586,17 @@
 ?manhattan_cafe_(creeping_shadow)_(umamusume) -> umamusume
 ?muffet -> utdr_(toby_fox)
 ?toriel -> utdr_(toby_fox)
+?marian_(queen)_(nikke) -> goddess_of_victory:_nikke
+?modernia_(second_affection)_(nikke) -> goddess_of_victory:_nikke
+?fujishima_megumi_(post-graduation_casual) -> love_live!
+?esmeralda_sinza -> fire_emblem
+?mikaela_ogosto -> fire_emblem
+?phenny_(project_sekai) -> project_sekai
+?kasane_teto_(voicepeak) -> utau
+?flutter_mane -> pokemon
+?yanami_anna -> make_heroine_ga_oo_sugiru!
+?hisuian_zoroark -> pokemon
+?hatsune_miku_(vocaloid4) -> vocaloid
+?hatsune_miku_(vocaloid6) -> vocaloid
+?suoh_mikoto_(k-project) -> k-project
+?miki_sayaka_(magical_girl) -> mahou_shoujo_madoka_magica
