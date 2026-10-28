@@ -3024,3 +3024,10 @@
 ?yuki_setsuna -> love_live!
 ?sucy_manbavaran -> little_witch_academia
 ?kurageu_roa -> indie_virtual_youtuber
+?seele_vollerei_(wings_of_panacea) -> honkai_(series)
+?prinz_eugen_(kancolle) -> kantai_collection
+?prinz_eugen_kai_(kancolle) -> kantai_collection
+?sheffield_(kancolle) -> kantai_collection
+?christina_beltrum -> seirei_gensouki
+?flora_beltrum -> seirei_gensouki
+?kikuchi_makoto -> idolmaster
