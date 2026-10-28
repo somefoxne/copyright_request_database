@@ -2238,3 +2238,9 @@
 ?shushu-tan -> precure
 ?yukishiro_honoka -> precure
 ?ayanami_(niconico)_(azur_lane) -> azur_lane
+?shionne_(tales) -> tales_of_(series)
+?dapiko_(duel_masters) -> duel_masters
+?ant_tenna -> utdr_(toby_fox)
+?mizunoe_ume -> seitokai_ni_mo_ana_wa_aru!
+?luciana_de_montefio -> zenless_zone_zero
+?luciana_de_montefio_(princess_on_holiday) -> zenless_zone_zero
