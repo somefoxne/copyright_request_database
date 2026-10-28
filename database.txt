@@ -3418,3 +3418,13 @@
 ?seia_(swimsuit)_(blue_archive) -> blue_archive
 ?druvis_iii -> reverse:1999
 ?druvis_iii_(shrouded_in_thorns) -> reverse:1999
+?revy_(black_lagoon) -> black_lagoon
+?marvin_the_martian -> looney_tunes
+?tsurugi_(cougar1404) -> original
+?cinnamoroll -> sanrio
+?tomori_nao -> charlotte_(anime)
+?kitsune_no_botan_(flower_knight_girl) -> flower_knight_girl
+?37_(reverse:1999) -> reverse:1999
+?boo_tao_(genshin_impact) -> genshin_impact
+?shimada_chiyo -> girls_und_panzer
+?mew_(pokemon) -> pokemon
