@@ -2484,3 +2484,17 @@
 ?nyelv_stomach -> kamen_rider
 ?suga_kenzo -> kamen_rider
 ?xiaolong_(another_eidos) -> another_eidos-r
+?yorigami_jo'on -> touhou
+?nagae_iku -> touhou
+?beelzebub_(helltaker) -> helltaker
+?asuna_(bunny)_(blue_archive) -> blue_archive
+?karin_(bunny)_(blue_archive) -> blue_archive
+?onozuka_komachi -> touhou
+?ukiyo_ace -> kamen_rider
+?shinomiya_runa -> vspo!
+?hanaya_taiga -> kamen_rider
+?kagami_hiiro -> kamen_rider
+?anatolia_(fire_emblem) -> fire_emblem
+?kiroc_(fire_emblem) -> fire_emblem
+?adora_(she-ra) -> she-ra_and_the_princesses_of_power
+?catra -> she-ra_and_the_princesses_of_power
