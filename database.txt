@@ -2755,3 +2755,12 @@
 ?avil_the_shapeshifter -> original
 ?ghost_miku_(project_voltage) -> pokemon
 ?haunter -> pokemon
+?karia_(atelier) -> atelier_(series)
+?evelyn_(greenopi) -> original
+?warrior_of_light_(ff14) -> final_fantasy
+?rapunzel_(sanctuary)_(nikke) -> goddess_of_victory:_nikke
+?japanese_crested_ibis_(kemono_friends) -> kemono_friends
+?raiden_mei_(apho) -> honkai_(series)
+?cucco -> the_legend_of_zelda
+?cucco_lady -> the_legend_of_zelda
+?kafka_(honkai:_star_rail) -> honkai_(series)
