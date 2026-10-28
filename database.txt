@@ -2908,3 +2908,9 @@
 ?gyarados -> pokemon
 ?la+_darknesss -> hololive
 ?peashooter_(plants_vs._zombies) -> plants_vs._zombies
+?ariane_yeong -> signalis
+?elster_(signalis) -> signalis
+?miike_naeko -> meitantei_conan
+?bewear -> pokemon
+?crustle -> pokemon
+?dwebble -> pokemon
