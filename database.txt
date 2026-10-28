@@ -2251,3 +2251,9 @@
 ?sakura_haruka_(wind_breaker) -> wind_breaker_(nii_satoru)
 ?noibara_hime -> grimoire_~shiritsu_grimoire_mahou_gakuen~
 ?takanashi_miyu -> grimoire_~shiritsu_grimoire_mahou_gakuen~
+?amamiya_ren -> persona
+?tougou_hifumi -> persona
+?alyosha_(genshin_impact) -> genshin_impact
+?lohen_(genshin_impact) -> genshin_impact
+?diana_(trickcal) -> trickcal
+?lusamine_(pokemon) -> pokemon
