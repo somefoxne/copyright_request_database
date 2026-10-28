@@ -3428,3 +3428,14 @@
 ?boo_tao_(genshin_impact) -> genshin_impact
 ?shimada_chiyo -> girls_und_panzer
 ?mew_(pokemon) -> pokemon
+?mii_gunner -> super_smash_bros.
+?mii_gunner_(smash_ultimate) -> super_smash_bros.
+?naoi_(zenbu_kowashite_jigoku_de_aishite) -> zenbu_kowashite_jigoku_de_aishite
+?yoshizawa_kurumi -> zenbu_kowashite_jigoku_de_aishite
+?lana's_mother_(pokemon) -> pokemon
+?tux -> linux
+?lavenza_(persona_5) -> persona
+?richter_belmont -> castlevania_(series)
+?jason_todd -> dc_comics
+?red_hood_(dc) -> dc_comics
+?shihouin_yoruichi_(innersuit)_(sennen_kessen-hen) -> bleach
