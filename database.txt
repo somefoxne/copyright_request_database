@@ -3654,3 +3654,13 @@
 ?janus_(kancolle) -> kantai_collection
 ?crimson_viper_(sf6_outfit_4) -> street_fighter
 ?conte_di_cavour_(kancolle) -> kantai_collection
+?koakuma -> touhou
+?angela_(project_moon) -> project_moon
+?fujiki_yusaku -> yu-gi-oh!
+?zaizen_aoi -> yu-gi-oh!
+?mii_brawler -> super_smash_bros.
+?mii_brawler_(smash_ultimate) -> super_smash_bros.
+?adc_vr -> vrchat
+?nekohat-chan_(mellow_kaede) -> original
+?hilbert_(pokemon) -> pokemon
+?bonnie_barkswell -> globie
