@@ -2123,3 +2123,15 @@
 ?straizo -> jojo_no_kimyou_na_bouken
 ?tonpeti -> jojo_no_kimyou_na_bouken
 ?kabru -> dungeon_meshi
+?maria_(bokujou_monogatari) -> bokujou_monogatari
+?wadanohara -> funamusea
+?night_of_wallachia -> tsukihime
+?clantail -> mahou_shoujo_ikusei_keikaku
+?aqua_(deltarune) -> utdr_(toby_fox)
+?cirno -> touhou
+?seth_(deltarune) -> utdr_(toby_fox)
+?vanilla_the_rabbit -> sonic_(series)
+?palutena -> kid_icarus
+?male_robin_(fire_emblem) -> fire_emblem
+?miriel_(fire_emblem) -> fire_emblem
+?kanie_(precure) -> precure
