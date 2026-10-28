@@ -1516,3 +1516,16 @@
 ?sengoku_yuno -> bang_dream!
 ?sengoku_yuno_(real) -> bang_dream!
 ?takizawa_kyouko -> bijin_onna_joushi_takizawa-san
+?tamada_tamaki -> girls_und_panzer
+?talulah_(act_i)_(arknights) -> arknights
+?talulah_(episode_17)_(arknights) -> arknights
+?nippaku_zanmu -> touhou
+?yomotsu_hisami -> touhou
+?arisia_hellioxenes -> kourin_tenshi_en_ciel_rena
+?hosomi_shizuko -> girls_und_panzer
+?pukin -> mahou_shoujo_ikusei_keikaku
+?sonia_bean -> mahou_shoujo_ikusei_keikaku
+?carbuncle_(puyopuyo) -> puyopuyo
+?minotaur_(puyopuyo) -> puyopuyo
+?tenori_zoh -> puyopuyo
+?ebisu_eika -> touhou
