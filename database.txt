@@ -2069,3 +2069,14 @@
 ?moriya_tsukuyo -> grimoire_~shiritsu_grimoire_mahou_gakuen~
 ?wagatsuma_asari -> grimoire_~shiritsu_grimoire_mahou_gakuen~
 ?dipplin -> pokemon
+?velina_airgid_(shade_of_leisure) -> zenless_zone_zero
+?mermaid_(chiikawa) -> chiikawa
+?siren_(chiikawa) -> chiikawa
+?croissant_cookie -> cookie_run
+?timekeeper_cookie -> cookie_run
+?adam_smasher -> cyberpunk_(series)
+?sundowner_(metal_gear_rising) -> metal_gear_(series)
+?lara_(sayonara_lara) -> sayonara_lara
+?chris_kratt -> wild_kratts
+?beidou_(genshin_impact) -> genshin_impact
+?ningguang_(genshin_impact) -> genshin_impact
