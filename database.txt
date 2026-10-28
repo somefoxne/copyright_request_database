@@ -2266,3 +2266,11 @@
 ?minakami_mai -> nichijou
 ?cinderella_(glass_princess)_(nikke) -> goddess_of_victory:_nikke
 ?pink_argus -> persona
+?kicchou_yachie -> touhou
+?otter_spirit_(touhou) -> touhou
+?golisopod -> pokemon
+?mega_golisopod -> pokemon
+?pink_diamond_(steven_universe) -> steven_universe
+?barie_(trickcal) -> trickcal
+?minazuki_fuko -> grimoire_~shiritsu_grimoire_mahou_gakuen~
+?mithril_(starward) -> starward
