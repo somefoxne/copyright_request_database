@@ -2371,3 +2371,4 @@
 ?sailor_venus -> bishoujo_senshi_sailor_moon
 ?atori_haruto -> tasokare_hotel
 ?tsukahara_neko -> tasokare_hotel
+?himesaki_rinami -> idolmaster
