@@ -3735,3 +3735,11 @@
 ?kirahoshi_aika -> shy_(series)
 ?batgirl -> dc_comics
 ?harley_quinn -> dc_comics
+?clouded_loong_(infinity_nikki) -> nikki_(series)
+?lindsay_(total_drama) -> total_drama
+?recluse_(elden_ring) -> elden_ring
+?candyman_(lethal_league_blaze) -> lethal_league_blaze
+?guest_c_(mii) -> nintendo
+?nitro_(lethal_league) -> lethal_league_blaze
+?smallfry_(splatoon) -> splatoon_(series)
+?ultimate_chimera -> mother_(series)
