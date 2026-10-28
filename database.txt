@@ -3702,3 +3702,11 @@
 ?aiba_ami -> digimon
 ?kuremi_kyouko -> digimon
 ?terriermon -> digimon
+?ikari_shinji -> neon_genesis_evangelion
+?utane_uta -> utau
+?azula -> avatar_legends
+?ty_lee -> avatar_legends
+?sceptile -> pokemon
+?ulquiorra_cifer -> bleach
+?silver_(deadlock) -> deadlock_(game)
+?samurott -> pokemon
