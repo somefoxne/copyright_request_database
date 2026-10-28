@@ -3193,3 +3193,17 @@
 ?mega_absol_z -> pokemon
 ?zentreya -> vshojo
 ?yuki(kurogami_fuyuki) -> original
+?kyuri_(trickcal) -> trickcal
+?sist_(trickcal) -> trickcal
+?matara_okina -> touhou
+?deerling_(winter) -> pokemon
+?princess_lightning -> mahou_shoujo_ikusei_keikaku
+?kamishiro_rui_(middle_school) -> project_sekai
+?jingran_(wuthering_waves) -> wuthering_waves
+?syllia_(nk0x) -> original
+?usami_sumireko -> touhou
+?yoneme_mei -> love_live!
+?noshiro_(kancolle) -> kantai_collection
+?bennington_(azur_lane) -> azur_lane
+?bennington_(sunshine_chaser)_(azur_lane) -> azur_lane
+?lappland_the_decadenza_(unruly_humbleness)_(arknights) -> arknights
