@@ -3786,3 +3786,16 @@
 ?takakura_ken_(dandadan) -> dandadan
 ?speaki_(trickcal) -> trickcal
 ?sunny_(derpixon) -> original
+?ayin_(project_moon) -> project_moon
+?benjamin_(project_moon) -> project_moon
+?amano_ririsa -> 2.5_jigen_no_ririsa
+?tidus -> final_fantasy
+?stocking_(psg) -> panty_&_stocking_with_garterbelt
+?qingyi_(zenless_zone_zero) -> zenless_zone_zero
+?hod_(project_moon) -> project_moon
+?malkuth_(project_moon) -> project_moon
+?netzach_(project_moon) -> project_moon
+?yesod_(project_moon) -> project_moon
+?zack_fair -> final_fantasy
+?tracer_(overwatch) -> overwatch
+?okanyan_(nekomata_okayu) -> hololive
