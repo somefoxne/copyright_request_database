@@ -2793,3 +2793,9 @@
 ?k/da_evelynn -> league_of_legends
 ?wise_(oath_of_skies)_(zenless_zone_zero) -> zenless_zone_zero
 ?shaka_(streamer) -> real_life
+?kintaros -> kamen_rider
+?norn_greyrat -> mushoku_tensei
+?chuugoku_usagi -> voicevox
+?kamen_rider_wizard -> kamen_rider
+?kamen_rider_wizard_(flame_style) -> kamen_rider
+?yorita_yoshino -> idolmaster
