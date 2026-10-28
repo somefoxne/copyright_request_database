@@ -3681,3 +3681,9 @@
 ?hasunoue_keroppi -> sanrio
 ?marshmallow_mitaina_fuwafuwa_nyanko -> sanrio
 ?orange_pekoe_(girls_und_panzer) -> girls_und_panzer
+?dazai_osamu_(bungou_stray_dogs) -> bungou_stray_dogs
+?ini_miney -> ace_attorney
+?mimi_miney -> ace_attorney
+?kirihara_akaya -> tennis_no_ouji-sama
+?langley_(path_to_nowhere) -> path_to_nowhere
+?megatherium_(kemono_friends) -> kemono_friends
