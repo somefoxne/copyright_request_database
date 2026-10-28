@@ -3855,3 +3855,12 @@
 ?ryouna_(senran_kagura) -> senran_kagura
 ?sata_nakia -> indie_virtual_youtuber
 ?yomi_(trickcal) -> trickcal
+?boraqchin_(tenmaku_no_jaadugar) -> tenmaku_no_jaadugar
+?khulan_(tenmaku_no_jaadugar) -> tenmaku_no_jaadugar
+?sorghaghtani_(tenmaku_no_jaadugar) -> tenmaku_no_jaadugar
+?mordred_(fate) -> fate_(series)
+?mejiro_ramonu_(onyx_line)_(umamusume) -> umamusume
+?pink_shoes_(project_moon) -> project_moon
+?the_red_shoes_(project_moon) -> project_moon
+?jia_xichun_(project_moon) -> project_moon
+?zigong_(project_moon) -> project_moon
