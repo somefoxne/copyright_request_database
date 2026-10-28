@@ -2034,3 +2034,10 @@
 ?chikorita -> pokemon
 ?fuyuyama_yoruko_(kuse_(0201)) -> original
 ?the_endspeaker_(humanoid)_(arknights) -> arknights
+?dorothy_(hand_of_destiny)_(arknights) -> arknights
+?tio_plato -> eiyuu_densetsu
+?kujou_nazuna -> yani_neko
+?nishi_kaoruko -> yani_neko
+?sakai_aruko -> yani_neko
+?tatsuno_saori -> yani_neko
+?yurufuwa_anal_tenshi_hameko -> yani_neko
