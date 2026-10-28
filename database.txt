@@ -2990,3 +2990,11 @@
 ?manun-chan -> indie_utaite
 ?inkay -> pokemon
 ?tapu_lele -> pokemon
+?fuwieek -> indie_virtual_youtuber
+?kochou_shinobu -> kimetsu_no_yaiba
+?nefer_(genshin_impact) -> genshin_impact
+?konno_makoto -> toki_wo_kakeru_shoujo
+?rumia -> touhou
+?kongou_sensei -> houseki_no_kuni
+?phosphophyllite -> houseki_no_kuni
+?miyazono_kawori -> shigatsu_wa_kimi_no_uso
