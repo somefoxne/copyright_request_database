@@ -1308,3 +1308,16 @@
 ?nico_robin -> one_piece
 ?asta_(hunter_x_hunter) -> hunter_x_hunter
 ?martha_(fate) -> fate_(series)
+?kitasan_black_(gilded_shrine_to_glory)_(umamusume) -> umamusume
+?boney -> mother_(series)
+?claus_(mother_3) -> mother_(series)
+?duster_(mother) -> mother_(series)
+?kumatora -> mother_(series)
+?lucas_(mother_3) -> mother_(series)
+?oguri_cap_(starlight_beat)_(umamusume) -> umamusume
+?tenma_saki -> project_sekai
+?agnes_tachyon_(tach-nology)_(umamusume) -> umamusume
+?toyosatomimi_no_miko -> touhou
+?susuko_(nukitashi) -> nukigee_mitai_na_shima_ni_sunderu_watashi_wa_dou_surya_ii_desu_ka?
+?yuy_(vtuber) -> indie_virtual_youtuber
+?kasane_teto_(sv) -> utau
