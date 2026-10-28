@@ -1321,3 +1321,11 @@
 ?susuko_(nukitashi) -> nukigee_mitai_na_shima_ni_sunderu_watashi_wa_dou_surya_ii_desu_ka?
 ?yuy_(vtuber) -> indie_virtual_youtuber
 ?kasane_teto_(sv) -> utau
+?buccar_(fire_emblem) -> fire_emblem
+?kasumi_(swimsuit)_(blue_archive) -> blue_archive
+?reisawa_aoi -> love_live!
+?yunli_(honkai:_star_rail) -> honkai_(series)
+?ceras_yanagida_lilienfeld -> love_live!
+?katsuragi_izumi -> love_live!
+?perona -> one_piece
+?shiraishi_kuranosuke -> tennis_no_ouji-sama
