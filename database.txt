@@ -1456,3 +1456,8 @@
 ?callie_(alterna)_(splatoon) -> splatoon_(series)
 ?callie_(splatoon) -> splatoon_(series)
 ?shiki_eiki -> touhou
+?nobeta -> little_witch_nobeta
+?takahata_nodoka -> alice_gear_aegis
+?backbeako_(torotei) -> original
+?backbeard -> gegege_no_kitarou
+?lumine_(as_heaven_and_earth_are_made_anew)_(genshin_impact) -> genshin_impact
