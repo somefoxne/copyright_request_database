@@ -2511,3 +2511,7 @@
 ?ibaraki_douji_(touhou) -> touhou
 ?ibaraki_kasen -> touhou
 ?wriggle_nightbug -> touhou
+?yagokoro_eirin -> touhou
+?perrin_(pokemon) -> pokemon
+?mercedes_von_martritz -> fire_emblem
+?mercedes_von_martritz_(summer) -> fire_emblem
