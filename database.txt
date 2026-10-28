@@ -2289,3 +2289,9 @@
 ?konpaku_youmu_(mysterious_sword_master) -> touhou
 ?erika_(pokemon) -> pokemon
 ?sabrina_(pokemon) -> pokemon
+?franziska_von_karma -> ace_attorney
+?trucy_wright -> ace_attorney
+?karen_(pokemon) -> pokemon
+?ex-keine -> touhou
+?kamishirasawa_keine -> touhou
+?kudamaki_tsukasa -> touhou
