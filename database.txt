@@ -3728,3 +3728,10 @@
 ?lucina_(fire_emblem) -> fire_emblem
 ?male_morgan_(fire_emblem) -> fire_emblem
 ?transcend_(zoku-zoku_gizmo)_(umamusume) -> umamusume
+?angelina_(distinguished_visitor)_(arknights) -> arknights
+?xiao_(genshin_impact) -> genshin_impact
+?kishin_sagume -> touhou
+?mirko -> boku_no_hero_academia
+?kirahoshi_aika -> shy_(series)
+?batgirl -> dc_comics
+?harley_quinn -> dc_comics
