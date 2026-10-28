@@ -2392,3 +2392,15 @@
 ?tristana_(league) -> league_of_legends
 ?azki_(4th_costume)_(hololive) -> hololive
 ?pioneer_(azki) -> hololive
+?hatsuzuki_(kancolle) -> kantai_collection
+?irys_(irys_2.0)_(hololive) -> hololive
+?rollo_flamme -> twisted_wonderland
+?letty_whiterock -> touhou
+?ayatsumugi_roka -> cho_kaguya-hime!
+?isayama_mami -> cho_kaguya-hime!
+?shapherdess_(ekowrosmi) -> original
+?kelda_(akairiot) -> original
+?katty_(the_artkii) -> original
+?sunny_(qtip_xd) -> original
+?claire_(alxdraws) -> original
+?verity_(artofthejackyl) -> original
