@@ -2474,3 +2474,4 @@
 ?nugget_(project_moon) -> project_moon
 ?process_of_understanding_(project_moon) -> project_moon
 ?cerydra_(honkai:_star_rail) -> honkai_(series)
+?mother_(yoru_mac) -> yoru_mac
