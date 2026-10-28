@@ -1772,3 +1772,11 @@
 ?yuzuki_yukari_(vocaloid6) -> vocaloid
 ?noise_(ace_combat) -> ace_combat
 ?tasha_(ace_combat) -> ace_combat
+?aizawa_mana_(baileys) -> class_no_gal_ni_kuuki_atsukai_sareteimasu
+?cho-hakkaimon -> digimon
+?ryoumen_sukuna_(jujutsu_kaisen) -> jujutsu_kaisen
+?yorozu_(jujutsu_kaisen) -> jujutsu_kaisen
+?zero_two_(darling_in_the_franxx) -> darling_in_the_franxx
+?shurou -> dungeon_meshi
+?sagisawa_fumika -> idolmaster
+?celine_(fields_of_mistria) -> fields_of_mistria
