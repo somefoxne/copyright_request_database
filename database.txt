@@ -2592,3 +2592,10 @@
 ?minami_kotori -> love_live!
 ?tsushima_yoshiko -> love_live!
 ?saki_(swimsuit)_(blue_archive) -> blue_archive
+?toramaru_shou -> touhou
+?broly_(dragon_ball_z) -> dragon_ball
+?sheryl_nome -> macross
+?vf-25 -> macross
+?zoh_shia -> monster_hunter_(series)
+?sigewinne_(genshin_impact) -> genshin_impact
+?miyashita_ai -> love_live!
