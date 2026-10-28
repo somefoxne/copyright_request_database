@@ -2663,3 +2663,12 @@
 ?souryuu_(kancolle) -> kantai_collection
 ?tamamo_(mon-musu_quest!) -> mon-musu_quest!
 ?hiumi_nanoka -> shine_post
+?michael_roa_valdamjong -> tsukihime
+?tohno_shiki_(original) -> tsukihime
+?crysta_(ferngully) -> ferngully:_the_last_rainforest
+?iono_(fall_2024)_(pokemon) -> pokemon
+?shanoa_(castlevania) -> castlevania_(series)
+?faruzan_(genshin_impact) -> genshin_impact
+?layla_(genshin_impact) -> genshin_impact
+?exusiai_(city_rider)_(arknights) -> arknights
+?julia_barnes -> muv-luv
