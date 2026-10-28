@@ -3445,3 +3445,16 @@
 ?blade_(honkai:_star_rail) -> honkai_(series)
 ?banyue_(zenless_zone_zero) -> zenless_zone_zero
 ?shedinja -> pokemon
+?shiranui_mai -> fatal_fury
+?barton_(alchemy_stars) -> alchemy_stars
+?barton_(deft_blades)_(alchemy_stars) -> alchemy_stars
+?alice_(black_souls) -> black_souls
+?daughter_alice_(black_souls) -> black_souls
+?mother_alice_(black_souls) -> black_souls
+?sister_alice_(black_souls) -> black_souls
+?ouro_kronii_(masquerade) -> hololive
+?carbuncle_(reverse:1999) -> reverse:1999
+?eagle_(reverse:1999) -> reverse:1999
+?lorentz_butterfly -> reverse:1999
+?silverwing_eagle -> reverse:1999
+?tsukumo_shion -> utau
