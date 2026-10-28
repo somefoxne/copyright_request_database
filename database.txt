@@ -3318,3 +3318,13 @@
 ?ryuujou_(kancolle) -> kantai_collection
 ?ursula_callistis -> little_witch_academia
 ?omaru_polka_(shared_bbq_bliss) -> hololive
+?lazy_ceto -> indie_virtual_youtuber
+?forsakin_(alchemy_stars) -> alchemy_stars
+?navigator_(alchemy_stars) -> alchemy_stars
+?vice_(alchemy_stars) -> alchemy_stars
+?vice_(keen_sight)_(alchemy_stars) -> alchemy_stars
+?deadpool -> marvel
+?elsa_bloodstone -> marvel
+?ninny_spangcole -> burn_the_witch
+?archer_(fate) -> fate_(series)
+?jeanne_d'arc_alter_(swimsuit_berserker)_(fate) -> fate_(series)
