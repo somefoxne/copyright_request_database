@@ -4035,3 +4035,10 @@
 ?suzuka_gozen_(fate) -> fate_(series)
 ?suzuka_gozen_(swimsuit_rider)_(fate) -> fate_(series)
 ?suzuka_gozen_(swimsuit_rider)_(second_ascension)_(fate) -> fate_(series)
+?kasukabe_tsumugi -> voicevox
+?judgement_bird -> project_moon
+?ouro_kronii_(maid) -> hololive
+?kaigaku -> kimetsu_no_yaiba
+?susamaru_(kimetsu_no_yaiba) -> kimetsu_no_yaiba
+?yahaba_(kimetsu_no_yaiba) -> kimetsu_no_yaiba
+?isaa_corva -> indie_virtual_youtuber
