@@ -4205,3 +4205,7 @@
 ?saev_epiphany -> chain_paradox
 ?bunniaid_(roco_kingdom:_world) -> roco_kingdom
 ?ubel_(sousou_no_frieren) -> sousou_no_frieren
+?nioh_masaharu -> tennis_no_ouji-sama
+?hush_(valorant) -> valorant
+?shion_(overwatch) -> overwatch
+?felora_(roco_kingdom:_world) -> roco_kingdom
