@@ -2135,3 +2135,5 @@
 ?male_robin_(fire_emblem) -> fire_emblem
 ?miriel_(fire_emblem) -> fire_emblem
 ?kanie_(precure) -> precure
+?fate_testarossa -> lyrical_nanoha
+?gigi_murin_(casual) -> hololive
