@@ -2586,3 +2586,9 @@
 ?sakura_kyoko_(magical_girl) -> mahou_shoujo_madoka_magica
 ?farina_(fire_emblem) -> fire_emblem
 ?asumi_sena -> vspo!
+?mizutsune -> monster_hunter_(series)
+?yaia_(granblue_fantasy) -> granblue_fantasy
+?chofu_noriko -> love_live!
+?minami_kotori -> love_live!
+?tsushima_yoshiko -> love_live!
+?saki_(swimsuit)_(blue_archive) -> blue_archive
