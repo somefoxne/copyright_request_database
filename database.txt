@@ -2347,3 +2347,9 @@
 ?olivia_rodrigo -> real_life
 ?yowane_haku -> vocaloid
 ?still_in_love_(scarlet_vow_raiment)_(umamusume) -> umamusume
+?aria_pokoteng -> aria_(manga)
+?mizunashi_akari -> aria_(manga)
+?marine_the_raccoon -> sonic_(series)
+?sage_(sonic) -> sonic_(series)
+?rosalina_(halloween) -> mario_(series)
+?tier_harribel -> bleach
