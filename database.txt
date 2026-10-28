@@ -3631,3 +3631,6 @@
 ?mega_tyranitar -> pokemon
 ?tyranitar -> pokemon
 ?killer_queen -> jojo_no_kimyou_na_bouken
+?ra-class_destroyer -> kantai_collection
+?etna_(disgaea) -> disgaea
+?rie-chan -> bemani
