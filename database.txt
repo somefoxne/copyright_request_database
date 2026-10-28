@@ -1959,3 +1959,13 @@
 ?tachikawa_nobuo -> ts_loli_oji-san_no_boukan
 ?durandal_(honkai_impact) -> honkai_(series)
 ?murata_himeko -> honkai_(series)
+?rafal_(chi.) -> chi.:_chikyuu_no_undou_ni_tsuite
+?togashi_(hyakuemu) -> hyakuemu
+?tomoe_mami -> mahou_shoujo_madoka_magica
+?tomoe_mami_(magical_girl) -> mahou_shoujo_madoka_magica
+?coyote_(kemono_friends) -> kemono_friends
+?kurumi_noah -> vspo!
+?kurumi_noah_(8th_costume) -> vspo!
+?matikanefukukitaru_(rising_fortune)_(umamusume) -> umamusume
+?t-head_trainer_(umamusume) -> umamusume
+?kazagumo_(kancolle) -> kantai_collection
