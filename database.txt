@@ -3743,3 +3743,8 @@
 ?nitro_(lethal_league) -> lethal_league_blaze
 ?smallfry_(splatoon) -> splatoon_(series)
 ?ultimate_chimera -> mother_(series)
+?perfect_start_(infinity_nikki) -> nikki_(series)
+?aris_(maid)_(blue_archive) -> blue_archive
+?sweetily -> indie_virtual_youtuber
+?kohinata_ichigo -> girlfriend_(kari)
+?hsin_(illumining_form)_(wuthering_waves) -> wuthering_waves
