@@ -3542,3 +3542,15 @@
 ?kuro_(sakura_moyu) -> sakura_moyu
 ?saber_alter_(fate/stay_night) -> fate_(series)
 ?mamiya_(niigaki) -> sekai_metsubou_kyouyuu_gensou_mamiya
+?guan_chao_(false_memory) -> false_memory
+?hyakuya_mikaela -> owari_no_seraph
+?hyakuya_yuuichirou -> owari_no_seraph
+?power_girl_(1976_costume) -> dc_comics
+?vodyanitsa_(water_imp)_(genshin_impact) -> genshin_impact
+?dick_grayson -> dc_comics
+?nightwing -> dc_comics
+?sajou_ayaka_(fate/strange_fake) -> fate_(series)
+?dexter_reed -> good_burger
+?ed_(good_burger) -> good_burger
+?carleen_(alchemy_stars) -> alchemy_stars
+?kirito -> sword_art_online
