@@ -4137,3 +4137,10 @@
 ?kid_buu -> dragon_ball
 ?natsume_ai -> sakura_no_uta
 ?princess_leia -> star_wars
+?akumi_(yoclesh) -> indie_virtual_youtuber
+?arch_bishop_(ragnarok_online) -> ragnarok_online
+?warlock_(ragnarok_online) -> ragnarok_online
+?hazama -> blazblue
+?regina_(dino_crisis) -> dino_crisis
+?kuroi_nanako -> lucky_star
+?limealicious_(1st_costume) -> vinesauce
