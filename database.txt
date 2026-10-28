@@ -3568,3 +3568,12 @@
 ?wonder_woman_(absolute_dc) -> dc_comics
 ?captain_(kemono_friends) -> kemono_friends
 ?kodiak_bear_(kemono_friends) -> kemono_friends
+?growlithe -> pokemon
+?shijima_gou -> kamen_rider
+?rei_membami -> ace_attorney
+?ryutaro_naruhodo -> ace_attorney
+?manon_legrand -> street_fighter
+?futami_shun -> cool_doji_danshi
+?ichikura_hayate -> cool_doji_danshi
+?mima_takayuki -> cool_doji_danshi
+?shiki_souma -> cool_doji_danshi
