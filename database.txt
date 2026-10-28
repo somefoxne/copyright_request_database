@@ -1302,3 +1302,9 @@
 ?gastly -> pokemon
 ?yoisaki_kanade -> project_sekai
 ?caleido_(arknights) -> arknights
+?momose_ginko -> love_live!
+?momose_ginko_(birthday_french_girly) -> love_live!
+?himeki_luna -> vanguard_princess
+?nico_robin -> one_piece
+?asta_(hunter_x_hunter) -> hunter_x_hunter
+?martha_(fate) -> fate_(series)
