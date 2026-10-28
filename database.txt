@@ -1861,3 +1861,15 @@
 ?alice_thymefield_(sea_of_thyme) -> zenless_zone_zero
 ?renge_(swimsuit)_(blue_archive) -> blue_archive
 ?kazanami_touko -> dandivine
+?santorin_(racehorse) -> original
+?tony_tony_chopper -> one_piece
+?usopp -> one_piece
+?zilu_(project_moon) -> project_moon
+?serika_(idol)_(blue_archive) -> blue_archive
+?suzuya_(halloween)_(kancolle) -> kantai_collection
+?suzuya_(kancolle) -> kantai_collection
+?nisshin_(kancolle) -> kantai_collection
+?delta_(honkai_impact) -> honkai_(series)
+?coraline_(black_survival) -> black_survival
+?grass_wonder_(honor_of_the_blue_flame)_(umamusume) -> umamusume
+?rozaliya_olenyeva_(gothic_rozamary) -> honkai_(series)
