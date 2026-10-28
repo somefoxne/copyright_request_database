@@ -2653,3 +2653,13 @@
 ?trunks_(future)_(dragon_ball) -> dragon_ball
 ?trunks_(future)_(xeno)_(dragon_ball) -> dragon_ball
 ?eco-arc -> tsukihime
+?kuchinashi_dabi -> esse_series
+?takao_kanon -> bang_dream!
+?beastman_lina_(odd_onion) -> warhammer_40k
+?nadia_(odd_onion) -> warhammer_40k
+?olivia_(odd_onion) -> warhammer_40k
+?emma_(pokemon) -> pokemon
+?senri_ayumu_(1st_costume) -> nijisanji
+?souryuu_(kancolle) -> kantai_collection
+?tamamo_(mon-musu_quest!) -> mon-musu_quest!
+?hiumi_nanoka -> shine_post
