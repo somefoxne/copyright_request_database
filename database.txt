@@ -1626,3 +1626,6 @@
 ?kazepana_(vtuber) -> indie_virtual_youtuber
 ?murano_sayaka_(figure_skating_dress) -> love_live!
 ?ogerpon -> pokemon
+?brionne -> pokemon
+?cosplay_pikachu -> pokemon
+?pikachu_libre -> pokemon
