@@ -3710,3 +3710,13 @@
 ?ulquiorra_cifer -> bleach
 ?silver_(deadlock) -> deadlock_(game)
 ?samurott -> pokemon
+?lady_black_(shy) -> shy_(series)
+?mian_long -> shy_(series)
+?aston_machan_(flare)_(umamusume) -> umamusume
+?daphne_blake -> scooby-doo_(series)
+?fred_jones -> scooby-doo_(series)
+?scooby-doo -> scooby-doo_(series)
+?scrappy-doo -> scooby-doo_(series)
+?shaggy_rogers -> scooby-doo_(series)
+?velma_dinkley -> scooby-doo_(series)
+?victor_von_gerdenheim -> darkstalkers
