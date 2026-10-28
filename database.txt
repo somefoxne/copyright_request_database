@@ -2383,3 +2383,8 @@
 ?methode_(sousou_no_frieren) -> sousou_no_frieren
 ?stark_(sousou_no_frieren) -> sousou_no_frieren
 ?dipper_gleeful -> gravity_falls
+?toutetsu_yuuma -> touhou
+?hado_nejire -> boku_no_hero_academia
+?runami_yachiyo -> cho_kaguya-hime!
+?sigrid_de_l'azur -> zenless_zone_zero
+?kos-mos -> xenosaga
