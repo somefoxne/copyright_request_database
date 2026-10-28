@@ -4202,3 +4202,6 @@
 ?kido_reiji -> persona
 ?nanjou_kei -> persona
 ?uesugi_hidehiko -> persona
+?saev_epiphany -> chain_paradox
+?bunniaid_(roco_kingdom:_world) -> roco_kingdom
+?ubel_(sousou_no_frieren) -> sousou_no_frieren
