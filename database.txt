@@ -1617,3 +1617,12 @@
 ?nuzzuo_(fire_emblem) -> fire_emblem
 ?ceras_yanagida_lilienfeld_(summer_training_wear) -> love_live!
 ?kachimachi_kosuzu_(summer_training_wear) -> love_live!
+?allmother_(1000xresist) -> 1000xresist
+?iris_kwan -> 1000xresist
+?principal_(1000xresist) -> 1000xresist
+?watcher_(1000xresist) -> 1000xresist
+?mesprit -> pokemon
+?naruko_(naruto) -> naruto_(series)
+?kazepana_(vtuber) -> indie_virtual_youtuber
+?murano_sayaka_(figure_skating_dress) -> love_live!
+?ogerpon -> pokemon
