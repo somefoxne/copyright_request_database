@@ -2498,3 +2498,15 @@
 ?kiroc_(fire_emblem) -> fire_emblem
 ?adora_(she-ra) -> she-ra_and_the_princesses_of_power
 ?catra -> she-ra_and_the_princesses_of_power
+?cai_castor -> fire_emblem
+?phylene_(shadowverse) -> shadowverse
+?sephie_(shadowverse) -> shadowverse
+?rulership_(monochrome_gm)_(umamusume) -> umamusume
+?crying_wojak -> original
+?wojak -> original
+?tsukumo_benben -> touhou
+?tsukumo_yatsuhashi -> touhou
+?seaport_princess -> kantai_collection
+?sekibanki -> touhou
+?ibaraki_douji_(touhou) -> touhou
+?ibaraki_kasen -> touhou
