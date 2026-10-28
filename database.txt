@@ -3617,3 +3617,8 @@
 ?kamen_rider_drive_(type_speed) -> kamen_rider
 ?asashio_(kancolle) -> kantai_collection
 ?feena_(grandia) -> grandia
+?nydine_(fire_emblem) -> fire_emblem
+?blonde_bob_cut-chan_(ramchi) -> original
+?brendan_(pokemon) -> pokemon
+?loves_only_you_(9927_wishes)_(umamusume) -> umamusume
+?christ-chan -> original
