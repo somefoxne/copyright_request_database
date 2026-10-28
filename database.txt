@@ -3664,3 +3664,15 @@
 ?nekohat-chan_(mellow_kaede) -> original
 ?hilbert_(pokemon) -> pokemon
 ?bonnie_barkswell -> globie
+?kashiwagi_noriko -> persona
+?sanada_genichiroh -> tennis_no_ouji-sama
+?yukimura_seiichi -> tennis_no_ouji-sama
+?senketsu -> kill_la_kill
+?carnie_(coni_confetti) -> chromashift
+?coni_confetti -> chromashift
+?hachiware_(chimera)_(chiikawa) -> chiikawa
+?usagi_(chimera)_(chiikawa) -> chiikawa
+?munakata_atsumi -> idolmaster
+?kshatriya -> gundam
+?marida_cruz -> gundam
+?haewon_the_heartstring -> indie_virtual_youtuber
