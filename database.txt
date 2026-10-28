@@ -1672,3 +1672,11 @@
 ?scream_tail -> pokemon
 ?nenerobo -> project_sekai
 ?wonderlands_x_showtime_miku -> vocaloid
+?floatzel -> pokemon
+?bobo_(kirby) -> kirby_(series)
+?n-z -> kirby_(series)
+?punc_(kirby) -> kirby_(series)
+?mochizuki_honami -> project_sekai
+?lurantis -> pokemon
+?leavanny -> pokemon
+?gardevoir -> pokemon
