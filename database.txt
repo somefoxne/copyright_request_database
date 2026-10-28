@@ -3593,3 +3593,8 @@
 ?regina_george -> mean_girls
 ?suigintou -> rozen_maiden
 ?sancho_(project_moon) -> project_moon
+?daitoku_junna -> science_adventure
+?koujiro_frau -> science_adventure
+?senomiya_akiho -> science_adventure
+?langley_(kancolle) -> kantai_collection
+?pulchra_fellini -> zenless_zone_zero
