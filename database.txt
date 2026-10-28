@@ -1291,3 +1291,14 @@
 ?nangong_yu -> zenless_zone_zero
 ?sunna_(zenless_zone_zero) -> zenless_zone_zero
 ?agnes_tachyon_(lunatic_lab)_(umamusume) -> umamusume
+?tenma_tsukasa -> project_sekai
+?mia_(project_sekai) -> project_sekai
+?fuura_kafuka -> sayonara_zetsubou_sensei
+?avida_yang -> cyberpunk_(series)
+?yukino_mifuyu_(puuzaki_puuna) -> hitozukiai_ga_nigate_na_miboujin_no_yukionna-san_to_noroi_no_yubiwa
+?watarai_hinami -> nukigee_mitai_na_shima_ni_sunderu_watashi_wa_dou_surya_ii_desu_ka?
+?akiyama_mizuki_(middle_school) -> project_sekai
+?phoenix_reffaella_(daydream_complex) -> zenless_zone_zero
+?gastly -> pokemon
+?yoisaki_kanade -> project_sekai
+?caleido_(arknights) -> arknights
