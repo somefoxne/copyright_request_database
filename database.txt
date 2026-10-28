@@ -2642,3 +2642,14 @@
 ?nicole_demara -> zenless_zone_zero
 ?shinomiya_uka -> indie_virtual_youtuber
 ?mega_froslass -> pokemon
+?okada_mei -> bang_dream!
+?timoris_(bang_dream!) -> bang_dream!
+?kamen_rider_build -> kamen_rider
+?minamizaki_minato -> shine_post
+?yakushiin_asuka -> shine_post
+?chronoa_(dragon_ball) -> dragon_ball
+?fu_(dragon_ball) -> dragon_ball
+?trunks_(dragon_ball) -> dragon_ball
+?trunks_(future)_(dragon_ball) -> dragon_ball
+?trunks_(future)_(xeno)_(dragon_ball) -> dragon_ball
+?eco-arc -> tsukihime
