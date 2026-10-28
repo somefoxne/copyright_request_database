@@ -3608,3 +3608,12 @@
 ?reki_(haibane_renmei) -> haibane_renmei
 ?fuwa_isamu -> kamen_rider
 ?shiori_novella -> hololive
+?cheren_(pokemon) -> pokemon
+?kawajiri_kosaku -> jojo_no_kimyou_na_bouken
+?kira_yoshikage -> jojo_no_kimyou_na_bouken
+?stray_cat_(jojo) -> jojo_no_kimyou_na_bouken
+?yandere-chan_(ramchi) -> original
+?kamen_rider_drive -> kamen_rider
+?kamen_rider_drive_(type_speed) -> kamen_rider
+?asashio_(kancolle) -> kantai_collection
+?feena_(grandia) -> grandia
