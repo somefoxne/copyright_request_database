@@ -2945,3 +2945,12 @@
 ?yelan_(genshin_impact) -> genshin_impact
 ?bikini_(dragon_ball) -> dragon_ball
 ?eris_greyrat_(adult) -> mushoku_tensei
+?female_sensei_(blue_archive) -> blue_archive
+?ramiris -> tensei_shitara_slime_datta_ken
+?clownpiece -> touhou
+?hecatia_lapislazuli -> touhou
+?aishia -> seirei_gensouki
+?ayase_miharu -> seirei_gensouki
+?celia_claire -> seirei_gensouki
+?latifa_(seirei_gensouki) -> seirei_gensouki
+?rio_(seirei_gensouki) -> seirei_gensouki
