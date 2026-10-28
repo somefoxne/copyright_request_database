@@ -3693,3 +3693,12 @@
 ?sokka -> avatar_legends
 ?zuko -> avatar_legends
 ?tails_(sonic) -> sonic_(series)
+?tatsumaki -> one-punch_man
+?kurama_(naruto) -> naruto_(series)
+?uzumaki_himawari -> naruto_(series)
+?yamanaka_inojin -> naruto_(series)
+?hollow_ichigo_(full_hollow) -> bleach
+?chaotic_gore_magala -> monster_hunter_(series)
+?aiba_ami -> digimon
+?kuremi_kyouko -> digimon
+?terriermon -> digimon
