@@ -3369,3 +3369,16 @@
 ?voyager_(reverse:1999) -> reverse:1999
 ?kuroshio_(kancolle) -> kantai_collection
 ?bb_(fate/extra_ccc_fox_tail) -> fate_(series)
+?bond_(spy_x_family) -> spy_x_family
+?twilight_(spy_x_family) -> spy_x_family
+?yor_briar -> spy_x_family
+?hiyuki_(wuthering_waves) -> wuthering_waves
+?hissabeth -> reverse:1999
+?shiina_yukari_(grimoire) -> grimoire_~shiritsu_grimoire_mahou_gakuen~
+?lamia_godwin -> re:zero_kara_hajimeru_isekai_seikatsu
+?oboro_(kancolle) -> kantai_collection
+?zenobia_(fate) -> fate_(series)
+?norma_hollowell -> zenless_zone_zero
+?i-13_(kancolle) -> kantai_collection
+?i-14_(kancolle) -> kantai_collection
+?hatsume_mei -> boku_no_hero_academia
