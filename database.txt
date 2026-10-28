@@ -3598,3 +3598,7 @@
 ?senomiya_akiho -> science_adventure
 ?langley_(kancolle) -> kantai_collection
 ?pulchra_fellini -> zenless_zone_zero
+?justin_(grandia) -> grandia
+?puui_(grandia) -> grandia
+?sue_(grandia) -> grandia
+?ceph_(live_a_hero) -> live_a_hero
