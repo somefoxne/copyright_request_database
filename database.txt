@@ -1912,3 +1912,16 @@
 ?litwick -> pokemon
 ?rockruff -> pokemon
 ?hong_hua_(fire_emblem) -> fire_emblem
+?archeops -> pokemon
+?leaf_(pokemon) -> pokemon
+?lt._surge -> pokemon
+?miles_(pokemon) -> pokemon
+?omastar -> pokemon
+?neptune_(neptunia) -> neptune_(series)
+?glaceon -> pokemon
+?yamato_(anniversary)_(kancolle) -> kantai_collection
+?yamato_(kancolle) -> kantai_collection
+?braviary -> pokemon
+?ducklett -> pokemon
+?unfezant -> pokemon
+?araga_kiwi -> mahou_shoujo_ni_akogarete
