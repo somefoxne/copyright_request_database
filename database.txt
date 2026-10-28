@@ -3924,3 +3924,13 @@
 ?butler_(omori) -> omori
 ?petla -> kobayashi-san_chi_no_maidragon
 ?hoshimachi_suisei_(once_upon_a_stellar) -> hololive
+?asakura_maina -> hajimete_no_oisha-san
+?asakura_yuuna -> hajimete_no_oisha-san
+?mizuki_saori -> hajimete_no_orusuban
+?mizuki_shiori -> hajimete_no_orusuban
+?nishimura_konomi -> nanami_to_konomi_no_oshiete_abc
+?nishimura_nanami -> nanami_to_konomi_no_oshiete_abc
+?adaman_(pokemon) -> pokemon
+?akari_(pokemon) -> pokemon
+?amano_nene_(vtuber) -> production_kawaii
+?ruka_(cookie) -> touhou
