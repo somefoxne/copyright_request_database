@@ -1486,3 +1486,17 @@
 ?hat_kid -> a_hat_in_time
 ?if_some_one_loves_a_flower_(infinity_nikki) -> nikki_(series)
 ?the_little_prince_(infinity_nikki) -> nikki_(series)
+?dominusteer_rosepamela -> yu-gi-oh!
+?divine_heart_makina_(character) -> divine_heart_makina
+?kurusu_makina_(divine_heart_makina) -> divine_heart_makina
+?heanna_sumire -> love_live!
+?tang_keke -> love_live!
+?sarugaki_hiyori -> bleach
+?eila_ilmatar_juutilainen -> world_witches_series
+?sorara_kujirako -> indie_virtual_youtuber
+?sukuna_shinmyoumaru -> touhou
+?fujishima_megumi -> love_live!
+?yamashiro_(kancolle) -> kantai_collection
+?sakurasawa_sumi -> kanojo_okarishimasu
+?w_(ambience_synesthesia_2023)_(arknights) -> arknights
+?kachimachi_kosuzu -> love_live!
