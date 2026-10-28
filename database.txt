@@ -2938,3 +2938,10 @@
 ?tamamo_aria_(third_ascension)_(fate) -> fate_(series)
 ?yidhari_murphy -> zenless_zone_zero
 ?kaga_sumire -> vspo!
+?sigrika_(wuthering_waves) -> wuthering_waves
+?soliskin_(wuthering_waves) -> wuthering_waves
+?dark-skinned_female_warrior_(civila123) -> original
+?amatsukaze_(kancolle) -> kantai_collection
+?yelan_(genshin_impact) -> genshin_impact
+?bikini_(dragon_ball) -> dragon_ball
+?eris_greyrat_(adult) -> mushoku_tensei
