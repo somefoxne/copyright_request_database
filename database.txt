@@ -3973,3 +3973,6 @@
 ?lopi_(roco_kingdom:_world) -> roco_kingdom
 ?elza_(the_last_story) -> the_last_story
 ?isaac_(golden_sun) -> golden_sun
+?opera_(iruma-kun) -> mairimashita!_iruma-kun
+?sawatari_izumi -> kore_ga_watashi_no_goshujin-sama
+?asmodeus_alice -> mairimashita!_iruma-kun
