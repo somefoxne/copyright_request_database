@@ -1554,3 +1554,16 @@
 ?caitlyn_(league) -> league_of_legends
 ?vi_(league) -> league_of_legends
 ?kurumi_(c108_swimsuit)_(blue_archive) -> blue_archive
+?applin -> pokemon
+?satou_yaniko -> yani_neko
+?saotome_seira -> fuuki_iinchou_seira
+?osawa_rurino -> love_live!
+?julia_(the_coffin_of_andy_and_leyley) -> the_coffin_of_andy_and_leyley
+?bede_(pokemon) -> pokemon
+?bede_(sygna_suit)_(pokemon) -> pokemon
+?iron_valiant -> pokemon
+?jinguji_sayaka -> cinderella_series
+?kosaka_tsubaki -> cinderella_series
+?hydrapple -> pokemon
+?kal'tsit_(the_remains_of_time)_(arknights) -> arknights
+?bow_kid -> a_hat_in_time
