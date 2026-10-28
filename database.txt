@@ -2852,3 +2852,12 @@
 ?fami_(chainsaw_man) -> chainsaw_man
 ?cissia_(zenless_zone_zero) -> zenless_zone_zero
 ?crowe_(zenless_zone_zero) -> zenless_zone_zero
+?tobiichi_origami -> date_a_live
+?kurosawa_dia -> love_live!
+?typhlosion -> pokemon
+?murasame_reine -> date_a_live
+?hachiware_(chiikawa) -> chiikawa
+?usagi_(chiikawa) -> chiikawa
+?yakumo_beni -> vspo!
+?yumeno_akari -> vspo!
+?hoshimiya_mukuro -> date_a_live
