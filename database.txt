@@ -4016,3 +4016,11 @@
 ?pluto_(project_moon) -> project_moon
 ?tanya_(project_moon) -> project_moon
 ?hinase_(cookie) -> cookie_(touhou)
+?abrams_(deadlock) -> deadlock_(game)
+?apollo_(deadlock) -> deadlock_(game)
+?holliday_(deadlock) -> deadlock_(game)
+?infernus_(deadlock) -> deadlock_(game)
+?paradox_(deadlock) -> deadlock_(game)
+?rem_(deadlock) -> deadlock_(game)
+?wraith_(deadlock) -> deadlock_(game)
+?lebanne_(pokemon) -> pokemon
