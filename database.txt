@@ -2372,3 +2372,14 @@
 ?atori_haruto -> tasokare_hotel
 ?tsukahara_neko -> tasokare_hotel
 ?himesaki_rinami -> idolmaster
+?luo_xiaohei_(human) -> the_legend_of_luo_xiaohei
+?azul_ashengrotto_(tropical_wear) -> twisted_wonderland
+?jack_howl_(tropical_wear) -> twisted_wonderland
+?ace_trappola_(tropical_wear) -> twisted_wonderland
+?lilia_vanrouge_(tropical_wear) -> twisted_wonderland
+?stitch_(lilo_&_stitch) -> lilo_&_stitch
+?jienihuang -> the_legend_of_luo_xiaohei
+?luye_(the_legend_of_luoxiaohei) -> the_legend_of_luo_xiaohei
+?methode_(sousou_no_frieren) -> sousou_no_frieren
+?stark_(sousou_no_frieren) -> sousou_no_frieren
+?dipper_gleeful -> gravity_falls
