@@ -2327,3 +2327,12 @@
 ?mei_(honkai_impact) -> honkai_(series)
 ?su_(honkai_impact) -> honkai_(series)
 ?mistletoe_(trickcal) -> trickcal
+?chen -> touhou
+?chen_(cat) -> touhou
+?yakumo_ran -> touhou
+?asuna_(school_uniform)_(blue_archive) -> blue_archive
+?floyd_leech_(eel) -> twisted_wonderland
+?jade_leech_(eel) -> twisted_wonderland
+?mizuhashi_parsee -> touhou
+?hirasawa_yui -> k-on!
+?senko_(sewayaki_kitsune_no_senko-san) -> sewayaki_kitsune_no_senko-san
