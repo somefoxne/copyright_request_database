@@ -2526,3 +2526,8 @@
 ?matou_sakura -> fate_(series)
 ?medusa_(fate) -> fate_(series)
 ?medusa_(rider)_(fate) -> fate_(series)
+?deino_(pokemon) -> pokemon
+?belorta_(pumpkin_witch)_(nikke) -> goddess_of_victory:_nikke
+?ryoshu_(project_moon) -> project_moon
+?iura_shuu -> hori-san_to_miyamura-kun
+?sawada_honoka -> hori-san_to_miyamura-kun
