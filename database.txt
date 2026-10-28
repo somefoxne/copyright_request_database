@@ -2274,3 +2274,15 @@
 ?barie_(trickcal) -> trickcal
 ?minazuki_fuko -> grimoire_~shiritsu_grimoire_mahou_gakuen~
 ?mithril_(starward) -> starward
+?yatadera_narumi -> touhou
+?kijin_seija -> touhou
+?kaniki_(sameko_saba) -> indie_virtual_youtuber
+?nagao_kagetora_(fate) -> fate_(series)
+?uesugi_kenshin_(second_ascension)_(fate) -> fate_(series)
+?eternity_larva -> touhou
+?rally_vincent -> gunsmith_cats
+?komano_aunn -> touhou
+?hoshiguma_yuugi -> touhou
+?kagura_(gintama) -> gintama
+?shiranui_flare_(1st_costume) -> hololive
+?kujikawa_rise_(lmb_stage_outfit) -> persona
