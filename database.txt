@@ -3382,3 +3382,8 @@
 ?i-13_(kancolle) -> kantai_collection
 ?i-14_(kancolle) -> kantai_collection
 ?hatsume_mei -> boku_no_hero_academia
+?azuma_shino_(seihantai_na_kimi_to_boku) -> seihantai_na_kimi_to_boku
+?taira_shuuji -> seihantai_na_kimi_to_boku
+?mama_(cooking_mama) -> cooking_mama
+?weiss_nocte_(nk0x) -> original
+?mimi_(mezameza) -> mezametara_saikyou_soubi_to_uchuusenmochi_datta_node_ikkodate_mezashite_youhei_toshite_jiyuu_ni_ikitai
