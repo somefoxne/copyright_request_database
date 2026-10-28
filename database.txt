@@ -3577,3 +3577,10 @@
 ?ichikura_hayate -> cool_doji_danshi
 ?mima_takayuki -> cool_doji_danshi
 ?shiki_souma -> cool_doji_danshi
+?taiki_shuttle_(wild_frontier)_(umamusume) -> umamusume
+?akechi_goro -> persona
+?kiana_kaslana_(white_comet) -> honkai_(series)
+?raiden_mei_(crimson_impulse) -> honkai_(series)
+?robo-fortune -> skullgirls
+?han_juri -> street_fighter
+?june_(squeezable) -> original
