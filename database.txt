@@ -2777,3 +2777,11 @@
 ?amikawa_yuu -> saga_switch
 ?picodevimon -> digimon
 ?yuuki_kanan -> digimon
+?saegusa_akina_(4th_costume) -> nijisanji
+?tachibana_hinano -> vspo!
+?tatsumaki_chise -> vspo!
+?namipon_(wuthering_waves) -> wuthering_waves
+?sparkle_(school_uniform)_(honkai:_star_rail) -> honkai_(series)
+?eagle_spirit_(touhou) -> touhou
+?leyndell_knight -> elden_ring
+?queen_marika_the_eternal -> elden_ring
