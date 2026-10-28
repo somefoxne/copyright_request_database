@@ -2041,3 +2041,16 @@
 ?sakai_aruko -> yani_neko
 ?tatsuno_saori -> yani_neko
 ?yurufuwa_anal_tenshi_hameko -> yani_neko
+?karulau -> utawarerumono_(series)
+?naga_the_serpent -> slayers
+?sirin -> honkai_(series)
+?sirin_(miracle_magical_girl) -> honkai_(series)
+?fu_hua_(fenghuang_of_vicissitude) -> honkai_(series)
+?senadina -> honkai_(series)
+?senadina_(deepspace_anchor:_first_light) -> honkai_(series)
+?luna_(honkai_impact) -> honkai_(series)
+?jinmen-gyo_(kemono_friends) -> kemono_friends
+?seiryuu_(kemono_friends) -> kemono_friends
+?la_pluma_(summer_flowers)_(arknights) -> arknights
+?phoenix_reffaella_(the_illness_called_life) -> zenless_zone_zero
+?shiomi_kotone -> persona
