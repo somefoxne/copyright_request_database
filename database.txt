@@ -3748,3 +3748,8 @@
 ?sweetily -> indie_virtual_youtuber
 ?kohinata_ichigo -> girlfriend_(kari)
 ?hsin_(illumining_form)_(wuthering_waves) -> wuthering_waves
+?wednesday_addams -> the_addams_family
+?amiya_(young)_(arknights) -> arknights
+?ultrawoman_cellium -> original
+?kamen_rider_saikou -> kamen_rider
+?saikou_shadow -> kamen_rider
