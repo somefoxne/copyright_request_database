@@ -2424,3 +2424,9 @@
 ?nibbles -> tom_and_jerry
 ?komeiji_satori -> touhou
 ?herta_(rubert_iii)_(honkai:_star_rail) -> honkai_(series)
+?sitara -> tenmaku_no_jaadugar
+?toregene_(tenmaku_no_jaadugar) -> tenmaku_no_jaadugar
+?bloom_(winx_club) -> winx_club
+?dark_bloom_(winx_club) -> winx_club
+?lily_(duolingo) -> duolingo
+?machi_(machi0910)_(person) -> original
