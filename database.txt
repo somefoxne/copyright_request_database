@@ -1680,3 +1680,16 @@
 ?lurantis -> pokemon
 ?leavanny -> pokemon
 ?gardevoir -> pokemon
+?rimuru_tempest -> tensei_shitara_slime_datta_ken
+?rimuru_tempest_(slime) -> tensei_shitara_slime_datta_ken
+?shiragi_(nihu) -> original
+?sandshrew -> pokemon
+?skarmory -> pokemon
+?comoli_harcourt -> gundam
+?rassit -> gundam
+?mewtwo -> pokemon
+?cecilia_immergreen_(casual) -> hololive
+?gira_husty -> super_sentai
+?rcules_husty -> super_sentai
+?teruzuki_(kancolle) -> kantai_collection
+?takao_(kancolle) -> kantai_collection
