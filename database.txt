@@ -2192,3 +2192,15 @@
 ?akane_rin_(shining_idol)_(nte) -> neverness_to_everness
 ?haniel_(nte) -> neverness_to_everness
 ?gaigar -> yuusha_series
+?bill_cipher -> gravity_falls
+?bipper -> gravity_falls
+?dipper_pines -> gravity_falls
+?koshimizu_sophia -> grimoire_~shiritsu_grimoire_mahou_gakuen~
+?reisen_aoi -> grimoire_~shiritsu_grimoire_mahou_gakuen~
+?shirafuji_konoha -> grimoire_~shiritsu_grimoire_mahou_gakuen~
+?green_pippins -> utdr_(toby_fox)
+?pippins_(deltarune) -> utdr_(toby_fox)
+?ling_meixue -> balala_the_fairies
+?lilith_(mahou_shoujo_inori) -> mahou_shoujo_inori
+?olive_(funamusea) -> funamusea
+?taffy_(funamusea) -> funamusea
