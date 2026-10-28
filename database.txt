@@ -2230,3 +2230,11 @@
 ?furutani_himawari -> yuruyuri
 ?oomuro_sakurako -> yuruyuri
 ?hoshimi_miyabi -> zenless_zone_zero
+?ad_lunam_(shining_nikki) -> nikki_(series)
+?howa_kurea -> precure
+?howa_kurea_(civilian) -> precure
+?mashu-tan -> precure
+?moria_luluka_(civilian) -> precure
+?shushu-tan -> precure
+?yukishiro_honoka -> precure
+?ayanami_(niconico)_(azur_lane) -> azur_lane
