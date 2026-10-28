@@ -3006,3 +3006,10 @@
 ?kuma_(valentine)_(kancolle) -> kantai_collection
 ?kouki_(seitokai_ni_mo_ana_wa_aru!) -> original
 ?ouzuka_mai -> watashi_ga_koibito_ni_nareru_wake_naijan_murimuri!
+?rivier_(kuzuyu) -> original
+?thorns_(comodo)_(arknights) -> arknights
+?phoebe_(pokemon) -> pokemon
+?sumita_kanae -> byousoku_5_centimeter
+?courtney_(pokemon) -> pokemon
+?segawa_onpu -> ojamajo_doremi
+?meltryllis_(swimsuit_lancer)_(second_ascension)_(fate) -> fate_(series)
