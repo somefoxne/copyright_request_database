@@ -1693,3 +1693,6 @@
 ?rcules_husty -> super_sentai
 ?teruzuki_(kancolle) -> kantai_collection
 ?takao_(kancolle) -> kantai_collection
+?producer_(idolmaster) -> idolmaster
+?erika_la_etienne -> kourin_tenshi_en_ciel_rena
+?tounji_akane -> nyanko_daisensou
