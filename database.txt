@@ -3182,3 +3182,14 @@
 ?kousaka_umi -> idolmaster
 ?mokota_mememe -> .live
 ?ralsei_(hat) -> utdr_(toby_fox)
+?kumi_(harpy)_(vtuber) -> indie_virtual_youtuber
+?kumi_(vtuber) -> indie_virtual_youtuber
+?zafina_(tekken) -> tekken
+?higuchi_madoka -> idolmaster
+?asa_(yomi_no_tsugai) -> yomi_no_tsugai
+?yomi_quinnley -> socks_agency
+?lily_(wuthering_waves) -> wuthering_waves
+?mega_absol -> pokemon
+?mega_absol_z -> pokemon
+?zentreya -> vshojo
+?yuki(kurogami_fuyuki) -> original
