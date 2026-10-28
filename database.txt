@@ -2244,3 +2244,7 @@
 ?mizunoe_ume -> seitokai_ni_mo_ana_wa_aru!
 ?luciana_de_montefio -> zenless_zone_zero
 ?luciana_de_montefio_(princess_on_holiday) -> zenless_zone_zero
+?irys_(hololive) -> hololive
+?irys_(maid)_(hololive) -> hololive
+?kaname_madoka_(magical_girl) -> mahou_shoujo_madoka_magica
+?kyubey -> mahou_shoujo_madoka_magica
