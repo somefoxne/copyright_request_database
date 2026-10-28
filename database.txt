@@ -1969,3 +1969,17 @@
 ?matikanefukukitaru_(rising_fortune)_(umamusume) -> umamusume
 ?t-head_trainer_(umamusume) -> umamusume
 ?kazagumo_(kancolle) -> kantai_collection
+?fu_hua -> honkai_(series)
+?fu_hua_(crane_of_taixuan) -> honkai_(series)
+?li_sushang -> honkai_(series)
+?li_sushang_(jade_knight) -> honkai_(series)
+?raiden_mei -> honkai_(series)
+?raiden_mei_(herrscher_of_thunder) -> honkai_(series)
+?griseo_(maroon_riding_hood) -> honkai_(series)
+?kisara_(loungewear)_(nijisanji) -> nijisanji
+?colorado_(kancolle) -> kantai_collection
+?ohana_(andou_you) -> original
+?kris_(pokemon) -> pokemon
+?kris_(sygna_suit)_(pokemon) -> pokemon
+?suicune -> pokemon
+?scarlet_(goddeath)_(nikke) -> goddess_of_victory:_nikke
