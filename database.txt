@@ -2785,3 +2785,11 @@
 ?eagle_spirit_(touhou) -> touhou
 ?leyndell_knight -> elden_ring
 ?queen_marika_the_eternal -> elden_ring
+?unohana_retsu -> bleach
+?yamada_hanatarou -> bleach
+?aisha_greyrat -> mushoku_tensei
+?brown_hair-onesan_(ramchi) -> original
+?evelynn_(league) -> league_of_legends
+?k/da_evelynn -> league_of_legends
+?wise_(oath_of_skies)_(zenless_zone_zero) -> zenless_zone_zero
+?shaka_(streamer) -> real_life
