@@ -2465,3 +2465,12 @@
 ?kagehira_mika -> ensemble_stars!
 ?mademoiselle_(ensemble_stars!) -> ensemble_stars!
 ?st._louis_(luxurious_wheels)_(azur_lane) -> azur_lane
+?ichinose_uruha -> vspo!
+?ichinose_uruha_(6th_costume) -> vspo!
+?houjuu_nue -> touhou
+?roland_(project_moon) -> project_moon
+?nozomi_(kujibikido)_(blue_archive) -> blue_archive
+?employee_(project_moon) -> project_moon
+?nugget_(project_moon) -> project_moon
+?process_of_understanding_(project_moon) -> project_moon
+?cerydra_(honkai:_star_rail) -> honkai_(series)
