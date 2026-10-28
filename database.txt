@@ -2257,3 +2257,12 @@
 ?lohen_(genshin_impact) -> genshin_impact
 ?diana_(trickcal) -> trickcal
 ?lusamine_(pokemon) -> pokemon
+?law_(sdorica) -> sdorica
+?yao_(sdorica) -> sdorica
+?kujikawa_rise -> persona
+?takamaki_ann_(ball_stage) -> persona
+?takeba_yukari_(ball_stage) -> persona
+?aioi_yuuko -> nichijou
+?minakami_mai -> nichijou
+?cinderella_(glass_princess)_(nikke) -> goddess_of_victory:_nikke
+?pink_argus -> persona
