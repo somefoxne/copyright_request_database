@@ -3823,3 +3823,8 @@
 ?godsworn_alexiel -> granblue_fantasy
 ?luchador_(granblue_fantasy) -> granblue_fantasy
 ?label_girl_(dipp) -> touhou
+?uzumaki_kushina -> naruto_(series)
+?dulcinea_(project_moon) -> project_moon
+?iris_(layla) -> layla_(game)
+?layla_(character) -> layla_(game)
+?tenten_(naruto) -> naruto_(series)
