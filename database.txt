@@ -3812,3 +3812,14 @@
 ?captain_(honkai_impact) -> honkai_(series)
 ?megumin -> kono_subarashii_sekai_ni_shukufuku_wo!
 ?angelica_(project_moon) -> project_moon
+?xion_(trickcal) -> trickcal
+?qiguo_(the_legend_of_luoxiaohei) -> the_legend_of_luo_xiaohei
+?cecilia_immergreen_(1st_costume) -> hololive
+?max_verstappen -> formula_one
+?ner_(private_lesson_picnic)_(trickcal) -> trickcal
+?oma_kokichi -> danganronpa_(series)
+?sunday_silence_(racehorse) -> umamusume
+?djeeta_(granblue_fantasy) -> granblue_fantasy
+?godsworn_alexiel -> granblue_fantasy
+?luchador_(granblue_fantasy) -> granblue_fantasy
+?label_girl_(dipp) -> touhou
