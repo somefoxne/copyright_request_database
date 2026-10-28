@@ -3896,3 +3896,8 @@
 ?mayo_(trickcal) -> trickcal
 ?irene_(zelda) -> the_legend_of_zelda
 ?nano_(nanoless) -> indie_virtual_youtuber
+?sachiko_(roku_no_okashi_na_ie) -> roku_no_okashi_na_ie
+?clover_(totally_spies!) -> totally_spies!
+?megaliul_(cookie) -> touhou
+?noel_(cookie) -> touhou
+?satono_crown_(casual)_(umamusume) -> umamusume
