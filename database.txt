@@ -2799,3 +2799,7 @@
 ?kamen_rider_wizard -> kamen_rider
 ?kamen_rider_wizard_(flame_style) -> kamen_rider
 ?yorita_yoshino -> idolmaster
+?midna -> the_legend_of_zelda
+?fujishima_megumi_(winter_casual) -> love_live!
+?otomune_kozue_(winter_casual) -> love_live!
+?nabatame_haru -> shine_post
