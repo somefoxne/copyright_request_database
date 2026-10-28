@@ -3687,3 +3687,9 @@
 ?kirihara_akaya -> tennis_no_ouji-sama
 ?langley_(path_to_nowhere) -> path_to_nowhere
 ?megatherium_(kemono_friends) -> kemono_friends
+?unohana_yachiru -> bleach
+?vinum_(succubus_prison) -> succubus_prison
+?rumi_(kpop_demon_hunters) -> kpop_demon_hunters
+?sokka -> avatar_legends
+?zuko -> avatar_legends
+?tails_(sonic) -> sonic_(series)
