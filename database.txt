@@ -2904,3 +2904,7 @@
 ?jiko_mujun -> cookie_(touhou)
 ?yuyusu_(cookie) -> cookie_(touhou)
 ?adina_savic -> black_survival
+?olivia_park -> knights_of_guinevere
+?gyarados -> pokemon
+?la+_darknesss -> hololive
+?peashooter_(plants_vs._zombies) -> plants_vs._zombies
