@@ -3772,3 +3772,9 @@
 ?stylist_(nikki) -> nikki_(series)
 ?hanakura_ayame -> ninja_defenders:_cat_shinobi
 ?mem_(honkai:_star_rail) -> honkai_(series)
+?female_robin_(grima)_(fire_emblem) -> fire_emblem
+?female_robin_(grima)_(halloween)_(fire_emblem) -> fire_emblem
+?nivi_(sunset_nivaris) -> original
+?lygus_(honkai:_star_rail) -> honkai_(series)
+?polka_kakamond -> honkai_(series)
+?zandar_one_kuwabara -> honkai_(series)
