@@ -2672,3 +2672,15 @@
 ?layla_(genshin_impact) -> genshin_impact
 ?exusiai_(city_rider)_(arknights) -> arknights
 ?julia_barnes -> muv-luv
+?dracky -> dragon_quest
+?komodo_(dragon_quest) -> dragon_quest
+?minidemon -> dragon_quest
+?terry_(dq6) -> dragon_quest
+?morisawa_chiaki -> ensemble_stars!
+?shinkai_kanata -> ensemble_stars!
+?dimitri_alexandre_blaiddyd -> fire_emblem
+?dimitri_alexandre_blaiddyd_(timeskip) -> fire_emblem
+?female_byleth_(awakened)_(fire_emblem) -> fire_emblem
+?female_byleth_(fire_emblem) -> fire_emblem
+?byakko_(ishigami_nozomi) -> nijisanji
+?junko_(touhou) -> touhou
