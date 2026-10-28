@@ -3602,3 +3602,9 @@
 ?puui_(grandia) -> grandia
 ?sue_(grandia) -> grandia
 ?ceph_(live_a_hero) -> live_a_hero
+?rakka_(haibane_renmei) -> haibane_renmei
+?ace_trainer_(pokemon) -> pokemon
+?diglett -> pokemon
+?reki_(haibane_renmei) -> haibane_renmei
+?fuwa_isamu -> kamen_rider
+?shiori_novella -> hololive
