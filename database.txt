@@ -3722,3 +3722,9 @@
 ?victor_von_gerdenheim -> darkstalkers
 ?popstar_ahri -> league_of_legends
 ?cynthia_(pokemon) -> pokemon
+?watatsuki_no_yorihime -> touhou
+?chrom_(fire_emblem) -> fire_emblem
+?female_robin_(fire_emblem) -> fire_emblem
+?lucina_(fire_emblem) -> fire_emblem
+?male_morgan_(fire_emblem) -> fire_emblem
+?transcend_(zoku-zoku_gizmo)_(umamusume) -> umamusume
