@@ -3266,3 +3266,16 @@
 ?usada_hikaru -> di_gi_charat
 ?noin_(phantasy_star) -> phantasy_star
 ?shiranui_(kancolle) -> kantai_collection
+?yoshinaga_koi -> slow_loop
+?pechika_(mahoiku) -> mahou_shoujo_ikusei_keikaku
+?t'au -> warhammer_40k
+?kiana_kaslana_(herrscher_of_flamescion) -> honkai_(series)
+?houjou_satoko -> higurashi_no_naku_koro_ni
+?kiana_kaslana_(herrscher_of_finality) -> honkai_(series)
+?miyako_(swimsuit)_(blue_archive) -> blue_archive
+?miyu_(swimsuit)_(blue_archive) -> blue_archive
+?moe_(swimsuit)_(blue_archive) -> blue_archive
+?thunder-general_adelheid -> mahou_shoujo_ikusei_keikaku
+?larcei_(fire_emblem) -> fire_emblem
+?seliph_(fire_emblem) -> fire_emblem
+?draco_malfoy -> wizarding_world
