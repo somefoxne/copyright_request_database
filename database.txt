@@ -1718,3 +1718,17 @@
 ?nazuka_(stella_sora) -> stella_sora
 ?snorunt -> pokemon
 ?allial_(coefont) -> coefont
+?yae_sakura -> honkai_(series)
+?yae_sakura_(goushinnso_memento) -> honkai_(series)
+?ceres_fauna -> hololive
+?ceres_fauna_(goth) -> hololive
+?jeramie_idmonarak_ne_brasieri -> super_sentai
+?machina_kunagiri -> final_fantasy
+?moogle -> final_fantasy
+?rem_tokimiya -> final_fantasy
+?magical_mirai_miku_(2017) -> vocaloid
+?lola_bunny -> looney_tunes
+?power_girl -> dc_comics
+?doujima_nanako -> persona
+?doujima_ryoutarou -> persona
+?komari_chika -> make_heroine_ga_oo_sugiru!
