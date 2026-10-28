@@ -2577,3 +2577,12 @@
 ?jinshi_(kusuriya_no_hitorigoto) -> kusuriya_no_hitorigoto
 ?altina_orion -> eiyuu_densetsu
 ?millium_orion -> eiyuu_densetsu
+?bernina_(stella_sora) -> stella_sora
+?mia_(fire_emblem) -> fire_emblem
+?hoshino_(first_year)_(blue_archive) -> blue_archive
+?daiyousei -> touhou
+?clorinde_(genshin_impact) -> genshin_impact
+?wriothesley_(genshin_impact) -> genshin_impact
+?sakura_kyoko_(magical_girl) -> mahou_shoujo_madoka_magica
+?farina_(fire_emblem) -> fire_emblem
+?asumi_sena -> vspo!
