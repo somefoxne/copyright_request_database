@@ -3753,3 +3753,16 @@
 ?ultrawoman_cellium -> original
 ?kamen_rider_saikou -> kamen_rider
 ?saikou_shadow -> kamen_rider
+?vienna_(vtuber) -> indie_virtual_youtuber
+?lenore_(shining_nikki) -> nikki_(series)
+?hinawa_shizuku -> ninja_defenders:_cat_shinobi
+?hino_reona -> ninja_defenders:_cat_shinobi
+?kaminari_mei -> ninja_defenders:_cat_shinobi
+?onikasa_chico -> ninja_defenders:_cat_shinobi
+?sunaoka_nene -> ninja_defenders:_cat_shinobi
+?yonaha_july -> ninja_defenders:_cat_shinobi
+?yozakura_enma -> ninja_defenders:_cat_shinobi
+?limealicious -> vinesauce
+?velouria_(fire_emblem) -> fire_emblem
+?cerber_(vtuber) -> indie_virtual_youtuber
+?vividly_vivi -> indie_virtual_youtuber
