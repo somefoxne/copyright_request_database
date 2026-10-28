@@ -3644,3 +3644,13 @@
 ?mamonir_(miracle_marine)_(brown_dust) -> brown_dust_(series)
 ?miyagi_shiori -> shuuniichido_classmate_wo_kau_hanashi
 ?sendai_hazuki -> shuuniichido_classmate_wo_kau_hanashi
+?akizuki_(kancolle) -> kantai_collection
+?akizuki_(saury_festival)_(kancolle) -> kantai_collection
+?zen'in_maki -> jujutsu_kaisen
+?zen'in_maki_(post-shibuya) -> jujutsu_kaisen
+?bandersnatch_(black_souls) -> black_souls
+?ruri_lapisl -> indie_virtual_youtuber
+?yuzuki_yukari_(nagi) -> voiceroid
+?janus_(kancolle) -> kantai_collection
+?crimson_viper_(sf6_outfit_4) -> street_fighter
+?conte_di_cavour_(kancolle) -> kantai_collection
