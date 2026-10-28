@@ -3828,3 +3828,10 @@
 ?iris_(layla) -> layla_(game)
 ?layla_(character) -> layla_(game)
 ?tenten_(naruto) -> naruto_(series)
+?togepi -> pokemon
+?hitch_dreyse -> shingeki_no_kyojin
+?5-volt -> warioware
+?octoling_girl -> splatoon_(series)
+?octoling_player_character -> splatoon_(series)
+?selene_(pokemon) -> pokemon
+?maka_albarn -> soul_eater
