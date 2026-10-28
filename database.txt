@@ -2341,3 +2341,7 @@
 ?leader_(trickcal) -> trickcal
 ?coco's_mother_(tongari_boushi_no_atelier) -> tongari_boushi_no_atelier
 ?yusa_kozue -> idolmaster
+?natsume_souichirou -> sekai_metsubou_kyouyuu_gensou_mamiya
+?suou_keito -> sekai_metsubou_kyouyuu_gensou_mamiya
+?flandre_(azur_lane) -> azur_lane
+?olivia_rodrigo -> real_life
