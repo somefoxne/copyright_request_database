@@ -3013,3 +3013,14 @@
 ?courtney_(pokemon) -> pokemon
 ?segawa_onpu -> ojamajo_doremi
 ?meltryllis_(swimsuit_lancer)_(second_ascension)_(fate) -> fate_(series)
+?fusou_neon_(tsuruse) -> original
+?galbrena_(wuthering_waves) -> wuthering_waves
+?echo_ex_lantern -> mahou_shoujo_ikusei_keikaku
+?king_boo -> mario_(series)
+?king_k._rool -> donkey_kong_(series)
+?pauline_(nintendo) -> mario_(series)
+?warupeach -> mario_(series)
+?kanae_(tsukiman) -> original
+?yuki_setsuna -> love_live!
+?sucy_manbavaran -> little_witch_academia
+?kurageu_roa -> indie_virtual_youtuber
