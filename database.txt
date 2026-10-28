@@ -2510,3 +2510,4 @@
 ?sekibanki -> touhou
 ?ibaraki_douji_(touhou) -> touhou
 ?ibaraki_kasen -> touhou
+?wriggle_nightbug -> touhou
