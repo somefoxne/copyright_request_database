@@ -2618,3 +2618,13 @@
 ?green_(pokemon) -> pokemon
 ?ivysaur -> pokemon
 ?merkuriy_(azur_lane) -> azur_lane
+?kasaki_nozomi -> hibike!_euphonium
+?yoroizuka_mizore -> hibike!_euphonium
+?biker_rosalina -> mario_(series)
+?hiei_(kancolle) -> kantai_collection
+?hiei_kai_ni_(kancolle) -> kantai_collection
+?kongou_(kancolle) -> kantai_collection
+?kongou_kai_ni_(kancolle) -> kantai_collection
+?castorice_(gossamer_flutter)_(honkai:_star_rail) -> honkai_(series)
+?castorice_(honkai:_star_rail) -> honkai_(series)
+?hyacine_(warm_cotton_skies)_(honkai:_star_rail) -> honkai_(series)
