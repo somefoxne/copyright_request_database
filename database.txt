@@ -4152,3 +4152,14 @@
 ?wizard_(ragnarok_online) -> ragnarok_online
 ?kalla_(fire_emblem) -> fire_emblem
 ?mu_ogosto -> fire_emblem
+?alcina_dimitrescu -> resident_evil
+?theodore_(persona) -> persona
+?toudou_naoya -> persona
+?organikk -> utdr_(toby_fox)
+?wicabel_(deltarune) -> utdr_(toby_fox)
+?winglade_(deltarune) -> utdr_(toby_fox)
+?male_esper_zero_(cloudless_summer)_(nte) -> neverness_to_everness
+?male_esper_zero_(nte) -> neverness_to_everness
+?mint_(nte) -> neverness_to_everness
+?kinuhata_saiai -> toaru_majutsu_no_index
+?yamato_(one_piece) -> one_piece
