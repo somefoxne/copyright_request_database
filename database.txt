@@ -3634,3 +3634,13 @@
 ?ra-class_destroyer -> kantai_collection
 ?etna_(disgaea) -> disgaea
 ?rie-chan -> bemani
+?mu-class_light_cruiser -> kantai_collection
+?dodo_(black_souls) -> black_souls
+?alchevic_(vtuber) -> indie_virtual_youtuber
+?serizawa_asahi -> idolmaster
+?yuudachi_(kancolle) -> kantai_collection
+?yuudachi_kai_ni_(kancolle) -> kantai_collection
+?mamonir_(brown_dust) -> brown_dust_(series)
+?mamonir_(miracle_marine)_(brown_dust) -> brown_dust_(series)
+?miyagi_shiori -> shuuniichido_classmate_wo_kau_hanashi
+?sendai_hazuki -> shuuniichido_classmate_wo_kau_hanashi
