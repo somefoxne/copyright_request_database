@@ -3090,3 +3090,14 @@
 ?elly_(touhou) -> touhou
 ?kazami_yuuka_(pc-98) -> touhou
 ?natori_sana_(school_uniform) -> sana_channel
+?saelind_(nk0x) -> original
+?young_asyrun_(nk0x) -> original
+?cure_mystique -> precure
+?quilava -> pokemon
+?suisui_(wuthering_waves) -> wuthering_waves
+?shyrei_faolan -> indie_virtual_youtuber
+?yuzuriha_kotoko -> milgram
+?i-58_(kancolle) -> kantai_collection
+?ishigami_nozomi_(1st_costume) -> nijisanji
+?ishigami_nozomi_(school_uniform) -> nijisanji
+?tokisaki_mio_(niliu_chahui) -> original
