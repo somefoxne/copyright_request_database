@@ -4144,3 +4144,11 @@
 ?regina_(dino_crisis) -> dino_crisis
 ?kuroi_nanako -> lucky_star
 ?limealicious_(1st_costume) -> vinesauce
+?shanghai_doll -> touhou
+?yuuhi_(cookie) -> cookie_(touhou)
+?akazawa_yoshiroh -> tennis_no_ouji-sama
+?nezha_(fire_emblem) -> fire_emblem
+?ace_trainer_(female)_(pokemon_bw) -> pokemon
+?wizard_(ragnarok_online) -> ragnarok_online
+?kalla_(fire_emblem) -> fire_emblem
+?mu_ogosto -> fire_emblem
