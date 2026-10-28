@@ -3864,3 +3864,7 @@
 ?the_red_shoes_(project_moon) -> project_moon
 ?jia_xichun_(project_moon) -> project_moon
 ?zigong_(project_moon) -> project_moon
+?yunyun_(konosuba) -> kono_subarashii_sekai_ni_shukufuku_wo!
+?tanya_degurechaff -> youjo_senki
+?pekomama -> hololive
+?mako_(vuxer) -> original
