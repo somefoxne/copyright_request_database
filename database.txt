@@ -2451,3 +2451,13 @@
 ?eurasian_eagle_owl_(kemono_friends) -> kemono_friends
 ?jade_curtiss -> tales_of_(series)
 ?prinz_rupprecht_(azur_lane) -> azur_lane
+?teru_(astral_party) -> astral_party
+?spell_del_fin_(duel_masters) -> duel_masters
+?nous_(honkai:_star_rail) -> honkai_(series)
+?albus_dumbledore -> wizarding_world
+?lucius_malfoy -> wizarding_world
+?konata_(kankin_jk) -> mishiranu_joshikousei_ni_kankin_sareta_mangaka_no_hanashi
+?chingling -> pokemon
+?ho-oh -> pokemon
+?larvitar -> pokemon
+?wurmple -> pokemon
