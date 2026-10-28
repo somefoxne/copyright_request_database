@@ -2440,3 +2440,14 @@
 ?erlking_heathcliff_(project_moon) -> project_moon
 ?every_catherine_(project_moon) -> project_moon
 ?barbas_(the_elder_scrolls) -> the_elder_scrolls
+?female_dreamseeker_(herrscher_of_time)_(honkai_impact) -> honkai_(series)
+?female_dreamseeker_(honkai_impact) -> honkai_(series)
+?leylah_(honkai_impact) -> honkai_(series)
+?nishikino_maki -> love_live!
+?ormrinn_langi_(azur_lane) -> azur_lane
+?natalia_luzu_kimlasca_lanvaldear -> tales_of_(series)
+?lunasa_prismriver -> touhou
+?lyrica_prismriver -> touhou
+?eurasian_eagle_owl_(kemono_friends) -> kemono_friends
+?jade_curtiss -> tales_of_(series)
+?prinz_rupprecht_(azur_lane) -> azur_lane
