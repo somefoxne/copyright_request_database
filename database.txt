@@ -2421,3 +2421,6 @@
 ?imai_lisa -> bang_dream!
 ?minato_yukina -> bang_dream!
 ?yomiko_readman -> read_or_die
+?nibbles -> tom_and_jerry
+?komeiji_satori -> touhou
+?herta_(rubert_iii)_(honkai:_star_rail) -> honkai_(series)
