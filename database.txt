@@ -3439,3 +3439,9 @@
 ?jason_todd -> dc_comics
 ?red_hood_(dc) -> dc_comics
 ?shihouin_yoruichi_(innersuit)_(sennen_kessen-hen) -> bleach
+?zhao_(zenless_zone_zero) -> zenless_zone_zero
+?aoba_moca -> bang_dream!
+?mitake_ran -> bang_dream!
+?blade_(honkai:_star_rail) -> honkai_(series)
+?banyue_(zenless_zone_zero) -> zenless_zone_zero
+?shedinja -> pokemon
