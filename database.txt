@@ -3584,3 +3584,12 @@
 ?robo-fortune -> skullgirls
 ?han_juri -> street_fighter
 ?june_(squeezable) -> original
+?jintsuu_(kancolle) -> kantai_collection
+?naka_(kancolle) -> kantai_collection
+?sendai_(kancolle) -> kantai_collection
+?shouhou_(kancolle) -> kantai_collection
+?sora_(project_moon) -> project_moon
+?himeko_(honkai:_star_rail) -> honkai_(series)
+?regina_george -> mean_girls
+?suigintou -> rozen_maiden
+?sancho_(project_moon) -> project_moon
