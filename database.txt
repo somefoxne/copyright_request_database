@@ -1442,3 +1442,17 @@
 ?greninja -> pokemon
 ?elie_macdowell -> eiyuu_densetsu
 ?lloyd_bannings -> eiyuu_densetsu
+?dokibird -> indie_virtual_youtuber
+?dokibird_(pajamas) -> indie_virtual_youtuber
+?mint_fantome_(summer) -> densetsu.exe
+?shiraishi_an -> project_sekai
+?spewpa -> pokemon
+?domon_kasshu -> gundam
+?rain_mikamura -> gundam
+?scatterbug -> pokemon
+?marie_(alterna)_(splatoon) -> splatoon_(series)
+?marie_(splatoon) -> splatoon_(series)
+?talonflame -> pokemon
+?callie_(alterna)_(splatoon) -> splatoon_(series)
+?callie_(splatoon) -> splatoon_(series)
+?shiki_eiki -> touhou
