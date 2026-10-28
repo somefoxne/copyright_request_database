@@ -3839,3 +3839,11 @@
 ?jumpluff -> pokemon
 ?skiploom -> pokemon
 ?creeper -> minecraft
+?kindred_(league) -> league_of_legends
+?lamb_(league) -> league_of_legends
+?wolf_(league) -> league_of_legends
+?kousaka_reina -> hibike!_euphonium
+?oumae_kumiko -> hibike!_euphonium
+?luna_snow -> marvel
+?peonia_(pokemon) -> pokemon
+?managashi_tora_(rggr) -> original
