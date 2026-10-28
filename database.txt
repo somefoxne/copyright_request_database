@@ -3101,3 +3101,15 @@
 ?ishigami_nozomi_(1st_costume) -> nijisanji
 ?ishigami_nozomi_(school_uniform) -> nijisanji
 ?tokisaki_mio_(niliu_chahui) -> original
+?astraia_tor_deikun -> gundam
+?qingxiao_(wuthering_waves) -> wuthering_waves
+?tairitsu_(arcaea) -> arcaea
+?tairitsu_(grievous_lady)_(arcaea) -> arcaea
+?cranberry_(mahoiku) -> mahou_shoujo_ikusei_keikaku
+?shirakami_fubuki_(loungewear) -> hololive
+?mochi_(touhou) -> touhou
+?kyouno_natsumi -> date_a_live
+?skadi_the_corrupting_heart_(sublimation)_(arknights) -> arknights
+?tali'zorah -> mass_effect_(series)
+?casval_rem_deikun -> gundam
+?zeon_zum_deikun -> gundam
