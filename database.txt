@@ -2286,3 +2286,6 @@
 ?kagura_(gintama) -> gintama
 ?shiranui_flare_(1st_costume) -> hololive
 ?kujikawa_rise_(lmb_stage_outfit) -> persona
+?konpaku_youmu_(mysterious_sword_master) -> touhou
+?erika_(pokemon) -> pokemon
+?sabrina_(pokemon) -> pokemon
