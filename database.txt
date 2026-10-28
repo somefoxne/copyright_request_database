@@ -4130,3 +4130,10 @@
 ?fukurai_azami -> toshi_densetsu_kaitai_center
 ?jasmine_(toshi_densetsu_kaitai_center) -> toshi_densetsu_kaitai_center
 ?meguriya_ayumu -> toshi_densetsu_kaitai_center
+?loretta_(fire_emblem) -> fire_emblem
+?ultand_serowain -> fire_emblem
+?meg_(wakamepiza) -> original
+?hajino_yura -> chain_paradox
+?kid_buu -> dragon_ball
+?natsume_ai -> sakura_no_uta
+?princess_leia -> star_wars
