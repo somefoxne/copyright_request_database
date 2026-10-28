@@ -2475,3 +2475,12 @@
 ?process_of_understanding_(project_moon) -> project_moon
 ?cerydra_(honkai:_star_rail) -> honkai_(series)
 ?mother_(yoru_mac) -> yoru_mac
+?kashima_(kancolle) -> kantai_collection
+?aang -> avatar_legends
+?katara -> avatar_legends
+?cipactli_(housamo) -> tokyo_afterschool_summoners
+?michigami_nareko -> touhou
+?lango_stomach -> kamen_rider
+?nyelv_stomach -> kamen_rider
+?suga_kenzo -> kamen_rider
+?xiaolong_(another_eidos) -> another_eidos-r
