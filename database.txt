@@ -1344,3 +1344,6 @@
 ?kinjo_maika -> love_live!
 ?kinako_(40hara) -> original
 ?artoria_pendragon_(lancer_alter)_(fate) -> fate_(series)
+?nanashi_mumei -> hololive
+?kuroki_tomoko -> watashi_ga_motenai_no_wa_dou_kangaetemo_omaera_ga_warui!
+?more_more_jump!_miku -> vocaloid
