@@ -3387,3 +3387,15 @@
 ?mama_(cooking_mama) -> cooking_mama
 ?weiss_nocte_(nk0x) -> original
 ?mimi_(mezameza) -> mezametara_saikyou_soubi_to_uchuusenmochi_datta_node_ikkodate_mezashite_youhei_toshite_jiyuu_ni_ikitai
+?amamiya_kokoro_(1st_costume) -> nijisanji
+?mega_venusaur -> pokemon
+?hannelore_(honzuki_no_gekokujou) -> honzuki_no_gekokujou
+?blastoise -> pokemon
+?mega_blastoise -> pokemon
+?bernadetta_von_varley_(wary_badger) -> fire_emblem
+?oyama_mahiro -> onii-chan_wa_oshimai!
+?osage_(nukunuku_nigirimeshi) -> inabakumori
+?mimi_evernight -> phase_connect
+?lucifer_(gundam) -> gundam
+?fire_keeper -> dark_souls_(series)
+?windsong_(reverse:1999) -> reverse:1999
