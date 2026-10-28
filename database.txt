@@ -2612,3 +2612,9 @@
 ?piplup -> pokemon
 ?gold_ship_(red_strife)_(umamusume) -> umamusume
 ?air_shakur_(unsigned)_(umamusume) -> umamusume
+?narita_top_road_(manpuku_ryutouden:_top)_(umamusume) -> umamusume
+?t.m._opera_o_(new_year_same_radiance!)_(umamusume) -> umamusume
+?cyrene_(philia093)_(honkai:_star_rail) -> honkai_(series)
+?green_(pokemon) -> pokemon
+?ivysaur -> pokemon
+?merkuriy_(azur_lane) -> azur_lane
