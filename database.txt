@@ -3766,3 +3766,9 @@
 ?velouria_(fire_emblem) -> fire_emblem
 ?cerber_(vtuber) -> indie_virtual_youtuber
 ?vividly_vivi -> indie_virtual_youtuber
+?chiori_(genshin_impact) -> genshin_impact
+?lee_roha_(1st_costume) -> nijisanji
+?black-haired_stylist_(shining_nikki) -> nikki_(series)
+?stylist_(nikki) -> nikki_(series)
+?hanakura_ayame -> ninja_defenders:_cat_shinobi
+?mem_(honkai:_star_rail) -> honkai_(series)
