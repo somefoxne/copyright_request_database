@@ -2694,3 +2694,15 @@
 ?gladion_(pokemon) -> pokemon
 ?silver_(pokemon) -> pokemon
 ?klara_(pokemon) -> pokemon
+?liz_(kmnz) -> kmnz
+?arkose_(ff14) -> final_fantasy
+?akiyama_yukari -> girls_und_panzer
+?starscream -> transformers
+?starscream_(kotobukiya_bishoujo) -> transformers
+?iizunamaru_megumu -> touhou
+?nero_(kmnz) -> kmnz
+?emma_(yakusoku_no_neverland) -> yakusoku_no_neverland
+?spheal -> pokemon
+?wakatsuki_nico -> witch_watch
+?tina_(kmnz) -> kmnz
+?magikarp -> pokemon
