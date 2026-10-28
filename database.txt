@@ -3847,3 +3847,11 @@
 ?luna_snow -> marvel
 ?peonia_(pokemon) -> pokemon
 ?managashi_tora_(rggr) -> original
+?momiji_(hanamaru) -> hanamaru!
+?kino_makoto -> bishoujo_senshi_sailor_moon
+?sailor_jupiter -> bishoujo_senshi_sailor_moon
+?protagonist_(love_and_deepspace) -> love_and_deepspace
+?rafayel_(love_and_deepspace) -> love_and_deepspace
+?ryouna_(senran_kagura) -> senran_kagura
+?sata_nakia -> indie_virtual_youtuber
+?yomi_(trickcal) -> trickcal
