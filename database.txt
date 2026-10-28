@@ -1747,3 +1747,11 @@
 ?eiko_carol -> final_fantasy
 ?garnet_til_alexandros_xvii -> final_fantasy
 ?mobius_(pre-surgery)_(honkai_impact) -> honkai_(series)
+?rex_(ace_combat) -> ace_combat
+?sakurauchi_riko -> love_live!
+?takami_chika -> love_live!
+?watanabe_you -> love_live!
+?tribios_(honkai:_star_rail) -> honkai_(series)
+?takamaki_ann -> persona
+?l_(death_note) -> death_note
+?yagami_light -> death_note
