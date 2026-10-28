@@ -2365,3 +2365,9 @@
 ?red_hood_(black_souls) -> black_souls
 ?jessie_(cyberpunk:_edgerunners_2) -> cyberpunk_(series)
 ?ibuki_(swimsuit)_(blue_archive) -> blue_archive
+?kylar_(female)_(degrees_of_lewdity) -> degrees_of_lewdity
+?player_character_(degrees_of_lewdity) -> degrees_of_lewdity
+?player_character_(male)_(degrees_of_lewdity) -> degrees_of_lewdity
+?sailor_venus -> bishoujo_senshi_sailor_moon
+?atori_haruto -> tasokare_hotel
+?tsukahara_neko -> tasokare_hotel
