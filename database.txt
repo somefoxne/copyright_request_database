@@ -2571,3 +2571,9 @@
 ?yoshizawa_kasumi -> persona
 ?canari_(pokemon) -> pokemon
 ?haruka_(casual)_(arknights) -> arknights
+?zani_(wuthering_waves) -> wuthering_waves
+?dark_magician_girl -> yu-gi-oh!
+?little_red_riding_hood_(fairy_tale_character) -> little_red_riding_hood_(fairy_tale)
+?jinshi_(kusuriya_no_hitorigoto) -> kusuriya_no_hitorigoto
+?altina_orion -> eiyuu_densetsu
+?millium_orion -> eiyuu_densetsu
