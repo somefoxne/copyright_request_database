@@ -2861,3 +2861,14 @@
 ?yakumo_beni -> vspo!
 ?yumeno_akari -> vspo!
 ?hoshimiya_mukuro -> date_a_live
+?lady_maria_of_the_astral_clocktower -> bloodborne
+?marina_(hypixel) -> hypixel_skyblock
+?shunga_youkyu -> touhou
+?star_sapphire -> touhou
+?akeuraji_tsukasa -> medalist_(manga)
+?yodaka_jun -> medalist_(manga)
+?yatogami_tohka -> date_a_live
+?takamiya_mio -> date_a_live
+?marceline_abadeer -> adventure_time
+?kosaka_honoka's_mother -> love_live!
+?minami_kotori's_mother -> love_live!
