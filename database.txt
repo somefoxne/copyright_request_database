@@ -2336,3 +2336,8 @@
 ?mizuhashi_parsee -> touhou
 ?hirasawa_yui -> k-on!
 ?senko_(sewayaki_kitsune_no_senko-san) -> sewayaki_kitsune_no_senko-san
+?kylar_(degrees_of_lewdity) -> degrees_of_lewdity
+?kylar_(male)_(degrees_of_lewdity) -> degrees_of_lewdity
+?leader_(trickcal) -> trickcal
+?coco's_mother_(tongari_boushi_no_atelier) -> tongari_boushi_no_atelier
+?yusa_kozue -> idolmaster
