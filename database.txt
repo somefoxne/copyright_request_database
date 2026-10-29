@@ -4941,3 +4941,8 @@
 ?siegfried_(granblue_fantasy) -> granblue_fantasy
 ?renewa_(leisurely_time)_(trickcal) -> trickcal
 ?renewa_(trickcal) -> trickcal
+?malenia_blade_of_miquella -> elden_ring
+?tsukishima_shijima -> shimeji_simulation
+?yamashita_majime -> shimeji_simulation
+?otomo_(cecilia_immergreen) -> hololive
+?tohno_akiha -> tsukihime
