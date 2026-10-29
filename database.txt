@@ -4788,3 +4788,10 @@
 ?juufuutei_raden_(noble_elegance) -> hololive
 ?natsuiro_matsuri_(wolf's_sugary_trick) -> hololive
 ?vestia_zeta_(heartbeat_clinic) -> hololive
+?dracomon -> digimon
+?examon -> digimon
+?sui-feng -> bleach
+?shiraishi_yoshitake -> golden_kamuy
+?nijipuka_nuhu_(vtuber) -> million_production
+?klaasje_amandou -> disco_elysium
+?rapi_(red_hood)_(red_flavor)_(nikke) -> goddess_of_victory:_nikke
