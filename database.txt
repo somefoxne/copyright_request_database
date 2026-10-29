@@ -4684,3 +4684,11 @@
 ?sheeta -> tenkuu_no_shiro_laputa
 ?tokusari_kukuri -> indie_virtual_youtuber
 ?wile_e_coyote -> looney_tunes
+?yae_(ganbare_goemon) -> ganbare_goemon
+?isolde_(reverse:1999) -> reverse:1999
+?everecho_(reverse:1999) -> reverse:1999
+?itou_shizuka -> to_heart_(series)
+?kousaka_tamaki -> to_heart_(series)
+?saratoga_(kancolle) -> kantai_collection
+?sakai_masako -> hibike!_euphonium
+?kuma_kai_ni_(kancolle) -> kantai_collection
