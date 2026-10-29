@@ -4233,3 +4233,14 @@
 ?grass_wonder_(stone-piercing_blue)_(umamusume) -> umamusume
 ?el_condor_pasa_(el_numero_1)_(umamusume) -> umamusume
 ?urbosa -> the_legend_of_zelda
+?viridi -> kid_icarus
+?hinomoto_hinatsu -> shine_post
+?nashinoki_remi -> shine_post
+?totsuka_nanami -> shine_post
+?butterfly_taotao_(roco_kingdom:_world) -> roco_kingdom
+?nytty_(roco_kingdom:_world) -> roco_kingdom
+?kurotsuchi_mayuri -> bleach
+?nemuri_hachigou -> bleach
+?yumeno_himiko -> danganronpa_(series)
+?susie_(church_clothes)_(deltarune) -> utdr_(toby_fox)
+?kurotsuchi_nemu -> bleach
