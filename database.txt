@@ -4767,3 +4767,8 @@
 ?iridi_(malberrybush) -> warcraft
 ?arbiter -> halo_(series)
 ?ramu_(kuppy_ramune) -> kuppy_ramune
+?ebi_frion_(natsuiro_matsuri) -> hololive
+?matsurisu -> hololive
+?haniyasushin_keiki -> touhou
+?mythra_(radiant_beach)_(xenoblade) -> xenoblade_chronicles_(series)
+?pyra_(pro_swimmer)_(xenoblade) -> xenoblade_chronicles_(series)
