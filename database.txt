@@ -4930,3 +4930,9 @@
 ?rurikawa_akiho -> grimoire_~shiritsu_grimoire_mahou_gakuen~
 ?rurikawa_haruno -> grimoire_~shiritsu_grimoire_mahou_gakuen~
 ?parvati_(aether_gazer) -> aether_gazer
+?niwatari_kutaka -> touhou
+?prisma_illya -> fate_(series)
+?cosmo_(sonic) -> sonic_(series)
+?touyama_nao -> kantai_collection
+?kenzaki_ririka -> hibike!_euphonium
+?suzuki_mirei -> hibike!_euphonium
