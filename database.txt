@@ -4472,3 +4472,6 @@
 ?machina_x_flayon -> holostars
 ?indeedee -> pokemon
 ?indeedee_(female) -> pokemon
+?kyle_(toriaba) -> trivia_about_you
+?claggor_(arcane) -> league_of_legends
+?tojo_nozomi -> love_live!
