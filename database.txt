@@ -4828,3 +4828,9 @@
 ?tomari_shinnosuke -> kamen_rider
 ?fuka-chan -> original
 ?female_doctor_(arknights) -> arknights
+?sanada_akihiko -> persona
+?hiiragi_emuri -> mythic_live
+?hiiragi_emuri_(1st_costume) -> glitch_stars
+?marikyuun_(cyber_cupid)_(vtuber) -> indie_virtual_youtuber
+?marikyuun_(vtuber) -> indie_virtual_youtuber
+?mori_calliope_(sleepwear) -> hololive
