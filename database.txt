@@ -4526,3 +4526,15 @@
 ?aurora_(fire_emblem) -> fire_emblem
 ?medicine_pocket -> reverse:1999
 ?stunning_beauty_(miracle_nikki) -> nikki_(series)
+?kinugasa_(kancolle) -> kantai_collection
+?saigusa_haruka -> little_busters!
+?tsukishiro_yanagi -> zenless_zone_zero
+?zenno_rob_roy_(magical_heroine)_(umamusume) -> umamusume
+?caesar_king_(zenless_zone_zero) -> zenless_zone_zero
+?christine_daae -> phantom_of_the_opera
+?erik_(phantom_of_the_opera) -> phantom_of_the_opera
+?kita_ikuyo -> bocchi_the_rock!
+?bloom_up_(nikki) -> nikki_(series)
+?alolan_ninetales -> pokemon
+?galarian_darumaka -> pokemon
+?himura_kenshin -> rurouni_kenshin
