@@ -4286,3 +4286,10 @@
 ?shigure_kira -> honkai_(series)
 ?shigure_kira_(tonight's_my_time!) -> honkai_(series)
 ?gerson_boom_(hammer_of_justice) -> utdr_(toby_fox)
+?bokukawauso -> kantai_collection
+?mikura_(kancolle) -> kantai_collection
+?sakuya_(sister_princess) -> sister_princess
+?kanbe_kotori -> rewrite
+?nakatsu_shizuru -> rewrite
+?lucifer_(obey_me!) -> obey_me!_(series)
+?utsugi_kotoko -> danganronpa_(series)
