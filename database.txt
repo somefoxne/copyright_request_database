@@ -4464,3 +4464,11 @@
 ?gilliam_(fire_emblem) -> fire_emblem
 ?inukai_komugi -> precure
 ?psylocke -> marvel
+?komiya_kaho -> idolmaster
+?rucora_(fushigi_na_neko_no_machi_meltier) -> fushigi_na_neko_no_machi_meltier
+?suzu_(fushigi_na_neko_no_machi_meltier) -> fushigi_na_neko_no_machi_meltier
+?mordecai_(fire_emblem) -> fire_emblem
+?stefan_(fire_emblem) -> fire_emblem
+?machina_x_flayon -> holostars
+?indeedee -> pokemon
+?indeedee_(female) -> pokemon
