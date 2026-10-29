@@ -4410,3 +4410,17 @@
 ?kaburagi_kaede -> tiger_&_bunny
 ?kaburagi_t._kotetsu -> tiger_&_bunny
 ?invisigal_(dispatch) -> dispatch
+?bea_(pokemon) -> pokemon
+?shanks_(one_piece) -> one_piece
+?vash_the_stampede -> trigun
+?binah_(project_moon) -> project_moon
+?kadou_mikaru_(2nd_costume) -> nijisanji
+?yagyu_shino_(2nd_costume) -> nijisanji
+?neru_(bunny)_(blue_archive) -> blue_archive
+?hebiyoi_tier -> nanashi_inc.
+?hebiyoi_tier_(1st_costume) -> nanashi_inc.
+?cinnamiku -> vocaloid
+?ana_(overwatch) -> overwatch
+?sombra_(overwatch) -> overwatch
+?barry_allen -> dc_comics
+?the_flash -> dc_comics
