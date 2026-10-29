@@ -4808,3 +4808,8 @@
 ?miko_fox_girl_(kotatsu-mazoku) -> original
 ?chiyoda_momo -> machikado_mazoku
 ?yoshida_yuuko -> machikado_mazoku
+?abarai_ichika -> bleach
+?abarai_renji -> bleach
+?kawachino_yatsude -> original
+?ludmila_(rune_factory) -> rune_factory
+?kache -> needy_girl_overdose
