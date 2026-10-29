@@ -4847,3 +4847,12 @@
 ?saber_alter_(swimsuit_rider)_(final_ascension) -> fate_(series)
 ?saber_alter_(swimsuit_rider)_(second_ascension) -> fate_(series)
 ?kamaya_suzume -> hibike!_euphonium
+?bernoullia_(nikke) -> goddess_of_victory:_nikke
+?ogata_rina -> white_album_(series)
+?guin_(trickcal) -> trickcal
+?goldy_(trickcal) -> trickcal
+?hibiki_wataru -> ensemble_stars!
+?sakasaki_natsume -> ensemble_stars!
+?sakuma_rei_(ensemble_stars!) -> ensemble_stars!
+?chouzetsusaikawa_tenshi-chan -> needy_girl_overdose
+?pien_cat_(needy_girl_overdose) -> needy_girl_overdose
