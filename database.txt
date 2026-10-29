@@ -4762,3 +4762,8 @@
 ?vita_(honkai_impact) -> honkai_(series)
 ?momose_ginko_(dreamy_parlor!) -> love_live!
 ?otomune_kozue_(post-graduation_casual) -> love_live!
+?warin -> umi_monogatari
+?dante_(limbus_company) -> project_moon
+?iridi_(malberrybush) -> warcraft
+?arbiter -> halo_(series)
+?ramu_(kuppy_ramune) -> kuppy_ramune
