@@ -4887,3 +4887,12 @@
 ?gilded_dreamsong_(infinity_nikki) -> nikki_(series)
 ?momo_(heart_arrow)_(infinity_nikki) -> nikki_(series)
 ?fediel_(granblue_fantasy) -> granblue_fantasy
+?hachune_miku -> vocaloid
+?tialla_august -> fire_emblem
+?red_soul_(utdr) -> utdr_(toby_fox)
+?soul_(character)_(deltarune) -> utdr_(toby_fox)
+?soul_(utdr) -> utdr_(toby_fox)
+?lucia:_dawn_(pgr) -> punishing:_gray_raven
+?lucia_(pgr) -> punishing:_gray_raven
+?faust_(blue_archive) -> blue_archive
+?knight_gundam -> gundam
