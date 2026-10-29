@@ -4461,3 +4461,6 @@
 ?tosen_jordan_(aurore_vacances)_(umamusume) -> umamusume
 ?ange_katrina_(loungewear) -> nijisanji
 ?hinaichigo -> rozen_maiden
+?gilliam_(fire_emblem) -> fire_emblem
+?inukai_komugi -> precure
+?psylocke -> marvel
