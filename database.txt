@@ -4491,3 +4491,13 @@
 ?adachi_tohru -> persona
 ?winter_miracle_(miracle_nikki) -> nikki_(series)
 ?yuu_(twisted_wonderland) -> twisted_wonderland
+?jiuyue_(feiren_zai) -> feiren_zai
+?sonozaki_mion -> higurashi_no_naku_koro_ni
+?sonozaki_shion -> higurashi_no_naku_koro_ni
+?powder_(arcane) -> league_of_legends
+?silco_(arcane) -> league_of_legends
+?yoyo_(nikki) -> nikki_(series)
+?silence_suzuka_(emerald_on_the_waves)_(umamusume) -> umamusume
+?saegusa_akina_(1st_costume) -> nijisanji
+?hanasaki_mana_(manalogues.com) -> original
+?buta_(kuzuha) -> nijisanji
