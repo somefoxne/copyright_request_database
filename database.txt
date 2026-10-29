@@ -4369,3 +4369,7 @@
 ?sonidori_rioh -> medalist_(manga)
 ?akechi_anna -> precure
 ?akechi_anna_(civilian) -> precure
+?llenn_(sao) -> sword_art_online
+?mimi_(princess_connect!) -> princess_connect!
+?lei_fang -> dead_or_alive
+?kusakari_rena -> cinderella_series
