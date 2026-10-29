@@ -4651,3 +4651,8 @@
 ?kamaya_tsubame -> hibike!_euphonium
 ?odagiri_ui -> ijimete_ijimerarete
 ?shishido_himeri -> ijimete_ijimerarete
+?akali_(league) -> league_of_legends
+?k/da_akali -> league_of_legends
+?delia_(trickcal) -> trickcal
+?k/da_kai'sa -> league_of_legends
+?kai'sa_(league) -> league_of_legends
