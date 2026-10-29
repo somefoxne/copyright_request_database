@@ -4834,3 +4834,8 @@
 ?marikyuun_(cyber_cupid)_(vtuber) -> indie_virtual_youtuber
 ?marikyuun_(vtuber) -> indie_virtual_youtuber
 ?mori_calliope_(sleepwear) -> hololive
+?bloodberry -> saber_marionette_j
+?cherry_(saber_j) -> saber_marionette_j
+?lime_(saber_j) -> saber_marionette_j
+?mamiya_otaru -> saber_marionette_j
+?artemis_(phelios) -> phelios
