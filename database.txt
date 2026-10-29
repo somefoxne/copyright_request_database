@@ -4326,3 +4326,8 @@
 ?gene_(diforland) -> original
 ?arisugawa_himari -> precure
 ?cure_custard -> precure
+?fujino_shizuru -> my-hime
+?kuga_natsuki -> my-hime
+?ju_fufu -> zenless_zone_zero
+?kromer_(project_moon) -> project_moon
+?sara_valestein -> eiyuu_densetsu
