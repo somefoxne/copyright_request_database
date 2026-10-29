@@ -4312,3 +4312,13 @@
 ?clark_(backrooms) -> backrooms_(creepypasta)
 ?looping_the_rooms_girl -> looping_the_rooms_(vocaloid)
 ?nanachi_(made_in_abyss) -> made_in_abyss
+?yang_xiao_long -> rwby
+?lennon_(little_busters!) -> little_busters!
+?natsume_kyousuke -> little_busters!
+?tokido_saya -> little_busters!
+?arcueid_brunestud_(berserker) -> fate_(series)
+?elis_(stella_sora) -> stella_sora
+?female_tyrant_(stella_sora) -> stella_sora
+?noya_(firstlight)_(stella_sora) -> stella_sora
+?tyrant_(stella_sora) -> stella_sora
+?asaba_harumasa -> zenless_zone_zero
