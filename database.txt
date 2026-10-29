@@ -4922,3 +4922,11 @@
 ?tennoji_rina -> love_live!
 ?hot_pants_(sbr) -> jojo_no_kimyou_na_bouken
 ?ippan_josei -> boku_no_hero_academia
+?goomba -> mario_(series)
+?lakitu -> mario_(series)
+?fuyuki_eve -> grimoire_~shiritsu_grimoire_mahou_gakuen~
+?fuyuki_noel -> grimoire_~shiritsu_grimoire_mahou_gakuen~
+?kirizuka_moegi -> grimoire_~shiritsu_grimoire_mahou_gakuen~
+?rurikawa_akiho -> grimoire_~shiritsu_grimoire_mahou_gakuen~
+?rurikawa_haruno -> grimoire_~shiritsu_grimoire_mahou_gakuen~
+?parvati_(aether_gazer) -> aether_gazer
