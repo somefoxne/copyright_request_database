@@ -4245,3 +4245,12 @@
 ?susie_(church_clothes)_(deltarune) -> utdr_(toby_fox)
 ?kurotsuchi_nemu -> bleach
 ?hoto_cocoa -> gochuumon_wa_usagi_desu_ka?
+?pearaisy_(roco_kingdom:_world) -> roco_kingdom
+?midori_(maid)_(blue_archive) -> blue_archive
+?momoi_(maid)_(blue_archive) -> blue_archive
+?brook_(one_piece) -> one_piece
+?ogasawara_haruka -> hibike!_euphonium
+?kei_(aris)_(blue_archive) -> blue_archive
+?kei_(orange_robot)_(blue_archive) -> blue_archive
+?yuzu_(maid)_(blue_archive) -> blue_archive
+?jack_barbarosa_bancoran -> patalliro!
