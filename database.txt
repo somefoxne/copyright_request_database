@@ -4263,3 +4263,10 @@
 ?rudolph_holiday -> utdr_(toby_fox)
 ?shigure_kokoro -> precure
 ?impling_(roco_kingdom:_world) -> roco_kingdom
+?puffi_(roco_kingdom:_world) -> roco_kingdom
+?ichika_(suit)_(blue_archive) -> blue_archive
+?ichika_(swimsuit)_(blue_archive) -> blue_archive
+?yoshikawa_chinatsu -> yuruyuri
+?suzuki_iruma -> mairimashita!_iruma-kun
+?amayado_rei -> hypnosis_mic
+?yamada_ichiro -> hypnosis_mic
