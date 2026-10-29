@@ -4674,3 +4674,13 @@
 ?saotome_shino_(shino_to_ren) -> shino_to_ren
 ?shirayuki_ren -> shino_to_ren
 ?venusmon -> digimon
+?ijichi_seika -> bocchi_the_rock!
+?shi_choka -> mahou_shoujo_madoka_magica
+?idol_rena -> rhythm_tengoku
+?space_dancers -> rhythm_tengoku
+?kamen_rider_snipe -> kamen_rider
+?kamen_rider_snipe_(shooting_gamer_level_2) -> kamen_rider
+?armin_arlert -> shingeki_no_kyojin
+?sheeta -> tenkuu_no_shiro_laputa
+?tokusari_kukuri -> indie_virtual_youtuber
+?wile_e_coyote -> looney_tunes
