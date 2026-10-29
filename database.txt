@@ -4864,3 +4864,14 @@
 ?kamiishi_yayoi -> hibike!_euphonium
 ?sweet_diagnosis_(infinity_nikki) -> nikki_(series)
 ?35p_(sakura_miko) -> hololive
+?shindou_kouichi -> hori-san_to_miyamura-kun
+?rossweisse -> high_school_dxd
+?ikuno_dictus_(casual)_(umamusume) -> umamusume
+?more_more_jump!_kaito -> vocaloid
+?more_more_jump!_len -> vocaloid
+?more_more_jump!_luka -> vocaloid
+?more_more_jump!_meiko -> vocaloid
+?more_more_jump!_rin -> vocaloid
+?lime_(vrchat) -> vrchat
+?crepe_(trickcal) -> trickcal
+?zenno_rob_roy_(heroic_author)_(umamusume) -> umamusume
