@@ -4856,3 +4856,6 @@
 ?sakuma_rei_(ensemble_stars!) -> ensemble_stars!
 ?chouzetsusaikawa_tenshi-chan -> needy_girl_overdose
 ?pien_cat_(needy_girl_overdose) -> needy_girl_overdose
+?yoshii_sari -> hibike!_euphonium
+?nagase_reiko -> ridge_racer
+?rusk_(komado_booth) -> vrchat
