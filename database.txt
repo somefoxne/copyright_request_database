@@ -4545,3 +4545,10 @@
 ?verxina_(azure_coronation)_(umamusume) -> umamusume
 ?blushbunny_(infinity_nikki) -> nikki_(series)
 ?bouncy_spirit_(infinity_nikki) -> nikki_(series)
+?honey_(bomberman) -> bomberman
+?kinugasa_(anniversary)_(kancolle) -> kantai_collection
+?kinugasa_kai_ni_(swimsuit)_(kancolle) -> kantai_collection
+?alolan_marowak -> pokemon
+?greavard -> pokemon
+?oc_(atj7359) -> original
+?kinugasa_(new_year)_(kancolle) -> kantai_collection
