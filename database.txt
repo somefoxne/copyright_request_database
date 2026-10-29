@@ -4913,3 +4913,12 @@
 ?kuroe_mayu -> hibike!_euphonium
 ?higashikata_josuke_(jojolion) -> jojo_no_kimyou_na_bouken
 ?kagari_atsuko -> little_witch_academia
+?mohg_lord_of_blood -> elden_ring
+?sir_ansbach -> elden_ring
+?misaka_shiori -> kanon
+?nehan_(granblue_fantasy) -> granblue_fantasy
+?feower_(granblue_fantasy) -> granblue_fantasy
+?koukawa_asuka -> taimanin_(series)
+?tennoji_rina -> love_live!
+?hot_pants_(sbr) -> jojo_no_kimyou_na_bouken
+?ippan_josei -> boku_no_hero_academia
