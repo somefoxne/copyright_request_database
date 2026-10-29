@@ -4613,3 +4613,13 @@
 ?guilmon -> digimon
 ?cure_answer -> precure
 ?latias_(human)_(pokemon_adventures) -> pokemon
+?vandal_(marathon) -> marathon_(series)
+?chinese_white_dolphin_(kemono_friends) -> kemono_friends
+?anjo_nala -> reverse:1999
+?ms._kimberly_(reverse:1999) -> reverse:1999
+?angewomon -> digimon
+?beelzebumon -> digimon
+?natsuki_karin -> cevio
+?flamon -> digimon
+?takino_jun'ichi -> hibike!_euphonium
+?furutaka_(kancolle) -> kantai_collection
