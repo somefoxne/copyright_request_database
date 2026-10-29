@@ -4739,3 +4739,14 @@
 ?jessie_the_yodeling_cowgirl -> toy_story
 ?kama_(fate) -> fate_(series)
 ?kama_(teenager)_(fate) -> fate_(series)
+?ribbon_(rabi-ribi) -> rabi-ribi
+?kusanagi_motoko -> ghost_in_the_shell
+?atom_eve -> invincible_(series)
+?rogue_(x-men) -> marvel
+?pink_hair_chan_(waka) -> original
+?shachi_(waka) -> original
+?athena_cykes -> ace_attorney
+?arcueid_brunestud_(monster_cat) -> tsukihime
+?tharja_(fire_emblem) -> fire_emblem
+?buzz_lightyear -> toy_story
+?rainbow_dash -> my_little_pony
