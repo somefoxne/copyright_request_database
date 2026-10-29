@@ -4875,3 +4875,10 @@
 ?lime_(vrchat) -> vrchat
 ?crepe_(trickcal) -> trickcal
 ?zenno_rob_roy_(heroic_author)_(umamusume) -> umamusume
+?kikyo_(vrchat) -> vrchat
+?captain_(chaos_zero_nightmare) -> chaos_zero_nightmare
+?rossweisse_(chaos_zero_nightmare) -> chaos_zero_nightmare
+?jubee_(trickcal) -> trickcal
+?floral_rebirth_(infinity_nikki) -> nikki_(series)
+?rukkhadevata_(genshin_impact) -> genshin_impact
+?tsurumi_tokushirou -> golden_kamuy
