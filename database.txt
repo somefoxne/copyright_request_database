@@ -4276,3 +4276,13 @@
 ?mega_malamar -> pokemon
 ?impette_(roco_kingdom:_world) -> roco_kingdom
 ?merlin_(fate/prototype) -> fate_(series)
+?mr._squeaks_(hakos_baelz) -> hololive
+?natsume_rin -> little_busters!
+?hitsugaya_toushirou -> bleach
+?hitsugaya_toushirou_(adult) -> bleach
+?dire_crowley -> twisted_wonderland
+?komi_shouko -> komi-san_wa_komyushou_desu
+?nurse_harrow_(deadlock) -> deadlock_(game)
+?shigure_kira -> honkai_(series)
+?shigure_kira_(tonight's_my_time!) -> honkai_(series)
+?gerson_boom_(hammer_of_justice) -> utdr_(toby_fox)
