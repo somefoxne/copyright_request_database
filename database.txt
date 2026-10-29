@@ -4776,3 +4776,9 @@
 ?zatanna_zatara_(absolute_dc) -> dc_comics
 ?bazo_(vestia_zeta) -> hololive
 ?todoroki_hajime_(jiangshi_midnight_waltz) -> hololive
+?miruna_swiftfable_(saverpengu) -> original
+?anran_(overwatch) -> overwatch
+?sierra_(overwatch) -> overwatch
+?rir-chan -> original
+?virtuosa_(ambience_synesthesia_2024)_(arknights) -> arknights
+?elsa_bloodstone_(young_blood) -> marvel
