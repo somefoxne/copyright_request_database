@@ -4254,3 +4254,12 @@
 ?kei_(orange_robot)_(blue_archive) -> blue_archive
 ?yuzu_(maid)_(blue_archive) -> blue_archive
 ?jack_barbarosa_bancoran -> patalliro!
+?juliet_starling -> lollipop_chainsaw
+?suzukaze_aoba -> new_game!
+?niimi_kakeru -> 9-nine-
+?talia_al_ghul -> dc_comics
+?carol_holiday -> utdr_(toby_fox)
+?december_holiday -> utdr_(toby_fox)
+?rudolph_holiday -> utdr_(toby_fox)
+?shigure_kokoro -> precure
+?impling_(roco_kingdom:_world) -> roco_kingdom
