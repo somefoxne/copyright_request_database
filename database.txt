@@ -4823,3 +4823,8 @@
 ?selene_yan -> love_curse:_find_your_soulmate
 ?fujino_shion -> hatsu_inu
 ?posu_(suzuna_tsuzuri) -> hololive
+?ellen_joe_(on_campus) -> zenless_zone_zero
+?rim_(trickcal) -> trickcal
+?tomari_shinnosuke -> kamen_rider
+?fuka-chan -> original
+?female_doctor_(arknights) -> arknights
