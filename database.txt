@@ -4750,3 +4750,9 @@
 ?tharja_(fire_emblem) -> fire_emblem
 ?buzz_lightyear -> toy_story
 ?rainbow_dash -> my_little_pony
+?yazawa_nico -> love_live!
+?ame-chan_(needy_girl_overdose) -> needy_girl_overdose
+?hibiki_kohaku -> blazblue
+?wakaba_hinata -> justice_gakuen
+?arashi_chisato -> love_live!
+?shizuku_(nige_jouzu_no_wakagimi) -> nige_jouzu_no_wakagimi
