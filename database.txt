@@ -4882,3 +4882,5 @@
 ?floral_rebirth_(infinity_nikki) -> nikki_(series)
 ?rukkhadevata_(genshin_impact) -> genshin_impact
 ?tsurumi_tokushirou -> golden_kamuy
+?cai_castor_(timeskip) -> fire_emblem
+?peter_(fire_emblem) -> fire_emblem
