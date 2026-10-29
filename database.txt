@@ -4501,3 +4501,9 @@
 ?saegusa_akina_(1st_costume) -> nijisanji
 ?hanasaki_mana_(manalogues.com) -> original
 ?buta_(kuzuha) -> nijisanji
+?duramente_(red_in_black)_(umamusume) -> umamusume
+?jack_howl_(gala_couture) -> twisted_wonderland
+?ortho_shroud_(fairy_gear) -> twisted_wonderland
+?silver_vanrouge_(gala_couture) -> twisted_wonderland
+?orfevre_(control)_(umamusume) -> umamusume
+?laura_elfinrine -> himekishi_olivia
