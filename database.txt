@@ -4819,3 +4819,7 @@
 ?shun_(swimsuit)_(blue_archive) -> blue_archive
 ?hanami_saki -> idolmaster
 ?teresa_keltula -> himekishi_olivia
+?iris_wen -> love_curse:_find_your_soulmate
+?selene_yan -> love_curse:_find_your_soulmate
+?fujino_shion -> hatsu_inu
+?posu_(suzuna_tsuzuri) -> hololive
