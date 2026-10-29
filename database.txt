@@ -4585,3 +4585,10 @@
 ?esdeath -> akame_ga_kill!
 ?tatsumi_(akame_ga_kill!) -> akame_ga_kill!
 ?sasasegawa_sasami -> little_busters!
+?dhole_(kemono_friends) -> kemono_friends
+?grey_wolf_(kemono_friends) -> kemono_friends
+?fenomeno_(black_flames_of_the_righteous_spirit)_(umamusume) -> umamusume
+?seth_(housamo) -> tokyo_afterschool_summoners
+?kurugaya_yuiko -> little_busters!
+?bb_(fate) -> fate_(series)
+?bb_(swimsuit_mooncancer)_(second_ascension)_(fate) -> fate_(series)
