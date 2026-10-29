@@ -4552,3 +4552,9 @@
 ?greavard -> pokemon
 ?oc_(atj7359) -> original
 ?kinugasa_(new_year)_(kancolle) -> kantai_collection
+?fal_(mahoiku) -> mahou_shoujo_ikusei_keikaku
+?pfle -> mahou_shoujo_ikusei_keikaku
+?yamada_ryo -> bocchi_the_rock!
+?inoue_junna -> hibike!_euphonium
+?nikki's_mother_(nikki) -> nikki_(series)
+?himemori_luna_(7th_costume) -> hololive
