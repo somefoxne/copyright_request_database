@@ -4839,3 +4839,11 @@
 ?lime_(saber_j) -> saber_marionette_j
 ?mamiya_otaru -> saber_marionette_j
 ?artemis_(phelios) -> phelios
+?kanda_momo -> wonder_momo
+?valkyrie_(vnd) -> valkyrie_no_densetsu
+?going_merry -> one_piece
+?nakazuki_sara -> grimoire_~shiritsu_grimoire_mahou_gakuen~
+?shiro_(grimoire) -> grimoire_~shiritsu_grimoire_mahou_gakuen~
+?saber_alter_(swimsuit_rider)_(final_ascension) -> fate_(series)
+?saber_alter_(swimsuit_rider)_(second_ascension) -> fate_(series)
+?kamaya_suzume -> hibike!_euphonium
