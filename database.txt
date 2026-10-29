@@ -4884,3 +4884,6 @@
 ?tsurumi_tokushirou -> golden_kamuy
 ?cai_castor_(timeskip) -> fire_emblem
 ?peter_(fire_emblem) -> fire_emblem
+?gilded_dreamsong_(infinity_nikki) -> nikki_(series)
+?momo_(heart_arrow)_(infinity_nikki) -> nikki_(series)
+?fediel_(granblue_fantasy) -> granblue_fantasy
