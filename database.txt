@@ -4538,3 +4538,10 @@
 ?alolan_ninetales -> pokemon
 ?galarian_darumaka -> pokemon
 ?himura_kenshin -> rurouni_kenshin
+?kinugasa_kai_ni_(winter)_(kancolle) -> kantai_collection
+?vander_(warwick)_(arcane) -> league_of_legends
+?jing_yuan -> honkai_(series)
+?kinugasa_kai_ni_(kancolle) -> kantai_collection
+?verxina_(azure_coronation)_(umamusume) -> umamusume
+?blushbunny_(infinity_nikki) -> nikki_(series)
+?bouncy_spirit_(infinity_nikki) -> nikki_(series)
