@@ -4628,3 +4628,11 @@
 ?shiokko_(murasaki_shion) -> hololive
 ?lilimon -> digimon
 ?filia_(skullgirls) -> skullgirls
+?kaedehara_kazuha -> genshin_impact
+?labrys_(persona) -> persona
+?assassin_(marathon) -> marathon_(series)
+?medievaldukemon -> digimon
+?metis_(persona) -> persona
+?thief_(marathon) -> marathon_(series)
+?hugin_(silver_palace) -> silver_palace
+?ginko_(mushishi) -> mushishi
