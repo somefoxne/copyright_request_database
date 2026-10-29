@@ -4507,3 +4507,16 @@
 ?silver_vanrouge_(gala_couture) -> twisted_wonderland
 ?orfevre_(control)_(umamusume) -> umamusume
 ?laura_elfinrine -> himekishi_olivia
+?popplio -> pokemon
+?kyoka_(princess_connect!) -> princess_connect!
+?kyoka_(summer)_(princess_connect!) -> princess_connect!
+?mimi_(summer)_(princess_connect!) -> princess_connect!
+?misogi_(princess_connect!) -> princess_connect!
+?misogi_(summer)_(princess_connect!) -> princess_connect!
+?manhattan_cafe_(verdant_night)_(umamusume) -> umamusume
+?lambdadelta -> umineko_no_naku_koro_ni
+?walrus_captain_(a_hat_in_time) -> a_hat_in_time
+?almond_eye_(casual)_(umamusume) -> umamusume
+?fusaichi_pandora_(casual)_(umamusume) -> umamusume
+?koyomi_(kamen_rider_wizard) -> kamen_rider
+?souma_haruto -> kamen_rider
