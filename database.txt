@@ -4946,3 +4946,8 @@
 ?yamashita_majime -> shimeji_simulation
 ?otomo_(cecilia_immergreen) -> hololive
 ?tohno_akiha -> tsukihime
+?chii_aruel -> soulworker
+?kobato_jougorou -> shoushimin_series
+?osanai_yuki -> shoushimin_series
+?itchy -> the_simpsons
+?male_eshmel_(fire_emblem) -> fire_emblem
