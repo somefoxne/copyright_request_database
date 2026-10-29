@@ -4772,3 +4772,7 @@
 ?haniyasushin_keiki -> touhou
 ?mythra_(radiant_beach)_(xenoblade) -> xenoblade_chronicles_(series)
 ?pyra_(pro_swimmer)_(xenoblade) -> xenoblade_chronicles_(series)
+?yugiri_tsuzuri_(summer_loungewear) -> love_live!
+?zatanna_zatara_(absolute_dc) -> dc_comics
+?bazo_(vestia_zeta) -> hololive
+?todoroki_hajime_(jiangshi_midnight_waltz) -> hololive
