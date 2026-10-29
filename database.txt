@@ -4564,3 +4564,13 @@
 ?sado_yasutora -> bleach
 ?suzuki_satsuki -> hibike!_euphonium
 ?dang_(runescape) -> runescape
+?aino_nana_(baileys) -> class_no_gal_ni_kuuki_atsukai_sareteimasu
+?aizawa_ryuuji_(baileys) -> class_no_gal_ni_kuuki_atsukai_sareteimasu
+?saeki_rie_(baileys) -> class_no_gal_ni_kuuki_atsukai_sareteimasu
+?shiori_(baileys) -> class_no_gal_ni_kuuki_atsukai_sareteimasu
+?ryuuhou_(kancolle) -> kantai_collection
+?taigei_(kancolle) -> kantai_collection
+?keqing_(genshin_impact) -> genshin_impact
+?tsukudani_norio_(vtuber) -> noripro
+?pola_(kancolle) -> kantai_collection
+?zara_(kancolle) -> kantai_collection
