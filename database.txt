@@ -4592,3 +4592,14 @@
 ?kurugaya_yuiko -> little_busters!
 ?bb_(fate) -> fate_(series)
 ?bb_(swimsuit_mooncancer)_(second_ascension)_(fate) -> fate_(series)
+?eugene_(fire_emblem) -> fire_emblem
+?kawaragi_momoka -> girls_band_cry
+?munin_(silver_palace) -> silver_palace
+?kearsarge_(azur_lane) -> azur_lane
+?female_trainer_(umamusume) -> umamusume
+?sirius_symboli_(casual)_(umamusume) -> umamusume
+?galarian_weezing -> pokemon
+?pidove -> pokemon
+?regigigas -> pokemon
+?urakaze_(kancolle) -> kantai_collection
+?vivian_banshee_(iris_of_the_shore) -> zenless_zone_zero
