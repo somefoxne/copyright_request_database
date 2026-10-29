@@ -4656,3 +4656,9 @@
 ?delia_(trickcal) -> trickcal
 ?k/da_kai'sa -> league_of_legends
 ?kai'sa_(league) -> league_of_legends
+?tomoe_rena -> kourin_tenshi_en_ciel_rena
+?ao_isami -> yuuki_bakuhatsu_bang_bravern
+?lewis_smith -> yuuki_bakuhatsu_bang_bravern
+?taooka_yua -> gyaru_to_gyaru_no_yuri
+?watase_reina -> gyaru_to_gyaru_no_yuri
+?star_platinum -> jojo_no_kimyou_na_bouken
