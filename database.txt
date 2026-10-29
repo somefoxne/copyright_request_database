@@ -4270,3 +4270,9 @@
 ?suzuki_iruma -> mairimashita!_iruma-kun
 ?amayado_rei -> hypnosis_mic
 ?yamada_ichiro -> hypnosis_mic
+?solomon_(deadlock) -> deadlock_(game)
+?wonder_acute_(butterfly_sting)_(umamusume) -> umamusume
+?malamar -> pokemon
+?mega_malamar -> pokemon
+?impette_(roco_kingdom:_world) -> roco_kingdom
+?merlin_(fate/prototype) -> fate_(series)
