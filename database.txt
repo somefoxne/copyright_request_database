@@ -4896,3 +4896,11 @@
 ?lucia_(pgr) -> punishing:_gray_raven
 ?faust_(blue_archive) -> blue_archive
 ?knight_gundam -> gundam
+?delcatty -> pokemon
+?kecleon -> pokemon
+?sableye -> pokemon
+?treecko -> pokemon
+?maru_kun -> bang_dream!
+?mom_(hayashi_ko) -> original
+?kagamine_len_(vocaloid4) -> vocaloid
+?kagamine_rin_(vocaloid4) -> vocaloid
