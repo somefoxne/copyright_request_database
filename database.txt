@@ -4574,3 +4574,14 @@
 ?tsukudani_norio_(vtuber) -> noripro
 ?pola_(kancolle) -> kantai_collection
 ?zara_(kancolle) -> kantai_collection
+?kusonoki_(baileys) -> class_no_gal_ni_kuuki_atsukai_sareteimasu
+?rice_shower_(yummy_dreamy_fairy)_(umamusume) -> umamusume
+?himekaidou_hatate -> touhou
+?hiryuu_(kancolle) -> kantai_collection
+?hiryuu_(swimsuit)_(kancolle) -> kantai_collection
+?zuikaku_(swimsuit)_(kancolle) -> kantai_collection
+?muarim_(fire_emblem) -> fire_emblem
+?yanqing_(honkai:_star_rail) -> honkai_(series)
+?esdeath -> akame_ga_kill!
+?tatsumi_(akame_ga_kill!) -> akame_ga_kill!
+?sasasegawa_sasami -> little_busters!
