@@ -4795,3 +4795,9 @@
 ?nijipuka_nuhu_(vtuber) -> million_production
 ?klaasje_amandou -> disco_elysium
 ?rapi_(red_hood)_(red_flavor)_(nikke) -> goddess_of_victory:_nikke
+?hanami_ume -> idolmaster
+?watson_amelia -> hololive
+?freodore_(nijisanji) -> nijisanji
+?silvia_(trickcal) -> trickcal
+?burnice_white -> zenless_zone_zero
+?katsuragi_lilja -> idolmaster
