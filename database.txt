@@ -4782,3 +4782,9 @@
 ?rir-chan -> original
 ?virtuosa_(ambience_synesthesia_2024)_(arknights) -> arknights
 ?elsa_bloodstone_(young_blood) -> marvel
+?biscuit_krueger -> hunter_x_hunter
+?kurapika -> hunter_x_hunter
+?takitsubo_rikou -> toaru_majutsu_no_index
+?juufuutei_raden_(noble_elegance) -> hololive
+?natsuiro_matsuri_(wolf's_sugary_trick) -> hololive
+?vestia_zeta_(heartbeat_clinic) -> hololive
