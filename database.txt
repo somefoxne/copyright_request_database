@@ -4224,3 +4224,12 @@
 ?cesario_(future_weaver)_(umamusume) -> umamusume
 ?symboli_kris_s_(onyx_soldier)_(umamusume) -> umamusume
 ?wikipe-tan -> wikipedia
+?seiun_sky_(casual)_(umamusume) -> umamusume
+?mejiro_mcqueen_(frontline_elegance)_(umamusume) -> umamusume
+?king_halo_(king_of_emeralds)_(umamusume) -> umamusume
+?tamamo_cross_(fast_as_lightning)_(umamusume) -> umamusume
+?rice_shower_(casual)_(umamusume) -> umamusume
+?seiun_sky_(reeling_in_the_big_one)_(umamusume) -> umamusume
+?grass_wonder_(stone-piercing_blue)_(umamusume) -> umamusume
+?el_condor_pasa_(el_numero_1)_(umamusume) -> umamusume
+?urbosa -> the_legend_of_zelda
