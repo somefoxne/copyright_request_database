@@ -233,7 +233,3 @@ masuo_(umamusume) -> umamusume
 minami_(umamusume) -> umamusume  
 fine_motion's_bodyguard_captain -> umamusume  
 gold_city's_manager -> umamusume  
-hosoe_junko -> umamusume  
-imanami_takatoshi -> umamusume  
-take_yutaka -> umamusume  
-yamamoto_masa -> umamusume
