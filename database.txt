@@ -4951,3 +4951,7 @@
 ?osanai_yuki -> shoushimin_series
 ?itchy -> the_simpsons
 ?male_eshmel_(fire_emblem) -> fire_emblem
+?karyl_(princess_connect!) -> princess_connect!
+?toujou_koneko -> high_school_dxd
+?seox_(granblue_fantasy) -> granblue_fantasy
+?cherche_(fire_emblem) -> fire_emblem
