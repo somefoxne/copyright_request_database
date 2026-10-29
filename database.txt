@@ -4322,3 +4322,7 @@
 ?noya_(firstlight)_(stella_sora) -> stella_sora
 ?tyrant_(stella_sora) -> stella_sora
 ?asaba_harumasa -> zenless_zone_zero
+?chocola_(nekopara) -> nekopara
+?gene_(diforland) -> original
+?arisugawa_himari -> precure
+?cure_custard -> precure
