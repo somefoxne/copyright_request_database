@@ -4936,3 +4936,8 @@
 ?touyama_nao -> kantai_collection
 ?kenzaki_ririka -> hibike!_euphonium
 ?suzuki_mirei -> hibike!_euphonium
+?leets_(trickcal) -> trickcal
+?percival_(granblue_fantasy) -> granblue_fantasy
+?siegfried_(granblue_fantasy) -> granblue_fantasy
+?renewa_(leisurely_time)_(trickcal) -> trickcal
+?renewa_(trickcal) -> trickcal
