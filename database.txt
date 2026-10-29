@@ -4440,3 +4440,17 @@
 ?talmu_mendoza -> shy_(series)
 ?zombeau -> shy_(series)
 ?kitt_(pokemon) -> pokemon
+?nadeko_(cookie) -> touhou
+?sakenomi_(cookie) -> touhou
+?ruggie_bucchi_(port_wear) -> twisted_wonderland
+?che'nya -> twisted_wonderland
+?ara_(fluff-kevlar) -> original
+?fake_yuuhi_(cookie) -> cookie_(touhou)
+?suzu_(cookie) -> touhou
+?flygon -> pokemon
+?latias -> pokemon
+?latios -> pokemon
+?boy_roco_(roco_kingdom:_world) -> roco_kingdom
+?inkling_boy -> splatoon_(series)
+?mars_(cookie) -> touhou
+?slay_star_sombra -> overwatch
