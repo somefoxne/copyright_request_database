@@ -4813,3 +4813,7 @@
 ?kawachino_yatsude -> original
 ?ludmila_(rune_factory) -> rune_factory
 ?kache -> needy_girl_overdose
+?fuuka_(naruto) -> naruto_(series)
+?illyasviel_von_einzbern -> fate_(series)
+?fairy_(zenless_zone_zero) -> zenless_zone_zero
+?shun_(swimsuit)_(blue_archive) -> blue_archive
