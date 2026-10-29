@@ -4358,3 +4358,14 @@
 ?linde_(fire_emblem) -> fire_emblem
 ?kaveh_(genshin_impact) -> genshin_impact
 ?tigress_(kung_fu_panda) -> kung_fu_panda
+?ange_katrina_(lab_coat) -> nijisanji
+?ange_katrina_(party_dress) -> nijisanji
+?ange_katrina_(summer_casual) -> nijisanji
+?aisaki_emiru -> precure
+?cure_macherie -> precure
+?matsuno_karamatsu -> osomatsu_(series)
+?kenneth_sleg -> gundam
+?nefer's_shade_(genshin_impact) -> genshin_impact
+?sonidori_rioh -> medalist_(manga)
+?akechi_anna -> precure
+?akechi_anna_(civilian) -> precure
