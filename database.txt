@@ -4603,3 +4603,13 @@
 ?regigigas -> pokemon
 ?urakaze_(kancolle) -> kantai_collection
 ?vivian_banshee_(iris_of_the_shore) -> zenless_zone_zero
+?white_dragon_(kemono_friends) -> kemono_friends
+?kagura_hikari -> shoujo_kageki_revue_starlight
+?gaming_(genshin_impact) -> genshin_impact
+?kirara_(cat)_(genshin_impact) -> genshin_impact
+?kirara_(genshin_impact) -> genshin_impact
+?yumemizuki_mizuki -> genshin_impact
+?dracomon_x-antibody -> digimon
+?guilmon -> digimon
+?cure_answer -> precure
+?latias_(human)_(pokemon_adventures) -> pokemon
