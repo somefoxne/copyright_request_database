@@ -4859,3 +4859,8 @@
 ?yoshii_sari -> hibike!_euphonium
 ?nagase_reiko -> ridge_racer
 ?rusk_(komado_booth) -> vrchat
+?oosawa_fusatarou -> golden_kamuy
+?hariya_kaho -> hibike!_euphonium
+?kamiishi_yayoi -> hibike!_euphonium
+?sweet_diagnosis_(infinity_nikki) -> nikki_(series)
+?35p_(sakura_miko) -> hololive
