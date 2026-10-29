@@ -4454,3 +4454,10 @@
 ?inkling_boy -> splatoon_(series)
 ?mars_(cookie) -> touhou
 ?slay_star_sombra -> overwatch
+?kurosu_aroma -> pretty_series
+?shiratama_mikan -> pretty_series
+?tenkajin_chiyari -> touhou
+?super_creek_(chiffon-wrapped_mummy)_(umamusume) -> umamusume
+?tosen_jordan_(aurore_vacances)_(umamusume) -> umamusume
+?ange_katrina_(loungewear) -> nijisanji
+?hinaichigo -> rozen_maiden
