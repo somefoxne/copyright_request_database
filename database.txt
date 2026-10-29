@@ -4346,3 +4346,15 @@
 ?azura_(fire_emblem) -> fire_emblem
 ?lincoln_loud -> the_loud_house
 ?peni_parker -> marvel
+?shidare_hotaru -> dagashi_kashi
+?tsukishima_yui_(hachigatsu_no_cinderella_nine) -> cinderella_series
+?medowlyn_(petit_planet) -> petit_planet
+?chougei_(kancolle) -> kantai_collection
+?eric_cartman -> south_park
+?kenny_mccormick -> south_park
+?star_butterfly -> star_vs_the_forces_of_evil
+?boros_(ouro_kronii) -> hololive
+?kronie_(ouro_kronii) -> hololive
+?linde_(fire_emblem) -> fire_emblem
+?kaveh_(genshin_impact) -> genshin_impact
+?tigress_(kung_fu_panda) -> kung_fu_panda
