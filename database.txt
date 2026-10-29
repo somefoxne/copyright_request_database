@@ -4731,3 +4731,11 @@
 ?dogenzaka_runa -> persona
 ?howler_(p5x) -> persona
 ?yui_(p5x) -> persona
+?asirpa -> golden_kamuy
+?sugimoto_saichi -> golden_kamuy
+?wilk_(golden_kamuy) -> golden_kamuy
+?applejack -> my_little_pony
+?bullseye_(toy_story) -> toy_story
+?jessie_the_yodeling_cowgirl -> toy_story
+?kama_(fate) -> fate_(series)
+?kama_(teenager)_(fate) -> fate_(series)
