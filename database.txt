@@ -4904,3 +4904,12 @@
 ?mom_(hayashi_ko) -> original
 ?kagamine_len_(vocaloid4) -> vocaloid
 ?kagamine_rin_(vocaloid4) -> vocaloid
+?a.c._eos_(mega_man) -> mega_man_(series)
+?queen_tia_(mega_man) -> mega_man_(series)
+?kirara_(phantom_in_boots)_(genshin_impact) -> genshin_impact
+?natsu_(band)_(blue_archive) -> blue_archive
+?lotte_jansson -> little_witch_academia
+?hisagi_shuuhei -> bleach
+?kuroe_mayu -> hibike!_euphonium
+?higashikata_josuke_(jojolion) -> jojo_no_kimyou_na_bouken
+?kagari_atsuko -> little_witch_academia
