@@ -4623,3 +4623,8 @@
 ?flamon -> digimon
 ?takino_jun'ichi -> hibike!_euphonium
 ?furutaka_(kancolle) -> kantai_collection
+?dukemon -> digimon
+?murasaki_shion_(8th_costume) -> hololive
+?shiokko_(murasaki_shion) -> hololive
+?lilimon -> digimon
+?filia_(skullgirls) -> skullgirls
