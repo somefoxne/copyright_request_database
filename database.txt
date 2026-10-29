@@ -4756,3 +4756,9 @@
 ?wakaba_hinata -> justice_gakuen
 ?arashi_chisato -> love_live!
 ?shizuku_(nige_jouzu_no_wakagimi) -> nige_jouzu_no_wakagimi
+?mary_jane_watson -> marvel
+?laevatein_(nanoha) -> lyrical_nanoha
+?laevatein_(schwertform)_(nanoha) -> lyrical_nanoha
+?vita_(honkai_impact) -> honkai_(series)
+?momose_ginko_(dreamy_parlor!) -> love_live!
+?otomune_kozue_(post-graduation_casual) -> love_live!
