@@ -4520,3 +4520,9 @@
 ?fusaichi_pandora_(casual)_(umamusume) -> umamusume
 ?koyomi_(kamen_rider_wizard) -> kamen_rider
 ?souma_haruto -> kamen_rider
+?spring_waltz_(nikki) -> nikki_(series)
+?chuntuan_(roco_kingdom:_world) -> roco_kingdom
+?mila_(fire_emblem) -> fire_emblem
+?aurora_(fire_emblem) -> fire_emblem
+?medicine_pocket -> reverse:1999
+?stunning_beauty_(miracle_nikki) -> nikki_(series)
