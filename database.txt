@@ -4244,3 +4244,4 @@
 ?yumeno_himiko -> danganronpa_(series)
 ?susie_(church_clothes)_(deltarune) -> utdr_(toby_fox)
 ?kurotsuchi_nemu -> bleach
+?hoto_cocoa -> gochuumon_wa_usagi_desu_ka?
