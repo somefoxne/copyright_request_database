@@ -4801,3 +4801,10 @@
 ?silvia_(trickcal) -> trickcal
 ?burnice_white -> zenless_zone_zero
 ?katsuragi_lilja -> idolmaster
+?charles_barkley -> real_life
+?geara_doga -> gundam
+?p-head_producer -> idolmaster
+?nerissa_ravencroft_(summer) -> hololive
+?miko_fox_girl_(kotatsu-mazoku) -> original
+?chiyoda_momo -> machikado_mazoku
+?yoshida_yuuko -> machikado_mazoku
