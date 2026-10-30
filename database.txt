@@ -12,3 +12,4 @@
 ?ayane_(blue_archive) -> blue_archive blue_archive_the_animation vocaloid egyptian_mythology ediya_coffee irasutoya original pokemon jojo_no_kimyou_na_bouken jujutsu_kaisen
 ?nagisa_(blue_archive) -> blue_archive blue_archive_the_animation vocaloid comiket_106 comiket_108 sousou_no_frieren bloodborne comiket_107 pokemon warhammer_40k
 ?nagisa_(swimsuit)_(blue_archive) -> blue_archive comiket_106 chainsaw_man pokemon comiket_108 initial_d white_chicks a_thousand_miles touhou arknights
+?kal'tsit_(arknights) -> arknights project_moon limbus_company ambience_synesthesia arknights:_endfield xiong_xiaobai rainbow_six_siege miniso original
