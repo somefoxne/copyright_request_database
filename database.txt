@@ -11,3 +11,4 @@
 ?shirakami_fubuki_(1st_costume) -> hololive hololive_english hololive_alternative pokemon hololive_indonesia twitter holoearth_chronicles indie_virtual_youtuber hololive_dev_is touhou
 ?ayane_(blue_archive) -> blue_archive blue_archive_the_animation vocaloid egyptian_mythology ediya_coffee irasutoya original pokemon jojo_no_kimyou_na_bouken jujutsu_kaisen
 ?nagisa_(blue_archive) -> blue_archive blue_archive_the_animation vocaloid comiket_106 comiket_108 sousou_no_frieren bloodborne comiket_107 pokemon warhammer_40k
+?nagisa_(swimsuit)_(blue_archive) -> blue_archive comiket_106 chainsaw_man pokemon comiket_108 initial_d white_chicks a_thousand_miles touhou arknights
