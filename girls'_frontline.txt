@@ -152,7 +152,7 @@ sterling_(girls'_frontline) -> girls'_frontline
 erma_(girls'_frontline) -> girls'_frontline  
 jatimatic_(girls'_frontline) -> girls'_frontline  
 type_82_(girls'_frontline) -> girls'_frontline  
-agent_vector_(girls'_frontline) -> tom_clancy's_the_division  
+agent_vector_(girls'_frontline) -> girls'_frontline 
 svt-38_(girls'_frontline) -> girls'_frontline  
 g43_(girls'_frontline) -> girls'_frontline  
 fn-49_(girls'_frontline) -> girls'_frontline  
@@ -328,7 +328,7 @@ mk.18_(girls'_frontline) -> girls'_frontline
 ia2_(girls'_frontline) -> girls'_frontline  
 ef88_(girls'_frontline) -> girls'_frontline  
 lr-300_(girls'_frontline) -> girls'_frontline  
-agent_416_(girls'_frontline) -> tom_clancy's_the_division  
+agent_416_(girls'_frontline) -> girls'_frontline  
 mg34_(girls'_frontline) -> girls'_frontline  
 dp28_(girls'_frontline) -> girls'_frontline  
 aat-52_(girls'_frontline) -> girls'_frontline  
