@@ -31,3 +31,4 @@
 ?ookami_mio_(hoodie) -> hololive hololive_english hololive_indonesia hololive_dev_is original pokemon street_fighter splatoon_(series) street_fighter_6 indie_virtual_youtuber
 ?houshou_marine -> hololive hololive_english hololive_dev_is hololive_indonesia how_about_paipai_mask?_(houshou_marine) indie_virtual_youtuber nijisanji iii_(hololive) aquarium_(visual_novel) mahou_shoujo_holowitch!
 ?houshou_marine_(1st_costume) -> hololive hololive_english hololive_indonesia nijisanji hololive_dev_is indie_virtual_youtuber original touhou
+?taiga_(ookami_mio) -> hololive umamusume hololive_english mario_(series) paper_mario_(series) paper_mario:_the_origami_king getting_over_it
