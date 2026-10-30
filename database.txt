@@ -23,3 +23,4 @@
 ?shirakami_fubuki_(loungewear) -> hololive fbkingdom_story jujutsu_kaisen buckshot_roulette pokemon hololive_english initial_d hololive_dev_is tokidoki_bosotto_roshia-go_de_dereru_tonari_no_alya-san fall_guys
 ?rossweisse_(chaos_zero_nightmare) -> chaos_zero_nightmare
 ?oozora_subaru -> hololive hololive_english indie_virtual_youtuber hololive_indonesia hololive_dev_is hololive_grand_theft_auto nijisanji minecraft hololive_dreams pokemon
+?mika_(blue_archive) -> blue_archive blue_archive_the_animation comiket_106 goddess_of_victory:_nikke pokemon comiket_107 comiket_104 comiket_108 comiket_103 umamusume
