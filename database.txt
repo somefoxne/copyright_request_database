@@ -15,3 +15,4 @@
 ?kal'tsit_(arknights) -> arknights project_moon limbus_company ambience_synesthesia arknights:_endfield xiong_xiaobai rainbow_six_siege miniso original
 ?mon3tr_(arknights) -> arknights ambience_synesthesia arknights:_endfield project_moon limbus_company miniso final_fantasy xiong_xiaobai pokemon bang_dream!
 ?wakamo_(blue_archive) -> blue_archive comiket_103 fate_(series) blue_archive_the_animation fate/grand_order azur_lane vocaloid fate/extra kamen_rider path_to_nowhere
+?kroos_(arknights) -> arknights monster_hunter_(series) rainbow_six_siege jojo_no_kimyou_na_bouken yu-gi-oh! bilibili a_deer_of_nine_colors pokemon yu-gi-oh!_duel_monsters
