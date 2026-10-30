@@ -7,3 +7,4 @@
 ?ookami_mio -> hololive hololive_english hololive_indonesia hololive_dev_is hololive_dreams hololive_alternative hololive_grand_theft_auto azur_lane indie_virtual_youtuber minecraft
 ?ookami_mio_(another_ookami_mio) -> hololive buckshot_roulette hololive_official_card_game hololive_english nintendo
 ?koharu_(blue_archive) -> blue_archive jujutsu_kaisen original comiket_103 vocaloid arknights twitter comiket_106 blue_archive_the_animation fate_(series)
+?kurokami_fubuki -> hololive fbkingdom_story rabbit_hole_(vocaloid) fall_guys pokemon zenless_zone_zero vocaloid marvel coca-cola backrooms_(creepypasta)
