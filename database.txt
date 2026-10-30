@@ -6,3 +6,4 @@
 ?yuuka_(blue_archive) -> blue_archive blue_archive_the_animation kamen_rider pokemon vocaloid comiket_107 comiket_104 original idolmaster jujutsu_kaisen
 ?ookami_mio -> hololive hololive_english hololive_indonesia hololive_dev_is hololive_dreams hololive_alternative hololive_grand_theft_auto azur_lane indie_virtual_youtuber minecraft
 ?ookami_mio_(another_ookami_mio) -> hololive buckshot_roulette hololive_official_card_game hololive_english nintendo
+?koharu_(blue_archive) -> blue_archive jujutsu_kaisen original comiket_103 vocaloid arknights twitter comiket_106 blue_archive_the_animation fate_(series)
