@@ -28,3 +28,4 @@
 ?konjiki_no_yami -> to_love-ru to_love-ru_darkness azur_lane senran_kagura dolphin_wave senran_kagura_new_link kantai_collection megami_magazine to_love-ru_darkness_2nd lyrical_nanoha
 ?rossi_(arknights) -> arknights arknights:_endfield hololive little_red_riding_hood_(fairy_tale) hololive_english blue_archive pokemon jojo_no_kimyou_na_bouken black_souls original
 ?hanako_(blue_archive) -> blue_archive comiket_105 jujutsu_kaisen vocaloid project_moon kamen_rider blue_archive_the_animation fate_(series) honkai_(series) goddess_of_victory:_nikke
+?ookami_mio_(hoodie) -> hololive hololive_english hololive_indonesia hololive_dev_is original pokemon street_fighter splatoon_(series) street_fighter_6 indie_virtual_youtuber
