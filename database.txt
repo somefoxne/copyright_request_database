@@ -18,3 +18,4 @@
 ?kroos_(arknights) -> arknights monster_hunter_(series) rainbow_six_siege jojo_no_kimyou_na_bouken yu-gi-oh! bilibili a_deer_of_nine_colors pokemon yu-gi-oh!_duel_monsters
 ?kroos_the_keen_glint_(arknights) -> arknights monster_hunter_(series) ambience_synesthesia final_fantasy final_fantasy_xiv cyberpunk_(series) the_legend_of_luo_xiaohei rainbow_six_siege blue_archive pokemon
 ?mr._nothing_(arknights) -> arknights ambience_synesthesia monster_hunter_(series) rainbow_six_siege a_deer_of_nine_colors the_legend_of_luo_xiaohei final_fantasy final_fantasy_xiv cyberpunk_(series) avatar_legends
+?miofa_(ookami_mio) -> hololive hololive_english hololive_dreams hololive_indonesia hololive_official_card_game dotta_batta_chindochu! pokemon minecraft familymart cult_of_the_lamb
